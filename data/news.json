@@ -1,102 +1,147 @@
 {
-  "lastUpdated": "2026-08-12T17:01:58.010Z",
+  "lastUpdated": "2026-08-12T17:11:52.190Z",
   "ticker": [
-    "Tata Sons Chairman N. Chandrasekaran to step down in Feb 2027",
-    "India says border peace critical to ties with China",
-    "Overnight Ukrainian blitz damages Russia's Black Sea naval stronghold",
-    "OPEC further lowers 2026 global oil demand growth forecast",
-    "US Treasury sets new Trump Account paycheck rules after Dell donation"
+    "Tata Sons Chairman N. Chandrasekaran Resigns",
+    "Ukraine Blitz Damages Russian Naval Stronghold",
+    "India and China Discuss Border Peace",
+    "OPEC Lowers 2026 Global Oil Demand",
+    "US Treasury Sets Trump Account Rules"
   ],
   "articles": [
     {
-      "headline": "Tata Sons Chairman N. Chandrasekaran to Step Down",
-      "whyItMatters": "Signals major corporate leadership turmoil at India's largest conglomerate and plunges Tata stocks.",
-      "brief": "Tata Sons Chairman N. Chandrasekaran will step down in February 2027 after failing to secure unanimous board support, with dissenting members led by Tata Trusts chairman Noel Tata.",
+      "headline": "Tata Sons Chairman N. Chandrasekaran Resigns",
+      "whyItMatters": "Shakes leadership at India's largest conglomerate amid board tensions.",
+      "brief": "Tata Sons Chairman N. Chandrasekaran will step down in February 2027 following friction with controlling charity trustee Noel Tata, sending Tata shares tumbling.",
       "category": "business",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/w4wxk2/article71335623.ejs/alternates/LANDSCAPE_1200/2026-08-12T063551Z_1825167416_RC2UWT9C3K7K_RTRMADP_3_TATA-SONS-CHAIRMAN.JPG",
       "sourceUrl": "https://www.thehindu.com/business/Industry/tata-sons-chairman-n-chandrasekaran-resignation/article71335293.ece",
-      "dateLocation": "August 12, 2026 | New Delhi, India"
+      "dateLocation": "Aug 12, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Stresses Border Peace as China Tensions Rise",
-      "whyItMatters": "Highlights fragile bilateral relations between nuclear-armed neighbors amid renewed military friction.",
-      "brief": "India stated that maintaining peace along the disputed border is critical to bilateral ties with China, following fresh reports of military tensions in the region.",
+      "headline": "India-China Stress Border Peace Critical",
+      "brief": "New Delhi emphasized that maintaining tranquility along the contested border remains fundamental to bilateral stability amid fresh military tensions in Arunachal.",
+      "whyItMatters": "Maintains critical geopolitical stability across Asian nuclear powers.",
       "category": "politics",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWNGWmx4dVY4QjloM1pZVERMNkxjZFVyc2Zmd1JYWnoySVhyTHpJZHg0YlFsVmZMUnFVd1BXelFwdExFM3QxWENXVFF1YlhwNDFqaVNudzN2OWtPczRBbTRPQ21zUEM1M0w2enMtNWJSc2pwOTI5Wm9FbXZlaFhQbHB1STFBRlBRSVZuTnNEUWJDWGdkSUtWLXZwYXRkRU1KRWlXS2NneGE4SkNXWXpkeXJhQzNPUXZlVDNoakRRMExqOGY3Rnc?oc=5",
-      "dateLocation": "August 12, 2026 | New Delhi, India"
+      "dateLocation": "Aug 12, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ukraine Strikes Russian Black Sea Naval Stronghold",
-      "whyItMatters": "Demonstrates Kyiv's expanding asymmetrical warfare capabilities against vital Russian military infrastructure.",
-      "brief": "An overnight Ukrainian blitz using air and sea drones heavily damaged Russia's Black Sea naval stronghold, further limiting the movements of Moscow's fleet.",
-      "category": "world",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/8uq3md/article71338054.ejs/alternates/LANDSCAPE_1200/2026-08-12T104552Z_1260894944_RC2YWMA18439_RTRMADP_3_UKRAINE-CRISIS-ATTACK-NOVOROSSIYSK.JPG",
-      "sourceUrl": "https://www.thehindu.com/news/international/overnight-ukrainian-blitz-damages-russias-black-sea-naval-stronghold-zelenskyy-says/article71338011.ece",
-      "dateLocation": "August 12, 2026 | Kyiv, Ukraine"
-    },
-    {
-      "headline": "OPEC Lowers 2026 Global Oil Demand Forecast",
-      "whyItMatters": "Reflects cooling global economic momentum and shifting energy consumption trends worldwide.",
-      "brief": "OPEC has further reduced its global oil demand growth projection for 2026, citing persistent macroeconomic headwinds and softer industrial expansion across major economies.",
+      "headline": "OPEC Lowers 2026 Global Oil Demand Growth",
+      "brief": "OPEC has further downgraded its projections for global oil demand growth through 2026, citing macroeconomic headwinds and slowing transition trends.",
+      "whyItMatters": "Signals shifts in global energy consumption and economic growth trajectories.",
       "category": "finance",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGtBOHhHeFZVQ0xfdlpxYWtxd1Y4VUVEMFFFMlUxakNMd29IeThMN1RxeVlEbHJpMk8xN0RzakdZWEZxUWFHOGVDSXNRTEM4WjYzcW13TkVSbHBPT1c5VEdCM1A0cFJNVG5fd19yeDlRLTJNYjJYbjVVN1lLRmtQZk5oMW85MXkwNzBhaHNuQUR1Z0RnbHI4RHduQ3dRdFMyOXdvYzZEUmRkVjV6ZXVZ?oc=5",
-      "dateLocation": "August 12, 2026 | Vienna, Austria"
+      "dateLocation": "Aug 12, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Plans Major Health Insurance Reforms",
-      "whyItMatters": "Aims to curb surging medical expenses and expand financial protection for citizens.",
-      "brief": "India is reportedly drafting comprehensive insurance reforms designed to rein in escalating healthcare costs and establish stricter regulatory oversight on medical service providers.",
-      "category": "finance",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
+      "headline": "India Plans Sweeping Healthcare Insurance Reforms",
+      "brief": "Sources indicate the Indian government is planning major regulatory insurance reforms aimed at reining in spiraling healthcare costs nationwide.",
+      "whyItMatters": "Directly impacts affordability and access to medical care for millions.",
+      "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2x5eDJmd1ZZVS0xMWNiVDlaRTNhWnpNanFEYXZOa0RrLVp0LTJITW1JdU1qUUV0VkJtdWpVTXBCZzE4Uk5yT3ozRXVvcDFTLUhwZThpQThIdXFHcGpsaE9nUzdkTmdSVWJkTmdkdm5HNEFnNTZNUFlSaVQwNzhWVHBlU0dYeDJtNzIwVnJ3dVJfSGIwWEFzM3hyTUdWZWFMdUJXbGlEd0VkZFEzXzNqb3M5SU9wM1k?oc=5",
-      "dateLocation": "August 12, 2026 | New Delhi, India"
+      "dateLocation": "Aug 12, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Treasury Announces Trump Account Payroll Rules",
-      "whyItMatters": "Establishes tax-advantaged savings frameworks following landmark multi-billion dollar private donations.",
-      "brief": "The US Treasury and IRS unveiled proposed regulations allowing pre-tax payroll contributions and employer-matched tax-free funding for dependent child savings accounts.",
-      "category": "finance",
-      "imageUrl": "https://static.toiimg.com/photo/msid-133185028,imgsize-82201.cms",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-his-wife-susan-dells-6-5-billion-donation-department-of-treasury-announces-new-paycheck-rules-for-trump-accounts/articleshow/133184869.cms",
-      "dateLocation": "August 12, 2026 | Washington, D.C., USA"
+      "headline": "Ukraine Blitz Damages Russian Naval Stronghold",
+      "brief": "Ukrainian sea and air drone strikes successfully landed hits on Russia's Black Sea naval stronghold, limiting fleet movements significantly.",
+      "whyItMatters": "Alters strategic naval dominance dynamics in the ongoing regional conflict.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/overnight-ukrainian-blitz-damages-russias-black-sea-naval-stronghold-zelenskyy-says/article71338011.ece",
+      "dateLocation": "Aug 12, 2026 | Kyiv, Ukraine",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Lok Sabha Sends FCRA Amendment Bill to Panel",
-      "whyItMatters": "Eases legislative friction regarding foreign funding regulations for minority and civil society groups.",
-      "brief": "The Lok Sabha adopted a motion to refer the Foreign Contribution Regulation Amendment Bill, 2026, to a Joint Parliamentary Committee following intense appeals.",
-      "category": "politics",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/cjoilq/article71338052.ejs/alternates/LANDSCAPE_1200/PTI08_07_2026_000099A.jpg",
-      "sourceUrl": "https://www.thehindu.com/news/national/centre-softens-stance-on-fcra-bill-following-appeals-by-minority-groups/article71337440.ece",
-      "dateLocation": "August 12, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Google Unveils Pixel 11 Lineup and AI Hardware",
-      "whyItMatters": "Intensifies high-end smartphone competition with advanced on-device artificial intelligence integration.",
-      "brief": "Google announced its new Pixel 11 series and Pixel Watch 5 at the Made by Google event, emphasizing major hardware redesigns and deep AI assistant capabilities.",
+      "headline": "Google Unveils Pixel 11 and Advanced AI Lineup",
+      "brief": "At its Made by Google event, the tech giant launched the Pixel 11 series, Pixel Watch 5, and heavily integrated advanced on-device generative AI features.",
+      "whyItMatters": "Sets new hardware benchmarks and AI integration standards for mobile tech.",
       "category": "technology",
-      "imageUrl": "https://static.toiimg.com/photo/msid-133185501,imgsize-721136.cms",
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/everything-announced-at-made-by-google-2026-pixel-11-phones-pixel-watch-5-and-a-lot-more-ai/articleshow/133185240.cms",
-      "dateLocation": "August 12, 2026 | Mountain View, USA"
+      "dateLocation": "Aug 12, 2026 | Tech News",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "NRI Dollar Inflows Drive Bank Deposits to Record High",
-      "whyItMatters": "Bolsters India's foreign exchange reserves and reflects strong macroeconomic confidence among diaspora investors.",
-      "brief": "Non-Resident Indian dollar inflows surpassed $37 billion, propelling bank deposit growth to a decade-high trajectory amid favorable yield differentials.",
+      "brief": "Non-Resident Indian dollar inflows have surged past $37 billion, propelling Indian bank deposit growth rates to a ten-year high.",
+      "whyItMatters": "Bolsters foreign exchange reserves and domestic banking liquidity across India.",
       "category": "finance",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/bank-deposits-hit-decade-high-growth-as-nri-dollar-inflows-cross-37-billion/articleshow/133188027.cms",
-      "dateLocation": "August 12, 2026 | Mumbai, India"
+      "dateLocation": "Aug 12, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Signals Extended Conflict Until Trump Departs",
-      "whyItMatters": "Hardens geopolitical fault lines in the Middle East with long-term security implications.",
-      "brief": "Tehran officials signaled that ongoing regional tensions and conflict postures could persist for years, directly linking hostilities to US leadership.",
+      "headline": "Lok Sabha Sends FCRA Bill to Joint Committee",
+      "brief": "The Indian government softened its stance following minority group appeals, sending the Foreign Contribution Regulation Amendment Bill to a parliamentary panel.",
+      "whyItMatters": "Modifies regulatory oversight over foreign funding for NGOs and religious entities.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/centre-softens-stance-on-fcra-bill-following-appeals-by-minority-groups/article71337440.ece",
+      "dateLocation": "Aug 12, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Treasury Announces Trump Account Payroll Rules",
+      "brief": "New IRS and Treasury guidelines allow tax-free employer and pre-tax employee payroll contributions toward child savings Trump Accounts.",
+      "whyItMatters": "Introduces novel federal savings frameworks backed by major private donations.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-his-wife-susan-dells-6-5-billion-donation-department-of-treasury-announces-new-paycheck-rules-for-trump-accounts/articleshow/133184869.cms",
+      "dateLocation": "Aug 12, 2026 | Washington, DC",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Massive Oil Spill Threatens Oman Coastline",
+      "brief": "Environmental agencies and local authorities are rushing to contain a huge oil slick hitting Oman's shoreline, warning of an impending ecological disaster.",
+      "whyItMatters": "Poses severe risks to regional marine biodiversity and coastal economic ecosystems.",
       "category": "world",
-      "imageUrl": "https://static.toiimg.com/photo/msid-133186970,imgsize-955702.cms",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/until-trump-is-out-iran-signals-war-could-stretch-for-years/articleshow/133186882.cms",
-      "dateLocation": "August 12, 2026 | Tehran, Iran"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
+      "dateLocation": "Aug 12, 2026 | Muscat, Oman",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Implements Employee Friction SOS Email",
+      "brief": "OpenAI has set up a confidential communication channel allowing employees to report grievances directly to top executives, mirroring internal corporate models.",
+      "whyItMatters": "Highlights internal governance and worker communication structures within leading AI labs.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/openai-has-a-secret-friction-email-that-lets-employees-complain-directly-to-sam-altman-and-top-bosses-and-it-has-a-surprising-jeff-bezos-amazon-connection/articleshow/133188095.cms",
+      "dateLocation": "Aug 12, 2026 | San Francisco, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Monsoon Floods Damage 143 km of Indian Highways",
+      "brief": "Severe monsoon conditions have severely damaged highway stretches across 20 states, contributing to over 32,000 road fatalities in the country this year.",
+      "whyItMatters": "Exposes infrastructure vulnerabilities and escalating safety crises during extreme weather seasons.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/monsoon-damages-143-km-national-highway-stretches-20-states-32000-nh-road-deaths-2026-expressway-himachal-pradesh-india-11786544672173.html",
+      "dateLocation": "Aug 12, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maharashtra FDA Suspends Outlets Over Safety Violations",
+      "brief": "The Maharashtra FDA has suspended business licenses for several major food chain outlets, including Domino's, following comprehensive hygiene inspections.",
+      "whyItMatters": "Reinforces consumer health protection standards across commercial food franchises.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-fda-suspends-licences-of-4-outlets-of-leading-pizza-chain-over-food-safety-violations/articleshow/133187057.cms",
+      "dateLocation": "Aug 12, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Kia Motors Plans Major Plant Expansion in India",
+      "brief": "Kia is scaling up manufacturing operations with a plant expansion strategy targeting 410,000 units annually by 2030 amidst surging domestic EV and car sales.",
+      "whyItMatters": "Reflects robust domestic vehicle demand and automotive sector investments.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-plans-india-plant-expansion-as-sales-surge-aims-410000-units-by-2030/articleshow/133187811.cms",
+      "dateLocation": "Aug 12, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ashish Yadav Seeks Employment Despite Medals",
+      "brief": "World U-20 javelin silver medallist Ashish Yadav struggles with financial hardship and job scarcity while continuing elite athletic training.",
+      "whyItMatters": "Exposes the persistent challenges faced by grassroots sports talents in professionalizing careers.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/i-feel-bad-when-father-sells-milk-javelin-medallist-says-searching-for-job/articleshow/133184703.cms",
+      "dateLocation": "Aug 12, 2026 | Mirzapur, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
