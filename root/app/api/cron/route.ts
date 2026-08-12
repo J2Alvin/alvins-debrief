@@ -7,13 +7,14 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 
 const parser = new Parser({
   headers: {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "User-Agent":
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    Accept: "application/rss+xml, application/xml, text/xml, */*",
   },
   timeout: 10000,
 });
 
-// Feeds using Google News RSS fallbacks for sources that block cloud scrapers
+// Feeds using Google News RSS fallbacks for sources that block direct server scraping
 const FEEDS = [
   "https://news.google.com/rss/search?q=site:reuters.com&hl=en-IN&gl=IN&ceid=IN:en",
   "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -54,8 +55,7 @@ export async function GET(request: Request) {
       throw new Error("Failed to fetch articles from all RSS sources.");
     }
 
-    // Using gemini-1.5-flash-latest to resolve model endpoint resolution issues
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
     const prompt = `
     You are an executive news editor filtering news for Alvin's Debrief.
@@ -105,12 +105,17 @@ export async function GET(request: Request) {
 
     fs.writeFileSync(filePath, JSON.stringify(parsedData, null, 2), "utf-8");
 
-    return new Response(JSON.stringify({ success: true, count: parsedData.articles.length }), {
-      status: 200,
-      headers: { "Content-Type": "application/json" },
-    });
+    return new Response(
+      JSON.stringify({ success: true, count: parsedData.articles.length }),
+      {
+        status: 200,
+        headers: { "Content-Type": "application/json" },
+      }
+    );
   } catch (error: any) {
     console.error("Cron Error:", error.message);
-    return new Response(JSON.stringify({ error: error.message }), { status: 500 });
+    return new Response(JSON.stringify({ error: error.message }), {
+      status: 500,
+    });
   }
 }
