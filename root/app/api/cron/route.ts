@@ -23,8 +23,17 @@ const parser = new Parser({
   timeout: 5000,
 });
 
-const FALLBACK_IMAGE =
-  "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&auto=format&fit=crop";
+// Curated Unsplash images mapped by article category
+const UNSPLASH_FALLBACKS: Record<string, string> = {
+  technology: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop",
+  finance: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
+  politics: "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop",
+  business: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop",
+  sports: "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop",
+  health: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop",
+  world: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop",
+  general: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop",
+};
 
 // Extracts images instantly from RSS structure without external fetching
 function extractImageFromRssItem(item: any): string | null {
@@ -41,43 +50,6 @@ function extractImageFromRssItem(item: any): string | null {
   const imgMatch = htmlContent.match(/<img[^>]+src=["']([^"']+)["']/i);
   if (imgMatch && imgMatch[1]) return imgMatch[1];
   return null;
-}
-
-// Fallback HTML scraper for when the XML lacks an image
-async function fetchOgImage(url: string): Promise<string | null> {
-  try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 3000); // reduced to 3s to prevent timeouts
-    const res = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      },
-    });
-    clearTimeout(timeoutId);
-    if (!res.ok) return null;
-
-    const html = await res.text();
-    const patterns = [
-      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
-      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
-      /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i,
-      /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i,
-    ];
-
-    for (const pattern of patterns) {
-      const match = html.match(pattern);
-      if (match && match[1]) {
-        let img = match[1].trim();
-        if (img.startsWith("//")) img = "https:" + img;
-        return img;
-      }
-    }
-    return null;
-  } catch {
-    return null;
-  }
 }
 
 export async function GET(request: Request) {
@@ -124,6 +96,7 @@ export async function GET(request: Request) {
        - "headline": Max 10 words.
        - "whyItMatters": One line, strictly 20 words or less, explaining the significance/impact of this story to an informed reader.
        - "brief": Short summary, strictly 50 words or less.
+       - "category": Choose strictly ONE from: "technology", "finance", "politics", "business", "sports", "health", "world", or "general".
        - "imageUrl": Keep the exact "imageUrl" provided in the input raw item. Leave empty if missing.
        - "sourceUrl": Exact original article link provided in input.
        - "dateLocation": Format strictly as "Date | Location/Source" (e.g., "12 Aug 2026 | New Delhi (The Hindu)").
@@ -139,6 +112,7 @@ export async function GET(request: Request) {
           "headline": "...",
           "whyItMatters": "...",
           "brief": "...",
+          "category": "...",
           "imageUrl": "...",
           "sourceUrl": "...",
           "dateLocation": "..."
@@ -155,23 +129,16 @@ export async function GET(request: Request) {
 
     const parsedData = JSON.parse(cleanedText);
 
-    // Only scrape missing images, drastically reducing execution time
-    const enrichedArticles = await Promise.all(
-      parsedData.articles.map(async (article: any) => {
-        if (article.imageUrl && article.imageUrl.trim() !== "") {
-          return article; // Image already found via RSS XML
-        }
-        
-        const targetUrl = article.sourceUrl || "";
-        if (!targetUrl) return { ...article, imageUrl: FALLBACK_IMAGE };
-
-        const scrapedImage = await fetchOgImage(targetUrl);
-        return { ...article, imageUrl: scrapedImage || FALLBACK_IMAGE };
-      })
-    );
+    // Map missing images instantly using the Gemini-assigned category
+    parsedData.articles = parsedData.articles.map((article: any) => {
+      if (article.imageUrl && article.imageUrl.trim() !== "") {
+        return article; // Keep original RSS image
+      }
+      
+      const fallbackUrl = UNSPLASH_FALLBACKS[article.category] || UNSPLASH_FALLBACKS.general;
+      return { ...article, imageUrl: fallbackUrl };
+    });
     
-    parsedData.articles = enrichedArticles;
-
     const filePath = path.join(process.cwd(), "data", "news.json");
     const dir = path.dirname(filePath);
     if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
