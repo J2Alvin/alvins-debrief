@@ -111,18 +111,18 @@ export default function Home() {
                 </div>
 
                 {/* Headline (<=10 words) */}
-                <h2 className="font-serif font-bold text-2xl leading-tight mb-1 group-hover:text-[#CC0000] transition-colors">
+                <h2 className="font-serif font-bold text-2xl leading-tight mb-2 group-hover:text-[#CC0000] transition-colors">
                   {item.headline}
                 </h2>
 
-                {/* Why It Matters (<=20 words) */}
-                <p className="font-mono text-[11px] uppercase tracking-wide text-[#CC0000] mb-3">
-                  {item.whyItMatters}
+                {/* Short Brief (<=50 words) */}
+                <p className="font-body text-sm leading-relaxed mb-2 text-neutral-800">
+                  {item.brief}
                 </p>
 
-                {/* Short Brief (<=50 words) */}
-                <p className="font-body text-sm leading-relaxed mb-6 text-neutral-800 flex-grow">
-                  {item.brief}
+                {/* Why It Matters (<=20 words) */}
+                <p className="font-body text-xs italic text-[#CC0000] mb-6 flex-grow">
+                  {item.whyItMatters}
                 </p>
 
                 {/* End with Date/Location of Source */}
