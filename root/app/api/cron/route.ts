@@ -2,7 +2,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import Parser from "rss-parser";
 import fs from "fs";
 import path from "path";
-import { FEEDS } from "@/config/feeds";
+import { FEEDS } from "../../../config/feeds";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 
