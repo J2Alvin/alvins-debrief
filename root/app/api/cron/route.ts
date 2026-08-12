@@ -5,7 +5,6 @@ import path from "path";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 
-// Configure parser with standard browser User-Agent to bypass bot blocking
 const parser = new Parser({
   headers: {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -14,9 +13,9 @@ const parser = new Parser({
   timeout: 10000,
 });
 
-// Highly reliable working RSS endpoints
+// Feeds using Google News RSS fallbacks for sources that block cloud scrapers
 const FEEDS = [
-  "https://news.google.com/rss/search?q=site:reuters.com&hl=en-IN&gl=IN&ceid=IN:en", // Reuters via Google RSS
+  "https://news.google.com/rss/search?q=site:reuters.com&hl=en-IN&gl=IN&ceid=IN:en",
   "https://www.thehindu.com/news/national/feeder/default.rss",
   "https://www.livemint.com/rss/news",
   "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
@@ -24,7 +23,7 @@ const FEEDS = [
   "https://feeds.bbci.co.uk/news/rss.xml",
   "http://rss.cnn.com/rss/edition.rss",
   "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-  "https://thewire.in/rss",
+  "https://news.google.com/rss/search?q=site:thewire.in&hl=en-IN&gl=IN&ceid=IN:en",
 ];
 
 export async function GET(request: Request) {
@@ -55,8 +54,8 @@ export async function GET(request: Request) {
       throw new Error("Failed to fetch articles from all RSS sources.");
     }
 
-    // Call cheapest Gemini model: gemini-1.5-flash
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    // Using gemini-1.5-flash-latest to resolve model endpoint resolution issues
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
 
     const prompt = `
     You are an executive news editor filtering news for Alvin's Debrief.
@@ -100,7 +99,6 @@ export async function GET(request: Request) {
 
     const parsedData = JSON.parse(cleanedText);
 
-    // Overwrite single JSON file
     const filePath = path.join(process.cwd(), "data", "news.json");
     const dir = path.dirname(filePath);
     if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
