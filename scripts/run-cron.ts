@@ -71,7 +71,7 @@ async function runCron() {
 
     if (rawItems.length === 0) throw new Error("No articles fetched.");
 
-    const model = genAI.getGenerativeModel({ model: "gemini-3.5-flash" });
+    const model = genAI.getGenerativeModel({ model: "gemini-3.5-flash-lite" });
     const prompt = `
     You are an executive news editor filtering news for Alvin's Debrief.
     Raw scraped articles: ${JSON.stringify(rawItems.slice(0, 15))}
