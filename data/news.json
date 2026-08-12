@@ -1,93 +1,102 @@
 {
-  "lastUpdated": "2026-08-12T16:50:09.046Z",
+  "lastUpdated": "2026-08-12T17:01:58.010Z",
   "ticker": [
-    "Tata Sons Chairman N. Chandrasekaran Resigns",
-    "Iran Had Detailed Intel on Trump Stay",
-    "India Stresses Border Peace with China",
-    "Maharashtra FDA Suspends Domino's Outlets",
-    "Air India Pilot Tested Positive for Marijuana"
+    "Tata Sons Chairman N. Chandrasekaran to step down in Feb 2027",
+    "India says border peace critical to ties with China",
+    "Overnight Ukrainian blitz damages Russia's Black Sea naval stronghold",
+    "OPEC further lowers 2026 global oil demand growth forecast",
+    "US Treasury sets new Trump Account paycheck rules after Dell donation"
   ],
   "articles": [
     {
-      "headline": "Tata Sons Chairman N. Chandrasekaran Resigns",
-      "whyItMatters": "Triggers leadership transition and stock volatility at India's largest conglomerate.",
-      "brief": "Tata Sons chairman N. Chandrasekaran will step down in February 2027 following board disputes over his term extension. A six-member panel has been established to find his successor, causing Tata stocks to plunge.",
+      "headline": "Tata Sons Chairman N. Chandrasekaran to Step Down",
+      "whyItMatters": "Signals major corporate leadership turmoil at India's largest conglomerate and plunges Tata stocks.",
+      "brief": "Tata Sons Chairman N. Chandrasekaran will step down in February 2027 after failing to secure unanimous board support, with dissenting members led by Tata Trusts chairman Noel Tata.",
       "category": "business",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/w4wxk2/article71335623.ece/alternates/LANDSCAPE_1200/2026-08-12T063551Z_1825167416_RC2UWT9C3K7K_RTRMADP_3_TATA-SONS-CHAIRMAN.JPG",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/w4wxk2/article71335623.ejs/alternates/LANDSCAPE_1200/2026-08-12T063551Z_1825167416_RC2UWT9C3K7K_RTRMADP_3_TATA-SONS-CHAIRMAN.JPG",
       "sourceUrl": "https://www.thehindu.com/business/Industry/tata-sons-chairman-n-chandrasekaran-resignation/article71335293.ece",
-      "dateLocation": "August 12, 2026 | Mumbai, India"
+      "dateLocation": "August 12, 2026 | New Delhi, India"
     },
     {
-      "headline": "India Stresses Border Peace with China Amid Military Tensions",
-      "whyItMatters": "Bilateral stability relies directly on resolving disputed Himalayan border frictions.",
-      "brief": "India reaffirmed that maintaining peace along the disputed border is critical for normalizing relations with China, amidst ongoing reports of heightened military tensions in the region.",
+      "headline": "India Stresses Border Peace as China Tensions Rise",
+      "whyItMatters": "Highlights fragile bilateral relations between nuclear-armed neighbors amid renewed military friction.",
+      "brief": "India stated that maintaining peace along the disputed border is critical to bilateral ties with China, following fresh reports of military tensions in the region.",
       "category": "politics",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWNGWmx4dVY4QjloM1pZVERMNkxjZFVyc2Zmd1JYWnoySVhyTHpJZHg0YlFsVmZMUnFVd1BXelFwdExFM3QxWENXVFF1YlhwNDFqaVNudzN2OWtPczRBbTRPQ21zUEM1M0w2enMtNWJSc2pwOTI5Wm9FbXZlaFhQbHB1STFBRlBRSVZuTnNEUWJDWGdkSUtWLXZwYXRkRU1KRWlXS2NneGE4SkNXWXpkeXJhQzNPUXZlVDNoakRRMExqOGY3Rnc?oc=5",
       "dateLocation": "August 12, 2026 | New Delhi, India"
     },
     {
-      "headline": "Iran Had Detailed Intelligence on Trump's Ankara Stay",
-      "whyItMatters": "Highlights severe security vulnerabilities for high-profile international diplomatic visits.",
-      "brief": "Intelligence reports revealed that Iran possessed detailed floor-level information on Donald Trump's stay in Ankara, prompting a covert aircraft switch during his departure from the NATO summit.",
+      "headline": "Ukraine Strikes Russian Black Sea Naval Stronghold",
+      "whyItMatters": "Demonstrates Kyiv's expanding asymmetrical warfare capabilities against vital Russian military infrastructure.",
+      "brief": "An overnight Ukrainian blitz using air and sea drones heavily damaged Russia's Black Sea naval stronghold, further limiting the movements of Moscow's fleet.",
       "category": "world",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/USA-TRUMP-AIR-FORCE-ONE-3_1786552345684_1786552356780_6273aee2-9d4e-4261-b79d-491b3f6567f4.JPG",
-      "sourceUrl": "https://www.livemint.com/news/us-news/iran-had-detailed-intel-on-trump-s-ankara-stay-including-his-floor-report-11786551220502.html",
-      "dateLocation": "August 12, 2026 | Washington, D.C."
+      "imageUrl": "https://th-i.thgim.com/public/incoming/8uq3md/article71338054.ejs/alternates/LANDSCAPE_1200/2026-08-12T104552Z_1260894944_RC2YWMA18439_RTRMADP_3_UKRAINE-CRISIS-ATTACK-NOVOROSSIYSK.JPG",
+      "sourceUrl": "https://www.thehindu.com/news/international/overnight-ukrainian-blitz-damages-russias-black-sea-naval-stronghold-zelenskyy-says/article71338011.ece",
+      "dateLocation": "August 12, 2026 | Kyiv, Ukraine"
     },
     {
-      "headline": "Air India Pilot Grounded After Positive Marijuana Test",
-      "whyItMatters": "Raises acute aviation safety concerns regarding pilot health and drug screening.",
-      "brief": "An Air India pilot operating a Phuket-Delhi flight tested positive for marijuana and reported sleep issues treated with prescription medication to the Aircraft Accident Investigation Bureau.",
-      "category": "health",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/ANI-20260804404-0_1786551532515_1786551541419_74e050e4-c058-4f80-9bc3-ea0e01a3903a.jpg",
-      "sourceUrl": "https://www.livemint.com/news/india/air-india-phuket-delhi-pilot-had-sleep-issues-was-on-medication-before-flight-11786551373903.html",
+      "headline": "OPEC Lowers 2026 Global Oil Demand Forecast",
+      "whyItMatters": "Reflects cooling global economic momentum and shifting energy consumption trends worldwide.",
+      "brief": "OPEC has further reduced its global oil demand growth projection for 2026, citing persistent macroeconomic headwinds and softer industrial expansion across major economies.",
+      "category": "finance",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGtBOHhHeFZVQ0xfdlpxYWtxd1Y4VUVEMFFFMlUxakNMd29IeThMN1RxeVlEbHJpMk8xN0RzakdZWEZxUWFHOGVDSXNRTEM4WjYzcW13TkVSbHBPT1c5VEdCM1A0cFJNVG5fd19yeDlRLTJNYjJYbjVVN1lLRmtQZk5oMW85MXkwNzBhaHNuQUR1Z0RnbHI4RHduQ3dRdFMyOXdvYzZEUmRkVjV6ZXVZ?oc=5",
+      "dateLocation": "August 12, 2026 | Vienna, Austria"
+    },
+    {
+      "headline": "India Plans Major Health Insurance Reforms",
+      "whyItMatters": "Aims to curb surging medical expenses and expand financial protection for citizens.",
+      "brief": "India is reportedly drafting comprehensive insurance reforms designed to rein in escalating healthcare costs and establish stricter regulatory oversight on medical service providers.",
+      "category": "finance",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2x5eDJmd1ZZVS0xMWNiVDlaRTNhWnpNanFEYXZOa0RrLVp0LTJITW1JdU1qUUV0VkJtdWpVTXBCZzE4Uk5yT3ozRXVvcDFTLUhwZThpQThIdXFHcGpsaE9nUzdkTmdSVWJkTmdkdm5HNEFnNTZNUFlSaVQwNzhWVHBlU0dYeDJtNzIwVnJ3dVJfSGIwWEFzM3hyTUdWZWFMdUJXbGlEd0VkZFEzXzNqb3M5SU9wM1k?oc=5",
       "dateLocation": "August 12, 2026 | New Delhi, India"
     },
     {
-      "headline": "Maharashtra FDA Suspends Domino's Outlets Over Hygiene Violations",
-      "whyItMatters": "Enforces stringent food safety and quality control standards across major chains.",
-      "brief": "The Maharashtra FDA suspended food licenses for four Domino's Pizza outlets in Mumbai and Satara following inspections that exposed severe hygiene, storage, and pest control deficiencies.",
-      "category": "business",
-      "imageUrl": "https://static.toiimg.com/photo/msid-133187177,imgsize-78496.cms",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-fda-suspends-licences-of-4-outlets-of-leading-pizza-chain-over-food-safety-violations/articleshow/133187057.cms",
-      "dateLocation": "August 12, 2026 | Mumbai, India"
+      "headline": "US Treasury Announces Trump Account Payroll Rules",
+      "whyItMatters": "Establishes tax-advantaged savings frameworks following landmark multi-billion dollar private donations.",
+      "brief": "The US Treasury and IRS unveiled proposed regulations allowing pre-tax payroll contributions and employer-matched tax-free funding for dependent child savings accounts.",
+      "category": "finance",
+      "imageUrl": "https://static.toiimg.com/photo/msid-133185028,imgsize-82201.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-his-wife-susan-dells-6-5-billion-donation-department-of-treasury-announces-new-paycheck-rules-for-trump-accounts/articleshow/133184869.cms",
+      "dateLocation": "August 12, 2026 | Washington, D.C., USA"
     },
     {
-      "headline": "India's Inflation Outlook Faces Rising Food Price Risks",
-      "whyItMatters": "Threatens central bank monetary policy decisions and broader consumer purchasing power.",
-      "brief": "Economic analysts warn that India's inflation trajectory is likely to trend upward due to lingering risks from volatile food prices, complicating future Reserve Bank of India policy moves.",
+      "headline": "Lok Sabha Sends FCRA Amendment Bill to Panel",
+      "whyItMatters": "Eases legislative friction regarding foreign funding regulations for minority and civil society groups.",
+      "brief": "The Lok Sabha adopted a motion to refer the Foreign Contribution Regulation Amendment Bill, 2026, to a Joint Parliamentary Committee following intense appeals.",
+      "category": "politics",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/cjoilq/article71338052.ejs/alternates/LANDSCAPE_1200/PTI08_07_2026_000099A.jpg",
+      "sourceUrl": "https://www.thehindu.com/news/national/centre-softens-stance-on-fcra-bill-following-appeals-by-minority-groups/article71337440.ece",
+      "dateLocation": "August 12, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "Google Unveils Pixel 11 Lineup and AI Hardware",
+      "whyItMatters": "Intensifies high-end smartphone competition with advanced on-device artificial intelligence integration.",
+      "brief": "Google announced its new Pixel 11 series and Pixel Watch 5 at the Made by Google event, emphasizing major hardware redesigns and deep AI assistant capabilities.",
+      "category": "technology",
+      "imageUrl": "https://static.toiimg.com/photo/msid-133185501,imgsize-721136.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/everything-announced-at-made-by-google-2026-pixel-11-phones-pixel-watch-5-and-a-lot-more-ai/articleshow/133185240.cms",
+      "dateLocation": "August 12, 2026 | Mountain View, USA"
+    },
+    {
+      "headline": "NRI Dollar Inflows Drive Bank Deposits to Record High",
+      "whyItMatters": "Bolsters India's foreign exchange reserves and reflects strong macroeconomic confidence among diaspora investors.",
+      "brief": "Non-Resident Indian dollar inflows surpassed $37 billion, propelling bank deposit growth to a decade-high trajectory amid favorable yield differentials.",
       "category": "finance",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/inflation-likely-to-rise-from-here-as-food-prices-remain-key-risk-experts/articleshow/133185286.cms",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/bank-deposits-hit-decade-high-growth-as-nri-dollar-inflows-cross-37-billion/articleshow/133188027.cms",
       "dateLocation": "August 12, 2026 | Mumbai, India"
     },
     {
-      "headline": "Iran Signals Extended Conflict Duration Under Trump Administration",
-      "whyItMatters": "Dampens hopes for near-term geopolitical de-escalation in the Middle East.",
-      "brief": "Iranian officials have indicated that ongoing regional conflicts could persist for years, openly signaling an unwillingness to compromise until Donald Trump leaves the political stage.",
+      "headline": "Iran Signals Extended Conflict Until Trump Departs",
+      "whyItMatters": "Hardens geopolitical fault lines in the Middle East with long-term security implications.",
+      "brief": "Tehran officials signaled that ongoing regional tensions and conflict postures could persist for years, directly linking hostilities to US leadership.",
       "category": "world",
       "imageUrl": "https://static.toiimg.com/photo/msid-133186970,imgsize-955702.cms",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-signals-war-could-stretch-for-years/articleshow/133186882.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/until-trump-is-out-iran-signals-war-could-stretch-for-years/articleshow/133186882.cms",
       "dateLocation": "August 12, 2026 | Tehran, Iran"
-    },
-    {
-      "headline": "Dead Man Marked Alive for 42 Days in Welfare Portal",
-      "whyItMatters": "Exposes critical administrative glitches within state-backed healthcare database tracking.",
-      "brief": "In Chhattisgarh's Sarguja district, a deceased constable was mistakenly logged as alive for 42 days, with his widow receiving an automated government message congratulating his health recovery.",
-      "category": "general",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/pexels-photo-116157_1786551974061_1786551986093_b27daad6-af48-4cb5-8689-70945f204c5d.jpeg",
-      "sourceUrl": "https://www.livemint.com/news/trends/42-days-after-husband-s-death-wife-comes-to-know-that-he-is-heading-home-ayushman-bharat-declares-him-recovered-11786551460286.html",
-      "dateLocation": "August 12, 2026 | Chhattisgarh, India"
-    },
-    {
-      "headline": "Indian Rupee Nudges Up Amid Central Bank Market Intervention",
-      "whyItMatters": "Demonstrates proactive currency management by monetary authorities against external volatility.",
-      "brief": "The Indian rupee edged slightly higher against the dollar, supported by active intervention from the Reserve Bank of India, as local investors awaited upcoming inflation prints.",
-      "category": "finance",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
-      "dateLocation": "August 12, 2026 | Mumbai, India"
     }
   ]
 }
