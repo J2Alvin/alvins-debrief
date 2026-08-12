@@ -15,6 +15,48 @@ const parser = new Parser({
   timeout: 5000,
 });
 
+const FALLBACK_IMAGE =
+  "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&auto=format&fit=crop";
+
+// Scrapes the real og:image (falls back to twitter:image) from a source article page
+async function fetchOgImage(url: string): Promise<string | null> {
+  try {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 4000);
+
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      },
+    });
+    clearTimeout(timeoutId);
+    if (!res.ok) return null;
+
+    const html = await res.text();
+
+    const patterns = [
+      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
+      /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i,
+    ];
+
+    for (const pattern of patterns) {
+      const match = html.match(pattern);
+      if (match && match[1]) {
+        let img = match[1].trim();
+        if (img.startsWith("//")) img = "https:" + img;
+        return img;
+      }
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}
+
 export async function GET(request: Request) {
   const authHeader = request.headers.get("authorization");
   if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
@@ -54,11 +96,11 @@ export async function GET(request: Request) {
 
     STRICT INSTRUCTIONS:
     1. Filter OUT clickbait, minor news, celebrity gossip, drama, or local fluff. Keep ONLY top stories and major relevant international/national news.
-    2. Output between 9 to 12 top articles total.
+    2. Output between 10 to 15 top articles total.
     3. For EACH article, generate:
        - "headline": Max 10 words.
+       - "whyItMatters": One line, strictly 20 words or less, explaining the significance/impact of this story to an informed reader.
        - "brief": Short summary, strictly 50 words or less.
-       - "imageUrl": Provide a relevant Unsplash news image link (e.g. "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&auto=format&fit=crop").
        - "sourceUrl": Exact original article link provided in input.
        - "dateLocation": Format strictly as "Date | Location/Source" (e.g., "12 Aug 2026 | New Delhi (The Hindu)").
 
@@ -71,8 +113,8 @@ export async function GET(request: Request) {
       "articles": [
         {
           "headline": "...",
+          "whyItMatters": "...",
           "brief": "...",
-          "imageUrl": "...",
           "sourceUrl": "...",
           "dateLocation": "..."
         }
@@ -87,6 +129,15 @@ export async function GET(request: Request) {
       .trim();
 
     const parsedData = JSON.parse(cleanedText);
+
+    // Enrich each article with a real scraped image from its source page
+    const enrichedArticles = await Promise.all(
+      parsedData.articles.map(async (article: any) => {
+        const scrapedImage = await fetchOgImage(article.sourceUrl);
+        return { ...article, imageUrl: scrapedImage || FALLBACK_IMAGE };
+      })
+    );
+    parsedData.articles = enrichedArticles;
 
     const filePath = path.join(process.cwd(), "data", "news.json");
     const dir = path.dirname(filePath);
