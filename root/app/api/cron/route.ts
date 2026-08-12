@@ -119,7 +119,7 @@ export async function GET(request: Request) {
 
     STRICT INSTRUCTIONS:
     1. Filter OUT clickbait, minor news, celebrity gossip, drama, or local fluff. Keep ONLY top stories and major relevant international/national news.
-    2. Output between 10 to 15 top articles total.
+    2. Output between 9 to 12 top articles total.
     3. For EACH article, generate:
        - "headline": Max 10 words.
        - "whyItMatters": One line, strictly 20 words or less, explaining the significance/impact of this story to an informed reader.
