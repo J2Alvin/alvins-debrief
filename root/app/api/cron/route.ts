@@ -4,11 +4,19 @@ import fs from "fs";
 import path from "path";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
-const parser = new Parser();
 
-// 1. RSS Feeds for requested sources: Reuters, The Hindu, Mint, TOI, Economic Times, BBC, CNN, WSJ, The Wire
+// Configure parser with standard browser User-Agent to bypass bot blocking
+const parser = new Parser({
+  headers: {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+  },
+  timeout: 10000,
+});
+
+// Highly reliable working RSS endpoints
 const FEEDS = [
-  "https://www.reutersagency.com/feed/?best-topics=top-news",
+  "https://news.google.com/rss/search?q=site:reuters.com&hl=en-IN&gl=IN&ceid=IN:en", // Reuters via Google RSS
   "https://www.thehindu.com/news/national/feeder/default.rss",
   "https://www.livemint.com/rss/news",
   "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
@@ -41,6 +49,10 @@ export async function GET(request: Request) {
       } catch (err) {
         console.error(`Error fetching feed ${url}`);
       }
+    }
+
+    if (rawItems.length === 0) {
+      throw new Error("Failed to fetch articles from all RSS sources.");
     }
 
     // Call cheapest Gemini model: gemini-1.5-flash
@@ -80,7 +92,12 @@ export async function GET(request: Request) {
     }`;
 
     const response = await model.generateContent(prompt);
-    const cleanedText = response.response.text().replace(/```json|```/g, "").trim();
+    const rawText = response.response.text();
+    const cleanedText = rawText
+      .replace(/```json/gi, "")
+      .replace(/```/g, "")
+      .trim();
+
     const parsedData = JSON.parse(cleanedText);
 
     // Overwrite single JSON file
@@ -95,6 +112,7 @@ export async function GET(request: Request) {
       headers: { "Content-Type": "application/json" },
     });
   } catch (error: any) {
+    console.error("Cron Error:", error.message);
     return new Response(JSON.stringify({ error: error.message }), { status: 500 });
   }
 }
