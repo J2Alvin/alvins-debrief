@@ -2,6 +2,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import Parser from "rss-parser";
 import fs from "fs";
 import path from "path";
+import { FEEDS } from "@/config/feeds";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 
@@ -11,20 +12,8 @@ const parser = new Parser({
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     Accept: "application/rss+xml, application/xml, text/xml, */*",
   },
-  timeout: 5000, // 5s max per individual feed
+  timeout: 5000,
 });
-
-const FEEDS = [
-  "https://news.google.com/rss/search?q=site:reuters.com&hl=en-IN&gl=IN&ceid=IN:en",
-  "https://www.thehindu.com/news/national/feeder/default.rss",
-  "https://www.livemint.com/rss/news",
-  "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-  "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
-  "https://feeds.bbci.co.uk/news/rss.xml",
-  "http://rss.cnn.com/rss/edition.rss",
-  "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-  "https://news.google.com/rss/search?q=site:thewire.in&hl=en-IN&gl=IN&ceid=IN:en",
-];
 
 export async function GET(request: Request) {
   const authHeader = request.headers.get("authorization");
@@ -33,7 +22,7 @@ export async function GET(request: Request) {
   }
 
   try {
-    // Fetch all feeds concurrently in parallel
+    // Fetch all RSS feeds in parallel
     const feedPromises = FEEDS.map((url) => parser.parseURL(url));
     const results = await Promise.allSettled(feedPromises);
 
