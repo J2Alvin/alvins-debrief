@@ -77,7 +77,7 @@ async function runCron() {
     Raw scraped articles: ${JSON.stringify(rawItems.slice(0, 15))}
     STRICT INSTRUCTIONS:
     1. Filter OUT clickbait, minor news, celebrity gossip, drama, or local fluff. Keep ONLY top stories.
-    2. Output between 9 to 12 top articles total.
+    2. Output between 12 to 15 top articles total.
     3. For EACH article, generate:
        - "headline": Max 10 words.
        - "whyItMatters": One line, strictly 20 words or less.
