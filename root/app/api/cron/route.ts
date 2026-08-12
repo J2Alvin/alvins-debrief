@@ -11,10 +11,9 @@ const parser = new Parser({
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     Accept: "application/rss+xml, application/xml, text/xml, */*",
   },
-  timeout: 10000,
+  timeout: 5000, // 5s max per individual feed
 });
 
-// Feeds using Google News RSS fallbacks for sources that block direct server scraping
 const FEEDS = [
   "https://news.google.com/rss/search?q=site:reuters.com&hl=en-IN&gl=IN&ceid=IN:en",
   "https://www.thehindu.com/news/national/feeder/default.rss",
@@ -34,22 +33,23 @@ export async function GET(request: Request) {
   }
 
   try {
+    // Fetch all feeds concurrently in parallel
+    const feedPromises = FEEDS.map((url) => parser.parseURL(url));
+    const results = await Promise.allSettled(feedPromises);
+
     const rawItems: Array<{ title: string; link: string; snippet?: string }> = [];
 
-    for (const url of FEEDS) {
-      try {
-        const feed = await parser.parseURL(url);
-        feed.items.slice(0, 3).forEach((item) => {
+    results.forEach((res) => {
+      if (res.status === "fulfilled") {
+        res.value.items.slice(0, 3).forEach((item) => {
           rawItems.push({
             title: item.title || "",
             link: item.link || "",
             snippet: item.contentSnippet || item.content || "",
           });
         });
-      } catch (err) {
-        console.error(`Error fetching feed ${url}`);
       }
-    }
+    });
 
     if (rawItems.length === 0) {
       throw new Error("Failed to fetch articles from all RSS sources.");
