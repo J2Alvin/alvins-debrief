@@ -58,7 +58,7 @@ async function runCron() {
 
     results.forEach((res) => {
       if (res.status === "fulfilled") {
-        res.value.items.slice(0, 3).forEach((item) => {
+        res.value.items.slice(0, 8).forEach((item) => {
           rawItems.push({
             title: item.title || "",
             link: item.link || "",
@@ -73,11 +73,14 @@ async function runCron() {
 
     const model = genAI.getGenerativeModel({ model: "gemini-3.5-flash-lite" });
     const prompt = `
-    You are an executive news editor filtering news for Alvin's Debrief.
-    Raw scraped articles: ${JSON.stringify(rawItems.slice(0, 15))}
+    You are a ruthless executive news editor filtering news for Alvin's Debrief. 
+    Your job is to discard all minor news, local fluff, and clickbait. Keep ONLY major global/national headlines, policy shifts, major corporate moves, and high-impact stories.
+    
+    Raw scraped articles (Choose only the absolute best): ${JSON.stringify(rawItems.slice(0, 40))}
+
     STRICT INSTRUCTIONS:
-    1. Filter OUT clickbait, minor news, celebrity gossip, drama, or local fluff. Keep ONLY top stories.
-    2. Output between 12 to 15 top articles total.
+    1. Ruthlessly filter OUT clickbait, minor news, celebrity gossip, drama, or local fluff. Keep ONLY top-tier stories.
+    2. Output strictly between 9 to 12 top articles total. Quality over quantity.
     3. For EACH article, generate:
        - "headline": Max 10 words.
        - "whyItMatters": One line, strictly 20 words or less.
@@ -87,10 +90,11 @@ async function runCron() {
        - "sourceUrl": Exact original article link.
        - "dateLocation": Format strictly as "Date | Location/Source".
     4. Provide a "ticker" array of 5 ultra-short global breaking headlines.
+    
     Return ONLY raw JSON with no markdown formatting:
     {
       "lastUpdated": "${new Date().toISOString()}",
-      "ticker": ["Headline 1", "Headline 2"],
+      "ticker": ["Headline 1", "Headline 2", "Headline 3", "Headline 4", "Headline 5"],
       "articles": [{ "headline": "...", "whyItMatters": "...", "brief": "...", "category": "...", "imageUrl": "...", "sourceUrl": "...", "dateLocation": "..." }]
     }`;
 
