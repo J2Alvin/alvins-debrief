@@ -2,11 +2,10 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import Parser from "rss-parser";
 import fs from "fs";
 import path from "path";
-import { FEEDS } from "../../../config/feeds";
+import { FEEDS } from "../config/feeds";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 
-// 1. Configure parser to grab images embedded directly in the RSS XML (Instant & Free)
 const parser = new Parser({
   customFields: {
     item: [
@@ -23,7 +22,6 @@ const parser = new Parser({
   timeout: 5000,
 });
 
-// Curated Unsplash images mapped by article category
 const UNSPLASH_FALLBACKS: Record<string, string> = {
   technology: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop",
   finance: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
@@ -35,7 +33,6 @@ const UNSPLASH_FALLBACKS: Record<string, string> = {
   general: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop",
 };
 
-// Extracts images instantly from RSS structure without external fetching
 function extractImageFromRssItem(item: any): string | null {
   if (item.enclosure?.url) return item.enclosure.url;
   if (item.mediaContent) {
@@ -52,12 +49,7 @@ function extractImageFromRssItem(item: any): string | null {
   return null;
 }
 
-export async function GET(request: Request) {
-  const authHeader = request.headers.get("authorization");
-  if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
-    return new Response("Unauthorized", { status: 401 });
-  }
-
+async function run() {
   try {
     const feedPromises = FEEDS.map((url) => parser.parseURL(url));
     const results = await Promise.allSettled(feedPromises);
@@ -71,7 +63,7 @@ export async function GET(request: Request) {
             title: item.title || "",
             link: item.link || "",
             snippet: item.contentSnippet || item.content || "",
-            imageUrl: extractImageFromRssItem(item) || "", // Grab XML image instantly
+            imageUrl: extractImageFromRssItem(item) || "",
           });
         });
       }
@@ -129,33 +121,24 @@ export async function GET(request: Request) {
 
     const parsedData = JSON.parse(cleanedText);
 
-    // Map missing images instantly using the Gemini-assigned category
     parsedData.articles = parsedData.articles.map((article: any) => {
       if (article.imageUrl && article.imageUrl.trim() !== "") {
-        return article; // Keep original RSS image
+        return article;
       }
-      
       const fallbackUrl = UNSPLASH_FALLBACKS[article.category] || UNSPLASH_FALLBACKS.general;
       return { ...article, imageUrl: fallbackUrl };
     });
-    
+
     const filePath = path.join(process.cwd(), "data", "news.json");
     const dir = path.dirname(filePath);
     if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 
     fs.writeFileSync(filePath, JSON.stringify(parsedData, null, 2), "utf-8");
-
-    return new Response(
-      JSON.stringify({ success: true, count: parsedData.articles.length }),
-      {
-        status: 200,
-        headers: { "Content-Type": "application/json" },
-      }
-    );
+    console.log("Successfully updated news.json with", parsedData.articles.length, "articles.");
   } catch (error: any) {
     console.error("Cron Error:", error.message);
-    return new Response(JSON.stringify({ error: error.message }), {
-      status: 500,
-    });
+    process.exit(1);
   }
 }
+
+run();
