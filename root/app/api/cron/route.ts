@@ -6,7 +6,15 @@ import { FEEDS } from "../../../config/feeds";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 
+// 1. Configure parser to grab images embedded directly in the RSS XML (Instant & Free)
 const parser = new Parser({
+  customFields: {
+    item: [
+      ["media:content", "mediaContent", { keepArray: true }],
+      ["media:thumbnail", "mediaThumbnail", { keepArray: true }],
+      ["content:encoded", "contentEncoded"],
+    ],
+  },
   headers: {
     "User-Agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -18,12 +26,28 @@ const parser = new Parser({
 const FALLBACK_IMAGE =
   "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&auto=format&fit=crop";
 
-// Scrapes the real og:image (falls back to twitter:image) from a source article page
+// Extracts images instantly from RSS structure without external fetching
+function extractImageFromRssItem(item: any): string | null {
+  if (item.enclosure?.url) return item.enclosure.url;
+  if (item.mediaContent) {
+    const media = Array.isArray(item.mediaContent) ? item.mediaContent[0] : item.mediaContent;
+    if (media?.$?.url) return media.$.url;
+  }
+  if (item.mediaThumbnail) {
+    const thumb = Array.isArray(item.mediaThumbnail) ? item.mediaThumbnail[0] : item.mediaThumbnail;
+    if (thumb?.$?.url) return thumb.$.url;
+  }
+  const htmlContent = item["content:encoded"] || item.content || item.contentSnippet || "";
+  const imgMatch = htmlContent.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (imgMatch && imgMatch[1]) return imgMatch[1];
+  return null;
+}
+
+// Fallback HTML scraper for when the XML lacks an image
 async function fetchOgImage(url: string): Promise<string | null> {
   try {
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 4000);
-
+    const timeoutId = setTimeout(() => controller.abort(), 3000); // reduced to 3s to prevent timeouts
     const res = await fetch(url, {
       signal: controller.signal,
       headers: {
@@ -35,7 +59,6 @@ async function fetchOgImage(url: string): Promise<string | null> {
     if (!res.ok) return null;
 
     const html = await res.text();
-
     const patterns = [
       /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
       /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
@@ -64,11 +87,10 @@ export async function GET(request: Request) {
   }
 
   try {
-    // Fetch all RSS feeds in parallel
     const feedPromises = FEEDS.map((url) => parser.parseURL(url));
     const results = await Promise.allSettled(feedPromises);
 
-    const rawItems: Array<{ title: string; link: string; snippet?: string }> = [];
+    const rawItems: Array<{ title: string; link: string; snippet?: string; imageUrl?: string }> = [];
 
     results.forEach((res) => {
       if (res.status === "fulfilled") {
@@ -77,6 +99,7 @@ export async function GET(request: Request) {
             title: item.title || "",
             link: item.link || "",
             snippet: item.contentSnippet || item.content || "",
+            imageUrl: extractImageFromRssItem(item) || "", // Grab XML image instantly
           });
         });
       }
@@ -101,6 +124,7 @@ export async function GET(request: Request) {
        - "headline": Max 10 words.
        - "whyItMatters": One line, strictly 20 words or less, explaining the significance/impact of this story to an informed reader.
        - "brief": Short summary, strictly 50 words or less.
+       - "imageUrl": Keep the exact "imageUrl" provided in the input raw item. Leave empty if missing.
        - "sourceUrl": Exact original article link provided in input.
        - "dateLocation": Format strictly as "Date | Location/Source" (e.g., "12 Aug 2026 | New Delhi (The Hindu)").
 
@@ -115,6 +139,7 @@ export async function GET(request: Request) {
           "headline": "...",
           "whyItMatters": "...",
           "brief": "...",
+          "imageUrl": "...",
           "sourceUrl": "...",
           "dateLocation": "..."
         }
@@ -130,13 +155,21 @@ export async function GET(request: Request) {
 
     const parsedData = JSON.parse(cleanedText);
 
-    // Enrich each article with a real scraped image from its source page
+    // Only scrape missing images, drastically reducing execution time
     const enrichedArticles = await Promise.all(
       parsedData.articles.map(async (article: any) => {
-        const scrapedImage = await fetchOgImage(article.sourceUrl);
+        if (article.imageUrl && article.imageUrl.trim() !== "") {
+          return article; // Image already found via RSS XML
+        }
+        
+        const targetUrl = article.sourceUrl || "";
+        if (!targetUrl) return { ...article, imageUrl: FALLBACK_IMAGE };
+
+        const scrapedImage = await fetchOgImage(targetUrl);
         return { ...article, imageUrl: scrapedImage || FALLBACK_IMAGE };
       })
     );
+    
     parsedData.articles = enrichedArticles;
 
     const filePath = path.join(process.cwd(), "data", "news.json");
