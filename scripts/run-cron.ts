@@ -7,13 +7,6 @@ import { FEEDS } from "../config/feeds";
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
 
 const parser = new Parser({
-  customFields: {
-    item: [
-      ["media:content", "mediaContent", { keepArray: true }],
-      ["media:thumbnail", "mediaThumbnail", { keepArray: true }],
-      ["content:encoded", "contentEncoded"],
-    ],
-  },
   headers: {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
     Accept: "application/rss+xml, application/xml, text/xml, */*",
@@ -32,38 +25,21 @@ const UNSPLASH_FALLBACKS: Record<string, string> = {
   general: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop",
 };
 
-function extractImageFromRssItem(item: any): string | null {
-  if (item.enclosure?.url) return item.enclosure.url;
-  if (item.mediaContent) {
-    const media = Array.isArray(item.mediaContent) ? item.mediaContent[0] : item.mediaContent;
-    if (media?.$?.url) return media.$.url;
-  }
-  if (item.mediaThumbnail) {
-    const thumb = Array.isArray(item.mediaThumbnail) ? item.mediaThumbnail[0] : item.mediaThumbnail;
-    if (thumb?.$?.url) return thumb.$.url;
-  }
-  const htmlContent = item["content:encoded"] || item.content || item.contentSnippet || "";
-  const imgMatch = htmlContent.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if (imgMatch && imgMatch[1]) return imgMatch[1];
-  return null;
-}
-
 async function runCron() {
   try {
     console.log("Fetching RSS feeds...");
     const feedPromises = FEEDS.map((url) => parser.parseURL(url));
     const results = await Promise.allSettled(feedPromises);
 
-    const rawItems: Array<{ title: string; link: string; snippet?: string; imageUrl?: string }> = [];
+    const rawItems: Array<{ title: string; link: string; snippet?: string }> = [];
 
     results.forEach((res) => {
       if (res.status === "fulfilled") {
-        res.value.items.slice(0, 8).forEach((item) => {
+        res.value.items.slice(0, 10).forEach((item) => {
           rawItems.push({
             title: item.title || "",
             link: item.link || "",
             snippet: item.contentSnippet || item.content || "",
-            imageUrl: extractImageFromRssItem(item) || "",
           });
         });
       }
@@ -73,29 +49,27 @@ async function runCron() {
 
     const model = genAI.getGenerativeModel({ model: "gemini-3.5-flash-lite" });
     const prompt = `
-    You are a ruthless executive news editor filtering news for Alvin's Debrief. 
-    Your job is to discard all minor news, local fluff, and clickbait. Keep ONLY major global/national headlines, policy shifts, major corporate moves, and high-impact stories.
-    
-    Raw scraped articles (Choose only the absolute best): ${JSON.stringify(rawItems.slice(0, 40))}
+    You are an executive news editor filtering news for Alvin's Debrief.
+    Raw scraped articles: ${JSON.stringify(rawItems.slice(0, 50))}
 
     STRICT INSTRUCTIONS:
-    1. Ruthlessly filter OUT clickbait, minor news, celebrity gossip, drama, or local fluff. Keep ONLY top-tier stories.
-    2. Output strictly between 9 to 12 top articles total. Quality over quantity.
-    3. For EACH article, generate:
+    1. Filter OUT clickbait, minor news, celebrity gossip, drama, or local fluff. Keep ONLY top stories.
+    2. Output strictly between 15 to 20 articles total.
+    3. **Category Constraint:** Keep **MAXIMUM 2** stories from each category ("technology", "finance", "politics", "business", "sports", "health", "world", "general"). Ensure a balanced spread across categories.
+    4. For EACH article, generate:
        - "headline": Max 10 words.
        - "whyItMatters": One line, strictly 20 words or less.
        - "brief": Short summary, strictly 50 words or less.
-       - "category": Choose strictly ONE from: "technology", "finance", "politics", "business", "sports", "health", "world", or "general".
-       - "imageUrl": Keep exact "imageUrl" from input, leave empty if missing.
+       - "category": Choose strictly ONE from the allowed categories list.
        - "sourceUrl": Exact original article link.
        - "dateLocation": Format strictly as "Date | Location/Source".
-    4. Provide a "ticker" array of 5 ultra-short global breaking headlines.
-    
+    5. Provide a "ticker" array of 5 ultra-short global breaking headlines.
+
     Return ONLY raw JSON with no markdown formatting:
     {
       "lastUpdated": "${new Date().toISOString()}",
       "ticker": ["Headline 1", "Headline 2", "Headline 3", "Headline 4", "Headline 5"],
-      "articles": [{ "headline": "...", "whyItMatters": "...", "brief": "...", "category": "...", "imageUrl": "...", "sourceUrl": "...", "dateLocation": "..." }]
+      "articles": [{ "headline": "...", "whyItMatters": "...", "brief": "...", "category": "...", "sourceUrl": "...", "dateLocation": "..." }]
     }`;
 
     console.log("Generating with Gemini...");
@@ -103,9 +77,11 @@ async function runCron() {
     const cleanedText = response.response.text().replace(/```json/gi, "").replace(/```/g, "").trim();
     const parsedData = JSON.parse(cleanedText);
 
+    // Assign ONLY Unsplash images based on category
     parsedData.articles = parsedData.articles.map((article: any) => {
-      if (article.imageUrl && article.imageUrl.trim() !== "") return article;
-      return { ...article, imageUrl: UNSPLASH_FALLBACKS[article.category] || UNSPLASH_FALLBACKS.general };
+      const categoryKey = article.category?.toLowerCase() || "general";
+      const assignedImage = UNSPLASH_FALLBACKS[categoryKey] || UNSPLASH_FALLBACKS.general;
+      return { ...article, imageUrl: assignedImage };
     });
 
     const filePath = path.join(process.cwd(), "data", "news.json");
@@ -113,7 +89,7 @@ async function runCron() {
     if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 
     fs.writeFileSync(filePath, JSON.stringify(parsedData, null, 2), "utf-8");
-    console.log(`Cron successfully updated ${parsedData.articles.articles?.length || parsedData.articles.length} articles.`);
+    console.log(`Cron successfully updated ${parsedData.articles.length} articles with Unsplash images.`);
   } catch (error) {
     console.error("Cron script error:", error);
     process.exit(1);
