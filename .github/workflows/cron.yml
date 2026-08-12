@@ -1,0 +1,33 @@
+name: Daily News Debrief Cron
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC (adjust as needed)
+  workflow_dispatch: # Allows you to manually trigger it anytime from GitHub
+
+jobs:
+  run-cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run cron script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run cron
+
+      - name: Commit and push updated news.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update daily news debrief [skip ci]"
+          file_pattern: data/news.json
