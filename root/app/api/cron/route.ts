@@ -55,7 +55,7 @@ export async function GET(request: Request) {
       throw new Error("Failed to fetch articles from all RSS sources.");
     }
 
-    const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+    const model = genAI.getGenerativeModel({ model: "gemini-3.5-flash" });
 
     const prompt = `
     You are an executive news editor filtering news for Alvin's Debrief.
