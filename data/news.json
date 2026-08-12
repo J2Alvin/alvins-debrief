@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-08-12T00:00:00.000Z",
+  "lastUpdated": "2026-08-12T16:47:48.457Z",
   "ticker": [
-    "ALVIN'S DEBRIEF ✦ REFRESHES DAILY AT MIDNIGHT ✦ POWERED BY GEMINI"
+    "Tata Sons Chairman N. Chandrasekaran to step down",
+    "India-China maintain dialogue over border stability",
+    "Iran signals prolonged standoff amid Trump security threats",
+    "Air India pilot under scrutiny following medical report",
+    "Indian rupee edges higher on central bank intervention"
   ],
-  "articles": []
+  "articles": [
+    {
+      "headline": "Tata Sons Chairman N. Chandrasekaran to Step Down in 2027",
+      "whyItMatters": "Triggers a high-stakes leadership transition and a sudden plunge in Tata group stocks.",
+      "brief": "N. Chandrasekaran will step down in February 2027 after citing a lack of unanimous board support, particularly from Tata Trusts chairman Noel Tata. A six-member panel has been established to find a successor.",
+      "category": "business",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/w4wxk2/article71335623.ece/alternates/LANDSCAPE_1200/2026-08-12T063551Z_1825167416_RC2UWT9C3K7K_RTRMADP_3_TATA-SONS-CHAIRMAN.JPG",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/tata-sons-chairman-chandrasekaran-resignation/article71335293.ece",
+      "dateLocation": "August 12, 2026 | Mumbai, India"
+    },
+    {
+      "headline": "India Stresses Border Peace Is Critical to China Ties",
+      "whyItMatters": "Highlights ongoing geopolitical fragility along the disputed Himalayan frontier despite claims of stability.",
+      "brief": "India emphasized that maintaining peace along the border remains critical to bilateral relations with China, even as both sides navigate fresh reports of regional military tensions and troop activities.",
+      "category": "politics",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWNGWmx4dVY4QjloM1pZVERMNkxjZFVyc2Zmd1JYWnoySVhyTHpJZHg0YlFsVmZMUnFVd1BXelFwdExFM3QxWENXVFF1YlhwNDFqaVNudzN2OWtPczRBbTRPQ21zUEM1M0w2enMtNWJSc2pwOTI5Wm9FbXZlaFhQbHB1STFBRlBRSVZuTnNEUWJDWGdkSUtWLXZwYXRkRU1KRWlXS2NneGE4SkNXWXpkeXJhQzNPUXZlVDNoakRRMExqOGY3Rnc?oc=5",
+      "dateLocation": "August 12, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "Iran Signals Long-Term Conflict While Details of Trump Security Emerge",
+      "whyItMatters": "Escalates geopolitical risks in the Middle East and highlights severe security vulnerabilities during high-level summits.",
+      "brief": "Iran signaled that its conflict could stretch for years until Donald Trump leaves office. Meanwhile, reports revealed that Iranian intelligence had detailed room-level data on Trump's recent stay in Ankara.",
+      "category": "world",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/USA-TRUMP-AIR-FORCE-ONE-3_1786552345684_1786552356780_6273aee2-9d4e-4261-b79d-491b3f6567f4.JPG",
+      "sourceUrl": "https://www.livemint.com/news/us-news/iran-had-detailed-intel-on-trump-s-ankara-stay-including-his-floor-report-11786551220502.html",
+      "dateLocation": "August 12, 2026 | Washington, DC"
+    },
+    {
+      "headline": "Air India Pilot Under Investigation for Sleep Issues and Medication",
+      "whyItMatters": "Raises renewed aviation safety concerns regarding pilot health disclosures and mandatory drug screening protocols.",
+      "brief": "The Air India pilot operating a Phuket-Delhi flight who tested positive for marijuana informed investigators he suffered from severe sleep difficulties and was taking prescribed medication from a family doctor.",
+      "category": "general",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/ANI-20260804404-0_1786551532515_1786551541419_74e050e4-c058-4f80-9bc3-ea0e01a3903a.jpg",
+      "sourceUrl": "https://www.livemint.com/news/india/air-india-phuket-delhi-pilot-had-sleep-issues-was-on-medication-before-flight-11786551373903.html",
+      "dateLocation": "August 12, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "Indian Rupee Nudges Up as RBI Intervenes Ahead of Inflation Data",
+      "whyItMatters": "Demonstrates central bank vigilance in currency markets amid looming domestic consumer price pressures.",
+      "brief": "The Indian rupee edged slightly higher following suspected intervention by the Reserve Bank of India, while investors carefully awaited upcoming inflation prints expected to carry persistent food price risks.",
+      "category": "finance",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkVjdXVldDVubjVPQkdhWGoyYU05dG1EOU92WkhLbFlYTWktS0hPVTZkeC03T055Z2dMbzJJMjRrVzJFNXhjSFdROS03S0Vfb1RuaVlYVklha0ljS08wUEM4bzAxSGtlcXJsTUZ4bG1QWXVMUWlGaUpzbm9ROGJOUXNpVzBzLVByVEtCd2d3cHJ1dWhrQ0VTbTNTOHdDVTI2SHNCdzZWVTc?oc=5",
+      "dateLocation": "August 12, 2026 | Mumbai, India"
+    },
+    {
+      "headline": "India's Inflation Outlook Faces Persistent Threat from Food Prices",
+      "whyItMatters": "Warns of potential monetary policy tightening if food inflation trends continue to destabilize consumer costs.",
+      "brief": "Economic experts warn that India's inflation trajectory is likely to drift higher from current levels, driven primarily by volatile food pricing risks that complicate upcoming central bank rate decisions.",
+      "category": "finance",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/inflation-likely-to-rise-from-here-as-food-prices-remain-key-risk-experts/articleshow/133185286.cms",
+      "dateLocation": "August 12, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "China Claims India Border Is Generally Stable Despite Regional Tensions",
+      "whyItMatters": "Reflects differing diplomatic messaging between Beijing and New Delhi over contested Himalayan sectors.",
+      "brief": "Beijing stated that the India border situation remains generally stable, offering a contrast to reports of localized military buildup and diplomatic friction concerning Arunachal Pradesh.",
+      "category": "politics",
+      "imageUrl": "https://static.toiimg.com/photo/msid-133186799,imgsize-48162.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/china-says-india-border-generally-stable-amid-tensions-in-arunachal/articleshow/133186633.cms",
+      "dateLocation": "August 12, 2026 | Beijing, China"
+    },
+    {
+      "headline": "Administrative Glitch Declares Deceased Man Alive in Government Records",
+      "whyItMatters": "Exposes deep data integration flaws within major state-backed welfare and healthcare verification schemes.",
+      "brief": "In Chhattisgarh's Sarguja district, a deceased government constable remained registered as alive for 42 days, resulting in his widow receiving an automated welfare system message celebrating his recovery.",
+      "category": "general",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/pexels-photo-116157_1786551974061_1786551986093_b27daad6-af48-4cb5-8689-70945f204c5d.jpeg",
+      "sourceUrl": "https://www.livemint.com/news/trends/42-days-after-husband-s-death-wife-comes-to-know-that-he-is-heading-home-ayushman-bharat-declares-him-recovered-11786551460286.html",
+      "dateLocation": "August 12, 2026 | Raipur, India"
+    }
+  ]
 }
