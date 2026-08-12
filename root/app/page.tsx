@@ -4,6 +4,7 @@ import Marquee from "react-fast-marquee";
 
 interface Article {
   headline: string;
+  whyItMatters: string;
   brief: string;
   imageUrl: string;
   sourceUrl: string;
@@ -93,7 +94,7 @@ export default function Home() {
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {news.articles.map((item, index) => (
-              <a
+              
                 key={index}
                 href={item.sourceUrl}
                 target="_blank"
@@ -107,15 +108,17 @@ export default function Home() {
                     alt={item.headline}
                     className="w-full h-full object-cover grayscale group-hover:sepia-[40%] transition-all duration-300"
                   />
-                  <div className="absolute top-2 left-2 bg-[#111111] text-[#F9F9F7] font-mono text-[10px] px-1.5 py-0.5 uppercase">
-                    FIG. {index + 1}
-                  </div>
                 </div>
 
                 {/* Headline (<=10 words) */}
-                <h2 className="font-serif font-bold text-2xl leading-tight mb-3 group-hover:text-[#CC0000] transition-colors">
+                <h2 className="font-serif font-bold text-2xl leading-tight mb-1 group-hover:text-[#CC0000] transition-colors">
                   {item.headline}
                 </h2>
+
+                {/* Why It Matters (<=20 words) */}
+                <p className="font-mono text-[11px] uppercase tracking-wide text-[#CC0000] mb-3">
+                  {item.whyItMatters}
+                </p>
 
                 {/* Short Brief (<=50 words) */}
                 <p className="font-body text-sm leading-relaxed mb-6 text-neutral-800 flex-grow">
