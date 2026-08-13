@@ -1,147 +1,156 @@
 {
-  "lastUpdated": "2026-08-13T12:13:37.086Z",
+  "lastUpdated": "2026-08-13T18:59:11.419Z",
   "ticker": [
-    "L&T secures $1.57B AI data centre order",
-    "Sukhbir Singh Badal attacked in Nanded",
-    "BofA to acquire 49.9% stake in Jio Credit",
-    "Turkey plans defense pact with Pakistan and Saudi Arabia",
-    "Indian bank deposits surge by $115B"
+    "US keeps naval blockade on Iranian ports",
+    "Uttarakhand tunnel rescue operations underway",
+    "Google unveils Gemini 3.7 Flash AI model",
+    "State Bank of India raises $500M",
+    "Bar Council of India reverses Nalsar ban"
   ],
   "articles": [
     {
-      "headline": "L&T Secures $1.57 Billion AI Data Centre Order",
-      "whyItMatters": "Expands digital infrastructure capabilities significantly.",
-      "brief": "Larsen and Toubro has secured a major order worth up to $1.57 billion to build advanced AI data centres, marking a massive leap for India's digital infrastructure growth.",
+      "headline": "Larsen and Toubro Secures $1.57B AI Data Centre Order",
+      "whyItMatters": "Signals massive infrastructure spending on artificial intelligence capabilities in India.",
+      "brief": "Larsen and Toubro has secured a major order worth up to $1.57 billion to construct an advanced AI data centre in India.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
-      "dateLocation": "2026-08-13 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lyOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
+      "dateLocation": "Today | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Google DeepMind Faces Leadership Overhaul as Hassabis Exits",
-      "whyItMatters": "Signals a strategic shift in global AI development.",
-      "brief": "Demis Hassabis has stepped aside as CEO of Google DeepMind amid leadership changes as co-founder Sergey Brin urges the team to accelerate development on Gemini.",
+      "headline": "Google Unveils Gemini 3.7 Flash AI Model",
+      "whyItMatters": "Advances coding and agent workflow automation for enterprise developers globally.",
+      "brief": "Google has officially introduced the Gemini 3.7 Flash AI model, specifically optimized for enhanced coding tasks and complex agent workflows.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-co-founder-sergey-brin-has-a-message-for-deepmind-staff-after-demis-hassabis-exits-as-ceo-catch-up-to-the-/articleshow/133206534.cms",
-      "dateLocation": "2026-08-13 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
+      "dateLocation": "Today | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BofA Takes 49.9% Stake in Jio Credit for $1.9B",
-      "whyItMatters": "Deepens foreign institutional investment in Indian fintech.",
-      "brief": "Bank of America is set to acquire a 49.9% stake in Jio Credit for $1.9 billion, marking a major strategic push into India's expanding financial sector.",
+      "headline": "State Bank of India Raises $500 Million Overseas",
+      "whyItMatters": "Demonstrates strong international investor confidence in Indian financial institutions.",
+      "brief": "The State Bank of India successfully raised $500 million through overseas bonds, drawing robust international orders totaling $2.46 billion.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm51WFhRd2F0bzV5VHZ0WUFsaS0xaVNkWWZiaWtscnE2VXZNUXJ2WWVubE1CV1J1cnpFTDhPWTF5dktfN2RoRXpVOGtqRUctZGd6YzI3MWJyNkQ3bUNFR3pNc2RuSmdiNW90Y2E3dEhEbXFVamNMZTFkMkF6am5xaklyVzAzS291dFpNUmJKaXB4NFBlM1ZYNkM1QjFzdlRqdTZwMVJ6UEtyNEZPd3c?oc=5",
-      "dateLocation": "2026-08-13 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/business-of-life/state-bank-of-india-raises-500-million-via-5-25-bonds-in-overseas-market-issue-attracts-2-46-billion-orders-11786639692141.html",
+      "dateLocation": "Today | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Bank Deposits Jump by $115 Billion",
-      "whyItMatters": "Reflects shifting liquidity trends across domestic markets.",
-      "brief": "Deposits in Indian banks have surged by $115 billion over three fortnights, reaching a record high driven by macroeconomic shifts and changing saver behavior.",
+      "headline": "Cerebras Slumps on Mixed Quarterly Results",
+      "whyItMatters": "Tests broader market confidence in the ongoing hardware-driven artificial intelligence growth narrative.",
+      "brief": "Cerebras shares dropped following mixed quarterly financial results, leading investors to question near-term AI hardware growth trajectories.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-deposits-jump-by-115-billion-over-three-fortnights-to-record-high/articleshow/133209589.cms",
-      "dateLocation": "2026-08-13 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUo1UndBenVpbnhDNXAwazVSelR2aDVlTzI3N1dLWFRRU2h2Wm5YX1ZraDY1VFZ2bS1laVh5MndyZU00c010d0IxTG5jMmk4ODRob3ZrOG5YXy1HYkpmZ2Q0czFiZGxuWnNwYVltXzhFemlwOHg5RVh0VWFNUmtnS3RyRmc2Nml2QnE5Vk9GaGNfcTZ0dlZsaDZ2ckVBTHZISFdWM21MSTgydzFwM1E?oc=5",
+      "dateLocation": "Today | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Turkey Proposes Defense Pact with Pakistan and Saudi Arabia",
-      "whyItMatters": "Could redraw regional security alliances across West and South Asia.",
-      "brief": "Turkey has laid out comprehensive plans for a new trilateral defense pact involving Pakistan and Saudi Arabia, aiming to boost military cooperation and strategic ties.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWs3VXl5XzJEaGdzbG5aSE9QTXI5MHRWeE9pMXI5VlIwZkowSU5vbGZVS194RjNYTE5TckdnOXVsRGxMVlFKZmRfVDlhSnk2VW8tSVFNcE9oNE9BVUhDaG0wVzVlTVRtUzdWNHdfSkFqR3BlZ3dkbXp4LTFtYUc5amw1bkJ4V2NxbEl3MUpBaWJRSEFJM1N2OWpiZE11bXFOZ005Z3FkUDFJeGpqZXNfdVI2Nm9DcDc3amFiNkZNOWZ3NnVwUE9OdklwTjkycXc?oc=5",
-      "dateLocation": "2026-08-13 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Can Maintain Iran Naval Blockade Indefinitely",
+      "whyItMatters": "Escalates geopolitical tensions and secures strategic choke points in the Middle East.",
+      "brief": "The Pentagon chief asserted that the United States Navy can maintain its ongoing naval blockade on Iranian ports indefinitely through rotations.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
+      "dateLocation": "Today | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BNP Nominates Mirza Fakhrul for Bangladesh Presidential Poll",
-      "whyItMatters": "Highlights ongoing political realignments in South Asia.",
-      "brief": "The Bangladesh Nationalist Party has officially nominated stalwart leader Mirza Fakhrul Islam Alamgir as its candidate for the upcoming presidential elections.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/bnp-nominates-stalwart-mirza-fakhrul-for-bangladesh-presidential-poll/articleshow/133210601.cms",
-      "dateLocation": "2026-08-13 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian IT Sector Shifts Focus Toward High-Value Skills",
-      "whyItMatters": "Signals the end of broad-based hiring and low-skill recruitment.",
-      "brief": "Industry experts note that mass hiring models in Indian IT are ending, with companies tightening entry-level intake while paying premiums for specialized experience.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indian-it-sector-job-market-is-changing-what-can-get-your-hired-at-a-premium/articleshow/133209023.cms",
-      "dateLocation": "2026-08-13 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Lenovo Posts 43% Q1 Revenue Jump on AI Boom",
-      "whyItMatters": "Demonstrates commercial viability of enterprise infrastructure investments.",
-      "brief": "China's Lenovo reported a 43% surge in first-quarter revenue, successfully capitalizing on the global surge in demand for hardware supporting AI infrastructure.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1FkcWU0azdRWDdsZ3lmTkN5VzM2c01DakprRTFmZmk2bk1aSm5ZUXZDemk5a2Q2SnptclFrb3lQZzJiUW11YU9jaHpXaEl1YmpFRlIyUFU4aXFYOFFJTVQ2R3MyU2VUMTZTU1piOXY4M3BzRHpmYlVxd0ZjQjYxUTZiUWtQRUFiVDZvUEtENA?oc=5",
-      "dateLocation": "2026-08-13 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sukhbir Singh Badal Attacked at Nanded Gurdwara",
-      "whyItMatters": "Raises serious concerns regarding high-profile political security.",
-      "brief": "Shiromani Akali Dal president Sukhbir Singh Badal survived an assault involving a kirpan during a religious visit in Nanded, prompting immediate security reviews.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/aurangabad/sukhbir-badal-attacked-with-kirpan-at-nanded-gurdwara-cop-injured-while-foiling-assault-how-events-unfolded/articleshow/133207266.cms",
-      "dateLocation": "2026-08-13 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Karnataka Launches Tathyakosh.in Public Data Platform",
-      "whyItMatters": "Enhances open data discovery for researchers and policymakers.",
-      "brief": "The Karnataka government has launched Tathyakosh.in, a centralized public data discovery platform designed to streamline dataset access for developers and startups.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-launches-tathyakoshin-a-public-good-data-discovery-platform/article71337556.ece",
-      "dateLocation": "2026-08-13 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Air India Expands Pilot Drug Testing After Marijuana Case",
-      "whyItMatters": "Imposes stricter safety and compliance standards in aviation.",
-      "brief": "Following a positive marijuana test from a captain, Air India has expanded mandatory drug screening protocols to encompass all active flight crew members.",
+      "headline": "WHO Warns Congo Ebola Outbreak May Turn Deadliest",
+      "whyItMatters": "Highlights urgent public health risks and the potential for a massive regional epidemic.",
+      "brief": "With over 4,500 infections and 2,100 deaths recorded, the WHO warns that the escalating Ebola outbreak in Congo could become history's deadliest.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGdKSXVDV1dRN2ZhSjdPUnAxVTRUTkZSUnZqVGp2eHhzX1RYa3Jtcm54RTZCMXJ6MTRtOFdCeC1SWVQzQXR4Y05Odjc4Ukx2c0JLb3QyXzJ1OGE1X1V6bVB1czhueHhySWdwUlplNWtqRWJSOTdWNWZ3Q1dMc3oyZWpsbEpGeDkzMENaZXkyVGMyMWRUNWZySU5ObXVySzRXdlFCTW04NC1LdjdqdG9IMw?oc=5",
-      "dateLocation": "2026-08-13 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/world/ebola-outbreak-in-congo-4-500-infected-2-100-dead-who-warns-of-potentially-deadliest-epidemic-ever-11786629651230.html",
+      "dateLocation": "Today | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Prepares for Crucial Cricket Series in Sri Lanka",
-      "whyItMatters": "Draws immense global attention from sports enthusiasts.",
-      "brief": "The Indian national cricket team has intensified its training regimen ahead of the first Test match in Galle, focusing heavily on ambidextrous catching drills.",
+      "headline": "Supreme Court Pulls Up FSSAI Over Warning Labels",
+      "whyItMatters": "Directly impacts consumer health transparency and food safety regulations across the country.",
+      "brief": "The Supreme Court sharply criticized FSSAI and central authorities over delays in implementing clear front-of-pack warning labels on food items.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/you-dont-want-people-of-this-country-to-remain-healthy-sc-pulls-up-fssai-centre-over-front-of-pack-warning-labels/articleshow/133216080.cms",
+      "dateLocation": "Today | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Uttarakhand Tunnel Collapse Traps Six Workers",
+      "whyItMatters": "Triggers emergency rescue efforts at a critical infrastructure construction site.",
+      "brief": "Rescue teams are racing against time in Chamoli after an influx of water and debris left six workers trapped inside a tunnel.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/uttarakhand-tunnel-collapse-6-workers-trapped-16-rescued-after-water-debris-chamoli-news-rescue-operation-11786638418522.html",
+      "dateLocation": "Today | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Bar Council Reverses Nalsar Enrollment Ban",
+      "whyItMatters": "Resolves a major legal education controversy concerning student activism and regulatory overreach.",
+      "brief": "The Bar Council of India quickly reversed its blanket enrolment ban on Nalsar’s 2026 graduating batch, noting most students were innocent.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/bci-halts-enrolment-of-nalsar-2026-law-graduates-over-alleged-cji-convocation-campaign-11786634217077.html",
+      "dateLocation": "Today | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Air India Expands Drug Testing for All Pilots",
+      "whyItMatters": "Strengthens aviation safety standards following a high-profile crew drug test failure.",
+      "brief": "Air India has broadened mandatory drug testing protocols to cover all pilots after a captain recently tested positive for marijuana use.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGdKSXVDV1dRN2ZhSjdPUnAxVTRUTkZSUnZqVGp2eHhzX1RYa3Jtcm54RTZCMXJ6MTRtOFdCeC1SWVQzQXR4Y05Odjc4Ukx2c0JLb3QyXzJ1OGE1X1V6bVB1czhueHhySWdwUlplNWtqRWJSOTdWNWZ3Q1dMc3oyZWpsbEpGeDkzMENaZXkyVGMyMWRUNWZySU5ObXVySzRXdlFCTW04NC1LdjdqdG9IMw?oc=5",
+      "dateLocation": "Today | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jharkhand CM Urges PM Modi to Reconsider Mining Bill",
+      "whyItMatters": "Highlights fiscal federalism disputes and state revenue protection against central legislative changes.",
+      "brief": "Jharkhand Chief Minister Soren wrote to Prime Minister Modi, warning that the proposed mining bill severely threatens the state's finances.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/jharkhand-cm-soren-urges-pm-modi-to-reconsider-mining-bill-flags-impact-on-states-finances/articleshow/133221569.cms",
+      "dateLocation": "Today | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Parties Vie for Dalit Votes Amid BSP Decline",
+      "whyItMatters": "Shifts electoral dynamics significantly ahead of upcoming assembly elections in Uttar Pradesh.",
+      "brief": "Major political parties in Uttar Pradesh are aggressively courting Dalit voters to fill the political vacuum left by Mayawati's shrinking base.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/2027-up-assembly-elections-how-parties-are-vying-for-dalit-votes-amid-mayawatis-shrinking-base/articleshow/133213851.cms",
+      "dateLocation": "Today | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Auqib Nabi Recalls Surprise India Cricket Call-Up",
+      "whyItMatters": "Highlights unexpected sporting breakthroughs for domestic fast bowlers entering international series.",
+      "brief": "Fast bowler Auqib Nabi reflected on his shock inclusion in the Indian cricket squad as a replacement for the injured Jasprit Bumrah.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/indias-cricket-team-intensifies-training-ahead-of-first-test-in-galle/article71340825.ece",
-      "dateLocation": "2026-08-13 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/udhar-nahi-jaana-auqib-nabi-recalls-how-india-call-up-came-as-a-surprise-watch/articleshow/133210694.cms",
+      "dateLocation": "Today | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Harbhajan Singh Open to Reconciliation with Sreesanth",
-      "whyItMatters": "Resolves a long-standing rivalry within Indian cricket lore.",
-      "brief": "Former Indian spinner Harbhajan Singh expressed willingness to mend fences with Sreesanth, suggesting a joint roommate arrangement could clear past tensions.",
+      "headline": "Rithik Guides Team to Victory in TNPL Thriller",
+      "whyItMatters": "Showcases emerging domestic talent in high-pressure regional Twenty20 cricket tournament matches.",
+      "brief": "Rithik delivered a stellar performance to secure a dramatic last-ball victory for his side in the latest TNPL cricket encounter.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/lot-of-things-will-get-solved-harbhajan-singh-picks-sreesanth-as-roomate-choice/articleshow/133207129.cms",
-      "dateLocation": "2026-08-13 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/rithik-is-royal-king-guides-team-home-in-a-thriller/article71342700.ece",
+      "dateLocation": "Today | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UNSC Attributes 2025 Red Fort Blast to Al-Qaeda",
-      "whyItMatters": "Confirms evolving regional security threats across South Asia.",
-      "brief": "A newly released UN Security Council report officially links the 2025 Red Fort blast to the Al-Qaeda in the Indian Subcontinent network, warning of decentralized operations.",
+      "headline": "Turkey Plans Defense Pact with Pakistan and Saudi Arabia",
+      "whyItMatters": "Reshapes regional security alliances and military cooperation across the Middle East and Asia.",
+      "brief": "Turkey has officially laid out comprehensive plans for a multi-nation defense pact involving both Pakistan and Saudi Arabia.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/red-fort-blast-2025-officially-attributed-to-al-qaeda-in-indian-subcontinent-says-unsc-what-did-its-report-reveal-11786611167580.html",
-      "dateLocation": "2026-08-13 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWs3VXl5XzJEaGdzbG5aSE9QTXI5MHRWeE9pMXI5VlIwZkowSU5vbGZVS194RjNYTE5TckdnOXVsRGxMVlFKZmRfVDlhSnk2VW8tSVFNcE9oNE9BVUhDaG0wVzVlTVRtUzdWNHdfSkFqR3BlZ3dkbXp4LTFtYUc5amw1bkJ4V2NxbEl3MUpBaWJRSEFJM1N2OWpiZE11bXFOZ005Z3FkUDFJeGpqZXNfdVI2Nm9DcDc3amFiNkZNOWZ3NnVwUE9OdklwTjkycXc?oc=5",
+      "dateLocation": "Today | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "NASA Explores Deep Space Collaboration with India",
-      "whyItMatters": "Expands international partnerships in lunar exploration.",
-      "brief": "NASA has outlined details of its Moon Base programme, inviting India to join the ambitious southern pole outpost initiative slated for development over the coming decade.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/explained-what-is-nasas-moon-base-programme-why-it-wants-india-to-be-part-of-it/article71340650.ece",
-      "dateLocation": "2026-08-13 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Air India CEO Warns Staff Over Strict Rule Enforcement",
+      "whyItMatters": "Emphasizes corporate accountability and operational discipline within major airline carriers.",
+      "brief": "Air India CEO Campbell Wilson warned employees that consequences for protocol violations will increase significantly moving forward.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/consequences-will-get-higher-air-india-ceo-campbell-wilson-tells-staff-amid-crackdown-on-rule-violations/articleshow/133219862.cms",
+      "dateLocation": "Today | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
