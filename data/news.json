@@ -1,146 +1,83 @@
 {
-  "lastUpdated": "2026-08-13T01:09:43.199Z",
+  "lastUpdated": "2026-08-13T12:11:39.315Z",
   "ticker": [
-    "BofA takes 49.9% stake in Jio Credit for $1.9B",
-    "N Chandrasekaran steps down as Tata Sons Chairman",
-    "US-Iran tensions escalate over Strait of Hormuz blockade",
-    "Cisco forecasts higher annual revenue on strong AI spending",
-    "Supreme Court orders CBI probe into Chhattisgarh custodial death"
+    "L&T secures $1.57B AI data centre order",
+    "Sukhbir Singh Badal attacked in Nanded",
+    "Air India expands mandatory pilot drug testing",
+    "IAF moves closer to ₹1 lakh crore transport aircraft deal",
+    "BofA takes 49.9% stake in Jio Credit for $1.9B"
   ],
   "articles": [
     {
-      "headline": "BofA Acquires 49.9% Stake in Jio Credit",
-      "whyItMatters": "Expands major US banking presence in India's expanding financial sector.",
-      "brief": "Bank of America is taking a 49.9% stake in Jio Credit for $1.9 billion, marking a significant strategic expansion into the Indian market.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm51WFhRd2F0bzV5VHZ0WUFsaS0xaVNkWWZiaWtscnE2VXZNUXJ2WWVubE1CV1J1cnpFTDhPWTF5dktfN2RoRXpVOGtqRUctZGd6YzI3MWJyNkQ3bUNFR3pNc2RuSmdiNW90Y2E3dEhEbXFVamNMZTFkMkF6am5xaklyVzAzS291dFpNUmJKaXB4NFBlM1ZYNkM1QjFzdlRqdTZwMVJ6UEtyNEZPd3c?oc=5",
-      "dateLocation": "Aug 13, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Stresses Border Peace with China",
-      "whyItMatters": "Maintains geopolitical stability and trade relations across South Asia.",
-      "brief": "India has stated that border peace remains critical to bilateral ties with China amidst ongoing reports of rising military tensions along the frontier.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWNGWmx4dVY4QjloM1pZVERMNkxjZFVyc2Zmd1JYWnoySVhyTHpJZHg0YlFsVmZMUnFVd1BXelFwdExFM3QxWENXVFF1YlhwNDFqaVNudzN2OWtPczRBbTRPQ21zUEM1M0w2enMtNWJSc2pwOTI5Wm9FbXZlaFhQbHB1STFBRlBRSVZuTnNEUWJDWGdkSUtWLXZwYXRkRU1KRWlXS2NneGE4SkNXWXpkeXJhQzNPUXZlVDNoakRRMExqOGY3Rnc?oc=5",
-      "dateLocation": "Aug 13, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cisco Forecasts Strong Revenue on AI Spending",
-      "whyItMatters": "Highlights continuous enterprise capital allocation toward artificial intelligence infrastructure.",
-      "brief": "Cisco issued an annual revenue forecast above Wall Street estimates, driven by sustained global enterprise spending on artificial intelligence technologies.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFNjVWhZOGJVZzBrMDdXRC13NkM3cW9lMjlicDZZc3duZXNTLWlZTEhBTDJuWTJvV3pkbEdoUWd2VVFmTWlCTTFCVlJjOFFsTXB3Y0JBZHROZExiUU4xZm1mbkhOSHF4MVRfdXpEdWp3NFdlbnhpQk5kSklmX3Y3cW5ockRIT0VSeWdWMQ?oc=5",
-      "dateLocation": "Aug 13, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tata Sons Chairman Chandrasekaran Steps Down",
-      "whyItMatters": "Triggers leadership transition at one of India's largest business conglomerates.",
-      "brief": "N Chandrasekaran is stepping down as Chairman of Tata Sons following tensions with the group's controlling charity, impacting group shares.",
+      "headline": "L&T Secures $1.57 Billion AI Data Centre Order",
+      "whyItMatters": "Signals massive infrastructure spending growth driven by surging artificial intelligence demands.",
+      "brief": "Engineering giant Larsen and Toubro has secured a major order worth up to $1.57 billion to build an advanced AI data centre, highlighting the rapid expansion of digital infrastructure.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREcwOEJKeDlLYUVQZWI2Y0VaamZKN1VVSWZmckZGeWlQa1VvY3MwazFha09ySWxzQ1RfN05jRXJrN29KcU9veGZfSTBLTTV0dl95SlgwLWNadVAzZHlDZXhEbFg0Z0FzQWZ2OWlsTU15OFMwWWNHVVBUUF9XbVgya2VoQXJFdHNTOThvN19xSUVHaGZQbUNLZFd6V2lyRFFXbGNObk5nZWNMRjVHNmlUU3VHMmlOeGNTNF9zUQ?oc=5",
-      "dateLocation": "Aug 13, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
+      "dateLocation": "2026-08-13 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Plans Sweeping Healthcare Insurance Reforms",
-      "whyItMatters": "Aims to drastically lower medical costs and broaden financial protection nationwide.",
-      "brief": "Indian authorities are developing comprehensive insurance reforms aimed at reining in escalating healthcare costs and protecting vulnerable consumer groups.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2x5eDJmd1ZZVS0xMWNiVDlaRTNhWnpNanFEYXZOa0RrLVp0LTJITW1JdU1qUUV0VkJtdWpVTXBCZzE4Uk5yT3ozRXVvcDFTLUhwZThpQThIdXFHcGpsaE9nUzdkTmdSVWJkTmdkdm5HNEFnNTZNUFlSaVQwNzhWVHBlU0dYeDJtNzIwVnJ3dVJfSGIwWEFzM3hyTUdWZWFMdUJXbGlEd0VkZFEzXzNqb3M5SU9wM1k?oc=5",
-      "dateLocation": "Aug 13, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Lok Sabha Refers FCRA Bill to Panel",
-      "whyItMatters": "Addresses regulatory concerns raised by minority organizations regarding foreign contributions.",
-      "brief": "The Indian Parliament adopted a motion to send the Foreign Contribution Regulation Amendment Bill to a Joint Parliamentary Committee.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/centre-softens-stance-on-fcra-bill-following-appeals-by-minority-groups/article71337440.ece",
-      "dateLocation": "Aug 13, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tribal Outbreak and Faith Healing Challenges",
-      "whyItMatters": "Exposes deep-seated medical access and cultural hurdles in rural indigenous communities.",
-      "brief": "An outbreak claimed seven children's lives in Madhya Pradesh as authorities struggled against traditional Baiga community faith-healing preferences.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/faith-healing-poses-challenge-to-authorities-as-outbreak-kills-seven-tribal-children-in-madhya-pradesh/article71337123.ece",
-      "dateLocation": "Aug 13, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Hallmarking Set for 'Sold' Tag System",
-      "whyItMatters": "Prevents fraudulent reuse of unique numbers and curbs stolen jewelry resales.",
-      "brief": "The Indian government plans to mandate 'sold' tagging on hallmarked gold against unique identification numbers to protect buyers.",
+      "headline": "BofA Takes 49.9% Stake in Jio Credit",
+      "whyItMatters": "Deepens foreign financial investment in India's expanding digital credit market.",
+      "brief": "Bank of America is set to acquire a 49.9% stake in Jio Credit for $1.9 billion, marking a significant strategic expansion into India's financial sector.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/gold-hallmarking-to-get-sold-tag-to-protect-buyers-11786533635445.html",
-      "dateLocation": "Aug 13, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObm51WFhRd2F0bzV5VHZ0WUFsaS0xaVNkWWZiaWtscnE2VXZNUXJ2WWVubE1CV1J1cnpFTDhPWTF5dktfN2RoRXpVOGtqRUctZGd6YzI3MWJyNkQ3bUNFR3pNc2RuSmdiNW90Y2E3dEhEbXFVamNMZTFkMkF6am5xaklyVzAzS291dFpNUmJKaXB4NFBlM1ZYNkM1QjFzdlRqdTZwMVJ6UEtyNEZPd3c?oc=5",
+      "dateLocation": "2026-08-13 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Army Apache Helicopter Crashes in Texas",
-      "whyItMatters": "Results in tragic military casualties during routine training exercises.",
-      "brief": "Two US Army soldiers died when an Apache attack helicopter attached to the Fort Hood base crashed in Bell County, Texas.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/two-us-soldiers-killed-after-apache-military-helicopter-attached-to-fort-hood-base-crashes-in-texas-11786581142148.html",
-      "dateLocation": "Aug 13, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tehran Adopts Stricter Military Doctrine",
-      "whyItMatters": "Escalates geopolitical risks and threatens prolonged closure of maritime oil routes.",
-      "brief": "Iran signaled a shift to an offensive military doctrine and ruled out extending a peace deal amid ongoing Strait of Hormuz blockades.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/tehran-signals-shift-to-offensive-military-doctrine-rules-out-extension-of-june-interim-deal-11786562710400.html",
-      "dateLocation": "Aug 13, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Orders CBI Custodial Death Probe",
-      "whyItMatters": "Reinforces judicial accountability against administrative cover-ups in law enforcement.",
-      "brief": "The Supreme Court ordered a Central Bureau of Investigation probe into a Chhattisgarh custodial death, citing a deliberate police cover-up.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-orders-cbi-probe-into-chhattisgarh-custodial-death/articleshow/133193176.cms",
-      "dateLocation": "Aug 13, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Treasury Issues New Trump Account Rules",
-      "whyItMatters": "Implements tax-free payroll savings mechanisms funded by massive private donations.",
-      "brief": "The US Treasury and IRS released guidelines allowing payroll contributions and tax-free child savings accounts funded partly by large philanthropic gifts.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-his-wife-susan-dells-6-5-billion-donation-department-of-treasury-announces-new-paycheck-rules-for-trump-accounts/articleshow/133184869.cms",
-      "dateLocation": "Aug 13, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Amit Mishra Backs Gautam Gambhir as Coach",
-      "whyItMatters": "Provides veteran perspective on India's ongoing cricket team performance transitions.",
-      "brief": "Cricketer Amit Mishra defended head coach Gautam Gambhir, urging selectors to grant him more time despite recent Test match defeats.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/after-ten-defeats-in-19-tests-and-wtc-hopes-fading-amit-mishra-says-give-gautam-gambhir-more-time/articleshow/133183331.cms",
-      "dateLocation": "Aug 13, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Health Systems Strain Under Fifth European Heatwave",
-      "whyItMatters": "Demonstrates compounding climate change pressures on urban infrastructure and public health.",
-      "brief": "Europe's fifth major summer heatwave is set to peak in London, straining regional health systems and energy networks.",
+      "headline": "Air India Expands Mandatory Drug Testing for Pilots",
+      "whyItMatters": "Enhances aviation safety protocols following positive substance screening incidents.",
+      "brief": "Following a captain testing positive for marijuana, Air India has expanded comprehensive drug testing protocols to cover all pilots across its operations group.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/europes-fifth-heat-wave-of-summer-to-sear-london-on-thursday-11786577050839.html",
-      "dateLocation": "Aug 13, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGdKSXVDV1dRN2ZhSjdPUnAxVTRUTkZSUnZqVGp2eHhzX1RYa3Jtcm54RTZCMXJ6MTRtOFdCeC1SWVQzQXR4Y05Odjc4Ukx2c0JLb3QyXzJ1OGE1X1V6bVB1czhueHhySWdwUlplNWtqRWJSOTdWNWZ3Q1dMc3oyZWpsbEpGeDkzMENaZXkyVGMyMWRUNWZySU5ObXVySzRXdlFCTW04NC1LdjdqdG9IMw?oc=5",
+      "dateLocation": "2026-08-13 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Vijay's Jana Nayagan Crosses Rs 194 Crore",
-      "whyItMatters": "Reflects continuing box office dominance of major regional Indian film releases.",
-      "brief": "Thalapathy Vijay's starrer 'Jana Nayagan' maintained steady theatrical collections, pushing its total India net earnings past Rs 194 crore.",
+      "headline": "Turkey Proposes Regional Defence Pact",
+      "whyItMatters": "Could reshape geopolitical security alliances across South Asia and the Middle East.",
+      "brief": "Turkey has officially laid out structural plans for a comprehensive trilateral defence pact involving Pakistan and Saudi Arabia to bolster regional security cooperation.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWs3VXl5XzJEaGdzbG5aSE9QTXI5MHRWeE9pMXI5VlIwZkowSU5vbGZVS194RjNYTE5TckdnOXVsRGxMVlFKZmRfVDlhSnk2VW8tSVFNcE9oNE9BVUhDaG0wVzVlTVRtUzdWNHdfSkFqR3BlZ3dkbXp4LTFtYUc5amw1bkJ4V2NxbEl3MUpBaWJRSEFJM1N2OWpiZE11bXFOZ005Z3FkUDFJeGpqZXNfdVI2Nm9DcDc3amFiNkZNOWZ3NnVwUE9OdklwTjkycXc?oc=5",
+      "dateLocation": "2026-08-13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Google DeepMind Leadership Overhaul and AI Strategy",
+      "whyItMatters": "Reflects intensifying competition in foundational AI models and commercial readiness.",
+      "brief": "Following Demis Hassabis stepping aside as CEO, Google co-founder Sergey Brin has urged DeepMind staff to accelerate development to close gaps with industry rivals.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-co-founder-sergey-brin-has-a-message-for-deepmind-staff-after-demis-hassabis-exits-as-ceo-catch-up-to-the-/articleshow/133206534.cms",
+      "dateLocation": "2026-08-13 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sukhbir Singh Badal Attacked in Nanded",
+      "whyItMatters": "Raises serious concerns regarding high-profile political security and public safety standards.",
+      "brief": "Shiromani Akali Dal president Sukhbir Singh Badal survived an assault with a kirpan during a religious visit to a Nanded gurdwara, resulting in minor injuries.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/aurangabad/sukhbir-badal-attacked-with-kirpan-at-nanded-gurdwara-cop-injured-while-foiling-assault-how-events-unfolded/articleshow/133207266.cms",
+      "dateLocation": "2026-08-13 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IAF Moves Closer to ₹1 Lakh Crore Transport Deal",
+      "whyItMatters": "Crucial modernization step for India's strategic airlift and humanitarian response capabilities.",
+      "brief": "The Indian Air Force is advancing a massive procurement project to acquire sixty new medium transport aircraft to replace its ageing Soviet-era Antonov-32 fleet.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/iaf-moves-closer-to-rs-1-lakh-crore-transport-aircraft-deal-to-replace-ageing-an-32-fleet/articleshow/133209264.cms",
+      "dateLocation": "2026-08-13 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Cricket Team Intensifies Training in Galle",
+      "whyItMatters": "Sets the competitive tone ahead of high-stakes international Test match engagements.",
+      "brief": "The Indian cricket squad has ramped up rigorous training sessions focusing heavily on ambidextrous catching and fielding adaptability ahead of their upcoming opening Test.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-21-thalapathy-vijay-film-holds-at-rs-65-lakhs-india-net-reaches-rs-194-35-cr/articleshow/133195396.cms",
-      "dateLocation": "Aug 13, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/indias-cricket-team-intensifies-training-ahead-of-first-test-in-galle/article71340825.ece",
+      "dateLocation": "2026-08-13 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
