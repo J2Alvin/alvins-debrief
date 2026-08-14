@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-08-14T12:59:09.780Z",
+  "lastUpdated": "2026-08-14T18:49:15.443Z",
   "ticker": [
-    "Russian oil share hits record in India",
-    "US plans missile production boost amid Iran tensions",
-    "Sicily airport closed after Mount Etna eruption",
-    "US Labor official slams H-1B visa program",
-    "L&T secures $1.57B AI data centre order"
+    "India's Forex Reserves Surge Past $700 Billion",
+    "Oil Climbs Amid Tanker Attacks and Hormuz Tensions",
+    "Luigi Mangione Pleads Guilty in UnitedHealthcare CEO Murder",
+    "Maharashtra FDA Suspends Quick-Commerce Hub Licences",
+    "Four Central Asian Nations Hit by Power Blackouts"
   ],
   "articles": [
     {
-      "headline": "Russian Oil Share in India Surges",
-      "whyItMatters": "Highlights shifting global energy trade dynamics amidst ongoing sanctions.",
-      "brief": "Russia's share of India's oil imports surged to a record high in July, defying Western pressure and continuing robust economic ties.",
+      "headline": "Reliance Partners with Rolls-Royce for Fighter Jet Engines",
+      "whyItMatters": "Strengthens India's domestic defense manufacturing and aerospace capabilities.",
+      "brief": "India's Reliance has announced a strategic partnership with Rolls-Royce to co-develop combat engines for advanced fighter jets, boosting indigenous military production.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZU9VQXE3NDh3R0tOMTBrV2hZMElYYlhhOEtIUnJvWWlDQ0FMbTdXZUhDdTBvbG9wSDZXU3B5eVFLWkdPWFczZ0Jsd2RTOXlUTnhOVXlCMDZCLXN4dU5ITjlIZFFiN1o2WWZra1dJM2ZLeDZmOHRSYk02NzFPZC1IT1lxeHY2XzJ3LWpIb0JsZDRQTk5OOEZkX2VESElqVmtoVkZnaU5LR1NFRHkyNHVrTGtoblA5ZmtGYkxV?oc=5",
+      "dateLocation": "August 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Russian Share of India Oil Imports Hits Record High",
+      "whyItMatters": "Highlights shifting global energy trade dynamics and discounted crude reliance.",
+      "brief": "Russia's share of India's total oil imports surged to an all-time record high in July, driven by sustained discounts and robust domestic refining demand.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxHbTB6WThhNjVWQU5yUmpiMmpHWjV5V29PeHJtamcycVNGdUwwUWhOX3RTby1UZzJfeDZjaHhvSWNtQ0ZkNTNfSTg2a2Q0cWUtb3hhbHJsOU9ZSVlQaFFwMXZHOWNPN0ltbUJnSWVjSWl0SkVSVzVJN3ROd2VQSnRFTzFtQ0w5cFg3SUptVFdBa054RGhoeVdYa01pTmFESEVQeG5FSEJsZEdR?oc=5",
       "dateLocation": "August 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Air India A320 Flight Control Issue",
-      "whyItMatters": "Raises critical aviation safety concerns regarding major commercial aircraft fleets.",
-      "brief": "An Airbus analysis reveals that an Air India A320 briefly lost key flight controls during operations, sparking safety reviews.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1dOT2VGU2hhRVpqX0JCTnRiR1VydTZMbkJ6Z2lkOVBSc3BncGhTbGpROVFXc0E1dkI5WWRaQ0tJLTJXNVZyY256U1Rmb1Q1SnBsN1lNTUswWlE5SF9ua2RGWGpTUlBQQ2llREpTNDlUQjV0UGRYcnVtbXI3QnRHZEZTWjBvWjdkdC1ETU12dXUzaTBsWWFQQlJmYnJISWxnN2R3QnJJUkZuMVZ0OUozc2liMlk4VVQzeXpZSFZ5UFM?oc=5",
+      "headline": "Four Central Asian Nations Hit by Simultaneous Blackouts",
+      "whyItMatters": "Exposes regional grid vulnerabilities and energy infrastructure fragility.",
+      "brief": "Four Central Asian countries experienced simultaneous and massive power blackouts, causing widespread disruptions to public services and local industries.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmN3SWlQVF9NeW1ZX1dvZHBWeFQxSEk1VGdvTVRJTE5nYkhtcnVuWTFTWjBUbzljbjRNVllJNlVjMlRxajVpT25ycWJIaDkxNjN5WTJfSFJtU1VZMFB1VVJtMU94QTdEX1VXOGhjekN6RFlqSU91TDBjMGJCNzNVbjFfeUdyT0F2dTlLRjhvT0h3LUdxTk92RjdZWGVtemhPa291elFCSlAwMk9tV0V6dVNXQlRpRkJz?oc=5",
       "dateLocation": "August 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Massive Oil Spill Threatens Oman Coastline",
+      "whyItMatters": "Poses severe ecological risks to marine life and regional shipping routes.",
+      "brief": "Two massive oil slicks have emerged off the coast of Oman following a severe maritime incident, triggering emergency environmental disaster responses.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
+      "dateLocation": "August 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Centre Scraps 20-Year-Old 12-Minute TV Ad Cap",
+      "whyItMatters": "Redefines broadcasting regulations and advertising standards for Indian television viewers.",
+      "brief": "The Information and Broadcasting Ministry has officially scrapped the two-decade-old 12-minute cap on TV ad breaks, citing an obsolete media landscape.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/ad-breaks-to-get-longer-centre-scraps-20-year-old-12-minute-cap-on-tv-what-does-it-mean-for-viewers-11786722555520.html",
+      "dateLocation": "August 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Russia Discuss Northern Sea Route Trade",
+      "whyItMatters": "Expands bilateral trade routes and deepens Arctic economic cooperation.",
+      "brief": "India and Russia are engaged in high-level talks to deepen cooperation along the Northern Sea Route as Moscow advances its Arctic trade corridor.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/india-russia-discuss-deeper-cooperation-on-northern-sea-route-amid-moscows-arctic-trade-push-mea-11786724067708.html",
+      "dateLocation": "August 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Over 1 Million Eggs Recalled in US Over Salmonella",
+      "whyItMatters": "Highlights critical food safety lapses and public health risks.",
+      "brief": "Health authorities have issued a major recall for nearly 1.6 million dozen eggs across the US due to a multistate Salmonella outbreak.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/us-news/over-1-million-eggs-recalled-in-us-over-possible-contamination-check-your-fridge-11786723425055.html",
+      "dateLocation": "August 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maharashtra FDA Suspends Quick-Commerce Hub Licences",
+      "whyItMatters": "Cracks down on severe hygiene and food safety violations in online retail.",
+      "brief": "The Maharashtra FDA suspended 14 dark store licences for Blinkit, Zepto, and Instamart after inspections revealed severe pest infestations and expired items.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cockroaches-expired-food-maharashtra-fda-suspends-14-licences-linked-to-blinkit-zepto-instamart/articleshow/133248610.cms",
+      "dateLocation": "August 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Luigi Mangione Pleads Guilty in Healthcare CEO Murder",
+      "whyItMatters": "Concludes a high-profile federal case shaking corporate security standards.",
+      "brief": "Luigi Mangione has pleaded guilty to federal stalking charges in Manhattan for the fatal shooting of UnitedHealthcare CEO Brian Thompson.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/i-shot-him-luigi-mangione-pleads-guilty-to-killing-united-healthcare-ceo-sentencing-on-dec-18/articleshow/133247371.cms",
+      "dateLocation": "August 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rajnath Singh Condemns Opposition Remarks on Foreign Policy",
+      "whyItMatters": "Intensifies political friction regarding India's international diplomatic relations.",
+      "brief": "Defense Minister Rajnath Singh slammed opposition remarks on foreign policy as petty, while the MEA stressed maintaining respectful ties with Italy.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/rajnath-singh-condemns-rahul-gandhis-remarks-on-pm-modi-foreign-policy-as-petty-and-condemnable-11786714117311.html",
+      "dateLocation": "August 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oracle Prepares Fresh Wave of Layoffs Before September",
+      "whyItMatters": "Reflects ongoing workforce adjustments as tech giants pivot toward AI investments.",
+      "brief": "Oracle has directed managers to identify roles for elimination ahead of its fiscal quarter, following massive restructuring and AI data center spending.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-as-oracle-leadership-prepares-to-send-6am-layoff-email-on-september-1-company-asks-managers-to-give-a-list-of/articleshow/133235370.cms",
+      "dateLocation": "August 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AI Boom Drives Silicon Valley Luxury Real Estate Record",
+      "whyItMatters": "Demonstrates the immense localized economic impact of wealth generation in artificial intelligence.",
+      "brief": "A Silicon Valley estate has shattered regional real estate records with a staggering $70 million sale to an artificial intelligence sector leader.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/real-estate/news/70-million-sale-how-ai-boom-is-pushing-silicon-valley-luxury-housing-to-new-heights/articleshow/133247896.cms",
+      "dateLocation": "August 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Four Losses Leave India Facing Steep WTC Climb",
+      "whyItMatters": "Determines the qualification path for the national cricket team in the championship.",
+      "brief": "With four defeats already recorded, captain Shubman Gill notes that India must win six to seven of their remaining nine Tests to reach the WTC final.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/four-losses-already-nine-tests-left-what-shubman-gills-india-need-to-do-to-reach-wtc-final/articleshow/133242824.cms",
+      "dateLocation": "August 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Fresh Odisha Floods Force 41,000 Residents to Relocate",
+      "whyItMatters": "Highlights recurring monsoon vulnerabilities and the need for disaster management.",
+      "brief": "Fresh flooding across six districts in Odisha has displaced over 41,000 people, prompting emergency evacuations and relief camp setups by state authorities.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/fresh-floods-hit-six-odisha-districts-over-41000-people-moved-to-safer-locations/articleshow/133248771.cms",
+      "dateLocation": "August 14, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Chinese Humanoid Robot Maker Unitree Debuts",
-      "whyItMatters": "Demonstrates rapid advancements and commercial valuation of AI robotics in Asia.",
-      "brief": "Chinese humanoid robot manufacturer Unitree is powering up for a stellar debut on the Shanghai stock exchange.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSENjb1cza2hQbmdXeGo1MjBzZHNZYmV5aUVkWjF5Ump0LU5qdXZReXh6NTV2Z0RITE04ZTU2OHZRWjM1VTB2SHFlaFVwbGdVVlIzdUE3ZEkzWm5TY29INmVmVXBSS2l5dlZ4Znc1RF80N0pTdFVHWlUxUW50ZHpfTC1vb2NaZXJ3VTFMeGVHUVUteXF3UEs1SHZBMmZHcjJlTGR5SGNOMHo5YS1HOXNXM29zMU5mME1Ma3JMVzdpN0NkQQ?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Asian Refiners Pivot to US Crude",
-      "whyItMatters": "Global shipping bottlenecks are actively forcing permanent adjustments in supply chains.",
-      "brief": "Asian refiners are purchasing more US crude oil as the Strait of Hormuz remains blocked, according to industry traders.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlN0VmVmMnYyZEZPYkVONE5aOWdIYjAwcnJWVkVCd3l0bGNGaS1sbExKRklIY1F1MW12elZPYWh6ZkNTR2JZU1V5TVBoV2pTYVgwMld4c1FUWDQ0K0JlblJvUEhjcy05TUotenBvLVpWSlJ3V0VWZFpQZXA4WGwwMjVTRk1CbVY2eUI3NnRYbG5WQjBDNFIyTzJwWVRXQS1ySks0MU1RM2xZV1RQNFNLZHJLUEI1Q1kydFVv?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "L&T Secures Massive AI Data Centre Order",
-      "whyItMatters": "Signals rapid infrastructure growth to support booming artificial intelligence workloads globally.",
-      "brief": "India's Larsen and Toubro has secured a massive AI data centre order worth up to $1.57 billion.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Taliban to Host Victory Day in India",
-      "whyItMatters": "Reflects profound geopolitical realignments and changing diplomatic engagements in South Asia.",
-      "brief": "The Taliban will host its first public Victory Day reception in India, marking five years since returning to power.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/taliban-to-host-first-public-victory-day-reception-in-india-on-august-17-11786708538225.html",
+      "headline": "Four Die of Toxic Gas Inhalation in Bihar Well",
+      "whyItMatters": "Serves as a grim reminder of safety hazards in rural infrastructure maintenance.",
+      "brief": "Four individuals tragically died from asphyxiation after inhaling toxic gas while working inside a deep well in Gaya Ji, prompting state compensation.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/bihar-news-4-die-of-asphyxiation-after-inhaling-toxic-gas-inside-a-well-in-gaya-ji-11786725572392.html",
       "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sicily Airport Shuts Down Over Volcanic Eruption",
-      "whyItMatters": "Severe disruptions to European travel networks impacting over a thousand flights.",
-      "brief": "Catania Airport in Sicily shut down completely following a major Mount Etna eruption, resulting in extensive flight cancellations.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/sicilys-catania-airport-shuts-down-due-to-mount-etna-eruption-1-1786697958506.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Health Minister JP Nadda Undergoes Angiography",
-      "whyItMatters": "High-profile medical update regarding a key federal cabinet minister in India.",
-      "brief": "Union health minister JP Nadda was admitted to AIIMS Delhi after experiencing uneasiness and underwent a successful coronary angiography.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/union-health-minister-jp-nadda-admitted-to-aiims-delhi-after-uneasiness-undergoes-coronary-angiography-11786698611645.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NSA Doval Defends Operation Sindoor",
-      "whyItMatters": "Reasserts India's military doctrine and cross-border security posture against terrorism.",
-      "brief": "National Security Adviser Ajit Doval stated that Operation Sindoor delivered a clear message that India will take decisive risks.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/dont-mistake-indias-generosity-with-weakness-nsa-ajit-doval-on-purpose-of-88-hour-operation-sindoor/articleshow/133238054.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Labor Official Criticizes H-1B Visa Program",
-      "whyItMatters": "Could lead to stricter regulatory frameworks affecting international tech professionals and firms.",
-      "brief": "A US Department of Labor official has severely criticized the H-1B program, blaming federal oversight and companies for exploitation.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-department-of-labor-official-anthony-desposito-slams-h-1b-program-but-says-the-real-people-to-blame-are-not-workers-on-h-1b-visas-but-federal-government-as-/articleshow/133227757.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Shubman Gill Sets Sights on WTC Final",
-      "whyItMatters": "Outlines India's long-term strategic ambitions in international test cricket.",
-      "brief": "Indian cricketer Shubman Gill emphasized that the team's primary goal remains reaching the upcoming World Test Championship final.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/focus-on-galle-eye-on-the-oval-goal-is-to-play-wtc-final-says-shubman-gill/articleshow/133240748.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Boosts Missile Production Amid Conflicts",
-      "whyItMatters": "Highlights defense sector scaling to meet mounting geopolitical pressures and wartime demands.",
-      "brief": "The United States is moving to significantly boost production of key missile defense components amid ongoing global conflicts.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/us-moves-to-boost-production-of-sm-3-missile-defence-components-amid-iran-war-boeing-rtx/articleshow/133241264.cms",
-      "dateLocation": "August 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FCNR and ECB Inflows Projected to Surge",
-      "whyItMatters": "Important macro-financial indicator strengthening foreign exchange reserves and banking liquidity.",
-      "brief": "New banking measures are expected to draw between $90 to $95 billion in capital inflows during the upcoming fiscal year.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-ecb-measures-to-draw-90-95-bn-capital-inflows-in-fy27-report/articleshow/133240769.cms",
-      "dateLocation": "August 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Chamoli Tunnel Collapse Triggers Rescue Ops",
-      "whyItMatters": "Highlights recurring infrastructural and disaster management challenges in mountainous regions.",
-      "brief": "NDRF teams rescued 12 workers following a tunnel collapse in Chamoli, while search efforts continue for three missing individuals.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/12-rescued-three-remaining-missing-in-chamoli-tunnel-incident-ndrf/articleshow/133240630.cms",
-      "dateLocation": "August 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Starc and Mehidy Clash in Darwin Test",
-      "whyItMatters": "Brings high-octane competitive drama to international cricket encounters.",
-      "brief": "Australia's Mitchell Starc and Bangladesh's Mehidy Hasan engaged in a heated verbal exchange during a tense test match.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/youre-not-in-bangladesh-now-mitchell-starc-mehidy-hasan-clash-as-visitors-dominate-darwin-test-watch/articleshow/133238380.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
