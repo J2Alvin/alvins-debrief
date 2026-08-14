@@ -1,156 +1,147 @@
 {
-  "lastUpdated": "2026-08-13T18:59:11.419Z",
+  "lastUpdated": "2026-08-14T01:41:28.793Z",
   "ticker": [
-    "US keeps naval blockade on Iranian ports",
-    "Uttarakhand tunnel rescue operations underway",
-    "Google unveils Gemini 3.7 Flash AI model",
-    "State Bank of India raises $500M",
-    "Bar Council of India reverses Nalsar ban"
+    "US and Iran clash over Strait of Hormuz naval blockade",
+    "Larsen and Toubro secures $1.57B AI data centre order",
+    "Uttarakhand tunnel collapse leaves 6 dead and 14 injured",
+    "US court backs Trump's power to close tariff loopholes",
+    "Google unveils Gemini 3.7 Flash AI model for coding"
   ],
   "articles": [
     {
-      "headline": "Larsen and Toubro Secures $1.57B AI Data Centre Order",
+      "headline": "Larsen & Toubro Secures $1.57B AI Data Centre Order",
       "whyItMatters": "Signals massive infrastructure spending on artificial intelligence capabilities in India.",
-      "brief": "Larsen and Toubro has secured a major order worth up to $1.57 billion to construct an advanced AI data centre in India.",
+      "brief": "Engineering giant Larsen and Toubro has secured a major contract worth up to $1.57 billion to construct an advanced AI data centre in India, highlighting rapid technological expansion.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lyOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
-      "dateLocation": "Today | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
+      "dateLocation": "August 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Google Unveils Gemini 3.7 Flash AI Model",
-      "whyItMatters": "Advances coding and agent workflow automation for enterprise developers globally.",
-      "brief": "Google has officially introduced the Gemini 3.7 Flash AI model, specifically optimized for enhanced coding tasks and complex agent workflows.",
+      "whyItMatters": "Advances coding capabilities and agent workflows in enterprise software development.",
+      "brief": "Google has announced the release of Gemini 3.7 Flash, an advanced artificial intelligence model designed to enhance coding tasks and complex automated agent workflows.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
-      "dateLocation": "Today | Reuters",
+      "dateLocation": "August 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "State Bank of India Raises $500 Million Overseas",
-      "whyItMatters": "Demonstrates strong international investor confidence in Indian financial institutions.",
-      "brief": "The State Bank of India successfully raised $500 million through overseas bonds, drawing robust international orders totaling $2.46 billion.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/business-of-life/state-bank-of-india-raises-500-million-via-5-25-bonds-in-overseas-market-issue-attracts-2-46-billion-orders-11786639692141.html",
-      "dateLocation": "Today | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cerebras Slumps on Mixed Quarterly Results",
-      "whyItMatters": "Tests broader market confidence in the ongoing hardware-driven artificial intelligence growth narrative.",
-      "brief": "Cerebras shares dropped following mixed quarterly financial results, leading investors to question near-term AI hardware growth trajectories.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUo1UndBenVpbnhDNXAwazVSelR2aDVlTzI3N1dLWFRRU2h2Wm5YX1ZraDY1VFZ2bS1laVh5MndyZU00c010d0IxTG5jMmk4ODRob3ZrOG5YXy1HYkpmZ2Q0czFiZGxuWnNwYVltXzhFemlwOHg5RVh0VWFNUmtnS3RyRmc2Nml2QnE5Vk9GaGNfcTZ0dlZsaDZ2ckVBTHZISFdWM21MSTgydzFwM1E?oc=5",
-      "dateLocation": "Today | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Can Maintain Iran Naval Blockade Indefinitely",
-      "whyItMatters": "Escalates geopolitical tensions and secures strategic choke points in the Middle East.",
-      "brief": "The Pentagon chief asserted that the United States Navy can maintain its ongoing naval blockade on Iranian ports indefinitely through rotations.",
+      "headline": "UAE Reports Attack on Two ADNOC Vessels",
+      "whyItMatters": "Escalates maritime security threats and geopolitical tensions in the Strait of Hormuz.",
+      "brief": "The UAE has confirmed that Iran attacked two ADNOC vessels in the Strait of Hormuz, though no injuries were reported amidst soaring regional conflict.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
-      "dateLocation": "Today | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGt4emw3dzdDaUdoNmsxMmRjMlkwZUJCUVlURko4RzRvMjUybnlUMVRGUnFLT0plclNLYkt0dGN1RV9fZnQ3QlE2UkN0d002blZDVUtTX0JwQXhkbXVDZ25WbDBLWld0anI2MmEtMUJOUFVNUTVDeVhpOXlldTQtQmlMVmVzcE1KS0tnWHhUNWtodmJRNjJWNFEyak9ZSGRadktNS3FMZ2tjc0o3MEh6eXEwcTZjY1Q3dmg1eg?oc=5",
+      "dateLocation": "August 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "WHO Warns Congo Ebola Outbreak May Turn Deadliest",
-      "whyItMatters": "Highlights urgent public health risks and the potential for a massive regional epidemic.",
-      "brief": "With over 4,500 infections and 2,100 deaths recorded, the WHO warns that the escalating Ebola outbreak in Congo could become history's deadliest.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/world/ebola-outbreak-in-congo-4-500-infected-2-100-dead-who-warns-of-potentially-deadliest-epidemic-ever-11786629651230.html",
-      "dateLocation": "Today | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Navy Blockade on Iranian Ports Can Last Indefinitely",
+      "whyItMatters": "Demonstrates long-term strategic military commitment by Washington against Tehran.",
+      "brief": "The Pentagon chief stated that the United States possesses the capacity to maintain its naval blockade on Iranian ports indefinitely as economic warfare intensifies.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
+      "dateLocation": "August 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Pulls Up FSSAI Over Warning Labels",
-      "whyItMatters": "Directly impacts consumer health transparency and food safety regulations across the country.",
-      "brief": "The Supreme Court sharply criticized FSSAI and central authorities over delays in implementing clear front-of-pack warning labels on food items.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/you-dont-want-people-of-this-country-to-remain-healthy-sc-pulls-up-fssai-centre-over-front-of-pack-warning-labels/articleshow/133216080.cms",
-      "dateLocation": "Today | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Hillhouse Plans to Double India Investments",
+      "whyItMatters": "Highlights growing foreign direct investment confidence in Indian real estate and data sectors.",
+      "brief": "Singapore-based Hillhouse is scaling up its presence in India with plans to double its investments, focusing heavily on real estate and critical digital infrastructure.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/singapore-based-hillhouse-plans-to-double-india-investments-with-real-estate-data-centres-in-focus/articleshow/133223528.cms",
+      "dateLocation": "August 14, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Uttarakhand Tunnel Collapse Traps Six Workers",
-      "whyItMatters": "Triggers emergency rescue efforts at a critical infrastructure construction site.",
-      "brief": "Rescue teams are racing against time in Chamoli after an influx of water and debris left six workers trapped inside a tunnel.",
+      "headline": "US Court Backs Power to Close Tariff Loopholes",
+      "whyItMatters": "Strengthens executive authority over trade enforcement and de minimis exemption rules.",
+      "brief": "A federal court has delivered a major victory to the administration by upholding its authority to close tariff exemptions and tackle lost trade revenue.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-court-backs-trumps-power-to-close-de-minimis-tariff-exemption/articleshow/133226789.cms",
+      "dateLocation": "August 14, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Uttarakhand Tunnel Collapse Leaves Six Workers Dead",
+      "whyItMatters": "Raises renewed concerns over safety protocols in major Himalayan infrastructure projects.",
+      "brief": "Six workers lost their lives and several others were injured after sudden water and debris rushed into an under-construction hydroelectric tunnel in Chamoli.",
       "category": "general",
       "sourceUrl": "https://www.livemint.com/news/india/uttarakhand-tunnel-collapse-6-workers-trapped-16-rescued-after-water-debris-chamoli-news-rescue-operation-11786638418522.html",
-      "dateLocation": "Today | LiveMint",
+      "dateLocation": "August 14, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bar Council Reverses Nalsar Enrollment Ban",
-      "whyItMatters": "Resolves a major legal education controversy concerning student activism and regulatory overreach.",
-      "brief": "The Bar Council of India quickly reversed its blanket enrolment ban on Nalsar’s 2026 graduating batch, noting most students were innocent.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/bci-halts-enrolment-of-nalsar-2026-law-graduates-over-alleged-cji-convocation-campaign-11786634217077.html",
-      "dateLocation": "Today | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "North Korea Condemns New US Nuclear Strategy",
+      "whyItMatters": "Warns of an escalating regional arms race on the Korean peninsula.",
+      "brief": "Pyongyang has slammed upcoming military drills between the US and South Korea, stating that Washington's revised nuclear strategy will trigger a dangerous arms race.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/north-korea-says-new-us-nuclear-strategy-will-trigger-fresh-arms-race-11786670656376.html",
+      "dateLocation": "August 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Colleges Face Major Drop in Foreign Students",
+      "whyItMatters": "Impacts higher education revenue and international student enrollment trends, particularly from India.",
+      "brief": "Stricter visa policies and processing shifts are projected to cause a massive 110,000 drop in foreign student enrollment across American universities this year.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-colleges-face-1-1-lakh-drop-in-foreign-students-in-2026-amid-stricter-visa-rules-what-indian-students-need-to-know-11786649101711.html",
+      "dateLocation": "August 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Air India Expands Drug Testing for All Pilots",
-      "whyItMatters": "Strengthens aviation safety standards following a high-profile crew drug test failure.",
-      "brief": "Air India has broadened mandatory drug testing protocols to cover all pilots after a captain recently tested positive for marijuana use.",
-      "category": "business",
+      "whyItMatters": "Enforces stricter workplace safety and compliance standards within commercial aviation.",
+      "brief": "Following a pilot testing positive for marijuana, Air India has officially expanded its mandatory drug testing protocol to cover all active cockpit crew members.",
+      "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGdKSXVDV1dRN2ZhSjdPUnAxVTRUTkZSUnZqVGp2eHhzX1RYa3Jtcm54RTZCMXJ6MTRtOFdCeC1SWVQzQXR4Y05Odjc4Ukx2c0JLb3QyXzJ1OGE1X1V6bVB1czhueHhySWdwUlplNWtqRWJSOTdWNWZ3Q1dMc3oyZWpsbEpGeDkzMENaZXkyVGMyMWRUNWZySU5ObXVySzRXdlFCTW04NC1LdjdqdG9IMw?oc=5",
-      "dateLocation": "Today | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "August 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Jharkhand CM Urges PM Modi to Reconsider Mining Bill",
-      "whyItMatters": "Highlights fiscal federalism disputes and state revenue protection against central legislative changes.",
-      "brief": "Jharkhand Chief Minister Soren wrote to Prime Minister Modi, warning that the proposed mining bill severely threatens the state's finances.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/jharkhand-cm-soren-urges-pm-modi-to-reconsider-mining-bill-flags-impact-on-states-finances/articleshow/133221569.cms",
-      "dateLocation": "Today | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Food Safety Checks Expose Gaps in Bengaluru",
+      "whyItMatters": "Highlights vulnerabilities in urban food supply chains and regulatory enforcement.",
+      "brief": "Recent food safety inspections across Bengaluru restaurants and quick-commerce warehouses reveal that higher pricing does not guarantee compliance with safety standards.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/safety-not-on-the-platter-bengalurus-food-safety-checks-expose-gaps-from-star-hotels-to-quick-commerce-warehouses/article71338545.ece",
+      "dateLocation": "August 14, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Parties Vie for Dalit Votes Amid BSP Decline",
-      "whyItMatters": "Shifts electoral dynamics significantly ahead of upcoming assembly elections in Uttar Pradesh.",
-      "brief": "Major political parties in Uttar Pradesh are aggressively courting Dalit voters to fill the political vacuum left by Mayawati's shrinking base.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/2027-up-assembly-elections-how-parties-are-vying-for-dalit-votes-amid-mayawatis-shrinking-base/articleshow/133213851.cms",
-      "dateLocation": "Today | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Auqib Nabi Recalls Surprise India Cricket Call-Up",
-      "whyItMatters": "Highlights unexpected sporting breakthroughs for domestic fast bowlers entering international series.",
-      "brief": "Fast bowler Auqib Nabi reflected on his shock inclusion in the Indian cricket squad as a replacement for the injured Jasprit Bumrah.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/udhar-nahi-jaana-auqib-nabi-recalls-how-india-call-up-came-as-a-surprise-watch/articleshow/133210694.cms",
-      "dateLocation": "Today | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rithik Guides Team to Victory in TNPL Thriller",
-      "whyItMatters": "Showcases emerging domestic talent in high-pressure regional Twenty20 cricket tournament matches.",
-      "brief": "Rithik delivered a stellar performance to secure a dramatic last-ball victory for his side in the latest TNPL cricket encounter.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/rithik-is-royal-king-guides-team-home-in-a-thriller/article71342700.ece",
-      "dateLocation": "Today | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Turkey Plans Defense Pact with Pakistan and Saudi Arabia",
-      "whyItMatters": "Reshapes regional security alliances and military cooperation across the Middle East and Asia.",
-      "brief": "Turkey has officially laid out comprehensive plans for a multi-nation defense pact involving both Pakistan and Saudi Arabia.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWs3VXl5XzJEaGdzbG5aSE9QTXI5MHRWeE9pMXI5VlIwZkowSU5vbGZVS194RjNYTE5TckdnOXVsRGxMVlFKZmRfVDlhSnk2VW8tSVFNcE9oNE9BVUhDaG0wVzVlTVRtUzdWNHdfSkFqR3BlZ3dkbXp4LTFtYUc5amw1bkJ4V2NxbEl3MUpBaWJRSEFJM1N2OWpiZE11bXFOZ005Z3FkUDFJeGpqZXNfdVI2Nm9DcDc3amFiNkZNOWZ3NnVwUE9OdklwTjkycXc?oc=5",
-      "dateLocation": "Today | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Air India CEO Warns Staff Over Strict Rule Enforcement",
-      "whyItMatters": "Emphasizes corporate accountability and operational discipline within major airline carriers.",
-      "brief": "Air India CEO Campbell Wilson warned employees that consequences for protocol violations will increase significantly moving forward.",
+      "headline": "Rapido Secures Five-Year Cab Licence in Karnataka",
+      "whyItMatters": "Strengthens ride-hailing market competition and regulatory clarity for aggregators.",
+      "brief": "The Karnataka government has granted Rapido a five-year cab operating licence valid through August 2031, providing long-term stability for its transport services.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/consequences-will-get-higher-air-india-ceo-campbell-wilson-tells-staff-amid-crackdown-on-rule-violations/articleshow/133219862.cms",
-      "dateLocation": "Today | Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/rapido-gets-5-year-cab-licence-from-karnataka-government-valid-till-august-2031/articleshow/133220667.cms",
+      "dateLocation": "August 14, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Harry Brook Open to Indian Premier League Return",
+      "whyItMatters": "Reignites international player participation discussions within premier cricket leagues.",
+      "brief": "England white-ball captain Harry Brook has reversed his stance, expressing openness to an eventual return to the Indian Premier League despite prior bans.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/great-competition-brook-takes-u-turn-opens-door-on-ipl-return-amid-ban/articleshow/133218313.cms",
+      "dateLocation": "August 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Esports Aims for Mainstream Appeal Like IPL",
+      "whyItMatters": "Reflects the commercial evolution and shifting cultural status of competitive gaming.",
+      "brief": "Industry executives at the Esports World Cup are actively pushing to model player fandom and mainstream cultural recognition after traditional cricket leagues.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/esports/news/id-love-players-to-be-mobbed-like-ipl-cricketers-the-push-to-make-esports-mainstream/articleshow/133226808.cms",
+      "dateLocation": "August 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Opposition Wrests Narrative in Paralysed Parliament",
+      "whyItMatters": "Underscores intensifying political gridlock and legislative standoff in national governance.",
+      "brief": "The parliamentary session faced severe disruption as opposition parties leveraged key policy absence and legislative bills to corner the ruling coalition.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/behind-the-parliament-standoff-how-hms-absence-delimitation-bill-and-fcra-played-out/articleshow/133223771.cms",
+      "dateLocation": "August 14, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
