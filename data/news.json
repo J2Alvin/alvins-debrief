@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-08-14T01:41:28.793Z",
+  "lastUpdated": "2026-08-14T07:19:54.825Z",
   "ticker": [
-    "US and Iran clash over Strait of Hormuz naval blockade",
-    "Larsen and Toubro secures $1.57B AI data centre order",
-    "Uttarakhand tunnel collapse leaves 6 dead and 14 injured",
-    "US court backs Trump's power to close tariff loopholes",
-    "Google unveils Gemini 3.7 Flash AI model for coding"
+    "US threatens indefinite blockade of Iran over regional security",
+    "India announces Census 2027 with comprehensive caste enumeration",
+    "Trump slaps 100% tariffs on imported drones to boost security",
+    "Supreme Court backs NALSAR students, slams Bar Council circular",
+    "Larsen and Toubro secures massive $1.57B AI data centre order"
   ],
   "articles": [
     {
-      "headline": "Larsen & Toubro Secures $1.57B AI Data Centre Order",
-      "whyItMatters": "Signals massive infrastructure spending on artificial intelligence capabilities in India.",
-      "brief": "Engineering giant Larsen and Toubro has secured a major contract worth up to $1.57 billion to construct an advanced AI data centre in India, highlighting rapid technological expansion.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Google Unveils Gemini 3.7 Flash AI Model",
-      "whyItMatters": "Advances coding capabilities and agent workflows in enterprise software development.",
-      "brief": "Google has announced the release of Gemini 3.7 Flash, an advanced artificial intelligence model designed to enhance coding tasks and complex automated agent workflows.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UAE Reports Attack on Two ADNOC Vessels",
-      "whyItMatters": "Escalates maritime security threats and geopolitical tensions in the Strait of Hormuz.",
-      "brief": "The UAE has confirmed that Iran attacked two ADNOC vessels in the Strait of Hormuz, though no injuries were reported amidst soaring regional conflict.",
+      "headline": "US Threatens Indefinite Blockade of Iran",
+      "whyItMatters": "Escalates geopolitical tensions in the Middle East and threatens global crude supplies.",
+      "brief": "The US has threatened an indefinite blockade on Iran, prompting sharp international reactions and sending oil markets scrambling as tensions mount in the Strait of Hormuz.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGt4emw3dzdDaUdoNmsxMmRjMlkwZUJCUVlURko4RzRvMjUybnlUMVRGUnFLT0plclNLYkt0dGN1RV9fZnQ3QlE2UkN0d002blZDVUtTX0JwQXhkbXVDZ25WbDBLWld0anI2MmEtMUJOUFVNUTVDeVhpOXlldTQtQmlMVmVzcE1KS0tnWHhUNWtodmJRNjJWNFEyak9ZSGRadktNS3FMZ2tjc0o3MEh6eXEwcTZjY1Q3dmg1eg?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
+      "dateLocation": "2026-08-14 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Navy Blockade on Iranian Ports Can Last Indefinitely",
-      "whyItMatters": "Demonstrates long-term strategic military commitment by Washington against Tehran.",
-      "brief": "The Pentagon chief stated that the United States possesses the capacity to maintain its naval blockade on Iranian ports indefinitely as economic warfare intensifies.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Launches Census 2027 with Caste Enumeration",
+      "whyItMatters": "Crucial demographic data will shape future reservation policies and resource allocations.",
+      "brief": "The Indian government has released funds for Census 2027, confirming that the second phase will include a comprehensive caste enumeration starting from Ladakh and snow-bound areas.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/census-2027-4-102-core-released-ladakh-snow-bound-areas-to-lead-caste-enumeration-govt-reveals-cost-timeline-11786679808413.html",
+      "dateLocation": "2026-08-14 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Hillhouse Plans to Double India Investments",
-      "whyItMatters": "Highlights growing foreign direct investment confidence in Indian real estate and data sectors.",
-      "brief": "Singapore-based Hillhouse is scaling up its presence in India with plans to double its investments, focusing heavily on real estate and critical digital infrastructure.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/singapore-based-hillhouse-plans-to-double-india-investments-with-real-estate-data-centres-in-focus/articleshow/133223528.cms",
-      "dateLocation": "August 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Trump Imposes 100% Tariffs on Drone Imports",
+      "whyItMatters": "Aims to dismantle Chinese dominance in the critical autonomous tech manufacturing sector.",
+      "brief": "US President Donald Trump announced up to 100% tariffs on imported drones and components to boost domestic production and safeguard American national security supply chains.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-announces-100-tariffs-on-drone-imports-citing-national-security-reasons-heres-what-we-know-11786679633616.html",
+      "dateLocation": "2026-08-14 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Court Backs Power to Close Tariff Loopholes",
-      "whyItMatters": "Strengthens executive authority over trade enforcement and de minimis exemption rules.",
-      "brief": "A federal court has delivered a major victory to the administration by upholding its authority to close tariff exemptions and tackle lost trade revenue.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-court-backs-trumps-power-to-close-de-minimis-tariff-exemption/articleshow/133226789.cms",
-      "dateLocation": "August 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Uttarakhand Tunnel Collapse Leaves Six Workers Dead",
-      "whyItMatters": "Raises renewed concerns over safety protocols in major Himalayan infrastructure projects.",
-      "brief": "Six workers lost their lives and several others were injured after sudden water and debris rushed into an under-construction hydroelectric tunnel in Chamoli.",
+      "headline": "Supreme Court Slams Bar Council Over NALSAR Row",
+      "whyItMatters": "Defends institutional autonomy and protects young legal professionals from arbitrary disciplinary actions.",
+      "brief": "The Supreme Court strongly criticized the Bar Council of India over threatened punitive actions against NALSAR law graduates, prompting the BCI to withdraw its controversial circular.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/uttarakhand-tunnel-collapse-6-workers-trapped-16-rescued-after-water-debris-chamoli-news-rescue-operation-11786638418522.html",
-      "dateLocation": "August 14, 2026 | Livemint",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/supreme-court-backs-nalsar-students-and-slams-bci-circular-cji-surya-kant-asks-who-are-they-to-interfere/articleshow/133229942.cms",
+      "dateLocation": "2026-08-14 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "North Korea Condemns New US Nuclear Strategy",
-      "whyItMatters": "Warns of an escalating regional arms race on the Korean peninsula.",
-      "brief": "Pyongyang has slammed upcoming military drills between the US and South Korea, stating that Washington's revised nuclear strategy will trigger a dangerous arms race.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/north-korea-says-new-us-nuclear-strategy-will-trigger-fresh-arms-race-11786670656376.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "L&T Secures $1.57 Billion AI Data Centre Deal",
+      "whyItMatters": "Underscores India's rapidly expanding footprint in global digital infrastructure and AI expansion.",
+      "brief": "Engineering giant Larsen and Toubro has bagged a massive order worth up to $1.57 billion to construct advanced AI data infrastructure.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
+      "dateLocation": "2026-08-14 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Colleges Face Major Drop in Foreign Students",
-      "whyItMatters": "Impacts higher education revenue and international student enrollment trends, particularly from India.",
-      "brief": "Stricter visa policies and processing shifts are projected to cause a massive 110,000 drop in foreign student enrollment across American universities this year.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-colleges-face-1-1-lakh-drop-in-foreign-students-in-2026-amid-stricter-visa-rules-what-indian-students-need-to-know-11786649101711.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Gold Heads for Weekly Loss Amid Unwound Rally",
+      "whyItMatters": "Reflects shifting investor sentiment and recalibrated macroeconomic inflation expectations globally.",
+      "brief": "Gold prices are heading toward a notable weekly loss as institutional investors unwind positions following an inflation-fuelled market rally.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
+      "dateLocation": "2026-08-14 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Air India Expands Drug Testing for All Pilots",
-      "whyItMatters": "Enforces stricter workplace safety and compliance standards within commercial aviation.",
-      "brief": "Following a pilot testing positive for marijuana, Air India has officially expanded its mandatory drug testing protocol to cover all active cockpit crew members.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGdKSXVDV1dRN2ZhSjdPUnAxVTRUTkZSUnZqVGp2eHhzX1RYa3Jtcm54RTZCMXJ6MTRtOFdCeC1SWVQzQXR4Y05Odjc4Ukx2c0JLb3QyXzJ1OGE1X1V6bVB1czhueHhySWdwUlplNWtqRWJSOTdWNWZ3Q1dMc3oyZWpsbEpGeDkzMENaZXkyVGMyMWRUNWZySU5ObXVySzRXdlFCTW04NC1LdjdqdG9IMw?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Food Safety Checks Expose Gaps in Bengaluru",
-      "whyItMatters": "Highlights vulnerabilities in urban food supply chains and regulatory enforcement.",
-      "brief": "Recent food safety inspections across Bengaluru restaurants and quick-commerce warehouses reveal that higher pricing does not guarantee compliance with safety standards.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/safety-not-on-the-platter-bengalurus-food-safety-checks-expose-gaps-from-star-hotels-to-quick-commerce-warehouses/article71338545.ece",
-      "dateLocation": "August 14, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rapido Secures Five-Year Cab Licence in Karnataka",
-      "whyItMatters": "Strengthens ride-hailing market competition and regulatory clarity for aggregators.",
-      "brief": "The Karnataka government has granted Rapido a five-year cab operating licence valid through August 2031, providing long-term stability for its transport services.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/rapido-gets-5-year-cab-licence-from-karnataka-government-valid-till-august-2031/articleshow/133220667.cms",
-      "dateLocation": "August 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Harry Brook Open to Indian Premier League Return",
-      "whyItMatters": "Reignites international player participation discussions within premier cricket leagues.",
-      "brief": "England white-ball captain Harry Brook has reversed his stance, expressing openness to an eventual return to the Indian Premier League despite prior bans.",
+      "headline": "Manpreet Singh Eyes Hockey World Cup Title",
+      "whyItMatters": "Signals the potential final international campaign for one of India's most decorated hockey stalwarts.",
+      "brief": "Veteran midfielder Manpreet Singh has hinted that the upcoming World Cup could be his last, as he focuses on ending India's long title drought.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/great-competition-brook-takes-u-turn-opens-door-on-ipl-return-amid-ban/articleshow/133218313.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/this-could-be-my-last-wc-manpreet-singh-eyes-title-to-end-indias-51-year-wait/articleshow/133230874.cms",
+      "dateLocation": "2026-08-14 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Esports Aims for Mainstream Appeal Like IPL",
-      "whyItMatters": "Reflects the commercial evolution and shifting cultural status of competitive gaming.",
-      "brief": "Industry executives at the Esports World Cup are actively pushing to model player fandom and mainstream cultural recognition after traditional cricket leagues.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/esports/news/id-love-players-to-be-mobbed-like-ipl-cricketers-the-push-to-make-esports-mainstream/articleshow/133226808.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Union Minister JP Nadda Admitted to AIIMS Delhi",
+      "whyItMatters": "Draws immediate national attention to the health status of a senior Indian cabinet minister.",
+      "brief": "Union Minister JP Nadda was admitted to AIIMS Delhi following complaints of uneasiness, where medical professionals are currently monitoring his health.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/union-minister-jp-nadda-admitted-to-aiims-delhi-after-uneasiness/articleshow/133230999.cms",
+      "dateLocation": "2026-08-14 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Opposition Wrests Narrative in Paralysed Parliament",
-      "whyItMatters": "Underscores intensifying political gridlock and legislative standoff in national governance.",
-      "brief": "The parliamentary session faced severe disruption as opposition parties leveraged key policy absence and legislative bills to corner the ruling coalition.",
+      "headline": "Google Unveils Gemini 3.7 Flash AI Model",
+      "whyItMatters": "Accelerates developer workflows and intensifies competition in lightweight enterprise artificial intelligence deployment.",
+      "brief": "Google has officially unveiled its Gemini 3.7 Flash AI model, optimized specifically for advanced coding tasks and complex automated agent workflows.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
+      "dateLocation": "2026-08-14 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Flagged in US Report Over Transshipment Risks",
+      "whyItMatters": "Complicates bilateral trade frameworks and exposes potential legal loopholes regarding US import tariffs.",
+      "brief": "A recent US government report categorizes India among over forty nations at risk of functioning as transshipment hubs for Chinese goods evading American tariffs.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-among-countries-flagged-by-us-over-chinese-goods-transshipment-risks/articleshow/133227986.cms",
+      "dateLocation": "2026-08-14 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Human Factors Worsened Deadly Assam Floods",
+      "whyItMatters": "Highlights critical developmental shortcomings exacerbating natural climate disasters in northeast India.",
+      "brief": "A global collaborative study reveals that human mismanagement and infrastructure factors significantly worsened the recent devastating floods in Assam.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/assam/human-factors-worsened-deadly-assam-floods-says-global-collaborative-study/article71344435.ece",
+      "dateLocation": "2026-08-14 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Yen Decline Revives Currency Intervention Fears",
+      "whyItMatters": "Increases currency market volatility across Asian financial sectors and triggers central bank vigilance.",
+      "brief": "The Japanese yen's sharp weekly depreciation has put currency intervention back on the radar for global macro traders and monetary authorities.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdOaGFHQW9UT2djdjRLSnBkeE9pMnJ4N3NkSVlxczRQZ0otbmJTNS1fa2VOU3dqcExCRGgwYVAxY0lKQnZvc2JUSk9BcGlkT3pPdTlRLWQzVlRuR1F4ZTBFd2FkRkVNZnFLQ2dwUXY4RlZQdjFjNngyZVp5SWd0LVJSUnNidmcwTUdnRDJOd2hsa0xaQ1Z5VmM1WmdjS3NnNmRubmdFVXpaTUk2LURMZQ?oc=5",
+      "dateLocation": "2026-08-14 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Quashes Rahul Gandhi Defamation Summons",
+      "whyItMatters": "Provides legal relief to the opposition leader amidst ongoing political free speech litigation.",
+      "brief": "The Supreme Court quashed a criminal defamation complaint and summon against Rahul Gandhi over remarks concerning Savarkar, noting a lack of state sanction.",
       "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/behind-the-parliament-standoff-how-hms-absence-delimitation-bill-and-fcra-played-out/articleshow/133223771.cms",
-      "dateLocation": "August 14, 2026 | Economic Times",
+      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-quashes-criminal-defamation-complaint-summon-against-rahul-gandhi-for-savarkar-remarks/article71344475.ece",
+      "dateLocation": "2026-08-14 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Shehbaz Sharif Warns India Over Indus Treaty",
+      "whyItMatters": "Escalates bilateral hydro-diplomacy tensions between nuclear-armed neighbors.",
+      "brief": "Pakistani Prime Minister Shehbaz Sharif issued a stern warning to India, designating water security and the Indus Water Treaty as non-negotiable red lines.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/water-is-our-red-line-shehbaz-sharif-threatens-india-with-direct-response-over-indus-treaty/articleshow/133231106.cms",
+      "dateLocation": "2026-08-14 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Matthew Hayden Questions Rohit Sharma's Future",
+      "whyItMatters": "Sparks intense sporting debates regarding the generational transition of Indian cricket leadership.",
+      "brief": "Former Australian cricketer Matthew Hayden delivered a blunt assessment regarding Rohit Sharma's career longevity, emphasizing the physical demands of international schedules.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-play-forever-haydens-blunt-message-on-rohit-sharmas-future/articleshow/133230644.cms",
+      "dateLocation": "2026-08-14 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
