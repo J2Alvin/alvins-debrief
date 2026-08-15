@@ -1,83 +1,128 @@
 {
-  "lastUpdated": "2026-08-15T01:03:06.575Z",
+  "lastUpdated": "2026-08-15T06:33:06.913Z",
   "ticker": [
-    "7.7 magnitude earthquake strikes off Indonesia with tsunami warnings",
-    "Oil climbs over $1 on Gulf tanker attacks and tensions",
-    "Trump vows to claim Strait of Hormuz as US territory",
-    "Four Central Asian countries report simultaneous power blackouts",
-    "Supreme Court slaps Rs 10 lakh fine on Reliance Industries"
+    "Indonesia Earthquake Kills 20",
+    "PM Modi Unveils Viksit Bharat Roadmap",
+    "US Signals AI Rivalry Policy",
+    "Air India Flight Controls Incident",
+    "Central Asian Power Blackouts"
   ],
   "articles": [
     {
-      "headline": "Powerful 7.7 Magnitude Earthquake Strikes Off Indonesia",
-      "whyItMatters": "Triggers immediate tsunami warnings and poses significant regional disaster risks.",
-      "brief": "A powerful earthquake struck off the coast of Indonesia, prompting local authorities to issue immediate tsunami warnings across vulnerable coastal zones.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
-      "dateLocation": "August 15, 2026 | Jakarta, Indonesia",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oil Climbs Past $1 Following Tanker Attacks",
-      "whyItMatters": "Exacerbates global energy inflation and deepens geopolitical supply anxiety.",
-      "brief": "Crude prices climbed significantly following tanker attacks in the Gulf and a lack of peace progress, further straining global energy markets.",
+      "headline": "Reliance Partners With Rolls-Royce for Combat Engines",
+      "whyItMatters": "Enhances domestic defense manufacturing capabilities and strategic aerospace collaboration.",
+      "brief": "India's Reliance has partnered with Rolls-Royce to develop advanced combat engines for fighter jets, marking a significant step in national defense production.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZU9VQXE3NDh3R0tOMTBrV2hZMElYYlhhOEtIUnJvWWlDQ0FMbTdXZUhDdTBvbG9wSDZXU3B5eVFLWkdPWFczZ0Jsd2RTOXlUTnhOVXlCMDZCLXN4dU5ITjlIZFFiN1o2WWZra1dJM2ZLeDZmOHRSYk02NzFPZC1IT1lxeHY2XzJ3LWpIb0JsZDRQTk5OOEZkX2VESElqVmtoVkZnaU5LR1NFRHkyNHVrTGtoblA5ZmtGYkxV?oc=5",
       "dateLocation": "August 15, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Threatens to Declare Strait of Hormuz US Territory",
-      "whyItMatters": "Escalates diplomatic friction and risks severe military conflict with Iran.",
-      "brief": "Donald Trump claimed he will soon declare the strategic Strait of Hormuz a US territory, prompting immediate and aggressive pushback from Iranian officials.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/pretty-soon-trump-vows-to-claim-hormuz-as-us-territory-iran-hits-back/articleshow/133251741.cms",
-      "dateLocation": "August 15, 2026 | Washington, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Massive Oil Spill Threatens Oman Coast",
+      "whyItMatters": "Poses severe ecological and economic threats to Gulf shipping lanes and marine life.",
+      "brief": "Two large oil slicks have emerged in the Gulf near Oman, raising fears of a major environmental disaster and disrupting regional waters.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
+      "dateLocation": "August 15, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Reliance Partners With Rolls-Royce for Fighter Combat Engines",
-      "whyItMatters": "Boosts domestic defense manufacturing capabilities and strategic aerospace partnerships.",
-      "brief": "India's Reliance has partnered with Rolls-Royce to develop advanced combat engines for military fighter jets, marking a major milestone in defense production.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZU9VQXE3NDh3R0tOMTBrV2hZMElYYlhhOEtIUnJvWWlDQ0FMbTdXZUhDdTBvbG9wSDZXU3B5eVFLWkdPWFczZ0Jsd2RTOXlUTnhOVXlCMDZCLXN4dU5ITjlIZFFiN1o2WWZra1dJM2ZLeDZmOHRSYk02NzFPZC1IT1lxeHY2XzJ3LWpIb0JsZDRQTk5OOEZkX2VESElqVmtoVkZnaU5LR1NFRHkyNHVrTGtoblA5ZmtGYkxV?oc=5",
-      "dateLocation": "August 15, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Four Central Asian Nations Hit by Simultaneous Power Blackouts",
-      "whyItMatters": "Exposes fragile regional grid infrastructure and threatens critical public services.",
-      "brief": "Four Central Asian countries reported massive, simultaneous power blackouts, disrupting daily economic activity and prompting urgent grid stability investigations.",
+      "headline": "Air India A320 Suffered Control Loss",
+      "whyItMatters": "Raises critical safety concerns regarding commercial aircraft maintenance and avionics reliability.",
+      "brief": "An Airbus analysis revealed that an Air India A320 aircraft briefly lost key flight controls during operations, prompting further safety reviews.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmN3SWlQVF9NeW1ZX1dvZHBWeFQxSEk1VGdvTVRJTE5nYkhtcnVuWTFTWjBUbzljbjRNVllJNlVjMlRxajVpT25ycWJIaDkxNjN5WTJfSFJtU1VZMFB1VVJtMU94QTdEX1VXOGhjekN6RFlqSU91VDBjMGJCNzNVbjFfeUdyT0F2dTlLRjhvT0h3LUdxTk92RjdZWGVtemhPa291elFCSlAwMk9tV0V6dVNXQlRpRkJz?oc=5",
-      "dateLocation": "August 15, 2026 | Almaty, Kazakhstan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1dOT2VGU2hhRVpqX0JCTnRiR1VydTZMbkJ6Z2lkOVBSc3BncGhTbGpROVFXc0E1dkI5WWRaQ0tJLTJXNVZyY256U1Rmb1Q1SnBsN1lNTUswWlE5SF9ua2RGWGpTUlBQQ2llREpTNDlUQjV0UGRYcnVtbXI3QnRHZEZTWjBvWjdkdC1ETU12dXUzaTBsWWFQQlJmYnJISWxnN2R3QnJJUkZuMVZ0OUozc2liMlk4VVQzeXpZSFZ5UFM?oc=5",
+      "dateLocation": "August 15, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Retail Sales Post First Decline in Nine Months",
-      "whyItMatters": "Signals softening consumer demand and potential headwinds for the broader economy.",
-      "brief": "US retail sales posted their first contraction in nine months during July, pointing to cautious spending habits among American consumers amid persistent economic pressures.",
+      "headline": "Simultaneous Blackouts Hit Central Asia",
+      "whyItMatters": "Highlights critical vulnerabilities in regional energy grids and cross-border power infrastructure.",
+      "brief": "Four Central Asian countries experienced simultaneous widespread power blackouts, disrupting daily life and industrial operations across the region.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmN3SWlQVF9NeW1ZX1dvZHBWeFQxSEk1VGdvTVRJTE5nYkhtcnVuWTFTWjBUbzljbjRNVllJNlVjMlRxajVpT25ycWJIaDkxNjN5WTJfSFJtU1VZMFB1VVJtMU94QTdEX1VXOGhjekN6RFlqSU91VDBjMGJCNzNVbjFfeUdyT0F2dTlLRjhvT0h3LUdxTk92RjdZWGVtemhPa291elFCSlAwMk9tV0V6dVNXQlRpRkJz?oc=5",
+      "dateLocation": "August 15, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Magnitude-7.7 Earthquake Kills 20 in Indonesia",
+      "whyItMatters": "Triggers immediate emergency responses and infrastructure damage assessments across the affected region.",
+      "brief": "A powerful 7.7-magnitude earthquake struck Indonesia, resulting in at least twenty deaths as rescue teams deploy to assess severe building collapses.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
+      "dateLocation": "August 15, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Anthropic IPO Valuation Linked to 2028 Revenue",
+      "whyItMatters": "Sets a critical market benchmark for high-growth artificial intelligence enterprise valuations.",
+      "brief": "Reports indicate that Anthropic's upcoming IPO valuation heavily relies on achieving a projected $190 to $200 billion revenue forecast by 2028.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
-      "dateLocation": "August 15, 2026 | Washington, USA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
+      "dateLocation": "August 15, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Imposes Binding Safety Standards on Cosmetology Industry",
-      "whyItMatters": "Protects consumers from unqualified operators in a rapidly growing multi-billion dollar market.",
-      "brief": "The health ministry finalized strict regulations for the $2.1 billion cosmetology sector, restricting procedures like Botox and fillers exclusively to registered medical professionals.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/govt-turns-the-screws-on-cosmetology-sector-firms-up-standards-to-regulate-2-1-billion-market-botox-fillers-peels-11786683305889.html",
-      "dateLocation": "August 15, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Demands Allies Choose Sides in AI Race",
+      "whyItMatters": "Deepens technological decoupling and geopolitical friction between global superpowers over artificial intelligence.",
+      "brief": "The United States is reportedly informing international partners that they must choose sides in the escalating global AI race against China.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
+      "dateLocation": "August 15, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oracle Prepares Fresh Round of Workforce Layoffs",
-      "whyItMatters": "Reflects ongoing tech sector realignment toward artificial intelligence data infrastructure investments.",
-      "brief": "Oracle leadership directed managers to identify roles for upcoming layoffs ahead of September 1, following massive spending on AI data centers and prior restructuring.",
+      "headline": "PM Modi Outlines Seven-Point Growth Strategy",
+      "whyItMatters": "Defines India's long-term economic trajectory and industrial self-reliance goals toward 2047.",
+      "brief": "During his Independence Day address, PM Modi unveiled a seven-pronged strategy focused on manufacturing, global competitiveness, and youth empowerment.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/modi-puts-manufacturing-youth-at-heart-of-india-s-2047-growth-push-unveils-seven-pronged-strategy-11786768584147.html",
+      "dateLocation": "August 15, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Pushes Forward With Semiconductor Plants",
+      "whyItMatters": "Aims to establish India as a key player in the global electronics and chip supply chain.",
+      "brief": "Prime Minister Narendra Modi announced that five to eight new semiconductor manufacturing plants will be established across India in the coming years.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-independence-day-speech-indias-big-semiconductor-push-pm-modi-says-5-8-plants-coming-up-in-few-years-stresses-self-reliance-in-chips/articleshow/133255271.cms",
+      "dateLocation": "August 15, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Threatens to Declare Hormuz US Territory",
+      "whyItMatters": "Escalates geopolitical tensions in a vital choke point for global oil supplies and maritime trade.",
+      "brief": "Donald Trump stated intentions to soon declare the strategic Strait of Hormuz as US territory, challenging Iran's de facto control over the waterway.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-says-will-soon-declare-hormuz-strait-us-territory/article71348358.ece",
+      "dateLocation": "August 15, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Teen Developer Builds Dissolvable Plastic RFID Tags",
+      "whyItMatters": "Offers an innovative technological solution to improve efficiency and accuracy in recycling sorting plants.",
+      "brief": "A 17-year-old student has invented dissolvable wireless tags that identify plastics during sorting and dissolve cleanly in hot washing cycles.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/education/news/meet-kevin-sun-the-17-year-old-massachusetts-student-who-built-a-dissolvable-wireless-tag-to-help-recycling-plants-sort-plastic/articleshow/133256628.cms",
+      "dateLocation": "August 15, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Prices Rise on Weaker Dollar and Inflation",
+      "whyItMatters": "Reflects shifting macroeconomic sentiments and investor expectations regarding future central bank monetary policies.",
+      "brief": "Gold prices gained momentum as a weaker US dollar and recent inflation data solidified market bets on upcoming interest rate holds.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzjjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
+      "dateLocation": "August 15, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Chaos and Run-Out Stuns India in Galle Test",
+      "whyItMatters": "Delivers dramatic momentum shifts in high-stakes international cricket championship matches.",
+      "brief": "A bizarre mix-up and subsequent run-out involving Yashasvi Jaiswal and KL Rahul left the Indian team stunned during their milestone Test match.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-as-oracle-leadership-prepares-to-send-6am-layoff-email-on-september-1-company-asks-managers-to-give-a-list-of/articleshow/133235370.cms",
-      "dateLocation": "August 15, 2026 | Austin, USA",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/chaos-in-galle-yashasvi-jaiswals-bizarre-run-out-leaves-kl-rahul-and-india-stunned-watch/articleshow/133256864.cms",
+      "dateLocation": "August 15, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
