@@ -1,147 +1,84 @@
 {
-  "lastUpdated": "2026-08-14T18:49:15.443Z",
+  "lastUpdated": "2026-08-15T01:03:06.575Z",
   "ticker": [
-    "India's Forex Reserves Surge Past $700 Billion",
-    "Oil Climbs Amid Tanker Attacks and Hormuz Tensions",
-    "Luigi Mangione Pleads Guilty in UnitedHealthcare CEO Murder",
-    "Maharashtra FDA Suspends Quick-Commerce Hub Licences",
-    "Four Central Asian Nations Hit by Power Blackouts"
+    "7.7 magnitude earthquake strikes off Indonesia with tsunami warnings",
+    "Oil climbs over $1 on Gulf tanker attacks and tensions",
+    "Trump vows to claim Strait of Hormuz as US territory",
+    "Four Central Asian countries report simultaneous power blackouts",
+    "Supreme Court slaps Rs 10 lakh fine on Reliance Industries"
   ],
   "articles": [
     {
-      "headline": "Reliance Partners with Rolls-Royce for Fighter Jet Engines",
-      "whyItMatters": "Strengthens India's domestic defense manufacturing and aerospace capabilities.",
-      "brief": "India's Reliance has announced a strategic partnership with Rolls-Royce to co-develop combat engines for advanced fighter jets, boosting indigenous military production.",
+      "headline": "Powerful 7.7 Magnitude Earthquake Strikes Off Indonesia",
+      "whyItMatters": "Triggers immediate tsunami warnings and poses significant regional disaster risks.",
+      "brief": "A powerful earthquake struck off the coast of Indonesia, prompting local authorities to issue immediate tsunami warnings across vulnerable coastal zones.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
+      "dateLocation": "August 15, 2026 | Jakarta, Indonesia",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Climbs Past $1 Following Tanker Attacks",
+      "whyItMatters": "Exacerbates global energy inflation and deepens geopolitical supply anxiety.",
+      "brief": "Crude prices climbed significantly following tanker attacks in the Gulf and a lack of peace progress, further straining global energy markets.",
       "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
+      "dateLocation": "August 15, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Threatens to Declare Strait of Hormuz US Territory",
+      "whyItMatters": "Escalates diplomatic friction and risks severe military conflict with Iran.",
+      "brief": "Donald Trump claimed he will soon declare the strategic Strait of Hormuz a US territory, prompting immediate and aggressive pushback from Iranian officials.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/pretty-soon-trump-vows-to-claim-hormuz-as-us-territory-iran-hits-back/articleshow/133251741.cms",
+      "dateLocation": "August 15, 2026 | Washington, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Reliance Partners With Rolls-Royce for Fighter Combat Engines",
+      "whyItMatters": "Boosts domestic defense manufacturing capabilities and strategic aerospace partnerships.",
+      "brief": "India's Reliance has partnered with Rolls-Royce to develop advanced combat engines for military fighter jets, marking a major milestone in defense production.",
+      "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZU9VQXE3NDh3R0tOMTBrV2hZMElYYlhhOEtIUnJvWWlDQ0FMbTdXZUhDdTBvbG9wSDZXU3B5eVFLWkdPWFczZ0Jsd2RTOXlUTnhOVXlCMDZCLXN4dU5ITjlIZFFiN1o2WWZra1dJM2ZLeDZmOHRSYk02NzFPZC1IT1lxeHY2XzJ3LWpIb0JsZDRQTk5OOEZkX2VESElqVmtoVkZnaU5LR1NFRHkyNHVrTGtoblA5ZmtGYkxV?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russian Share of India Oil Imports Hits Record High",
-      "whyItMatters": "Highlights shifting global energy trade dynamics and discounted crude reliance.",
-      "brief": "Russia's share of India's total oil imports surged to an all-time record high in July, driven by sustained discounts and robust domestic refining demand.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxHbTB6WThhNjVWQU5yUmpiMmpHWjV5V29PeHJtamcycVNGdUwwUWhOX3RTby1UZzJfeDZjaHhvSWNtQ0ZkNTNfSTg2a2Q0cWUtb3hhbHJsOU9ZSVlQaFFwMXZHOWNPN0ltbUJnSWVjSWl0SkVSVzVJN3ROd2VQSnRFTzFtQ0w5cFg3SUptVFdBa054RGhoeVdYa01pTmFESEVQeG5FSEJsZEdR?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Four Central Asian Nations Hit by Simultaneous Blackouts",
-      "whyItMatters": "Exposes regional grid vulnerabilities and energy infrastructure fragility.",
-      "brief": "Four Central Asian countries experienced simultaneous and massive power blackouts, causing widespread disruptions to public services and local industries.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmN3SWlQVF9NeW1ZX1dvZHBWeFQxSEk1VGdvTVRJTE5nYkhtcnVuWTFTWjBUbzljbjRNVllJNlVjMlRxajVpT25ycWJIaDkxNjN5WTJfSFJtU1VZMFB1VVJtMU94QTdEX1VXOGhjekN6RFlqSU91TDBjMGJCNzNVbjFfeUdyT0F2dTlLRjhvT0h3LUdxTk92RjdZWGVtemhPa291elFCSlAwMk9tV0V6dVNXQlRpRkJz?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Massive Oil Spill Threatens Oman Coastline",
-      "whyItMatters": "Poses severe ecological risks to marine life and regional shipping routes.",
-      "brief": "Two massive oil slicks have emerged off the coast of Oman following a severe maritime incident, triggering emergency environmental disaster responses.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
-      "dateLocation": "August 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre Scraps 20-Year-Old 12-Minute TV Ad Cap",
-      "whyItMatters": "Redefines broadcasting regulations and advertising standards for Indian television viewers.",
-      "brief": "The Information and Broadcasting Ministry has officially scrapped the two-decade-old 12-minute cap on TV ad breaks, citing an obsolete media landscape.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/ad-breaks-to-get-longer-centre-scraps-20-year-old-12-minute-cap-on-tv-what-does-it-mean-for-viewers-11786722555520.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and Russia Discuss Northern Sea Route Trade",
-      "whyItMatters": "Expands bilateral trade routes and deepens Arctic economic cooperation.",
-      "brief": "India and Russia are engaged in high-level talks to deepen cooperation along the Northern Sea Route as Moscow advances its Arctic trade corridor.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/india-russia-discuss-deeper-cooperation-on-northern-sea-route-amid-moscows-arctic-trade-push-mea-11786724067708.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Over 1 Million Eggs Recalled in US Over Salmonella",
-      "whyItMatters": "Highlights critical food safety lapses and public health risks.",
-      "brief": "Health authorities have issued a major recall for nearly 1.6 million dozen eggs across the US due to a multistate Salmonella outbreak.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/over-1-million-eggs-recalled-in-us-over-possible-contamination-check-your-fridge-11786723425055.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maharashtra FDA Suspends Quick-Commerce Hub Licences",
-      "whyItMatters": "Cracks down on severe hygiene and food safety violations in online retail.",
-      "brief": "The Maharashtra FDA suspended 14 dark store licences for Blinkit, Zepto, and Instamart after inspections revealed severe pest infestations and expired items.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/cockroaches-expired-food-maharashtra-fda-suspends-14-licences-linked-to-blinkit-zepto-instamart/articleshow/133248610.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Luigi Mangione Pleads Guilty in Healthcare CEO Murder",
-      "whyItMatters": "Concludes a high-profile federal case shaking corporate security standards.",
-      "brief": "Luigi Mangione has pleaded guilty to federal stalking charges in Manhattan for the fatal shooting of UnitedHealthcare CEO Brian Thompson.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/i-shot-him-luigi-mangione-pleads-guilty-to-killing-united-healthcare-ceo-sentencing-on-dec-18/articleshow/133247371.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rajnath Singh Condemns Opposition Remarks on Foreign Policy",
-      "whyItMatters": "Intensifies political friction regarding India's international diplomatic relations.",
-      "brief": "Defense Minister Rajnath Singh slammed opposition remarks on foreign policy as petty, while the MEA stressed maintaining respectful ties with Italy.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/rajnath-singh-condemns-rahul-gandhis-remarks-on-pm-modi-foreign-policy-as-petty-and-condemnable-11786714117311.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oracle Prepares Fresh Wave of Layoffs Before September",
-      "whyItMatters": "Reflects ongoing workforce adjustments as tech giants pivot toward AI investments.",
-      "brief": "Oracle has directed managers to identify roles for elimination ahead of its fiscal quarter, following massive restructuring and AI data center spending.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-as-oracle-leadership-prepares-to-send-6am-layoff-email-on-september-1-company-asks-managers-to-give-a-list-of/articleshow/133235370.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
+      "dateLocation": "August 15, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Boom Drives Silicon Valley Luxury Real Estate Record",
-      "whyItMatters": "Demonstrates the immense localized economic impact of wealth generation in artificial intelligence.",
-      "brief": "A Silicon Valley estate has shattered regional real estate records with a staggering $70 million sale to an artificial intelligence sector leader.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/real-estate/news/70-million-sale-how-ai-boom-is-pushing-silicon-valley-luxury-housing-to-new-heights/articleshow/133247896.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Four Central Asian Nations Hit by Simultaneous Power Blackouts",
+      "whyItMatters": "Exposes fragile regional grid infrastructure and threatens critical public services.",
+      "brief": "Four Central Asian countries reported massive, simultaneous power blackouts, disrupting daily economic activity and prompting urgent grid stability investigations.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmN3SWlQVF9NeW1ZX1dvZHBWeFQxSEk1VGdvTVRJTE5nYkhtcnVuWTFTWjBUbzljbjRNVllJNlVjMlRxajVpT25ycWJIaDkxNjN5WTJfSFJtU1VZMFB1VVJtMU94QTdEX1VXOGhjekN6RFlqSU91VDBjMGJCNzNVbjFfeUdyT0F2dTlLRjhvT0h3LUdxTk92RjdZWGVtemhPa291elFCSlAwMk9tV0V6dVNXQlRpRkJz?oc=5",
+      "dateLocation": "August 15, 2026 | Almaty, Kazakhstan",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Four Losses Leave India Facing Steep WTC Climb",
-      "whyItMatters": "Determines the qualification path for the national cricket team in the championship.",
-      "brief": "With four defeats already recorded, captain Shubman Gill notes that India must win six to seven of their remaining nine Tests to reach the WTC final.",
+      "headline": "US Retail Sales Post First Decline in Nine Months",
+      "whyItMatters": "Signals softening consumer demand and potential headwinds for the broader economy.",
+      "brief": "US retail sales posted their first contraction in nine months during July, pointing to cautious spending habits among American consumers amid persistent economic pressures.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
+      "dateLocation": "August 15, 2026 | Washington, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Imposes Binding Safety Standards on Cosmetology Industry",
+      "whyItMatters": "Protects consumers from unqualified operators in a rapidly growing multi-billion dollar market.",
+      "brief": "The health ministry finalized strict regulations for the $2.1 billion cosmetology sector, restricting procedures like Botox and fillers exclusively to registered medical professionals.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/govt-turns-the-screws-on-cosmetology-sector-firms-up-standards-to-regulate-2-1-billion-market-botox-fillers-peels-11786683305889.html",
+      "dateLocation": "August 15, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oracle Prepares Fresh Round of Workforce Layoffs",
+      "whyItMatters": "Reflects ongoing tech sector realignment toward artificial intelligence data infrastructure investments.",
+      "brief": "Oracle leadership directed managers to identify roles for upcoming layoffs ahead of September 1, following massive spending on AI data centers and prior restructuring.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/four-losses-already-nine-tests-left-what-shubman-gills-india-need-to-do-to-reach-wtc-final/articleshow/133242824.cms",
-      "dateLocation": "August 14, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-as-oracle-leadership-prepares-to-send-6am-layoff-email-on-september-1-company-asks-managers-to-give-a-list-of/articleshow/133235370.cms",
+      "dateLocation": "August 15, 2026 | Austin, USA",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Fresh Odisha Floods Force 41,000 Residents to Relocate",
-      "whyItMatters": "Highlights recurring monsoon vulnerabilities and the need for disaster management.",
-      "brief": "Fresh flooding across six districts in Odisha has displaced over 41,000 people, prompting emergency evacuations and relief camp setups by state authorities.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/fresh-floods-hit-six-odisha-districts-over-41000-people-moved-to-safer-locations/articleshow/133248771.cms",
-      "dateLocation": "August 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Four Die of Toxic Gas Inhalation in Bihar Well",
-      "whyItMatters": "Serves as a grim reminder of safety hazards in rural infrastructure maintenance.",
-      "brief": "Four individuals tragically died from asphyxiation after inhaling toxic gas while working inside a deep well in Gaya Ji, prompting state compensation.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/bihar-news-4-die-of-asphyxiation-after-inhaling-toxic-gas-inside-a-well-in-gaya-ji-11786725572392.html",
-      "dateLocation": "August 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
