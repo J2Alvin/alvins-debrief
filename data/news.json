@@ -1,129 +1,138 @@
 {
-  "lastUpdated": "2026-08-15T06:33:06.913Z",
+  "lastUpdated": "2026-08-15T12:31:23.721Z",
   "ticker": [
-    "Indonesia Earthquake Kills 20",
-    "PM Modi Unveils Viksit Bharat Roadmap",
-    "US Signals AI Rivalry Policy",
-    "Air India Flight Controls Incident",
-    "Central Asian Power Blackouts"
+    "Indonesia Earthquake Death Toll Reaches 38",
+    "Reliance Partners With Rolls-Royce on Fighter Jet Engines",
+    "Four Central Asian Nations Suffer Simultaneous Power Blackouts",
+    "Hungary Sinks Barges Near Nuclear Plant to Ensure Cooling",
+    "Anthropic IPO Valuation Hinges on 2028 Revenue Forecast"
   ],
   "articles": [
     {
-      "headline": "Reliance Partners With Rolls-Royce for Combat Engines",
-      "whyItMatters": "Enhances domestic defense manufacturing capabilities and strategic aerospace collaboration.",
-      "brief": "India's Reliance has partnered with Rolls-Royce to develop advanced combat engines for fighter jets, marking a significant step in national defense production.",
+      "headline": "Indonesia Earthquake Death Toll Rises to 38",
+      "whyItMatters": "A massive 7.7 magnitude quake has devastated coastal infrastructure, triggering emergency responses and minor tsunamis.",
+      "brief": "A powerful 7.7 magnitude earthquake struck off the coast of Indonesia, causing widespread building collapses and at least 38 deaths. A secondary 6.9 magnitude tremor struck hours later, hampering rescue efforts as officials deployed emergency aid.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
+      "dateLocation": "August 15, 2026 | Indonesia",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Xi Calls for Improved Disaster Prevention in China",
+      "whyItMatters": "Severe weather events are challenging economic stability and infrastructure resilience across mainland China.",
+      "brief": "Chinese President Xi Jinping has urged intensified disaster prevention measures as severe floods and landslides continue to batter various regions of the country, disrupting local populations and threatening critical infrastructure.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTdub1VTd3ZJN1RMU04yMzZwQlNSZHJWblg4bElqNGZGVkQ1dTdaYVc1QkdiVlR1dTEtR1NyRHBJV291TlRubE82UEZibjBCVlFGVTdqN3ZvdmVkU0lPU0plWUl4cWptcXpWTUdJVUxrQ1FvUWF1bGxCalNXaG1jQzBkR2xHT0RjbWlBTUlKMjkzbVhWcFZWZFRFSi11MUlITFZDamVrc2x5SnZlOFJMTnRjaUdBMFZq?oc=5",
+      "dateLocation": "August 15, 2026 | Beijing",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Reliance Partners With Rolls-Royce on Defense Engines",
+      "whyItMatters": "This strategic alliance marks a major milestone in India's indigenous defense manufacturing capabilities.",
+      "brief": "India's Reliance Industries has announced a landmark partnership with Rolls-Royce to co-develop combat engines for fighter jets, focusing on bolstering local manufacturing for advanced military aircraft.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZU9VQXE3NDh3R0tOMTBrV2hZMElYYlhhOEtIUnJvWWlDQ0FMbTdXZUhDdTBvbG9wSDZXU3B5eVFLWkdPWFczZ0Jsd2RTOXlUTnhOVXlCMDZCLXN4dU5ITjlIZFFiN1o2WWZra1dJM2ZLeDZmOHRSYk02NzFPZC1IT1lxeHY2XzJ3LWpIb0JsZDRQTk5OOEZkX2VESElqVmtoVkZnaU5LR1NFRHkyNHVrTGtoblA5ZmtGYkxV?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
+      "dateLocation": "August 15, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Massive Oil Spill Threatens Oman Coast",
-      "whyItMatters": "Poses severe ecological and economic threats to Gulf shipping lanes and marine life.",
-      "brief": "Two large oil slicks have emerged in the Gulf near Oman, raising fears of a major environmental disaster and disrupting regional waters.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Air India A320 Suffered Control Loss",
-      "whyItMatters": "Raises critical safety concerns regarding commercial aircraft maintenance and avionics reliability.",
-      "brief": "An Airbus analysis revealed that an Air India A320 aircraft briefly lost key flight controls during operations, prompting further safety reviews.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1dOT2VGU2hhRVpqX0JCTnRiR1VydTZMbkJ6Z2lkOVBSc3BncGhTbGpROVFXc0E1dkI5WWRaQ0tJLTJXNVZyY256U1Rmb1Q1SnBsN1lNTUswWlE5SF9ua2RGWGpTUlBQQ2llREpTNDlUQjV0UGRYcnVtbXI3QnRHZEZTWjBvWjdkdC1ETU12dXUzaTBsWWFQQlJmYnJISWxnN2R3QnJJUkZuMVZ0OUozc2liMlk4VVQzeXpZSFZ5UFM?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Simultaneous Blackouts Hit Central Asia",
-      "whyItMatters": "Highlights critical vulnerabilities in regional energy grids and cross-border power infrastructure.",
-      "brief": "Four Central Asian countries experienced simultaneous widespread power blackouts, disrupting daily life and industrial operations across the region.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmN3SWlQVF9NeW1ZX1dvZHBWeFQxSEk1VGdvTVRJTE5nYkhtcnVuWTFTWjBUbzljbjRNVllJNlVjMlRxajVpT25ycWJIaDkxNjN5WTJfSFJtU1VZMFB1VVJtMU94QTdEX1VXOGhjekN6RFlqSU91VDBjMGJCNzNVbjFfeUdyT0F2dTlLRjhvT0h3LUdxTk92RjdZWGVtemhPa291elFCSlAwMk9tV0V6dVNXQlRpRkJz?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Magnitude-7.7 Earthquake Kills 20 in Indonesia",
-      "whyItMatters": "Triggers immediate emergency responses and infrastructure damage assessments across the affected region.",
-      "brief": "A powerful 7.7-magnitude earthquake struck Indonesia, resulting in at least twenty deaths as rescue teams deploy to assess severe building collapses.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Anthropic IPO Valuation Linked to 2028 Revenue",
-      "whyItMatters": "Sets a critical market benchmark for high-growth artificial intelligence enterprise valuations.",
-      "brief": "Reports indicate that Anthropic's upcoming IPO valuation heavily relies on achieving a projected $190 to $200 billion revenue forecast by 2028.",
+      "headline": "Windfall Tax on Fuel Exports Slashed",
+      "whyItMatters": "Lowering export duties reflects shifting global energy dynamics and provides relief to domestic refiners.",
+      "brief": "The Indian government has reduced the windfall tax on petrol exports to zero while cutting duties on diesel and aviation turbine fuel following recent fluctuations in international energy markets.",
       "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/windfall-tax-export-cut-petrol-0-jet-fuel-hike-from-august-prices-change-diesel-duty-cut-1-5-atf-rate-down-2-5-per-litre-11786784148492.html",
+      "dateLocation": "August 15, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Anthropic IPO Valuation Hinges on 2028 Revenue Forecast",
+      "whyItMatters": "Investor appetite for artificial intelligence leaders continues to drive aggressive future growth projections.",
+      "brief": "Sources indicate that Anthropic's upcoming public market valuation will heavily depend on achieving a projected $190 to $200 billion revenue run-rate by the year 2028.",
+      "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Demands Allies Choose Sides in AI Race",
-      "whyItMatters": "Deepens technological decoupling and geopolitical friction between global superpowers over artificial intelligence.",
-      "brief": "The United States is reportedly informing international partners that they must choose sides in the escalating global AI race against China.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
+      "dateLocation": "August 15, 2026 | New York",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "PM Modi Outlines Seven-Point Growth Strategy",
-      "whyItMatters": "Defines India's long-term economic trajectory and industrial self-reliance goals toward 2047.",
-      "brief": "During his Independence Day address, PM Modi unveiled a seven-pronged strategy focused on manufacturing, global competitiveness, and youth empowerment.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/modi-puts-manufacturing-youth-at-heart-of-india-s-2047-growth-push-unveils-seven-pronged-strategy-11786768584147.html",
-      "dateLocation": "August 15, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Four Central Asian Nations Report Simultaneous Power Blackouts",
+      "whyItMatters": "Regional grid interdependencies create vulnerabilities that can disable power infrastructures across multiple borders simultaneously.",
+      "brief": "Four Central Asian countries experienced simultaneous and massive power blackouts, plunging major cities into darkness and disrupting industrial activity as regional grid operators scrambled to identify the fault.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmN3SWlQVF9NeW1ZX1dvZHBWeFQxSEk1VGdvTVRJTE5nYkhtcnVuWTFTWjBUbzljbjRNVllJNlVjMlRxajVpT25ycWJIaDkxNjN5WTJfSFJtU1VZMFB1VVJtMU94QTdEX1VXOGhjekN6RFlqSU91VDBjMGJCNzNVbjFfeUdyT0F2dTlLRjhvT0h3LUdxTk92RjdZWGVtemhPa291elFCSlAwMk9tV0V6dVNXQlRpRkJz?oc=5",
+      "dateLocation": "August 15, 2026 | Almaty",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Pushes Forward With Semiconductor Plants",
-      "whyItMatters": "Aims to establish India as a key player in the global electronics and chip supply chain.",
-      "brief": "Prime Minister Narendra Modi announced that five to eight new semiconductor manufacturing plants will be established across India in the coming years.",
+      "headline": "Hungary Sinks Barges Near Nuclear Plant for Cooling",
+      "whyItMatters": "Climate-driven low river levels pose immediate risks to critical nuclear energy infrastructure operations.",
+      "brief": "Hungary plans to sink two barges near a major nuclear power facility in the Danube River to artificially raise water levels, ensuring uninterrupted intake flows required for vital reactor cooling systems.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU?oc=5",
+      "dateLocation": "August 15, 2026 | Budapest",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Bangladesh Nears Historic Test Victory Against Australia",
+      "whyItMatters": "A series win on foreign soil would mark a monumental watershed moment for Bangladeshi cricket.",
+      "brief": "Riding on a disciplined batting display and strong bowling spells, Bangladesh closed in on a historic Test match victory against Australia after dominating the third day's play.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/bangladesh-close-to-historic-test-win-over-australia-after-strong-day-3-performace/articleshow/133259645.cms",
+      "dateLocation": "August 15, 2026 | Sydney",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Air India A320 Briefly Lost Key Flight Controls",
+      "whyItMatters": "Airbus system analyses are critical to resolving recurring software or hardware anomalies in commercial aviation fleets.",
+      "brief": "An Airbus technical analysis revealed that an Air India A320 aircraft suffered a brief loss of primary flight controls during operations, prompting international aviation safety reviews.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-independence-day-speech-indias-big-semiconductor-push-pm-modi-says-5-8-plants-coming-up-in-few-years-stresses-self-reliance-in-chips/articleshow/133255271.cms",
-      "dateLocation": "August 15, 2026 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1dOT2VGU2hhRVpqX0JCTnRiR1VydTZMbkJ6Z2lkOVBSc3BncGhTbGpROVFXc0E1dkI5WWRaQ0tJLTJXNVZyY256U1Rmb1Q1SnBsN1lNTUswWlE5SF9ua2RGWGpTUlBQQ2llREpTNDlUQjV0UGRYcnVtbXI3QnRHZEZTWjBvWjdkdC1ETU12dXUzaTBsWWFQQlJmYnJISWxnN2R3QnJJUkZuMVZ0OUozc2liMlk4VVQzeXpZSFZ5UFM?oc=5",
+      "dateLocation": "August 15, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Threatens to Declare Hormuz US Territory",
-      "whyItMatters": "Escalates geopolitical tensions in a vital choke point for global oil supplies and maritime trade.",
-      "brief": "Donald Trump stated intentions to soon declare the strategic Strait of Hormuz as US territory, challenging Iran's de facto control over the waterway.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/trump-says-will-soon-declare-hormuz-strait-us-territory/article71348358.ece",
-      "dateLocation": "August 15, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Midwest Storms Cause Widespread Power Outages in Indiana",
+      "whyItMatters": "Severe infrastructure damage from extreme storms disrupts transport networks and leaves hundreds of thousands without power.",
+      "brief": "Powerful storms swept across the American Midwest, leaving more than 160,000 homes and businesses without electricity in Indiana after record flooding forced mandatory evacuations.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/india/indiana-the-focus-as-midwest-storms-flood-homes-knock-out-power-11786795878780.html",
+      "dateLocation": "August 15, 2026 | Indianapolis",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Teen Developer Builds Dissolvable Plastic RFID Tags",
-      "whyItMatters": "Offers an innovative technological solution to improve efficiency and accuracy in recycling sorting plants.",
-      "brief": "A 17-year-old student has invented dissolvable wireless tags that identify plastics during sorting and dissolve cleanly in hot washing cycles.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/education/news/meet-kevin-sun-the-17-year-old-massachusetts-student-who-built-a-dissolvable-wireless-tag-to-help-recycling-plants-sort-plastic/articleshow/133256628.cms",
-      "dateLocation": "August 15, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Prices Rise on Weaker Dollar and Inflation",
-      "whyItMatters": "Reflects shifting macroeconomic sentiments and investor expectations regarding future central bank monetary policies.",
-      "brief": "Gold prices gained momentum as a weaker US dollar and recent inflation data solidified market bets on upcoming interest rate holds.",
+      "headline": "Gold Rises as Weakened Dollar Cements Rate-Hold Bets",
+      "whyItMatters": "Precious metal markets respond rapidly to macroeconomic inflation data and shifts in central bank monetary policies.",
+      "brief": "Gold prices moved higher as a softer U.S. dollar and fresh inflation data reinforced market expectations that global central banks will hold interest rates steady.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzjjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
+      "dateLocation": "August 15, 2026 | London",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Chaos and Run-Out Stuns India in Galle Test",
-      "whyItMatters": "Delivers dramatic momentum shifts in high-stakes international cricket championship matches.",
-      "brief": "A bizarre mix-up and subsequent run-out involving Yashasvi Jaiswal and KL Rahul left the Indian team stunned during their milestone Test match.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/chaos-in-galle-yashasvi-jaiswals-bizarre-run-out-leaves-kl-rahul-and-india-stunned-watch/articleshow/133256864.cms",
-      "dateLocation": "August 15, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "AI Training for Youth Highlighted in Policy Priorities",
+      "whyItMatters": "National technology skilling initiatives are essential to preparing emerging workforces for the digital economy.",
+      "brief": "Government leaders outlined new national priorities centered on advanced technical education, pledging large-scale artificial intelligence training programs for millions of youths alongside high-tech semiconductor investments.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/articleshow/133255457.cms",
+      "dateLocation": "August 15, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "South Korea Urges Peace Talks to Replace Armistice",
+      "whyItMatters": "Diplomatic shifts on the peninsula could reshape long-term security architecture in Northeast Asia.",
+      "brief": "South Korean leadership has publicly called for formal dialogue with North Korea to replace the decades-old armistice agreement with a permanent peace treaty.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXUyVVljMUd0SC1sWHJRSGh1RWN5UFhBYU9ZV085UWdudzFNMW9fa2xLcEdCcHJLQkJuNE8tMVRTNm9VbXM4RWtEOXM0YThNTmlmcERobGRkZE1vZE1ydU5IVXNwZlR0aFozdjlucHA1VE1mZ2prYkhJYnZId3pEaERKdWxqMTVuT0YtVWRaVFZfVXRVeWNMX0dlOS1pTll6SUpoR2hkejE3RHVRX3c?oc=5",
+      "dateLocation": "August 15, 2026 | Seoul",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Congress Slams Government Over Women's Reservation Timeline",
+      "whyItMatters": "Debates over electoral representation timelines highlight deep political divisions ahead of upcoming legislative cycles.",
+      "brief": "The opposition Congress party criticized government proposals regarding women's reservations, demanding immediate implementation rather than delayed scheduling tied to future delimitation exercises.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/congress-slams-pm-modi-over-dishonest-womens-reservation-pitch-calls-it-double-faced-hypocrisy/article71348920.ece",
+      "dateLocation": "August 15, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
