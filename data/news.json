@@ -1,102 +1,102 @@
 {
-  "lastUpdated": "2026-08-15T18:24:22.492Z",
+  "lastUpdated": "2026-08-16T01:06:09.849Z",
   "ticker": [
-    "Indonesia hit by major 7.7 magnitude earthquake",
-    "UAE says Iran attacked ADNOC vessel in Hormuz",
-    "Ukraine strikes Russian rocket centre linked to Starlink",
-    "Rhine water drops to record lows halting shipping",
-    "Trump administration secures win on Somali TPS status"
+    "Deadly 7.7 Quake Strikes Indonesia",
+    "US-Iran Tensions Escalate in Hormuz",
+    "Ukraine Hits Russian Rocket Hub",
+    "Hurricane Lala Approaches Hawaii",
+    "MacKenzie Scott Abolishes $40B Debt"
   ],
   "articles": [
     {
-      "headline": "Ukraine Strikes Russian Rocket Centre",
-      "whyItMatters": "Disrupts critical infrastructure connected to Russian military communications network.",
-      "brief": "Ukraine forces successfully hit a Russian rocket center linked to a Starlink-style network, dealing a tactical blow to military communications.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHN6RnFQc0t3VFNmN0c0Vi15dUo0SnhJSVY1anp5OWd6RlpoRHpGbHpTYXNlZHZFUk5ZdG42eGJtUlZxeVFDSV9FMmk5UEhPbGFaSUNpQS1tb0hkNkdZNkJkSklmWWlOb3lCdmREQUxHa3lvTV8tQTNPN19kNk03NDVKU0Y4VjEzWXVvS2FqSmhVWVB5MW5OcV8wQS1POWhWbDdtTFk4NUZvd09ZWU5URzVsaHBheWFoeGdETk03dk5sNVJXSkZWV0VyQ053TG8?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Major 7.7 Magnitude Quake Hits Indonesia",
-      "whyItMatters": "Massive earthquake triggers widespread casualties and aftershocks across eastern regions.",
-      "brief": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, leaving at least 47 dead and triggering hundreds of aftershocks within twenty-four hours.",
+      "headline": "Deadly 7.7-Magnitude Earthquake Strikes Indonesia",
+      "whyItMatters": "Major natural disasters cause severe regional casualties and severe infrastructural destruction.",
+      "brief": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, leaving at least 47 people dead and causing widespread damage across islands.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
+      "dateLocation": "August 16, 2026 | Indonesia",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rhine Water Levels Hit Record Low",
-      "whyItMatters": "Severely disrupts vital European commercial shipping lanes and forces land transport shifts.",
-      "brief": "Water levels on the Rhine sank to another record low, forcing commercial transport operators to shift heavy cargo movements onto land.",
+      "headline": "UAE Claims Iran Attacked ADNOC Vessel",
+      "whyItMatters": "Escalating maritime attacks threaten global energy supplies and vital trade routes.",
+      "brief": "The UAE reported an Iranian attack on an ADNOC vessel in the Strait of Hormuz, urging the immediate reopening of the waterway.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
+      "dateLocation": "August 16, 2026 | United Arab Emirates",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ukraine Strikes Russian Rocket Centre",
+      "whyItMatters": "Targeting military-linked communication and rocket facilities significantly alters battlefield capabilities.",
+      "brief": "Ukraine successfully targeted a Russian rocket center linked to a Starlink-style satellite network, compounding regional conflict dimensions.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHN6RnFQc0t3VFNmN0c0Vi15dUo0SnhJSVY1anp5OWd6RlpoRHpGbHpTYXNlZHZFUk5ZdG42eGJtUlZxeVFDSV9FMmk5UEhPbGFaSUNpQS1tb0hkNkdZNkJkSklmWWlOb3lCdmREQUxHa3lvTV8tQTNPN19kNk03NDVKU0Y4VjEzWXVvS2FqSmhVWVB5MW5OcV8wQS1POWhWbDdtTFk4NUZvd09ZWU5URzVsaHBheWFoeGdETk03dk5sNVJXSkZWV0VyQ053TG8?oc=5",
+      "dateLocation": "August 16, 2026 | Ukraine",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Taliban Marks Five Years in Power",
+      "whyItMatters": "Humanitarian crises deepen as international aid groups sound alarms over ongoing instability.",
+      "brief": "The Taliban marked five years since returning to power in Afghanistan, while aid organizations warned of a worsening humanitarian crisis.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+      "dateLocation": "August 16, 2026 | Afghanistan",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hurricane Lala Approaches Hawaii's Big Island",
+      "whyItMatters": "Severe tropical storms threaten local communities with flash floods, heavy rain, and landslides.",
+      "brief": "Tropical Storm Lala strengthened into a Category 1 hurricane, targeting Hawaii's Big Island with heavy rainfall, winds, and potential flooding.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/storm-lala-strengthens-to-hurricane-while-closing-in-on-hawaii-11786823493516.html",
+      "dateLocation": "August 16, 2026 | Hawaii, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Devdutt Padikkal Shines in Sri Lanka Test",
+      "whyItMatters": "Standout individual batting performances cement young players' futures in international cricket squads.",
+      "brief": "Indian batsman Devdutt Padikkal scored an unbeaten 131 against Sri Lanka, receiving high praise for his exceptional technique.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/godsent-for-india-sanjay-manjrekar-makes-no-3-call-tips-devdutt-padikkal-ahead-of-sai-sudharsan/articleshow/133265985.cms",
+      "dateLocation": "August 16, 2026 | Galle",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "MacKenzie Scott Helps Abolish $40B Debt",
+      "whyItMatters": "Large-scale philanthropic interventions provide profound financial relief for millions struggling with debt.",
+      "brief": "Philanthropic donations driven by MacKenzie Scott have successfully enabled the large-scale abolition of over $40 billion in medical debt.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQktubFluM1dPWGpCLXcyVU4xVDhtalVRSVlnOWVOOTU4NkVOdTZoVWluc2YtQ1lnWFUtTUVNTm9ZZl9FUGphbDZnT3E0OXdjOVA3VVNPb3M0MExMMkR0ZnF0eWVydGFSYWR6SVY2QkRVXzI4QXRkMU5KN1QzUVN5emlEQVpXM3RiTHBodjNkT3hQRHFfRlFmZk5fMjhYSUluTU5fcGZVdXFob1ZNQkw5dS1WcnhPUQ?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+      "dateLocation": "August 16, 2026 | United States",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UAE Condemns Attack on ADNOC Vessel",
-      "whyItMatters": "Escalates geopolitical tensions in the vital Strait of Hormuz shipping corridor.",
-      "brief": "The UAE stated that Iran attacked an ADNOC vessel in Hormuz, prompting urgent international calls for the vital waterway's reopening.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "dateLocation": "August 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nithin Kamath Warns Startups Over AI Hype",
+      "whyItMatters": "Industry leaders urge realism over buzzwords in technology ventures to preserve market integrity.",
+      "brief": "Zerodha CEO Nithin Kamath dismissed inflated AI claims by startup founders, comparing unoriginal hype to basic daily hygiene.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/trends/biggest-scam-ever-in-the-world-nithin-kamath-asks-startup-founders-not-to-brag-ai-social-media-reacts-11786806679753.html",
+      "dateLocation": "August 16, 2026 | India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Launches 100GW Nuclear Power Plan",
-      "whyItMatters": "A massive strategic push toward national energy self-reliance and decarbonization by 2047.",
-      "brief": "Prime Minister Modi outlined an ambitious national energy plan aiming for 100GW of nuclear power by 2047.",
+      "headline": "India-China Boost Northern Sea Route Gamble",
+      "whyItMatters": "Opening alternative shipping passages could dramatically shift global trade logistics and bypass chokepoints.",
+      "brief": "Sea Legend launched container services along Russia's Northern Sea Route, connecting China and Britain while offering an alternative to Hormuz.",
       "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/100gw-of-nuclear-power-by-2047-5-reactors-this-decade-inside-pm-modis-energy-self-reliance-plan/articleshow/133257863.cms",
-      "dateLocation": "August 15, 2026 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/world/russias-icy-shipping-route-gamble-gets-india-china-boost-can-nsr-really-challenge-hormuz-11786810637562.html",
+      "dateLocation": "August 16, 2026 | Russia",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "RBI Issues Strict Rules on Phone Locking",
-      "whyItMatters": "Regulates predatory digital lending recovery tactics protecting consumers from invasive measures.",
-      "brief": "The Reserve Bank of India established new rules preventing lenders from remotely locking financed smartphones for missed EMIs.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/smartphone-to-be-locked-for-missed-emi-rbis-new-rules-for-lenders-defaulting-borrowers-explained/articleshow/133262187.cms",
-      "dateLocation": "August 15, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nithin Kamath Warns Against Startup AI Hype",
-      "whyItMatters": "Brings reality checks to venture capital investments amid widespread empty AI claims.",
-      "brief": "Zerodha CEO Nithin Kamath dismissed superficial AI integration claims in startup pitches, calling them an unoriginal marketing trend.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/trends/biggest-scam-ever-in-the-world-nithin-kamath-asks-startup-founders-not-to-brag-about-ai-social-media-reacts-11786806679753.html",
-      "dateLocation": "August 15, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Elon Musk Plans Major GOP Funding Push",
-      "whyItMatters": "Signals a profound political realignment ahead of high-stakes American midterm elections.",
-      "brief": "Elon Musk is reportedly preparing a $100 million political donation push through his super PAC to support Republican midterms.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/elon-musk-plans-100-million-push-for-republicans-in-us-midterms-months-after-trump-feud-report-11786802345962.html",
-      "dateLocation": "August 15, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Court Clears End to Somali Migrant TPS",
-      "whyItMatters": "Advances strict federal immigration enforcement policies impacting thousands of protected residents.",
-      "brief": "A federal judge cleared the way for the administration to terminate Temporary Protected Status for thousands of Somali nationals.",
+      "headline": "USCIS Changes Key Immigration Forms in September",
+      "whyItMatters": "Administrative updates require strict adherence from foreign applicants to avoid processing delays or status loss.",
+      "brief": "USCIS announced new editions for Forms I-539 and I-765 effective September 15, requiring precise compliance for Indian applicants.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-administration-gets-court-nod-to-end-temporary-protected-status-for-somali-nationals-11786799285681.html",
-      "dateLocation": "August 15, 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-to-change-key-immigration-forms-for-status-extension-from-september-15-what-indians-need-to-know-11786810996958.html",
+      "dateLocation": "August 16, 2026 | Washington, USA",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Devdutt Padikkal Shines at Galle Test",
-      "whyItMatters": "Strengthens India's middle-order batting lineup options with a brilliant overseas century performance.",
-      "brief": "Devdutt Padikkal scored a stellar unbeaten 131 runs against Sri Lanka, drawing massive praise for his technical mastery.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/godsent-for-india-sanjay-manjrekar-makes-no-3-call-tips-devdutt-padikkal-ahead-of-sai-sudharsan/articleshow/133265985.cms",
-      "dateLocation": "August 15, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
