@@ -1,147 +1,84 @@
 {
-  "lastUpdated": "2026-08-16T12:32:27.742Z",
+  "lastUpdated": "2026-08-16T18:23:42.385Z",
   "ticker": [
-    "Two women killed in Spanish floods",
-    "Ukraine launches major drone attack on Russia",
-    "Indonesia quake death toll rises to 51",
-    "Gulf states grow impatient over Iran truce",
-    "Suspected Russian drone shot down in Romania"
+    "India sets targets to boost cooking gas output",
+    "Former Iran president Khatami urges diplomacy",
+    "Belgium's biggest wildfire heads towards Germany",
+    "NTA orders fresh NET test after exam errors",
+    "Cristiano Ronaldo hints at 2027 retirement"
   ],
   "articles": [
     {
-      "headline": "Two Women Killed in Flash Floods Across Spain",
-      "whyItMatters": "Highlights escalating extreme weather risks affecting infrastructure and public safety in Southern Europe.",
-      "brief": "Severe flash floods in Spain have resulted in the deaths of two women, prompting emergency responses and warnings across affected regions.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw?oc=5",
-      "dateLocation": "August 16, 2026 | Spain",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Suspected Russian Drone Intercepted in Romanian Airspace",
-      "whyItMatters": "Escalates geopolitical tensions along NATO's eastern flank following ongoing aerial incursions.",
-      "brief": "A suspected Russian drone was shot down in Romanian airspace, raising fresh security concerns for NATO allies bordering the Ukraine conflict.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-      "dateLocation": "August 16, 2026 | Romania",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ukrainian Drones Launch Massive Aerial Strike on Russia",
-      "whyItMatters": "Demonstrates the expanding scale and reach of Ukraine's counter-offensive air campaigns deep inside Russian territory.",
-      "brief": "Ukraine launched one of its largest aerial attacks of the war, hitting the Moscow region and causing multiple casualties.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
-      "dateLocation": "August 16, 2026 | Moscow",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indonesia Earthquake Death Toll Reaches 51",
-      "whyItMatters": "Presents a massive humanitarian and logistical crisis as thousands are forced to evacuate damaged regions.",
-      "brief": "A powerful earthquake in Indonesia has killed 51 people, destroyed infrastructure, and displaced thousands who are now evacuating.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
-      "dateLocation": "August 16, 2026 | Indonesia",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Sets Targets to Boost Cooking Gas Output",
-      "whyItMatters": "Aims to stabilize domestic energy supplies and shield consumers amid escalating Middle East conflict disruptions.",
-      "brief": "India has directed major oil companies to increase cooking gas production to counter potential shortages stemming from Middle East instability.",
+      "headline": "India Boosts Cooking Gas Output Amid Middle East War",
+      "whyItMatters": "Secures national energy supplies during ongoing geopolitical conflicts.",
+      "brief": "India has established strict targets for oil companies to increase cooking gas production in response to the escalating Middle East war, aiming to stabilize domestic supplies.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
-      "dateLocation": "August 16, 2026 | New Delhi",
+      "dateLocation": "August 16, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gulf Nations Grow Impatient with Trump's Iran Truce",
-      "whyItMatters": "Signals growing regional frustration over international diplomatic approaches to regional security and Iranian proxy activities.",
-      "brief": "Gulf Arab states are reportedly losing patience with diplomatic efforts surrounding a truce with Iran, demanding stronger deterrence measures.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/gulf-nations-growing-impatient-with-trumps-diplomatic-efforts-regarding-truce-with-iran-report/articleshow/133271125.cms",
-      "dateLocation": "August 16, 2026 | Gulf Region",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Belgium's Largest Wildfire Crosses Toward Germany",
+      "whyItMatters": "Poses severe cross-border environmental and safety hazards.",
+      "brief": "Belgium's biggest recorded wildfire is actively pushing toward the German border, prompting emergency response teams in both nations to mobilize containment efforts.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
+      "dateLocation": "August 16, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "New Foreign Asset Disclosure Rules Target Taxpayers",
-      "whyItMatters": "Imposes stringent compliance measures and high penalties for undisclosed offshore assets held by Indian taxpayers.",
-      "brief": "India's newly enacted foreign asset disclosure rules introduce strict penalties of up to 60% for non-compliant taxpayers holding undisclosed overseas funds.",
+      "headline": "German Companies Cut US Investment to Three-Year Low",
+      "whyItMatters": "Reflects shifting transatlantic economic confidence and corporate strategies.",
+      "brief": "Recent economic data reveals that German companies have reduced their investments in the United States to a three-year low amid changing market conditions.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/mint-explainer-what-india-s-new-foreign-asset-disclosure-rules-mean-for-taxpayers-11786878117739.html",
-      "dateLocation": "August 16, 2026 | Mumbai",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
+      "dateLocation": "August 16, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "MacKenzie Scott's Philanthropy Abolishes $40B in Medical Debt",
-      "whyItMatters": "Demonstrates the profound scale of private philanthropic models in providing relief from systemic healthcare debt burdens.",
-      "brief": "Philanthropist MacKenzie Scott's funding model has successfully abolished $40 billion in medical debt across the United States via strategic debt-buying forgiveness.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-      "dateLocation": "August 16, 2026 | New York",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maharashtra FDA Cracks Down on Dark Stores and Ads",
-      "whyItMatters": "Reinforces consumer protection laws and food safety standards across major quick-commerce platforms and celebrity endorsements.",
-      "brief": "The Maharashtra FDA suspended multiple dark store licenses for safety violations and issued notices to top actors over surrogate pan masala advertisements.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/notice-for-vimal-elaichi-ad-blinkit-dark-stores-licence-suspension-tukaram-mundhe-s-fda-crackdown-in-maharashtra-11786870966966.html",
-      "dateLocation": "August 16, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Amber Enterprises to Manufacture iPhones in India",
-      "whyItMatters": "Expands India's electronics manufacturing ecosystem by integrating key global brands into domestic supply chain networks.",
-      "brief": "Amber Enterprises has announced plans to manufacture Oppo, OnePlus, and Realme phones in India starting in March 2027.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/amber-enterprises-to-make-oppo-oneplus-realme-phones-in-india-from-march-2027/articleshow/133274466.cms",
-      "dateLocation": "August 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Anthropic CEO's Wife Linked to Jeffrey Epstein Files",
-      "whyItMatters": "Brings tech leadership under scrutiny following revelations connecting family members to historical financial networks.",
-      "brief": "Reports have emerged detailing internet scrubbing efforts surrounding Cami Clark, the wife of Anthropic CEO Dario Amodei, and her past Epstein associations.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/who-is-cami-clark-all-about-jeffrey-epstein-links-to-anthropic-ceo-dario-amodei-s-little-known-wife-11786870787410.html",
-      "dateLocation": "August 16, 2026 | San Francisco",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sri Lanka to Table Contentious Bill on Judicial Retirement",
-      "whyItMatters": "Sparks intense debate regarding judicial independence and executive overreach in the country's legal system.",
-      "brief": "Sri Lanka's opposition and civil society groups have strongly criticized a new bill seeking to extend the retirement age of judges.",
+      "headline": "Former Iran President Khatami Urges Diplomacy",
+      "whyItMatters": "Signals internal political pressure within Iran for de-escalation.",
+      "brief": "Former Iranian President Khatami has warned against a prolonged war, calling heavily for renewed diplomacy with the United States and Israel to protect civilians.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/sri-lanka-to-table-contentious-bill-extending-judges-retirement-age/article71352685.ece",
-      "dateLocation": "August 16, 2026 | Colombo",
+      "sourceUrl": "https://www.livemint.com/news/us-news/former-iran-president-khatami-warns-against-prolonged-war-urges-diplomacy-with-us-israel-we-cannot-live-with-war-11786890454102.html",
+      "dateLocation": "August 16, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rijiju Clarifies Prime Minister's 'Dimagi Naxal' Remarks",
-      "whyItMatters": "Addresses growing parliamentary confrontation over terminology used during high-profile national holiday addresses.",
-      "brief": "Union Minister Kiren Rijiju clarified that PM Modi's Independence Day reference targeted separatist sympathizers rather than political opposition leaders.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/did-pm-modi-label-opposition-as-dimagi-naxal-in-his-i-day-speech-kiren-rijiju-clarifies-amid-row-11786874466008.html",
-      "dateLocation": "August 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Accidental Gun Discharge at Varanasi Airport Injures Two",
-      "whyItMatters": "Highlights critical aviation security breaches involving the handling of licensed firearms within passenger terminals.",
-      "brief": "Two security personnel were injured at Varanasi airport when a passenger's licensed pistol accidentally discharged during a routine check.",
+      "headline": "National Testing Agency Orders Fresh NET Exams",
+      "whyItMatters": "Addresses systemic academic evaluation failures affecting thousands of students.",
+      "brief": "The National Testing Agency has admitted to widespread errors in UGC-NET papers, officially ordering fresh examinations for English, Commerce, and Sociology to maintain fairness.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/gunfire-at-varanasi-airport-passengers-pistol-goes-off-bullet-hits-surface-ricochet-injures-2/articleshow/133271656.cms",
-      "dateLocation": "August 16, 2026 | Varanasi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/nta-admits-errors-orders-fresh-net-for-3-subjects/articleshow/133277880.cms",
+      "dateLocation": "August 16, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Mass Psychogenic Illness Causes School Evacuation in Maharashtra",
-      "whyItMatters": "Underscores the impact of collective stress and superstition on vulnerable student populations in remote rural educational institutions.",
-      "brief": "Over 600 schoolgirls fled a Maharashtra ashram school following panic and physical symptoms diagnosed as mass psychogenic stress reactions.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/girls-laughing-crying-then-going-numb-608-flee-maharashtra-school-amid-mass-hysteria/articleshow/133268961.cms",
-      "dateLocation": "August 16, 2026 | Nagpur",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Cristiano Ronaldo Hints at 2027 Retirement",
+      "whyItMatters": "Marks the potential end of an era for global football icons.",
+      "brief": "Football star Cristiano Ronaldo has revealed that the upcoming 2026-27 season will likely be his final year playing professional football before retirement.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-drops-bombshell-retirement-hint-this-is-probably-my-last-year-reveals-plans-after-football/articleshow/133278732.cms",
+      "dateLocation": "August 16, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "USCIS Introduces Strict New Immigration Forms",
+      "whyItMatters": "Non-compliance risks immediate rejection of critical visa and status applications.",
+      "brief": "USCIS announced that older versions of immigration forms I-539 and I-765 will be rejected starting September 15, with no grace period provided for applicants.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-authority-to-h1-b-visa-holders-students-and-other-visa-holders-these-forms-will-be-rejected-starting-september-15/articleshow/133272195.cms",
+      "dateLocation": "August 16, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Teen Solves Decades-Old Geometry Puzzle",
+      "whyItMatters": "Demonstrates breakthroughs in computer algorithms and advanced mathematical problem-solving.",
+      "brief": "A 17-year-old Pennsylvania student has won a major award after deploying a custom computer algorithm to successfully solve a complex decades-old geometry puzzle.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/17-year-old-pennsylvania-student-connor-hill-wins-250000-after-computer-algorithm-solves-decades-old-geometry-puzzle-identifying-exactly-146-rare-3d-shapes/articleshow/133277464.cms",
+      "dateLocation": "August 16, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
