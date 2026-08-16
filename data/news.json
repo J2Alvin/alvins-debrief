@@ -1,137 +1,146 @@
 {
-  "lastUpdated": "2026-08-16T06:33:56.400Z",
+  "lastUpdated": "2026-08-16T12:32:27.742Z",
   "ticker": [
-    "Indonesia Quake Kills 51",
-    "Romania Downs Airspace Drone",
-    "UAE Alleges Iran Tanker Attack",
-    "Bangladesh's Historic Test Win",
-    "Colombia Quake Death Toll Rises"
+    "Two women killed in Spanish floods",
+    "Ukraine launches major drone attack on Russia",
+    "Indonesia quake death toll rises to 51",
+    "Gulf states grow impatient over Iran truce",
+    "Suspected Russian drone shot down in Romania"
   ],
   "articles": [
     {
-      "headline": "Indonesia Earthquake Kills 51 and Triggers Mass Evacuations",
-      "whyItMatters": "Major natural disaster causes widespread infrastructure damage and displacement in North Sumatra.",
-      "brief": "A 6.4-magnitude earthquake struck North Sumatra, Indonesia, killing at least 51 people, cutting off critical roads, and forcing thousands to evacuate.",
+      "headline": "Two Women Killed in Flash Floods Across Spain",
+      "whyItMatters": "Highlights escalating extreme weather risks affecting infrastructure and public safety in Southern Europe.",
+      "brief": "Severe flash floods in Spain have resulted in the deaths of two women, prompting emergency responses and warnings across affected regions.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
-      "dateLocation": "Aug 16 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUxBb3EyOW41YVFzUVIwei1TMV9SMmUzbHV1OXFLSE9hSlhCS1MzdjdSS0tJanE2bE5zMHdicFJSb2pMU21HMW00UjZxaVh1X0JEWFlkOEhKalhvY2ZwQXFMemVkZWxrZGVzUlZ4OFpfVzRva0kwbE9RQUd6QU9qV0FEdFlEM3RrdEdWMWFFYw?oc=5",
+      "dateLocation": "August 16, 2026 | Spain",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Romania Shoots Down Foreign Drone Breaching Airspace",
-      "whyItMatters": "Escalates regional security concerns regarding stray or hostile military drones near NATO borders.",
-      "brief": "The Romanian defence ministry confirmed that its military successfully shot down a drone that breached national airspace.",
+      "headline": "Suspected Russian Drone Intercepted in Romanian Airspace",
+      "whyItMatters": "Escalates geopolitical tensions along NATO's eastern flank following ongoing aerial incursions.",
+      "brief": "A suspected Russian drone was shot down in Romanian airspace, raising fresh security concerns for NATO allies bordering the Ukraine conflict.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-      "dateLocation": "Aug 16 | Reuters",
+      "dateLocation": "August 16, 2026 | Romania",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UAE Blames Iran for Hormuz Vessel Attack",
-      "whyItMatters": "Heightens geopolitical tensions in vital global energy shipping corridors.",
-      "brief": "The UAE stated that Iran attacked an ADNOC vessel in the Strait of Hormuz and urged the immediate reopening of the waterway.",
+      "headline": "Ukrainian Drones Launch Massive Aerial Strike on Russia",
+      "whyItMatters": "Demonstrates the expanding scale and reach of Ukraine's counter-offensive air campaigns deep inside Russian territory.",
+      "brief": "Ukraine launched one of its largest aerial attacks of the war, hitting the Moscow region and causing multiple casualties.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
+      "dateLocation": "August 16, 2026 | Moscow",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indonesia Earthquake Death Toll Reaches 51",
+      "whyItMatters": "Presents a massive humanitarian and logistical crisis as thousands are forced to evacuate damaged regions.",
+      "brief": "A powerful earthquake in Indonesia has killed 51 people, destroyed infrastructure, and displaced thousands who are now evacuating.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
+      "dateLocation": "August 16, 2026 | Indonesia",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Sets Targets to Boost Cooking Gas Output",
+      "whyItMatters": "Aims to stabilize domestic energy supplies and shield consumers amid escalating Middle East conflict disruptions.",
+      "brief": "India has directed major oil companies to increase cooking gas production to counter potential shortages stemming from Middle East instability.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "dateLocation": "Aug 16 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
+      "dateLocation": "August 16, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nvidia Eyes $3 Billion Investment in SB Energy for OpenAI",
-      "whyItMatters": "Massive capital injection highlights surging energy demands for artificial intelligence infrastructure.",
-      "brief": "Reports indicate Nvidia is eyeing a $3 billion investment in SB Energy as part of a broader data center deal with OpenAI.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
-      "dateLocation": "Aug 16 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AI Boss Sacks Retail Worker for Excessive Lateness",
-      "whyItMatters": "Marks a controversial watershed moment for autonomous artificial intelligence agents managing human employees.",
-      "brief": "An AI agent managing a San Francisco retail store fired its first human employee after noting repeated tardiness across multiple shifts.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/trends/in-a-first-ai-boss-sacks-employee-at-san-francisco-retail-store-for-being-late-17-out-of-23-shifts-11786849266601.html",
-      "dateLocation": "Aug 16 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Food Safety Chief Targets Major Delivery Apps in Crackdown",
-      "whyItMatters": "Aggressive regulatory oversight targets leading quick-commerce and food delivery giants.",
-      "brief": "A crusading Indian state food safety chief launched a sweeping crackdown targeting major delivery platforms including Eternal, Swiggy, and Zepto.",
+      "headline": "Gulf Nations Grow Impatient with Trump's Iran Truce",
+      "whyItMatters": "Signals growing regional frustration over international diplomatic approaches to regional security and Iranian proxy activities.",
+      "brief": "Gulf Arab states are reportedly losing patience with diplomatic efforts surrounding a truce with Iran, demanding stronger deterrence measures.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjV2RzJ4bFdNM3ppb2JiZWRmT1Nhbko2QlZNUFp3eF9yMC13SElucFFqbXJOR3NRMElqd3NDam9qbFVRbDVtN25KM2MtLUYzT2xMeFhYbFM1TE5WSU1XRXlHUnI1Umgzc1luVDVfelVTSDJBSlBwZXVtakZkWUdkOWd3OWFiejBQcWNsZzNJZ0M4bjFmMDUxbnpwVHdjTHI1c2NCYVg3TWphbUZUYWJIZkpjNTNzY2JwcVFFbHRuVHY4TzA?oc=5",
-      "dateLocation": "Aug 16 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/gulf-nations-growing-impatient-with-trumps-diplomatic-efforts-regarding-truce-with-iran-report/articleshow/133271125.cms",
+      "dateLocation": "August 16, 2026 | Gulf Region",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bangladesh Secures Historic First-Ever Test Win in Australia",
-      "whyItMatters": "Monumental upset shakes up international cricket standings and challenges Australian dominance.",
-      "brief": "Bangladesh defeated Australia by nine wickets in Darwin, registering their first-ever Test match victory on Australian soil.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-stun-australia-with-historic-win-register-first-ever-test-victory-on-australian-soil/articleshow/133270378.cms",
-      "dateLocation": "Aug 16 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "New Foreign Asset Disclosure Rules Target Taxpayers",
+      "whyItMatters": "Imposes stringent compliance measures and high penalties for undisclosed offshore assets held by Indian taxpayers.",
+      "brief": "India's newly enacted foreign asset disclosure rules introduce strict penalties of up to 60% for non-compliant taxpayers holding undisclosed overseas funds.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/mint-explainer-what-india-s-new-foreign-asset-disclosure-rules-mean-for-taxpayers-11786878117739.html",
+      "dateLocation": "August 16, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "British Indian Consortium Agrees Minority Stake in Liverpool FC",
-      "whyItMatters": "Significant cross-border investment expands high-profile ownership stakes in English Premier League clubs.",
-      "brief": "A consortium led by British Indian businessman Amit Bhatia agreed to acquire a minority stake in Liverpool Football Club alongside FSG.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/british-indian-amit-bhatia-led-consortium-agrees-to-acquire-minority-stake-in-liverpool-fc/article71352119.ece",
-      "dateLocation": "Aug 16 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "MacKenzie Scott's Philanthropy Abolishes $40B in Medical Debt",
+      "whyItMatters": "Demonstrates the profound scale of private philanthropic models in providing relief from systemic healthcare debt burdens.",
+      "brief": "Philanthropist MacKenzie Scott's funding model has successfully abolished $40 billion in medical debt across the United States via strategic debt-buying forgiveness.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
+      "dateLocation": "August 16, 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "P. Chidambaram Hits Back at PM Modi Over 'Dimagi Naxal' Remark",
-      "whyItMatters": "Intensifies political friction and rhetoric between India's ruling party and senior opposition figures.",
-      "brief": "Senior Congress leader P. Chidambaram strongly rejected and embraced Prime Minister Modi's critical label of intellectual Naxalism.",
+      "headline": "Maharashtra FDA Cracks Down on Dark Stores and Ads",
+      "whyItMatters": "Reinforces consumer protection laws and food safety standards across major quick-commerce platforms and celebrity endorsements.",
+      "brief": "The Maharashtra FDA suspended multiple dark store licenses for safety violations and issued notices to top actors over surrogate pan masala advertisements.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/notice-for-vimal-elaichi-ad-blinkit-dark-stores-licence-suspension-tukaram-mundhe-s-fda-crackdown-in-maharashtra-11786870966966.html",
+      "dateLocation": "August 16, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Amber Enterprises to Manufacture iPhones in India",
+      "whyItMatters": "Expands India's electronics manufacturing ecosystem by integrating key global brands into domestic supply chain networks.",
+      "brief": "Amber Enterprises has announced plans to manufacture Oppo, OnePlus, and Realme phones in India starting in March 2027.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/amber-enterprises-to-make-oppo-oneplus-realme-phones-in-india-from-march-2027/articleshow/133274466.cms",
+      "dateLocation": "August 16, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Anthropic CEO's Wife Linked to Jeffrey Epstein Files",
+      "whyItMatters": "Brings tech leadership under scrutiny following revelations connecting family members to historical financial networks.",
+      "brief": "Reports have emerged detailing internet scrubbing efforts surrounding Cami Clark, the wife of Anthropic CEO Dario Amodei, and her past Epstein associations.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/us-news/who-is-cami-clark-all-about-jeffrey-epstein-links-to-anthropic-ceo-dario-amodei-s-little-known-wife-11786870787410.html",
+      "dateLocation": "August 16, 2026 | San Francisco",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sri Lanka to Table Contentious Bill on Judicial Retirement",
+      "whyItMatters": "Sparks intense debate regarding judicial independence and executive overreach in the country's legal system.",
+      "brief": "Sri Lanka's opposition and civil society groups have strongly criticized a new bill seeking to extend the retirement age of judges.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/proud-to-be-dimagi-naxal-congress-p-chidambaram-hits-back-to-pm/article71352058.ece",
-      "dateLocation": "Aug 16 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/international/sri-lanka-to-table-contentious-bill-extending-judges-retirement-age/article71352685.ece",
+      "dateLocation": "August 16, 2026 | Colombo",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Urges Senate to Act Fast on Permanent Daylight Saving",
-      "whyItMatters": "Pushes for federal legislative reform to eliminate biannual time changes across the United States.",
-      "brief": "US President Donald Trump renewed calls for the Senate to quickly pass the 'No More Changing the Clocks' Act.",
+      "headline": "Rijiju Clarifies Prime Minister's 'Dimagi Naxal' Remarks",
+      "whyItMatters": "Addresses growing parliamentary confrontation over terminology used during high-profile national holiday addresses.",
+      "brief": "Union Minister Kiren Rijiju clarified that PM Modi's Independence Day reference targeted separatist sympathizers rather than political opposition leaders.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-urges-us-senate-to-act-fast-on-no-more-changing-the-clocks-act-to-make-daylight-saving-permanent-11786853545342.html",
-      "dateLocation": "Aug 16 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india/did-pm-modi-label-opposition-as-dimagi-naxal-in-his-i-day-speech-kiren-rijiju-clarifies-amid-row-11786874466008.html",
+      "dateLocation": "August 16, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Colombia Earthquake Death Toll Nears 300 as Hopes Fade",
-      "whyItMatters": "Devastating casualty figures highlight severe search and rescue challenges following the major tremor.",
-      "brief": "Rescue operations continue as the death toll from the devastating Colombia earthquake approaches 300 while officials seek international relief.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/colombia-earthquake-toll-nears-300-as-rescue-hopes-fade-president-seeks-us-tariff-relief/articleshow/133268706.cms",
-      "dateLocation": "Aug 16 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple Issues Global Warning Over Sophisticated Mercenary Spyware",
-      "whyItMatters": "Highlights escalating cyber threats targeting high-risk users from advanced state-sponsored actors.",
-      "brief": "Apple issued global threat notifications warning users about state-backed mercenary spyware attacks and recommended activating Lockdown Mode.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/apple-threat-notifications-what-is-mercenary-spyware-and-how-to-protect-against-it/articleshow/133269471.cms",
-      "dateLocation": "Aug 16 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Taliban Marks Five Years in Power Amid Growing Aid Crisis Warnings",
-      "whyItMatters": "Underscores ongoing humanitarian distress and international isolation in Afghanistan.",
-      "brief": "As the Taliban marked five years since reclaiming power in Afghanistan, international aid groups warned of an escalating humanitarian crisis.",
+      "headline": "Accidental Gun Discharge at Varanasi Airport Injures Two",
+      "whyItMatters": "Highlights critical aviation security breaches involving the handling of licensed firearms within passenger terminals.",
+      "brief": "Two security personnel were injured at Varanasi airport when a passenger's licensed pistol accidentally discharged during a routine check.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
-      "dateLocation": "Aug 16 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/gunfire-at-varanasi-airport-passengers-pistol-goes-off-bullet-hits-surface-ricochet-injures-2/articleshow/133271656.cms",
+      "dateLocation": "August 16, 2026 | Varanasi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Chamoli Tunnel Mishap Death Toll Rises to Eight",
-      "whyItMatters": "Ongoing disaster response highlights continuous safety hazards in mountainous infrastructure projects.",
-      "brief": "The death toll from the Chamoli tunnel mishap in Uttarakhand reached eight as rescue teams continue searching for two remaining missing workers.",
+      "headline": "Mass Psychogenic Illness Causes School Evacuation in Maharashtra",
+      "whyItMatters": "Underscores the impact of collective stress and superstition on vulnerable student populations in remote rural educational institutions.",
+      "brief": "Over 600 schoolgirls fled a Maharashtra ashram school following panic and physical symptoms diagnosed as mass psychogenic stress reactions.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/chamoli-tunnel-mishap-toll-touches-eight-two-still-missing-search-and-rescue-operation-continues-probe-ordered-11786852290621.html",
-      "dateLocation": "Aug 16 | Livemint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/girls-laughing-crying-then-going-numb-608-flee-maharashtra-school-amid-mass-hysteria/articleshow/133268961.cms",
+      "dateLocation": "August 16, 2026 | Nagpur",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
