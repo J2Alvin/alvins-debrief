@@ -1,147 +1,156 @@
 {
-  "lastUpdated": "2026-08-17T06:47:49.291Z",
+  "lastUpdated": "2026-08-17T12:37:16.541Z",
   "ticker": [
-    "Six die in stampede at Bihar temple",
-    "Russian missile hits Lakshmi Mittal steel plant",
-    "Oil rises as US-Iran peace talks stall",
-    "Ebola outbreak in DRC becomes deadliest",
-    "Asian shares rise as Fed rate risks ease"
+    "Indian rupee hits two-week low on oil and FX pressures",
+    "Trump threatens Oman over stalled US-Iran peace talks",
+    "BJP announces major national office-bearer reshuffle",
+    "Hurricane Lala ravages Hawaii, leaving 130000 without power",
+    "Ravindra Jadeja claims 350th Test wicket in historic milestone"
   ],
   "articles": [
     {
-      "headline": "Six Die in Stampede at Bihar Temple",
-      "whyItMatters": "Tragic crowd surges highlight urgent need for better festival safety protocols.",
-      "brief": "At least six people died following a stampede-like situation at a temple in Bihar's Lakhisarai district during heavy devotee influx.",
+      "headline": "Indian Rupee Falls to Two-Week Low",
+      "whyItMatters": "Elevated crude oil prices and FX swap window closures are pressuring the Indian currency.",
+      "brief": "The Indian rupee dropped to a two-week low against the US dollar, driven by persistent high crude oil prices and the closure of the FX swap window.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlNNRW5YN0k3UXF6ZXlYdXltd0V0d1VocVNzSjNsVGVadUZCOUVuUkxWSEp6TVdwQ0pndVlBdU9PWDJUa21mVFpFZm5UaW1RMmdTT3cyZ09mSXU1T2dzSzhmMm1ZbUwteUp4REUzOUFONFlWbTc0R3hqd1N0MVdCUy15UVJoN0FxLU9LWkI3SlVhZ29vaW5fVVRpaVY1Tk14enYzZE8zX0FNcDJhN3NZMjJzdw?oc=5",
+      "dateLocation": "August 17, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Temple Stampede in Bihar Kills Six",
+      "whyItMatters": "Tragic crowd safety failures at religious sites continue to raise urgent public administration concerns.",
+      "brief": "At least six people died following a stampede-like event at a temple in the Indian state of Bihar, local officials confirmed.",
       "category": "general",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2R6ZGIzOFdNVFZud3R6OWZxNWkwdldkbXowT3JJZnhqS3NWZm5JaVdmRW55WGZZbDRVSnU2cWE0MkdJVGZVbnFRV1BERWYwODhsQ1Q5QXNNaWZBMERXeWFSSzV1VkhxWjNOQnJFMDhFNHRteXZ5TjllS3ZDSmkyS0JLTGFpejJyMExDVEhISUdicVRENjAtTmhjMnFkQ0FNQzVqREFoaWx1QlJrM0dSMlg5dXFKZHBkek9zSjJrUQ?oc=5",
-      "dateLocation": "August 17, 2026 | Lakhisarai, India",
+      "dateLocation": "August 17, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ebola Outbreak in DRC Becomes Deadliest",
-      "whyItMatters": "Escalating public health crises require international intervention to prevent regional spread.",
-      "brief": "The current Ebola outbreak in the Democratic Republic of Congo has officially surpassed previous incidents to become the deadliest in history.",
+      "headline": "Trump Warns Oman Over Iran Deal",
+      "whyItMatters": "Escalating US rhetoric threatens to widen the Gulf conflict amid stalled peace negotiations.",
+      "brief": "US President Trump threatened to bomb Oman if the Gulf nation interferes with ongoing US-Iran peace deal negotiations.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/trump-threatens-to-bomb-oman-if-gulf-nation-gets-in-the-way-of-iran-peace-deal-11786967876846.html",
+      "dateLocation": "August 17, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BJP Overhauls National Office Bearers",
+      "whyItMatters": "Strategic leadership changes signal the ruling party's preparation for upcoming crucial state elections.",
+      "brief": "The BJP announced a major national leadership reshuffle, bringing in experienced faces like Smriti Irani while replacing its longtime IT cell chief.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/bjp-announces-list-of-office-bearers-smriti-irani-vasundhara-raje-get-key-roles-check-full-list/articleshow/133292796.cms",
+      "dateLocation": "August 17, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hurricane Lala Ravages Hawaii",
+      "whyItMatters": "Severe weather events cause massive infrastructure damage and widespread power outages across islands.",
+      "brief": "Hurricane Lala struck Hawaii, leaving over 130,000 residents without power and sweeping away homes as catastrophic floods rose.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/hurricane-lala-ravages-hawaii-130000-without-power-homes-swept-away-as-floods-rise/articleshow/133295273.cms",
+      "dateLocation": "August 17, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ravindra Jadeja Enters Elite Cricket Club",
+      "whyItMatters": "Milestone achievements cement the all-rounder's status among the greatest names in Test cricket history.",
+      "brief": "Ravindra Jadeja claimed his 350th Test wicket against Sri Lanka, joining Kapil Dev, Ian Botham, and Daniel Vettori in an elite all-rounder club.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ravindra-jadeja-scripts-history-with-350th-test-wicket-joins-kapil-botham-vettori-in-elite-club/articleshow/133295183.cms",
+      "dateLocation": "August 17, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AstraZeneca Halts Volrustomig Cancer Trial",
+      "whyItMatters": "Clinical trial setbacks impact pharmaceutical pipelines and potential cancer immunotherapy advancements globally.",
+      "brief": "AstraZeneca suffered another pipeline setback after deciding to halt its volrustomig lung cancer clinical trial.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3BQbVhIYjdlZDFMNFM3MDd0ZjBROWhILVYxWGI1N08ybVVRSE1sX3ppM3VramtRQU95VWFoNzBRX25SeGpKQy1Qakd4NVNMb3oycGRLaHpKNVlNNmQ1YzNaak13Y3lYRndHRGFMaXpocV9EWHB5d0Y1T21qRUZHa1JHRHFxU0ZXbUY2ZUlQU3Vibk8yT1B1aW94RnJGaVlyWXZlZE9jWmRISjVMSUg4U090X0JWcHh2Mzk0b042bFI3b0JXaDNNamo0N0R4b2owcGcyLVVUWnBkbWN2ZTU2bUVR?oc=5",
-      "dateLocation": "August 17, 2026 | Kinshasa, DRC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXVnTkltTjBiMG84WjZvanR3Y0FqM0ZEMW11MWtkZVZLaUdJdDRVN1lwMDZmMkREQllXT1EzZ1hDM2l5dFQ5OVlIWlY0b2hZTDNuLXExRFNYdDdQeGlYdGpvWHZXQjVjSmVZcE43U1ZIMkNoNjlFMVhMbzliZVNnLTZhZjFwU0dCX3NSeEpoQUt6RmxYa3NwX2dET0Jaa3J6eF9WYU93WlpNNEZqRmlieU1aYndONGZZcW1JTEFNVGVlZkluM0FmaUFpUDRfXzMtSXc?oc=5",
+      "dateLocation": "August 17, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Rises as US-Iran Peace Talks Stall",
-      "whyItMatters": "Energy market volatility directly impacts global inflation and fuel prices worldwide.",
-      "brief": "Crude prices climbed as diplomatic talks between the US and Iran stalled and shipping through Hormuz slowed down.",
+      "headline": "Nestle Targets Weight-Loss Drug Users",
+      "whyItMatters": "Shifting consumer dietary habits driven by medical weight-loss trends force food giants to adapt.",
+      "brief": "Food and beverage major Nestle is developing specialized new product lines specifically tailored to users of popular weight-loss drugs.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
-      "dateLocation": "August 17, 2026 | Washington, USA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2NoQ1ZCb2NHRk9CNUpLTzdydDFtYzZLRXdlWUlmQmN6STBJWXBLOGtwX1VLc3NOUkg0YURwdmxIdkxhSTlPMk5HRFB5czd3eHVsa19SLTB5b1VjYlFPTGpZS1VDUEU5Wmw5LWw1Nnh0ZzJWQUUwNm5EQ09tRnExWEgwUWxaY3V6QnZfVGU1UmtpOFl5dUFvc29YMXZQMVpfVG1INkR6ak9YaGNZZHhvendSTWJfSjQ?oc=5",
+      "dateLocation": "August 17, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Asian Shares Rise, Dollar Slips on Fed Rates",
-      "whyItMatters": "Shifts in Federal Reserve expectations dictate capital flows across international equity markets.",
-      "brief": "Stock markets across Asia gained ground while the US dollar retreated as investors re-evaluated imminent rate hike risks.",
+      "headline": "Shein Targets $25 Billion Hong Kong IPO",
+      "whyItMatters": "Fast-fashion giant's public market debut will test investor appetite for massive cross-border retail listings.",
+      "brief": "Fast-fashion retailer Shein is reportedly eyeing a company valuation of approximately $25 billion for its upcoming Hong Kong initial public offering.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
-      "dateLocation": "August 17, 2026 | Tokyo, Japan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5",
+      "dateLocation": "August 17, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Russian Missile Hits Mittal Plant in Kyiv",
-      "whyItMatters": "Critical industrial infrastructure attacks escalate economic damages amid ongoing geopolitical conflicts.",
-      "brief": "A Russian missile strike severely damaged Indian billionaire Lakshmi Mittal's ArcelorMittal steel complex in Kryvyi Rih, Ukraine.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/russiaukraine-war-indian-billionaire-lakshmi-mittals-steel-plant-in-kyiv-hit-by-moscows-missile-11786938584350.html",
-      "dateLocation": "August 17, 2026 | Kyiv, Ukraine",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jharkhand Recruitment Protests Lead to Talks",
-      "whyItMatters": "Youth agitation over employment exams poses severe political challenges for state administrations.",
-      "brief": "Fresh negotiations opened between the Jharkhand government and student agitators demanding CBI probes into recruitment exam irregularities.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-protest-fresh-talks-between-govt-agitators-on-august-17-as-stir-enter-day-24/article71355044.ece",
-      "dateLocation": "August 17, 2026 | Ranchi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Japan Q2 Growth Misses Forecasts",
-      "whyItMatters": "Weak domestic consumption complicates the central bank's path toward monetary policy normalization.",
-      "brief": "Japan's second-quarter GDP expansion fell short of expectations due to subdued private spending and sluggish business investments.",
+      "headline": "Second Wave of Russian Fuel Shortages",
+      "whyItMatters": "Domestic logistical and refining issues continue to destabilize energy supply chains within Russia.",
+      "brief": "A second wave of severe fuel shortages at petrol stations has swept across various regions of Russia, straining local distribution.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
-      "dateLocation": "August 17, 2026 | Tokyo, Japan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5",
+      "dateLocation": "August 17, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indonesia Hit by 5.7-Magnitude Earthquake",
-      "whyItMatters": "Frequent seismic events test regional disaster readiness and infrastructure resilience in Southeast Asia.",
-      "brief": "A moderate 5.7-magnitude earthquake struck north-northwest of Ende in Indonesia, following a series of heavy tremors.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/indonesia-earthquake-latest-news-death-toll-ende-earthquake-tremors-aftershocks-11786932921852.html",
-      "dateLocation": "August 17, 2026 | Ende, Indonesia",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Targets Border Highway Expansion",
+      "whyItMatters": "Strategic infrastructure investments aim to drastically improve frontier defense mobility and regional trade integration.",
+      "brief": "India plans to construct over 5,000 kilometers of new highways along its land and maritime frontiers with an investment exceeding ₹2 trillion.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/india-border-coastal-highway-connectivity-push-11786960053542.html",
+      "dateLocation": "August 17, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Developer Joins MNC to No Work",
-      "whyItMatters": "Corporate benching practices highlight inefficiencies and systemic resource management flaws in tech firms.",
-      "brief": "An artificial intelligence developer took to social media after being onboarded at an MNC without receiving any actual tasks.",
+      "headline": "Student Launches Anonymous Bribe Reporting Site",
+      "whyItMatters": "Grassroots technological initiatives empower citizens to fight systemic public sector corruption safely and anonymously.",
+      "brief": "An Indian student has launched 'bribe.fyi', a platform allowing citizens to anonymously report corruption demands across major government departments.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/trends/ai-techie-joins-mnc-says-he-has-been-given-no-work-at-all-internet-warns-him-its-good-until-it-isnt-11786936467888.html",
-      "dateLocation": "August 17, 2026 | Bengaluru, India",
+      "sourceUrl": "https://www.livemint.com/news/india/faced-a-bribe-demand-indian-student-creates-website-bribe-fyi-where-you-can-report-it-anonymously-11786962610569.html",
+      "dateLocation": "August 17, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Shehzad Poonawalla Resigns From BJP",
-      "whyItMatters": "High-profile party exits reflect shifting political alignments and personal career choices among spokespersons.",
-      "brief": "BJP spokesperson Shehzad Poonawalla reiterated his resignation, citing pressing personal and financial circumstances for a move to the private sector.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/bjp-spokesperson-shehzad-poonawalla-presses-party-to-accept-resignation-cites-personal-and-financial-reasons-11786946008538.html",
-      "dateLocation": "August 17, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Accenture Urges Staff to Delay Vacation",
-      "whyItMatters": "Corporate scheduling maneuvers underscore efforts to meet challenging annual financial performance goals.",
-      "brief": "Accenture CEO Julie Sweet requested employees defer August vacations to bolster end-of-year output following a weak revenue forecast.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-makes-a-vacation-request-to-employees-for-this-august/articleshow/133284654.cms",
-      "dateLocation": "August 17, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Boosts Cooking Gas Amid Middle East War",
-      "whyItMatters": "Geopolitical conflicts in the Middle East necessitate domestic energy security and output adjustments.",
-      "brief": "India set strict targets for state oil companies to rapidly ramp up cooking gas production amidst escalating Middle East hostilities.",
+      "headline": "KABIL Aims for Argentina Lithium Output",
+      "whyItMatters": "Securing critical mineral supply lines is vital for India's domestic electric vehicle and renewable energy goals.",
+      "brief": "State-owned enterprise KABIL expects to commence commercial lithium production in Argentina within the next four to five years.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
-      "dateLocation": "August 17, 2026 | New Delhi, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/state-owned-kabil-expects-to-start-lithium-production-in-argentina-in-4-5-years/articleshow/133295739.cms",
+      "dateLocation": "August 17, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Cuts US-South Korea Military Drills",
-      "whyItMatters": "Shifts in alliance-based defense policies can dramatically alter security architectures in East Asia.",
-      "brief": "Donald Trump called for joint US-South Korea military exercises to be substantially reduced in a sudden defense strategy shift.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/donald-trump-calls-for-us-south-korea-drills-to-substantially-reduced/articleshow/133284260.cms",
-      "dateLocation": "August 17, 2026 | Washington, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nestle Explores Digital Weight-Loss Tools",
+      "whyItMatters": "Traditional food manufacturers are rapidly pivoting business models to integrate digital health solutions for consumers.",
+      "brief": "In tandem with diet product rollouts, Nestle is actively pursuing digital health integrations to capture the booming weight-loss consumer demographic.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2NoQ1ZCb2NHRk9CNUpLTzdydDFtYzZLRXdlWUlmQmN6STBJWXBLOGtwX1VLc3NOUkg0YURwdmxIdkxhSTlPMk5HRFB5czd3eHVsa19SLTB5b1VjYlFPTGpZS1VDUEU5Wmw5LWw1Nnh0ZzJWQUUwNm5EQ09tRnExWEgwUWxaY3V6QnZfVGU1UmtpOFl5dUFvc29YMXZQMVpfVG1INkR6ak9YaGNZZHhvendSTWJfSjQ?oc=5",
+      "dateLocation": "August 17, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Maharashtra FDA Notices to Bollywood Stars",
-      "whyItMatters": "Celebrity endorsements of surrogate goods face stricter regulatory crackdowns over consumer deception risks.",
-      "brief": "The Maharashtra FDA issued notices to major actors for brand advertisements allegedly promoting prohibited tobacco-related identities.",
+      "headline": "Vietnam Targets Natural Sex Ratio by 2035",
+      "whyItMatters": "Government population planning interventions address long-term demographic imbalances caused by skewed birth ratios.",
+      "brief": "A draft Vietnamese government plan outlines strategic targets to achieve a natural sex ratio at birth by the year 2035.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/why-has-maharashtra-fda-issued-notices-to-shah-rukh-khan-ajay-devgn-and-tiger-shroff-explainer/article71355172.ece",
-      "dateLocation": "August 17, 2026 | Mumbai, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV0tIN1h2aVY2WFkyVHA3eE95X2xMTFE2aEhCRlhUQktMU2Jzb0VYa0VtTENia21vcHhEbG9KYjIyT0V2WlJVLTJyUDFsaDNoTjNLNy1Ka2dKaTFNSjRuQ01RMVJ3clBKenhuYzJWRTRPTHNLMkI0U2NqQmxNcHlYMV92NTR6QnJ0Q2JjR1lfdkUxaU5mS25MUU9YclZkS0xMTFBJcHR3V2Y2Tk14a2FhMkEwTFZ5Q01wMGxYRWZfXzJ6Vl9pTzEwNE9NQU1uaW9oa2tiZXpKaFNkalBWb3NjZzN6QjFZUUZ6dXlmdXdpTw?oc=5",
+      "dateLocation": "August 17, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Tool Automatically Patches Critical Flaws",
-      "whyItMatters": "Autonomous security patches reduce vulnerability exposure times against sophisticated cyber threat actors.",
-      "brief": "Researchers unveiled a new machine-learning system capable of autonomously identifying and repairing security flaws in software codebases.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
-      "dateLocation": "August 17, 2026 | San Francisco, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Ravindra Jadeja Matches Legendary All-Rounders",
+      "whyItMatters": "Reaching elite statistical milestones under 100 matches highlights exceptional athletic efficiency and longevity.",
+      "brief": "Jadeja's historic milestone places him alongside legendary international cricketers who have achieved 4,000 runs and 350 wickets in Test matches.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ravindra-jadeja-scripts-history-with-350th-test-wicket-joins-kapil-botham-vettori-in-elite-club/articleshow/133295183.cms",
+      "dateLocation": "August 17, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
