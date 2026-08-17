@@ -1,84 +1,84 @@
 {
-  "lastUpdated": "2026-08-16T18:23:42.385Z",
+  "lastUpdated": "2026-08-17T01:04:03.285Z",
   "ticker": [
-    "India sets targets to boost cooking gas output",
-    "Former Iran president Khatami urges diplomacy",
-    "Belgium's biggest wildfire heads towards Germany",
-    "NTA orders fresh NET test after exam errors",
-    "Cristiano Ronaldo hints at 2027 retirement"
+    "Trump orders US-South Korea drill cuts",
+    "Strait of Hormuz shipping slows amid attacks",
+    "Bangladesh claims historic Test win in Australia",
+    "NTA orders re-test for UGC-NET papers",
+    "MTNL Mauritius exit paused for strategic interests"
   ],
   "articles": [
     {
-      "headline": "India Boosts Cooking Gas Output Amid Middle East War",
-      "whyItMatters": "Secures national energy supplies during ongoing geopolitical conflicts.",
-      "brief": "India has established strict targets for oil companies to increase cooking gas production in response to the escalating Middle East war, aiming to stabilize domestic supplies.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
-      "dateLocation": "August 16, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Belgium's Largest Wildfire Crosses Toward Germany",
-      "whyItMatters": "Poses severe cross-border environmental and safety hazards.",
-      "brief": "Belgium's biggest recorded wildfire is actively pushing toward the German border, prompting emergency response teams in both nations to mobilize containment efforts.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
-      "dateLocation": "August 16, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "German Companies Cut US Investment to Three-Year Low",
-      "whyItMatters": "Reflects shifting transatlantic economic confidence and corporate strategies.",
-      "brief": "Recent economic data reveals that German companies have reduced their investments in the United States to a three-year low amid changing market conditions.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
-      "dateLocation": "August 16, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Former Iran President Khatami Urges Diplomacy",
-      "whyItMatters": "Signals internal political pressure within Iran for de-escalation.",
-      "brief": "Former Iranian President Khatami has warned against a prolonged war, calling heavily for renewed diplomacy with the United States and Israel to protect civilians.",
+      "headline": "Trump Orders Scale-Back of US-South Korea Military Drills",
+      "whyItMatters": "Shifts geopolitical defense postures in East Asia significantly.",
+      "brief": "President Trump has instructed the Pentagon to significantly reduce joint military exercises with South Korea following disputes over regional denuclearization efforts.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/former-iran-president-khatami-warns-against-prolonged-war-urges-diplomacy-with-us-israel-we-cannot-live-with-war-11786890454102.html",
-      "dateLocation": "August 16, 2026 | Livemint",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea/article71354064.ece",
+      "dateLocation": "August 17, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "National Testing Agency Orders Fresh NET Exams",
-      "whyItMatters": "Addresses systemic academic evaluation failures affecting thousands of students.",
-      "brief": "The National Testing Agency has admitted to widespread errors in UGC-NET papers, officially ordering fresh examinations for English, Commerce, and Sociology to maintain fairness.",
+      "headline": "Strait of Hormuz Shipping Slows Following Tanker Attacks",
+      "whyItMatters": "Threatens global energy supply chains and petroleum pricing stability.",
+      "brief": "Ship-tracking data confirms that cargo and petroleum transit through the vital Strait of Hormuz has slowed down drastically amid ongoing regional conflict.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-iran-war-latest-news-live-updates-donald-trump-oil-prices-strait-of-hormuz-israel-lebanon-shipping-data-ceasefire-11786923348275.html",
+      "dateLocation": "August 17, 2026 | Middle East",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Poses New Waterway Logistics Plan Worth ₹10,000 Crore",
+      "whyItMatters": "Aims to drastically lower domestic logistics costs and carbon footprints.",
+      "brief": "The central government has charted an ambitious investment to expand operational waterways and meet aggressive cargo traffic targets ahead of schedule.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india-new-national-waterways-cargo-logistics-network-11786862507964.html",
+      "dateLocation": "August 17, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "MTNL Pauses Mauritius Exit to Protect Strategic National Interests",
+      "whyItMatters": "Highlights state intervention in preserving critical international geopolitical footprints.",
+      "brief": "New Delhi has halted MTNL's planned exit from its Mauritius telecom unit despite mounting liabilities, prioritizing strategic maritime presence.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/mtnls-mauritius-exit-on-hold-as-india-weighs-strategic-interests-bsnal-telecom-11786865390292.html",
+      "dateLocation": "August 17, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NTA Admits Paper Errors, Orders Re-Tests for UGC-NET",
+      "whyItMatters": "Affects the academic futures of thousands of prospective educators.",
+      "brief": "The National Testing Agency has acknowledged extensive factual mistakes and ordered fresh exams for English, Commerce, and Sociology subjects.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/nta-admits-errors-orders-fresh-net-for-3-subjects/articleshow/133277880.cms",
-      "dateLocation": "August 16, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/national/nta-to-conduct-ugc-net-re-exam-for-english-sociology-and-commerce-subjects/article71353268.ece",
+      "dateLocation": "August 17, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cristiano Ronaldo Hints at 2027 Retirement",
-      "whyItMatters": "Marks the potential end of an era for global football icons.",
-      "brief": "Football star Cristiano Ronaldo has revealed that the upcoming 2026-27 season will likely be his final year playing professional football before retirement.",
+      "headline": "Bangladesh Claims Historic First Test Victory in Australia",
+      "whyItMatters": "Marks a monumental milestone in international cricket history.",
+      "brief": "Bangladesh secured a brilliant and historic test match win on Australian soil, overshadowing a determined century by opponent players.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-drops-bombshell-retirement-hint-this-is-probably-my-last-year-reveals-plans-after-football/articleshow/133278732.cms",
-      "dateLocation": "August 16, 2026 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU29RSnVOazF4aTB3SUw0aGJMTGZiOGYtVHZCMGhkZFBBOHFNQWxoVmJPbDZSMVFnNnM2SnJFWDFpYkRkSmFHNUxaSUk2V21KMk4wb0I0a28wM0VXWU5JSi16NnMtTVI4c1Z2TUl3Y1dsU0tHQkxSeVNWOGdjaG92dE1ONUlqbTdXUXdPcUd5Z2Z5S2tFMjF2SzNzRDQtLXNOVTU0RmY4eEpJLTVrc1BmRGpTSXpLOEVLNU1F?oc=5",
+      "dateLocation": "August 17, 2026 | Sydney",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "USCIS Introduces Strict New Immigration Forms",
-      "whyItMatters": "Non-compliance risks immediate rejection of critical visa and status applications.",
-      "brief": "USCIS announced that older versions of immigration forms I-539 and I-765 will be rejected starting September 15, with no grace period provided for applicants.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-authority-to-h1-b-visa-holders-students-and-other-visa-holders-these-forms-will-be-rejected-starting-september-15/articleshow/133272195.cms",
-      "dateLocation": "August 16, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Industrial Waste Contaminates Uttar Pradesh Groundwater with Chromium",
+      "whyItMatters": "Poses severe, long-term health risks to rural populations consuming local water.",
+      "brief": "Decades of unchecked industrial dumping have turned local groundwater in three Uttar Pradesh districts visibly green-yellow, endangering villagers.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/contaminated-groundwater-in-uttar-pradesh-poses-health-risks/article71322801.ece",
+      "dateLocation": "August 17, 2026 | Lucknow",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Teen Solves Decades-Old Geometry Puzzle",
-      "whyItMatters": "Demonstrates breakthroughs in computer algorithms and advanced mathematical problem-solving.",
-      "brief": "A 17-year-old Pennsylvania student has won a major award after deploying a custom computer algorithm to successfully solve a complex decades-old geometry puzzle.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/17-year-old-pennsylvania-student-connor-hill-wins-250000-after-computer-algorithm-solves-decades-old-geometry-puzzle-identifying-exactly-146-rare-3d-shapes/articleshow/133277464.cms",
-      "dateLocation": "August 16, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "CJI Urges National Law Universities to Embrace Legal Tech",
+      "whyItMatters": "Encourages systemic modernization and efficiency within the legal profession.",
+      "brief": "Chief Justice Surya Kant noted that legal education must actively lead in deploying modern technology rather than rejecting generative tools.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/news/national/dont-just-adapt-but-lead-in-determining-use-of-technology-to-reshape-legal-system-cji-to-nlus/article71353948.ece",
+      "dateLocation": "August 17, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
