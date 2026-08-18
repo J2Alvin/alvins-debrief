@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-08-18T06:37:56.194Z",
+  "lastUpdated": "2026-08-18T12:38:37.963Z",
   "ticker": [
-    "US-Iran Ceasefire Expires",
-    "Oil Surges Past $91",
-    "India Arrests 200 Militants",
-    "Imran Khan's Health Worsens",
-    "Tesla Cybercab Launch Set"
+    "Strait of Hormuz shut over US-Iran tensions",
+    "Pakistan top court orders Imran Khan hospitalization",
+    "RBI flags strong cash paradox in India",
+    "Maharashtra Anti-Conversion Bill becomes law",
+    "Baidu Q2 revenue misses estimates"
   ],
   "articles": [
     {
-      "headline": "US-Iran Ceasefire Expires as Oil Prices Surge",
-      "whyItMatters": "Escalating tensions threaten global crude supplies and economic stability.",
-      "brief": "Oil prices jumped and bond yields rose as the US-Iran ceasefire expired, raising supply risks and driving market volatility.",
+      "headline": "Strait of Hormuz to Remain Shut Amid US-Iran Strains",
+      "whyItMatters": "Global oil supplies and shipping routes face severe disruptions.",
+      "brief": "Iran declares the Strait of Hormuz will remain shut until the U.S. meets interim deal conditions, following a vessel strike.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
       "dateLocation": "August 18, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Warns of Offensive Shift as US Talks Stall",
-      "whyItMatters": "A fully offensive posture in the Strait of Hormuz could cripple international maritime trade.",
-      "brief": "Iran has threatened to adopt a fully offensive stance in the Strait of Hormuz if diplomatic negotiations with the US fail.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/iran-threatens-to-go-on-offensive-in-strait-of-hormuz-if-diplomacy-with-us-fails/articleshow/133309029.cms",
-      "dateLocation": "August 18, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Thwarts Attacks and Arrests 200 Militants",
-      "whyItMatters": "Massive counter-terrorism sweep highlights persistent cross-border security challenges in South Asia.",
-      "brief": "Indian authorities announced the successful disruption of multiple attacks by Pakistan-backed militants, resulting in over 200 arrests.",
+      "headline": "Pakistan Top Court Orders Hospital Transfer for Imran Khan",
+      "whyItMatters": "Heightens political tensions in Pakistan amid ongoing civil unrest.",
+      "brief": "The Supreme Court of Pakistan has ordered authorities to move former Prime Minister Imran Khan from jail to a hospital.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmdMSnhTcDdIUUZxVXNnaG9wS0NrT1o4OG90ckZiMDNfUC1KdV8wdTZtSzZjNmhwSTZtNjU1SFNsbTNiX2FrSU9vLWpDVGk4YW5QWjh1bDh6eVVxSHlobHdGYWlobG5ya19KT0lORmY3RFJtei1YMFZoa0g4cU1QcVU0M21fQTFqd0t4YW0yVTR2UzFOZ0I2T3AyaldWRVBJTDRScVFkenMta0VFRnRoMVcxTHJrTVNBd3c2YlM0ajlzUFpsVGVZcVozdmk?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZFRmk3eFl2TkpCVERjbnZWVzQxblROOXAtU1QzWjladlllUk8ySUxFQ0lYWVlld21JMF8xampzYWRyQktLd0xFbFl5VEJkNGxCWnlRbWVQMXZoTlRWZW0tNTFiWjk0SkFmYTc0dGdNaWI4SlVzR0o0LW9UQUR6c3plWTVPSW5ET3dPVjVDZGNvZTAxNXVhbzBWeG1SMC0tcHJiRElQaE53TnVfU1d2R0lKdmR4WTVWNlNCeUV6Qk9udDVJbTQwSFFDQmI?oc=5",
       "dateLocation": "August 18, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BJP Announces Key Poll In-Charges for State Elections",
-      "whyItMatters": "Strategic leadership changes signal intense political maneuvering ahead of crucial regional legislative battles.",
-      "brief": "The ruling BJP has appointed senior leaders to oversee upcoming assembly elections in Uttar Pradesh, Punjab, and Gujarat.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/bjp-announces-poll-in-charges-for-assembly-elections-in-up-punjab-and-gujarat/article71359143.ece",
-      "dateLocation": "August 18, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tesla Prepares August Cybercab Launch for Employees",
-      "whyItMatters": "Marks a critical commercial milestone for autonomous vehicle deployment and ride-sharing operations.",
-      "brief": "Tesla is reportedly preparing to launch its autonomous Cybercab service in August, starting with employee test rides.",
+      "headline": "Baidu Revenue Misses Estimates on Advertising Slump",
+      "whyItMatters": "Highlights weak consumer advertising trends impacting Chinese tech giants.",
+      "brief": "Baidu reported a quarterly revenue miss as a sharp advertising slide outweighed gains in its AI cloud business.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21MRUdqUU83d3Q0azhvSnhGTktWa0s5bV9zTEZrUHg1bUVDOVI4U2RVY0dSS2xuU0J6RjM3SDVuSFFQOWtkbVhnQzVHZFpndUVSdW1kR19xbGNRajNPeDNOZnBUNm0tcGNYVkQ3UEo2dkk5Q3Jja1ZKYUNKclZmRUQtZzNHc0Y2cjRSYWlFOWI0aV9PenpMQzBZeU5GX2VxWHE2VDJ1bnpkVUF5cWdzOHNXSFYyWmJtYW5rekszWTA1dUtlTks0WmtNcGlQQUpLTkFuT2FoMjBxS0JuclE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXcyM1FrTGh6ZnJCeE1pUzk0aTQxVTkzTTB6TDR4eHJFNmlPWXZUMDZBdUxEelBmeVVJNUxCUi1DRUdWSXVZcWE5VDVlb2tvcXYyMnRlcElabndCSVlWU2JTSk9BeThKU2JFa2pHNFBQRElyVGNHSVdObkpaOVNwNHVTcm9DYXIxMHc4a3EzRGF4ZGhyc3RLa3k5cF9wVlB0X1JTRnVEbTN5Wmc?oc=5",
       "dateLocation": "August 18, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Green Card Approvals Drop 35%, Hitting Indians Hard",
-      "whyItMatters": "Stricter evidentiary standards complicate immigration pathways for skilled technology professionals.",
-      "brief": "Recent data reveals a sharp 35% decline in US green card approvals for extraordinary workers, disproportionately affecting Indian tech experts.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-green-card-approvals-drop-35-indians-hit-hardest-what-us-immigration-authority-data-says/articleshow/133312405.cms",
-      "dateLocation": "August 18, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Slips While Treasury Yields and Oil Rise",
-      "whyItMatters": "Shifting macroeconomic indicators reflect investor anxiety ahead of upcoming Federal Reserve minutes.",
-      "brief": "Precious metals retreated as firmer Treasury yields and surging oil prices altered near-term investment sentiment globally.",
+      "headline": "RBI Highlights Persistence of Cash in Digital India",
+      "whyItMatters": "Presents a unique economic paradox regarding consumer payment behaviors.",
+      "brief": "The RBI noted that cash remains crucial to India's economy, experiencing a cash paradox where currency in circulation rises despite digital growth.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
-      "dateLocation": "August 18, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/despite-digital-surge-cash-remains-indias-crucial-payment-mode-rbis-murmu-11787041838125.html",
+      "dateLocation": "August 18, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Seeks WTO Consultations Over US Quartz Tariffs",
-      "whyItMatters": "Trade disputes threaten hundreds of millions in quartz surface exports between the two nations.",
-      "brief": "India has initiated WTO consultations with the United States regarding a 50% tariff quota on quartz surface imports.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-seeks-wto-consultations-with-us-over-50-tariff-quota-on-quartz-surface-imports/articleshow/133304651.cms",
-      "dateLocation": "August 18, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Aegis Logistics Eyes $1.5 Billion UAE Tristar Deal",
-      "whyItMatters": "Major cross-border acquisition aims to expand global energy logistics and infrastructure footprints.",
-      "brief": "Mumbai-based energy logistics firm Aegis Logistics is reportedly in advanced talks to acquire the UAE's Tristar for $1.5 billion.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/aegis-logistics-in-talks-to-acquire-uaes-tristar-for-1-5-billion/articleshow/133306137.cms",
-      "dateLocation": "August 18, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Milky Mist Dairy Makes Strong Market Debut on D-Street",
-      "whyItMatters": "Demonstrates robust investor appetite for established consumer goods and dairy food brands.",
-      "brief": "Milky Mist Dairy Food shares recorded a healthy listing premium, signaling positive initial market sentiment on Dalal Street.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-shares-to-make-market-debut-today-gmp-signals-14-listing-premium/articleshow/133309402.cms",
-      "dateLocation": "August 18, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Shetty Stuns World Number One Shi at Championships",
-      "whyItMatters": "An incredible upset that reshapes expectations in international badminton competition.",
-      "brief": "India's Shetty delivered a stunning performance to defeat world number one Shi at the World Championships.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkZGSldCMHdlRVlrc0pyLThCa0Q1eEM2THJSSllzb1AtMkk0OXRCajNKbm5zSkxad3ZYRTdNcVBjZTJzc282TzZyVmdVby1ZQmtoRDc4SmtVNFRWZnhYc3JWSTRBLXAwVThpbm5HQzJ5TEVYSUlMT1RtOVVNMXkwU0lPbEZ4dGVRRlQzcVBuS29ZUEFpaGI0UzhpQjFwdUxxTWFNc3Vn?oc=5",
-      "dateLocation": "August 18, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Williams Sisters Fall While Zverev Advances at Cincinnati",
-      "whyItMatters": "Historic doubles reunion concludes early as top singles contenders continue strong tournament runs.",
-      "brief": "The Williams sisters suffered an early exit in their rare reunion at the Cincinnati Masters, while Alexander Zverev advanced.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/tennis/cincinnati-masters-williams-sisters-fall-while-zverev-advances/article71359075.ece",
-      "dateLocation": "August 18, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi Police Defends Facial Recognition Use in Protests",
-      "whyItMatters": "Raises ongoing legal questions regarding privacy rights versus state security measures during civil unrest.",
-      "brief": "Delhi Police informed the Supreme Court that deploying facial recognition technology during NEET-UG protests served a legitimate state interest.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/neet-ug-protests-delhi-police-tells-sc-that-facial-recognition-tech-was-used-in-legitimate-state-interest/article71359045.ece",
-      "dateLocation": "August 18, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "MacKenzie Scott's Philanthropy Abolishes $40B in Medical Debt",
-      "whyItMatters": "Highlights innovative models of discount-debt acquisition providing substantial relief to vulnerable patients.",
-      "brief": "Targeted donations from MacKenzie Scott have successfully enabled the purchase and erasure of $40 billion in American medical debt.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms",
-      "dateLocation": "August 18, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Imran Khan's Health Deteriorates Rapidly in Prison",
-      "whyItMatters": "Medical emergency claims spark urgent political demands for immediate hospitalization from supporters.",
-      "brief": "Reports indicate that jailed former Pakistan Prime Minister Imran Khan's health has significantly deteriorated, prompting hospital transfer demands.",
+      "headline": "Maharashtra Anti-Conversion Bill Enters Force",
+      "whyItMatters": "Imposes strict state-level legal frameworks regarding religious conversions.",
+      "brief": "The Maharashtra Freedom of Religion Act officially becomes law, introducing sweeping changes and regulatory requirements across the state.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/needs-to-be-moved-to-hospital-now-imran-khans-health-in-jail-deteriorates/articleshow/133311459.cms",
-      "dateLocation": "August 18, 2026 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/maharashtra-freedom-of-religion-act-to-come-into-force-on-august-28-what-changes/articleshow/133320393.cms",
+      "dateLocation": "August 18, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PM CARES Fund Assets Surge to Rs 8,452 Crore",
+      "whyItMatters": "Brings renewed financial transparency to high-profile national disaster funds.",
+      "brief": "New financial disclosures show a massive jump in recent donations to the PM CARES Fund, raising its total corpus.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-cares-fund-data-made-public-balance-rises-to-rs-8452-cup/articleshow/133319309.cms",
+      "dateLocation": "August 18, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Seeks Centre's Response on Paper Leak Probe",
+      "whyItMatters": "Addresses systemic corruption concerns plaguing national examination processes.",
+      "brief": "The Supreme Court directed the central government to respond to a plea demanding a special, time-bound investigation into exam paper leaks.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/sc-directs-govt-response-on-plea-for-special-time-bound-probe-into-paper-leak-cases/article71359204.ece",
+      "dateLocation": "August 18, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tamil Nadu Announces Comprehensive Health Scheme for Elderly",
+      "whyItMatters": "Expands targeted welfare coverage for aging demographics in the state.",
+      "brief": "The Tamil Nadu Assembly announced a new state-backed health insurance scheme dedicated specifically to elderly residents.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-state-government-to-launch-health-insurance-for-the-elderly/article71356797.ece",
+      "dateLocation": "August 18, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Considers Sugar Import Duty Cut to Stabilize Prices",
+      "whyItMatters": "Aims to cool down domestic inflationary pressures on essential commodities.",
+      "brief": "The government is actively evaluating a reduction in sugar import duties to curb record-high local market prices.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/india-weighs-sugar-import-duty-cut-to-curb-record-local-prices/articleshow/133316298.cms",
+      "dateLocation": "August 18, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Allstate CEO Urges Businesses to Prioritize Quantum Research",
+      "whyItMatters": "Shifts corporate tech strategies beyond conventional generative AI implementations.",
+      "brief": "The Allstate CEO warned corporate leaders to look past their AI obsession and invest in quantum computing infrastructure.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-insurance-giant-ceo-to-business-leaders-look-beyond-your-ai-obsession-warns-you-will-miss-the-wave-of-/articleshow/133299929.cms",
+      "dateLocation": "August 18, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ED Freezes Rs 30 Crore in SAGA Group Ponzi Scheme Case",
+      "whyItMatters": "Cracks down on large-scale cooperative credit fraud networks.",
+      "brief": "The Enforcement Directorate froze listed shares and securities worth Rs 30 crore linked to key figures in the SAGA Group scam.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/saga-group-ponzi-scam-ed-freezes-rs-30-crore-listed-shares-securities-linked-to-sameer-agarwal-associates-11787048823739.html",
+      "dateLocation": "August 18, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Reserves Suffer Heartbreak at BWF World Championships",
+      "whyItMatters": "Showcases dramatic competitive sportsmanship following last-minute travel trials.",
+      "brief": "Indian mixed doubles reserves Ashith Surya and Amrutha Pramuthesh lost a 73-minute thriller after a grueling 1,800 km dash to Delhi.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/after-1800-km-dash-reserves-ashith-surya-amrutha-pramuthesh-endure-golden-point-heartbreak/articleshow/133322128.cms",
+      "dateLocation": "August 18, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "East Bengal Placed in Tough Group for ACL Two",
+      "whyItMatters": "Sets up demanding continental fixtures for Indian club football.",
+      "brief": "I-League and ISL contenders East Bengal have been drawn into a challenging group stage for the upcoming AFC Champions League Two.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/football/football/article71360446.ece",
+      "dateLocation": "August 18, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Income Tax Department Targets Suspicious Foreign Remittances",
+      "whyItMatters": "Tightens regulatory compliance on cross-border financial transactions and capital flight.",
+      "brief": "The Income Tax Department has initiated a major verification drive to track down entities sending suspicious remittances abroad.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/wealth/tax/income-tax-dept-has-identified-suspicious-entities-that-sent-money-abroad-launches-verification-drive-know-what-to-do/articleshow/133320400.cms",
+      "dateLocation": "August 18, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Envoy Sergio Gor Calls for Predictable Indian Taxation",
+      "whyItMatters": "Strengthens bilateral trade agreements by addressing critical investor concerns.",
+      "brief": "US envoy Sergio Gor emphasized the need for stable regulations and predictable taxation to unlock the full potential of India-US trade.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/india/us-envoy-sergio-gor-bats-for-predictable-taxation-and-regulatory-frameworks-to-boost-economic-ties-11787044157369.html",
+      "dateLocation": "August 18, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
