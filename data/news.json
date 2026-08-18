@@ -1,138 +1,120 @@
 {
-  "lastUpdated": "2026-08-17T18:34:24.211Z",
+  "lastUpdated": "2026-08-18T01:02:07.048Z",
   "ticker": [
-    "India thwarts major militant attacks",
-    "ECB warns of AI market correction",
-    "Russia hit by fresh fuel shortages",
-    "Jharkhand cancels controversial recruitment exams",
-    "BWF Worlds: India makes stellar start"
+    "India thwarts major terror plot, arrests 250+ operatives",
+    "US-Iran peace talks stall as Tehran hints at offensive",
+    "ICRA projects India Q1 FY27 GDP growth at 7%",
+    "Tesla prepares for Cybercab robotaxi launch in August",
+    "Ayush Shetty stuns World No. 1 at BWF World Championships"
   ],
   "articles": [
     {
-      "headline": "India Thwarts Militant Attacks and Arrests Operatives",
-      "whyItMatters": "Highlights ongoing regional security threats and counter-terrorism measures along the border.",
-      "brief": "Indian security forces successfully thwarted attacks backed by Pakistan-based militants, arresting over 200 operatives in a massive nationwide security sweep.",
-      "category": "world",
+      "headline": "India Thwarts Major Terror Plot, Arrests Over 200 Operatives",
+      "whyItMatters": "Demonstrates heightened cross-border security threats and a massive domestic counter-terrorism sweep.",
+      "brief": "Security agencies successfully dismantled a vast ISI-backed terror ring ahead of national holidays, arresting over 200 operatives across multiple states.",
+      "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmdMSnhTcDdIUUZxVXNnaG9wS0NrT1o4OG90ckZiMDNfUC1KdV8wdTZtSzZjNmhwSTZtNjU1SFNsbTNiX2FrSU9vLWpDVGk4YW5QWjh1bDh6eVVxSHlobHdGYWlobG5ya19KT0lORmY3RFJtei1YMFZoa0g4cU1QcVU0M21fQTFqd0t4YW0yVTR2UzFOZ0I2T3AyaldWRVBJTDRScVFkenMta0VFRnRoMVcxTHJrTVNBd3c2YlM0ajlzUFpsVGVZcVozdmk?oc=5",
-      "dateLocation": "August 17, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Second Wave of Fuel Shortages Sweeps Across Russia",
-      "whyItMatters": "Demonstrates deepening economic and logistical strain inside Russia amidst ongoing international sanctions.",
-      "brief": "Russian petrol stations are grappling with a severe second wave of fuel shortages, heavily impacting local transportation and everyday commerce.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5",
-      "dateLocation": "August 17, 2026 | Moscow",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ECB Warns Artificial Intelligence Market Correction Looms",
-      "whyItMatters": "Signals potential financial instability and overvaluation risks within the global tech sector.",
-      "brief": "A European Central Bank blog post warns that a major market correction is rapidly approaching for the booming artificial intelligence sector.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5",
-      "dateLocation": "August 17, 2026 | Frankfurt",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Unveils 'Superman' Robot Ahead of Shanghai Debut",
-      "whyItMatters": "Showcases rapid advancements in humanoid robotics and automation technology by Chinese manufacturers.",
-      "brief": "Unitree has officially unveiled its new 'Superman' robot, generating immense fervor and anticipation ahead of its commercial Shanghai debut.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnNhSnVxWm9qdEhnUThPOU0yMGlfdTNkX3pzMU9tSnFsdGh2dURudDVOV1UyUTJIblpEV19iMUdqMGJITVc1eUI3SVA4MDRpOTNhQVo3RThxVWdNaHc2SjQ3ejBvOU05ZU1FWkhkbjZRN0NjUmVwWDZackZCYkhIZ2ktVjJFR1QzRzRBaEF3aTc2bVJHOUptOW43QkU0clBsc2FCREQ0Mm12cmMydWk3RHZzRkVfQQ?oc=5",
-      "dateLocation": "August 17, 2026 | Shanghai",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Smriti Irani and Piyush Goyal Assigned Key BJP Roles",
-      "whyItMatters": "Reflects major internal restructuring within India's ruling party ahead of upcoming national electoral challenges.",
-      "brief": "The BJP has appointed Smriti Irani as national general secretary and returned Piyush Goyal as treasurer in a major organizational overhaul.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/an-ordinary-bjp-karyakarta-smriti-irani-joins-bjps-national-team-as-general-secretary-thanks-pm-modi-nitin-nabin-11786986111854.html",
-      "dateLocation": "August 17, 2026 | New Delhi",
+      "dateLocation": "August 18, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Leases Advanced Sea Guardian Drones from US",
-      "whyItMatters": "Strengthens India's maritime surveillance and defense readiness in the strategic Indo-Pacific region.",
-      "brief": "India has signed a $203 million agreement to lease two MQ-9B Sea Guardian drones from the United States for the Navy.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/india-leases-2-mq-9b-sea-guardian-drones-from-us-at-rs-1-943-crore-for-30-months-11786986073465.html",
-      "dateLocation": "August 17, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jharkhand Cancels Recruitment Exams Following Major Protests",
-      "whyItMatters": "Demonstrates the political impact of youth employment agitation and student demands on state governments.",
-      "brief": "Chief Minister Hemant Soren has cancelled the disputed JSSC-CGL recruitment exams and ordered an inquiry into testing procedures since 2014.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/jharkhand-jssc-cgl-exam-cancelled-cm-hemant-soren-accepts-students-demands-11786983394119.html",
-      "dateLocation": "August 17, 2026 | Ranchi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Navy Destroyer Suffers Power Failure in South China Sea",
-      "whyItMatters": "Highlights operational readiness challenges and equipment strain facing American naval forces deployed overseas.",
-      "brief": "The USS Benfold suffered a four-day power failure in the South China Sea, adding to ongoing logistical setbacks for the US Navy.",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-navy-destroyer-hit-by-4-day-power-failure-in-south-china-sea-amid-iran-war-strain-report-11786977340077.html",
+      "headline": "Iran Shifts to 'Fully Offensive' Posture as Peace Talks Stall",
+      "whyItMatters": "Signals a dangerous escalation in West Asian geopolitical tensions, threatening global energy routes.",
+      "brief": "With peace talks faltering and a 60-day deadline dismissed, Tehran is reportedly preparing to shift to a fully offensive military posture.",
       "category": "world",
-      "dateLocation": "August 17, 2026 | Washington",
+      "sourceUrl": "https://www.livemint.com/news/world/iran-to-shift-to-fully-offensive-posture-as-us-peace-talks-stall-report-11786995241059.html",
+      "dateLocation": "August 18, 2026 | Tehran, Iran",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ayush Shetty Stun World No. 1 at BWF Championships",
-      "whyItMatters": "Marks a historic upset and highlights the rising talent pool within Indian competitive badminton.",
-      "brief": "Young Indian shuttler Ayush Shetty stunned top seed Shi Yu Qi as India secured a perfect 5-0 start on Day 1.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-ayush-shetty-stuns-world-no-1-shi-yu-qi-india-5-0-on-day-1/articleshow/133301177.cms",
-      "dateLocation": "August 17, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ICRA Forecasts India's Q1 FY27 GDP Growth at 7%",
-      "whyItMatters": "Provides vital macroeconomic indicators regarding the stability and trajectory of India's developing economy.",
-      "brief": "ICRA has estimated India's gross domestic product growth at a four-quarter low of 7 percent for the April-June period.",
+      "headline": "ICRA Estimates India's Q1 FY27 GDP Growth at 7%",
+      "whyItMatters": "Provides vital macroeconomic insight into India's economic resilience amidst global financial headwinds.",
+      "brief": "Rating agency ICRA projects India's GDP growth to hit a four-quarter low of 7% in the April-June period.",
       "category": "finance",
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/icra-estimates-indias-gdp-growth-at-four-quarter-low-of-7-per-cent-in-april-june/articleshow/133301848.cms",
-      "dateLocation": "August 17, 2026 | Mumbai",
+      "dateLocation": "August 18, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "National Testing Agency Removes Staff After UGC-NET Errors",
-      "whyItMatters": "Addresses systemic administrative failures impacting millions of students participating in national higher education examinations.",
-      "brief": "Following widespread technical errors, the NTA has removed over 50 staff members and initiated a comprehensive overhaul of its system.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/jobs/exams-results/nta-removes-over-50-staff-begins-system-overhaul-after-ugc-net-errors/articleshow/133302092.cms",
-      "dateLocation": "August 17, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russia Builds Secret Drone Bases Near NATO Borders",
-      "whyItMatters": "Raises international security concerns over potential escalation and direct confrontation with Western military alliances.",
-      "brief": "US intelligence warns that Russia has constructed 10 secret drone bases, raising fears of a limited strike testing NATO defenses.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/putin-to-attack-nato-russia-builds-10-secret-drone-bases-with-59-launch-rails-as-us-intelligence-warns-kremlin-may-test-alliance-with-a-limited-strike/articleshow/133301914.cms",
-      "dateLocation": "August 17, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Uber and Zipline Partner for US Drone Delivery",
-      "whyItMatters": "Expands commercial autonomous logistics and redefines the future of last-mile food and retail delivery.",
-      "brief": "Uber and Zipline have announced a major partnership to integrate automated drone deliveries into the Uber Eats platform across the US.",
+      "headline": "Tesla Prepares for Cybercab Launch Starting with Employee Rides",
+      "whyItMatters": "Marks a critical commercial milestone for autonomous vehicle deployment and ride-sharing technology.",
+      "brief": "Tesla is reportedly gearing up for an August launch of its Cybercab, initially rolling out autonomous rides exclusively for employees.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGIxTkgzWjVwcGR3eUpmWi1fbjQ5TXo1ZWZzOVExUGJxdTJ5XzVZOXVTRmNXeFRLTXplV0JFcFFhUEhrblNPaTcwMGpxZ0hNWHR0OHp4dERKVUVnVFh3c1BNU3R4bFozMkVtUlBScmJkNVlxXzg1QWpWb1BCZEVVbktZOS0yZHRJeU5MUUhQS1Q3RE1jS3lOa3RrcUJlN3BVbVpsZnB0LW5iLTlNcUlyWHRHdDc?oc=5",
-      "dateLocation": "August 17, 2026 | San Francisco",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21MRUdqUU83d3Q0azhvSnhGTktWa0s5bV9zTEZrUHg1bUVDOVI4U2RVY0dSS2xuU0J6RjM3SDVuSFFQOWtkbVhnQzVHZFpndUVSdW1kR19xbGNRajNPeDNOZnBUNm0tcGNYVkQ3UEo2dkk5Q3Jja1ZKYUNKclZmRUQtZzNHc0Y2cjRSYWlFOWI0aV9PenpMQzBZeU5GX2VxWHE2VDJ1bnpkVUF5cWdzOHNXSFYyWmJtYW5rekszWTA1dUtlTks0WmtNcGlQQUpLTkFuT2FoMjBxS0JuclE?oc=5",
+      "dateLocation": "August 18, 2026 | Austin, Texas",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Urged to Reconsider Winter Timing for Open",
-      "whyItMatters": "Highlights how severe environmental pollution directly disrupts international sporting fixtures held in major metropolitan hubs.",
-      "brief": "Danish player Anders Antonsen has criticized the scheduling of the India Open, citing dangerous Delhi winter air pollution levels.",
+      "headline": "Ayush Shetty Stuns World No. 1 at BWF World Championships",
+      "whyItMatters": "Showcases a monumental upset for Indian badminton on the global stage.",
+      "brief": "Young shuttler Ayush Shetty delivered a stunning career-defining victory over top seed Shi Yu Qi on the opening day in New Delhi.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/pollution-is-pretty-insane-anders-antonsen-calls-for-india-open-to-move-out-of-delhi-winter/articleshow/133301218.cms",
-      "dateLocation": "August 17, 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-ayush-shetty-stuns-world-no-1-shi-yu-qi-articleshow/133301177.cms",
+      "dateLocation": "August 18, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jharkhand Government Cancels JSSC-CGL Exam Amid Protests",
+      "whyItMatters": "Highlights systemic youth agitation and governance challenges regarding public employment examinations.",
+      "brief": "Following widespread student protests and a lengthy hunger strike, the Jharkhand government cancelled tainted recruitment exams.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/hemant-sorent-announces-jssc-cgl-exam-cancellation-after-emergency-cabinet-meeting/article71357634.ece",
+      "dateLocation": "August 18, 2026 | Ranchi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Signs $203 Million Drone Lease Deal with General Atomics",
+      "whyItMatters": "Significantly boosts military surveillance capabilities and strategic defense partnerships.",
+      "brief": "India has finalized a high-value lease agreement for advanced military drones from U.S. defense contractor General Atomics.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzlNLTdraUpGeFRhX1d3YU5YMEx1R1dCUHJOTHd2SklibTNuRXBuNFl4dENGcmZHaDhDNFRzT2hIR2tYUElBNUxMVmFRV1VvcmxFaGlLU1FYYUlvLXRWbjFwMXFlMWJpOXFPQUNvY3JKZlIzV1owS0xvZ0UxTWpFT1FzNnByM2hOQkY1Vll5eDhQc3h1MTJSbkRyZVZXbUhDbkVab21KbW1hdDdBU0E?oc=5",
+      "dateLocation": "August 18, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Netanyahu and Kushner Agree on US General to Monitor Disarmament",
+      "whyItMatters": "Outlines a strict enforcement mechanism for post-war governance in the Gaza Strip.",
+      "brief": "Israeli leadership and U.S. representatives agreed that an American general will verify Hamas disarmament before any troop withdrawal.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/trumps-envoy-says-hamas-disarmament-could-begin-within-30-days/article71358083.ece",
+      "dateLocation": "August 18, 2026 | Jerusalem",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Banks Fast-Track Dollar Fundraising Amid RBI FX Changes",
+      "whyItMatters": "Reflects liquidity adjustments and proactive treasury management within India's banking sector.",
+      "brief": "Major domestic banks are accelerating dollar-raising initiatives following the Reserve Bank of India's adjustments to FX swap windows.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFc4cHg1RGFYUFh6WHh6T0YtLU5IdUFObUhmYkR5YkVoRjR5UkJOMzk0N05sTi1aVF90a1p4aWxjUlVLbWN4YWFEb1FrMTRzRHl1MVpQdmJwRkVtV29wQXMtMW5KeVl3R0x6S056eDFQSzVHZ3hnc1FDRjMyV2xVbklLNHFtM1F6MUJFMG0tdUZlZXhiM3FVVi1oSW1VZHJnYURVQzA5QTZjSW5Bci1iWHdkNElFZUxVYmo0LTB3?oc=5",
+      "dateLocation": "August 18, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China's Unitree Unveils 'Superman' Robot Ahead of Shanghai Debut",
+      "whyItMatters": "Demonstrates rapid advancements in humanoid robotics and automated mechanical capability.",
+      "brief": "Robotics firm Unitree has revealed a new high-performance humanoid robot ahead of a major industry exhibition in Shanghai.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnNhSnVxWm9qdEhnUThPOU0yMGlfdTNkX3pzMU9tSnFsdGh2dURudDVOV1UyUTJIblpEV19iMUdqMGJITVc1eUI3SVA4MDRpOTNhQVo3RThxVWdNaHc2SjQ3ejBvOU05ZU1FWkhkbjZRN0NjUmVwWDZackZCYkhIZ2ktVjJFR1QzRzRBaEF3aTc2bVJHOUptOW43QkU0clBsc2FCREQ0Mm12cmMydWk3RHZzRkVfQQ?oc=5",
+      "dateLocation": "August 18, 2026 | Shanghai, China",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Seeks WTO Consultations Over US Quartz Tariff Quotas",
+      "whyItMatters": "Highlights ongoing trade disputes and protective tariff friction between New Delhi and Washington.",
+      "brief": "India has formally requested World Trade Organization consultations regarding US tariff quotas imposed on quartz surface imports.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-seeks-wto-consultations-with-us-over-50-tariff-quota-on-quartz-surface-imports/articleshow/133304651.cms",
+      "dateLocation": "August 18, 2026 | Geneva / New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tata Sons Board Divided Over Chandrasekaran's Potential Exit",
+      "whyItMatters": "Creates major corporate leadership uncertainty at the helm of India's largest conglomerate.",
+      "brief": "Directors on the Tata Sons board are reportedly split on whether to seek reconsideration of N. Chandrasekaran's exit.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-board-divided-over-chandrasekarans-exit-directors-debate-whether-to-seek-reconsideration/articleshow/133306205.cms",
+      "dateLocation": "August 18, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
