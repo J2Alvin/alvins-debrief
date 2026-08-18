@@ -1,147 +1,129 @@
 {
-  "lastUpdated": "2026-08-18T12:38:37.963Z",
+  "lastUpdated": "2026-08-18T18:33:24.949Z",
   "ticker": [
-    "Strait of Hormuz shut over US-Iran tensions",
-    "Pakistan top court orders Imran Khan hospitalization",
-    "RBI flags strong cash paradox in India",
-    "Maharashtra Anti-Conversion Bill becomes law",
-    "Baidu Q2 revenue misses estimates"
+    "UAE vows response after Iran fires ballistic missiles",
+    "Strait of Hormuz remains shut amid US-Iran tensions",
+    "Barcelona officially signs Rodri from Manchester City",
+    "Gold retreats as global bond yields surge to decades-high",
+    "Education Ministry overhauls exam system with four-tier checks"
   ],
   "articles": [
     {
-      "headline": "Strait of Hormuz to Remain Shut Amid US-Iran Strains",
-      "whyItMatters": "Global oil supplies and shipping routes face severe disruptions.",
-      "brief": "Iran declares the Strait of Hormuz will remain shut until the U.S. meets interim deal conditions, following a vessel strike.",
+      "headline": "UAE Vows Response After Iran Missile Fire",
+      "whyItMatters": "Escalating regional conflicts threaten global energy supply routes and security.",
+      "brief": "The UAE has vowed a firm response after air defense systems tracked ballistic missiles fired toward its territory by Iran, heightening Gulf tensions.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
-      "dateLocation": "August 18, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-news-donald-trump-live-updates-on-august-18-2026/article71358724.ece",
+      "dateLocation": "August 18, 2026 | Abu Dhabi / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Top Court Orders Hospital Transfer for Imran Khan",
-      "whyItMatters": "Heightens political tensions in Pakistan amid ongoing civil unrest.",
-      "brief": "The Supreme Court of Pakistan has ordered authorities to move former Prime Minister Imran Khan from jail to a hospital.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZFRmk3eFl2TkpCVERjbnZWVzQxblROOXAtU1QzWjladlllUk8ySUxFQ0lYWVlld21JMF8xampzYWRyQktLd0xFbFl5VEJkNGxCWnlRbWVQMXZoTlRWZW0tNTFiWjk0SkFmYTc0dGdNaWI4SlVzR0o0LW9UQUR6c3plWTVPSW5ET3dPVjVDZGNvZTAxNXVhbzBWeG1SMC0tcHJiRElQaE53TnVfU1d2R0lKdmR4WTVWNlNCeUV6Qk9udDVJbTQwSFFDQmI?oc=5",
-      "dateLocation": "August 18, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Baidu Revenue Misses Estimates on Advertising Slump",
-      "whyItMatters": "Highlights weak consumer advertising trends impacting Chinese tech giants.",
-      "brief": "Baidu reported a quarterly revenue miss as a sharp advertising slide outweighed gains in its AI cloud business.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXcyM1FrTGh6ZnJCeE1pUzk0aTQxVTkzTTB6TDR4eHJFNmlPWXZUMDZBdUxEelBmeVVJNUxCUi1DRUdWSXVZcWE5VDVlb2tvcXYyMnRlcElabndCSVlWU2JTSk9BeThKU2JFa2pHNFBQRElyVGNHSVdObkpaOVNwNHVTcm9DYXIxMHc4a3EzRGF4ZGhyc3RLa3k5cF9wVlB0X1JTRnVEbTN5Wmc?oc=5",
-      "dateLocation": "August 18, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "RBI Highlights Persistence of Cash in Digital India",
-      "whyItMatters": "Presents a unique economic paradox regarding consumer payment behaviors.",
-      "brief": "The RBI noted that cash remains crucial to India's economy, experiencing a cash paradox where currency in circulation rises despite digital growth.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/despite-digital-surge-cash-remains-indias-crucial-payment-mode-rbis-murmu-11787041838125.html",
-      "dateLocation": "August 18, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maharashtra Anti-Conversion Bill Enters Force",
-      "whyItMatters": "Imposes strict state-level legal frameworks regarding religious conversions.",
-      "brief": "The Maharashtra Freedom of Religion Act officially becomes law, introducing sweeping changes and regulatory requirements across the state.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/maharashtra-freedom-of-religion-act-to-come-into-force-on-august-28-what-changes/articleshow/133320393.cms",
-      "dateLocation": "August 18, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PM CARES Fund Assets Surge to Rs 8,452 Crore",
-      "whyItMatters": "Brings renewed financial transparency to high-profile national disaster funds.",
-      "brief": "New financial disclosures show a massive jump in recent donations to the PM CARES Fund, raising its total corpus.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-cares-fund-data-made-public-balance-rises-to-rs-8452-cup/articleshow/133319309.cms",
-      "dateLocation": "August 18, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Seeks Centre's Response on Paper Leak Probe",
-      "whyItMatters": "Addresses systemic corruption concerns plaguing national examination processes.",
-      "brief": "The Supreme Court directed the central government to respond to a plea demanding a special, time-bound investigation into exam paper leaks.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/sc-directs-govt-response-on-plea-for-special-time-bound-probe-into-paper-leak-cases/article71359204.ece",
-      "dateLocation": "August 18, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tamil Nadu Announces Comprehensive Health Scheme for Elderly",
-      "whyItMatters": "Expands targeted welfare coverage for aging demographics in the state.",
-      "brief": "The Tamil Nadu Assembly announced a new state-backed health insurance scheme dedicated specifically to elderly residents.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-state-government-to-launch-health-insurance-for-the-elderly/article71356797.ece",
-      "dateLocation": "August 18, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Considers Sugar Import Duty Cut to Stabilize Prices",
-      "whyItMatters": "Aims to cool down domestic inflationary pressures on essential commodities.",
-      "brief": "The government is actively evaluating a reduction in sugar import duties to curb record-high local market prices.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/india-weighs-sugar-import-duty-cut-to-curb-record-local-prices/articleshow/133316298.cms",
-      "dateLocation": "August 18, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Allstate CEO Urges Businesses to Prioritize Quantum Research",
-      "whyItMatters": "Shifts corporate tech strategies beyond conventional generative AI implementations.",
-      "brief": "The Allstate CEO warned corporate leaders to look past their AI obsession and invest in quantum computing infrastructure.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-insurance-giant-ceo-to-business-leaders-look-beyond-your-ai-obsession-warns-you-will-miss-the-wave-of-/articleshow/133299929.cms",
-      "dateLocation": "August 18, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ED Freezes Rs 30 Crore in SAGA Group Ponzi Scheme Case",
-      "whyItMatters": "Cracks down on large-scale cooperative credit fraud networks.",
-      "brief": "The Enforcement Directorate froze listed shares and securities worth Rs 30 crore linked to key figures in the SAGA Group scam.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/saga-group-ponzi-scam-ed-freezes-rs-30-crore-listed-shares-securities-linked-to-sameer-agarwal-associates-11787048823739.html",
-      "dateLocation": "August 18, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Reserves Suffer Heartbreak at BWF World Championships",
-      "whyItMatters": "Showcases dramatic competitive sportsmanship following last-minute travel trials.",
-      "brief": "Indian mixed doubles reserves Ashith Surya and Amrutha Pramuthesh lost a 73-minute thriller after a grueling 1,800 km dash to Delhi.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/after-1800-km-dash-reserves-ashith-surya-amrutha-pramuthesh-endure-golden-point-heartbreak/articleshow/133322128.cms",
-      "dateLocation": "August 18, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "East Bengal Placed in Tough Group for ACL Two",
-      "whyItMatters": "Sets up demanding continental fixtures for Indian club football.",
-      "brief": "I-League and ISL contenders East Bengal have been drawn into a challenging group stage for the upcoming AFC Champions League Two.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/football/football/article71360446.ece",
-      "dateLocation": "August 18, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Income Tax Department Targets Suspicious Foreign Remittances",
-      "whyItMatters": "Tightens regulatory compliance on cross-border financial transactions and capital flight.",
-      "brief": "The Income Tax Department has initiated a major verification drive to track down entities sending suspicious remittances abroad.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/wealth/tax/income-tax-dept-has-identified-suspicious-entities-that-sent-money-abroad-launches-verification-drive-know-what-to-do/articleshow/133320400.cms",
-      "dateLocation": "August 18, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Envoy Sergio Gor Calls for Predictable Indian Taxation",
-      "whyItMatters": "Strengthens bilateral trade agreements by addressing critical investor concerns.",
-      "brief": "US envoy Sergio Gor emphasized the need for stable regulations and predictable taxation to unlock the full potential of India-US trade.",
+      "headline": "Strait of Hormuz to Remain Shut",
+      "whyItMatters": "A prolonged blockade of this critical shipping lane severely disrupts international oil trade.",
+      "brief": "Iran stated that the strategic Strait of Hormuz will stay closed until the United States meets interim deal conditions.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/us-envoy-sergio-gor-bats-for-predictable-taxation-and-regulatory-frameworks-to-boost-economic-ties-11787044157369.html",
-      "dateLocation": "August 18, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtT0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
+      "dateLocation": "August 18, 2026 | Tehran / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Retreats as Bond Yields Surge",
+      "whyItMatters": "Rising yields alter investor sentiment and reallocate capital away from traditional safe havens.",
+      "brief": "Gold prices pulled back as global bond yields surged to their highest levels in decades amid changing macroeconomic conditions.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
+      "dateLocation": "August 18, 2026 | Global / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "RBI Faces Cash Mystery Amid Digital Growth",
+      "whyItMatters": "Unpredictable physical currency demand complicates central bank liquidity management and monetary policy.",
+      "brief": "The Reserve Bank of India faces a growing forecasting challenge as rapid digital payment adoption makes physical cash demand harder to predict.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/rbi-finds-cash-demand-harder-to-predict-as-digital-payments-grow/articleshow/133317778.cms",
+      "dateLocation": "August 18, 2026 | Mumbai / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Education Ministry Overhauls Exam System",
+      "whyItMatters": "Systemic reforms are essential to restore public trust in national testing integrity and education standards.",
+      "brief": "India's Education Ministry introduced a strict four-tier checking system and expanded personnel deployment to prevent recurring question paper leaks.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/education-ministry-tightens-noose-on-question-paper-leak-introduces-four-tier-checking-system-11787070569336.html",
+      "dateLocation": "August 18, 2026 | New Delhi / LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Barcelona Officially Signs Rodri",
+      "whyItMatters": "Major player transfers significantly shift competitive balances in elite European football leagues.",
+      "brief": "Barcelona announced the marquee signing of Spain captain Rodri from Manchester City on a contract running through 2030.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-officially-sign-rodri-from-man-city-spain-captain-joins-star-studded-squad/articleshow/133328511.cms",
+      "dateLocation": "August 18, 2026 | Barcelona / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Pakistan Clash in Hockey World Cup",
+      "whyItMatters": "Revives one of the sport's greatest rivalries with tournament survival on the line.",
+      "brief": "India and Pakistan face off in a blockbuster Hockey World Cup match where India needs a draw and Pakistan requires a win.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-vs-pakistan-hockey-world-cup-knockout-dream-survival-at-stake-in-blockbuster-clash/articleshow/133327797.cms",
+      "dateLocation": "August 18, 2026 | Amstelveen / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Approval Falls to 33 Percent",
+      "whyItMatters": "Shifting voter sentiment heavily influences upcoming legislative and executive election trajectories.",
+      "brief": "A new poll indicates that Donald Trump's presidential approval rating has dropped to 33 percent, hitting a low for his term.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/trump-approval-falls-to-33-lowest-of-his-presidency-reuters/ipsos-poll-finds/articleshow/133327445.cms",
+      "dateLocation": "August 18, 2026 | Washington / Reuters-Ipsos",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Goa Moves SC for Life Term for Tarun Tejpal",
+      "whyItMatters": "High-profile legal appeals set crucial precedents for accountability in major criminal convictions.",
+      "brief": "The Goa government approached the Supreme Court seeking life imprisonment for Tarun Tejpal following his previous conviction.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/goa-moves-supreme-court-seeking-life-term-for-tarun-tejpal-in-rape-case-11787070029337.html",
+      "dateLocation": "August 18, 2026 | New Delhi / LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Robots Face Commercial Market Test",
+      "whyItMatters": "Transitioning advanced robotics from lab demonstrations to viable commercial products is a critical milestone.",
+      "brief": "Chinese robotics companies are pushing beyond viral performance videos to prove commercial viability and market adoption.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
+      "dateLocation": "August 18, 2026 | Beijing / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Xiaomi Looks to EVs for Growth",
+      "whyItMatters": "Consumer electronics giants diversifying into automotive manufacturing reshape the EV landscape.",
+      "brief": "Xiaomi reported easing cost pressures in its core smartphone business while ramping up its electric vehicle expansion.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFRYQnpLMVVFZjJ6UVhyZ0RNbkhzRVFCMnZOOE5IMkp3dDhLQ2gtYXplV0ZPMGhCMmZ4RFpIemJ2eGxvbmN3YnJYaktaVVdqOTlrZ1dwTGRTUWhSNHczaDFPanZfQWlXM2Z3enR1RF9haDY3T3VWdFFZZldZeDltT0xaTVplSlBnVzFJanJwZjh0Wl9HV1VVLWdZWElyZUZDY1NqdVhFVDEtbXM?oc=5",
+      "dateLocation": "August 18, 2026 | Beijing / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Microdramas Boom as Hollywood Chases TikTok",
+      "whyItMatters": "Shorter episodic formats are forcing traditional entertainment studios to reinvent content distribution.",
+      "brief": "Traditional Hollywood studios are investing heavily in ultra-short microdramas to capture younger audiences shifting toward platforms like TikTok.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblRFUzRfTndFOVh2dVMzUm1vWU9sOGFRcTYyRG1USEc0VXJ6d2lWQVFBdll5TGM0b1dSV0JiUDdoWDFERmsxcTkxM2Z6S1VtUllCekFXSWdpNVFENjhHbjVsUzh6NndCbVltcExfLVpUYUVHSEUyRTRNdVQ4OTFwY0djRXlkODZHMnNVSWR5LXpiNVpIZ0xmOGtnMk5KWVgwSlBCOHRhc0ZuVWliN25jT25KcXBaeVllUjBPTGFtZ2swVWM?oc=5",
+      "dateLocation": "August 18, 2026 | Los Angeles / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Billionaire Buys First Electric Ferrari",
+      "whyItMatters": "Exclusive supercar sales highlight high-end consumer demand for bespoke luxury electric vehicles.",
+      "brief": "An 87-year-old billionaire purchased the first production Ferrari EV, designed by former Apple design chief Jony Ive, for forty million dollars.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/apple-shares-owner-since-its-ipo-days-florida-billionaire-buys-ferraris-first-ev-designed-by-iphone-designer-jony-ive-87-year-old-is-known-for-never-selling-/articleshow/133322004.cms",
+      "dateLocation": "August 18, 2026 | Miami / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
