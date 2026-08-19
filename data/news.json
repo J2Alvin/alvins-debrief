@@ -1,129 +1,147 @@
 {
-  "lastUpdated": "2026-08-18T18:33:24.949Z",
+  "lastUpdated": "2026-08-19T01:02:55.375Z",
   "ticker": [
-    "UAE vows response after Iran fires ballistic missiles",
-    "Strait of Hormuz remains shut amid US-Iran tensions",
-    "Barcelona officially signs Rodri from Manchester City",
-    "Gold retreats as global bond yields surge to decades-high",
-    "Education Ministry overhauls exam system with four-tier checks"
+    "UAE accuses Iran of ballistic missile attack",
+    "US bond yields surge to multi-decade highs",
+    "India considers duty-free sugar imports",
+    "Meta faces massive $200B lawsuit over teens",
+    "Pakistan court orders Imran Khan hospitalized"
   ],
   "articles": [
     {
-      "headline": "UAE Vows Response After Iran Missile Fire",
-      "whyItMatters": "Escalating regional conflicts threaten global energy supply routes and security.",
-      "brief": "The UAE has vowed a firm response after air defense systems tracked ballistic missiles fired toward its territory by Iran, heightening Gulf tensions.",
+      "headline": "India Considers Duty-Free Sugar Imports to Curb Prices",
+      "whyItMatters": "Helps stabilize domestic food inflation amid record market prices.",
+      "brief": "India is evaluating limited duty-free sugar imports to rein in soaring domestic prices and secure adequate supply.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWl9RV0VKcXdSZDBCWXRSSElYWWY0NEZPYU00N19ESkZsN04zLU43TjQ1cTQzcG5PRE1VdkZqaVphREZQMEJ3RTJjMmVDdkNrLWZBZFNWalJiZGplc0E2ekZVM0JZVm1OX0ktbF91MGdLZ3IwVzRPc0NSUFVXemdJZlg2OGh6ZWJXcTlLWmYyMkI5d1ctdjFmcDlJakxfUjZzTVBaTE1LNGcya3cwS0s2QzRYSDFZTjdQaTRENDY4Rkg3NzJZ?oc=5",
+      "dateLocation": "Aug 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UAE Accuses Iran of Ballistic Missile Attack",
+      "whyItMatters": "Escalates geopolitical tensions significantly across the Middle East.",
+      "brief": "The UAE stated that two ballistic missiles detected over its territory were launched from Iran, escalating regional conflict.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-news-donald-trump-live-updates-on-august-18-2026/article71358724.ece",
-      "dateLocation": "August 18, 2026 | Abu Dhabi / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
+      "dateLocation": "Aug 19, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Strait of Hormuz to Remain Shut",
-      "whyItMatters": "A prolonged blockade of this critical shipping lane severely disrupts international oil trade.",
-      "brief": "Iran stated that the strategic Strait of Hormuz will stay closed until the United States meets interim deal conditions.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtT0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
-      "dateLocation": "August 18, 2026 | Tehran / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Retreats as Bond Yields Surge",
-      "whyItMatters": "Rising yields alter investor sentiment and reallocate capital away from traditional safe havens.",
-      "brief": "Gold prices pulled back as global bond yields surged to their highest levels in decades amid changing macroeconomic conditions.",
+      "headline": "US Bond Yields Surge to Decades-Long Highs",
+      "whyItMatters": "Increases global borrowing costs and impacts worldwide equity markets.",
+      "brief": "Treasury yields have surged as mounting US debt pushes investors to demand higher returns for lending.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
-      "dateLocation": "August 18, 2026 | Global / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2hqY3NCTUdIbGJoZUR6aXVTVXlZUFZPVFNmc3dFcTUwRGkwcG1DRW1rZHlLTGV4WWdaV2xielR5WTZhcUdnNEYyX2pmcTcyRmFZYzQtVThYeDBKb3JHUEJkc1VuamNUbV80ckhHcURLVEMwcmpUSE4yRHJmLUtYMEprWEZhQ1d3cFdyMElEbTdxLVAtMVQ2YjZSVzIxUlU?oc=5",
+      "dateLocation": "Aug 19, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "RBI Faces Cash Mystery Amid Digital Growth",
-      "whyItMatters": "Unpredictable physical currency demand complicates central bank liquidity management and monetary policy.",
-      "brief": "The Reserve Bank of India faces a growing forecasting challenge as rapid digital payment adoption makes physical cash demand harder to predict.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/rbi-finds-cash-demand-harder-to-predict-as-digital-payments-grow/articleshow/133317778.cms",
-      "dateLocation": "August 18, 2026 | Mumbai / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "China's Humanoid Robots Face Commercial Reality",
+      "whyItMatters": "Determines the commercial viability of robotics beyond controlled demos.",
+      "brief": "Chinese robotics companies are transitioning from laboratory stunts and marathons to rigorous commercial testing in industrial environments.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
+      "dateLocation": "Aug 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Education Ministry Overhauls Exam System",
-      "whyItMatters": "Systemic reforms are essential to restore public trust in national testing integrity and education standards.",
-      "brief": "India's Education Ministry introduced a strict four-tier checking system and expanded personnel deployment to prevent recurring question paper leaks.",
+      "headline": "US States Sue Meta Over Child Addiction",
+      "whyItMatters": "Could lead to unprecedented financial penalties and stricter tech regulations.",
+      "brief": "A coalition of US states is seeking a $200 billion penalty against Meta for intentionally designing addictive products for children.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/meta-hooked-children-and-misled-public-prosecutors/article71363109.ece",
+      "dateLocation": "Aug 19, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Imposes Strict Curbs on Stem Cell Therapy",
+      "whyItMatters": "Protects patients from unproven experimental treatments and clinical risks.",
+      "brief": "The health ministry introduced strict oversight on experimental stem cell therapies due to rampant, unverified use for critical conditions.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/strict-curbs-oversight-stem-cell-therapy-critical-limb-ischemia-chronic-wounds-clinical-benefits-encouraging-innovation-11786961251361.html",
+      "dateLocation": "Aug 19, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Pakistan Set for High-Stakes Hockey Clash",
+      "whyItMatters": "Decides qualification fate in a historically intense sports rivalry.",
+      "brief": "India and Pakistan face off in a crucial Hockey World Cup match where survival and knockout dreams hang in the balance.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-vs-pakistan-hockey-world-cup-knockout-dream-survival-stale-in-blockbuster-clash/articleshow/133327797.cms",
+      "dateLocation": "Aug 19, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Top Private Banks Cut Over 10,000 Jobs in FY26",
+      "whyItMatters": "Reflects the rapid adoption of artificial intelligence in financial institutions.",
+      "brief": "India's top ten private banks have reduced their workforce by over 10,000 roles as automation and AI reshape hiring practices.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/education-ministry-tightens-noose-on-question-paper-leak-introduces-four-tier-checking-system-11787070569336.html",
-      "dateLocation": "August 18, 2026 | New Delhi / LiveMint",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/top-10-private-banks-cut-over-10000-jobs-in-fy26-as-ai-reshapes-hiring/articleshow/133330763.cms",
+      "dateLocation": "Aug 19, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Barcelona Officially Signs Rodri",
-      "whyItMatters": "Major player transfers significantly shift competitive balances in elite European football leagues.",
-      "brief": "Barcelona announced the marquee signing of Spain captain Rodri from Manchester City on a contract running through 2030.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-officially-sign-rodri-from-man-city-spain-captain-joins-star-studded-squad/articleshow/133328511.cms",
-      "dateLocation": "August 18, 2026 | Barcelona / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Census 2027 to Collect Detailed Parental Data",
+      "whyItMatters": "Expands demographic tracking parameters to deep administrative levels.",
+      "brief": "The upcoming census questionnaire will require respondents to provide parents' religion and birthplace up to the village level.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/national/census-2027-questionnaire-seeks-parents-religion-place-of-birth-up-to-village-level/article71361794.ece",
+      "dateLocation": "Aug 19, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and Pakistan Clash in Hockey World Cup",
-      "whyItMatters": "Revives one of the sport's greatest rivalries with tournament survival on the line.",
-      "brief": "India and Pakistan face off in a blockbuster Hockey World Cup match where India needs a draw and Pakistan requires a win.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-vs-pakistan-hockey-world-cup-knockout-dream-survival-at-stake-in-blockbuster-clash/articleshow/133327797.cms",
-      "dateLocation": "August 18, 2026 | Amstelveen / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Approval Falls to 33 Percent",
-      "whyItMatters": "Shifting voter sentiment heavily influences upcoming legislative and executive election trajectories.",
-      "brief": "A new poll indicates that Donald Trump's presidential approval rating has dropped to 33 percent, hitting a low for his term.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/trump-approval-falls-to-33-lowest-of-his-presidency-reuters/ipsos-poll-finds/articleshow/133327445.cms",
-      "dateLocation": "August 18, 2026 | Washington / Reuters-Ipsos",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Goa Moves SC for Life Term for Tarun Tejpal",
-      "whyItMatters": "High-profile legal appeals set crucial precedents for accountability in major criminal convictions.",
-      "brief": "The Goa government approached the Supreme Court seeking life imprisonment for Tarun Tejpal following his previous conviction.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/goa-moves-supreme-court-seeking-life-term-for-tarun-tejpal-in-rape-case-11787070029337.html",
-      "dateLocation": "August 18, 2026 | New Delhi / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Robots Face Commercial Market Test",
-      "whyItMatters": "Transitioning advanced robotics from lab demonstrations to viable commercial products is a critical milestone.",
-      "brief": "Chinese robotics companies are pushing beyond viral performance videos to prove commercial viability and market adoption.",
+      "headline": "India Boosts Domestic Defense Manufacturing Push",
+      "whyItMatters": "Aims to achieve strategic self-reliance in advanced military hardware.",
+      "brief": "The Indian government has added 405 key defense items, including major platforms and warships, to the mandatory indigenization list.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
-      "dateLocation": "August 18, 2026 | Beijing / Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/in-another-aatmanirbharta-push-405-key-defence-items-of-military-platforms-alh-tejas-tanks-and-warships-to-be-indigenised/articleshow/133334515.cms",
+      "dateLocation": "Aug 19, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Xiaomi Looks to EVs for Growth",
-      "whyItMatters": "Consumer electronics giants diversifying into automotive manufacturing reshape the EV landscape.",
-      "brief": "Xiaomi reported easing cost pressures in its core smartphone business while ramping up its electric vehicle expansion.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFRYQnpLMVVFZjJ6UVhyZ0RNbkhzRVFCMnZOOE5IMkp3dDhLQ2gtYXplV0ZPMGhCMmZ4RFpIemJ2eGxvbmN3YnJYaktaVVdqOTlrZ1dwTGRTUWhSNHczaDFPanZfQWlXM2Z3enR1RF9haDY3T3VWdFFZZldZeDltT0xaTVplSlBnVzFJanJwZjh0Wl9HV1VVLWdZWElyZUZDY1NqdVhFVDEtbXM?oc=5",
-      "dateLocation": "August 18, 2026 | Beijing / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Microdramas Boom as Hollywood Chases TikTok",
-      "whyItMatters": "Shorter episodic formats are forcing traditional entertainment studios to reinvent content distribution.",
-      "brief": "Traditional Hollywood studios are investing heavily in ultra-short microdramas to capture younger audiences shifting toward platforms like TikTok.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblRFUzRfTndFOVh2dVMzUm1vWU9sOGFRcTYyRG1USEc0VXJ6d2lWQVFBdll5TGM0b1dSV0JiUDdoWDFERmsxcTkxM2Z6S1VtUllCekFXSWdpNVFENjhHbjVsUzh6NndCbVltcExfLVpUYUVHSEUyRTRNdVQ4OTFwY0djRXlkODZHMnNVSWR5LXpiNVpIZ0xmOGtnMk5KWVgwSlBCOHRhc0ZuVWliN25jT25KcXBaeVllUjBPTGFtZ2swVWM?oc=5",
-      "dateLocation": "August 18, 2026 | Los Angeles / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Billionaire Buys First Electric Ferrari",
-      "whyItMatters": "Exclusive supercar sales highlight high-end consumer demand for bespoke luxury electric vehicles.",
-      "brief": "An 87-year-old billionaire purchased the first production Ferrari EV, designed by former Apple design chief Jony Ive, for forty million dollars.",
+      "headline": "Florida Billionaire Buys First Ferrari EV",
+      "whyItMatters": "Highlights luxury electric vehicle trends designed by iconic creators.",
+      "brief": "An early Apple shareholder purchased Ferrari's first electric vehicle, designed alongside Jony Ive, for a record $40 million at auction.",
       "category": "technology",
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/apple-shares-owner-since-its-ipo-days-florida-billionaire-buys-ferraris-first-ev-designed-by-iphone-designer-jony-ive-87-year-old-is-known-for-never-selling-/articleshow/133322004.cms",
-      "dateLocation": "August 18, 2026 | Miami / Times of India",
+      "dateLocation": "Aug 19, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BRICS Weighs Digital Grain Exchange Proposal",
+      "whyItMatters": "Could reshape global agricultural commodities trade outside Western systems.",
+      "brief": "BRICS nations are evaluating Russia's proposal to establish a digital farm produce exchange platform to streamline trade.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/brics-weighs-russias-grain-exchange-plan-digital-platform-for-farm-produce-trade-mooted/articleshow/133330137.cms",
+      "dateLocation": "Aug 19, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi Ex-Minister Satyendar Jain Arrested in Corruption Case",
+      "whyItMatters": "Intensifies political friction involving anti-corruption probes.",
+      "brief": "Anti-corruption authorities have arrested former Delhi minister Satyendar Jain and several officials regarding alleged Jal Board irregularities.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/satyendar-jain-delhi-jal-board-ex-ceo-among-6-arrested-for-scam/articleshow/133334631.cms",
+      "dateLocation": "Aug 19, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Public EV Charging Consumption Surges by 72%",
+      "whyItMatters": "Demonstrates rapid structural adoption of electric vehicles nationwide.",
+      "brief": "Data shows electricity consumption at public charging stations has jumped significantly, pointing to steady growth in EV usage.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/use-of-evs-going-up-steadily-consumption-at-public-chargers-rises-by-72/articleshow/133331764.cms",
+      "dateLocation": "Aug 19, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Unique Athlete Experience Planned for Asian Games",
+      "whyItMatters": "Sets new operational benchmarks for major multi-sport continental events.",
+      "brief": "Organizers are finalizing unique logistical and accommodation experiences for roughly 15,000 competitors attending the upcoming Asian Games.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/a-unique-experience-awaits-athletes-at-the-asian-games/article71362418.cms",
+      "dateLocation": "Aug 19, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
