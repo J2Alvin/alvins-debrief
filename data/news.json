@@ -1,120 +1,129 @@
 {
-  "lastUpdated": "2026-08-19T06:38:14.804Z",
+  "lastUpdated": "2026-08-19T12:39:14.651Z",
   "ticker": [
-    "US pauses 50% tariffs on Canada",
-    "Kolkata hotel fire kills at least nine",
-    "Strait of Hormuz tension lifts oil prices",
-    "OpenAI slows model training for security",
-    "Cerebras launches new AI server chip"
+    "Kolkata Hotel Fire Kills Nine",
+    "Oil Hits Three-Week High Over Hormuz",
+    "Samsung Hikes Chipmaking Prices By 15%",
+    "US Envoy Visits Srinagar, Hints Advisory Review",
+    "India Conquers Galle in Test Match"
   ],
   "articles": [
     {
-      "headline": "Kolkata Hotel Fire Kills Nine",
-      "whyItMatters": "Highlights critical lapses in commercial building safety standards.",
-      "brief": "A massive fire at a Kolkata hotel killed at least nine people, including foreign nationals, prompting intense scrutiny over safety norm violations.",
+      "headline": "Kolkata Hotel Fire Claims Nine Lives",
+      "whyItMatters": "Highlights critical urban safety and regulatory enforcement issues in major Indian hospitality centers.",
+      "brief": "At least nine people were killed in a devastating hotel fire in Kolkata, triggering nationwide safety concerns and calls for stricter inspections.",
       "category": "general",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5",
-      "dateLocation": "August 19, 2026 | Kolkata",
+      "dateLocation": "2026-08-19 | Kolkata, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Prices Firm as Yields Ease",
-      "whyItMatters": "Reflects investor shifting as economic indicators fluctuate globally.",
-      "brief": "Gold prices rose as Treasury yields eased, with investors closely watching upcoming Federal Reserve minutes for monetary policy clues.",
+      "headline": "Samsung Raises Chipmaking Prices by 15%",
+      "whyItMatters": "Signals mounting cost pressures across global supply chains amid soaring demand for advanced semiconductors.",
+      "brief": "Samsung has increased its chipmaking prices by up to 15% due to a sharp spike in demand for advanced semiconductor components worldwide.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5",
+      "dateLocation": "2026-08-19 | Seoul, South Korea",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Completes First Stage at Disputed Reef",
+      "whyItMatters": "Escalates geopolitical tensions in the South China Sea, threatening regional stability and international trade routes.",
+      "brief": "Satellite images confirm China has finished the first construction phase at a disputed South China Sea reef, expanding regional military posture.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?oc=5",
+      "dateLocation": "2026-08-19 | Beijing, China",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Reaches Three-Week High Over Hormuz",
+      "whyItMatters": "Threatens global energy supplies and could drive up inflation if maritime transit through the crucial strait is disrupted.",
+      "brief": "Global oil prices surged to a three-week high driven by escalating military tensions and uncertainty surrounding transit through the Strait of Hormuz.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
+      "dateLocation": "2026-08-19 | Global Markets",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cerebras Launches New AI Chip",
-      "whyItMatters": "Aims to drastically accelerate response times for AI chatbots.",
-      "brief": "Cerebras has introduced a novel server chip and system explicitly engineered to boost the speed and efficiency of AI chatbots.",
+      "headline": "Cerebras Unveils Advanced AI Server Chip",
+      "whyItMatters": "Intensifies competition in the artificial intelligence hardware market by offering faster processing speeds for large language models.",
+      "brief": "Cerebras has launched a new server chip and architecture specifically engineered to accelerate AI chatbot deployment and response times.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbU13WV9BblNQekV2Z3RoeUQ2dzFVQkkwQkZWVk5CSVA0LVVBZk16cnJ1YmNOeG9laGpSbTdqU2NNY212dlFYbnl4TjNVaUhOWmxVT0FXZDVjaGdvdGZxWW1mTFhtLWNiTmpUeEtiRUhSUnBPSUExYkE1aFd3VXFvajliLWxlRk9uSWdzbHZBWmxkRXZfcG5ucjc1TWJuR1Zod21zMjROT29TbjZHbWI5VHFtU1o?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
+      "dateLocation": "2026-08-19 | Silicon Valley, USA",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Prices Extend Climb on Hormuz Risk",
-      "whyItMatters": "Threatens global energy supply stability and increases shipping costs.",
-      "brief": "Oil prices continued to rise due to prolonged export uncertainties and rising military tensions around the strategic Strait of Hormuz.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Unitree Soars in Shanghai Debut",
-      "whyItMatters": "Marks a major financial milestone for China's expanding robotics sector.",
-      "brief": "Humanoid robotics firm Unitree saw its shares surge during its Shanghai stock debut, underlining strong investor confidence in automation.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0pzN014Mm10emZneHNXYjBENjZ0VXFKamZHVUNpQ3hkYjdmU05wRWR5VW96TFowS21LYU5hd3poMUJJWnR3VHJIYVJQM0U5QktkWS1hS19OWlNDbjdGcFhUbV93d2ZKa2ZzdzBWTmJJYV9yNk1VNGlqVERldF9zVWVQS2RrX3FxYTJ2QW9NZERpSXZycl91TGxFUG1ZZUw4bmJIS2YyWWhaTGlDY0h6TXh5WGVYb0VVV0V6TjJGTkd6UQ?oc=5",
-      "dateLocation": "August 19, 2026 | Shanghai",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Pauses Model Training for Security",
-      "whyItMatters": "Prioritizes vulnerability remediation following recent industry security breaches.",
-      "brief": "Following the Hugging Face incident, OpenAI has temporarily slowed its model training pipeline to strengthen security and infrastructure protocols.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Pauses 50% Tariffs on Canada",
-      "whyItMatters": "Provides a temporary reprieve for cross-border trade and manufacturing sectors.",
-      "brief": "President Donald Trump has agreed to a three-day pause on the impending 50% tariffs targeting Canadian imports while trade talks continue.",
+      "headline": "US Envoy Hints at Travel Advisory Review",
+      "whyItMatters": "Indicates improving diplomatic perceptions of security and tourism prospects in the Jammu and Kashmir region.",
+      "brief": "US Envoy Sergio Gor met with CM Omar Abdullah and hinted that Washington may soon downgrade its travel advisory for Jammu and Kashmir.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/uscanada-trade-deal-donald-trump-pauses-50-tariffs-on-canadian-imports-for-3-days-11787108701833.html",
-      "dateLocation": "August 19, 2026 | Washington",
+      "sourceUrl": "https://www.livemint.com/news/india/us-envoy-sergio-gor-hints-at-downgrading-travel-advisory-for-j-k-after-meeting-cm-omar-abdullah-news-11787137337993.html",
+      "dateLocation": "2026-08-19 | Srinagar, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Strait of Hormuz Shipping Routes Shift",
-      "whyItMatters": "Bypasses aggressive Iranian choke points via UN-backed corridors.",
-      "brief": "An increasing number of commercial vessels are utilizing an Omani maritime route to bypass heightened security risks in the Strait of Hormuz.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/strait-of-hormuz-iran-s-grip-slips-as-ships-increasingly-use-un-authorised-oman-route-us-blockade-gains-ground-11787102429954.html",
-      "dateLocation": "August 19, 2026 | Middle East",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Thirty Killed in CAR Mine Collapse",
-      "whyItMatters": "Spotlights recurring safety hazards in unregulated artisanal African mines.",
-      "brief": "At least 30 miners died following a tragic gold mine collapse in the Central African Republic, with rescue operations facing severe obstacles.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/30-killed-in-central-african-republic-mine-collapse-as-region-continues-to-reel-from-recurring-mining-disasters-11787115415162.html",
-      "dateLocation": "August 19, 2026 | Bangui",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Joe Root Nears Test Cricket History",
-      "whyItMatters": "Positions the English batter alongside legendary international run-scorers.",
-      "brief": "England captain Joe Root stands on the verge of breaking Ricky Ponting's esteemed home Test match scoring record ahead of the Pakistan series.",
+      "headline": "India Secures Comprehensive Test Win in Galle",
+      "whyItMatters": "Demonstrates the rising depth and strong tactical blueprint of India's evolving Test cricket squad under new leadership.",
+      "brief": "India defeated Sri Lanka by 165 runs in Galle, propelled by stellar performances from Devdutt Padikkal and bowler Manav Suthar.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-on-the-verge-of-history-ricky-pontings-all-time-record-in-sight/articleshow/133336974.cms",
-      "dateLocation": "August 19, 2026 | Leeds",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/galle-conquered-boxes-ticked-indias-test-blueprint-takes-shape/articleshow/133341836.cms",
+      "dateLocation": "2026-08-19 | Galle, Sri Lanka",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Issues Strict Green Card Rules",
-      "whyItMatters": "Imposes rigorous financial public charge evaluations for applicants.",
-      "brief": "New US Citizenship and Immigration Services regulations taking effect September 18 will introduce stricter public benefit tests for Green Cards.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
-      "dateLocation": "August 19, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Obesity Hotspots Shift Beyond Indian Cities",
+      "whyItMatters": "Highlights an alarming epidemiological shift requiring urgent healthcare interventions across semi-urban and rural demographics.",
+      "brief": "New data reveals India's growing obesity epidemic is rapidly expanding past metropolitan boundaries into smaller towns and rural regions.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/indias-obesity-epidemic-is-quietly-leaving-its-cities-behind/articleshow/133339723.cms",
+      "dateLocation": "2026-08-19 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Assistants to Monitor Screens",
-      "whyItMatters": "Pushes the boundaries of workplace productivity and data privacy concerns.",
-      "brief": "OpenAI CEO Sam Altman predicts that AI systems capable of monitoring screens, emails, and meetings will emerge within six months.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-within-six-months-chatgpt-could-watch-your-screen-meetings-and-emails/articleshow/133327319.cms",
-      "dateLocation": "August 19, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Vietnam Overhauls Housing and Infrastructure Rules",
+      "whyItMatters": "Streamlines administrative bottlenecks to accelerate economic growth and large-scale urban development projects.",
+      "brief": "Vietnam has announced sweeping regulatory changes to fast-track land acquisitions and construction for housing and major public infrastructure initiatives.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/real-estate/news/vietnam-announces-land-acquisition-overhaul-to-speed-up-housing-infra-projects-what-changes/articleshow/133345431.cms",
+      "dateLocation": "2026-08-19 | Hanoi, Vietnam",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cabinet Clears ₹13,041 Crore Rail Projects",
+      "whyItMatters": "Boosts logistical efficiency and connectivity along vital economic transportation corridors across the country.",
+      "brief": "The Indian Cabinet has greenlit railway and road projects worth ₹13,041 crore, including the quadrupling of the Howrah-Chennai line.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/cabinet-clears-rs-13041-crore-rail-road-projects-howrah-chennai-line-to-be-quadrupled/articleshow/133343759.cms",
+      "dateLocation": "2026-08-19 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ten-Year-Old Wins Silicon Valley Tech Award",
+      "whyItMatters": "Demonstrates the early potential of youth innovation in applying artificial intelligence solutions to real-world security threats.",
+      "brief": "A 10-year-old Taiwanese student won a top Silicon Valley award for inventing an AI-powered electronic nose to detect chemical hazards.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meet-10-year-old-hsu-ting-wei-winner-of-top-silicon-valley-invention-award-for-building-an-ai-electronic-nose-that-samples-air-behind-x-ray-baggage-scanners/articleshow/133342162.cms",
+      "dateLocation": "2026-08-19 | Silicon Valley, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Warns Gulf Nations Against US Assistance",
+      "whyItMatters": "Raises regional security stakes, warning neighboring states against participating in any potential military escalation.",
+      "brief": "Iran's armed forces have formally warned Gulf countries that providing any support or facilitation to the US military constitutes active participation.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-news-donald-trump-live-updates-on-august-19-2026/article71363121.ece",
+      "dateLocation": "2026-08-19 | Tehran, Iran",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Arrest Warrant Issued for TMC MP Moitra",
+      "whyItMatters": "Highlights legal confrontations involving prominent political figures over alleged hate speech and court non-appearance.",
+      "brief": "A West Bengal court issued an arrest warrant against TMC MP Mahua Moitra after she repeatedly failed to honor court summons.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/arrest-warrant-against-tmc-mp-mahua-moitra-for-not-honouring-court-summons-in-hate-speech-case/article71364895.ece",
+      "dateLocation": "2026-08-19 | Kolkata, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
