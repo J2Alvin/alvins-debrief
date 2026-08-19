@@ -1,129 +1,147 @@
 {
-  "lastUpdated": "2026-08-19T12:39:14.651Z",
+  "lastUpdated": "2026-08-19T18:30:06.511Z",
   "ticker": [
-    "Kolkata Hotel Fire Kills Nine",
-    "Oil Hits Three-Week High Over Hormuz",
-    "Samsung Hikes Chipmaking Prices By 15%",
-    "US Envoy Visits Srinagar, Hints Advisory Review",
-    "India Conquers Galle in Test Match"
+    "RBI Signals Potential Rate Hikes",
+    "US Envoy's J&K Remark Angers Pakistan",
+    "Gold Surges Over 3% on Yields",
+    "Over 100 Killed in Gold Mine Collapse",
+    "Marvell and Google Partner on AI Chips"
   ],
   "articles": [
     {
-      "headline": "Kolkata Hotel Fire Claims Nine Lives",
-      "whyItMatters": "Highlights critical urban safety and regulatory enforcement issues in major Indian hospitality centers.",
-      "brief": "At least nine people were killed in a devastating hotel fire in Kolkata, triggering nationwide safety concerns and calls for stricter inspections.",
+      "headline": "India Rate Panel Signals Impending Hikes",
+      "whyItMatters": "Monetary tightening directly impacts borrowing costs and economic growth across India.",
+      "brief": "India's rate-setting panel has signaled impending interest rate hikes, closely monitoring the inflation trajectory to determine the exact timing for monetary recalibration.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUdOVTU5YTE2NVJRdlQ3R1NJdDk0NFZWU3p2WENieTVib1FXMVVHQVVxRVVVeGFjX3lRWDF5OWdLS0wtSVE4T2hTVDBaczN6bFp1ZDlYd01FM2x4YWFFNXI5czV6QTd3elE1TmJ4X3NmTG40MUVSMGdDQUNYY1lCdk9WQ21OdWt2ZjlRMi1OdGxjVWVGVUc3NjN5UG5uRHN3ZnoxZHY2Ylo1bXRMbXM3cmVxYXh3S0N4c0tBWlN3?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Charles Schwab Expands India Workforce",
+      "whyItMatters": "Highlights growing foreign investment and job creation in India's financial sector.",
+      "brief": "Charles Schwab announced plans to scale its India center workforce to 2,000 employees by 2027, boosting local employment and operational capacity.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13eGRYYnFubS13UkZqMTJZTGpjSW52UU9jNk53Zmw4cW1UMFQ0ckY5WDNjVmxBMkhhaVZoNE1ZN0MzdWp4Ym9WOXUzZ19VTDlfcmlQQmxGVU50bkppRVFybGVkQkd6YzVvOS1XeVJ6alliVXRha1FhSl9tZk5SSXRScGx0YXZWUkdTbklVOWt4Mk5za3RFLXhYZHNvcVNLaVBsWkljcm9wTW9JalFs?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Marvell Partners with Google for AI Chips",
+      "whyItMatters": "Expands custom artificial intelligence hardware production for global tech giants.",
+      "brief": "Marvell has given Google an option to buy a $12.2 billion stake as part of a major custom AI chip deal.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Surges Over 3% on Yield Drops",
+      "whyItMatters": "Reflects shifting investor sentiment amid evolving US Treasury announcements.",
+      "brief": "Gold prices surged more than 3% following a US Treasury announcement that weighed heavily on yields and the US dollar.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Promotes Waste Management Education",
+      "whyItMatters": "Engages younger generations to tackle critical nationwide sanitation and municipal challenges.",
+      "brief": "The Supreme Court is turning to Gen Z and Gen Alpha to educate elders on solid waste management, urging individual responsibility.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5",
-      "dateLocation": "2026-08-19 | Kolkata, India",
+      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-turns-to-gen-z-gen-alpha-to-educate-elders-on-solid-waste-management/article71365806.ece",
+      "dateLocation": "August 19, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Samsung Raises Chipmaking Prices by 15%",
-      "whyItMatters": "Signals mounting cost pressures across global supply chains amid soaring demand for advanced semiconductors.",
-      "brief": "Samsung has increased its chipmaking prices by up to 15% due to a sharp spike in demand for advanced semiconductor components worldwide.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThpWUk1aGlwTFpYY0tRMVg4dFU4LXNzSnZWdVctWVp0LVFWQzAtZGtPMmh1Z2dMSHpFelF4UmFnMFoyckVNeTV3OHE1MVI5UGhFeWZINTF3eVZzV3RIUHYtVWVFc0R1ckhsel9JeVB1Mko5a01sdjNJWVlUdDBNc1c3U2JpMUZVZDFNNTRvdUJjRE5OQk1EdmR1MTBFNGp3RHZlT3JmMk5EVm1tR1JlVzV3VGgwdHFiZm1ibE43aWVYY3k4cUdUQ3lGRQ?oc=5",
-      "dateLocation": "2026-08-19 | Seoul, South Korea",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Completes First Stage at Disputed Reef",
-      "whyItMatters": "Escalates geopolitical tensions in the South China Sea, threatening regional stability and international trade routes.",
-      "brief": "Satellite images confirm China has finished the first construction phase at a disputed South China Sea reef, expanding regional military posture.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjlHMXpDTU1lN0ZxdTV0cWJwMktYTG52MU5RX1JXVTFaemlzbl9TdzZRWS1IN3dCM0d4ZmdLaGtTVjI1NHU5U1N1Mi02bGVteGtDZXlOZWpOcmlMbExyMnpnX0V1WG5hUWJ2ZmlULUVxU1RjZWo3SllHU04tLVFIbmV0WDJEV1hFdllaRHR5Y0I4NkVNTjFub3VqTHV5aUFYdFhGMkU1SV96NlFsdEtHQmZNeGNVeVhPdHlwZDhBVQ?oc=5",
-      "dateLocation": "2026-08-19 | Beijing, China",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oil Reaches Three-Week High Over Hormuz",
-      "whyItMatters": "Threatens global energy supplies and could drive up inflation if maritime transit through the crucial strait is disrupted.",
-      "brief": "Global oil prices surged to a three-week high driven by escalating military tensions and uncertainty surrounding transit through the Strait of Hormuz.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
-      "dateLocation": "2026-08-19 | Global Markets",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cerebras Unveils Advanced AI Server Chip",
-      "whyItMatters": "Intensifies competition in the artificial intelligence hardware market by offering faster processing speeds for large language models.",
-      "brief": "Cerebras has launched a new server chip and architecture specifically engineered to accelerate AI chatbot deployment and response times.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbU13WV9BblNQekV2Z3RoeUQ2dzFVQkkwQkZWVk5CSVA0LVVBZk16cnJ1YmNOeG9laGpSbTdqU2NNY212dlFYbnl4TjNVaUhOWmxVT0FXZDVjaGdvdGZxWW1mTFhtLWNiTmpUeEtiRUhSUnBPSUExYkE1aFd3VXFvajliLWxlRk9uSWdzbHZBWmxkRXZfcG5ucjc1TWJuR1Zod21zMjROT29TbjZHbWI5VHFtU1o?oc=5",
-      "dateLocation": "2026-08-19 | Silicon Valley, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Envoy Hints at Travel Advisory Review",
-      "whyItMatters": "Indicates improving diplomatic perceptions of security and tourism prospects in the Jammu and Kashmir region.",
-      "brief": "US Envoy Sergio Gor met with CM Omar Abdullah and hinted that Washington may soon downgrade its travel advisory for Jammu and Kashmir.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/us-envoy-sergio-gor-hints-at-downgrading-travel-advisory-for-j-k-after-meeting-cm-omar-abdullah-news-11787137337993.html",
-      "dateLocation": "2026-08-19 | Srinagar, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Secures Comprehensive Test Win in Galle",
-      "whyItMatters": "Demonstrates the rising depth and strong tactical blueprint of India's evolving Test cricket squad under new leadership.",
-      "brief": "India defeated Sri Lanka by 165 runs in Galle, propelled by stellar performances from Devdutt Padikkal and bowler Manav Suthar.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/galle-conquered-boxes-ticked-indias-test-blueprint-takes-shape/articleshow/133341836.cms",
-      "dateLocation": "2026-08-19 | Galle, Sri Lanka",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Obesity Hotspots Shift Beyond Indian Cities",
-      "whyItMatters": "Highlights an alarming epidemiological shift requiring urgent healthcare interventions across semi-urban and rural demographics.",
-      "brief": "New data reveals India's growing obesity epidemic is rapidly expanding past metropolitan boundaries into smaller towns and rural regions.",
+      "headline": "National Medical Commission Proposes Single License",
+      "whyItMatters": "Streamlines medical practice regulations across various Indian states and territories.",
+      "brief": "The NMC has proposed a single license system for doctors, eliminating the need for separate state registrations once a unique identification is issued.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/indias-obesity-epidemic-is-quietly-leaving-its-cities-behind/articleshow/133339723.cms",
-      "dateLocation": "2026-08-19 | New Delhi, India",
+      "sourceUrl": "https://www.thehindu.com/news/national/national-medical-commission-proposes-uid-for-doctors/article71364491.ece",
+      "dateLocation": "August 19, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Vietnam Overhauls Housing and Infrastructure Rules",
-      "whyItMatters": "Streamlines administrative bottlenecks to accelerate economic growth and large-scale urban development projects.",
-      "brief": "Vietnam has announced sweeping regulatory changes to fast-track land acquisitions and construction for housing and major public infrastructure initiatives.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/real-estate/news/vietnam-announces-land-acquisition-overhaul-to-speed-up-housing-infra-projects-what-changes/articleshow/133345431.cms",
-      "dateLocation": "2026-08-19 | Hanoi, Vietnam",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Pakistan Summons US Envoy Over J&K Remarks",
+      "whyItMatters": "Heightens geopolitical tensions regarding diplomatic stances on the Kashmir region.",
+      "brief": "Islamabad summoned the US Chargé d’Affaires to lodge a strong protest against Ambassador Sergio Gor's remarks describing Jammu and Kashmir as part of India.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/sergio-gor-s-j-k-remarks-trigger-pakistan-protest-islamabad-summons-us-diplomat-unsc-resolutions-jammu-kashmir-news-11787157148622.html",
+      "dateLocation": "August 19, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cabinet Clears ₹13,041 Crore Rail Projects",
-      "whyItMatters": "Boosts logistical efficiency and connectivity along vital economic transportation corridors across the country.",
-      "brief": "The Indian Cabinet has greenlit railway and road projects worth ₹13,041 crore, including the quadrupling of the Howrah-Chennai line.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/cabinet-clears-rs-13041-crore-rail-road-projects-howrah-chennai-line-to-be-quadrupled/articleshow/133343759.cms",
-      "dateLocation": "2026-08-19 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ten-Year-Old Wins Silicon Valley Tech Award",
-      "whyItMatters": "Demonstrates the early potential of youth innovation in applying artificial intelligence solutions to real-world security threats.",
-      "brief": "A 10-year-old Taiwanese student won a top Silicon Valley award for inventing an AI-powered electronic nose to detect chemical hazards.",
+      "headline": "RBI Warns Banks on AI System Stress Testing",
+      "whyItMatters": "Mitigates financial fraud risks as digital banking technologies rapidly evolve.",
+      "brief": "The RBI deputy governor has urged banks to comprehensively stress-test artificial intelligence systems before deployment to combat multi-account financial fraud.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meet-10-year-old-hsu-ting-wei-winner-of-top-silicon-valley-invention-award-for-building-an-ai-electronic-nose-that-samples-air-behind-x-ray-baggage-scanners/articleshow/133342162.cms",
-      "dateLocation": "2026-08-19 | Silicon Valley, USA",
+      "sourceUrl": "https://www.livemint.com/news/india/deputy-governor-murmu-asks-banks-to-stress-test-ai-systems-before-deployment-11787147971038.html",
+      "dateLocation": "August 19, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Warns Gulf Nations Against US Assistance",
-      "whyItMatters": "Raises regional security stakes, warning neighboring states against participating in any potential military escalation.",
-      "brief": "Iran's armed forces have formally warned Gulf countries that providing any support or facilitation to the US military constitutes active participation.",
+      "headline": "Israel Admits Firing on Car in Gaza",
+      "whyItMatters": "Provides official military acknowledgment regarding high-casualty civilian incidents during conflict.",
+      "brief": "The Israeli military admitted for the first time that the IDF fired on a car carrying a 5-year-old in Gaza and ordered a formal investigation.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-news-donald-trump-live-updates-on-august-19-2026/article71363121.ece",
-      "dateLocation": "2026-08-19 | Tehran, Iran",
+      "sourceUrl": "https://www.livemint.com/news/world/hind-rajab-killing-israel-admits-for-first-time-idf-fired-on-5-year-old-s-car-in-gaza-orders-probe-netanyayu-palestine-11787153597368.html",
+      "dateLocation": "August 19, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Arrest Warrant Issued for TMC MP Moitra",
-      "whyItMatters": "Highlights legal confrontations involving prominent political figures over alleged hate speech and court non-appearance.",
-      "brief": "A West Bengal court issued an arrest warrant against TMC MP Mahua Moitra after she repeatedly failed to honor court summons.",
+      "headline": "India Defeats Pakistan in Hockey Showdown",
+      "whyItMatters": "Delivers a high-stakes sporting victory amid intense regional athletic rivalries.",
+      "brief": "India triumphed over Pakistan in a nail-biting Hockey World Cup match, though the captain emphasized the need to fix defensive weaknesses.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/cannot-afford-any-mistake-harmanpreet-singh-rues-indias-lapses-despite-pakistan-win/articleshow/133354197.cms",
+      "dateLocation": "August 19, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Over 100 Killed in Central African Mine Collapse",
+      "whyItMatters": "Exposes severe safety hazards and fatalities within unregulated mining operations.",
+      "brief": "At least 100 people were killed after an illegal gold mine collapsed in the Central African Republic, sparking international concern.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-100-killed-after-illegal-gold-mine-collapses-in-central-african-republic/articleshow/133356183.cms",
+      "dateLocation": "August 19, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Issues New Green Card Regulations",
+      "whyItMatters": "Alters immigration policies and public charge criteria for future applicants.",
+      "brief": "The US Citizenship and Immigration Services released details of stricter Green Card rules taking effect September 18, widening public benefit evaluations.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/arrest-warrant-against-tmc-mp-mahua-moitra-for-not-honouring-court-summons-in-hate-speech-case/article71364895.ece",
-      "dateLocation": "2026-08-19 | Kolkata, India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
+      "dateLocation": "August 19, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "FSSAI Launches Crackdown on Spirits Brands",
+      "whyItMatters": "Ensures regulatory compliance and product safety standards across beverage industries.",
+      "brief": "The FSSAI has inspected manufacturing plants and collected whiskey samples as part of a broader nationwide industry probe into spirits.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/liquor/fssai-inspects-pernod-plant-collects-whisky-samples-in-wider-industry-probe/articleshow/133354698.cms",
+      "dateLocation": "August 19, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cabinet Clears Major Rail and Highway Projects",
+      "whyItMatters": "Enhances transport infrastructure and connectivity across multiple Indian states.",
+      "brief": "The Indian Cabinet cleared ₹13,041 crore for rail and highway projects, aiming to expand transit networks and cut regional travel times.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/cabinet-clears-13-041-crore-rail-highway-projects-11787144742339.html",
+      "dateLocation": "August 19, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ten-Year-Old Wins Silicon Valley Innovation Award",
+      "whyItMatters": "Showcases early youth achievement and practical breakthroughs in AI applications.",
+      "brief": "Ten-year-old Hsu Ting-wei won a top Silicon Valley invention award for building an AI-powered electronic nose to detect chemical threats.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meet-10-year-old-hsu-ting-wei-winner-of-top-silicon-valley-invention-award-for-building-an-ai-electronic-nose-that-samples-air-behind-x-ray-baggage-scanners/articleshow/133342162.cms",
+      "dateLocation": "August 19, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
