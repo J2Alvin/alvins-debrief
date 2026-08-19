@@ -1,147 +1,120 @@
 {
-  "lastUpdated": "2026-08-19T01:02:55.375Z",
+  "lastUpdated": "2026-08-19T06:38:14.804Z",
   "ticker": [
-    "UAE accuses Iran of ballistic missile attack",
-    "US bond yields surge to multi-decade highs",
-    "India considers duty-free sugar imports",
-    "Meta faces massive $200B lawsuit over teens",
-    "Pakistan court orders Imran Khan hospitalized"
+    "US pauses 50% tariffs on Canada",
+    "Kolkata hotel fire kills at least nine",
+    "Strait of Hormuz tension lifts oil prices",
+    "OpenAI slows model training for security",
+    "Cerebras launches new AI server chip"
   ],
   "articles": [
     {
-      "headline": "India Considers Duty-Free Sugar Imports to Curb Prices",
-      "whyItMatters": "Helps stabilize domestic food inflation amid record market prices.",
-      "brief": "India is evaluating limited duty-free sugar imports to rein in soaring domestic prices and secure adequate supply.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWl9RV0VKcXdSZDBCWXRSSElYWWY0NEZPYU00N19ESkZsN04zLU43TjQ1cTQzcG5PRE1VdkZqaVphREZQMEJ3RTJjMmVDdkNrLWZBZFNWalJiZGplc0E2ekZVM0JZVm1OX0ktbF91MGdLZ3IwVzRPc0NSUFVXemdJZlg2OGh6ZWJXcTlLWmYyMkI5d1ctdjFmcDlJakxfUjZzTVBaTE1LNGcya3cwS0s2QzRYSDFZTjdQaTRENDY4Rkg3NzJZ?oc=5",
-      "dateLocation": "Aug 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UAE Accuses Iran of Ballistic Missile Attack",
-      "whyItMatters": "Escalates geopolitical tensions significantly across the Middle East.",
-      "brief": "The UAE stated that two ballistic missiles detected over its territory were launched from Iran, escalating regional conflict.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-      "dateLocation": "Aug 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Bond Yields Surge to Decades-Long Highs",
-      "whyItMatters": "Increases global borrowing costs and impacts worldwide equity markets.",
-      "brief": "Treasury yields have surged as mounting US debt pushes investors to demand higher returns for lending.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2hqY3NCTUdIbGJoZUR6aXVTVXlZUFZPVFNmc3dFcTUwRGkwcG1DRW1rZHlLTGV4WWdaV2xielR5WTZhcUdnNEYyX2pmcTcyRmFZYzQtVThYeDBKb3JHUEJkc1VuamNUbV80ckhHcURLVEMwcmpUSE4yRHJmLUtYMEprWEZhQ1d3cFdyMElEbTdxLVAtMVQ2YjZSVzIxUlU?oc=5",
-      "dateLocation": "Aug 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China's Humanoid Robots Face Commercial Reality",
-      "whyItMatters": "Determines the commercial viability of robotics beyond controlled demos.",
-      "brief": "Chinese robotics companies are transitioning from laboratory stunts and marathons to rigorous commercial testing in industrial environments.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHAyQ2ZVdVl6c0hsZDNmd2hCREZLMmZXekw5Vy1hLUFSRGluV1ZsR3h4MG5ueDZBZkdnMm5hT2F1RmhuaDgzNENLQVBoME5SX1FmMzdyUW1FRHdBWWttWnZ4R0dIejJkblhjZFFmWld5UTFYZkNTcjU4T3k0ZFR4clFWTzZ0OUI0NGVpbU00TW9nTlAxcm1CSlI2UEoydnlvNHZRU0tlZk91bFg1c2FnbURVV2RiVm8?oc=5",
-      "dateLocation": "Aug 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US States Sue Meta Over Child Addiction",
-      "whyItMatters": "Could lead to unprecedented financial penalties and stricter tech regulations.",
-      "brief": "A coalition of US states is seeking a $200 billion penalty against Meta for intentionally designing addictive products for children.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/meta-hooked-children-and-misled-public-prosecutors/article71363109.ece",
-      "dateLocation": "Aug 19, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Imposes Strict Curbs on Stem Cell Therapy",
-      "whyItMatters": "Protects patients from unproven experimental treatments and clinical risks.",
-      "brief": "The health ministry introduced strict oversight on experimental stem cell therapies due to rampant, unverified use for critical conditions.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/strict-curbs-oversight-stem-cell-therapy-critical-limb-ischemia-chronic-wounds-clinical-benefits-encouraging-innovation-11786961251361.html",
-      "dateLocation": "Aug 19, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and Pakistan Set for High-Stakes Hockey Clash",
-      "whyItMatters": "Decides qualification fate in a historically intense sports rivalry.",
-      "brief": "India and Pakistan face off in a crucial Hockey World Cup match where survival and knockout dreams hang in the balance.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-vs-pakistan-hockey-world-cup-knockout-dream-survival-stale-in-blockbuster-clash/articleshow/133327797.cms",
-      "dateLocation": "Aug 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Top Private Banks Cut Over 10,000 Jobs in FY26",
-      "whyItMatters": "Reflects the rapid adoption of artificial intelligence in financial institutions.",
-      "brief": "India's top ten private banks have reduced their workforce by over 10,000 roles as automation and AI reshape hiring practices.",
+      "headline": "Kolkata Hotel Fire Kills Nine",
+      "whyItMatters": "Highlights critical lapses in commercial building safety standards.",
+      "brief": "A massive fire at a Kolkata hotel killed at least nine people, including foreign nationals, prompting intense scrutiny over safety norm violations.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/top-10-private-banks-cut-over-10000-jobs-in-fy26-as-ai-reshapes-hiring/articleshow/133330763.cms",
-      "dateLocation": "Aug 19, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5",
+      "dateLocation": "August 19, 2026 | Kolkata",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Census 2027 to Collect Detailed Parental Data",
-      "whyItMatters": "Expands demographic tracking parameters to deep administrative levels.",
-      "brief": "The upcoming census questionnaire will require respondents to provide parents' religion and birthplace up to the village level.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/national/census-2027-questionnaire-seeks-parents-religion-place-of-birth-up-to-village-level/article71361794.ece",
-      "dateLocation": "Aug 19, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Boosts Domestic Defense Manufacturing Push",
-      "whyItMatters": "Aims to achieve strategic self-reliance in advanced military hardware.",
-      "brief": "The Indian government has added 405 key defense items, including major platforms and warships, to the mandatory indigenization list.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/in-another-aatmanirbharta-push-405-key-defence-items-of-military-platforms-alh-tejas-tanks-and-warships-to-be-indigenised/articleshow/133334515.cms",
-      "dateLocation": "Aug 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Florida Billionaire Buys First Ferrari EV",
-      "whyItMatters": "Highlights luxury electric vehicle trends designed by iconic creators.",
-      "brief": "An early Apple shareholder purchased Ferrari's first electric vehicle, designed alongside Jony Ive, for a record $40 million at auction.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/apple-shares-owner-since-its-ipo-days-florida-billionaire-buys-ferraris-first-ev-designed-by-iphone-designer-jony-ive-87-year-old-is-known-for-never-selling-/articleshow/133322004.cms",
-      "dateLocation": "Aug 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BRICS Weighs Digital Grain Exchange Proposal",
-      "whyItMatters": "Could reshape global agricultural commodities trade outside Western systems.",
-      "brief": "BRICS nations are evaluating Russia's proposal to establish a digital farm produce exchange platform to streamline trade.",
+      "headline": "Gold Prices Firm as Yields Ease",
+      "whyItMatters": "Reflects investor shifting as economic indicators fluctuate globally.",
+      "brief": "Gold prices rose as Treasury yields eased, with investors closely watching upcoming Federal Reserve minutes for monetary policy clues.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/brics-weighs-russias-grain-exchange-plan-digital-platform-for-farm-produce-trade-mooted/articleshow/133330137.cms",
-      "dateLocation": "Aug 19, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Ex-Minister Satyendar Jain Arrested in Corruption Case",
-      "whyItMatters": "Intensifies political friction involving anti-corruption probes.",
-      "brief": "Anti-corruption authorities have arrested former Delhi minister Satyendar Jain and several officials regarding alleged Jal Board irregularities.",
+      "headline": "Cerebras Launches New AI Chip",
+      "whyItMatters": "Aims to drastically accelerate response times for AI chatbots.",
+      "brief": "Cerebras has introduced a novel server chip and system explicitly engineered to boost the speed and efficiency of AI chatbots.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbU13WV9BblNQekV2Z3RoeUQ2dzFVQkkwQkZWVk5CSVA0LVVBZk16cnJ1YmNOeG9laGpSbTdqU2NNY212dlFYbnl4TjNVaUhOWmxVT0FXZDVjaGdvdGZxWW1mTFhtLWNiTmpUeEtiRUhSUnBPSUExYkE1aFd3VXFvajliLWxlRk9uSWdzbHZBWmxkRXZfcG5ucjc1TWJuR1Zod21zMjROT29TbjZHbWI5VHFtU1o?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Prices Extend Climb on Hormuz Risk",
+      "whyItMatters": "Threatens global energy supply stability and increases shipping costs.",
+      "brief": "Oil prices continued to rise due to prolonged export uncertainties and rising military tensions around the strategic Strait of Hormuz.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Unitree Soars in Shanghai Debut",
+      "whyItMatters": "Marks a major financial milestone for China's expanding robotics sector.",
+      "brief": "Humanoid robotics firm Unitree saw its shares surge during its Shanghai stock debut, underlining strong investor confidence in automation.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0pzN014Mm10emZneHNXYjBENjZ0VXFKamZHVUNpQ3hkYjdmU05wRWR5VW96TFowS21LYU5hd3poMUJJWnR3VHJIYVJQM0U5QktkWS1hS19OWlNDbjdGcFhUbV93d2ZKa2ZzdzBWTmJJYV9yNk1VNGlqVERldF9zVWVQS2RrX3FxYTJ2QW9NZERpSXZycl91TGxFUG1ZZUw4bmJIS2YyWWhaTGlDY0h6TXh5WGVYb0VVV0V6TjJGTkd6UQ?oc=5",
+      "dateLocation": "August 19, 2026 | Shanghai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Pauses Model Training for Security",
+      "whyItMatters": "Prioritizes vulnerability remediation following recent industry security breaches.",
+      "brief": "Following the Hugging Face incident, OpenAI has temporarily slowed its model training pipeline to strengthen security and infrastructure protocols.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Pauses 50% Tariffs on Canada",
+      "whyItMatters": "Provides a temporary reprieve for cross-border trade and manufacturing sectors.",
+      "brief": "President Donald Trump has agreed to a three-day pause on the impending 50% tariffs targeting Canadian imports while trade talks continue.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/satyendar-jain-delhi-jal-board-ex-ceo-among-6-arrested-for-scam/articleshow/133334631.cms",
-      "dateLocation": "Aug 19, 2026 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/uscanada-trade-deal-donald-trump-pauses-50-tariffs-on-canadian-imports-for-3-days-11787108701833.html",
+      "dateLocation": "August 19, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Public EV Charging Consumption Surges by 72%",
-      "whyItMatters": "Demonstrates rapid structural adoption of electric vehicles nationwide.",
-      "brief": "Data shows electricity consumption at public charging stations has jumped significantly, pointing to steady growth in EV usage.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/use-of-evs-going-up-steadily-consumption-at-public-chargers-rises-by-72/articleshow/133331764.cms",
-      "dateLocation": "Aug 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Strait of Hormuz Shipping Routes Shift",
+      "whyItMatters": "Bypasses aggressive Iranian choke points via UN-backed corridors.",
+      "brief": "An increasing number of commercial vessels are utilizing an Omani maritime route to bypass heightened security risks in the Strait of Hormuz.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/strait-of-hormuz-iran-s-grip-slips-as-ships-increasingly-use-un-authorised-oman-route-us-blockade-gains-ground-11787102429954.html",
+      "dateLocation": "August 19, 2026 | Middle East",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Unique Athlete Experience Planned for Asian Games",
-      "whyItMatters": "Sets new operational benchmarks for major multi-sport continental events.",
-      "brief": "Organizers are finalizing unique logistical and accommodation experiences for roughly 15,000 competitors attending the upcoming Asian Games.",
+      "headline": "Thirty Killed in CAR Mine Collapse",
+      "whyItMatters": "Spotlights recurring safety hazards in unregulated artisanal African mines.",
+      "brief": "At least 30 miners died following a tragic gold mine collapse in the Central African Republic, with rescue operations facing severe obstacles.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/30-killed-in-central-african-republic-mine-collapse-as-region-continues-to-reel-from-recurring-mining-disasters-11787115415162.html",
+      "dateLocation": "August 19, 2026 | Bangui",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Joe Root Nears Test Cricket History",
+      "whyItMatters": "Positions the English batter alongside legendary international run-scorers.",
+      "brief": "England captain Joe Root stands on the verge of breaking Ricky Ponting's esteemed home Test match scoring record ahead of the Pakistan series.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/a-unique-experience-awaits-athletes-at-the-asian-games/article71362418.cms",
-      "dateLocation": "Aug 19, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-on-the-verge-of-history-ricky-pontings-all-time-record-in-sight/articleshow/133336974.cms",
+      "dateLocation": "August 19, 2026 | Leeds",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Issues Strict Green Card Rules",
+      "whyItMatters": "Imposes rigorous financial public charge evaluations for applicants.",
+      "brief": "New US Citizenship and Immigration Services regulations taking effect September 18 will introduce stricter public benefit tests for Green Cards.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
+      "dateLocation": "August 19, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AI Assistants to Monitor Screens",
+      "whyItMatters": "Pushes the boundaries of workplace productivity and data privacy concerns.",
+      "brief": "OpenAI CEO Sam Altman predicts that AI systems capable of monitoring screens, emails, and meetings will emerge within six months.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-within-six-months-chatgpt-could-watch-your-screen-meetings-and-emails/articleshow/133327319.cms",
+      "dateLocation": "August 19, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
