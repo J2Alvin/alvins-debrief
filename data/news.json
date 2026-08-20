@@ -1,138 +1,120 @@
 {
-  "lastUpdated": "2026-08-20T01:02:27.675Z",
+  "lastUpdated": "2026-08-20T06:39:46.931Z",
   "ticker": [
-    "Trump announces crushing economic warfare against Iran",
-    "Gold surges over 3% amid US Treasury shifts",
-    "At least 23 die in Brazil highway bus-truck collision",
-    "Reliance proposes ₹2.73 lakh crore coal gasification project",
-    "US and Canada reach tentative metal tariff reduction deal"
+    "India rate panel signals impending hikes",
+    "China Evergrande founder gets life in prison",
+    "Dollar hits three-month lows on yields",
+    "Moderna-Merck spark cancer vaccine wave",
+    "Unitree CEO says robots face ChatGPT moment"
   ],
   "articles": [
     {
-      "headline": "Trump Announces 'Crushing Economic Operation' Against Iran",
-      "whyItMatters": "Escalates global economic tensions and risks major disruptions in West Asian energy supplies.",
-      "brief": "US President Donald Trump announced an unprecedented economic operation against Iran, warning of severe global consequences for any nations continuing business with Tehran.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-announces-crushing-economic-operation-against-iran-warns-consequences-for-countries-doing-business-with-tehran-11787185018696.html",
-      "dateLocation": "August 19, 2026 | Washington / Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Marvell Gives Google Option for $12.2B AI Chip Stake",
-      "whyItMatters": "Strengthens Big Tech partnerships in the fiercely competitive custom artificial intelligence semiconductor market.",
-      "brief": "Marvell Technology has offered Google an option to acquire a substantial $12.2 billion stake as part of a major custom AI chip manufacturing partnership.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Surges Over 3% on US Treasury Yield Declines",
-      "whyItMatters": "Signals growing investor anxiety and shifting macroeconomic conditions impacting global currency and debt markets.",
-      "brief": "Gold prices experienced a sharp rally exceeding three percent following a significant US Treasury announcement that hurt yields and weakened the dollar.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Reliance Proposes ₹2.73 Lakh Crore Coal Gasification Project",
-      "whyItMatters": "Marks a massive industrial investment toward cleaner energy infrastructure and domestic resource utilization in India.",
-      "brief": "Reliance Industries has proposed an immense ₹2.73 lakh crore investment to build India's first integrated underground coal gasification complex in Andhra Pradesh.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/reliance-industries-proposes-rs-2-73-lakh-crore-investment-for-indias-first-integrated-underground-coal-gasification-complex-in-andhra/articleshow/133357924.cms",
-      "dateLocation": "August 19, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "At Least 23 Die in Brazil Highway Bus-Truck Collision",
-      "whyItMatters": "Highlights ongoing severe road safety crises and infrastructure hazards across South American transit corridors.",
-      "brief": "Local police confirmed that at least 23 people lost their lives following a catastrophic collision between a passenger bus and a truck in Parana, Brazil.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGdIWFhycWN0VGkzbnV1Rm5YLWc4OFFrT01JeHo0dHFuMmd5S0Zzd0tLUGV5Nmd3S3JoNFQ3THZzUlF4c19HaUZETnh6X0E0cnlhV2hQWmw5b09VVkpYck9JUUltQld2TGdwTV9Uamhkc3ZqMmxFXzUwVl9JUk15SllhSldGc1FLbHg0bWhXc2tuYUZ4bUpCRWJNb0hzM3YxTVZSeDRHcmZXZGM?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Starlink Relaunches Bid for Satellite Internet in India",
-      "whyItMatters": "Intensifies competition in India's rapidly expanding satellite broadband and direct-to-device telecommunications sector.",
-      "brief": "Elon Musk's Starlink has officially reapplied for Indian regulatory approval to deploy its satellite network featuring direct-to-device technology.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-policy/et-exclusive-elon-musks-starlink-reapplies-for-india-approval-of-satellite-network-with-direct-to-device-tech/articleshow/133357541.cms",
-      "dateLocation": "August 19, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
       "headline": "India Rate Panel Signals Impending Hikes Amid Inflation",
-      "whyItMatters": "Indicates a potential shift in monetary policy that could impact borrowing costs and market liquidity across India.",
-      "brief": "India's rate-setting panel has signaled upcoming interest rate hikes, closely monitoring the path of domestic inflation to determine the precise timing.",
+      "whyItMatters": "Monetary policy shifts directly impact borrowing costs and market liquidity across South Asia.",
+      "brief": "India's rate panel has signaled upcoming interest rate hikes, closely monitoring the inflation trajectory to time the adjustment appropriately.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUdOVTU5YTE2NVJRdlQ3R1NJdDk0NFZWU3p2WENieTVib1FXMVVHQVVxRVVVeGFjX3lRWDF5OWdLS0wtSVE4T2hTVDBaczN6bFp1ZDlYd01FM2x4YWFFNXI5czV6QTd3elE1TmJ4X3NmTG40MUVSMGdDQUNYY1lCdk9WQ21OdWt2ZjlRMi1OdGxjVWVGVUc3NjN5UG5uRHN3ZnoxZHY2Ylo1bXRMbXM3cmVxYXh3S0N4c0tBWlN3?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
+      "dateLocation": "2026-08-20 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Texas Governor Seeks Total Ban on H-1B Workers in Schools",
-      "whyItMatters": "Could severely restrict career opportunities for skilled foreign visa holders and impact educational staffing in Texas.",
-      "brief": "Texas Governor Greg Abbott announced a legislative proposal seeking a complete ban on H-1B visa holders working within public schools.",
+      "headline": "JPMorgan Entity Barred in India Over Manipulation Allegations",
+      "whyItMatters": "Regulatory crackdowns on global financial giants highlight tightening oversight in emerging markets.",
+      "brief": "A JPMorgan entity is among two firms barred in India over alleged closing auction manipulation, signaling strict enforcement.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd29jLVo5bUpsLUthQkpkQ1h2YkZuZUNpUjA2aG9GbWhobXlXT0hDWTdzQzZNRzFjUXJXa3NYazhCeVV6MGhFTjQzcGo4YXl4NER0TmhUM1NsQmVlZmFvYVFzWG5lcFZ4c3o2d2ZBVlVFVkJRX2pHbG1GMEhQRmlDS19RRVVMR08zWGhmR0pSQ3Q0TmxXU2NLOXYxX0R5eXJKME1xaGZoYnpFc3pJWjFvRUpsb25vTGNSNHFoN3Zvb3F0OU5TTVF1Sg?oc=5",
+      "dateLocation": "2026-08-20 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Unitree CEO Claims Robots Poised for ChatGPT Moment",
+      "whyItMatters": "A breakthrough in robotics could radically accelerate automation and industrial transformation globally.",
+      "brief": "The CEO of Unitree stated that robots are currently on the verge of experiencing their own ChatGPT-style viral adoption moment.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5",
+      "dateLocation": "2026-08-20 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Citi, HSBC, and StanChart Adopt Ant International Forex AI",
+      "whyItMatters": "Mainstream banking adoption of advanced AI tools marks a milestone in cross-border financial operations.",
+      "brief": "Major global banks including Citi, HSBC, and Standard Chartered have adopted Ant International’s foreign exchange artificial intelligence tool.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5",
+      "dateLocation": "2026-08-20 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "District Collectors Empowered to Grant Citizenship Under CAA",
+      "whyItMatters": "Decentralizing citizenship approvals streamlines administrative execution for long-pending legal frameworks.",
+      "brief": "The Ministry of Home Affairs has empowered district collectors across eight states and UTs to grant citizenship under the CAA.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/h1b-visa-holders-face-new-restrictions-in-texas-as-governor-greg-abbott-seeks-total-ban-in-public-schools-11787163498246.html",
-      "dateLocation": "August 19, 2026 | Livemint",
+      "sourceUrl": "https://www.thehindu.com/news/national/district-collectors-in-eight-states-uts-empowered-to-grant-citizenship-under-caa-bjp-bengal-win/article71367931.ece",
+      "dateLocation": "2026-08-20 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Congress Working Committee Firm on Two-Stanza Vande Mataram",
-      "whyItMatters": "Reflects internal ideological boundaries and strategic political messaging by the opposition party in India.",
-      "brief": "The Congress Working Committee reaffirmed its strict stance that party members will only sing two stanzas of Vande Mataram at official events.",
+      "headline": "Quiet Channel Between ICE and Iran Shaped Deportation Flights",
+      "whyItMatters": "Reveals unconventional diplomatic channels operating beneath official geopolitical hostility.",
+      "brief": "Newly released emails reveal a discreet communication channel between immigration authorities and Iran that coordinated deportation flights.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/stand-on-vande-mataram-clear-congress-to-only-sing-two-stanza-in-party-says-venugopal/article71365654.ece",
-      "dateLocation": "August 19, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/international/quiet-channel-between-ice-and-iran-shaped-deportation-flights-newly-released-emails-show/article71367966.ece",
+      "dateLocation": "2026-08-20 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Set to Cut Tariffs on Canadian Metals and Autos",
-      "whyItMatters": "Eases bilateral trade friction and lowers export barriers for key North American manufacturing supply chains.",
-      "brief": "A tentative trade deal between Washington and Ottawa will lower certain metal tariffs to 25% and reduce auto export duties to 15%.",
+      "headline": "India Tightens Sugar Stock Limits to Tame Record Prices",
+      "whyItMatters": "Government inventory limits aim to curb speculative hoarding and stabilize retail food inflation.",
+      "brief": "The Indian government ordered large dealers to limit sugar inventory holdings to 15 days as domestic prices reached record highs.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-set-to-cut-tariffs-on-canada-metals-autos-in-trade-deal-11787181751930.html",
-      "dateLocation": "August 19, 2026 | Livemint",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/india-tightens-sugar-stock-limits-to-tame-record-prices/articleshow/133361644.cms",
+      "dateLocation": "2026-08-20 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "New US Green Card Rules Bring Rigorous Public Charge Checks",
-      "whyItMatters": "Imposes stricter vetting criteria that could complicate family and employment-based immigration applications to the United States.",
-      "brief": "USCIS released details of updated Green Card regulations effective September 18, introducing broader public charge evaluations and financial bond requirements.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-not-/articleshow/133338315.cms",
-      "dateLocation": "August 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "China Evergrande Founder Gets Life in Prison",
+      "whyItMatters": "Concluding chapter of a massive corporate debt default that shook global real estate markets.",
+      "brief": "China Evergrande founder Hui Ka Yan has been sentenced to life in prison as the property giant's historic saga officially ends.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/china-evergrande-founder-hui-ka-yan-gets-life-in-prison-as-property-giants-saga-ends/articleshow/133364633.cms",
+      "dateLocation": "2026-08-20 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nine Killed in Overnight Fire at Kolkata Guest House",
-      "whyItMatters": "Draws urgent regulatory scrutiny toward urban safety standards, building compliance, and fire hazard enforcement.",
-      "brief": "At least nine people, including five foreign nationals from Bangladesh, tragically suffocated to death during a major lodge fire in central Kolkata.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New CDC Head Apologizes for Staff Psychological Safety Issues",
-      "whyItMatters": "Signals a cultural leadership overhaul aimed at restoring workplace trust and scientific integrity within federal health agencies.",
-      "brief": "The newly appointed director of the US CDC apologized to agency employees, committing to foster an environment free from fear of professional retribution.",
+      "headline": "Moderna-Merck Breakthrough Could Spark Cancer Vaccine Wave",
+      "whyItMatters": "Validates mRNA technology beyond viral pathogens, paving the way for personalized oncology treatments.",
+      "brief": "Recent clinical progress from the Moderna-Merck partnership could usher in a wave of commercial cancer vaccines.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/new-cdc-head-apologizes-for-staff-s-lack-of-psychological-safety-11787169521232.html",
-      "dateLocation": "August 19, 2026 | Livemint",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/moderna-merck-breakthrough-could-usher-in-wave-of-cancer-vaccines/articleshow/133365307.cms",
+      "dateLocation": "2026-08-20 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Triumphs Over Pakistan in Hockey World Cup Thriller",
-      "whyItMatters": "Heightens regional sporting rivalry excitement while highlighting crucial defensive areas for the team to address.",
-      "brief": "India secured a nail-biting victory over Pakistan in the Hockey World Cup, though captain Harmanpreet Singh warned that defensive lapses must be corrected.",
+      "headline": "Police Cannot Investigate Sex Determination Under PCPNDT Act",
+      "whyItMatters": "Clarifies statutory jurisdiction boundaries for law enforcement agencies regarding medical regulatory acts.",
+      "brief": "The Supreme Court ruled that local police forces do not possess the jurisdiction to investigate sex determination offences under the PCPNDT Act.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/police-cannot-investigate-sex-determination-offences-under-pcpndt-act-supreme-court/articleshow/133365942.cms",
+      "dateLocation": "2026-08-20 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Recreate Iconic Shirt-Waving Celebration at Lord's",
+      "whyItMatters": "Brings back nostalgic cricketing memories while boosting team morale in international test matches.",
+      "brief": "Following a major win over England at Lord's, Indian cricket players recreated Sourav Ganguly's historic 2002 shirt-waving celebration.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/cannot-afford-any-mistake-harmanpreet-singh-rues-indias-lapses-despite-pakistan-win/articleshow/133354197.cms",
-      "dateLocation": "August 19, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-team-recreate-sourav-gangulys-shirt-waving-celebration-after-beating-england-at-lords-watch/articleshow/133363991.cms",
+      "dateLocation": "2026-08-20 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Shifts to Offensive Stance Amid West Asia Tensions",
+      "whyItMatters": "Escalation risks drawing broader regional powers into direct conflict and disrupting energy corridors.",
+      "brief": "Tehran has shifted from retaliation to an offensive posture, raising strategic stakes amid ongoing blockades and tensions.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/iran-goes-on-offensive-against-us-amid-hormuz-blockade-what-does-it-mean-if-confrontation-becomes-unavoidable-11787200413077.html",
+      "dateLocation": "2026-08-20 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
