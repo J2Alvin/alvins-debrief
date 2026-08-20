@@ -1,145 +1,136 @@
 {
-  "lastUpdated": "2026-08-19T18:30:06.511Z",
+  "lastUpdated": "2026-08-20T01:02:27.675Z",
   "ticker": [
-    "RBI Signals Potential Rate Hikes",
-    "US Envoy's J&K Remark Angers Pakistan",
-    "Gold Surges Over 3% on Yields",
-    "Over 100 Killed in Gold Mine Collapse",
-    "Marvell and Google Partner on AI Chips"
+    "Trump announces crushing economic warfare against Iran",
+    "Gold surges over 3% amid US Treasury shifts",
+    "At least 23 die in Brazil highway bus-truck collision",
+    "Reliance proposes ₹2.73 lakh crore coal gasification project",
+    "US and Canada reach tentative metal tariff reduction deal"
   ],
   "articles": [
     {
-      "headline": "India Rate Panel Signals Impending Hikes",
-      "whyItMatters": "Monetary tightening directly impacts borrowing costs and economic growth across India.",
-      "brief": "India's rate-setting panel has signaled impending interest rate hikes, closely monitoring the inflation trajectory to determine the exact timing for monetary recalibration.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUdOVTU5YTE2NVJRdlQ3R1NJdDk0NFZWU3p2WENieTVib1FXMVVHQVVxRVVVeGFjX3lRWDF5OWdLS0wtSVE4T2hTVDBaczN6bFp1ZDlYd01FM2x4YWFFNXI5czV6QTd3elE1TmJ4X3NmTG40MUVSMGdDQUNYY1lCdk9WQ21OdWt2ZjlRMi1OdGxjVWVGVUc3NjN5UG5uRHN3ZnoxZHY2Ylo1bXRMbXM3cmVxYXh3S0N4c0tBWlN3?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Trump Announces 'Crushing Economic Operation' Against Iran",
+      "whyItMatters": "Escalates global economic tensions and risks major disruptions in West Asian energy supplies.",
+      "brief": "US President Donald Trump announced an unprecedented economic operation against Iran, warning of severe global consequences for any nations continuing business with Tehran.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-announces-crushing-economic-operation-against-iran-warns-consequences-for-countries-doing-business-with-tehran-11787185018696.html",
+      "dateLocation": "August 19, 2026 | Washington / Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Charles Schwab Expands India Workforce",
-      "whyItMatters": "Highlights growing foreign investment and job creation in India's financial sector.",
-      "brief": "Charles Schwab announced plans to scale its India center workforce to 2,000 employees by 2027, boosting local employment and operational capacity.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13eGRYYnFubS13UkZqMTJZTGpjSW52UU9jNk53Zmw4cW1UMFQ0ckY5WDNjVmxBMkhhaVZoNE1ZN0MzdWp4Ym9WOXUzZ19VTDlfcmlQQmxGVU50bkppRVFybGVkQkd6YzVvOS1XeVJ6alliVXRha1FhSl9tZk5SSXRScGx0YXZWUkdTbklVOWt4Mk5za3RFLXhYZHNvcVNLaVBsWkljcm9wTW9JalFs?oc=5",
-      "dateLocation": "August 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Marvell Partners with Google for AI Chips",
-      "whyItMatters": "Expands custom artificial intelligence hardware production for global tech giants.",
-      "brief": "Marvell has given Google an option to buy a $12.2 billion stake as part of a major custom AI chip deal.",
+      "headline": "Marvell Gives Google Option for $12.2B AI Chip Stake",
+      "whyItMatters": "Strengthens Big Tech partnerships in the fiercely competitive custom artificial intelligence semiconductor market.",
+      "brief": "Marvell Technology has offered Google an option to acquire a substantial $12.2 billion stake as part of a major custom AI chip manufacturing partnership.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5",
       "dateLocation": "August 19, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Surges Over 3% on Yield Drops",
-      "whyItMatters": "Reflects shifting investor sentiment amid evolving US Treasury announcements.",
-      "brief": "Gold prices surged more than 3% following a US Treasury announcement that weighed heavily on yields and the US dollar.",
+      "headline": "Gold Surges Over 3% on US Treasury Yield Declines",
+      "whyItMatters": "Signals growing investor anxiety and shifting macroeconomic conditions impacting global currency and debt markets.",
+      "brief": "Gold prices experienced a sharp rally exceeding three percent following a significant US Treasury announcement that hurt yields and weakened the dollar.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5",
       "dateLocation": "August 19, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Promotes Waste Management Education",
-      "whyItMatters": "Engages younger generations to tackle critical nationwide sanitation and municipal challenges.",
-      "brief": "The Supreme Court is turning to Gen Z and Gen Alpha to educate elders on solid waste management, urging individual responsibility.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-turns-to-gen-z-gen-alpha-to-educate-elders-on-solid-waste-management/article71365806.ece",
-      "dateLocation": "August 19, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "National Medical Commission Proposes Single License",
-      "whyItMatters": "Streamlines medical practice regulations across various Indian states and territories.",
-      "brief": "The NMC has proposed a single license system for doctors, eliminating the need for separate state registrations once a unique identification is issued.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/national-medical-commission-proposes-uid-for-doctors/article71364491.ece",
-      "dateLocation": "August 19, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Summons US Envoy Over J&K Remarks",
-      "whyItMatters": "Heightens geopolitical tensions regarding diplomatic stances on the Kashmir region.",
-      "brief": "Islamabad summoned the US Chargé d’Affaires to lodge a strong protest against Ambassador Sergio Gor's remarks describing Jammu and Kashmir as part of India.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/sergio-gor-s-j-k-remarks-trigger-pakistan-protest-islamabad-summons-us-diplomat-unsc-resolutions-jammu-kashmir-news-11787157148622.html",
-      "dateLocation": "August 19, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "RBI Warns Banks on AI System Stress Testing",
-      "whyItMatters": "Mitigates financial fraud risks as digital banking technologies rapidly evolve.",
-      "brief": "The RBI deputy governor has urged banks to comprehensively stress-test artificial intelligence systems before deployment to combat multi-account financial fraud.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/deputy-governor-murmu-asks-banks-to-stress-test-ai-systems-before-deployment-11787147971038.html",
-      "dateLocation": "August 19, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Israel Admits Firing on Car in Gaza",
-      "whyItMatters": "Provides official military acknowledgment regarding high-casualty civilian incidents during conflict.",
-      "brief": "The Israeli military admitted for the first time that the IDF fired on a car carrying a 5-year-old in Gaza and ordered a formal investigation.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/hind-rajab-killing-israel-admits-for-first-time-idf-fired-on-5-year-old-s-car-in-gaza-orders-probe-netanyayu-palestine-11787153597368.html",
-      "dateLocation": "August 19, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Defeats Pakistan in Hockey Showdown",
-      "whyItMatters": "Delivers a high-stakes sporting victory amid intense regional athletic rivalries.",
-      "brief": "India triumphed over Pakistan in a nail-biting Hockey World Cup match, though the captain emphasized the need to fix defensive weaknesses.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/cannot-afford-any-mistake-harmanpreet-singh-rues-indias-lapses-despite-pakistan-win/articleshow/133354197.cms",
-      "dateLocation": "August 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Over 100 Killed in Central African Mine Collapse",
-      "whyItMatters": "Exposes severe safety hazards and fatalities within unregulated mining operations.",
-      "brief": "At least 100 people were killed after an illegal gold mine collapsed in the Central African Republic, sparking international concern.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-100-killed-after-illegal-gold-mine-collapses-in-central-african-republic/articleshow/133356183.cms",
-      "dateLocation": "August 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Issues New Green Card Regulations",
-      "whyItMatters": "Alters immigration policies and public charge criteria for future applicants.",
-      "brief": "The US Citizenship and Immigration Services released details of stricter Green Card rules taking effect September 18, widening public benefit evaluations.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-they-do-not-/articleshow/133338315.cms",
-      "dateLocation": "August 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI Launches Crackdown on Spirits Brands",
-      "whyItMatters": "Ensures regulatory compliance and product safety standards across beverage industries.",
-      "brief": "The FSSAI has inspected manufacturing plants and collected whiskey samples as part of a broader nationwide industry probe into spirits.",
+      "headline": "Reliance Proposes ₹2.73 Lakh Crore Coal Gasification Project",
+      "whyItMatters": "Marks a massive industrial investment toward cleaner energy infrastructure and domestic resource utilization in India.",
+      "brief": "Reliance Industries has proposed an immense ₹2.73 lakh crore investment to build India's first integrated underground coal gasification complex in Andhra Pradesh.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/liquor/fssai-inspects-pernod-plant-collects-whisky-samples-in-wider-industry-probe/articleshow/133354698.cms",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/reliance-industries-proposes-rs-2-73-lakh-crore-investment-for-indias-first-integrated-underground-coal-gasification-complex-in-andhra/articleshow/133357924.cms",
       "dateLocation": "August 19, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cabinet Clears Major Rail and Highway Projects",
-      "whyItMatters": "Enhances transport infrastructure and connectivity across multiple Indian states.",
-      "brief": "The Indian Cabinet cleared ₹13,041 crore for rail and highway projects, aiming to expand transit networks and cut regional travel times.",
+      "headline": "At Least 23 Die in Brazil Highway Bus-Truck Collision",
+      "whyItMatters": "Highlights ongoing severe road safety crises and infrastructure hazards across South American transit corridors.",
+      "brief": "Local police confirmed that at least 23 people lost their lives following a catastrophic collision between a passenger bus and a truck in Parana, Brazil.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGdIWFhycWN0VGkzbnV1Rm5YLWc4OFFrT01JeHo0dHFuMmd5S0Zzd0tLUGV5Nmd3S3JoNFQ3THZzUlF4c19HaUZETnh6X0E0cnlhV2hQWmw5b09VVkpYck9JUUltQld2TGdwTV9Uamhkc3ZqMmxFXzUwVl9JUk15SllhSldGc1FLbHg0bWhXc2tuYUZ4bUpCRWJNb0hzM3YxTVZSeDRHcmZXZGM?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Starlink Relaunches Bid for Satellite Internet in India",
+      "whyItMatters": "Intensifies competition in India's rapidly expanding satellite broadband and direct-to-device telecommunications sector.",
+      "brief": "Elon Musk's Starlink has officially reapplied for Indian regulatory approval to deploy its satellite network featuring direct-to-device technology.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-policy/et-exclusive-elon-musks-starlink-reapplies-for-india-approval-of-satellite-network-with-direct-to-device-tech/articleshow/133357541.cms",
+      "dateLocation": "August 19, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Rate Panel Signals Impending Hikes Amid Inflation",
+      "whyItMatters": "Indicates a potential shift in monetary policy that could impact borrowing costs and market liquidity across India.",
+      "brief": "India's rate-setting panel has signaled upcoming interest rate hikes, closely monitoring the path of domestic inflation to determine the precise timing.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUdOVTU5YTE2NVJRdlQ3R1NJdDk0NFZWU3p2WENieTVib1FXMVVHQVVxRVVVeGFjX3lRWDF5OWdLS0wtSVE4T2hTVDBaczN6bFp1ZDlYd01FM2x4YWFFNXI5czV6QTd3elE1TmJ4X3NmTG40MUVSMGdDQUNYY1lCdk9WQ21OdWt2ZjlRMi1OdGxjVWVGVUc3NjN5UG5uRHN3ZnoxZHY2Ylo1bXRMbXM3cmVxYXh3S0N4c0tBWlN3?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Texas Governor Seeks Total Ban on H-1B Workers in Schools",
+      "whyItMatters": "Could severely restrict career opportunities for skilled foreign visa holders and impact educational staffing in Texas.",
+      "brief": "Texas Governor Greg Abbott announced a legislative proposal seeking a complete ban on H-1B visa holders working within public schools.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/h1b-visa-holders-face-new-restrictions-in-texas-as-governor-greg-abbott-seeks-total-ban-in-public-schools-11787163498246.html",
+      "dateLocation": "August 19, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Congress Working Committee Firm on Two-Stanza Vande Mataram",
+      "whyItMatters": "Reflects internal ideological boundaries and strategic political messaging by the opposition party in India.",
+      "brief": "The Congress Working Committee reaffirmed its strict stance that party members will only sing two stanzas of Vande Mataram at official events.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/stand-on-vande-mataram-clear-congress-to-only-sing-two-stanza-in-party-says-venugopal/article71365654.ece",
+      "dateLocation": "August 19, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Set to Cut Tariffs on Canadian Metals and Autos",
+      "whyItMatters": "Eases bilateral trade friction and lowers export barriers for key North American manufacturing supply chains.",
+      "brief": "A tentative trade deal between Washington and Ottawa will lower certain metal tariffs to 25% and reduce auto export duties to 15%.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-set-to-cut-tariffs-on-canada-metals-autos-in-trade-deal-11787181751930.html",
+      "dateLocation": "August 19, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New US Green Card Rules Bring Rigorous Public Charge Checks",
+      "whyItMatters": "Imposes stricter vetting criteria that could complicate family and employment-based immigration applications to the United States.",
+      "brief": "USCIS released details of updated Green Card regulations effective September 18, introducing broader public charge evaluations and financial bond requirements.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/cabinet-clears-13-041-crore-rail-highway-projects-11787144742339.html",
-      "dateLocation": "August 19, 2026 | LiveMint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-issues-details-of-new-green-card-rules-coming-into-effect-from-september-18-wants-bond-to-prove-that-not-/articleshow/133338315.cms",
+      "dateLocation": "August 19, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ten-Year-Old Wins Silicon Valley Innovation Award",
-      "whyItMatters": "Showcases early youth achievement and practical breakthroughs in AI applications.",
-      "brief": "Ten-year-old Hsu Ting-wei won a top Silicon Valley invention award for building an AI-powered electronic nose to detect chemical threats.",
+      "headline": "Nine Killed in Overnight Fire at Kolkata Guest House",
+      "whyItMatters": "Draws urgent regulatory scrutiny toward urban safety standards, building compliance, and fire hazard enforcement.",
+      "brief": "At least nine people, including five foreign nationals from Bangladesh, tragically suffocated to death during a major lodge fire in central Kolkata.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5",
+      "dateLocation": "August 19, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New CDC Head Apologizes for Staff Psychological Safety Issues",
+      "whyItMatters": "Signals a cultural leadership overhaul aimed at restoring workplace trust and scientific integrity within federal health agencies.",
+      "brief": "The newly appointed director of the US CDC apologized to agency employees, committing to foster an environment free from fear of professional retribution.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/new-cdc-head-apologizes-for-staff-s-lack-of-psychological-safety-11787169521232.html",
+      "dateLocation": "August 19, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Triumphs Over Pakistan in Hockey World Cup Thriller",
+      "whyItMatters": "Heightens regional sporting rivalry excitement while highlighting crucial defensive areas for the team to address.",
+      "brief": "India secured a nail-biting victory over Pakistan in the Hockey World Cup, though captain Harmanpreet Singh warned that defensive lapses must be corrected.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meet-10-year-old-hsu-ting-wei-winner-of-top-silicon-valley-invention-award-for-building-an-ai-electronic-nose-that-samples-air-behind-x-ray-baggage-scanners/articleshow/133342162.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/cannot-afford-any-mistake-harmanpreet-singh-rues-indias-lapses-despite-pakistan-win/articleshow/133354197.cms",
       "dateLocation": "August 19, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
