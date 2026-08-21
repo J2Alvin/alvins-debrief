@@ -1,102 +1,84 @@
 {
-  "lastUpdated": "2026-08-21T12:39:40.873Z",
+  "lastUpdated": "2026-08-21T18:32:04.218Z",
   "ticker": [
-    "India orders removal of Google Firebase accounts",
-    "Gold rallies to three-month high on softer dollar",
-    "Global stocks set for biggest weekly fall since mid-July",
-    "India allows duty-free imports of raw sugar",
-    "Supreme Court eases legal practice criteria for civil judges"
+    "India forex hits six-month peak",
+    "US-Canada race for trade deal",
+    "Russia establishes drone military branch",
+    "India targets Google Firebase accounts",
+    "Iraq aims for high oil output"
   ],
   "articles": [
     {
-      "headline": "India Orders Google Firebase Account Removal Over Scams",
-      "whyItMatters": "Protects digital users from fraudulent networks operating through cloud infrastructure.",
-      "brief": "India has ordered the removal of specific Google Firebase accounts after identifying a widespread scam pattern, highlighting growing cloud security concerns.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnlmWWZrN2UwRVI4Zkc5cHZJdWkxdTBlU3dXYW43d3dzVzdnVi1iN1RiM1RuTHI2U3Y4cm5fOWZsU2RsU2VJclkwVDNwZlhGODVPVVpSTEk1VEt1QjRmcUlTQjhYLW9zMnNfRWV0UUZlbGduQTFtNWk3WFFMRjNmODFWQ3pzcHNiczRHdUV2Q3RCdjFmVDhOUU1ESWY5TFRVdXFnQlByVWc0ZnBkLVl0VU5mOEFyQjFyYnA2LXlR?oc=5",
-      "dateLocation": "2026-08-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AI Reshapes IT Services Contracts as Clients Demand More",
-      "whyItMatters": "Signals a fundamental pricing shift in traditional technology outsourcing agreements.",
-      "brief": "Artificial intelligence is rapidly reshaping India's IT services sector contracts as corporate clients demand greater efficiencies for lower costs.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
-      "dateLocation": "2026-08-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Permits Duty-Free Imports of Raw Sugar",
-      "whyItMatters": "Aims to stabilize domestic sugar supplies and control retail food inflation.",
-      "brief": "The Indian government has permitted duty-free imports of 1 million metric tons of raw sugar to boost domestic availability.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
-      "dateLocation": "2026-08-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mobile Phone Makers Face Massive PLI Entry Requirements",
-      "whyItMatters": "Restricts production-linked incentives to large-scale manufacturers with significant capital.",
-      "brief": "Mobile phone makers with a turnover of Rs 10,000 crore will be eligible for upcoming government manufacturing schemes.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/mobile-phone-makers-with-turnover-of-rs-10000-cr-in-fy26-eligible-for-mpms-govt/articleshow/133402733.cms",
-      "dateLocation": "2026-08-21 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Rallies to Three-Month High on Dollar Weakness",
-      "whyItMatters": "Reflects investor flight to safe-haven assets amid macroeconomic uncertainty.",
-      "brief": "Gold prices rallied to a three-month high supported by a softer dollar and favorable technical market indicators.",
+      "headline": "India's Forex Reserves Reach Six-Month High",
+      "whyItMatters": "Demonstrates robust external sector strength amid sustained capital inflows.",
+      "brief": "India's foreign exchange pile has risen to a six-month peak, driven by steady and sustained capital inflows into the economy.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
-      "dateLocation": "2026-08-21 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVTcwUkRkQ2RWVWZ3?oc=5",
+      "dateLocation": "August 21, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global Stocks Head for Biggest Weekly Fall Since July",
-      "whyItMatters": "Highlights widespread risk aversion across international equity markets.",
-      "brief": "Global stock markets are heading for their steepest weekly decline since mid-July as investors reevaluate economic growth prospects.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZfxNc0dLcw?oc=5",
-      "dateLocation": "2026-08-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Orders Removal of Google Firebase Accounts",
+      "whyItMatters": "Cracks down on widespread financial scam patterns exploiting cloud services.",
+      "brief": "Indian authorities ordered Google to remove hundreds of Firebase accounts after uncovering a pattern of criminal misuse in banking scams.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnlmWWZrN2UwRVI4Zkc5cHZJdWkxdTBlU3dXYW43d3dzVzdnVi1iN1RiM1RuTHI2S3Y4cm5fOWZsU2RsU2VJclkwVDNwZlhGODVPVVpSTEk1VEt1QjRmcUlTQjhYLW9zMnNfRWV0UUZlbGduQTFtNWk3WFFMRjNmODFWQ3pzcHNiczRHdUV2Q3RCdjFmVDhOUU1ESWY5TFRVdXFnQlByVWc0ZnBkLVl0VU5mOEFyQjFyYnA2LXlR?oc=5",
+      "dateLocation": "August 21, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Russia Open to Ukraine Peace Ideas With Conditions",
-      "whyItMatters": "Outlines Moscow's current diplomatic stance regarding potential conflict resolution frameworks.",
-      "brief": "A senior Russian diplomat stated that Moscow is ready to consider new proposals for peace in Ukraine, provided specific conditions are met.",
+      "headline": "US and Canada Race to Finalize Trade Deal",
+      "whyItMatters": "Aims to avert massive threatened tariffs on billions in goods.",
+      "brief": "Negotiators are pushing hard to seal a trade agreement before steep potential US tariffs on Canadian goods take effect.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-tariff-threat-pushes-us-canada-towards-trade-deal-as-talks-enter-final-stretch-11787330751460.html",
+      "dateLocation": "August 21, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PM Modi Hails India's Regulatory Shift",
+      "whyItMatters": "Positions the nation as a global growth bright spot through policy continuity.",
+      "brief": "Prime Minister Narendra Modi stated that India is shifting from a prohibited model to a permitted regulatory framework to boost growth.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/india-moving-from-prohibited-to-permitted-model-to-boost-growth-world-sees-it-as-bright-spot-pm-modi-11787327806240.html",
+      "dateLocation": "August 21, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "North Korea Deploys Drone Unit to Russia",
+      "whyItMatters": "Deepens military cooperation in the ongoing Russia-Ukraine conflict.",
+      "brief": "Reports indicate that North Korea has deployed a 400-strong drone unit to support Russian military operations in Ukraine.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSG1FLTR6ekxvVzVEOFo4d2tkbHpfMlI1STMwdjkxR204bHNwaWZ1OFVCWm51eXB4T3NHcVl4TktwTjRmSTVNOGlHQ2JRSDBHY3FxWjg1V2c4UUFwT2tjM25ubGpMaDJHU3VrWUpCZm9oMHhicXhCOTQxdTRGMkVpT0tGOEYyRW51ZWdVSzByOXFWZENab2g0d1ZsZXlKOHMwSldpeklvbjJfekxESVV1ejR2dnFSc01QZUQyZTlWeDQ?oc=5",
-      "dateLocation": "2026-08-21 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/world/russiaukraine-war-north-korea-deploys-400-strong-drone-unit-to-aid-putin-report-11787331856334.html",
+      "dateLocation": "August 21, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Eases Practice Rule for Civil Judges",
-      "whyItMatters": "Broadens eligibility criteria for aspiring judicial officers across the country.",
-      "brief": "The Supreme Court reduced mandatory legal practice for entry-level judicial exams from three years to one year.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/supreme-court-cuts-mandatory-legal-practice-for-civil-judge-aspirants-3-years-to-1-what-it-means-them-eligibility-news-11787301350450.html",
-      "dateLocation": "2026-08-21 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Slams US Religious Freedom Body Over RSS Call",
-      "whyItMatters": "Demonstrates New Delhi's firm pushback against international panels criticizing domestic policies.",
-      "brief": "India dismissed calls by a US religious freedom commission for sanctions against the RSS as biased and lacking credibility.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/biased-no-credibility-india-slams-us-religious-freedom-body-over-call-for-rss-sanctions/articleshow/133403184.cms",
-      "dateLocation": "2026-08-21 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Study Finds Widespread Faulty TB Prescriptions in India",
-      "whyItMatters": "Exposes major public health risks stemming from unstandardized tuberculosis treatments.",
-      "brief": "A systematic review revealed that over half of anti-TB prescriptions in non-programmatic settings do not follow proper clinical guidelines.",
+      "headline": "Delhi Sees Surge in H1N1 Swine Flu Cases",
+      "whyItMatters": "Triggers heightened health department readiness and hospital reviews.",
+      "brief": "Delhi has recorded a significant jump in H1N1 infections this year, prompting health officials to ensure adequate treatment facilities.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/many-tb-prescriptions-outside-national-programme-do-not-follow-treatment-guidelines-study-finds/article71372690.ece",
-      "dateLocation": "2026-08-21 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/jp-nadda-h1n1-swine-flu-cases-delhi-influenza-11787320847460.html",
+      "dateLocation": "August 21, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "FIFA Bans Leandro Paredes for 10 Matches",
+      "whyItMatters": "Imposes severe disciplinary action following a major tournament final fracas.",
+      "brief": "Argentina midfielder Leandro Paredes received a 10-match suspension from FIFA following an altercation after the World Cup final.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
+      "dateLocation": "August 21, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iraq Aims for Massive Oil Output Boost",
+      "whyItMatters": "Long-term production targets could reshape global energy supply dynamics.",
+      "brief": "Iraq has announced plans to boost its daily oil output significantly to between 8 and 10 million barrels over the next six years.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUpoc3RVQnd4NTNiTnNFZ1UzRDBzbmF6RjNzbFBYX1BLUUV5d2ZSRGFkem5EWnJYNEo2TUc2TWwxc2JRUzVaczhIb0ZZN2kxdmJVdUdqdXcybjlpR1YteE0zdmUwMXZpMzAxSHZDSllIQ1NvYWNwOTdrRTFOcEdwZG8wZTl3ajB0RGVEQ1o1alotVEQ5MTBNZW13RllNWGNlcWF6Y2FDY0Q?oc=5",
+      "dateLocation": "August 21, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
