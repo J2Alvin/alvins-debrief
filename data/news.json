@@ -1,147 +1,102 @@
 {
-  "lastUpdated": "2026-08-21T06:40:25.462Z",
+  "lastUpdated": "2026-08-21T12:39:40.873Z",
   "ticker": [
-    "Broadcom seeks over $60B in AI debt deal",
-    "Oil set for second weekly rise amid US-Iran tensions",
-    "22 Indians aboard two vessels hijacked by pirates",
-    "India allows duty-free raw sugar imports",
-    "Evergrande's Hui Ka Yan faces life sentence"
+    "India orders removal of Google Firebase accounts",
+    "Gold rallies to three-month high on softer dollar",
+    "Global stocks set for biggest weekly fall since mid-July",
+    "India allows duty-free imports of raw sugar",
+    "Supreme Court eases legal practice criteria for civil judges"
   ],
   "articles": [
     {
-      "headline": "Broadcom Seeks Over $60 Billion in Major AI Debt Deal",
-      "whyItMatters": "Highlights massive corporate borrowing fueled by expanding artificial intelligence infrastructure demands.",
-      "brief": "Broadcom is reportedly seeking more than $60 billion in a massive debt deal targeted at funding AI-related ventures, according to Bloomberg News.",
+      "headline": "India Orders Google Firebase Account Removal Over Scams",
+      "whyItMatters": "Protects digital users from fraudulent networks operating through cloud infrastructure.",
+      "brief": "India has ordered the removal of specific Google Firebase accounts after identifying a widespread scam pattern, highlighting growing cloud security concerns.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2R0haTXA5aFU?oc=5",
-      "dateLocation": "2026-08-21 | Bloomberg/Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnlmWWZrN2UwRVI4Zkc5cHZJdWkxdTBlU3dXYW43d3dzVzdnVi1iN1RiM1RuTHI2U3Y4cm5fOWZsU2RsU2VJclkwVDNwZlhGODVPVVpSTEk1VEt1QjRmcUlTQjhYLW9zMnNfRWV0UUZlbGduQTFtNWk3WFFMRjNmODFWQ3pzcHNiczRHdUV2Q3RCdjFmVDhOUU1ESWY5TFRVdXFnQlByVWc0ZnBkLVl0VU5mOEFyQjFyYnA2LXlR?oc=5",
+      "dateLocation": "2026-08-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Reshapes India's IT Contracts as Clients Demand More",
-      "whyItMatters": "Signals a profound structural shift in traditional outsourcing models as automation takes hold.",
-      "brief": "Clients are increasingly leveraging artificial intelligence to demand greater efficiencies and lower costs, transforming India's IT services contracts.",
+      "headline": "AI Reshapes IT Services Contracts as Clients Demand More",
+      "whyItMatters": "Signals a fundamental pricing shift in traditional technology outsourcing agreements.",
+      "brief": "Artificial intelligence is rapidly reshaping India's IT services sector contracts as corporate clients demand greater efficiencies for lower costs.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
       "dateLocation": "2026-08-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Allows Duty-Free Imports of One Million Tons Sugar",
-      "whyItMatters": "Aims to stabilize domestic sugar supplies and control retail inflation through strategic trade openings.",
-      "brief": "The Indian government has permitted duty-free imports of 1 million metric tons of raw sugar to counter supply pressures and manage domestic market prices.",
+      "headline": "India Permits Duty-Free Imports of Raw Sugar",
+      "whyItMatters": "Aims to stabilize domestic sugar supplies and control retail food inflation.",
+      "brief": "The Indian government has permitted duty-free imports of 1 million metric tons of raw sugar to boost domestic availability.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
       "dateLocation": "2026-08-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "DMart Parent Approves Rs 500 Crore for Q-Commerce Push",
-      "whyItMatters": "Demonstrates traditional retail giants stepping up capital allocation to combat rapid quick-commerce competitors.",
-      "brief": "Avenue Supermarts, the operator of DMart, has approved a Rs 500 crore investment to bolster its online grocery delivery operations.",
+      "headline": "Mobile Phone Makers Face Massive PLI Entry Requirements",
+      "whyItMatters": "Restricts production-linked incentives to large-scale manufacturers with significant capital.",
+      "brief": "Mobile phone makers with a turnover of Rs 10,000 crore will be eligible for upcoming government manufacturing schemes.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/dmart-parent-avenue-supermarts-approves-rs-500-crore-investment-in-online-grocery-arm/articleshow/133386263.cms",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/mobile-phone-makers-with-turnover-of-rs-10000-cr-in-fy26-eligible-for-mpms-govt/articleshow/133402733.cms",
       "dateLocation": "2026-08-21 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Rises on Unsettled US-Iran Tensions Limiting Supply",
-      "whyItMatters": "Exposes global energy markets to ongoing geopolitical instability and rising supply disruptions.",
-      "brief": "Crude oil prices are heading for their second weekly gain as heightened US-Iran geopolitical strains continue to threaten international supplies.",
+      "headline": "Gold Rallies to Three-Month High on Dollar Weakness",
+      "whyItMatters": "Reflects investor flight to safe-haven assets amid macroeconomic uncertainty.",
+      "brief": "Gold prices rallied to a three-month high supported by a softer dollar and favorable technical market indicators.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBQclFYMVRpaFk2cVBvUUNLd2tWYjlENUhJbG9tR3RYQ2k3VTFpSV9yd0xXVVgzNnFQNGltZV9sbHhQdENsX29BekdQM0NOb2p5bjBqQWNUbnE1WGZmaEt5d0ZFQVgzZUFKeWNOSEt2eHUzZWZRdk8xb1lMZUplLVZBY2oyYlRtMHo4YmZhdWRRZ2FndkE?oc=5",
       "dateLocation": "2026-08-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Asia Shares Downbeat as Bond Yields and Oil Stay High",
-      "whyItMatters": "Reflects widespread investor caution regarding sticky inflation metrics and rising global borrowing costs.",
-      "brief": "Asian markets traded lower for the week as persistently high bond yields and elevated crude oil prices dampened risk appetite.",
+      "headline": "Global Stocks Head for Biggest Weekly Fall Since July",
+      "whyItMatters": "Highlights widespread risk aversion across international equity markets.",
+      "brief": "Global stock markets are heading for their steepest weekly decline since mid-July as investors reevaluate economic growth prospects.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZfxNc0dLcw?oc=5",
       "dateLocation": "2026-08-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Twenty-Two Indians Aboard Vessels Hijacked Off Yemen, Somalia",
-      "whyItMatters": "Raises immediate security concerns for international shipping lanes and the safety of Indian maritime crews.",
-      "brief": "Armed pirates have hijacked two commercial vessels in separate incidents near Yemen and Somalia, trapping at least 22 Indian nationals.",
+      "headline": "Russia Open to Ukraine Peace Ideas With Conditions",
+      "whyItMatters": "Outlines Moscow's current diplomatic stance regarding potential conflict resolution frameworks.",
+      "brief": "A senior Russian diplomat stated that Moscow is ready to consider new proposals for peace in Ukraine, provided specific conditions are met.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/indians-aboard-cargo-ship-hijacked-by-pirates-off-somalias-coast/article71372096.ece",
-      "dateLocation": "2026-08-21 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSG1FLTR6ekxvVzVEOFo4d2tkbHpfMlI1STMwdjkxR204bHNwaWZ1OFVCWm51eXB4T3NHcVl4TktwTjRmSTVNOGlHQ2JRSDBHY3FxWjg1V2c4UUFwT2tjM25ubGpMaDJHU3VrWUpCZm9oMHhicXhCOTQxdTRGMkVpT0tGOEYyRW51ZWdVSzByOXFWZENab2g0d1ZsZXlKOHMwSldpeklvbjJfekxESVV1ejR2dnFSc01QZUQyZTlWeDQ?oc=5",
+      "dateLocation": "2026-08-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Over Fifty Dead as Overloaded Boat Capsizes in Nigeria",
-      "whyItMatters": "Highlights recurring river transport safety crises and lax regulation in developing nations.",
-      "brief": "An overloaded boat capsized in Sokoto, Nigeria, resulting in over 50 fatalities, predominantly children traveling along local waterways.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/nigeria-sokoto-more-than-50-dead-mostly-children-as-overloaded-boat-capsizes-11787278119791.html",
-      "dateLocation": "2026-08-21 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ex-PM Imran Khan Would Not Confront Army Chief if Freed",
-      "whyItMatters": "Offers strategic insight into Pakistan's tense political landscape and potential military-civilian dynamics.",
-      "brief": "A close aide to former Pakistani Prime Minister Imran Khan stated that Khan would avoid direct confrontation with the army chief if released.",
+      "headline": "Supreme Court Eases Practice Rule for Civil Judges",
+      "whyItMatters": "Broadens eligibility criteria for aspiring judicial officers across the country.",
+      "brief": "The Supreme Court reduced mandatory legal practice for entry-level judicial exams from three years to one year.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5",
-      "dateLocation": "2026-08-21 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/india/supreme-court-cuts-mandatory-legal-practice-for-civil-judge-aspirants-3-years-to-1-what-it-means-them-eligibility-news-11787301350450.html",
+      "dateLocation": "2026-08-21 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Centre Denies Permission for Telangana Chief Minister's US Visit",
-      "whyItMatters": "Reflects underlying friction between federal authorities and state leadership regarding foreign diplomatic and economic tours.",
-      "brief": "The central government has reportedly denied permission for Telangana Chief Minister Revanth Reddy to undertake an official visit to the United States.",
+      "headline": "India Slams US Religious Freedom Body Over RSS Call",
+      "whyItMatters": "Demonstrates New Delhi's firm pushback against international panels criticizing domestic policies.",
+      "brief": "India dismissed calls by a US religious freedom commission for sanctions against the RSS as biased and lacking credibility.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-denies-permission-to-the-telangana-cms-us-tour-revanth-to-return-to-the-city/articleshow/133393952.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/biased-no-credibility-india-slams-us-religious-freedom-body-over-call-for-rss-sanctions/articleshow/133403184.cms",
       "dateLocation": "2026-08-21 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Andhra Junior Doctors Continue Strike Amid Stalled Talks",
-      "whyItMatters": "Exposes ongoing pressures in public healthcare systems over compensation lagging behind inflation.",
-      "brief": "Junior doctors in Andhra Pradesh have resolved to continue their strike after government negotiations failed to yield adequate pay adjustments.",
+      "headline": "Study Finds Widespread Faulty TB Prescriptions in India",
+      "whyItMatters": "Exposes major public health risks stemming from unstandardized tuberculosis treatments.",
+      "brief": "A systematic review revealed that over half of anti-TB prescriptions in non-programmatic settings do not follow proper clinical guidelines.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-junior-doctors-to-continue-strike-as-talks-with-govt-make-no-headway/article71369639.ece",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/many-tb-prescriptions-outside-national-programme-do-not-follow-treatment-guidelines-study-finds/article71372690.ece",
       "dateLocation": "2026-08-21 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hyundai Motor's South Korean Union Stages First Full Strike",
-      "whyItMatters": "Emphasizes rising labor friction and wage demands within major global automotive manufacturing hubs.",
-      "brief": "Hyundai Motor union workers in South Korea launched their first full strike in a decade, halting production lines over unresolved wage disputes.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1NFbENBWGRhVEpxLXVyaFFZTzhNczN6TlNQcHhFZGtTM2ZERGpzLWRrbGdxYnNDYkJBQUYtQWxKaXZmaVpSRkhaeUlxb2NrSnMyckMwcUVzS2pHMGRfZUFITTlUb0xvUVpoWWFNUm85cGJfRTRKX2FlSnBqbXduNkZnbWJVVFIzQkw5bXdpcE1hbkRRZ213cWdtV3dIZFVON3ZsakZPZjFRU0QzTWhWYU82a1I3T2xySlE4WkRyak9jM09zcF9YLQ?oc=5",
-      "dateLocation": "2026-08-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Eight Dead as Charter Plane Crashes in Remote Alaska",
-      "whyItMatters": "Underscores severe travel risks associated with civilian transport services in remote aviation corridors.",
-      "brief": "A civilian-contracted twin-engine charter aircraft carrying eight people crashed in remote Alaska, leaving no survivors as federal investigators launch probes.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/8-on-board-as-twin-engine-cessna-charter-plane-crashes-in-remote-alaska/articleshow/133391321.cms",
-      "dateLocation": "2026-08-21 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "TTD Tests AI Robotic Dog for Wildlife and Safety Monitoring",
-      "whyItMatters": "Showcases innovative applications of quadruped robotics and edge AI for forest conservation and pilgrimage safety.",
-      "brief": "The Tirumala Tirupati Devasthanams is testing an AI-powered robotic dog equipped with thermal cameras and LiDAR to monitor wildlife and secure forest pathways.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-tests-ai-powered-robotic-dog-for-wildlife-monitoring-devotees-safety/article71370123.ece",
-      "dateLocation": "2026-08-21 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sri Lanka's Dilmah Group Launches Thambapanni Brand in India",
-      "whyItMatters": "Highlights cross-border expansion in specialized luxury hospitality and tea-centric consumer experiences.",
-      "brief": "Sri Lanka's renowned Dilmah tea group is expanding into the Indian market with its luxury hospitality concept named Thambapanni.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/with-focus-on-luxury-tea-inspired-hospitality-sri-lankas-dilmah-group-to-launch-thambapanni-in-india/article71366082.ece",
-      "dateLocation": "2026-08-21 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
