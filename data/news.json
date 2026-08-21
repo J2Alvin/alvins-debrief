@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-08-21T01:06:09.707Z",
+  "lastUpdated": "2026-08-21T06:40:25.462Z",
   "ticker": [
-    "US pushes allies to back economic war on Iran",
-    "Former Pakistan PM Imran Khan moved to hospital",
-    "Wall Street sinks as bond yields rise",
-    "Supreme Court scraps 1978 industry labour precedent",
-    "Broadcom seeks over $60B in AI debt deal"
+    "Broadcom seeks over $60B in AI debt deal",
+    "Oil set for second weekly rise amid US-Iran tensions",
+    "22 Indians aboard two vessels hijacked by pirates",
+    "India allows duty-free raw sugar imports",
+    "Evergrande's Hui Ka Yan faces life sentence"
   ],
   "articles": [
     {
-      "headline": "US Pushes Allies for Iran Economic War",
-      "whyItMatters": "Intensifies international pressure on Tehran as the conflict hits the six-month mark.",
-      "brief": "The US administration is urging allies and China to support severe economic sanctions aimed at collapsing the Iranian regime.",
+      "headline": "Broadcom Seeks Over $60 Billion in Major AI Debt Deal",
+      "whyItMatters": "Highlights massive corporate borrowing fueled by expanding artificial intelligence infrastructure demands.",
+      "brief": "Broadcom is reportedly seeking more than $60 billion in a massive debt deal targeted at funding AI-related ventures, according to Bloomberg News.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2R0haTXA5aFU?oc=5",
+      "dateLocation": "2026-08-21 | Bloomberg/Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AI Reshapes India's IT Contracts as Clients Demand More",
+      "whyItMatters": "Signals a profound structural shift in traditional outsourcing models as automation takes hold.",
+      "brief": "Clients are increasingly leveraging artificial intelligence to demand greater efficiencies and lower costs, transforming India's IT services contracts.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
+      "dateLocation": "2026-08-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Allows Duty-Free Imports of One Million Tons Sugar",
+      "whyItMatters": "Aims to stabilize domestic sugar supplies and control retail inflation through strategic trade openings.",
+      "brief": "The Indian government has permitted duty-free imports of 1 million metric tons of raw sugar to counter supply pressures and manage domestic market prices.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQW5zaDE0X2hCdmlweWVLV2pOV2pmb20zMDZ2UV83cWt1Tnd6ZlE0S2J4a3NZWGtFZHozZl91VXAzU01kUUkyUU41NTQtY1VrVjJkYS1hS3JkQVh4dnhTb25FY1dTNDlYbUxXWEdoRHQwVUJPSzRqUjBRZXdIamZpUHNzNUtvRUpGdlBRMQ?oc=5",
+      "dateLocation": "2026-08-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DMart Parent Approves Rs 500 Crore for Q-Commerce Push",
+      "whyItMatters": "Demonstrates traditional retail giants stepping up capital allocation to combat rapid quick-commerce competitors.",
+      "brief": "Avenue Supermarts, the operator of DMart, has approved a Rs 500 crore investment to bolster its online grocery delivery operations.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/dmart-parent-avenue-supermarts-approves-rs-500-crore-investment-in-online-grocery-arm/articleshow/133386263.cms",
+      "dateLocation": "2026-08-21 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Rises on Unsettled US-Iran Tensions Limiting Supply",
+      "whyItMatters": "Exposes global energy markets to ongoing geopolitical instability and rising supply disruptions.",
+      "brief": "Crude oil prices are heading for their second weekly gain as heightened US-Iran geopolitical strains continue to threaten international supplies.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "dateLocation": "2026-08-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Asia Shares Downbeat as Bond Yields and Oil Stay High",
+      "whyItMatters": "Reflects widespread investor caution regarding sticky inflation metrics and rising global borrowing costs.",
+      "brief": "Asian markets traded lower for the week as persistently high bond yields and elevated crude oil prices dampened risk appetite.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
+      "dateLocation": "2026-08-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Twenty-Two Indians Aboard Vessels Hijacked Off Yemen, Somalia",
+      "whyItMatters": "Raises immediate security concerns for international shipping lanes and the safety of Indian maritime crews.",
+      "brief": "Armed pirates have hijacked two commercial vessels in separate incidents near Yemen and Somalia, trapping at least 22 Indian nationals.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-pushes-allies-china-to-back-trumps-economic-war-on-iran/article71371992.ece",
-      "dateLocation": "21 August 2026 | Washington",
+      "sourceUrl": "https://www.thehindu.com/news/international/indians-aboard-cargo-ship-hijacked-by-pirates-off-somalias-coast/article71372096.ece",
+      "dateLocation": "2026-08-21 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Imran Khan Moved to Private Hospital",
-      "whyItMatters": "Shifts political tensions in Pakistan following court-ordered medical intervention.",
-      "brief": "Former Pakistan Prime Minister Imran Khan was transferred from prison to a private hospital following a court directive.",
+      "headline": "Over Fifty Dead as Overloaded Boat Capsizes in Nigeria",
+      "whyItMatters": "Highlights recurring river transport safety crises and lax regulation in developing nations.",
+      "brief": "An overloaded boat capsized in Sokoto, Nigeria, resulting in over 50 fatalities, predominantly children traveling along local waterways.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/nigeria-sokoto-more-than-50-dead-mostly-children-as-overloaded-boat-capsizes-11787278119791.html",
+      "dateLocation": "2026-08-21 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ex-PM Imran Khan Would Not Confront Army Chief if Freed",
+      "whyItMatters": "Offers strategic insight into Pakistan's tense political landscape and potential military-civilian dynamics.",
+      "brief": "A close aide to former Pakistani Prime Minister Imran Khan stated that Khan would avoid direct confrontation with the army chief if released.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnZsUEdCeDJVU0FsUTFlYlN6SWd3aGx1aE9FdkdhSEdsbjVzeW9rYk5fYmxYWlE0Uk9aV0FsNXZhUUItMHFHQ2tIZklRc1BwNXFFa005d3lIQVk5d1dERk8xamZvWkNPa2hhNU16M0pSd3hEX2s2ang1Q011UVEydnc3Um00ZnpTVm1mLW1jeTdzLUEtaUVsRVdKVVdBTmlYbE01Z0VjM0FxMEs1Tzh6OXF4R1BCZmlyd0pSUTBqNkQwZjJ0?oc=5",
-      "dateLocation": "21 August 2026 | Islamabad",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5",
+      "dateLocation": "2026-08-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Broadcom Seeks $60 Billion in AI Debt Deal",
-      "whyItMatters": "Highlights massive capital demands driving the ongoing artificial intelligence infrastructure boom.",
-      "brief": "Broadcom is reportedly seeking more than $60 billion in a massive new debt deal centered on artificial intelligence expansion.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2X0haTXA5aFU?oc=5",
-      "dateLocation": "21 August 2026 | New York",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Centre Denies Permission for Telangana Chief Minister's US Visit",
+      "whyItMatters": "Reflects underlying friction between federal authorities and state leadership regarding foreign diplomatic and economic tours.",
+      "brief": "The central government has reportedly denied permission for Telangana Chief Minister Revanth Reddy to undertake an official visit to the United States.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-denies-permission-to-the-telangana-cms-us-tour-revanth-to-return-to-the-city/articleshow/133393952.cms",
+      "dateLocation": "2026-08-21 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Wall Street Declines on Rising Yields",
-      "whyItMatters": "Reflects growing investor anxiety over macroeconomic headwinds and disappointing retail earnings.",
-      "brief": "US stocks dropped significantly as bond yields climbed higher and Walmart reported disappointing financial results.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-      "dateLocation": "21 August 2026 | New York",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Andhra Junior Doctors Continue Strike Amid Stalled Talks",
+      "whyItMatters": "Exposes ongoing pressures in public healthcare systems over compensation lagging behind inflation.",
+      "brief": "Junior doctors in Andhra Pradesh have resolved to continue their strike after government negotiations failed to yield adequate pay adjustments.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-junior-doctors-to-continue-strike-as-talks-with-govt-make-no-headway/article71369639.ece",
+      "dateLocation": "2026-08-21 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Scraps 1978 Industry Precedent",
-      "whyItMatters": "Remakes the legal definition of 'industry' under India's new labor codes.",
-      "brief": "The Supreme Court discarded a long-standing 1978 precedent, ruling that 'industry' must be interpreted strictly within new labor code texts.",
+      "headline": "Hyundai Motor's South Korean Union Stages First Full Strike",
+      "whyItMatters": "Emphasizes rising labor friction and wage demands within major global automotive manufacturing hubs.",
+      "brief": "Hyundai Motor union workers in South Korea launched their first full strike in a decade, halting production lines over unresolved wage disputes.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-upholds-definition-of-industry-as-per-industrial-relations-code-2020/article71367986.ece",
-      "dateLocation": "21 August 2026 | New Delhi",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1NFbENBWGRhVEpxLXVyaFFZTzhNczN6TlNQcHhFZGtTM2ZERGpzLWRrbGdxYnNDYkJBQUYtQWxKaXZmaVpSRkhaeUlxb2NrSnMyckMwcUVzS2pHMGRfZUFITTlUb0xvUVpoWWFNUm85cGJfRTRKX2FlSnBqbXduNkZnbWJVVFIzQkw5bXdpcE1hbkRRZ213cWdtV3dIZFVON3ZsakZPZjFRU0QzTWhWYU82a1I3T2xySlE4WkRyak9jM09zcF9YLQ?oc=5",
+      "dateLocation": "2026-08-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Student Visa Applications Drop 10%",
-      "whyItMatters": "Signals a major shift in international education trends due to tighter US immigration policies.",
-      "brief": "International applications to US colleges fell by 10% amid stringent new visa rules implemented by the administration.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-college-applications-from-international-students-fall-10-amid-trump-visa-crackdown-report-11787249985986.html",
-      "dateLocation": "21 August 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Eight Dead as Charter Plane Crashes in Remote Alaska",
+      "whyItMatters": "Underscores severe travel risks associated with civilian transport services in remote aviation corridors.",
+      "brief": "A civilian-contracted twin-engine charter aircraft carrying eight people crashed in remote Alaska, leaving no survivors as federal investigators launch probes.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/8-on-board-as-twin-engine-cessna-charter-plane-crashes-in-remote-alaska/articleshow/133391321.cms",
+      "dateLocation": "2026-08-21 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Joe Root Makes World Test Championship History",
-      "whyItMatters": "Cements his legacy as one of the greatest Test cricket captains of all time.",
-      "brief": "Joe Root became the first player to score 3,000 runs as captain in the World Test Championship during the England-Pakistan series.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-becomes-first-player-to-achieve-this-feat/articleshow/133390425.cms",
-      "dateLocation": "21 August 2026 | Headingley",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "TTD Tests AI Robotic Dog for Wildlife and Safety Monitoring",
+      "whyItMatters": "Showcases innovative applications of quadruped robotics and edge AI for forest conservation and pilgrimage safety.",
+      "brief": "The Tirumala Tirupati Devasthanams is testing an AI-powered robotic dog equipped with thermal cameras and LiDAR to monitor wildlife and secure forest pathways.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-tests-ai-powered-robotic-dog-for-wildlife-monitoring-devotees-safety/article71370123.ece",
+      "dateLocation": "2026-08-21 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Tightens Hair Transplant Regulations",
-      "whyItMatters": "Aims to curb rising medical malpractice and safeguard consumer health in unregulated clinics.",
-      "brief": "India is introducing strict safety and infrastructure guardrails for clinics to minimize risks associated with botched hair transplants.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/strict-hair-transplant-guardrails-to-snip-salon-clinic-risks-11787107572184.html",
-      "dateLocation": "21 August 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tyson Foods Closes Plants and Cuts Jobs",
-      "whyItMatters": "Demonstrates the severe ripple effects of historic cattle shortages across the American meat industry.",
-      "brief": "Tyson Foods shut down beef facilities in Illinois and Utah, laying off over 3,200 workers due to an ongoing cattle shortage.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/tyson-foods-closes-beef-plants-in-joslin-illinois-and-utah-lays-off-over-3200-workers-as-historic-us-cattle-shortage-hits-meat-giant-hard/articleshow/133386264.cms",
-      "dateLocation": "21 August 2026 | Chicago",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Romania Destroys Marine Drone Near Gas Project",
-      "whyItMatters": "Highlights ongoing security threats to critical Black Sea energy infrastructure amid regional conflict.",
-      "brief": "Romanian authorities successfully destroyed a marine drone discovered near the Neptun Deep offshore natural gas project.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
-      "dateLocation": "21 August 2026 | Bucharest",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Expands Rupee Trade Settlement Rules",
-      "whyItMatters": "Aims to boost international currency standing and mitigate foreign exchange exposure for local exporters.",
-      "brief": "India eased regulations governing rupee export payments to broaden global trade settlements and counter capital flight.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eases-rules-for-rupee-export-payments-seeks-to-widen-trade-settlement/articleshow/133379658.cms",
-      "dateLocation": "21 August 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Teen Developer Wins Big for AI Health Tool",
-      "whyItMatters": "Showcases the growing impact of youth-led innovation in early diagnostic medical technologies.",
-      "brief": "A 17-year-old high school student won a major award for inventing an AI tool that screens for autism and ADHD using retinal scans.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/17-year-old-new-jersey-high-schooler-edward-kang-built-an-ai-tool-that-reads-the-retina-for-autism-and-adhd-screening-and-won-175000-for-his-groundbreaking-research/articleshow/133386541.cms",
-      "dateLocation": "21 August 2026 | New Jersey",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PV Sindhu Bows Out of World Championships",
-      "whyItMatters": "Marks the end of an era for the Indian badminton star against Chinese opponents at worlds.",
-      "brief": "PV Sindhu suffered a dramatic defeat to Wang Zhi Yi after suffering physical cramps in a grueling world championship duel.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/8-0-becomes-8-1-impatient-pv-sindhu-falls-to-cramping-wang-zhi-yi-in-epic-duel/articleshow/133383425.cms",
-      "dateLocation": "21 August 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "GLP-1 Boom Drives Wellness Side-Market",
-      "whyItMatters": "Demonstrates how pharmaceutical trends rapidly pivot secondary consumer goods and beauty sectors.",
-      "brief": "The surging popularity of GLP-1 weight-loss drugs is fueling a massive new market for collagen, protein, and beauty products in India.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/glp-1-drugs-create-new-market-for-collagen-protein-and-beauty-products-in-india/articleshow/133387024.cms",
-      "dateLocation": "21 August 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Shashi Tharoor Critics New Parliament Building",
-      "whyItMatters": "Sparks national discourse over architectural symbolism and political polarization in modern India.",
-      "brief": "Congress MP Shashi Tharoor criticized the new Parliament building as a 'soulless conference centre' lacking intimate debate spaces.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/tharoor-calls-new-parliament-building-soulless-conference-centre-lacking-in-intimacy/article71372004.ece",
-      "dateLocation": "21 August 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Sri Lanka's Dilmah Group Launches Thambapanni Brand in India",
+      "whyItMatters": "Highlights cross-border expansion in specialized luxury hospitality and tea-centric consumer experiences.",
+      "brief": "Sri Lanka's renowned Dilmah tea group is expanding into the Indian market with its luxury hospitality concept named Thambapanni.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/with-focus-on-luxury-tea-inspired-hospitality-sri-lankas-dilmah-group-to-launch-thambapanni-in-india/article71366082.ece",
+      "dateLocation": "2026-08-21 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
