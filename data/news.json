@@ -1,129 +1,147 @@
 {
-  "lastUpdated": "2026-08-20T12:41:22.474Z",
+  "lastUpdated": "2026-08-21T01:06:09.707Z",
   "ticker": [
-    "India Rate Panel Signals Impending Hikes",
-    "Mirza Fakhrul Alamgir Wins Bangladesh Polls",
-    "Jharkhand HC Stays JPSC Exam Cancellation",
-    "Supreme Court Sets Up NEET Protests Probe Panel",
-    "Samsung Plans $72B Shareholder Return Program"
+    "US pushes allies to back economic war on Iran",
+    "Former Pakistan PM Imran Khan moved to hospital",
+    "Wall Street sinks as bond yields rise",
+    "Supreme Court scraps 1978 industry labour precedent",
+    "Broadcom seeks over $60B in AI debt deal"
   ],
   "articles": [
     {
-      "headline": "India Central Bank Signals Potential Rate Hikes",
-      "whyItMatters": "Monetary tightening could cool growth and impact borrowing costs nationwide.",
-      "brief": "The Indian rate panel has signaled impending interest rate hikes, closely monitoring the inflation path to determine the optimal timing for policy tightening.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUdOVTU5YTE2NVJRdlQ3R1NJdDk0NFZWU3p2WENieTVib1FXMVVHQVVxRVVVeGFjX3lRWDF5OWdLS0wtSVE4T2hTVDBaczN6bFp1ZDlYd01FM2x4YWFFNXI5czV6QTd3elE1TmJ4X3NmTG40MUVSMGdDQUNYY1lCdk9WQ21OdWt2ZjlRMi1OdGxjVWVGVUc3NjN5UG5uRHN3ZnoxZHY2Ylo1bXRMbXM3cmVxYXh3S0N4c0tBWlN3?oc=5",
-      "dateLocation": "2026-08-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Global Wheat Buyers Brace for Supply Squeeze",
-      "whyItMatters": "Threatens global food security and drives up grain prices.",
-      "brief": "Global wheat buyers are facing potential supply disruptions and shortages following recent attacks in the Black Sea region.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkdmTDJWOFZEQ1FJdDFIZzRXNlAwRjdSS2NEMHRQYlYtWGs0elgyckI1aGJDN21VdDJwSGtrcWFDOTZSbE96LXh4WUdSX2tVb3huZW1wRFlaSTFFWVJ5QlJNS1VnQ3BwU1pyY0xKRmlSMGtBZ1hwYm5oWW5EZXk4TVRmbXdTMVVrYkxYazRMVkU2VVRFeUpSeFZMbmV6R3g5Vk1SWTZ2RTNLamRDV0x3UjVuclRfT1B0cUE?oc=5",
-      "dateLocation": "2026-08-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Unitree CEO Says Robots Near ChatGPT Moment",
-      "whyItMatters": "Signals a massive paradigm shift in consumer and industrial robotics readiness.",
-      "brief": "The CEO of Unitree stated that robotics technology is standing on the precipice of its own ChatGPT moment, poised for rapid mainstream breakthroughs.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5",
-      "dateLocation": "2026-08-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Global Banks Adopt Ant International Forex AI",
-      "whyItMatters": "Accelerates financial technology integration across legacy banking institutions globally.",
-      "brief": "Major financial institutions including Citi, HSBC, and Standard Chartered have officially adopted Ant International's advanced foreign exchange AI tool.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5",
-      "dateLocation": "2026-08-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mirza Fakhrul Alamgir Wins Bangladesh Presidency",
-      "whyItMatters": "Represents the first contested presidential election in Bangladesh in 35 years.",
-      "brief": "BNP leader Mirza Fakhrul Alamgir has won the Bangladesh presidential election, securing 255 votes in parliament against opposition rivals.",
+      "headline": "US Pushes Allies for Iran Economic War",
+      "whyItMatters": "Intensifies international pressure on Tehran as the conflict hits the six-month mark.",
+      "brief": "The US administration is urging allies and China to support severe economic sanctions aimed at collapsing the Iranian regime.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/bnp-leader-mirza-fakhrul-alamgir-wins-bangladesh-presidential-election-with-255-votes/articleshow/133377149.cms",
-      "dateLocation": "2026-08-20 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-pushes-allies-china-to-back-trumps-economic-war-on-iran/article71371992.ece",
+      "dateLocation": "21 August 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Forms Panel to Probe NEET Protests",
-      "whyItMatters": "Addresses allegations of state police overreach during nationwide academic protests.",
-      "brief": "The Supreme Court has established a five-member committee to investigate allegations of excessive police force used against student demonstrators.",
+      "headline": "Imran Khan Moved to Private Hospital",
+      "whyItMatters": "Shifts political tensions in Pakistan following court-ordered medical intervention.",
+      "brief": "Former Pakistan Prime Minister Imran Khan was transferred from prison to a private hospital following a court directive.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/neet-protests-sc-sets-up-5-member-panel-to-probe-excessive-use-of-force-by-cops/articleshow/133375348.cms",
-      "dateLocation": "2026-08-20 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnZsUEdCeDJVU0FsUTFlYlN6SWd3aGx1aE9FdkdhSEdsbjVzeW9rYk5fYmxYWlE0Uk9aV0FsNXZhUUItMHFHQ2tIZklRc1BwNXFFa005d3lIQVk5d1dERk8xamZvWkNPa2hhNU16M0pSd3hEX2s2ang1Q011UVEydnc3Um00ZnpTVm1mLW1jeTdzLUEtaUVsRVdKVVdBTmlYbE01Z0VjM0FxMEs1Tzh6OXF4R1BCZmlyd0pSUTBqNkQwZjJ0?oc=5",
+      "dateLocation": "21 August 2026 | Islamabad",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Jharkhand High Court Stays JPSC Exam Cancellation",
-      "whyItMatters": "Provides crucial legal relief to hundreds of newly appointed job candidates.",
-      "brief": "The Jharkhand High Court has stayed the state government's controversial decision to scrap JPSC examinations, granting temporary relief to 450 candidates.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/jharkhand-high-court-stays-hemant-soren-govts-order-to-scrap-jpsc-exams-relief-for-450-candidates-11787225461199.html",
-      "dateLocation": "2026-08-20 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Broadcom Seeks $60 Billion in AI Debt Deal",
+      "whyItMatters": "Highlights massive capital demands driving the ongoing artificial intelligence infrastructure boom.",
+      "brief": "Broadcom is reportedly seeking more than $60 billion in a massive new debt deal centered on artificial intelligence expansion.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2X0haTXA5aFU?oc=5",
+      "dateLocation": "21 August 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Smartphone Prices Rise as Memory Costs Surge",
-      "whyItMatters": "Drives up consumer electronics costs across major smartphone brands worldwide.",
-      "brief": "Major manufacturers like Realme, Oppo, Vivo, Samsung, and OnePlus are hiking device rates due to surging global semiconductor and memory costs.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/smartphone-prices-rise-as-memory-costs-surge-realme-oppo-vivo-samsung-oneplus-hike-rates/articleshow/133375461.cms",
-      "dateLocation": "2026-08-20 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Wall Street Declines on Rising Yields",
+      "whyItMatters": "Reflects growing investor anxiety over macroeconomic headwinds and disappointing retail earnings.",
+      "brief": "US stocks dropped significantly as bond yields climbed higher and Walmart reported disappointing financial results.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+      "dateLocation": "21 August 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Upholds 1978 Bangalore Water Judgment",
-      "whyItMatters": "Solidifies legal definitions determining which workers fall under industrial dispute protections.",
-      "brief": "The Supreme Court reaffirmed its landmark 1978 Bangalore Water Supply ruling, confirming future disputes fall under the Industrial Relations Code.",
+      "headline": "Supreme Court Scraps 1978 Industry Precedent",
+      "whyItMatters": "Remakes the legal definition of 'industry' under India's new labor codes.",
+      "brief": "The Supreme Court discarded a long-standing 1978 precedent, ruling that 'industry' must be interpreted strictly within new labor code texts.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/supreme-court-upholds-its-landmark-1978-bangalore-water-supply-judgment-about-definition-of-industry-11787218041196.html",
-      "dateLocation": "2026-08-20 | Livemint",
+      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-upholds-definition-of-industry-as-per-industrial-relations-code-2020/article71367986.ece",
+      "dateLocation": "21 August 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Reservoir Storage Deficit Narrows",
-      "whyItMatters": "Eases agricultural and irrigation pressures heading into the next sowing season.",
-      "brief": "A steady revival in monsoon rainfall over recent weeks has helped narrow India's reservoir storage deficit, though overall levels remain below last year.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/indias-water-reservoir-storage-deficit-narrows-western-region-bucks-trend-11787218589244.html",
-      "dateLocation": "2026-08-20 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ten-Year-Old Wins Silicon Valley Innovation Award",
-      "whyItMatters": "Demonstrates the expanding reach of youth ingenuity in applied artificial intelligence.",
-      "brief": "A ten-year-old Taiwanese innovator won a top award at the Silicon Valley festival for building an AI-driven electronic nose.",
+      "headline": "US Student Visa Applications Drop 10%",
+      "whyItMatters": "Signals a major shift in international education trends due to tighter US immigration policies.",
+      "brief": "International applications to US colleges fell by 10% amid stringent new visa rules implemented by the administration.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meet-10-year-old-hsu-ting-wei-winner-of-top-silicon-valley-invention-award-for-building-an-ai-electronic-nose-that-samples-air-behind-x-ray-baggage-scanners/articleshow/133342162.cms",
-      "dateLocation": "2026-08-20 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-college-applications-from-international-students-fall-10-amid-trump-visa-crackdown-report-11787249985986.html",
+      "dateLocation": "21 August 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Secures Algeria LPG Supply Deal",
-      "whyItMatters": "Diversifies energy imports and bolsters national liquefied petroleum gas security.",
-      "brief": "Indian Oil is finalizing a major LPG import agreement with Algeria's Sonatrach to secure consistent energy supplies heading toward 2027.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-oil-close-to-signing-lpg-import-deal-with-algerias-sonatrach-for-2027-sources/articleshow/133374453.cms",
-      "dateLocation": "2026-08-20 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cheteshwar Pujara Advises Young Spinner Suthar",
-      "whyItMatters": "Highlights the ongoing debate between prioritizing traditional Test cricket versus lucrative T20 leagues.",
-      "brief": "Veteran cricketer Cheteshwar Pujara urged rising star Manav Suthar to focus on Test cricket rather than chasing Indian Premier League contracts.",
+      "headline": "Joe Root Makes World Test Championship History",
+      "whyItMatters": "Cements his legacy as one of the greatest Test cricket captains of all time.",
+      "brief": "Joe Root became the first player to score 3,000 runs as captain in the World Test Championship during the England-Pakistan series.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dont-go-chasing-the-ipl-cheteshwar-pujaras-plea-for-manav-suthar-after-galle-heroics/articleshow/133368356.cms",
-      "dateLocation": "2026-08-20 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-becomes-first-player-to-achieve-this-feat/articleshow/133390425.cms",
+      "dateLocation": "21 August 2026 | Headingley",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Tightens Hair Transplant Regulations",
+      "whyItMatters": "Aims to curb rising medical malpractice and safeguard consumer health in unregulated clinics.",
+      "brief": "India is introducing strict safety and infrastructure guardrails for clinics to minimize risks associated with botched hair transplants.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/strict-hair-transplant-guardrails-to-snip-salon-clinic-risks-11787107572184.html",
+      "dateLocation": "21 August 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tyson Foods Closes Plants and Cuts Jobs",
+      "whyItMatters": "Demonstrates the severe ripple effects of historic cattle shortages across the American meat industry.",
+      "brief": "Tyson Foods shut down beef facilities in Illinois and Utah, laying off over 3,200 workers due to an ongoing cattle shortage.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/tyson-foods-closes-beef-plants-in-joslin-illinois-and-utah-lays-off-over-3200-workers-as-historic-us-cattle-shortage-hits-meat-giant-hard/articleshow/133386264.cms",
+      "dateLocation": "21 August 2026 | Chicago",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Romania Destroys Marine Drone Near Gas Project",
+      "whyItMatters": "Highlights ongoing security threats to critical Black Sea energy infrastructure amid regional conflict.",
+      "brief": "Romanian authorities successfully destroyed a marine drone discovered near the Neptun Deep offshore natural gas project.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
+      "dateLocation": "21 August 2026 | Bucharest",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Expands Rupee Trade Settlement Rules",
+      "whyItMatters": "Aims to boost international currency standing and mitigate foreign exchange exposure for local exporters.",
+      "brief": "India eased regulations governing rupee export payments to broaden global trade settlements and counter capital flight.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eases-rules-for-rupee-export-payments-seeks-to-widen-trade-settlement/articleshow/133379658.cms",
+      "dateLocation": "21 August 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Teen Developer Wins Big for AI Health Tool",
+      "whyItMatters": "Showcases the growing impact of youth-led innovation in early diagnostic medical technologies.",
+      "brief": "A 17-year-old high school student won a major award for inventing an AI tool that screens for autism and ADHD using retinal scans.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/17-year-old-new-jersey-high-schooler-edward-kang-built-an-ai-tool-that-reads-the-retina-for-autism-and-adhd-screening-and-won-175000-for-his-groundbreaking-research/articleshow/133386541.cms",
+      "dateLocation": "21 August 2026 | New Jersey",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PV Sindhu Bows Out of World Championships",
+      "whyItMatters": "Marks the end of an era for the Indian badminton star against Chinese opponents at worlds.",
+      "brief": "PV Sindhu suffered a dramatic defeat to Wang Zhi Yi after suffering physical cramps in a grueling world championship duel.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/8-0-becomes-8-1-impatient-pv-sindhu-falls-to-cramping-wang-zhi-yi-in-epic-duel/articleshow/133383425.cms",
+      "dateLocation": "21 August 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "GLP-1 Boom Drives Wellness Side-Market",
+      "whyItMatters": "Demonstrates how pharmaceutical trends rapidly pivot secondary consumer goods and beauty sectors.",
+      "brief": "The surging popularity of GLP-1 weight-loss drugs is fueling a massive new market for collagen, protein, and beauty products in India.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/glp-1-drugs-create-new-market-for-collagen-protein-and-beauty-products-in-india/articleshow/133387024.cms",
+      "dateLocation": "21 August 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Shashi Tharoor Critics New Parliament Building",
+      "whyItMatters": "Sparks national discourse over architectural symbolism and political polarization in modern India.",
+      "brief": "Congress MP Shashi Tharoor criticized the new Parliament building as a 'soulless conference centre' lacking intimate debate spaces.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/tharoor-calls-new-parliament-building-soulless-conference-centre-lacking-in-intimacy/article71372004.ece",
+      "dateLocation": "21 August 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
