@@ -1,137 +1,146 @@
 {
-  "lastUpdated": "2026-08-22T06:34:28.155Z",
+  "lastUpdated": "2026-08-22T12:32:14.569Z",
   "ticker": [
-    "US and Canada escalate trade war with 50% tariffs",
-    "India forex reserves hit six-month peak",
-    "Trump claims total control over Strait of Hormuz",
-    "Google Firebase accounts ordered removed in India over scams",
-    "Global crude oil import bills surge amid West Asia crisis"
+    "US-Canada trade talks collapse unexpectedly",
+    "Iran shifts to offensive war doctrine",
+    "India clears ₹7,000 crore LPG expansion",
+    "OpenAI cuts GPT-5.6 pricing by 20%",
+    "India forex reserves hit six-month peak"
   ],
   "articles": [
     {
-      "headline": "India Forex Reserves Hit Six-Month Peak",
-      "whyItMatters": "Signals strong capital inflows and macroeconomic stability.",
-      "brief": "India's foreign exchange reserves reached a six-month high driven by sustained capital inflows, boosting economic resilience.",
+      "headline": "US and Canada Trade Talks Collapse at Last Minute",
+      "whyItMatters": "The breakdown threatens major economic fallout and renewed tariff wars across North America.",
+      "brief": "Trade negotiations between the US and Canada dramatically collapsed after Ottawa maintained its retaliation stance, prompting Canada to vow dollar-for-dollar tariff matching.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/us-canada-trade-deal-stalls-as-jamieson-greer-says-ottawa-maintains-retaliation/articleshow/133416777.cms",
+      "dateLocation": "August 22, 2026 | Washington/Ottawa",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Announces Shift to Offensive Military Doctrine",
+      "whyItMatters": "This significant escalation signals heightened geopolitical risk and potential direct confrontation in the Middle East.",
+      "brief": "Iran's military has officially shifted its strategy from defensive to offensive, introducing new operational plans amid soaring tensions with the United States.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/iran-announces-offensive-war-doctrine-what-has-tehran-prepared-in-retaliation-against-us-army-spokesman-reveals-11787392399741.html",
+      "dateLocation": "August 22, 2026 | Tehran",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Cuts Frontier GPT-5.6 Sol Pricing",
+      "whyItMatters": "Lower developer pricing accelerates enterprise AI adoption and intensifies competition among frontier model providers.",
+      "brief": "OpenAI has reduced developer pricing for its frontier GPT-5.6 Sol model by more than 20 percent to boost widespread integration.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXprSm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
+      "dateLocation": "August 22, 2026 | San Francisco",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Clears ₹7,000 Crore LPG Pipeline Expansion",
+      "whyItMatters": "This critical infrastructure investment aims to secure cleaner fuel supply chains across multiple Indian states.",
+      "brief": "The Indian government has approved a massive ₹7,000 crore LPG pipeline expansion project spanning six states to enhance energy distribution.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXJuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVVcwUkRkQ2RWVWZ3?oc=5",
-      "dateLocation": "Aug 22, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-clears-7000-crore-lpg-pipeline-expansion-across-6-states/articleshow/133420439.cms",
+      "dateLocation": "August 22, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Forex Reserves Rise to Six-Month Peak",
+      "whyItMatters": "Strong capital inflows reinforce macroeconomic stability and bolster the central bank's currency defense capabilities.",
+      "brief": "Driven by sustained foreign capital inflows, India's foreign exchange reserves have climbed to their highest level in six months.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1p3TGs1MUgzOEpmdmxrZFgxa2tBb3lRODJJOVZUZExPdnRvQ2N5V0pqMUwycGhtS1RLRTZ0Z01BUXjuaFhra3piU2RQNzdCSmZFWEFlT1lxS2pIRzFvSUhLVVJ4WnJXUVFySjEwd2xjc3pZcnBZNmwwUFZ6aHlWS0lpdFZmcHFXMmNrcDFxbFpGLTFsaFh1ZlMzQzJJTTlnSFVJQmVVVGcwUkRkQ2RWVWZ3?oc=5",
+      "dateLocation": "August 22, 2026 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "India Orders Removal of Google Firebase Accounts",
-      "whyItMatters": "Cracks down on digital fraud patterns.",
-      "brief": "Indian authorities have ordered the removal of specific Google Firebase accounts after identifying recurring scam patterns.",
+      "whyItMatters": "Combating fraudulent infrastructure protects digital ecosystems from widespread financial scam operations.",
+      "brief": "Following the detection of a sophisticated scam pattern, Indian authorities have ordered the removal of targeted Google Firebase accounts.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnlmWWZrN2UwRVI4Zkc5cHZJdWkxdTBlU3dXYW43d3dzVzdnVi1iN1RiM1RuTHI2U3Y4cm5fOWZsU2RsU2VJclkwVDNwZlhGODVPVVpSTEk1VEt1QjRmcUlTQjhYLW9zMnNfRWV0UUZlbGduQTFtNWk3WFFMRjNmODFWQ3pzcHNiczRHdUV2Q3RCdjFmVDhOUU1ESWY5TFRVdXFnQlByVWc0ZnBkLVl0VU5mOEFyQjFyYnA2LXlR?oc=5",
-      "dateLocation": "Aug 22, 2026 | Reuters",
+      "dateLocation": "August 22, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US and Canada Fail to Reach Tariff Deal",
-      "whyItMatters": "Escalates North American trade tensions significantly.",
-      "brief": "Trade negotiations between the US and Canada collapsed, leading the US to impose 50% tariffs and Canada promising dollar-for-dollar retaliation.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHUybEFVcFlsU2tZSVAyZGoxZ1g3ZmZSZjAybE9pbjRURDdFem04SXhZVnZIQW5iUEVscGFmbXNOR2w3d0Y2OEVZSVRlS3JOVXBmamwyWUU0WmRsZlRuZm5Xc01zRnVYV1pYZ2Rfb1pDbnlSM0JZamhsWjUxa083eWZRU2hzZzJIWXRrUlFpajg4a0ZHbk5wYWZlRVZ2SFZQZlVJV24zakhlYVE4?oc=5",
-      "dateLocation": "Aug 22, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Delhi Records 1,777 H1N1 Cases Amid Rising Infections",
+      "whyItMatters": "A sudden surge in influenza cases requires heightened public health vigilance and medical preparedness.",
+      "brief": "Delhi has logged 1,777 H1N1 cases this year, prompting the health ministry to issue symptom advisories as flu infections spread nationwide.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-records-1-777-h1n1-cases-health-ministry-lists-symptoms-to-watch-for-as-flu-infections-rise-across-india-11787396230655.html",
+      "dateLocation": "August 22, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Reshapes India's IT Services Sector Contracts",
-      "whyItMatters": "Demonstrates shifting global tech service demands.",
-      "brief": "Clients are increasingly demanding more deliverables for less cost as artificial intelligence reshapes traditional IT service contracts in India.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
-      "dateLocation": "Aug 22, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Judge Strikes Down Visa Suspension Policy",
-      "whyItMatters": "Impacts immigration processing for numerous nations.",
-      "brief": "A US federal judge has struck down a government policy that suspended immigrant visa processing for citizens from 75 nations.",
+      "headline": "Pinarayi Vijayan and Binoy Viswam Clash Over Post",
+      "whyItMatters": "Public disagreements within leftist alliances highlight shifting political equations and coalition strains.",
+      "brief": "Kerala Chief Minister Pinarayi Vijayan and CPI leader Binoy Viswam locked horns over the rightful claim to the Deputy Leader of the Opposition post.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0F2RlpfcnFUWko2OFFTZzBmUG9TcWJJZDJYMXhPU1oyVEx4cV9jSXhiZDdiU3E3Q1ctcExuWFh2UERJWkd2dWVKQ0tJZlk1eDlJT01OSk9nMkZzQWozcXgxVktwajN1cE1YQ0pxWUNBYXNCU3BHSUlOWFlqS0JIRW16VWxRbjJfSlExc3kyaS1jcUdxeFhaSUQ3V3V0NzlKTU1rbEFtTWxQRnNDVHpNZkhPbmhyTzhKSGxZLVY4WXZiMjNZRVRzTg?oc=5",
-      "dateLocation": "Aug 22, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-binoy-viswam-lock-horns-over-deputy-leader-of-the-opposition-post/article71377432.ece",
+      "dateLocation": "August 22, 2026 | Thiruvananthapuram",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Claims Total Control Over Strait of Hormuz",
-      "whyItMatters": "Heightens geopolitical risks in global energy markets.",
-      "brief": "US President Donald Trump described the Strait of Hormuz as American territory and claimed total control amid a tense standoff with Iran.",
+      "headline": "Akhilesh Yadav Defends Family Control in Samajwadi Party",
+      "whyItMatters": "The defense of dynastic leadership underscores structural strategies used to maintain party unity in Indian politics.",
+      "brief": "Akhilesh Yadav argued that having multiple family members in leadership positions prevented major splits within the Samajwadi Party.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/why-samajwadi-party-never-split-akhilesh-yadav-points-out-benefit-of-dynastic-politics/articleshow/133422401.cms",
+      "dateLocation": "August 22, 2026 | Lucknow",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Seven-Storey Building Collapses in Hyderabad, Two Dead",
+      "whyItMatters": "Urban safety violations and unregulated construction continue to pose fatal hazards in fast-growing metropolitan areas.",
+      "brief": "A seven-storey under-construction building collapsed in Hyderabad's Madhapur area, resulting in two confirmed deaths and active rescue operations.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/hyderabad/1-dead-as-7-storey-under-construction-building-collapses-in-hyderabad/articleshow/133421969.cms",
+      "dateLocation": "August 22, 2026 | Hyderabad",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Judge Strikes Down Immigrant Visa Suspension Policy",
+      "whyItMatters": "The legal ruling protects thousands of applicants from sweeping administrative bans on visa processing.",
+      "brief": "A US federal judge has struck down a controversial policy that suspended immigrant visa processing for citizens of 75 nations.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/usiran-war-trump-describes-strait-of-hormuz-as-american-territory-claims-total-control-over-waterway-11787369592318.html",
-      "dateLocation": "Aug 22, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0F2RlpfcnFUWko2OFFTZzBmUG9TcWJJZDJYMXhPU1oyVEx4cV9jSXhiZDdiU3E3Q1ctcExuWFh2UERJWkd2dWVKQ0tJZlk1eDlJT01OSk9nMkZzQWozcXgxVktwajN1cE1YQ0pxWUNBYXNCU3BHSUlOWFlqS0JIRW16VWxRbjJfSlExc3kyaS1jcUdxeFhaSUQ3V3V0NzlKTU1rbEFtTWxQRnNDVHpNZkhPbmhyTzhKSGxZLVY4WXZiMjNZRVRzTg?oc=5",
+      "dateLocation": "August 22, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Crude Import Bill Surges 41% in July",
-      "whyItMatters": "Highlights economic vulnerability to West Asian volatility.",
-      "brief": "Episodic events and benchmark crude volatility in West Asia pushed India's crude import bill up by 41% in July.",
-      "category": "finance",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/indias-crude-import-bill-surges-41-in-july-amid-west-asia-crisis-volumes-up-13/article71361781.ece",
-      "dateLocation": "Aug 22, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Approves $1.2 Billion Building Equipment Plan",
+      "whyItMatters": "State incentives are designed to boost domestic manufacturing capacity for heavy infrastructure machinery.",
+      "brief": "India is set to clear a $1.2 billion incentive plan aimed at scaling up the domestic production of construction and building equipment.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWFozQy1XZHVfdTB4MmlpVmg1dWdvZzRqa1R5dl9iYWNtZXdKaXBHcjNHMlUtZV9pV2VWaXFGenBPckhaQ29zSXBFcWE1b2hnM3VSQ0lWOTdoMEhQTzhnakZJNVcwdHZXd1ZBcEJTUnZfT3JfWXhraTREa3hwREk2Vl9zR1Boa1FuUlpYNFF0SEowRnRJcGYxQy0yMnZ3X0lVOVluZWMtLXpoZGlWall4WURrenZGSktlanI1OURrZlJFUWlaRGc?oc=5",
+      "dateLocation": "August 22, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Paredes Banned for 10 Games After Fracas",
-      "whyItMatters": "Imposes severe international disciplinary actions.",
-      "brief": "Following a World Cup final fracas, Paredes received a 10-match ban alongside heavy financial fines imposed on Argentina.",
+      "headline": "Trump Administration Plans $725 Million Payment to UN",
+      "whyItMatters": "Partial funding relief helps avert immediate operational shutdowns amid a severe global financial crisis at the UN.",
+      "brief": "The Trump administration plans to disburse $725 million to the United Nations, covering a fraction of Washington's substantial funding arrears.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/keeping-the-un-afloat-trump-admin-plans-725-million-payment-as-global-body-battles-funding-crisis-will-it-help-11787391726062.html",
+      "dateLocation": "August 22, 2026 | Washington/New York",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Sri Lanka Brace for Second Test in Colombo",
+      "whyItMatters": "Crucial World Test Championship points are on the line as both teams fine-tune their playing XIs.",
+      "brief": "As India prepares for the second Test against Sri Lanka in Colombo, team management faces critical selection puzzles regarding spin options.",
       "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
-      "dateLocation": "Aug 22, 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-the-subplot-thickens-as-colombo-braces-for-a-different-script/articleshow/133422963.cms",
+      "dateLocation": "August 22, 2026 | Colombo",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "International Flyers From India Won't Need Boarding Pass",
-      "whyItMatters": "Streamlines airport security and boarding procedures.",
-      "brief": "Starting September 1, international flyers departing from India will no longer require physical boarding passes according to new aviation rules.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/airport-rule-change-international-flyers-from-india-won-t-need-physical-boarding-pass-from-sept-1-says-report-11787376484506.html",
-      "dateLocation": "Aug 22, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Morning Prayers Turn Tragic at Canadian Gurdwara",
-      "whyItMatters": "Triggers condemnation of violence from leadership.",
-      "brief": "Two patrons were stabbed during morning prayers at Canada's Nanaksar Gurdwara, prompting strong condemnation from Prime Minister Mark Carney.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/morning-prayers-turn-tragic-at-canadas-nanaksar-gurdwara-after-man-stabs-patrons-pm-mark-carney-condemns-attack-11787370354183.html",
-      "dateLocation": "Aug 22, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BJP Chief Nitin Nabin Holds First Team Meeting",
-      "whyItMatters": "Shapes upcoming assembly election strategies.",
-      "brief": "Newly appointed BJP chief Nitin Nabin led the party's revamped national team in strategic discussions focused on upcoming assembly elections.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bjp-chief-nitin-nabin-holds-first-meet-with-new-team-ahead-of-polls/articleshow/133418073.cms",
-      "dateLocation": "Aug 22, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sugar Output May Fall 11% Below Estimate",
-      "whyItMatters": "Affects agricultural commodity markets and supply projections.",
-      "brief": "India's sugar output is projected to drop 11% below initial estimates, though the government has rejected links to ethanol diversion.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/sugar-output-may-dip-11-from-initial-estimate-government/articleshow/133413529.cms",
-      "dateLocation": "Aug 22, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Student Protests Spotlight Gaps in India's Schools",
-      "whyItMatters": "Exposes pressing infrastructure deficits in education.",
-      "brief": "Recent student protests across various regions have drawn renewed attention toward critical infrastructure gaps within Indian schools.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/from-roads-to-toilets-student-protests-spotlight-gaps-in-indias-schools/articleshow/133416339.cms",
-      "dateLocation": "Aug 22, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jayasuriya Heaps Praise on Bowler Manav Suthar",
-      "whyItMatters": "Highlights rising talent in international cricket.",
-      "brief": "Sri Lankan legend Prabath Jayasuriya expressed high praise for Manav Suthar, predicting the young bowler can become one of the best.",
+      "headline": "Paredes Banned for 10 Games After World Cup Fracas",
+      "whyItMatters": "Disciplinary sanctions underscore strict enforcement of sportsmanship rules following major international tournament altercations.",
+      "brief": "Argentina's Leandro Paredes has been handed a 10-match suspension and the national federation fined following a post-World Cup final fracas.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-can-become-one-of-the-best-bowlers-in-the-world-jayasuriya-heaps-big-praise/articleshow/133416255.cms",
-      "dateLocation": "Aug 22, 2026 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
+      "dateLocation": "August 22, 2026 | Zurich",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
