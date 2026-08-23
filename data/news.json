@@ -1,120 +1,111 @@
 {
-  "lastUpdated": "2026-08-23T12:32:51.095Z",
+  "lastUpdated": "2026-08-23T18:23:46.315Z",
   "ticker": [
-    "Bulk carrier sinks off India, search continues for 22",
-    "Nvidia notifies customers of AI-related price hikes",
-    "Iran announces Pakistan army chief's visit to Tehran",
-    "Australia confirms first H5N1 bird flu in local mammal",
-    "India monsoon tracks 13% below normal levels"
+    "US-Canada trade war escalates over 50% tariffs",
+    "Pakistan Army Chief visits Tehran amid US sanctions",
+    "India aims for space station by 2035",
+    "Alibaba launches $10B Hong Kong share placement",
+    "Cargo ship sinks off Indian coast, 22 missing"
   ],
   "articles": [
     {
-      "headline": "Iran and Pakistan Army Chief to Meet in Tehran",
-      "whyItMatters": "Regional security talks between neighboring military powers impact geopolitical stability across South and Central Asia.",
-      "brief": "Iran announced that Pakistan's army chief is scheduled to visit Tehran on Monday for high-level strategic and security discussions.",
+      "headline": "Pakistan Army Chief Asim Munir Visits Tehran",
+      "whyItMatters": "Highlights key diplomatic alignments in South Asia amidst tightening US pressure on Iran.",
+      "brief": "Pakistan's army chief travels to Tehran for high-level meetings as the US prepares fresh sanctions against Iran.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
       "dateLocation": "August 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Australia Confirms First Local Mammal H5N1 Case",
-      "whyItMatters": "The detection marks a critical escalation in the spread of avian influenza among native wildlife populations.",
-      "brief": "Australian authorities have officially confirmed the country's first case of the H5N1 bird flu strain in a local mammal.",
+      "headline": "Cargo Ship Sinks Off Indian Coast",
+      "whyItMatters": "A major maritime emergency involving a missing crew of 22 prompts large-scale rescue operations.",
+      "brief": "Indian rescuers are searching for 22 missing crew members after a bulk carrier sank off the east coast.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjRlaFE0VUJieE53aVpBUHpxZDBZc3VYQ0laVTJGT2lYZG8wM1JydzQ2TmJ5Z1NMTDM4UkxTc1VTc0lEY2lhS25jZVRYV2FBMGZBSEYwQkQ4NDBqM0tYc3BWUHdVYWdWLTFJakpBUWdTMGoybU03YXN3M254ZWhBUlF1ZUh2TE5VTEQ3eEREUXFfLXpHVUZSUVBMZ3dGYVdwR29WLQ?oc=5",
+      "dateLocation": "August 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Australia Confirms First H5N1 Bird Flu in Mammal",
+      "whyItMatters": "Marks a critical epidemiological milestone in the geographic spread of the dangerous virus.",
+      "brief": "Australian authorities have confirmed the country's first case of H5N1 bird flu in a local mammal.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWh5WlZuNmNtbG9VdDBoc3pIdVUwa3NaWmZCU2dSLXVRdUhHSUZpVWlYR3lhc09MV2ZlZ3NZdWZoajNPUWxRdXBCeDdTSHUxb3RxYzZoSlhKMmpTb2dFSE9Sc0lNXzQybDRrXzdTVHgxdF8ycVZLdjllem55QkJKQnRxRDlqRllFN096VWk2QXpTUlB5MzVST1BJT1ZDRjlBaERjeXZ4UGh3NVBxVUlINWF2WnhzN0JKSTNlSnJfSmJrcllCWWZV?oc=5",
       "dateLocation": "August 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Launches Rescue Operation After Bulk Carrier Sinks",
-      "whyItMatters": "Maritime safety and search operations are vital to saving stranded crew members in treacherous regional waters.",
-      "brief": "Indian rescue teams launched a massive operation after a bulk carrier sank off the east coast, leaving 22 people missing.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
-      "dateLocation": "August 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Taiwan President Reasserts Peace Through Strength",
-      "whyItMatters": "Cross-strait tensions remain high, making defense policy statements crucial indicators of regional deterrence strategies.",
-      "brief": "Taiwan's president emphasized a doctrine of peace through strength during an address marking a major Chinese battle anniversary.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?oc=5",
-      "dateLocation": "August 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nvidia Customers Notified of AI-Related Price Hikes",
-      "whyItMatters": "Higher hardware costs could slow down enterprise adoption of generative artificial intelligence and shift tech market dynamics.",
-      "brief": "Nvidia has reportedly notified its customers about upcoming AI-related hardware price hikes exceeding 15% due to high market demand.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXprWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-      "dateLocation": "August 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Monsoon Tracks Below Normal Amid El Nino Risk",
-      "whyItMatters": "Agricultural output and food inflation across South Asia are heavily reliant on stable monsoon rainfall patterns.",
-      "brief": "India's seasonal monsoon rainfall is tracking 13% below normal as scientists warn that a strong El Nino heightens extreme heat risks.",
+      "headline": "Alibaba Launches $10B Hong Kong Share Placement",
+      "whyItMatters": "Provides massive capital injection to accelerate competitive artificial intelligence infrastructure development.",
+      "brief": "Alibaba is raising $10 billion through a Hong Kong share placement primarily to fund heavy AI spending.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/india-monsoon-13-below-normal-as-strong-el-ni-o-raises-risk-of-hotter-summer-in-2027-report-what-scientists-say-11787480783717.html",
-      "dateLocation": "August 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
+      "dateLocation": "August 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Microsoft Affirms Coding Careers in the Age of AI",
-      "whyItMatters": "Shifting software development paradigms redefine educational pathways and employment expectations for millions of global students.",
-      "brief": "Microsoft stated that learning to code is more vital than ever, even as AI increasingly generates significant portions of enterprise software code.",
+      "headline": "Zelenskyy Denies Ukraine Role in Pipeline Blast",
+      "whyItMatters": "Addresses ongoing geopolitical tensions surrounding the sabotage of critical European energy infrastructure.",
+      "brief": "Ukrainian President Zelenskyy stated that Kyiv had no role in the Nord Stream pipeline sabotage following fresh arrests.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/zelenskyy-says-ukraine-had-no-role-in-nord-stream-pipeline-blast-11787500626637.html",
+      "dateLocation": "August 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Aims for Space Station by 2035",
+      "whyItMatters": "Represents a massive leap forward for India's independent human spaceflight and exploration ambitions.",
+      "brief": "ISRO chief announces plans for the Bharatiya Antariksha Station by 2035, with the first module already approved.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/india-aims-to-establish-space-station-by-2035-first-bharatiya-antariksha-station-module-approved-isro-chief-11787504675771.html",
+      "dateLocation": "August 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Brazil Sugar Imports Headed for India",
+      "whyItMatters": "Aims to stabilize domestic sugar prices and overcome supply constraints caused by regional crop diseases.",
+      "brief": "Duty-free sugar shipments from Brazil may reach India ahead of schedule as red rot and El Nino dent output.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/sugar-imports-from-brazil-may-reach-india-before-october-15-as-red-rot-el-nino-hit-output-11787497185217.html",
+      "dateLocation": "August 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Canada PM Declares Trade War With US",
+      "whyItMatters": "Escalates North American trade frictions to historical highs following punishing new US tariffs.",
+      "brief": "Canadian leadership claims the country is under attack after crippling 50% US tariffs trigger a massive trade showdown.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/we-got-attacked-mark-carney-claims-canada-is-at-war-with-us-as-trumps-50-tariffs-trigger-trade-showdown/articleshow/133444113.cms",
+      "dateLocation": "August 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Microsoft Champions Coding Skills in AI Era",
+      "whyItMatters": "Reassures the next generation of developers as artificial intelligence begins to automate basic code generation.",
+      "brief": "Microsoft tells students that learning to code remains vital, framing the skill shift toward debugging and directing AI tools.",
       "category": "technology",
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-all-the-students-wondering-whether-it-still-is-worth-learning-how-to-code-the-answer-is-now/articleshow/133433932.cms",
       "dateLocation": "August 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Probes Front-of-Pack Junk Food Labels",
-      "whyItMatters": "Mandatory nutritional warnings can drastically alter consumer behavior and curb surging lifestyle diseases across urban centers.",
-      "brief": "The Supreme Court evaluated the delayed implementation of front-of-pack warning labels designed to highlight high sugar, salt, and fat in foods.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/supreme-court-front-of-pack-labels-junk-food-ultra-processed-food-india-11787461948934.html",
-      "dateLocation": "August 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "JeM Bahawalpur Terror Base Fully Operational Again",
-      "whyItMatters": "Revived militant infrastructure poses cross-border security concerns and challenges regional counter-terrorism diplomatic efforts.",
-      "brief": "Fresh intelligence footage reveals that the JeM terror base destroyed in prior military operations has been fully reconstructed and reactivated.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/destroyed-in-operation-sindoor-jems-bahawalpur-terror-base-fully-operational-again/articleshow/133438629.cms",
-      "dateLocation": "August 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Construction Boom Hits Steel and Bitumen Wall",
-      "whyItMatters": "Supply constraints and volatile raw material costs threaten the momentum of critical nationwide infrastructure development projects.",
-      "brief": "Industry leaders warn that geopolitical friction and acute shortages of vital steel and bitumen could slow India's infrastructure construction boom.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/steel-bitumen-geopolitics-could-slow-indias-construction-boom-icema-vice-president/articleshow/133437518.cms",
-      "dateLocation": "August 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi Connects Directly to Mumbai Expressway Network",
-      "whyItMatters": "Improved transit corridors significantly decrease freight logistics friction and cut travel times between major economic hubs.",
-      "brief": "A new urban stretch connecting Delhi to the Mumbai Expressway has opened on trial, easing severe commuter congestion across the region.",
+      "headline": "Iran Discovers Massive New Gas Reserves",
+      "whyItMatters": "Provides a significant strategic cushion for Iran's heavily sanctioned and pressured energy sector.",
+      "brief": "Iran announced the discovery of over 7.5 trillion cubic feet of gas reserves amidst ongoing international blockades.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/roadways/delhi-mumbai-expressway-9-km-dnd-flyway-jaitpur-stretch-opens-on-trial-easing-commute-for-east-and-south-delhi/articleshow/133434717.cms",
-      "dateLocation": "August 2026 | Economic Times",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-discovers-over-7-5-trillion-cubic-feet-of-gas-reserves-as-us-blockade-squeezes-energy-sector/articleshow/133441497.cms",
+      "dateLocation": "August 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Robots Outrun Humans but Struggle with Cables",
-      "whyItMatters": "Highlighting persistent physical manipulation bottlenecks helps clarify the realistic limits of current humanoid robotics deployments.",
-      "brief": "While advanced robotics showcase incredible locomotion speeds, researchers note that autonomous dexterity tasks like plugging in cables remain extremely difficult.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
-      "dateLocation": "August 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Accumulates 300 Runs on Sri Lanka Test Day 1",
+      "whyItMatters": "Sets a strong tone for the touring Indian cricket side through dominant opening-day batting performances.",
+      "brief": "Devdutt Padikkal smashes another century as India puts up a dominant batting display on the opening day against Sri Lanka.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/india-vs-sri-lanka-test-match-two-day-1-updates/article71380144.ece",
+      "dateLocation": "August 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
