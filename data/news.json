@@ -1,147 +1,120 @@
 {
-  "lastUpdated": "2026-08-23T06:35:31.692Z",
+  "lastUpdated": "2026-08-23T12:32:51.095Z",
   "ticker": [
-    "India launches major rescue operation after bulk carrier sinks off east coast.",
-    "Trump reignites '51st state' remarks following collapse of Canada trade talks.",
-    "Iran's President Pezeshkian vows no compromise amid mounting US-Iran tensions.",
-    "Chinese humanoid robot shatters Usain Bolt's 100m world record in Beijing.",
-    "Australia confirms its first-ever case of H5N1 bird flu in a local mammal."
+    "Bulk carrier sinks off India, search continues for 22",
+    "Nvidia notifies customers of AI-related price hikes",
+    "Iran announces Pakistan army chief's visit to Tehran",
+    "Australia confirms first H5N1 bird flu in local mammal",
+    "India monsoon tracks 13% below normal levels"
   ],
   "articles": [
     {
-      "headline": "Bulk Carrier Sinks Off India's East Coast",
-      "whyItMatters": "Highlights critical maritime safety risks and prompts immediate multi-ship emergency rescue responses.",
-      "brief": "Indian authorities deployed multiple coast guard ships to rescue missing crew members after a bulk carrier sank off the east coast near Paradip.",
+      "headline": "Iran and Pakistan Army Chief to Meet in Tehran",
+      "whyItMatters": "Regional security talks between neighboring military powers impact geopolitical stability across South and Central Asia.",
+      "brief": "Iran announced that Pakistan's army chief is scheduled to visit Tehran on Monday for high-level strategic and security discussions.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
-      "dateLocation": "August 23, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
+      "dateLocation": "August 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Chinese Robot Breaks Usain Bolt's 100m Record",
-      "whyItMatters": "Demonstrates a monumental technological leap in humanoid robotics and athletic performance capabilities.",
-      "brief": "A humanoid robot developed in China shattered Usain Bolt's legendary 100-meter world record during technology games in Beijing.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFpWcEU2Z3A5dEFDSXRERWhFSGsxd0NCRDAydDk5MFZXYmkwajZ0OFhwZFh0TzN1NVM0bUFmTTBocUNfYzZoT1FUdFVGazRZVHp3NC00eVNlWlFUcnFuOW1QdkhWeWk0OW42OW42SWxWVjFJRGFKZi0xYUN2ekFuUHRyVEdzNmg0MS1NeU80MFZWeTNmX0VTR2d5VFhQUFlzVmZBX2ZKNnFOM2tFbGtiZE1fV0drOXNtOTFMQWh0VQ?oc=5",
-      "dateLocation": "August 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Australia Confirms First H5N1 Bird Flu in Mammal",
-      "whyItMatters": "Signals a concerning ecological shift in the virus's spread to local wildlife populations.",
-      "brief": "Australian health authorities confirmed the nation's first local mammal infection of the deadly H5N1 bird flu strain, raising biosecurity alarms.",
+      "headline": "Australia Confirms First Local Mammal H5N1 Case",
+      "whyItMatters": "The detection marks a critical escalation in the spread of avian influenza among native wildlife populations.",
+      "brief": "Australian authorities have officially confirmed the country's first case of the H5N1 bird flu strain in a local mammal.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWh5WlZuNmNtbG9VdDBoc3pIdVUwa3NaWmZCU2dSLXVRdUhHSUZpVWlYR3lhc09MV2ZlZ3NZdWZoajNPUWxRdXBCeDdTSHUxb3RxYzZoSlhKMmpTb2dFSE9Sc0lNXzQybDRrXzdTVHgxdF8ycVZLdjllem55QkJKQnRxRDlqRllFN096VWk2QXpTUlB5MzVST1BJT1ZDRjlBaERjeXZ4UGh3NVBxVUlINWF2WnhzN0JKSTNlSnJfSmJrcllCWWZV?oc=5",
-      "dateLocation": "August 23, 2026 | Reuters",
+      "dateLocation": "August 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Romania Takes Measures to Cool Nuclear Plant",
-      "whyItMatters": "Ensures uninterrupted energy generation amid environmental and river water level challenges.",
-      "brief": "Romania adopted emergency measures to boost Danube water flows to effectively cool the Cernavoda nuclear power plant during warm conditions.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTEloQl93UWRETzBXZ3hIZWM1eDZFREpLN0NDZkMwM3hZVXhpMjI2dnBWdmxIVV81WVVRVG1nVEE5NkVHYTlqSE9RQWQxMy03Tl94RUU4WDZQRkc2cFBJVU0xYy1DdHpFOFRoLUVkajd0dkplRVNmZkhlSERNV1NpR3M2TXlxaGo2LWR3Yzk1ZUdtUXdmNVdKVWNJN2tHSU1qOHRIcWRZcWRZaGRkMjF6cWFSVFJNbE11U0VINW5ERDZ5QUo4ajRv?oc=5",
-      "dateLocation": "August 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Launches Rescue Operation After Bulk Carrier Sinks",
+      "whyItMatters": "Maritime safety and search operations are vital to saving stranded crew members in treacherous regional waters.",
+      "brief": "Indian rescue teams launched a massive operation after a bulk carrier sank off the east coast, leaving 22 people missing.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
+      "dateLocation": "August 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Reasserts '51st State' Remark on Canada",
-      "whyItMatters": "Deepens diplomatic friction following the dramatic collapse of bilateral trade negotiations.",
-      "brief": "Following the collapse of crucial trade discussions, Donald Trump criticized Canada and renewed his controversial '51st state' remarks while imposing tariffs.",
+      "headline": "Taiwan President Reasserts Peace Through Strength",
+      "whyItMatters": "Cross-strait tensions remain high, making defense policy statements crucial indicators of regional deterrence strategies.",
+      "brief": "Taiwan's president emphasized a doctrine of peace through strength during an address marking a major Chinese battle anniversary.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/trump-hits-back-at-canada-after-retaliatory-tariffs-announcement/article71380257.ece",
-      "dateLocation": "August 23, 2026 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?oc=5",
+      "dateLocation": "August 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Dominate Sri Lanka on Day 1 of Test",
-      "whyItMatters": "Strengthens India's commanding position in the ongoing two-match international cricket series.",
-      "brief": "India elected to bat first and handed a debut to Saransh Jain on Day 1 of the second Test against Sri Lanka.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/india-vs-sri-lanka-test-match-two-day-1-updates/article71380144.ece",
-      "dateLocation": "August 23, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Severe Surge in Delhi H1N1 Influenza Cases",
-      "whyItMatters": "Poses a significant public health challenge as infection rates soar well past seasonal averages.",
-      "brief": "Delhi health authorities issued urgent advisories after recording over 2,300 Influenza-A cases, including severe strains of H1N1 swine flu.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/h1n1-cases-in-delhi-six-times-higher-severe-govt-issues-advisory-chair-review-meeting-as-experts-warn-10-points-11787454706246.html",
-      "dateLocation": "August 23, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AI Is Creating More Jobs Than It Destroys",
-      "whyItMatters": "Reframes the economic impact of artificial intelligence on domestic employment and the tech workforce.",
-      "brief": "A new industry report highlights that artificial intelligence is net-positive for job creation in India, though entry-level freshers face stiff competition.",
+      "headline": "Nvidia Customers Notified of AI-Related Price Hikes",
+      "whyItMatters": "Higher hardware costs could slow down enterprise adoption of generative artificial intelligence and shift tech market dynamics.",
+      "brief": "Nvidia has reportedly notified its customers about upcoming AI-related hardware price hikes exceeding 15% due to high market demand.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/ai-is-creating-more-jobs-than-it-destroys-in-india-but-freshers-face-the-squeeze/articleshow/133435025.cms",
-      "dateLocation": "August 23, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXprWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+      "dateLocation": "August 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Starc Powers Australia to Series-Levelling Win",
-      "whyItMatters": "Highlights a stellar individual bowling performance that completely shifted the multi-format series momentum.",
-      "brief": "Mitchell Starc claimed a sensational 10-wicket match haul to lead Australia to an emphatic innings victory against Bangladesh.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starcs-10-wicket-haul-powers-australia-to-series-levelling-win-over-bangladesh/articleshow/133434775.cms",
-      "dateLocation": "August 23, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Monsoon Tracks Below Normal Amid El Nino Risk",
+      "whyItMatters": "Agricultural output and food inflation across South Asia are heavily reliant on stable monsoon rainfall patterns.",
+      "brief": "India's seasonal monsoon rainfall is tracking 13% below normal as scientists warn that a strong El Nino heightens extreme heat risks.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/india-monsoon-13-below-normal-as-strong-el-ni-o-raises-risk-of-hotter-summer-in-2027-report-what-scientists-say-11787480783717.html",
+      "dateLocation": "August 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Eyes Critical Minerals in South America",
-      "whyItMatters": "Secures strategic supply chains for clean energy manufacturing and technological resource independence.",
-      "brief": "India is pivoting toward South America for bilateral trade expansion, targeting critical mineral deposits and major consumer markets.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eyes-critical-minerals-bigger-markets-in-south-america-trade-push/articleshow/133435118.cms",
-      "dateLocation": "August 23, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Sued Over Wrongful Firing Allegations",
-      "whyItMatters": "Exposes internal corporate disputes concerning immigration processing preferences and ethical compliance standards.",
-      "brief": "A former Meta manager filed a wrongful termination lawsuit claiming he was fired for refusing to sign an inflated immigration letter.",
+      "headline": "Microsoft Affirms Coding Careers in the Age of AI",
+      "whyItMatters": "Shifting software development paradigms redefine educational pathways and employment expectations for millions of global students.",
+      "brief": "Microsoft stated that learning to code is more vital than ever, even as AI increasingly generates significant portions of enterprise software code.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meta-sued-by-former-manager-claiming-was-fired-for-refusing-to-sign-immigration-letter-for-a-chinese-engineer-heres-all-lawsuit-blames-the-company-for/articleshow/133422112.cms",
-      "dateLocation": "August 23, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-all-the-students-wondering-whether-it-still-is-worth-learning-how-to-code-the-answer-is-now/articleshow/133433932.cms",
+      "dateLocation": "August 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pezeshkian Vows No Capitulation in US Tensions",
-      "whyItMatters": "Deepens geopolitical standoff and signals hardened diplomatic resolve from Tehran leadership.",
-      "brief": "Iranian President Masoud Pezeshkian declared that Tehran will not bow its head or compromise on security and economic agreements.",
+      "headline": "Supreme Court Probes Front-of-Pack Junk Food Labels",
+      "whyItMatters": "Mandatory nutritional warnings can drastically alter consumer behavior and curb surging lifestyle diseases across urban centers.",
+      "brief": "The Supreme Court evaluated the delayed implementation of front-of-pack warning labels designed to highlight high sugar, salt, and fat in foods.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/supreme-court-front-of-pack-labels-junk-food-ultra-processed-food-india-11787461948934.html",
+      "dateLocation": "August 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "JeM Bahawalpur Terror Base Fully Operational Again",
+      "whyItMatters": "Revived militant infrastructure poses cross-border security concerns and challenges regional counter-terrorism diplomatic efforts.",
+      "brief": "Fresh intelligence footage reveals that the JeM terror base destroyed in prior military operations has been fully reconstructed and reactivated.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/us-iran-war-donald-trump-not-going-to-bow-our-heads-masoud-pezeshkian-mou-clause-economic-threat-jd-vance-us-israel-11787452787051.html",
-      "dateLocation": "August 23, 2026 | Livemint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/destroyed-in-operation-sindoor-jems-bahawalpur-terror-base-fully-operational-again/articleshow/133438629.cms",
+      "dateLocation": "August 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Magnitude 5.9 Earthquake Strikes Eastern Japan",
-      "whyItMatters": "Tests regional infrastructure readiness and causes dozens of injuries across populated municipal areas.",
-      "brief": "A strong 5.9-magnitude earthquake shook eastern Japan, injuring at least 37 people and prompting local emergency structural assessments.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/magnitude-5-9-earthquake-rattles-eastern-japan-injures-at-least-five/articleshow/133433164.cms",
-      "dateLocation": "August 23, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Construction Boom Hits Steel and Bitumen Wall",
+      "whyItMatters": "Supply constraints and volatile raw material costs threaten the momentum of critical nationwide infrastructure development projects.",
+      "brief": "Industry leaders warn that geopolitical friction and acute shortages of vital steel and bitumen could slow India's infrastructure construction boom.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/steel-bitumen-geopolitics-could-slow-indias-construction-boom-icema-vice-president/articleshow/133437518.cms",
+      "dateLocation": "August 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Slams Google Over Firebase Scam Accounts",
-      "whyItMatters": "Cracks down on organized cyber fraud networks operating through major cloud infrastructure providers.",
-      "brief": "Indian cyber authorities ordered the immediate removal of numerous Google Firebase accounts after detecting a widespread financial scam pattern.",
+      "headline": "Delhi Connects Directly to Mumbai Expressway Network",
+      "whyItMatters": "Improved transit corridors significantly decrease freight logistics friction and cut travel times between major economic hubs.",
+      "brief": "A new urban stretch connecting Delhi to the Mumbai Expressway has opened on trial, easing severe commuter congestion across the region.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnlmWWZrN2UwRVI4Zkc5cHZJdWkxdTBlU3dXYW43d3dzVzdnVi1iN1RiM1RuTHI2U3Y4cm5fOWZsU2RsU2VJclkwVDNwZlhGODVPVVpSTEk1VEt1QjRmcUlTQjhYLW9zMnNfRWV0UUZlbGduQTFtNWk3WFFMRjNmODFWQ3pzcHNiczRHdUV2Q3RCdjFmVDhOUU1ESWY5TFRVdXFnQlByVWc0ZnBkLVl0VU5mOEFyQjFyYnA2LXlR?oc=5",
-      "dateLocation": "August 23, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/roadways/delhi-mumbai-expressway-9-km-dnd-flyway-jaitpur-stretch-opens-on-trial-easing-commute-for-east-and-south-delhi/articleshow/133434717.cms",
+      "dateLocation": "August 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "High Court Rules on Land Acquisition Consent",
-      "whyItMatters": "Protects private property rights against forced administrative pressure during state development initiatives.",
-      "brief": "The Allahabad High Court ruled that the government cannot legally force private landowners to execute sale deeds for land acquisition.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/government-cannot-force-private-landowners-to-execute-sale-deeds-for-acquisition-of-land-allahabad-high-court/article71380124.ece",
-      "dateLocation": "August 23, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Robots Outrun Humans but Struggle with Cables",
+      "whyItMatters": "Highlighting persistent physical manipulation bottlenecks helps clarify the realistic limits of current humanoid robotics deployments.",
+      "brief": "While advanced robotics showcase incredible locomotion speeds, researchers note that autonomous dexterity tasks like plugging in cables remain extremely difficult.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
+      "dateLocation": "August 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
