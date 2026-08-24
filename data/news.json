@@ -1,129 +1,147 @@
 {
-  "lastUpdated": "2026-08-24T12:42:30.338Z",
+  "lastUpdated": "2026-08-24T18:35:50.090Z",
   "ticker": [
-    "TCS buys Porsche IT unit for $373 million",
-    "Gold climbs to three-month high amid US inflation wait",
-    "Gurugram issues work-from-home advisory due to heavy rains",
-    "Supreme Court declares right to walk a fundamental right",
-    "India, Russia hold high-level talks on bilateral ties"
+    "US Launches 'Operation Economic Outcast' Against Iran",
+    "India Plans First Tokenised Bond Issue in September",
+    "Trump Announces Additional 7.5% Tariff on Chinese Goods",
+    "India Faces Weakest Monsoon in Nearly Two Decades",
+    "TCS Acquires Porsche's IT Unit in $1.46B Deal"
   ],
   "articles": [
     {
-      "headline": "TCS Acquires Porsche's IT Unit for $373 Million",
-      "whyItMatters": "Expands TCS's automotive technology footprint in Europe significantly.",
-      "brief": "Tata Consultancy Services is acquiring Porsche's IT unit for an enterprise value of $373 million, strengthening its strategic enterprise solutions portfolio in Europe.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
-      "dateLocation": "August 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Climbs to Three-Month High",
-      "whyItMatters": "Reflects growing market anxiety ahead of crucial US inflation data.",
-      "brief": "Gold prices rose to a more than three-month high as global investors hold positions and await key economic inflation indicators from the United States.",
+      "headline": "India Plans First Tokenised Bond Issue in September",
+      "whyItMatters": "Marks a major milestone for India's digital asset integration in mainstream capital markets.",
+      "brief": "India is reportedly preparing to issue its first tokenised bonds this coming September, signaling a shift toward blockchain-backed sovereign instruments.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
-      "dateLocation": "August 24, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnh6dzlUek5ZZm9GTmRDSXJwMGNWZUxrOWQ1R2RXVUNUVHJwMmltRnI1ODVnUmQwc2xqLXJzZTNWUjhZTldEOXNtaHcycHVSX1Nya0c3YU02dUZWMGszM2lKMWstWVdLc2hKOGQ5WFJtcU0zanZHMzdCcFN0b2RLV1VUTFpXcHppdGVpVC0wR2U2MVYtS3k2VTFEZHBKVXk3MVE0UQ?oc=5",
+      "dateLocation": "2026-08-24 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Xiaomi Partners with TSMC for New Xring Chip",
-      "whyItMatters": "Enhances Xiaomi's proprietary hardware capabilities through elite semiconductor partnerships.",
-      "brief": "Xiaomi has launched its new Xring chip and secured a strategic manufacturing partnership with TSMC to produce the advanced mobile silicon components.",
+      "headline": "TCS Acquires Porsche's IT Unit in Mega Deal",
+      "whyItMatters": "Strengthens Indian tech dominance in the European automotive software engineering sector.",
+      "brief": "Tata Consultancy Services has agreed to acquire Porsche's IT unit as part of a major five-year strategic deal valued at $1.46 billion.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5",
-      "dateLocation": "August 24, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
+      "dateLocation": "2026-08-24 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China's Xi Jinping Likely to Visit India Soon",
+      "whyItMatters": "Could thaw diplomatic ties between the two Asian superpowers after years of friction.",
+      "brief": "Chinese President Xi Jinping is expected to visit India with a large delegation, marking his first trip to the country in seven years.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTN3N054U1RWSGR0WVMxRlBWTi1xNTU3Q0hDSGpsQ05KbEpUWG03UU05RGlYRGFJdDBVeDduSlFRX0tqeHlKYjVwX3gxd1JfSnkySWx5NGdmRm8zOW5NT1B4dUZFVkJRM0lqYmZqdGM4a0V5bzJBUFAtM2h0d1JNWFRuRDdFX2FnVG5hejAxVEFUUEdDSXlNb3pid3RtbkpNdEpyMDZjT3daaFlockxXUTg5MUR0YWszTHpz?oc=5",
+      "dateLocation": "2026-08-24 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Launches 'Operation Economic Outcast' Against Iran",
+      "whyItMatters": "Aims to sever Iran's global financial lifelines with severe secondary economic consequences.",
+      "brief": "The United States Treasury has unveiled aggressive new sanctions targeting Tehran's financial connections and warning global partners to cut ties.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/trumps-iran-economic-d-day-more-sanctions-on-tehran-announced-but-can-china-and-india-be-brought-in-11787593508374.html",
+      "dateLocation": "2026-08-24 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Announces Additional 7.5% Tariff on Chinese Goods",
+      "whyItMatters": "Escalates global trade tensions and pressures manufacturing supply chains worldwide.",
+      "brief": "President Trump announced plans to implement an extra 7.5% tariff on Chinese goods, pushing total levies higher amid concerns over manufacturing capacity.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/trump-to-impose-7-5-percent-tariff-on-chinese-goods-raising-the-total-to-20-percent-excess-manufacturing-capacity-xi-jinping/articleshow/133475946.cms",
+      "dateLocation": "2026-08-24 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Faces Weakest Monsoon in Nearly Two Decades",
+      "whyItMatters": "Threatens agricultural output, rural income levels, and broader economic growth metrics.",
+      "brief": "Driven by a strengthening El Nino pattern, India is experiencing its weakest monsoon season in almost twenty years, raising food inflation concerns.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/india-faces-weakest-monsoon-in-nearly-two-decades-as-el-nino-strengthens/articleshow/133471815.cms",
+      "dateLocation": "2026-08-24 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "RBI Forex Swap Facility Mobilises $73 Billion",
+      "whyItMatters": "Provides a crucial currency buffer for India's financial system against global market volatility.",
+      "brief": "The Reserve Bank of India successfully mobilized $73 billion via its forex swap facility, heavily driven by strong foreign currency non-resident deposits.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/rbi-forex-swap-facility-mobilises-73-billion-driven-by-65-4-billion-in-fcnr-deposits-11787590111015.html",
+      "dateLocation": "2026-08-24 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Alibaba Launches Wan3.0 AI Video Model",
-      "whyItMatters": "Intensifies global competition in generative artificial intelligence video generation tools.",
-      "brief": "Alibaba has officially launched its advanced Wan3.0 AI video model following a major $10 billion share sale, targeting enterprise and consumer markets.",
+      "whyItMatters": "Intensifies the global race for advanced generative video models and enterprise AI solutions.",
+      "brief": "Alibaba has officially unveiled its Wan3.0 AI video generation model following a massive $10 billion share sale to fuel tech investments.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
-      "dateLocation": "August 24, 2026 | Reuters",
+      "dateLocation": "2026-08-24 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Declares Walking on Footpaths a Fundamental Right",
-      "whyItMatters": "Pushes urban planning bodies to prioritize pedestrian infrastructure and remove illegal encroachments.",
-      "brief": "The Supreme Court declared the right to walk carefree on footpaths a fundamental right, directing states and union territories to enforce encroachment-free pedestrian zones.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-declares-the-right-to-walk-carefree-on-footpaths-a-fundamental-right/article71121451.ece",
-      "dateLocation": "August 24, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Chidambaram Critiques One Nation, One Election Proposal",
-      "whyItMatters": "Highlights deep political resistance against sweeping electoral reforms in federal systems.",
-      "brief": "Senior political figures have strongly criticized the 'One Nation, One Election' initiative during parliamentary committee discussions, calling the framework impractical and structurally flawed.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/monstrous-mindless-chidambaram-criticises-one-nation-one-election-plan-at-house-panel-meet/articleshow/133464380.cms",
-      "dateLocation": "August 24, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gurugram Advises WFH Amid Heavy Rains and Waterlogging",
-      "whyItMatters": "Disrupts corporate operations and highlights urban infrastructure vulnerabilities during monsoon season.",
-      "brief": "The Gurugram district administration issued a work-from-home advisory for corporate and government offices while shifting schools to online classes due to severe waterlogging.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/gurgaon-water-logging-today-school-offices-closed-wfh-tomorrow-august-25-check-advisory-11787570023519.html",
-      "dateLocation": "August 24, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iranian Oil Cargoes Dry Up Ahead of US Sanctions",
-      "whyItMatters": "Tightens global crude supplies and forces Asian refiners to look for alternatives.",
-      "brief": "Iranian oil shipments to Asia have plummeted as tightening US pressure and geopolitical threats disrupt supplies, forcing Chinese independent refiners into a supply crunch.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/iran-oil-cargoes-dry-up-even-before-us-acts-on-tehran-threats-chinas-teapots-face-crunch-11787564402999.html",
-      "dateLocation": "August 24, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cricket Captains Appeal to Pakistan PM Over Imran Khan's Health",
-      "whyItMatters": "Brings international sports diplomacy into discussions concerning political prisoner welfare.",
-      "brief": "Twenty-two former international cricket captains, including Kapil Dev and Sunil Gavaskar, have written to Pakistan's Prime Minister urging proper medical attention for Imran Khan.",
+      "headline": "Rishabh Pant Surpasses Adam Gilchrist in Test Sixes",
+      "whyItMatters": "Solidifies his legacy as one of the most destructive wicketkeeper-batters in cricket history.",
+      "brief": "Indian cricketer Rishabh Pant broke Adam Gilchrist's record by hitting his 102nd Test six in just 52 matches during a match in Colombo.",
       "category": "sports",
-      "sourceUrl": "https://www.livemint.com/news/world/kapil-dev-sunil-gavaskar-among-former-22-cricket-captains-wrote-letter-to-pakistan-pm-over-imran-khans-health-11787556548332.html",
-      "dateLocation": "August 24, 2026 | Livemint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/rishabh-pant-breaks-another-record-in-colombo-surpasses-adam-gilchrist-in-elite-six-hitting-records/articleshow/133462222.cms",
+      "dateLocation": "2026-08-24 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Dhruv Jurel Shines with Century in Colombo Test",
-      "whyItMatters": "Secures India's middle-order depth during a critical overseas Test match series.",
-      "brief": "Wicketkeeper-batter Dhruv Jurel delivered a brilliant century in Colombo, helping anchor India's first innings total to 503 for 9 in challenging conditions.",
+      "headline": "Hockey World Cup: India Crashes Out After Defeat",
+      "whyItMatters": "Highlights recurring defensive vulnerabilities for the former champion squad on the global stage.",
+      "brief": "The Indian men's hockey team crashed out of the World Cup following a lacklustre performance and costly defensive errors against Argentina.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dhruv-shines-bright-in-gloomy-colombo-makes-his-opportunity-count-with-a-sublime-century/articleshow/133464711.cms",
-      "dateLocation": "August 24, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/sport/hockey/hockey-world-cup-india-crashes-out-after-another-lacklustre-show/article71385784.ece",
+      "dateLocation": "2026-08-24 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Jaishankar Meets Putin in Moscow to Strengthen Bilateral Ties",
-      "whyItMatters": "Maintains strategic diplomatic alignment amid shifting global geopolitical pressures.",
-      "brief": "External Affairs Minister S. Jaishankar met with Russian President Vladimir Putin in Moscow to discuss deeper bilateral cooperation and evolving international developments.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/jaishankar-meets-putin-in-moscow-discusses-bilateral-ties-and-global-developments/articleshow/133464285.cms",
-      "dateLocation": "August 24, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "IIT Kanpur Medical School Secures ₹300 Crore Funding",
+      "whyItMatters": "Boosts advanced medical research infrastructure and specialized healthcare access in northern India.",
+      "brief": "IndiGo co-founder Rakesh Gangwal has contributed an additional ₹300 crore to IIT Kanpur's medical school for a super-speciality hospital and cancer research.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/iit-kanpurs-gangwal-school-of-medical-sciences-gets-300-crore-additional-funds-from-indigo-co-founder-rakesh-gangwal-11787593139139.html",
+      "dateLocation": "2026-08-24 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Rejects US Envoy's Comments on Modi-Trump Meeting",
-      "whyItMatters": "Clarifies protocol procedures surrounding high-level diplomatic media interactions.",
-      "brief": "New Delhi stated that pre-arranging media interaction parameters is standard diplomatic protocol, responding to a US envoy's remark about a lack of press questions.",
+      "headline": "Crackdown on Spurious Paneer Uncovers Food Safety Risks",
+      "whyItMatters": "Exposes rampant food adulteration practices posing significant public health hazards across states.",
+      "brief": "Food safety authorities across multiple Indian states have launched major raids, destroying hundreds of kilograms of counterfeit analogue paneer.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/508-kg-spurious-paneer-destroyed-at-okhla-mandi/article71386112.ece",
+      "dateLocation": "2026-08-24 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rahul Gandhi Adopts New Gen-Z Outreach Strategy",
+      "whyItMatters": "Signals a notable evolution in opposition political tactics ahead of upcoming electoral battles.",
+      "brief": "Congress leader Rahul Gandhi is shifting his political playbook by combining surprise street protests with targeted digital outreach directed at younger voters.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/normal-practice-india-reacts-to-us-envoys-mea-sought-no-questions-remark-on-modi-trump-meet-11787568624524.html",
-      "dateLocation": "August 24, 2026 | Livemint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/surprise-protests-genz-outreach-rahul-gandhis-new-playbook-after-cjps-success/articleshow/133470581.cms",
+      "dateLocation": "2026-08-24 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Boarding Pass Stamping for Immigration to End September 1",
-      "whyItMatters": "Streamlines departure processes at Indian airports through digital transformation.",
-      "brief": "The Bureau of Immigration announced that physical stamping of boarding passes for international departures will be discontinued starting September 1 to improve efficiency.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/starting-september-1-stamping-of-boarding-passes-for-immigration-clearance-will-be-discontinued-why-bureau-of-immigration-has-introduced-the-change/articleshow/133451171.cms",
-      "dateLocation": "August 24, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "BJP to Contest Punjab Polls Solo Without SAD Alliance",
+      "whyItMatters": "Reshapes the regional political landscape and forces independent electoral strategies in Punjab.",
+      "brief": "Senior BJP leader BL Santosh confirmed that the party will contest future Punjab assembly elections independently, dropping plans for an alliance with SAD.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/no-alliance-with-sad-bl-santosh-says-bjp-to-go-solo-in-punjab-polls/articleshow/133473542.cms",
+      "dateLocation": "2026-08-24 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "General News Brief: US Teacher's Gift Grows Into Forest",
+      "whyItMatters": "Demonstrates the long-term compounding impact of grassroots environmental philanthropy.",
+      "brief": "An American teacher's $5,000 donation made in 1999 has successfully transformed into a thriving 50,000-tree forest battling desertification in China.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/in-1999-an-american-teacher-gave-5000-to-a-chinese-woman-fighting-a-desert-27-years-later-they-reunited-in-tears-after-her-trees-grew-into-a-50000-tree-forest/articleshow/133474143.cms",
+      "dateLocation": "2026-08-24 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
