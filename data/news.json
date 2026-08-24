@@ -1,147 +1,129 @@
 {
-  "lastUpdated": "2026-08-24T06:52:07.631Z",
+  "lastUpdated": "2026-08-24T12:42:30.338Z",
   "ticker": [
-    "US Treasury unveils major economic sanctions against Iran.",
-    "Delhi issues red alert following severe monsoon rainfall.",
-    "Gold prices surge to a three-month high ahead of Fed speech.",
-    "New Zealand moves to introduce a social media ban for under-16s.",
-    "Bank unions across India announce upcoming nationwide strikes."
+    "TCS buys Porsche IT unit for $373 million",
+    "Gold climbs to three-month high amid US inflation wait",
+    "Gurugram issues work-from-home advisory due to heavy rains",
+    "Supreme Court declares right to walk a fundamental right",
+    "India, Russia hold high-level talks on bilateral ties"
   ],
   "articles": [
     {
-      "headline": "US Moves to Impose Major Economic Sanctions on Iran",
-      "whyItMatters": "Escalating tensions threaten global crude oil supply stability and macroeconomic markets.",
-      "brief": "The US Treasury has initiated heavy economic measures aimed at cutting Iran off from international financial networks, driving ripples through global energy sectors.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/entering-the-endgame-us-treasury-secy-bessent-says-economic-d-day-begins-against-iran/articleshow/133448842.cms",
-      "dateLocation": "August 24, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "TCS Acquires Porsche's IT Unit for $373 Million",
+      "whyItMatters": "Expands TCS's automotive technology footprint in Europe significantly.",
+      "brief": "Tata Consultancy Services is acquiring Porsche's IT unit for an enterprise value of $373 million, strengthening its strategic enterprise solutions portfolio in Europe.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
+      "dateLocation": "August 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Placed on Red Alert Following Heavy Rains",
-      "whyItMatters": "Severe urban flooding disrupts major transit corridors and daily economic activity in the capital.",
-      "brief": "Intense monsoon downpours triggered a red alert from the India Meteorological Department, causing widespread waterlogging and major traffic snarls across Delhi-NCR.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/delhi-sees-change-in-weather-as-heavy-rain-pounds-capital-clogs-roads-and-streets-imd-alert-11787551434460.html",
-      "dateLocation": "August 24, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Hits Three-Month High Ahead of Fed Speech",
-      "whyItMatters": "Precious metals rally as investors seek safe havens amid shifting global monetary policies.",
-      "brief": "Gold prices climbed to a multi-month peak driven by investor caution ahead of upcoming US inflation data and Federal Reserve leadership remarks.",
+      "headline": "Gold Climbs to Three-Month High",
+      "whyItMatters": "Reflects growing market anxiety ahead of crucial US inflation data.",
+      "brief": "Gold prices rose to a more than three-month high as global investors hold positions and await key economic inflation indicators from the United States.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
       "dateLocation": "August 24, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "New Zealand Proposes Social Media Ban Under-16",
-      "whyItMatters": "Pioneering legislation sparks global debate regarding minors' digital safety and government overreach.",
-      "brief": "New Zealand's government is set to introduce a bill prohibiting children under 16 from accessing social media platforms, drawing criticism from coalition partners.",
+      "headline": "Xiaomi Partners with TSMC for New Xring Chip",
+      "whyItMatters": "Enhances Xiaomi's proprietary hardware capabilities through elite semiconductor partnerships.",
+      "brief": "Xiaomi has launched its new Xring chip and secured a strategic manufacturing partnership with TSMC to produce the advanced mobile silicon components.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/world/new-zealand-to-introduce-bill-banning-social-media-for-children-under-16-coalition-partners-call-it-slippery-slope-11787545988318.html",
-      "dateLocation": "August 24, 2026 | Wellington",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5",
+      "dateLocation": "August 24, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Bank Unions Announce Nationwide September Strikes",
-      "whyItMatters": "Industrial action could temporarily disrupt routine banking services and commercial credit processing nationwide.",
-      "brief": "Major bank employee unions have announced a series of all-India strikes throughout September, threatening potential escalation into indefinite shutdowns by late October.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/wealth/save/bank-strike-dates-2026-bank-unions-announce-all-india-strikes-in-september-indefinite-strike-from-october-26-know-why/articleshow/133453442.cms",
-      "dateLocation": "August 24, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Alibaba Launches Wan3.0 AI Video Model",
+      "whyItMatters": "Intensifies global competition in generative artificial intelligence video generation tools.",
+      "brief": "Alibaba has officially launched its advanced Wan3.0 AI video model following a major $10 billion share sale, targeting enterprise and consumer markets.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
+      "dateLocation": "August 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rishabh Pant Breaks Away Test Record for India",
-      "whyItMatters": "Marks a historic statistical milestone for Indian wicketkeepers competing in overseas red-ball fixtures.",
-      "brief": "Rishabh Pant surpassed MS Dhoni to become India's leading run-scorer for wicketkeepers in away Test matches following a resilient batting display.",
+      "headline": "Supreme Court Declares Walking on Footpaths a Fundamental Right",
+      "whyItMatters": "Pushes urban planning bodies to prioritize pedestrian infrastructure and remove illegal encroachments.",
+      "brief": "The Supreme Court declared the right to walk carefree on footpaths a fundamental right, directing states and union territories to enforce encroachment-free pedestrian zones.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-declares-the-right-to-walk-carefree-on-footpaths-a-fundamental-right/article71121451.ece",
+      "dateLocation": "August 24, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Chidambaram Critiques One Nation, One Election Proposal",
+      "whyItMatters": "Highlights deep political resistance against sweeping electoral reforms in federal systems.",
+      "brief": "Senior political figures have strongly criticized the 'One Nation, One Election' initiative during parliamentary committee discussions, calling the framework impractical and structurally flawed.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/monstrous-mindless-chidambaram-criticises-one-nation-one-election-plan-at-house-panel-meet/articleshow/133464380.cms",
+      "dateLocation": "August 24, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gurugram Advises WFH Amid Heavy Rains and Waterlogging",
+      "whyItMatters": "Disrupts corporate operations and highlights urban infrastructure vulnerabilities during monsoon season.",
+      "brief": "The Gurugram district administration issued a work-from-home advisory for corporate and government offices while shifting schools to online classes due to severe waterlogging.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/gurgaon-water-logging-today-school-offices-closed-wfh-tomorrow-august-25-check-advisory-11787570023519.html",
+      "dateLocation": "August 24, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iranian Oil Cargoes Dry Up Ahead of US Sanctions",
+      "whyItMatters": "Tightens global crude supplies and forces Asian refiners to look for alternatives.",
+      "brief": "Iranian oil shipments to Asia have plummeted as tightening US pressure and geopolitical threats disrupt supplies, forcing Chinese independent refiners into a supply crunch.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/iran-oil-cargoes-dry-up-even-before-us-acts-on-tehran-threats-chinas-teapots-face-crunch-11787564402999.html",
+      "dateLocation": "August 24, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cricket Captains Appeal to Pakistan PM Over Imran Khan's Health",
+      "whyItMatters": "Brings international sports diplomacy into discussions concerning political prisoner welfare.",
+      "brief": "Twenty-two former international cricket captains, including Kapil Dev and Sunil Gavaskar, have written to Pakistan's Prime Minister urging proper medical attention for Imran Khan.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-surpasses-ms-dhoni-becomes-first-india-wicketkeeper-to-score-2500-away-test-runs/articleshow/133453359.cms",
-      "dateLocation": "August 24, 2026 | Colombo",
+      "sourceUrl": "https://www.livemint.com/news/world/kapil-dev-sunil-gavaskar-among-former-22-cricket-captains-wrote-letter-to-pakistan-pm-over-imran-khans-health-11787556548332.html",
+      "dateLocation": "August 24, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Swine Flu Alert Issued Across Delhi Hospitals",
-      "whyItMatters": "Public health advisory underscores the ongoing monitoring of seasonal respiratory viral strains.",
-      "brief": "Indian Council of Medical Research scientists issued a health advisory regarding circulating H1N1 influenza strains, confirming current vaccines remain effective.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/swine-flu-h1n1-alert-delhi-know-all-about-influenza-vaccines-and-protection-against-11787549130526.html",
-      "dateLocation": "August 24, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Dhruv Jurel Shines with Century in Colombo Test",
+      "whyItMatters": "Secures India's middle-order depth during a critical overseas Test match series.",
+      "brief": "Wicketkeeper-batter Dhruv Jurel delivered a brilliant century in Colombo, helping anchor India's first innings total to 503 for 9 in challenging conditions.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dhruv-shines-bright-in-gloomy-colombo-makes-his-opportunity-count-with-a-sublime-century/articleshow/133464711.cms",
+      "dateLocation": "August 24, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nevada Wildfire Forces Thousands to Evacuate",
-      "whyItMatters": "Extreme weather events continue to devastate US infrastructure and strain emergency response networks.",
-      "brief": "A fast-moving wildfire northwest of Reno has burned over 13,000 acres, injuring six people and prompting mass evacuations amid dry seasonal conditions.",
+      "headline": "Jaishankar Meets Putin in Moscow to Strengthen Bilateral Ties",
+      "whyItMatters": "Maintains strategic diplomatic alignment amid shifting global geopolitical pressures.",
+      "brief": "External Affairs Minister S. Jaishankar met with Russian President Vladimir Putin in Moscow to discuss deeper bilateral cooperation and evolving international developments.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/nevada-wildfire-leaves-six-injured-thousands-forced-to-evacuate-heres-why-fires-are-surging-across-the-us-11787549221374.html",
-      "dateLocation": "August 24, 2026 | Reno",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/jaishankar-meets-putin-in-moscow-discusses-bilateral-ties-and-global-developments/articleshow/133464285.cms",
+      "dateLocation": "August 24, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tamil Nadu Expands Free Bus Travel for Women",
-      "whyItMatters": "Major welfare expansion impacts public transport logistics and state fiscal subsidy allocations.",
-      "brief": "Chief Minister Vijay announced the expansion of free bus travel for women to deluxe and mofussil services, effective from October 2.",
+      "headline": "India Rejects US Envoy's Comments on Modi-Trump Meeting",
+      "whyItMatters": "Clarifies protocol procedures surrounding high-level diplomatic media interactions.",
+      "brief": "New Delhi stated that pre-arranging media interaction parameters is standard diplomatic protocol, responding to a US envoy's remark about a lack of press questions.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-announces-expansion-of-free-bus-travel-for-women-in-deluxe-mofussil-buses/article71383426.ece",
-      "dateLocation": "August 24, 2026 | Chennai",
+      "sourceUrl": "https://www.livemint.com/news/india/normal-practice-india-reacts-to-us-envoys-mea-sought-no-questions-remark-on-modi-trump-meet-11787568624524.html",
+      "dateLocation": "August 24, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Boarding Pass Stamping at Immigration to End September 1",
-      "whyItMatters": "Streamlines international departure clearances and reduces congestion at major Indian airports.",
-      "brief": "The Bureau of Immigration announced that physical stamping of boarding passes will be discontinued starting September 1 to accelerate processing times.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/starting-september-1-stamping-of-boarding-passes-for-immigration-clearance-will-be-discontinued-why-bureau-of-immigration-has-introduced-the-change/articleshow/133451171.cms",
-      "dateLocation": "August 24, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Government to Tighten Vehicle Headlight Regulations",
-      "whyItMatters": "New safety norms aim to curb highway accidents caused by blinding high-intensity vehicle lighting.",
-      "brief": "The central government is moving to enforce stricter manufacturing and usage regulations on high-intensity automotive lighting across vehicles.",
+      "headline": "Boarding Pass Stamping for Immigration to End September 1",
+      "whyItMatters": "Streamlines departure processes at Indian airports through digital transformation.",
+      "brief": "The Bureau of Immigration announced that physical stamping of boarding passes for international departures will be discontinued starting September 1 to improve efficiency.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/new-headlight-rules-coming-soon-what-bike-riders-vehicle-owners-need-to-know-as-govt-plans-to-tighten-high-intensity-light-norms/articleshow/133452689.cms",
-      "dateLocation": "August 24, 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/starting-september-1-stamping-of-boarding-passes-for-immigration-clearance-will-be-discontinued-why-bureau-of-immigration-has-introduced-the-change/articleshow/133451171.cms",
+      "dateLocation": "August 24, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Third Wave Coffee Secures Rs 408 Crore Funding",
-      "whyItMatters": "Demonstrates sustained venture capital confidence in India's organized quick-service cafe and beverage sector.",
-      "brief": "Specialty coffee chain Third Wave Coffee raised Rs 408 crore in a fresh funding round led by WestBridge Capital to fuel expansion.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/funding/third-wave-coffee-raises-rs-408-crore-in-round-led-by-westbridge-capital/articleshow/133452957.cms",
-      "dateLocation": "August 24, 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Former Diplomat Criticizes Punjab 'Mismatch' Verification Notices",
-      "whyItMatters": "Raises fundamental questions about administrative citizenship verification procedures for long-standing public servants.",
-      "brief": "A former Indian diplomat raised public concerns over procedural hurdles in citizenship verification notices issued in Punjab, sparking political debate.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/punjab/former-diplomat-raises-concerns-over-sir-in-punjab-over-mismatch-notice/article71383418.ece",
-      "dateLocation": "August 24, 2026 | Chandigarh",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Landslide at Guinea Landfill Leaves 30 Dead",
-      "whyItMatters": "Highlights systemic urban waste management failures and municipal safety hazards in developing regions.",
-      "brief": "A tragic landslide at a major municipal landfill in Guinea resulted in 30 fatalities, prompting emergency government response efforts.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTdhSU5pTjdVYUdWZnhGczIwbG0yYW1DZldpTDJHSkdzUFFrejlibXBSTVJIeFhQZndMd1VRUXUzSnU0MmN5UHhvV3ZuSUU5aGJVbncyb0JUcUl0RTV5XzRQTG9tZ1Y2Um41dGZ3LV9rUmdaSmstdUVyRE5NWGI3NjdWNUJ5a0xXdUJ0MGx2TENSQmR4Szd6SWYzWHZqdC1tYXhTR194aFQ1V1E?oc=5",
-      "dateLocation": "August 24, 2026 | Conakry",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "CJI Clarifies Legal Recourse in NEET Protest Probes",
-      "whyItMatters": "Ensures targeted, sensitive institutional mechanisms for addressing molestation grievances during civil demonstrations.",
-      "brief": "The Supreme Court clarified that female protestors alleging police misconduct during NEET demonstrations can approach the designated inquiry panel.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/women-protestors-can-approach-panel-probing-neet-protest-violence-with-complaints-of-sexual-molestation-against-police-cji/article71383369.ece",
-      "dateLocation": "August 24, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
