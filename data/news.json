@@ -1,102 +1,138 @@
 {
-  "lastUpdated": "2026-08-25T01:04:28.530Z",
+  "lastUpdated": "2026-08-25T12:40:52.367Z",
   "ticker": [
     "India plans maiden tokenised bond issue in September",
-    "US pressures global financial systems over Iran ties",
-    "Canada prepares retaliatory tariffs against United States",
-    "India overtakes China in premium aviation demand",
-    "Oil tanker disabled off Oman following projectile strike"
+    "China's Xi Jinping to visit India for BRICS summit",
+    "Elon Musk addresses SpaceXAI challenges after Cursor acquisition",
+    "Delhi HC blocks FSSAI from cancelling ITC license",
+    "US announces new Iran sanctions under Operation Economic Outcast"
   ],
   "articles": [
     {
-      "headline": "India Plans First Tokenised Bond Issue in September",
-      "whyItMatters": "Signals a major leap for blockchain integration within India's sovereign debt markets.",
-      "brief": "Sources reveal India is preparing its inaugural tokenised bond issue for September, marking a significant shift toward digital asset adoption in national finance.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnh6dzlUek5ZZm9GTmRDSXJwMGNWZUxrOWQ1R2RXVUNUVHJwMmltRnI1ODVnUmQwc2xqLXJzZTNWUjhZTldEOXNtaFcycHVSX1Nya0c3YU02dUZWMGszM2lKMWstWVdLc2hKOGQ5WFJtcU0zanZHMzdCcFN0b2RLV1VUTFpXcHppdGVpVC0wR2U2MVYtS3k2VTFEZHBKVXk3MVE0UQ?oc=5",
-      "dateLocation": "Aug 25, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "TCS Acquires Porsche IT Unit in $1.46B Deal",
-      "whyItMatters": "Demonstrates expanding Indian tech dominance within elite European automotive digital ecosystems.",
-      "brief": "Tata Consultancy Services has secured a five-year deal worth $1.46 billion to acquire Porsche's IT unit, strengthening its footprint in global automotive technology.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
-      "dateLocation": "Aug 25, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Faces Weakest Monsoon in Two Decades",
-      "whyItMatters": "Threatens agricultural output, rural demand, and inflationary stability across the wider economy.",
-      "brief": "Strengthening El Nino conditions have triggered the weakest Indian monsoon in nearly twenty years, raising critical concerns for food security and rural income.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzliTE5yVGRCakVJMFExWkNwa3BnZnZyTmZwaVpEdkJEbnJ5UDN3d2FGblZoUE1fLWRxdXlaalkwQ0tZaFE1QXNZN0VwVTJLaVVHZi05MmkxQTh1eTBuOXNXT190WE1KSGlDNmZPck43b3BONUF4SV9mYTBDSjdPY0pZbE1oejdmdTBLVkFjYmhXYks5TUR0ZWx1anViUjh5WGJ5d3VJR1M1X1Z5a0tjUWhEUFd5SHpKdTRxMHlDVDQ?oc=5",
-      "dateLocation": "Aug 25, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Proposes H-1B Visa Fee Hike to $100,000",
-      "whyItMatters": "Fundamentally reshapes corporate migration strategies and talent acquisition pipelines for Indian tech professionals.",
-      "brief": "The United States has proposed an unprecedented surge in H-1B visa fees to over $100,000, sending shockwaves through international labor and immigration circles.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUNFdFotRlVQMW9Kblp4d3ZxY3dwUTZGZzV6X3ZRRl9IendhZm81LTFRSHlLclpFbHlRN2NUSDBIdjRseGEzcUVXTVh2Xy1OU2N1YUFtS0x4WXZyTEhiY1lkcngtRkhWMXlFZzRmVDdqYzFmR29IRU1JR2haamhhMGpmVnNVN0VRSGxkWjFuZEdPZS0xM1E0RjF1UWQtdw?oc=5",
-      "dateLocation": "Aug 25, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Demands Global Isolation of Iran Financial Systems",
-      "whyItMatters": "Imposes severe secondary compliance pressures on major Asian buyers like China and India.",
-      "brief": "The Trump administration has escalated its economic asphyxiation campaign, warning international partners to sever financial ties with Tehran or face global exclusion.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/trump-tightens-iran-squeeze-hurting-china-and-india-in-the-process/articleshow/133473369.cms",
-      "dateLocation": "Aug 25, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Canada Prepares Retaliatory Tariffs Against United States",
-      "whyItMatters": "Deepens transatlantic trade tensions and forces Canadian policy shifts toward strategic protection.",
-      "brief": "Canadian officials announced plans to unveil targeted retaliatory tariffs against the US, aiming to protect domestic workers rather than match US levies dollar-for-dollar.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/canada-will-announce-retaliatory-tariffs-against-us-on-august-25-official-say/article71386372.ece",
-      "dateLocation": "Aug 25, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Rolls Out National Organ Swap Registry Framework",
-      "whyItMatters": "Streamlines critical healthcare logistics by enabling automated cross-hospital matching for incompatible organ pairs.",
-      "brief": "India's first national organ swap framework aims to accelerate transplants and eliminate fragmented manual exchanges through centralized registries and faster approvals.",
+      "headline": "Big Food Fights Back Against India's Red Flag Warning",
+      "whyItMatters": "Highlights corporate pushback against public health regulations on packaged foods and beverages.",
+      "brief": "Food and beverage giants heavily resisted India's proposed red flag warnings on chip packets and sugary sodas, seeking to block stringent health labeling initiatives.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/organ-swap-registry-sops-transplants-kidney-liver-health-hospitals-healthcare-testing-surgeries-waitlist-11787566296597.html",
-      "dateLocation": "Aug 25, 2026 | LiveMint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmJzNHBHdF9hWEg5U1RHTDFPUy1zZ2pfWk1wamVfOUpRMGFJUDl2UHg1dC1RLTdwUzBsWldvTHlaak1TWXYtQWFkbEQzNVJ1bzdScmJhcVVETVhVTExGa1FVYmdwQkRWMGt5aGRmTEoxNGk5X3VXWm9zRmNGZjJBQ2V2Uk40Zmtnb2VxVTA2Z1lNdkcyRjJ6NzJwQ2pCd3hBcW1UQXd4TXhIRThYbWc?oc=5",
+      "dateLocation": "2026-08-25 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Overtakes China in Premium Intercontinental Aviation Demand",
-      "whyItMatters": "Highlights a major structural shift in global aviation markets and long-haul carrier focus.",
-      "brief": "Lufthansa executives confirm that India has officially surpassed China in premium intercontinental demand, signaling robust long-haul growth within the South Asian market.",
+      "headline": "India Plans First Tokenised Bond Issue in September",
+      "whyItMatters": "Marks a significant milestone in India's adoption of blockchain technology for sovereign debt management.",
+      "brief": "According to sources, India is gearing up to launch its very first tokenised bond issue in September, aimed at modernising financial market infrastructure.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnh6dzlUek5ZZm9GTmRDSXJwMGNWZUxrOWQ1R2RXVUNUVHJwMmltRnI1ODVnUmQwc2xqLXJzZTNWUjhZTldEOXNtaFcycHVSX1Nya0c3YU02dUZWMGszM2lKMWstWVdLc2hKOGQ5WFJtcU0zanZHMzdCcFN0b2RLV1VUTFpXcHppdGVpVC0wR2U2MVYtS3k2VTFEZHBKVXk3MVE0UQ?oc=5",
+      "dateLocation": "2026-08-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Volkswagen CEO Faces Angry Workers Over Radical Cuts",
+      "whyItMatters": "Reflects mounting labor friction in Europe's industrial sector as major automakers restructure.",
+      "brief": "Volkswagen's CEO faced intense backlash from angry workers during a stormy meeting centered around aggressive cost-cutting measures and structural changes.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/india-overtakes-china-in-premium-intercontinental-demand-lufthansa-exec-long-haul-growth/articleshow/133476856.cms",
-      "dateLocation": "Aug 25, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjR2TGludXI2SElaQkVfeXhPUWVqZTdMVWg3RldzWmFQVklWcUFqYVFBaVB6cFdZYWxiVm1iS1NQSG9SMGxhMDdLcENTaHphTUR3NWM4enNBLXJTQkdiZm1aazRFR3lfUnhvZUtNbzA1a0FDNDJUdGVkdXhfVEYwbjdyVFl4R0hKYTU1S1pRY25lOGM1bGNpQTNGbmNubFNNb3c3U0xqRldJb1dMRXFrS1d3?oc=5",
+      "dateLocation": "2026-08-25 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Moves to Levy Additional 7.5% Tariff on China",
-      "whyItMatters": "Escalates trade friction over excess manufacturing capacities and cheap export floods.",
-      "brief": "Donald Trump is advancing a new 7.5% tariff targeting Chinese goods to counter market flooding, raising cumulative punitive trade duties significantly.",
+      "headline": "German Broker Scalable Opens Platform to AI Chatbots",
+      "whyItMatters": "Bridges mainstream retail investing with generative artificial intelligence tools for automated financial insights.",
+      "brief": "German online broker Scalable has integrated its investment platform with major AI chatbots, allowing users to leverage advanced natural language interfaces.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpZeUtQSDRXMTRtRVRoVnV6b05vcjFKV055QmVsb2ZGZFVJOGl3eTF2QUsyTWlfZXE2OV9MdHgyX2RaM1BCY09yYkVCOGFuVS11QnI0UDZtd1FOWVhFak5uZlpNS0ExSVRyZU9BZXZSMnN4QS1SUUszdkZpa0F1ZXl6OUUwam43WEhqbXZRYjZKZUVMSnJtNG90MWRKRVF5XzcyQjJ5M1VjX2kxNVZjWmlLZUFyS3FUYjMw?oc=5",
+      "dateLocation": "2026-08-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi HC Blocks FSSAI From Cancelling ITC's Atta License",
+      "whyItMatters": "Protects major corporate brands from abrupt regulatory overreach regarding product claims.",
+      "brief": "The Delhi High Court stopped the FSSAI from cancelling ITC's license over '100%' claims on Aashirvaad atta, scrutinising the regulator's jurisdictional bounds.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-hc-stops-fssai-from-cancelling-itc-licence-over-100-per-cent-claims-on-aashirvaad-atta-11787660901635.html",
+      "dateLocation": "2026-08-25 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Targets Iran With New 'Economic Outcast' Sanctions",
+      "whyItMatters": "Tightens global financial enforcement on entities trading with Iran, impacting broader international trade routes.",
+      "brief": "US Treasury Secretary Scott Bessent announced new sanctions targeting nearly 60 entities involved in Iran trade under Operation Economic Outcast.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/trump-moves-toward-levying-new-tariff-on-china-for-flooding-market-with-cheap-goods/article71386345.ece",
-      "dateLocation": "Aug 25, 2026 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/world/why-china-matters-to-trump-s-new-iran-sanctions-and-how-economic-outcast-can-impact-india-11787655155187.html",
+      "dateLocation": "2026-08-25 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Tanker Disabled Off Oman Following Projectile Strike",
-      "whyItMatters": "Heightens maritime security risks in critical Middle Eastern energy transit chokepoints.",
-      "brief": "UKMTO reported that an oil tanker was struck by an unidentified projectile near the Strait of Hormuz, leaving the vessel disabled though the crew remains safe.",
+      "headline": "Supreme Court Upholds 1978 'Industry' Definition for Disputes",
+      "whyItMatters": "Provides legal certainty for pending labor disputes across non-profits, educational institutions, and employers.",
+      "brief": "The Supreme Court ruled that pending labor disputes will continue relying on the 1978 definition of 'industry' rather than newer codes.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/mint-explainer-supreme-court-s-industry-ruling-what-changes-for-workers-and-employers-11787643570727.html",
+      "dateLocation": "2026-08-25 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Elon Musk Admits SpaceXAI Behind Rival Anthropic",
+      "whyItMatters": "Signals intense competition and self-reflection at the highest levels of the generative AI market.",
+      "brief": "Addressing engineers after acquiring Cursor, Elon Musk candidly admitted that SpaceXAI has fallen behind market leaders, praising rival Anthropic instead.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-message-to-cursors-1000-plus-engineers-after-the-60-billion-takeover-we-are-behind-and-the-company-beating-us-is-/articleshow/133505068.cms",
+      "dateLocation": "2026-08-25 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China's Xi Jinping to Visit India With 400-Member Delegation",
+      "whyItMatters": "Indicates a major diplomatic push to mend bilateral relations and foster high-level engagement at BRICS.",
+      "brief": "Chinese President Xi Jinping is scheduled to arrive in New Delhi with a massive 400-member delegation for the upcoming BRICS summit.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-iran-war-latest-news-live-updates-ukmto-projectile-strait-of-hormuz-donald-trump-economic-sanctions-tariffs-bessent-11787615238248.html",
-      "dateLocation": "Aug 25, 2026 | LiveMint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/chinas-xi-jinping-to-visit-india-with-400-member-delegation-for-brics-report/articleshow/133503024.cms",
+      "dateLocation": "2026-08-25 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Allahabad HC Rules Hijab Not Essential Part of Islam",
+      "whyItMatters": "Reinforces judicial precedent regarding dress codes and religious practices inside educational institutions.",
+      "brief": "The Allahabad High Court rejected a student's plea to wear a hijab with school uniforms, ruling it is not an essential part of Islam.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/headscarf-not-an-essential-part-of-islam-allahabad-hc-rejects-students-plea-to-wear-hijab-with-school-uniform/articleshow/133506045.cms",
+      "dateLocation": "2026-08-25 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court to Form Special Bench for OBC Creamy Layer",
+      "whyItMatters": "Addresses complex reservation policies and socio-economic criteria in government recruitment and admissions.",
+      "brief": "The Supreme Court has agreed to constitute a special bench to thoroughly examine legal matters surrounding the OBC creamy layer.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/obc-creamy-layer-case-supreme-court-agrees-to-constitute-special-bench/articleshow/133506226.cms",
+      "dateLocation": "2026-08-25 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "South Africa's SA20 League Generates $406 Million GDP Boost",
+      "whyItMatters": "Demonstrates the immense economic and employment value of franchise cricket leagues outside traditional hubs.",
+      "brief": "The fourth season of South Africa's SA20 cricket tournament contributed $406 million to the GDP while supporting thousands of local jobs.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/south-africa-sa20-season-4-406-million-economic-boost-gdp-contribution-9470-jobs/articleshow/133504181.cms",
+      "dateLocation": "2026-08-25 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Struggle to Finish Sri Lanka Tail in Colombo Test",
+      "whyItMatters": "Keeps the second Test alive as lower-order resilience shifts momentum on day three.",
+      "brief": "Resistive lower-order batting from Sri Lanka's Sonal Dinusha and Pasindu Sooriyabandara frustrated Indian bowlers, leaving the hosts trailing by 38 runs.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/2nd-test-india-struggle-to-finish-off-tail-as-sonal-dinusha-pasindu-sooriyabandara-lead-sri-lanka-resistance/articleshow/133510507.cms",
+      "dateLocation": "2026-08-25 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hungary Files Report on $964M Pandemic Ventilator Deals",
+      "whyItMatters": "Sheds light on controversial government procurement procedures during the height of the global health crisis.",
+      "brief": "Hungary's foreign ministry officially filed a detailed report regarding high-value, pandemic-era ventilator procurement contracts totalling $964 million.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNU1xVDJwdF9yZUhlU0F1S3pqQmVZN1BMd3JkRTd0TUk5ajN4a25NVWIzTnBRU3JOaFNCekJob2kycmxPMmdMX3pTMVhDdTU5T1g2aGxPNTFYSUIyczA0dWtSa1ZqTWJsN0NmeTJNUUw3YUdTMHZnb2JXZU8yREp0RC1QeXY5U0tmSUtianA3Yk5yWVZ2R3A2cUo4cmRSZ0hXLXBjMm1vYWhYZzk0cjliSWVFc1ZWZ1JaejNNUU14SERyeFpkbTB6V2hiMzUwWTlVZ0JYUlhIUHNLOFVnaFQwOA?oc=5",
+      "dateLocation": "2026-08-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
