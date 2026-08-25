@@ -1,147 +1,102 @@
 {
-  "lastUpdated": "2026-08-24T18:35:50.090Z",
+  "lastUpdated": "2026-08-25T01:04:28.530Z",
   "ticker": [
-    "US Launches 'Operation Economic Outcast' Against Iran",
-    "India Plans First Tokenised Bond Issue in September",
-    "Trump Announces Additional 7.5% Tariff on Chinese Goods",
-    "India Faces Weakest Monsoon in Nearly Two Decades",
-    "TCS Acquires Porsche's IT Unit in $1.46B Deal"
+    "India plans maiden tokenised bond issue in September",
+    "US pressures global financial systems over Iran ties",
+    "Canada prepares retaliatory tariffs against United States",
+    "India overtakes China in premium aviation demand",
+    "Oil tanker disabled off Oman following projectile strike"
   ],
   "articles": [
     {
       "headline": "India Plans First Tokenised Bond Issue in September",
-      "whyItMatters": "Marks a major milestone for India's digital asset integration in mainstream capital markets.",
-      "brief": "India is reportedly preparing to issue its first tokenised bonds this coming September, signaling a shift toward blockchain-backed sovereign instruments.",
+      "whyItMatters": "Signals a major leap for blockchain integration within India's sovereign debt markets.",
+      "brief": "Sources reveal India is preparing its inaugural tokenised bond issue for September, marking a significant shift toward digital asset adoption in national finance.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnh6dzlUek5ZZm9GTmRDSXJwMGNWZUxrOWQ1R2RXVUNUVHJwMmltRnI1ODVnUmQwc2xqLXJzZTNWUjhZTldEOXNtaHcycHVSX1Nya0c3YU02dUZWMGszM2lKMWstWVdLc2hKOGQ5WFJtcU0zanZHMzdCcFN0b2RLV1VUTFpXcHppdGVpVC0wR2U2MVYtS3k2VTFEZHBKVXk3MVE0UQ?oc=5",
-      "dateLocation": "2026-08-24 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnh6dzlUek5ZZm9GTmRDSXJwMGNWZUxrOWQ1R2RXVUNUVHJwMmltRnI1ODVnUmQwc2xqLXJzZTNWUjhZTldEOXNtaFcycHVSX1Nya0c3YU02dUZWMGszM2lKMWstWVdLc2hKOGQ5WFJtcU0zanZHMzdCcFN0b2RLV1VUTFpXcHppdGVpVC0wR2U2MVYtS3k2VTFEZHBKVXk3MVE0UQ?oc=5",
+      "dateLocation": "Aug 25, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "TCS Acquires Porsche's IT Unit in Mega Deal",
-      "whyItMatters": "Strengthens Indian tech dominance in the European automotive software engineering sector.",
-      "brief": "Tata Consultancy Services has agreed to acquire Porsche's IT unit as part of a major five-year strategic deal valued at $1.46 billion.",
+      "headline": "TCS Acquires Porsche IT Unit in $1.46B Deal",
+      "whyItMatters": "Demonstrates expanding Indian tech dominance within elite European automotive digital ecosystems.",
+      "brief": "Tata Consultancy Services has secured a five-year deal worth $1.46 billion to acquire Porsche's IT unit, strengthening its footprint in global automotive technology.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQi1WcUl5Q0FFRlRFVDN5TmtYV3dBUHpvYUhCRDJkSHdJNXotcnNMUjNMS1ljQ0VWMHJTbXQzRlZZUm91Q09oSXozRW5LZmc2V0dSdS01cVRMb3pseW0zNVUyc3RtMXJpckVVVV9yc1FDZngwV2tfaE83UWJKVnlnNHZxYVIzNG9yRzB2M0pfZ3dTa3BuWHc?oc=5",
-      "dateLocation": "2026-08-24 | Reuters",
+      "dateLocation": "Aug 25, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China's Xi Jinping Likely to Visit India Soon",
-      "whyItMatters": "Could thaw diplomatic ties between the two Asian superpowers after years of friction.",
-      "brief": "Chinese President Xi Jinping is expected to visit India with a large delegation, marking his first trip to the country in seven years.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTN3N054U1RWSGR0WVMxRlBWTi1xNTU3Q0hDSGpsQ05KbEpUWG03UU05RGlYRGFJdDBVeDduSlFRX0tqeHlKYjVwX3gxd1JfSnkySWx5NGdmRm8zOW5NT1B4dUZFVkJRM0lqYmZqdGM4a0V5bzJBUFAtM2h0d1JNWFRuRDdFX2FnVG5hejAxVEFUUEdDSXlNb3pid3RtbkpNdEpyMDZjT3daaFlockxXUTg5MUR0YWszTHpz?oc=5",
-      "dateLocation": "2026-08-24 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Launches 'Operation Economic Outcast' Against Iran",
-      "whyItMatters": "Aims to sever Iran's global financial lifelines with severe secondary economic consequences.",
-      "brief": "The United States Treasury has unveiled aggressive new sanctions targeting Tehran's financial connections and warning global partners to cut ties.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/trumps-iran-economic-d-day-more-sanctions-on-tehran-announced-but-can-china-and-india-be-brought-in-11787593508374.html",
-      "dateLocation": "2026-08-24 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Announces Additional 7.5% Tariff on Chinese Goods",
-      "whyItMatters": "Escalates global trade tensions and pressures manufacturing supply chains worldwide.",
-      "brief": "President Trump announced plans to implement an extra 7.5% tariff on Chinese goods, pushing total levies higher amid concerns over manufacturing capacity.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/trump-to-impose-7-5-percent-tariff-on-chinese-goods-raising-the-total-to-20-percent-excess-manufacturing-capacity-xi-jinping/articleshow/133475946.cms",
-      "dateLocation": "2026-08-24 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Faces Weakest Monsoon in Nearly Two Decades",
-      "whyItMatters": "Threatens agricultural output, rural income levels, and broader economic growth metrics.",
-      "brief": "Driven by a strengthening El Nino pattern, India is experiencing its weakest monsoon season in almost twenty years, raising food inflation concerns.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/india-faces-weakest-monsoon-in-nearly-two-decades-as-el-nino-strengthens/articleshow/133471815.cms",
-      "dateLocation": "2026-08-24 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "RBI Forex Swap Facility Mobilises $73 Billion",
-      "whyItMatters": "Provides a crucial currency buffer for India's financial system against global market volatility.",
-      "brief": "The Reserve Bank of India successfully mobilized $73 billion via its forex swap facility, heavily driven by strong foreign currency non-resident deposits.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/rbi-forex-swap-facility-mobilises-73-billion-driven-by-65-4-billion-in-fcnr-deposits-11787590111015.html",
-      "dateLocation": "2026-08-24 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Alibaba Launches Wan3.0 AI Video Model",
-      "whyItMatters": "Intensifies the global race for advanced generative video models and enterprise AI solutions.",
-      "brief": "Alibaba has officially unveiled its Wan3.0 AI video generation model following a massive $10 billion share sale to fuel tech investments.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
-      "dateLocation": "2026-08-24 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rishabh Pant Surpasses Adam Gilchrist in Test Sixes",
-      "whyItMatters": "Solidifies his legacy as one of the most destructive wicketkeeper-batters in cricket history.",
-      "brief": "Indian cricketer Rishabh Pant broke Adam Gilchrist's record by hitting his 102nd Test six in just 52 matches during a match in Colombo.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/rishabh-pant-breaks-another-record-in-colombo-surpasses-adam-gilchrist-in-elite-six-hitting-records/articleshow/133462222.cms",
-      "dateLocation": "2026-08-24 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hockey World Cup: India Crashes Out After Defeat",
-      "whyItMatters": "Highlights recurring defensive vulnerabilities for the former champion squad on the global stage.",
-      "brief": "The Indian men's hockey team crashed out of the World Cup following a lacklustre performance and costly defensive errors against Argentina.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/hockey/hockey-world-cup-india-crashes-out-after-another-lacklustre-show/article71385784.ece",
-      "dateLocation": "2026-08-24 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IIT Kanpur Medical School Secures ₹300 Crore Funding",
-      "whyItMatters": "Boosts advanced medical research infrastructure and specialized healthcare access in northern India.",
-      "brief": "IndiGo co-founder Rakesh Gangwal has contributed an additional ₹300 crore to IIT Kanpur's medical school for a super-speciality hospital and cancer research.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/iit-kanpurs-gangwal-school-of-medical-sciences-gets-300-crore-additional-funds-from-indigo-co-founder-rakesh-gangwal-11787593139139.html",
-      "dateLocation": "2026-08-24 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Crackdown on Spurious Paneer Uncovers Food Safety Risks",
-      "whyItMatters": "Exposes rampant food adulteration practices posing significant public health hazards across states.",
-      "brief": "Food safety authorities across multiple Indian states have launched major raids, destroying hundreds of kilograms of counterfeit analogue paneer.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/508-kg-spurious-paneer-destroyed-at-okhla-mandi/article71386112.ece",
-      "dateLocation": "2026-08-24 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rahul Gandhi Adopts New Gen-Z Outreach Strategy",
-      "whyItMatters": "Signals a notable evolution in opposition political tactics ahead of upcoming electoral battles.",
-      "brief": "Congress leader Rahul Gandhi is shifting his political playbook by combining surprise street protests with targeted digital outreach directed at younger voters.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/surprise-protests-genz-outreach-rahul-gandhis-new-playbook-after-cjps-success/articleshow/133470581.cms",
-      "dateLocation": "2026-08-24 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BJP to Contest Punjab Polls Solo Without SAD Alliance",
-      "whyItMatters": "Reshapes the regional political landscape and forces independent electoral strategies in Punjab.",
-      "brief": "Senior BJP leader BL Santosh confirmed that the party will contest future Punjab assembly elections independently, dropping plans for an alliance with SAD.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/no-alliance-with-sad-bl-santosh-says-bjp-to-go-solo-in-punjab-polls/articleshow/133473542.cms",
-      "dateLocation": "2026-08-24 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "General News Brief: US Teacher's Gift Grows Into Forest",
-      "whyItMatters": "Demonstrates the long-term compounding impact of grassroots environmental philanthropy.",
-      "brief": "An American teacher's $5,000 donation made in 1999 has successfully transformed into a thriving 50,000-tree forest battling desertification in China.",
+      "headline": "India Faces Weakest Monsoon in Two Decades",
+      "whyItMatters": "Threatens agricultural output, rural demand, and inflationary stability across the wider economy.",
+      "brief": "Strengthening El Nino conditions have triggered the weakest Indian monsoon in nearly twenty years, raising critical concerns for food security and rural income.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/in-1999-an-american-teacher-gave-5000-to-a-chinese-woman-fighting-a-desert-27-years-later-they-reunited-in-tears-after-her-trees-grew-into-a-50000-tree-forest/articleshow/133474143.cms",
-      "dateLocation": "2026-08-24 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzliTE5yVGRCakVJMFExWkNwa3BnZnZyTmZwaVpEdkJEbnJ5UDN3d2FGblZoUE1fLWRxdXlaalkwQ0tZaFE1QXNZN0VwVTJLaVVHZi05MmkxQTh1eTBuOXNXT190WE1KSGlDNmZPck43b3BONUF4SV9mYTBDSjdPY0pZbE1oejdmdTBLVkFjYmhXYks5TUR0ZWx1anViUjh5WGJ5d3VJR1M1X1Z5a0tjUWhEUFd5SHpKdTRxMHlDVDQ?oc=5",
+      "dateLocation": "Aug 25, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Proposes H-1B Visa Fee Hike to $100,000",
+      "whyItMatters": "Fundamentally reshapes corporate migration strategies and talent acquisition pipelines for Indian tech professionals.",
+      "brief": "The United States has proposed an unprecedented surge in H-1B visa fees to over $100,000, sending shockwaves through international labor and immigration circles.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUNFdFotRlVQMW9Kblp4d3ZxY3dwUTZGZzV6X3ZRRl9IendhZm81LTFRSHlLclpFbHlRN2NUSDBIdjRseGEzcUVXTVh2Xy1OU2N1YUFtS0x4WXZyTEhiY1lkcngtRkhWMXlFZzRmVDdqYzFmR29IRU1JR2haamhhMGpmVnNVN0VRSGxkWjFuZEdPZS0xM1E0RjF1UWQtdw?oc=5",
+      "dateLocation": "Aug 25, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Demands Global Isolation of Iran Financial Systems",
+      "whyItMatters": "Imposes severe secondary compliance pressures on major Asian buyers like China and India.",
+      "brief": "The Trump administration has escalated its economic asphyxiation campaign, warning international partners to sever financial ties with Tehran or face global exclusion.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/trump-tightens-iran-squeeze-hurting-china-and-india-in-the-process/articleshow/133473369.cms",
+      "dateLocation": "Aug 25, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Canada Prepares Retaliatory Tariffs Against United States",
+      "whyItMatters": "Deepens transatlantic trade tensions and forces Canadian policy shifts toward strategic protection.",
+      "brief": "Canadian officials announced plans to unveil targeted retaliatory tariffs against the US, aiming to protect domestic workers rather than match US levies dollar-for-dollar.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/canada-will-announce-retaliatory-tariffs-against-us-on-august-25-official-say/article71386372.ece",
+      "dateLocation": "Aug 25, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Rolls Out National Organ Swap Registry Framework",
+      "whyItMatters": "Streamlines critical healthcare logistics by enabling automated cross-hospital matching for incompatible organ pairs.",
+      "brief": "India's first national organ swap framework aims to accelerate transplants and eliminate fragmented manual exchanges through centralized registries and faster approvals.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/organ-swap-registry-sops-transplants-kidney-liver-health-hospitals-healthcare-testing-surgeries-waitlist-11787566296597.html",
+      "dateLocation": "Aug 25, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Overtakes China in Premium Intercontinental Aviation Demand",
+      "whyItMatters": "Highlights a major structural shift in global aviation markets and long-haul carrier focus.",
+      "brief": "Lufthansa executives confirm that India has officially surpassed China in premium intercontinental demand, signaling robust long-haul growth within the South Asian market.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/india-overtakes-china-in-premium-intercontinental-demand-lufthansa-exec-long-haul-growth/articleshow/133476856.cms",
+      "dateLocation": "Aug 25, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Moves to Levy Additional 7.5% Tariff on China",
+      "whyItMatters": "Escalates trade friction over excess manufacturing capacities and cheap export floods.",
+      "brief": "Donald Trump is advancing a new 7.5% tariff targeting Chinese goods to counter market flooding, raising cumulative punitive trade duties significantly.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-moves-toward-levying-new-tariff-on-china-for-flooding-market-with-cheap-goods/article71386345.ece",
+      "dateLocation": "Aug 25, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Tanker Disabled Off Oman Following Projectile Strike",
+      "whyItMatters": "Heightens maritime security risks in critical Middle Eastern energy transit chokepoints.",
+      "brief": "UKMTO reported that an oil tanker was struck by an unidentified projectile near the Strait of Hormuz, leaving the vessel disabled though the crew remains safe.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-iran-war-latest-news-live-updates-ukmto-projectile-strait-of-hormuz-donald-trump-economic-sanctions-tariffs-bessent-11787615238248.html",
+      "dateLocation": "Aug 25, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
