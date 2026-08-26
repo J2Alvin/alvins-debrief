@@ -1,84 +1,129 @@
 {
-  "lastUpdated": "2026-08-26T06:42:20.424Z",
+  "lastUpdated": "2026-08-26T12:44:36.523Z",
   "ticker": [
-    "US pauses worldwide visa appointments",
-    "Islamabad hospital fire kills 15 infants",
-    "China and India hold border talks",
-    "SoftBank considers $20B bond sale",
-    "Russia gas complex fire claims lives"
+    "Nepal Floods: Over 100 Indians Missing, PM Modi Offers Aid",
+    "Mitchell Starc Dethrones Bumrah as No. 1 Test Bowler",
+    "ECB's Schnabel Warns Interest Rates Must Rise Further",
+    "US Army Faces Leadership Crisis Amid Hegseth's Purge",
+    "Adani Energy Wins $493M Transmission Project in Maharashtra"
   ],
   "articles": [
     {
-      "headline": "US Pauses Worldwide Visa Appointments Amid Crackdown",
-      "whyItMatters": "Drastically disrupts international travel and immigration pipelines globally.",
-      "brief": "The Trump administration has issued a worldwide pause on visa appointments as consular officers undergo new public charge evaluations and training.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-pauses-visa-appointments-worldwide-amid-trumps-immigration-crackdown-report/article71391497.ece",
-      "dateLocation": "August 26, 2026 | Washington / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tragic Hospital Fire Kills 15 Infants in Islamabad",
-      "whyItMatters": "Highlights severe public infrastructure safety failures in healthcare facilities.",
-      "brief": "At least 15 infants died in an Islamabad state hospital after an air conditioner compressor exploded, causing a massive ward fire.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/international/several-killed-infants-fire-pakistan-islamabad-hospital-updates/article71391349.ece",
-      "dateLocation": "August 26, 2026 | Islamabad / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China and India Hold Constructive Border Talks",
-      "whyItMatters": "Signals ongoing diplomatic efforts to stabilize regional geopolitical tensions.",
-      "brief": "Chinese and Indian officials met to discuss border management and agreed to continue actively pursuing a comprehensive boundary settlement.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGxzbENrTVdaU2ZycXpsaG9GWEV4dGptYVhqOEJYejJ6VWczVEhTNWMzVGt4Sk5jWUJqaTk5QUhPM01jVzllbEZZaFlWc2dRRzl2ajB0ZFFoSVVidjNJSU04eDhuczFJbXdsbW0zTDF0OHhpd1hTQXo5TEp2LW1ObWtyYzdqM1dGdnZWYXpzaXJuTzhsalJCeGQ5SHV3YTRhVnpWLVZvMTJjSGtSa0xzQ2dnNVhobHdzTUVJ?oc=5",
-      "dateLocation": "August 26, 2026 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SoftBank Mulls Massive $20B Bond Sale for OpenAI",
-      "whyItMatters": "Demonstrates aggressive, capital-intensive investments shaping the artificial intelligence landscape.",
-      "brief": "SoftBank is reportedly evaluating a massive bond sale of up to $20 billion to directly finance ongoing OpenAI expansions.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing/articleshow/133531221.cms",
-      "dateLocation": "August 26, 2026 | Tokyo / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Seven Dead and Nine Missing in Russian Gas Fire",
-      "whyItMatters": "Raises industrial safety concerns over foreign labor in hazardous energy facilities.",
-      "brief": "A deadly fire at a gas chemical complex in Russia's Amur region killed seven people, including multiple Chinese nationals, with several missing.",
+      "headline": "Adani Wins $493M Transmission Project",
+      "whyItMatters": "Expands critical energy infrastructure development in western India.",
+      "brief": "Adani Energy Solutions has secured a major $493 million power transmission project in Maharashtra, boosting regional grid capacity.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/seven-dead-nine-chinese-workers-missing-after-fire-at-gas-chemical-complex-in-russia/articleshow/133530964.cms",
-      "dateLocation": "August 26, 2026 | Moscow / Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0lyMWo1LTJ0dEtLQm55TlA5U1gwOWJiWElPVnd6WnZDaDZNM3dNbjhWSDRLajZaUUpkdklzX3dUV0U5UHRUeE13TE9pRF84Z3hBakkzWng3WDVWdE5VTllBX3Z3ck85RmRpMDNnMFI3bEdNSHRJSlFwVERPcWxjbkNZNGhsU0Y5aDBZWnIzdy1NcktLN2JpTjNCd0d4eXlZNFRSMjR6NUthZGxzd2cwV3Y5NFNIRVJYTkdtZw?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "NITI Aayog Flags Major Job Link Gaps in Degrees",
-      "whyItMatters": "Exposes structural misalignment between traditional higher education and modern employment markets.",
-      "brief": "A government report warns that millions pursuing basic degrees lack crucial industry skills, urging a shift toward public-private partnerships.",
+      "headline": "Tilaknagar Open to Another Large Deal",
+      "whyItMatters": "Indicates active consolidation and M&A trends in India's beverage sector.",
+      "brief": "Following its Imperial Blue buyout, India's Tilaknagar chairman announced the company is open to pursuing further large-scale acquisitions.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0xsMDBieklCOWp1R0Jvckp0MUtUWW0zaXhkUW5wYmJQaDFYR2x2RjhrNFloamRfZFNGWkdEVDBsRC1MTHFIemR4Q2tkTl9fY0Y4M01TWTBvZEd6d2tJZTdzUTFBSGZ0WkkzVWVlNjRLb3BoMXdwRUhMNW5ON25nQUpiZDVvUU9ZQ0NackJudGd4VUtlTWVkcUhmVnR3Z2Vjc1hMS1M1VHE4WFJ5ajVPV3NIX3RqVjVLODNtdUdQUm53a0k?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ECB's Schnabel Calls for Rate Hikes",
+      "whyItMatters": "Signals ongoing central bank vigilance against stubborn global inflation risks.",
+      "brief": "European Central Bank policymaker Schnabel stated that interest rates must rise further to combat persistent inflation risks.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/crores-pursue-ba-bcom-degrees-with-weak-job-links-niti-aayog-calls-for-structural-shifts-in-higher-education-system-11787710159703.html",
-      "dateLocation": "August 26, 2026 | New Delhi / LiveMint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi02STdIUDVtTjdzeFJKc3hzNU9Fd0VtZmpWcGFoMngwMmR4VWVTSFc1U0ZwUGxQWUFpcDdQWV9HVlJEakd1cU14a1hpVHRPN25ocEtYb29wN0pmVDRKcFhXbTF3dEJ3U0hWVGpUTE5oV3BFeWF6Y3BpSmxHWXRKV2g1WnhRdEhETG5nOUZfUjViaEFJLVdIbF85Q2ptbTVyWmg5b0NFRnk3WEFhYVV3ejZJS29OZw?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Amit Shah Urges Agencies to Eliminate Security Threats",
-      "whyItMatters": "Sets the tone for national security responses against cyber threats and radicalization.",
-      "brief": "India's Home Minister urged security agencies to proactively identify and neutralize rising geopolitical and cyber threats before escalation.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/identify-eliminate-threats-before-they-grow-big-amit-shah-urges-security-agencies/article71390304.ece",
-      "dateLocation": "August 26, 2026 | New Delhi / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "BNP Paribas and KB Kookmin Target Techcombank",
+      "whyItMatters": "Highlights major foreign institutional investment interest in Vietnamese banking.",
+      "brief": "BNP Paribas and KB Kookmin are reportedly in advanced talks to acquire a $2 billion stake in Vietnam's Techcombank.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbVZBTGZZSTJJY1BacjlsSDZsZkFtZmlpOUxuQlJLaDNIcFhJTTI2cjBlZjJIcDJGVV9heHRrbG5ud3lMQ3NPbWcwTDlscXVDVEY0Yi1aWU1Rd0x4bEpENHQ4dVUzMlVsXzNsd1B1dFlqWGN1WTZ4bjZxUzR0eFRJc0VSaEViSTlPZHBDNWROT25kNzNLNG45ckhPVTk5amJQUS1OakNoRE9TdzBuSy1kQVpDU1pONXdXcFktTl9jTm1nTTNBYi1vSXRTMA?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IRCTC Upgrades Booking Capacity to One Lakh/Minute",
-      "whyItMatters": "Resolves chronic infrastructure bottlenecks affecting millions of daily railway passengers.",
-      "brief": "Indian Railways is boosting ticket booking server capacity significantly to end persistent platform crash woes during peak hours.",
+      "headline": "Nepal Flash Floods Leave Dozens Missing",
+      "whyItMatters": "Triggers cross-border rescue efforts and heavy concern for missing citizens.",
+      "brief": "Massive flash floods in Nepal have left over 100 Indian nationals missing, prompting immediate rescue responses and emergency helplines.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tibet Mudslide Causes Major Casualties",
+      "whyItMatters": "Shows severe regional climate disruptions affecting high-altitude Himalayan communities.",
+      "brief": "A severe mudslide in Tibet's Gyirong has resulted in major casualties and extensive village destruction, according to state media.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVV5M1FBbWFmZlRFcGxHdkJPVFVwSFJ6RXNmYldLU0JQazdDZlVtZlY3UnlaX3JwQ2wtczBGQ1VnekRXMWtqNzg5Q1ZuMzM4ZDd6SVFGMTFEbFFiZWJWdDlURk9veWJKdXZJaDM3U3draktOdTBqSmtBM21lcVA0SnVXOW90X2pMR1psUUdRTDBuS0poWVVjd1FQcVhKVGsxendNaHVFLWdSX1dhcklLeA?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Army Faces Severe Leadership Crisis",
+      "whyItMatters": "Raises institutional stability concerns while active geopolitical conflicts persist.",
+      "brief": "Defense Secretary Pete Hegseth's recent officer purges have triggered a leadership void in the US Army amid ongoing security challenges.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/how-hegseths-purge-triggered-a-us-army-leadership-crisis-as-iran-war-nears-six-months/articleshow/133538231.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and China Hold Border Talks",
+      "whyItMatters": "Reflects ongoing diplomatic engagement between nuclear-armed neighbors over territorial disputes.",
+      "brief": "Chinese and Indian officials met for fresh border talks, mutually agreeing to continue seeking a lasting boundary settlement.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGxzbENrTVdaU2ZycXpsaG9GWEV4dGptYVhqOEJYejJ6VWczVEhTNWMzVGt4Sk5jWUJqaTk5QUhPM01jVzllbEZZaFlWc2dRRzl2ajB0ZFFoSVVidjNJSU04eDhuczFJbXdsbW0zTDF0OHhpd1hTQXo5TEp2LW1ObWtyYzdqM1dGdnZWYXpzaXJuTzhsalJCeGQ5SHV3YTRhVnpWLVZvMTjjSGtSa0xzQ2dnNVhobHdzTUVJ?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mitchell Starc Claims No. 1 Test Ranking",
+      "whyItMatters": "Marks a historic career milestone for the Australian fast-bowling veteran.",
+      "brief": "Australia pacer Mitchell Starc dethroned Jasprit Bumrah to become the ICC No. 1 Test bowler for the first time.",
       "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/railway-passengers-smoother-ticket-booking-is-coming-irctc-to-boost-capacity-from-37000-to-over-1-lakh-per-minute/articleshow/133531367.cms",
-      "dateLocation": "August 26, 2026 | New Delhi / Economic Times",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-dethrones-jasprit-bumrah-becomes-icc-no-1-test-bowler-for-first-time-in-his-career/articleshow/133535424.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rain Delays India's Test Victory Over Sri Lanka",
+      "whyItMatters": "Pushes the series outcome to the final day amidst gritty batting efforts.",
+      "brief": "Persistent rain halted play on day four, leaving Sri Lanka fighting to avoid defeat against a dominant Indian bowling attack.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/2nd-test-rain-delays-indias-impending-series-victory-over-sri-lanka-on-day-4/articleshow/133540885.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Scientists Test GPS Navigation Using Cosmic Rays",
+      "whyItMatters": "Could revolutionize underground and underwater tracking where traditional GPS fails.",
+      "brief": "Japanese scientists are successfully testing a new navigation system utilizing cosmic ray muons to guide vehicles where satellites cannot reach.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/gps-cannot-work-everywhere-so-scientists-tested-a-new-navigation-system-that-uses-cosmic-rays-instead-of-satellites-to-make-it-work-under-water-and-rocks/articleshow/133534634.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NASA's 1984 Space Bee Experiment Revisited",
+      "whyItMatters": "Provides historical context on how insects adapt to microgravity environments.",
+      "brief": "Archives reveal how NASA once sent over 3,000 bees into space aboard Discovery to test microgravity honeycomb construction.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-1984-nasa-sent-3301-bees-into-space-to-test-how-they-built-honeycomb-without-gravity-from-hitting-on-walls-to-building-200cm-honeycomb-highlights-of-7-day-mission/articleshow/133537461.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "At Least 14 Infants Killed in Hospital Fire",
+      "whyItMatters": "Highlights critical public health and safety infrastructure vulnerabilities in hospitals.",
+      "brief": "A tragic fire at an Islamabad hospital claimed the lives of at least 14 infants, sparking nationwide grief and safety probes.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRHbkV2OTZHSElFUUE3bmgtdGUwOGo0NUpaRk9RWURTaXFhcDlua0ItVEhrZFY0aWFNRS1ZTkx2SEt5WGh3TzNtZmpHYVNMRk9TZWg2MFBfY0N3M2F3YmM4TFg2TEZuaE9fUTRCSktOWVdBUjZEalpvbExrVDd3RXF5SVNyT2l5a2xueU1EUE1kbkg2RE1pdnJ0MGJtclNkbHVsT0cydy1lb1VMMkhoNUtNbzFYR3k4YnAw?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
