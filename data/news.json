@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-08-25T18:35:16.315Z",
+  "lastUpdated": "2026-08-26T01:06:33.696Z",
   "ticker": [
-    "Canada retaliates against US tariffs",
-    "India-China hold border talks",
-    "Air India seeks $1.5B rescue",
-    "CIA Director visits Moscow",
-    "Global markets react to oil shifts"
+    "India and China hold fresh border talks",
+    "US broadens fresh economic sanctions on Iran",
+    "Air India seeks $1.5 billion financial bailout",
+    "Indian Railways unlocks ₹2.62 trillion pipeline",
+    "Siemens Energy divests industrial unit assets"
   ],
   "articles": [
     {
-      "headline": "RBI Warns Fuel Costs May Reignite Inflation",
-      "whyItMatters": "Central bank warnings signal potential interest rate pressures impacting broader economic stability.",
-      "brief": "The Reserve Bank of India has flagged rising fuel and food prices as core risks capable of driving broader inflation spikes.",
+      "headline": "China and India Hold New Border Talks",
+      "whyItMatters": "Continued diplomatic engagement aims to de-escalate long-standing bilateral territorial tensions.",
+      "brief": "Delegations from China and India met to discuss ongoing border disputes, agreeing to maintain dialogue and pursue a mutually acceptable boundary settlement.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGxzbENrTVdaU2ZycXpsaG9GWEV4dGptYVhqOEJYejJ6VWczVEhTNWMzVGt4Sk5jWUJqaTk5QUhPM01jVzllbEZZaFlWc2dRRzl2ajB0ZFFoSVVidjNJSU04eDhuczFJbXdsbW0zTDF0OHhpd1hTQXo5TEp2LW1ObWtyYzdqM1dGdnZWYXpzaXJuTzhsalJCeGQ5SHV3YTRhVnpWLVZvMTjjSGtSa0xzQ2dnNVhobHdzTUVJ?oc=5",
+      "dateLocation": "2026-08-26 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran and Oman Discuss Hormuz Security",
+      "whyItMatters": "Securing key shipping lanes is vital for stabilizing global energy and oil markets.",
+      "brief": "Iranian and Omani officials held crucial talks regarding the management of the Strait of Hormuz, proposing temporary navigational corridors and mine-clearing efforts.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/iran-oman-hold-talks-on-managing-strait-of-hormuz/article71390541.ece",
+      "dateLocation": "2026-08-26 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Air India Seeks $1.5 Billion Bailout",
+      "whyItMatters": "Mounting financial pressures threaten the ongoing turnaround of the privatized carrier.",
+      "brief": "Air India is reportedly seeking $1.5 billion in funding from its parent owners, Tata Sons and Singapore Airlines, as operational losses continue to mount.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXNhTG4zM3UweEtYemNiNl85ZG93NFhKUmtOcWRUQWNOcWxYVTlERUFCZVR3VEJXS3NnU05PYjBMNTV1aTBpWDNSOGlDTGtYRmJ0eEFQZUo3VHJZVTRqX3lVUFRvNGtJeWl6OG5ZVDRVeVZoeDdjd0Jta2ZNOGhUcUR5eXBVdnBqMDM5ZTFJMFZheFU2eFBqb2QxZHUtWl9KY1Z2cHJFcTBXbE1pUnlzNHpuTElFQkExTWJWWjNCMVBObEpBdjdwMFJXS2Q?oc=5",
+      "dateLocation": "2026-08-26 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Railways Unlocks Huge Private Investments",
+      "whyItMatters": "New financing models will accelerate critical infrastructure development across the country.",
+      "brief": "Indian Railways is utilizing the Development Partner Model and Hybrid Annuity Model to draw private capital into a massive ₹2.62 trillion project pipeline.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/indian-railways-taps-new-private-investment-models-to-unlock-2-62-trillion-pipeline-11787650571322.html",
+      "dateLocation": "2026-08-26 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "RBI Faces Scrutiny Over Dollar Reserves",
+      "whyItMatters": "Understanding central bank capital allocation is critical for macroeconomic stability.",
+      "brief": "Economists and analysts are closely examining the Reserve Bank of India's massive dollar accumulation strategy and tracking where billions in reserves are deployed.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-flags-risk-of-food-fuel-prices-fuelling-broader-inflation/articleshow/133511523.cms",
-      "dateLocation": "2026-08-25 | Mumbai",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/where-has-indias-73-billion-gone-inside-the-rbis-great-dollar-haul/articleshow/133501056.cms",
+      "dateLocation": "2026-08-26 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Air India Seeks $1.5 Billion from Owners",
-      "whyItMatters": "Financial strain on major carriers highlights ongoing post-merger integration and operational cost challenges.",
-      "brief": "Amid mounting losses, Air India is reportedly seeking $1.5 billion in funding from its primary owners, Tata Group and Singapore Airlines.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXNhTG4zM3UweEtYemNiNl85ZG93NFhKUmtOcWRUQWNOcWxYVTlERUFCZVR3VEJXS3NnU05PYjBMNTV1aTBpWDNSOGlDTGtYRmJ0eEFQZUo3VHJZVTRqX3lVUFRvNGtJeWl6OG5ZVDRVeVZoeDdjd0Jta2ZNOGhUcUR5eXBVdnBqMDM5ZTFJMFZheFU2eFBqb2RxZHUtWl9KY1Z2cHJFcTBXbE1pUnlzNHpuTElFQkExTWJWWjNCMVBObEpBdjdwMFJXS2Q?oc=5",
-      "dateLocation": "2026-08-25 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Canada Imposes Retaliatory Tariffs on US",
-      "whyItMatters": "Escalating trade tensions threaten North American supply chains and bilateral economic relations.",
-      "brief": "Canada announced retaliatory tariffs on US goods following fresh trade restrictions imposed by Washington.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/world/canada-imposes-retaliatory-tariffs-on-us-goods-from-september-8-as-trump-trade-war-escalates-11787670457877.html",
-      "dateLocation": "2026-08-25 | Ottawa",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India-China Hold Key Border Talks",
-      "whyItMatters": "Diplomatic engagement between Asian giants impacts regional stability and bilateral commercial ties.",
-      "brief": "Top officials, including NSA Ajit Doval and Wang Yi, held crucial border discussions ahead of the upcoming BRICS summit.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/indiachina-ties-near-normalcy-nsa-ajit-doval-wang-yi-hold-key-border-talks-ahead-of-brics-summit-11787668605130.html",
-      "dateLocation": "2026-08-25 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bangladesh Considers Joining Mecca Pact",
-      "whyItMatters": "Shifting regional defense alignments test Bangladesh's foreign policy and traditional alliances.",
-      "brief": "Dhaka is evaluating membership in the mutual defense agreement signed between Saudi Arabia, Turkey, and Pakistan.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1R1Tlc2QWt0azkwSUMxbWtuLUotZFhEVlUtUE5sX0FkYUdhcjZwZTY4VXFSTzJVcGhHTDJ3NE9xN2tMNHhnZFE0ckhzbHhQM3JEakpFcmJHYUtwRm5LZUI5ZVlrQTkzVkYxN2xXVVQ2VTRPY050cXhQZHBJM3NKUS1KaHRJS0Z0c3lsdndqd0p4VzZoMElBckJidEFIS2pFWGJEUDVqajhibkpxdGx3VzY1TG55SnJ1?oc=5",
-      "dateLocation": "2026-08-25 | Dhaka",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "CIA Director Visits Moscow Amid Stalled Talks",
-      "whyItMatters": "High-level intelligence contacts offer a rare channel for communication amid frozen geopolitical negotiations.",
-      "brief": "CIA Director John Ratcliffe reportedly traveled to Moscow for undisclosed meetings concerning stalled Ukraine diplomatic efforts.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/cia-director-john-ratcliffe-reportedly-visits-moscow-for-undisclosed-meetings-amid-stalled-ukraine-talks-11787674740656.html",
-      "dateLocation": "2026-08-25 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Post-Pandemic Profits Outpace Capital Investments",
+      "whyItMatters": "Weakening marginal returns on fixed assets may constrain future industrial capacity growth.",
+      "brief": "A new financial study reveals that corporate profits have risen faster than fresh investments since the pandemic due to diminishing returns on new assets.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/post-covid-profits-rise-faster-than-investment/articleshow/133526580.cms",
+      "dateLocation": "2026-08-26 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Google Expands Gemini Enterprise for Law Firms",
-      "whyItMatters": "Enterprise-grade legal AI adoption accelerates the transformation of professional service workflows globally.",
-      "brief": "Google is expanding its Gemini Enterprise platform to provide specialized AI integration for legal practices and corporate law firms.",
+      "whyItMatters": "Generative AI is increasingly transforming professional legal workflows and document analysis.",
+      "brief": "Google has expanded its Gemini Enterprise AI platform tailored specifically for lawyers and law firms, aiming to boost operational efficiency and automation.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
-      "dateLocation": "2026-08-25 | San Francisco",
+      "dateLocation": "2026-08-26 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Australia Bans AI-Generated Songs from Charts",
-      "whyItMatters": "Regulatory measures protecting music charts highlight growing industry friction over generative AI content.",
-      "brief": "Australia has officially banned largely or wholly AI-generated songs from its official music charts to preserve human artistry.",
+      "headline": "India Signals BIS Exemption for Tech Firms",
+      "whyItMatters": "Regulatory relief will encourage global electronics manufacturers to establish domestic operations.",
+      "brief": "Commerce Minister Piyush Goyal indicated potential Bureau of Indian Standards certificate exemptions for high-tech components to ease electronics manufacturing in India.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/world/australia-bans-largely-ai-generated-songs-from-official-music-charts-11787666440316.html",
-      "dateLocation": "2026-08-25 | Sydney",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/goyal-signals-bis-certification-exemption-for-high-tech-cos-relief-for-equipment-components-needed-to-set-up-manufacturing-facilities-in-india/articleshow/133523921.cms",
+      "dateLocation": "2026-08-26 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ICMR Chief Clarifies Seasonal H1N1 Surge",
-      "whyItMatters": "Public health advisories help prevent unnecessary panic during routine seasonal respiratory virus increases.",
-      "brief": "The ICMR chief stated that masks are not universally required despite a seasonal H1N1 flu surge, noting most cases remain mild.",
+      "headline": "India Pivots to US for Energy Supplies",
+      "whyItMatters": "Geopolitical tensions in West Asia are forcing a diversification of energy sourcing.",
+      "brief": "As conflict disrupts traditional Gulf energy shipments, India is actively pivoting to the United States to secure vital LPG and LNG supplies.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-pivots-to-us-for-lpg-lng-as-west-asia-crisis-disrupts-gulf-supplies/articleshow/133506345.cms",
+      "dateLocation": "2026-08-26 | The Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Modi Raps Bureaucrats Over Infrastructure Quality",
+      "whyItMatters": "Strict project oversight is essential to prevent costly delays in public works.",
+      "brief": "Chairing a Pragati meeting, Prime Minister Modi criticized top secretaries over public project quality, demanding integrated monitoring rather than isolated stretch reviews.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/do-we-need-a-4th-party-audit-pm-raps-secretaries-over-quality-of-public-projects/articleshow/133524154.cms",
+      "dateLocation": "2026-08-26 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Centre Seeks Two Years for Creamy Layer Policy",
+      "whyItMatters": "Complex legal and social implications surround reservation criteria expansions.",
+      "brief": "The central government has asked the Supreme Court for a two-year extension to formulate fair creamy layer criteria for children of public and private sector employees.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/govt-seeks-2-years-to-frame-creamy-layer-criteria-for-psu-private-staff-kids/articleshow/133524157.cms",
+      "dateLocation": "2026-08-26 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Corporates Issue Alerts Amid H1N1 Surge",
+      "whyItMatters": "Health protocols protect workplace productivity during seasonal viral resurgences.",
+      "brief": "Major Indian corporations have urged employees to stay alert and follow health advisories as localized cases of H1N1 influenza record a steady increase.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/no-need-for-masks-as-h1n1-drives-seasonal-flu-surge-says-icmr-chief-11787660800618.html",
-      "dateLocation": "2026-08-25 | New Delhi",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/corporates-urge-employees-to-stay-alert-as-h1n1-cases-surge/articleshow/133523002.cms",
+      "dateLocation": "2026-08-26 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Karnataka Green Hydrogen Project Investment",
-      "whyItMatters": "Massive capital inflows into renewable infrastructure drive India's long-term green transition goals.",
-      "brief": "A Luxembourg firm has committed significant investments toward an integrated green hydrogen and data center project in Karnataka.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/luxembourg-firm-ipc-to-invest-83480-cr-in-integrated-green-hydrogen-data-centre-project-in-karnataka/article71389590.ece",
-      "dateLocation": "2026-08-25 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Protests Erupt Over Exam Paper Leaks",
-      "whyItMatters": "Recurrent examination security failures spark widespread youth unrest and political accountability demands.",
-      "brief": "Police deployed water cannons in Bihar during protests by students demanding structural reforms following test paper leaks.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEs4bnZtZzRVeWpXQW5VRG9ORU9ac0s3MHlaZ0p1UEVpN1BDMXc3SzA4dWc0NnRDTnVTX29Ra0NkWC1wT3prUXNLX1hUUnQwMElqRWxHVTBFVkFUcThLSHQ1WHVDOXVhUlVGaU1TQTljQjUxcmpqbWR5YXFqekFvQUJBekthaEkxOTY5WVVWdWI2SzZiS3ZST3Rzb1Zwa3ZxczNDOFhxWGpWMWtlNVNhUC1R?oc=5",
-      "dateLocation": "2026-08-25 | Patna",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cricket Australia Clears Anaya Bangar",
-      "whyItMatters": "Inclusive sports policies set new precedents for transgender athlete participation in elite professional leagues.",
-      "brief": "Anaya Bangar has received clearance under Cricket Australia's inclusion policy, opening potential pathways to elite domestic competition.",
+      "headline": "Harmanpreet Eyes Success Ahead of Asian Games",
+      "whyItMatters": "Momentum from historic victories elevates expectations for upcoming multi-sport tournaments.",
+      "brief": "Indian women's cricket captain Harmanpreet expressed confidence and hunger for more success as the team prepares for the upcoming Asia Cup and Asian Games.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/incredibly-emotional-anaya-bangar-gets-cricket-australia-nod-for-elite-womens-cricket-eyes-wbbl/articleshow/133518179.cms",
-      "dateLocation": "2026-08-25 | Melbourne",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/weve-developed-winning-culture-hungry-for-more-says-harmanpreet-ahead-of-asia-cup-asian-games/article71390413.ece",
+      "dateLocation": "2026-08-26 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Volkswagen CEO Faces Labor and Stakeholder Pushback",
-      "whyItMatters": "Deep structural cost-cutting efforts in legacy automakers face fierce resistance amid slowing European demand.",
-      "brief": "The Volkswagen chief executive is navigating intense pushback from rival stakeholders and union workers over proposed austerity cuts.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjR2TGludXI2SElaQkVfeXhPUWVqZTdMVWg3RldzWmFQVklWcUFqYVFBaVB6cFdZYWxiVm1iS1NQSG9SMGxhMDdLcENTaHphTUR3NWM4enNBLXJTQkdiZm1aazRFR3lfUnhvZUtNbzA1a0FDNDJUdGVkdXhfVEYwbjdyVFl4R0hKYTU1S1pRY25lOGM1bGNpQTNGbmNubFNNb3c3U0xqRldJb1dMRXFrS1d3?oc=5",
-      "dateLocation": "2026-08-25 | Wolfsburg",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Anaya Bangar Cleared for Elite Women's Cricket",
+      "whyItMatters": "Inclusion policies expand professional pathways for transgender athletes in competitive sports.",
+      "brief": "Cricket Australia confirmed Anaya Bangar's eligibility under its inclusion policy, offering the player a potential pathway to the Women's Big Bash League.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/incredibly-emotional-anaya-bangar-gets-cricket-australia-nod-for-elite-womens-cricket-eyes-wbbl/articleshow/133518179.cms",
+      "dateLocation": "2026-08-26 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bengaluru Elite Clubs Raided by Food Safety Officials",
-      "whyItMatters": "Ramped-up municipal health checks enforce stricter hygiene compliance across high-end urban establishments.",
-      "brief": "Food Safety Department authorities inspected prominent Bengaluru clubs following widespread scrutiny over hygiene and regulatory violations.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/bengaluru-elite-clubs-raided-by-health-officials-here-is-why-11787676167058.html",
-      "dateLocation": "2026-08-25 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Aims for 100 More Flagged Vessels",
-      "whyItMatters": "Expanding domestic shipping fleets reduces foreign exchange outgo and strengthens maritime logistics security.",
-      "brief": "India is actively pursuing the addition of 100 vessels to its national fleet to curb reliance on foreign cargo transporters.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-sets-eyes-on-100-more-flagged-vessels-to-cut-forex-outgo/articleshow/133518323.cms",
-      "dateLocation": "2026-08-25 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Siemens Energy to Divest Industrial Unit",
+      "whyItMatters": "Corporate restructuring allows the company to concentrate on core gas turbine and grid sectors.",
+      "brief": "Siemens Energy announced plans to divest its industrial unit to sharpen its strategic focus entirely on gas turbines and electrical grid infrastructure.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQmh2eUxaTmhCX2pNWUpORFFOdmdLZnhwN2JVbDROSHQ3YU53U3U2V21LLW5ieGh5VTlpQmRfaW9wbE1KVHZHcnZkUTNTRWdDeFBZU0RJR25Ed1BCLVRKRkZ3WHRhZ2FrMzJObHVMR0xSeXNHUmhjR2RXRWpVbTNLYjdhTTJLbVhtNnlDaDN4bURvdEx4ZEJRRGVDTndxOEUtTXc?oc=5",
+      "dateLocation": "2026-08-26 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
