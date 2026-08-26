@@ -1,129 +1,156 @@
 {
-  "lastUpdated": "2026-08-26T12:44:36.523Z",
+  "lastUpdated": "2026-08-26T19:44:38.269Z",
   "ticker": [
-    "Nepal Floods: Over 100 Indians Missing, PM Modi Offers Aid",
-    "Mitchell Starc Dethrones Bumrah as No. 1 Test Bowler",
-    "ECB's Schnabel Warns Interest Rates Must Rise Further",
-    "US Army Faces Leadership Crisis Amid Hegseth's Purge",
-    "Adani Energy Wins $493M Transmission Project in Maharashtra"
+    "Nepal Flash Flood Death Toll Crosses 150",
+    "Meta Agrees to $18B Settlement Over Kids' Addiction",
+    "Apple to Launch Next iPhone on September 9",
+    "Gold Drops Over 1% Following US Inflation Data",
+    "China's Xi to Attend SCO Summit in Kyrgyzstan"
   ],
   "articles": [
     {
-      "headline": "Adani Wins $493M Transmission Project",
-      "whyItMatters": "Expands critical energy infrastructure development in western India.",
-      "brief": "Adani Energy Solutions has secured a major $493 million power transmission project in Maharashtra, boosting regional grid capacity.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0lyMWo1LTJ0dEtLQm55TlA5U1gwOWJiWElPVnd6WnZDaDZNM3dNbjhWSDRLajZaUUpkdklzX3dUV0U5UHRUeE13TE9pRF84Z3hBakkzWng3WDVWdE5VTllBX3Z3ck85RmRpMDNnMFI3bEdNSHRJSlFwVERPcWxjbkNZNGhsU0Y5aDBZWnIzdy1NcktLN2JpTjNCd0d4eXlZNFRSMjR6NUthZGxzd2cwV3Y5NFNIRVJYTkdtZw?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tilaknagar Open to Another Large Deal",
-      "whyItMatters": "Indicates active consolidation and M&A trends in India's beverage sector.",
-      "brief": "Following its Imperial Blue buyout, India's Tilaknagar chairman announced the company is open to pursuing further large-scale acquisitions.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0xsMDBieklCOWp1R0Jvckp0MUtUWW0zaXhkUW5wYmJQaDFYR2x2RjhrNFloamRfZFNGWkdEVDBsRC1MTHFIemR4Q2tkTl9fY0Y4M01TWTBvZEd6d2tJZTdzUTFBSGZ0WkkzVWVlNjRLb3BoMXdwRUhMNW5ON25nQUpiZDVvUU9ZQ0NackJudGd4VUtlTWVkcUhmVnR3Z2Vjc1hMS1M1VHE4WFJ5ajVPV3NIX3RqVjVLODNtdUdQUm53a0k?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ECB's Schnabel Calls for Rate Hikes",
-      "whyItMatters": "Signals ongoing central bank vigilance against stubborn global inflation risks.",
-      "brief": "European Central Bank policymaker Schnabel stated that interest rates must rise further to combat persistent inflation risks.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQi02STdIUDVtTjdzeFJKc3hzNU9Fd0VtZmpWcGFoMngwMmR4VWVTSFc1U0ZwUGxQWUFpcDdQWV9HVlJEakd1cU14a1hpVHRPN25ocEtYb29wN0pmVDRKcFhXbTF3dEJ3U0hWVGpUTE5oV3BFeWF6Y3BpSmxHWXRKV2g1WnhRdEhETG5nOUZfUjViaEFJLVdIbF85Q2ptbTVyWmg5b0NFRnk3WEFhYVV3ejZJS29OZw?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BNP Paribas and KB Kookmin Target Techcombank",
-      "whyItMatters": "Highlights major foreign institutional investment interest in Vietnamese banking.",
-      "brief": "BNP Paribas and KB Kookmin are reportedly in advanced talks to acquire a $2 billion stake in Vietnam's Techcombank.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbVZBTGZZSTJJY1BacjlsSDZsZkFtZmlpOUxuQlJLaDNIcFhJTTI2cjBlZjJIcDJGVV9heHRrbG5ud3lMQ3NPbWcwTDlscXVDVEY0Yi1aWU1Rd0x4bEpENHQ4dVUzMlVsXzNsd1B1dFlqWGN1WTZ4bjZxUzR0eFRJc0VSaEViSTlPZHBDNWROT25kNzNLNG45ckhPVTk5amJQUS1OakNoRE9TdzBuSy1kQVpDU1pONXdXcFktTl9jTm1nTTNBYi1vSXRTMA?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nepal Flash Floods Leave Dozens Missing",
-      "whyItMatters": "Triggers cross-border rescue efforts and heavy concern for missing citizens.",
-      "brief": "Massive flash floods in Nepal have left over 100 Indian nationals missing, prompting immediate rescue responses and emergency helplines.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tibet Mudslide Causes Major Casualties",
-      "whyItMatters": "Shows severe regional climate disruptions affecting high-altitude Himalayan communities.",
-      "brief": "A severe mudslide in Tibet's Gyirong has resulted in major casualties and extensive village destruction, according to state media.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVV5M1FBbWFmZlRFcGxHdkJPVFVwSFJ6RXNmYldLU0JQazdDZlVtZlY3UnlaX3JwQ2wtczBGQ1VnekRXMWtqNzg5Q1ZuMzM4ZDd6SVFGMTFEbFFiZWJWdDlURk9veWJKdXZJaDM3U3draktOdTBqSmtBM21lcVA0SnVXOW90X2pMR1psUUdRTDBuS0poWVVjd1FQcVhKVGsxendNaHVFLWdSX1dhcklLeA?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Army Faces Severe Leadership Crisis",
-      "whyItMatters": "Raises institutional stability concerns while active geopolitical conflicts persist.",
-      "brief": "Defense Secretary Pete Hegseth's recent officer purges have triggered a leadership void in the US Army amid ongoing security challenges.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/how-hegseths-purge-triggered-a-us-army-leadership-crisis-as-iran-war-nears-six-months/articleshow/133538231.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and China Hold Border Talks",
-      "whyItMatters": "Reflects ongoing diplomatic engagement between nuclear-armed neighbors over territorial disputes.",
-      "brief": "Chinese and Indian officials met for fresh border talks, mutually agreeing to continue seeking a lasting boundary settlement.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGxzbENrTVdaU2ZycXpsaG9GWEV4dGptYVhqOEJYejJ6VWczVEhTNWMzVGt4Sk5jWUJqaTk5QUhPM01jVzllbEZZaFlWc2dRRzl2ajB0ZFFoSVVidjNJSU04eDhuczFJbXdsbW0zTDF0OHhpd1hTQXo5TEp2LW1ObWtyYzdqM1dGdnZWYXpzaXJuTzhsalJCeGQ5SHV3YTRhVnpWLVZvMTjjSGtSa0xzQ2dnNVhobHdzTUVJ?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mitchell Starc Claims No. 1 Test Ranking",
-      "whyItMatters": "Marks a historic career milestone for the Australian fast-bowling veteran.",
-      "brief": "Australia pacer Mitchell Starc dethroned Jasprit Bumrah to become the ICC No. 1 Test bowler for the first time.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-dethrones-jasprit-bumrah-becomes-icc-no-1-test-bowler-for-first-time-in-his-career/articleshow/133535424.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rain Delays India's Test Victory Over Sri Lanka",
-      "whyItMatters": "Pushes the series outcome to the final day amidst gritty batting efforts.",
-      "brief": "Persistent rain halted play on day four, leaving Sri Lanka fighting to avoid defeat against a dominant Indian bowling attack.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/2nd-test-rain-delays-indias-impending-series-victory-over-sri-lanka-on-day-4/articleshow/133540885.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Scientists Test GPS Navigation Using Cosmic Rays",
-      "whyItMatters": "Could revolutionize underground and underwater tracking where traditional GPS fails.",
-      "brief": "Japanese scientists are successfully testing a new navigation system utilizing cosmic ray muons to guide vehicles where satellites cannot reach.",
+      "headline": "Apple Announces Next iPhone Launch for September 9",
+      "whyItMatters": "Marks the first major product showcase under new CEO Ternus.",
+      "brief": "Apple has officially scheduled its next major iPhone launch event for September 9, marking the company's first big unveiling led by its new CEO.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/gps-cannot-work-everywhere-so-scientists-tested-a-new-navigation-system-that-uses-cosmic-rays-instead-of-satellites-to-make-it-work-under-water-and-rocks/articleshow/133534634.cms",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Anthropic Tells San Francisco Staff to Work Remotely",
+      "whyItMatters": "Highlights escalating labor disputes and security concerns in major tech hubs.",
+      "brief": "Anthropic advised its San Francisco employees to work from home due to potential security guard strike threats, though the union denied authorization.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-tells-employees-at-its-san-francisco-office-to-work-from-home-after-it-received-a-notice-saying-/articleshow/133530821.cms",
       "dateLocation": "August 26, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "NASA's 1984 Space Bee Experiment Revisited",
-      "whyItMatters": "Provides historical context on how insects adapt to microgravity environments.",
-      "brief": "Archives reveal how NASA once sent over 3,000 bees into space aboard Discovery to test microgravity honeycomb construction.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-1984-nasa-sent-3301-bees-into-space-to-test-how-they-built-honeycomb-without-gravity-from-hitting-on-walls-to-building-200cm-honeycomb-highlights-of-7-day-mission/articleshow/133537461.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Meta Settles US Child Social Media Lawsuits for $18B",
+      "whyItMatters": "Sets a massive legal precedent for big tech accountability regarding minors.",
+      "brief": "Meta has agreed to pay $18 billion to settle multiple US lawsuits alleging its platforms cause social media addiction among children.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "At Least 14 Infants Killed in Hospital Fire",
-      "whyItMatters": "Highlights critical public health and safety infrastructure vulnerabilities in hospitals.",
-      "brief": "A tragic fire at an Islamabad hospital claimed the lives of at least 14 infants, sparking nationwide grief and safety probes.",
+      "headline": "BPCL Expands into E-Commerce with Grocery Deliveries",
+      "whyItMatters": "Traditional energy firms are aggressively pivoting into non-fuel retail spaces.",
+      "brief": "Bharat Petroleum Corporation Limited plans to leverage its network to deliver groceries alongside LPG cylinders in a major non-fuel retail push.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bpcl-eyes-e-comm-payment-gateway-in-non-fuel-push-looks-to-deliver-groceries-along-with-lpg-cylinders/articleshow/133548793.cms",
+      "dateLocation": "August 26, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Prices Drop Over 1% After US Inflation Data",
+      "whyItMatters": "Precious metals react sharply to shifting economic indicators and Federal Reserve outlooks.",
+      "brief": "Gold prices fell more than one percent following the release of in-line US inflation data that shifted market expectations.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Public Sector Banks Increase Borrowing for Credit",
+      "whyItMatters": "Reflects liquidity pressures as credit demand outpaces domestic deposit growth.",
+      "brief": "State-owned banks in India are borrowing heavily from alternative channels to meet surging credit demands as traditional deposits lag behind.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/shifting-gears-psbs-borrow-more-to-cater-to-credit-demand-as-deposits-lag/articleshow/133549912.cms",
+      "dateLocation": "August 26, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Deadly Flash Floods Claim Over 150 Lives in Nepal",
+      "whyItMatters": "Highlights severe regional climate vulnerabilities and triggers international relief efforts.",
+      "brief": "At least 157 people have died and hundreds remain missing following a catastrophic glacier collapse and subsequent flash floods in Nepal.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/nepal-floods-live-updates-august-26-2026-several-missing-dead/article71392492.ece",
+      "dateLocation": "August 26, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China's Xi to Attend SCO Summit and Visit Egypt",
+      "whyItMatters": "Signals Beijing's ongoing diplomatic push across Central Asia and the Middle East.",
+      "brief": "Chinese President Xi Jinping is scheduled to attend the Shanghai Cooperation Organisation summit in Kyrgyzstan and make a state visit to Egypt.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmk4VUdReVpVMENybk9TOHduOHhhMHNvOEdPRnEza2VvanNGTmpwU0hUbXlsMzZWNHVBaXRYRmRkbE9wVlU1MmZxcF9aNlJLay1MOU91akxMaFRndDNfWGszdHY0ZGNNMXpjbEl2bUw5Y1ViNFc0UmRYeHZWVnlSTnRuXzQxVjB0RWlRQjBJSnJIVmx6bmxQdEhWb184a2tBbFhwdmM1MFJ3ZVhZNElSTF9n?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi Swine Flu Cases Climb Past 2,400 This Year",
+      "whyItMatters": "Demands heightened healthcare preparedness as seasonal viral infections spike.",
+      "brief": "Delhi's H1N1 swine flu cases surpassed 2,400 following 138 new diagnoses, prompting health authorities to review hospital readiness while urging calm.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRHbkV2OTZHSElFUUE3bmgtdGUwOGo0NUpaRk9RWURTaXFhcDlua0ItVEhrZFY0aWFNRS1ZTkx2SEt5WGh3TzNtZmpHYVNMRk9TZWg2MFBfY0N3M2F3YmM4TFg2TEZuaE9fUTRCSktOWVdBUjZEalpvbExrVDd3RXF5SVNyT2l5a2xueU1EUE1kbkg2RE1pdnJ0MGJtclNkbHVsT0cydy1lb1VMMkhoNUtNbzFYR3k4YnAw?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/india/swine-flu-in-delhi-h1n1-cases-climb-past-2-400-health-min-holds-review-meeting-with-govt-hospitals-top-10-updates-11787757820229.html",
+      "dateLocation": "August 26, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Yale Researchers Develop New Method to Destroy PFAS",
+      "whyItMatters": "Offers a breakthrough path to eliminate dangerous 'forever chemicals' from water.",
+      "brief": "Scientists at Yale have engineered a chemical process that doubles PFAS molecule size, helping separate and destroy them more effectively.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/yale-researchers-found-a-new-way-to-tackle-forever-chemicals-they-make-some-pfas-molecules-roughly-twice-as-large-so-they-separate-from-water-and-become-easier-to-destroy/articleshow/133546024.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mamdani Opposes New York Event Featuring Hindu Nationalist",
+      "whyItMatters": "Reflects growing local political friction regarding international ideological figures.",
+      "brief": "Local political figures have openly opposed an upcoming New York City event featuring the leader of India's prominent Hindu nationalist group.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGlGNkhkS1dTOGV0TjFZdkd6RGxWSEczTkIxMkYzZzFXZHNZblVzdE9sbjdmYUFxSC0zMnRJQjJjNVRRUFdPNWlySDNIaFgtNlJOdWVSb2lrMF9nVHI5dFBtd2V1YTUtNDJXYkxEZXpMNHFqc2xkOHZ0M3RuZ2EybURLTFJ2UXo1SHU3T2Q3a1ptUGxncVVzSDFjZHJ4MVlodTJhcjRPb25nTU1Eb0VGZ3NkaFRDcVU?oc=5",
+      "dateLocation": "August 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nishad Community Votes Crucial for Upcoming UP Elections",
+      "whyItMatters": "Illustrates how specific caste equations dictate political alliances in Uttar Pradesh.",
+      "brief": "Recent local controversies have brought the Nishad community's voting power into focus ahead of the crucial Uttar Pradesh assembly elections.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/beyond-ayodhya-and-fish-row-why-nishad-vote-matters-in-up-elections-2027/articleshow/133540486.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Women's Hockey Star Neha Eyes Asian Games Gold",
+      "whyItMatters": "Highlights national athletic ambitions following previous international tournament heartbreaks.",
+      "brief": "Senior midfielder Neha expressed strong confidence that the Indian women's hockey team will capture gold at the upcoming Asian Games.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/hockey/india-will-win-gold-at-asian-gamesneha/article71393504.ece",
+      "dateLocation": "August 26, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DDCA Faces Heavy Flaw Criticism Over Player Selection Rule",
+      "whyItMatters": "Exposes administrative transparency issues within regional cricket tournament structures.",
+      "brief": "The Delhi and Districts Cricket Association faced intense backlash over controversial player selection rules allowing franchises to bypass the main auction.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/absolute-shame-ddca-draws-flak-over-dpl-player-selection-rule-amid-dev-chaudhary-row/articleshow/133541594.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NCB Busts Cross-Border Drug Ring in Jammu with 5kg Heroin",
+      "whyItMatters": "Demonstrates ongoing efforts to dismantle transnational narcotics smuggling operations.",
+      "brief": "The Narcotics Control Bureau arrested three individuals and seized 5.2 kg of heroin allegedly smuggled from Pakistan across the Jammu border.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/5-2-kg-heroin-seized-in-jammu-ncb-busts-pakistan-network-3-held/articleshow/133548737.cms",
+      "dateLocation": "August 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Government Rejects Request to Release Excess Sugar Stocks",
+      "whyItMatters": "Aims to stabilize domestic availability and pricing ahead of major festive seasons.",
+      "brief": "India's government has refused bulk users' requests to ease sugar stock limit orders, maintaining restrictions to prevent supply crunches.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/bulk-sugar-users-in-a-soup-as-govt-refuses-to-ease-stock-limit-order/articleshow/133550008.cms",
+      "dateLocation": "August 26, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
