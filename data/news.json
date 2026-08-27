@@ -1,156 +1,84 @@
 {
-  "lastUpdated": "2026-08-26T19:44:38.269Z",
+  "lastUpdated": "2026-08-27T07:09:28.710Z",
   "ticker": [
-    "Nepal Flash Flood Death Toll Crosses 150",
-    "Meta Agrees to $18B Settlement Over Kids' Addiction",
-    "Apple to Launch Next iPhone on September 9",
-    "Gold Drops Over 1% Following US Inflation Data",
-    "China's Xi to Attend SCO Summit in Kyrgyzstan"
+    "Nepal flood death toll climbs past 165",
+    "Nvidia forecasts 70% sales growth",
+    "Oil extends losses on Middle East peace hopes",
+    "Apple announces September 9 iPhone launch",
+    "China rejects Nepal dam collapse claims"
   ],
   "articles": [
     {
-      "headline": "Apple Announces Next iPhone Launch for September 9",
-      "whyItMatters": "Marks the first major product showcase under new CEO Ternus.",
-      "brief": "Apple has officially scheduled its next major iPhone launch event for September 9, marking the company's first big unveiling led by its new CEO.",
+      "headline": "Nepal Flash Floods Leave Over 165 Dead",
+      "whyItMatters": "Massive glacial collapse causes catastrophic casualties and hundreds of missing persons, triggering international aid.",
+      "brief": "Devastating flash floods in Nepal's Rasuwa region have killed over 165 people, with hundreds missing, including foreign nationals. India and the US have rushed humanitarian aid and relief supplies to support rescue operations.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/india/nepal-flash-floods-300-indians-among-thousands-missing-centre-rushes-more-relief-supplies-11787811918152.html",
+      "dateLocation": "August 27, 2026 | Kathmandu, Nepal",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Rejects Nepal Dam Collapse Claims",
+      "whyItMatters": "Diplomatic tensions rise as disaster attribution becomes a point of contention between neighboring nations.",
+      "brief": "Beijing has officially rejected Nepal's claims that a dam collapse triggered the catastrophic flash floods, stating that accusations do not help disaster management efforts following the deadly glacial surge.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/accusation-helps-nothing-china-rejects-nepals-dam-collapse-claim-over-floods/articleshow/133557683.cms",
+      "dateLocation": "August 27, 2026 | Beijing, China",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nvidia Forecasts 70% Sales Growth Next Year",
+      "whyItMatters": "Demonstrates that the global artificial intelligence infrastructure spending boom remains remarkably strong.",
+      "brief": "Nvidia has projected a 70% surge in sales for next year, signaling to financial markets that the intense demand for artificial intelligence hardware and chips has years left to run.",
       "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTdJRXVOXzFrQjZXaG1XeVpHNUg0UzBHMnZ0b3lUT1hCZktWajJhbkJfSmcweHEyVE9sNVdrOGx2MlFhUlZ2Z0xna3Jzd0gzWUJCdHR2MHN3Y0pqYURLQ0JQUmxfYVJpT3h3TEV4amE3TkR5SnlIa3A1NlRvcE16Y3NZbnNzQUVuRFlfS2lvUE81ajBta2hYaEp5Wk94c014b3lkQmg5S3N6WlMyWWc?oc=5",
+      "dateLocation": "August 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Apple to Launch Next iPhone on September 9",
+      "whyItMatters": "Marks the first major product showcase under new Chief Executive Ternus.",
+      "brief": "Apple has officially scheduled its next flagship iPhone launch event for September 9, marking a crucial milestone for the tech giant under its newly appointed leadership.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Anthropic Tells San Francisco Staff to Work Remotely",
-      "whyItMatters": "Highlights escalating labor disputes and security concerns in major tech hubs.",
-      "brief": "Anthropic advised its San Francisco employees to work from home due to potential security guard strike threats, though the union denied authorization.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-tells-employees-at-its-san-francisco-office-to-work-from-home-after-it-received-a-notice-saying-/articleshow/133530821.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Settles US Child Social Media Lawsuits for $18B",
-      "whyItMatters": "Sets a massive legal precedent for big tech accountability regarding minors.",
-      "brief": "Meta has agreed to pay $18 billion to settle multiple US lawsuits alleging its platforms cause social media addiction among children.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
+      "dateLocation": "August 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BPCL Expands into E-Commerce with Grocery Deliveries",
-      "whyItMatters": "Traditional energy firms are aggressively pivoting into non-fuel retail spaces.",
-      "brief": "Bharat Petroleum Corporation Limited plans to leverage its network to deliver groceries alongside LPG cylinders in a major non-fuel retail push.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bpcl-eyes-e-comm-payment-gateway-in-non-fuel-push-looks-to-deliver-groceries-along-with-lpg-cylinders/articleshow/133548793.cms",
-      "dateLocation": "August 26, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Prices Drop Over 1% After US Inflation Data",
-      "whyItMatters": "Precious metals react sharply to shifting economic indicators and Federal Reserve outlooks.",
-      "brief": "Gold prices fell more than one percent following the release of in-line US inflation data that shifted market expectations.",
+      "headline": "Oil Prices Extend Losses on Middle East Hopes",
+      "whyItMatters": "Eases global inflationary pressures as supply disruption fears temporarily recede.",
+      "brief": "Crude oil prices extended recent losses as diplomatic efforts and prospects for Middle East talks raised hopes of easing ongoing supply woes and stabilizing global energy markets.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ?oc=5",
+      "dateLocation": "August 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Public Sector Banks Increase Borrowing for Credit",
-      "whyItMatters": "Reflects liquidity pressures as credit demand outpaces domestic deposit growth.",
-      "brief": "State-owned banks in India are borrowing heavily from alternative channels to meet surging credit demands as traditional deposits lag behind.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/shifting-gears-psbs-borrow-more-to-cater-to-credit-demand-as-deposits-lag/articleshow/133549912.cms",
-      "dateLocation": "August 26, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Deadly Flash Floods Claim Over 150 Lives in Nepal",
-      "whyItMatters": "Highlights severe regional climate vulnerabilities and triggers international relief efforts.",
-      "brief": "At least 157 people have died and hundreds remain missing following a catastrophic glacier collapse and subsequent flash floods in Nepal.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/nepal-floods-live-updates-august-26-2026-several-missing-dead/article71392492.ece",
-      "dateLocation": "August 26, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China's Xi to Attend SCO Summit and Visit Egypt",
-      "whyItMatters": "Signals Beijing's ongoing diplomatic push across Central Asia and the Middle East.",
-      "brief": "Chinese President Xi Jinping is scheduled to attend the Shanghai Cooperation Organisation summit in Kyrgyzstan and make a state visit to Egypt.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmk4VUdReVpVMENybk9TOHduOHhhMHNvOEdPRnEza2VvanNGTmpwU0hUbXlsMzZWNHVBaXRYRmRkbE9wVlU1MmZxcF9aNlJLay1MOU91akxMaFRndDNfWGszdHY0ZGNNMXpjbEl2bUw5Y1ViNFc0UmRYeHZWVnlSTnRuXzQxVjB0RWlRQjBJSnJIVmx6bmxQdEhWb184a2tBbFhwdmM1MFJ3ZVhZNElSTF9n?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi Swine Flu Cases Climb Past 2,400 This Year",
-      "whyItMatters": "Demands heightened healthcare preparedness as seasonal viral infections spike.",
-      "brief": "Delhi's H1N1 swine flu cases surpassed 2,400 following 138 new diagnoses, prompting health authorities to review hospital readiness while urging calm.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/swine-flu-in-delhi-h1n1-cases-climb-past-2-400-health-min-holds-review-meeting-with-govt-hospitals-top-10-updates-11787757820229.html",
-      "dateLocation": "August 26, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Yale Researchers Develop New Method to Destroy PFAS",
-      "whyItMatters": "Offers a breakthrough path to eliminate dangerous 'forever chemicals' from water.",
-      "brief": "Scientists at Yale have engineered a chemical process that doubles PFAS molecule size, helping separate and destroy them more effectively.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/yale-researchers-found-a-new-way-to-tackle-forever-chemicals-they-make-some-pfas-molecules-roughly-twice-as-large-so-they-separate-from-water-and-become-easier-to-destroy/articleshow/133546024.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mamdani Opposes New York Event Featuring Hindu Nationalist",
-      "whyItMatters": "Reflects growing local political friction regarding international ideological figures.",
-      "brief": "Local political figures have openly opposed an upcoming New York City event featuring the leader of India's prominent Hindu nationalist group.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGlGNkhkS1dTOGV0TjFZdkd6RGxWSEczTkIxMkYzZzFXZHNZblVzdE9sbjdmYUFxSC0zMnRJQjJjNVRRUFdPNWlySDNIaFgtNlJOdWVSb2lrMF9nVHI5dFBtd2V1YTUtNDJXYkxEZXpMNHFqc2xkOHZ0M3RuZ2EybURLTFJ2UXo1SHU3T2Q3a1ptUGxncVVzSDFjZHJ4MVlodTJhcjRPb25nTU1Eb0VGZ3NkaFRDcVU?oc=5",
-      "dateLocation": "August 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nishad Community Votes Crucial for Upcoming UP Elections",
-      "whyItMatters": "Illustrates how specific caste equations dictate political alliances in Uttar Pradesh.",
-      "brief": "Recent local controversies have brought the Nishad community's voting power into focus ahead of the crucial Uttar Pradesh assembly elections.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/beyond-ayodhya-and-fish-row-why-nishad-vote-matters-in-up-elections-2027/articleshow/133540486.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Women's Hockey Star Neha Eyes Asian Games Gold",
-      "whyItMatters": "Highlights national athletic ambitions following previous international tournament heartbreaks.",
-      "brief": "Senior midfielder Neha expressed strong confidence that the Indian women's hockey team will capture gold at the upcoming Asian Games.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/hockey/india-will-win-gold-at-asian-gamesneha/article71393504.ece",
-      "dateLocation": "August 26, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "DDCA Faces Heavy Flaw Criticism Over Player Selection Rule",
-      "whyItMatters": "Exposes administrative transparency issues within regional cricket tournament structures.",
-      "brief": "The Delhi and Districts Cricket Association faced intense backlash over controversial player selection rules allowing franchises to bypass the main auction.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/absolute-shame-ddca-draws-flak-over-dpl-player-selection-rule-amid-dev-chaudhary-row/articleshow/133541594.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NCB Busts Cross-Border Drug Ring in Jammu with 5kg Heroin",
-      "whyItMatters": "Demonstrates ongoing efforts to dismantle transnational narcotics smuggling operations.",
-      "brief": "The Narcotics Control Bureau arrested three individuals and seized 5.2 kg of heroin allegedly smuggled from Pakistan across the Jammu border.",
+      "headline": "Canada Boosts Defense Industry Amid US Tensions",
+      "whyItMatters": "Reflects shifting geopolitical alliances and a stronger focus on sovereign domestic military production.",
+      "brief": "Amid fraying ties with the United States, Canada is actively strengthening its defense sector with a significant surge in local military contracting and defense industrial investments.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/5-2-kg-heroin-seized-in-jammu-ncb-busts-pakistan-network-3-held/articleshow/133548737.cms",
-      "dateLocation": "August 26, 2026 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/canada-strengthens-defense-industry-amid-us-tensions-a-surge-in-local-military-contracting/articleshow/133557236.cms",
+      "dateLocation": "August 27, 2026 | Ottawa, Canada",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government Rejects Request to Release Excess Sugar Stocks",
-      "whyItMatters": "Aims to stabilize domestic availability and pricing ahead of major festive seasons.",
-      "brief": "India's government has refused bulk users' requests to ease sugar stock limit orders, maintaining restrictions to prevent supply crunches.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/bulk-sugar-users-in-a-soup-as-govt-refuses-to-ease-stock-limit-order/articleshow/133550008.cms",
-      "dateLocation": "August 26, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "China Accepts Novo Nordisk Oral Wegovy Application",
+      "whyItMatters": "Expands massive commercial market access for advanced anti-obesity therapeutics in Asia.",
+      "brief": "China's drug regulatory authority has officially accepted Novo Nordisk's application for oral Wegovy, paving the way for potential entry into one of the world's largest pharmaceutical markets.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlBqMlFxcWxxRzdMdDBfWHp5V2I0NWFkc1ZvZG5BRHFaU1RaUXlBZ3p2WUJST1hvTi01UUtJT1NLc1ZNbi1TdlFORVpKak53eml6bk9sWndhS2x2bF9waFZ2ZjVubDhrdHlnaUgzVGM2c2Z1c005ZVRONTBGVTZmc1ByRzBfSEV0S0xqcWdITGhQa01vaS1OSHJTS254d3dyNUk1S3RQTTRrbUxf?oc=5",
+      "dateLocation": "August 27, 2026 | Beijing, China",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Anaya Bangar Cleared to Play Australian Domestic Cricket",
+      "whyItMatters": "Milestone inclusion highlights evolving sports governance and opportunities in professional cricket pathways.",
+      "brief": "Former Mumbai youth player Anaya Bangar has received official approval from Cricket Australia to compete in domestic cricket leagues, marking an important step forward in her career.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/anaya-bangar-gets-cricket-australia-approval-who-is-she/article71392039.ece",
+      "dateLocation": "August 27, 2026 | Melbourne, Australia",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
