@@ -1,84 +1,84 @@
 {
-  "lastUpdated": "2026-08-27T07:09:28.710Z",
+  "lastUpdated": "2026-08-27T21:42:20.725Z",
   "ticker": [
-    "Nepal flood death toll climbs past 165",
-    "Nvidia forecasts 70% sales growth",
-    "Oil extends losses on Middle East peace hopes",
-    "Apple announces September 9 iPhone launch",
-    "China rejects Nepal dam collapse claims"
+    "Nepal-China Flood Alert Rising",
+    "Trump Renames Lake Ontario",
+    "UK Airports Hit By Cyber Breach",
+    "India-US Nuclear Talks Advance",
+    "Norway King's Health Very Serious"
   ],
   "articles": [
     {
-      "headline": "Nepal Flash Floods Leave Over 165 Dead",
-      "whyItMatters": "Massive glacial collapse causes catastrophic casualties and hundreds of missing persons, triggering international aid.",
-      "brief": "Devastating flash floods in Nepal's Rasuwa region have killed over 165 people, with hundreds missing, including foreign nationals. India and the US have rushed humanitarian aid and relief supplies to support rescue operations.",
+      "headline": "Nepal and China Warn of Fresh Glacial Flood Risks",
+      "whyItMatters": "Impending lake bursts threaten widespread destruction and displacement across the border regions.",
+      "brief": "Nepal and China have issued urgent warnings regarding fresh flood risks as high-altitude lakes threaten to burst, compounding an already severe humanitarian crisis with hundreds dead or missing.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/nepal-flash-floods-300-indians-among-thousands-missing-centre-rushes-more-relief-supplies-11787811918152.html",
-      "dateLocation": "August 27, 2026 | Kathmandu, Nepal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHFFMmE2MDBjZUxUUXdRbWV3bmU1MVk3Mndta3B4WjNnMnJmZk1tRlhuSUNYUHNhQ3dXVlU2YVpnNGNTMHFxZWh3SWRjSWN1bVFudVpBSjE1d0ViNWlmWnF6MExkWW5KTUhWMTFoVkkxTHNESGJLZWdvdFlaNzZkeUFjM2pmSnFENEN1SFZJVHRMbUJZdlVEaFdUYkw2QlhGSVZHT1ZZbTdPOHJYdWxrQmtCUXN5a1h4NndMSQ?oc=5",
+      "dateLocation": "Aug 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Rejects Nepal Dam Collapse Claims",
-      "whyItMatters": "Diplomatic tensions rise as disaster attribution becomes a point of contention between neighboring nations.",
-      "brief": "Beijing has officially rejected Nepal's claims that a dam collapse triggered the catastrophic flash floods, stating that accusations do not help disaster management efforts following the deadly glacial surge.",
+      "headline": "Trump Signs Order Renaming Lake Ontario to Lake America",
+      "whyItMatters": "The provocative naming move further strains diplomatic and trade relations with Canada.",
+      "brief": "US President Donald Trump escalated trade tensions with Canada by signing an executive order unilaterally renaming Lake Ontario as Lake America for US federal geographic services.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/accusation-helps-nothing-china-rejects-nepals-dam-collapse-claim-over-floods/articleshow/133557683.cms",
-      "dateLocation": "August 27, 2026 | Beijing, China",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-signs-order-to-rename-lake-ontario-lake-america-with-immediate-effect-11787851838005.html",
+      "dateLocation": "Aug 27, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nvidia Forecasts 70% Sales Growth Next Year",
-      "whyItMatters": "Demonstrates that the global artificial intelligence infrastructure spending boom remains remarkably strong.",
-      "brief": "Nvidia has projected a 70% surge in sales for next year, signaling to financial markets that the intense demand for artificial intelligence hardware and chips has years left to run.",
+      "headline": "UK Airports Suffer Data Breach Following Cyber Attack",
+      "whyItMatters": "Exposes vulnerabilities in critical transport infrastructure and customer data security.",
+      "brief": "Manchester, Stansted, and East Midlands airports confirmed a cyber attack compromised customer booking and Wi-Fi data, though operational passenger safety remains unaffected.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTdJRXVOXzFrQjZXaG1XeVpHNUg0UzBHMnZ0b3lUT1hCZktWajJhbkJfSmcweHEyVE9sNVdrOGx2MlFhUlZ2Z0xna3Jzd0gzWUJCdHR2MHN3Y0pqYURLQ0JQUmxfYVJpT3h3TEV4amE3TkR5SnlIa3A1NlRvcE16Y3NZbnNzQUVuRFlfS2lvUE81ajBta2hYaEp5Wk94c014b3lkQmg5S3N6WlMyWWc?oc=5",
-      "dateLocation": "August 27, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/world/uk-airports-cyber-attack-manchester-stansted-and-east-midlands-customers-data-accessed-passenger-safety-unaffected-11787862193392.html",
+      "dateLocation": "Aug 27, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Apple to Launch Next iPhone on September 9",
-      "whyItMatters": "Marks the first major product showcase under new Chief Executive Ternus.",
-      "brief": "Apple has officially scheduled its next flagship iPhone launch event for September 9, marking a crucial milestone for the tech giant under its newly appointed leadership.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3?oc=5",
-      "dateLocation": "August 27, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oil Prices Extend Losses on Middle East Hopes",
-      "whyItMatters": "Eases global inflationary pressures as supply disruption fears temporarily recede.",
-      "brief": "Crude oil prices extended recent losses as diplomatic efforts and prospects for Middle East talks raised hopes of easing ongoing supply woes and stabilizing global energy markets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ?oc=5",
-      "dateLocation": "August 27, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Canada Boosts Defense Industry Amid US Tensions",
-      "whyItMatters": "Reflects shifting geopolitical alliances and a stronger focus on sovereign domestic military production.",
-      "brief": "Amid fraying ties with the United States, Canada is actively strengthening its defense sector with a significant surge in local military contracting and defense industrial investments.",
+      "headline": "India and US Officials Hold Strategic Nuclear Energy Talks",
+      "whyItMatters": "Strengthens bilateral technological cooperation and advances clean energy transition goals.",
+      "brief": "Senior Indian and US officials met in Washington to discuss expanding civil nuclear energy cooperation, aiming to deepen strategic ties and foster advanced technological partnerships.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/canada-strengthens-defense-industry-amid-us-tensions-a-surge-in-local-military-contracting/articleshow/133557236.cms",
-      "dateLocation": "August 27, 2026 | Ottawa, Canada",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-us-officials-discuss-nuclear-energy-cooperation-in-washington/articleshow/133576462.cms",
+      "dateLocation": "Aug 27, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Accepts Novo Nordisk Oral Wegovy Application",
-      "whyItMatters": "Expands massive commercial market access for advanced anti-obesity therapeutics in Asia.",
-      "brief": "China's drug regulatory authority has officially accepted Novo Nordisk's application for oral Wegovy, paving the way for potential entry into one of the world's largest pharmaceutical markets.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlBqMlFxcWxxRzdMdDBfWHp5V2I0NWFkc1ZvZG5BRHFaU1RaUXlBZ3p2WUJST1hvTi01UUtJT1NLc1ZNbi1TdlFORVpKak53eml6bk9sWndhS2x2bF9waFZ2ZjVubDhrdHlnaUgzVGM2c2Z1c005ZVRONTBGVTZmc1ByRzBfSEV0S0xqcWdITGhQa01vaS1OSHJTS254d3dyNUk1S3RQTTRrbUxf?oc=5",
-      "dateLocation": "August 27, 2026 | Beijing, China",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Sri Lanka Draw Dents India's World Test Championship Hopes",
+      "whyItMatters": "Significantly narrows India's margin for error in the remaining international cricket calendar.",
+      "brief": "A resilient lower-order batting display by Sri Lanka forced a tense draw in Colombo, severely damaging India's qualification prospects for the World Test Championship final.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/colombo-draw-tastes-like-defeat-as-sri-lanka-dent-indias-wtc-final-hopes/articleshow/133567023.cms",
+      "dateLocation": "Aug 27, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Anaya Bangar Cleared to Play Australian Domestic Cricket",
-      "whyItMatters": "Milestone inclusion highlights evolving sports governance and opportunities in professional cricket pathways.",
-      "brief": "Former Mumbai youth player Anaya Bangar has received official approval from Cricket Australia to compete in domestic cricket leagues, marking an important step forward in her career.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/anaya-bangar-gets-cricket-australia-approval-who-is-she/article71392039.ece",
-      "dateLocation": "August 27, 2026 | Melbourne, Australia",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Meta Explored Massive Layoffs Tied to AI Integration Plans",
+      "whyItMatters": "Highlights internal corporate friction over aggressive automation and workforce restructuring.",
+      "brief": "Internal documents reveal Meta previously explored cutting up to 60 percent of staff and replacing traditional teams with AI agents, a plan that stalled amid employee pushback.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-a-plan-hatched-at-mark-zuckerbergs-hawaii-compound-in-january-meta-explored-laying-off-60-employees-deleting-layers-of-middle-management-and-running-product-development-with/articleshow/133569765.cms",
+      "dateLocation": "Aug 27, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Banks and Corporates Well Positioned for Economic Downturn",
+      "whyItMatters": "Indicates robust financial health and resilience against macroeconomic volatility.",
+      "brief": "SBI Chairman CS Setty stated that Indian banks and corporations possess stronger balance sheets than before, positioning them well to weather upcoming global economic downturns.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-companies-better-positioned-to-weather-next-downturn-cs-setty-sbi-chairman/articleshow/133577665.cms",
+      "dateLocation": "Aug 27, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Norway King Harald Remains in Very Serious Health Condition",
+      "whyItMatters": "Sparks national concern regarding the stability and future of the monarchy.",
+      "brief": "King Harald V of Norway continues to receive intensive medical care in hospital, remaining in a very serious condition following a sudden health deterioration.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/norways-king-harald-remains-in-very-serious-condition-11787857158121.html",
+      "dateLocation": "Aug 27, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
