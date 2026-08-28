@@ -1,147 +1,120 @@
 {
-  "lastUpdated": "2026-08-28T08:56:45.881Z",
+  "lastUpdated": "2026-08-28T21:42:16.794Z",
   "ticker": [
-    "Nepal flood death toll climbs as China border lake overflows",
-    "US judge rules Pentagon acted illegally against Anthropic",
-    "Tech giants warn industries to prepare for AI-enabled hacking",
-    "Gold slips as markets await Fed chief Warsh's debut",
-    "India and Canada commit to complete trade deal by 2026"
+    "India's forex reserves hit record $729B",
+    "Nepal flood death toll rises to 579",
+    "Jio Platforms secures $3.8B IPO approval",
+    "India and US sign Javelin missile deal",
+    "Meta agrees to $18B teen safety settlement"
   ],
   "articles": [
     {
-      "headline": "Nepal Flood Death Toll Nears 500 as Border Lake Overflows",
-      "whyItMatters": "Catastrophic flooding threatens more devastation and halts rescue operations.",
-      "brief": "Nepal faces a severe crisis as death tolls cross 469 following flash floods and a swelling glacial lake near the Chinese border, prompting halted rescue efforts and local evacuations.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-death-surges-nearly-1500-missing-fresh-flood-threat-glacier-collapse-live-updates-august-28-2026/article71398953.ece",
-      "dateLocation": "August 28, 2026 | Nepal/China Border",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Judge Rules Pentagon Acted Illegally Against Anthropic",
-      "whyItMatters": "A major legal win for AI firms challenging government risk classifications.",
-      "brief": "A US federal judge ruled in favor of artificial intelligence company Anthropic, finding the Pentagon's decision to designate the firm as a supply chain risk illegal.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/anthropic-vs-pentagon-judge-rules-in-favour-of-ai-company-says-us-govt-acted-illegally-all-you-need-to-know-11787892082981.html",
-      "dateLocation": "August 28, 2026 | Washington, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tech Giants Warn Industries to Prepare for AI-Enabled Hacking",
-      "whyItMatters": "Critical infrastructure faces escalating threats from advanced AI-driven cyber attacks.",
-      "brief": "OpenAI, Google, Microsoft and over 100 tech companies issued a collective warning urging essential sectors to urgently fortify their cybersecurity against AI-driven threats.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/openai-google-microsoft-and-over-100-other-tech-companies-write-letter-to-energy-healthcare-and-other-industries-prepare-for-ai-enabled-hacking/articleshow/133587475.cms",
-      "dateLocation": "August 28, 2026 | Global",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Slips as Fed Chief Warsh's Jackson Hole Speech Looms",
-      "whyItMatters": "Investors await monetary policy signals that will drive global currency movements.",
-      "brief": "Gold prices and the dollar remained steady as global investors awaited the Jackson Hole debut speech by Fed chief Warsh for hints on future interest rates.",
+      "headline": "India's Forex Reserves Hit Record $729 Billion",
+      "whyItMatters": "Demonstrates robust external economic stability driven by sustained capital inflows.",
+      "brief": "India's foreign exchange reserves have surged to an all-time high of $729 billion, supported by continuous capital inflows strengthening the country's macroeconomic position.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE?oc=5",
       "dateLocation": "August 28, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and Canada Reiterate Commitment to Complete Trade Deal",
-      "whyItMatters": "Bilateral economic partnership aims to finalize a comprehensive pact by late 2026.",
-      "brief": "Finance ministers from India and Canada concluded their inaugural economic dialogue in Toronto, committing to conclude a trade deal and begin investment treaty negotiations.",
+      "headline": "Jio Platforms Wins Regulatory Approval For $3.8B IPO",
+      "whyItMatters": "Paves the way for one of India's largest public share offerings.",
+      "brief": "India's markets regulator has formally approved Jio Platforms' massive $3.8 billion initial public offering, marking a significant milestone for the telecom and tech giant.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/india-canada-reiterate-commitment-to-complete-trade-deal-by-end-of-2026/article71399403.ece",
-      "dateLocation": "August 28, 2026 | Toronto, Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVpfMXktQU4wUXFHUVhTcnUxWkZWVnlDV1V6aGhFaC1tZ3Z2YnA2VGlDQTQta2NxdGtURTFWY1dpQXZrR1VVWlpxWGZLVW5tbU1qRGNVZmh0Sks5SXhUMXlSeGVZOG54YklIbS1ITTQ2ZnlTUUZzRG05eC1mN2loVENwZFltamRmeEVfTlBoZTFUYzI3NzJqSGRWUENFQ1JOUFhBZ0tyVVpaNDlPUGVJ?oc=5",
+      "dateLocation": "August 28, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "DGGI Issues Rs 40,603 Crore GST Demand to Betting Network",
-      "whyItMatters": "Represents one of the largest tax recovery enforcement actions in recent history.",
-      "brief": "India's tax authorities gave the promoters of the Mahadev betting network a 30-day window to respond to a massive Rs 40,603 crore GST demand notice.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/dggi-issues-40603-crore-gst-demand-to-mahadev-book-promoters-chandrakar-and-uppal-amid-ongoing-betting-network-investigations/articleshow/133587309.cms",
-      "dateLocation": "August 28, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Toyota Sales and Production Fall on Sharp Declines in China",
-      "whyItMatters": "Automotive giant faces mounting pressures in key international manufacturing markets.",
-      "brief": "Toyota reported notable drops in global sales and production driven by severe demand contractions in the Chinese and Middle Eastern markets.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEtxSHAxUUVBZTFKQk0xVnpjUDlpUFBUR3dFcEdIT1RCYTVGWkp3WUNTeno4TjlVdno1VWN2UmhURmJ1TGJVT1NNcmpwVGxpcDMzTFY2WkRHRlJnajh4RS1FTEt4SDdCZnV4dmphX2ZFTlBFRnluWkhTR3E2UkZ5TUJhdkJXaU9WdVdxdE5pREVvU2JDXzlxWV9RUWM0WjRsMk9YWWZUNzdoMFkxTHNoWWdFMFJJVk1iNUljZHNScVpJWS1LcGc?oc=5",
-      "dateLocation": "August 28, 2026 | Tokyo, Japan",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Draws Up Financing Framework for Next Investment Cycle",
-      "whyItMatters": "Aims to build bankable projects and deepen debt markets for massive funding needs.",
-      "brief": "The Indian government has drawn up a dedicated framework to kick-start its next investment cycle and secure bankable projects to meet extensive external funding requirements.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/investment-cycle-bankable-projects-capital-expenditure-debt-capital-markets-11787825876059.html",
-      "dateLocation": "August 28, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Imran Khan's Sons Voice Urgent Fears for His Prison Safety",
-      "whyItMatters": "Heightens political tensions surrounding the detained former Pakistani leader.",
-      "brief": "The sons of imprisoned former Pakistan Prime Minister Imran Khan have publicly voiced severe fears for his safety, accusing authorities of endangering his life inside jail.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/theyre-blatantly-trying-to-kill-him-in-there-imran-khans-sons-voice-fears-for-his-safety/articleshow/133587429.cms",
-      "dateLocation": "August 28, 2026 | Islamabad, Pakistan",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Groundsman Who Clashed with Gautam Gambhir Placed on Leave",
-      "whyItMatters": "Follows ongoing administrative friction and fresh controversies at English cricket venues.",
-      "brief": "Head groundsman Lee Fortis has been placed on leave following an altercation with an ECB employee at The Oval, adding to prior controversies involving India coach Gautam Gambhir.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/groundsman-who-clashed-with-gautam-gambhir-placed-on-leave-after-fresh-controversy/articleshow/133585094.cms",
-      "dateLocation": "August 28, 2026 | London, UK",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sensex Sees Wild Swings During Closing Auction Session",
-      "whyItMatters": "Highlights sudden market volatility and liquidity shifts on stock exchanges.",
-      "brief": "The BSE Sensex experienced dramatic volatility during a closing auction session, crashing thousands of points before recovering sharply within a brief trading window.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/on-fo-expiry-day-sensex-sees-wild-swings-during-closing-auction-session/articleshow/133578425.cms",
-      "dateLocation": "August 28, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Punjab Imposes One-Year Ban on Manufacture of Analogue Paneer",
-      "whyItMatters": "Protects public health standards and authentic dairy product markets from adulteration.",
-      "brief": "The Punjab government has imposed a strict one-year ban on the manufacture, sale, and storage of analogue paneer to curb substandard imitation dairy products.",
+      "headline": "India Proposes Front-of-Pack Warning Labels For Packaged Foods",
+      "whyItMatters": "Aims to drastically improve public health awareness regarding high sugar, salt, and fat.",
+      "brief": "Following intense public outcry and advocacy, India has proposed prominent front-of-pack warning labels for packaged foods containing high levels of fat, sugar, and salt.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/punjab-government-imposes-one-year-ban-on-manufacture-sale-and-storage-of-analogue-paneer/articleshow/133587203.cms",
-      "dateLocation": "August 28, 2026 | Chandigarh, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2NiY2FTQVlpNUtTanFadmFrSGVPTzBLRkpWc2RRR2wtaWNjVWJldjVJNEZPcHphaDJGSFh6amdUbzgwOWJOekV4czV6OGYwYmowSllmZ2dZRGRyUjVEWl9WVHBOTVRKejk5MnItOGppSEFVZWlLOFF2S2ptLXZyWVkySWxqb2pQcU8zU3ZzSWlOTU1YdzEwTzJ2aTlKUVVjV2dkcUg4NEowWm5DbEVNYmlqZDQtUktX?oc=5",
+      "dateLocation": "August 28, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nestle Wants India to Consult on Food-Labelling Rules",
-      "whyItMatters": "Regulatory changes could significantly impact corporate packaging and product marketing strategies.",
-      "brief": "Nestle has called on Indian authorities for comprehensive consultations regarding new food-labelling rules amid ongoing public debates over warning labels on packaging.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0s1ODJnaWJLVDNtdzhXZUxRYWxBRHJvLWtPcFZRbXZIa3RnN25IMUtOR2hPZ2pTa0E3TW8tY2dtb0lQSFR3RUgtQlpqdFNCVi1tbmpTVjBtRWktMHYwV0FPRGFBYXF2cVNtWWh2UE9YMG5lRWJxN2xJUG8wWV81OWc4MUdVZXJUVWhLaERlUEF3emxwYW55Vk5HekpySDY4dUpmUlVISWRITjRfa1A3R3N4Rm5vUGlFTHp3ZkkyaFRTcUE2dkZZRkF6dw?oc=5",
-      "dateLocation": "August 28, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "India And US Sign Deal For Javelin Anti-Tank Missiles",
+      "whyItMatters": "Strengthens bilateral defense cooperation and enhances India's tactical military capabilities.",
+      "brief": "India has finalized a major defense agreement with the United States to purchase advanced Javelin anti-tank missile systems to bolster its military readiness.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ095M0taQTY4ZXJWRUFENDdIbFg2LVNoS2pSaVJPT2YwOHUtekpQMWJKa0xGak5NUVp0d21QZ1lzUEc1NG9wLWhNLV9UcXZ2UERibndRWHdjQl8yOTdudXBEZXFPS2ppdmNlaW4wNzcxV050Q01uNnRReE1FR1VHanVwU0o2ZGMwa25BRXFLWWZsNHFHS2RIdFJXanJSaFdKSXVIcW1GcG5keG90LVNxc2l3N0ZLX0VnWHdoN1Rn?oc=5",
+      "dateLocation": "August 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Meta Explored 60% Layoffs and AI Automation in Hawaii Plan",
-      "whyItMatters": "Unveils internal struggles over aggressive AI integration and corporate restructuring.",
-      "brief": "Internal documents reveal Meta hatched a plan at Mark Zuckerberg's Hawaii compound to cut teams by 60% using AI agents, though the scheme stalled amid staff resistance.",
+      "headline": "Nepal Flood Death Toll Rises To 579 As Search Continues",
+      "whyItMatters": "Highlights a devastating regional humanitarian crisis driven by extreme weather.",
+      "brief": "The death toll from catastrophic flash floods and glacier collapses in Nepal has surged to 579, with hundreds of citizens and Indian nationals still reported missing.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-surges-nearly-1500-missing-fresh-flood-threat-glacier-collapse-live-updates-august-28-2026/article71398953.ece",
+      "dateLocation": "August 28, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US FDA Approves Mounjaro To Reduce Cardiovascular Risk",
+      "whyItMatters": "Expands therapeutic applications for a leading metabolic disease treatment.",
+      "brief": "The US FDA has officially approved Eli Lilly's Mounjaro for lowering cardiovascular risks, offering a vital new preventive benefit for patients with metabolic conditions.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbTQ5NEtsQlRFV3RndUxiRTJVN0hibGxMbHBRVFhEamU4RXpHTkJrbzE0Q0lwRy1iVjVpczBTTzRkSkZDNlNvMkgybWRvNWZsbDZ5VnZWNllCN2U2QmtfTWJwRU1WOTAwTk12ajI3bWlkUDZQN1NCcGJzM1BiRkhUSHVFY29xREdLakdZNldEXzNBbzNkYnozcmpicVBXVm54X3VIWk51T0tDZ1dIWHVpZE8xaWdWSllCNUlXU3pMNGRBODU5cnktR2Zn?oc=5",
+      "dateLocation": "August 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China's Tencent Releases New Open-Source AI Model",
+      "whyItMatters": "Intensifies global competition in open-source artificial intelligence development.",
+      "brief": "Tencent has launched a cutting-edge open-source AI model specifically designed to optimize coding workflows and complex academic research tasks.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-a-plan-hatched-at-mark-zuckerbergs-hawaii-compound-in-january-meta-explored-laying-off-60-employees-deleting-layers-of-middle-management-and-running-product-development-with/articleshow/133569765.cms",
-      "dateLocation": "August 28, 2026 | Menlo Park, USA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVplU1pYVzl4dkJPUmVQZi1XZ01xY29YNWV2WDZyb2VJb1V2ZjZLZU5EVFFhR3dvbWZOc3BCbUNPb3MyNncwTGVOY3pCdl96VUU1WVFYdnRJSnJvcDJrYzg0OE82emlmZGplWjhKSlcweWdnUkRUMDYwci05X2NleXlrTm44LXZ0bmdTeU9jNWkzRkx6NmFWMzYyYkFWcUpabDgxLXQzTTc0UEdwNy16WTB3RE5EUkZlN0taWGRmYzhfZDA?oc=5",
+      "dateLocation": "August 28, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "White House Construction Contributed to Marine One Near-Miss",
-      "whyItMatters": "Infrastructure work caused radio communication failures for presidential transport.",
-      "brief": "An NTSB report confirmed that ongoing White House construction created radio line-of-sight issues which contributed to a near-collision between Marine One and a commercial jet.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/white-house-construction-may-have-contributed-to-trump-s-marine-one-getting-close-to-commercial-jet-what-we-know-11787885112126.html",
-      "dateLocation": "August 28, 2026 | Washington, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Trump Administration Targets UAE Branches Of Egyptian Bank",
+      "whyItMatters": "Escalates economic pressure and financial sanctions to isolate Iran.",
+      "brief": "Washington has restricted Banque Misr's UAE branches from accessing the US financial system, accusing the institution of supporting Iranian networks.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-administration-targets-egyptian-bank-s-uae-branches-in-fresh-push-to-isolate-iran-11787945467762.html",
+      "dateLocation": "August 28, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Belgium Defeats India In Hockey World Cup Shootout",
+      "whyItMatters": "Concludes a hard-fought tournament campaign for the Indian national squad.",
+      "brief": "India suffered a heartbreaking defeat to Belgium in a penalty shootout after a thrilling 3-3 draw, securing an eighth-place finish at the Hockey World Cup.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/belgium-break-indian-hearts-in-shootout-as-harmanpreets-side-finish-eighth-in-hockey-world-cup/articleshow/133598475.cms",
+      "dateLocation": "August 28, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Meta Agrees To $18 Billion Settlement Over Teen Protections",
+      "whyItMatters": "Mandates sweeping structural safety overhauls across major social media networks.",
+      "brief": "Meta has reached an $18 billion settlement with dozens of state attorneys general, agreeing to implement strict screen-time limits, night modes, and safety guards for minors.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/time-limit-school-mode-and-more-11-changes-that-meta-promises-it-will-add-for-teens-on-instagram-and-facebook/articleshow/133593313.cms",
+      "dateLocation": "August 28, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India And Canada Target C$70 Billion Bilateral Trade",
+      "whyItMatters": "Aims to deepen economic ties and initiate bilateral investment treaties.",
+      "brief": "India and Canada have set an ambitious target of reaching C$70 billion in bilateral trade by 2030, while preparing to begin formal investment treaty negotiations.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/india-canada-target-c-70-billion-bilateral-trade-by-2030-eye-investment-treaty-talks-11787918395358.html",
+      "dateLocation": "August 28, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Belgium Farmer Proves Viability Of Non-Irrigated Crop Farming",
+      "whyItMatters": "Offers sustainable agricultural models for tackling severe global water shortages.",
+      "brief": "A Belgian farmer has successfully maintained moisture-rich crop soil without any artificial irrigation for 26 years through advanced organic matter integration and no-plow practices.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/a-belgian-farmer-says-he-has-not-irrigated-outdoor-crops-for-26-years-dig-just-5-to-10-cm-below-the-dry-looking-surface-and-the-soil-is-still-moist/articleshow/133586293.cms",
+      "dateLocation": "August 28, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
