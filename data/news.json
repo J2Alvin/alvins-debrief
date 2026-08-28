@@ -1,84 +1,147 @@
 {
-  "lastUpdated": "2026-08-27T21:42:20.725Z",
+  "lastUpdated": "2026-08-28T08:56:45.881Z",
   "ticker": [
-    "Nepal-China Flood Alert Rising",
-    "Trump Renames Lake Ontario",
-    "UK Airports Hit By Cyber Breach",
-    "India-US Nuclear Talks Advance",
-    "Norway King's Health Very Serious"
+    "Nepal flood death toll climbs as China border lake overflows",
+    "US judge rules Pentagon acted illegally against Anthropic",
+    "Tech giants warn industries to prepare for AI-enabled hacking",
+    "Gold slips as markets await Fed chief Warsh's debut",
+    "India and Canada commit to complete trade deal by 2026"
   ],
   "articles": [
     {
-      "headline": "Nepal and China Warn of Fresh Glacial Flood Risks",
-      "whyItMatters": "Impending lake bursts threaten widespread destruction and displacement across the border regions.",
-      "brief": "Nepal and China have issued urgent warnings regarding fresh flood risks as high-altitude lakes threaten to burst, compounding an already severe humanitarian crisis with hundreds dead or missing.",
+      "headline": "Nepal Flood Death Toll Nears 500 as Border Lake Overflows",
+      "whyItMatters": "Catastrophic flooding threatens more devastation and halts rescue operations.",
+      "brief": "Nepal faces a severe crisis as death tolls cross 469 following flash floods and a swelling glacial lake near the Chinese border, prompting halted rescue efforts and local evacuations.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHFFMmE2MDBjZUxUUXdRbWV3bmU1MVk3Mndta3B4WjNnMnJmZk1tRlhuSUNYUHNhQ3dXVlU2YVpnNGNTMHFxZWh3SWRjSWN1bVFudVpBSjE1d0ViNWlmWnF6MExkWW5KTUhWMTFoVkkxTHNESGJLZWdvdFlaNzZkeUFjM2pmSnFENEN1SFZJVHRMbUJZdlVEaFdUYkw2QlhGSVZHT1ZZbTdPOHJYdWxrQmtCUXN5a1h4NndMSQ?oc=5",
-      "dateLocation": "Aug 27, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-death-surges-nearly-1500-missing-fresh-flood-threat-glacier-collapse-live-updates-august-28-2026/article71398953.ece",
+      "dateLocation": "August 28, 2026 | Nepal/China Border",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Signs Order Renaming Lake Ontario to Lake America",
-      "whyItMatters": "The provocative naming move further strains diplomatic and trade relations with Canada.",
-      "brief": "US President Donald Trump escalated trade tensions with Canada by signing an executive order unilaterally renaming Lake Ontario as Lake America for US federal geographic services.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-signs-order-to-rename-lake-ontario-lake-america-with-immediate-effect-11787851838005.html",
-      "dateLocation": "Aug 27, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK Airports Suffer Data Breach Following Cyber Attack",
-      "whyItMatters": "Exposes vulnerabilities in critical transport infrastructure and customer data security.",
-      "brief": "Manchester, Stansted, and East Midlands airports confirmed a cyber attack compromised customer booking and Wi-Fi data, though operational passenger safety remains unaffected.",
+      "headline": "US Judge Rules Pentagon Acted Illegally Against Anthropic",
+      "whyItMatters": "A major legal win for AI firms challenging government risk classifications.",
+      "brief": "A US federal judge ruled in favor of artificial intelligence company Anthropic, finding the Pentagon's decision to designate the firm as a supply chain risk illegal.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/world/uk-airports-cyber-attack-manchester-stansted-and-east-midlands-customers-data-accessed-passenger-safety-unaffected-11787862193392.html",
-      "dateLocation": "Aug 27, 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/us-news/anthropic-vs-pentagon-judge-rules-in-favour-of-ai-company-says-us-govt-acted-illegally-all-you-need-to-know-11787892082981.html",
+      "dateLocation": "August 28, 2026 | Washington, USA",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and US Officials Hold Strategic Nuclear Energy Talks",
-      "whyItMatters": "Strengthens bilateral technological cooperation and advances clean energy transition goals.",
-      "brief": "Senior Indian and US officials met in Washington to discuss expanding civil nuclear energy cooperation, aiming to deepen strategic ties and foster advanced technological partnerships.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-us-officials-discuss-nuclear-energy-cooperation-in-washington/articleshow/133576462.cms",
-      "dateLocation": "Aug 27, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tech Giants Warn Industries to Prepare for AI-Enabled Hacking",
+      "whyItMatters": "Critical infrastructure faces escalating threats from advanced AI-driven cyber attacks.",
+      "brief": "OpenAI, Google, Microsoft and over 100 tech companies issued a collective warning urging essential sectors to urgently fortify their cybersecurity against AI-driven threats.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/openai-google-microsoft-and-over-100-other-tech-companies-write-letter-to-energy-healthcare-and-other-industries-prepare-for-ai-enabled-hacking/articleshow/133587475.cms",
+      "dateLocation": "August 28, 2026 | Global",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Sri Lanka Draw Dents India's World Test Championship Hopes",
-      "whyItMatters": "Significantly narrows India's margin for error in the remaining international cricket calendar.",
-      "brief": "A resilient lower-order batting display by Sri Lanka forced a tense draw in Colombo, severely damaging India's qualification prospects for the World Test Championship final.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/colombo-draw-tastes-like-defeat-as-sri-lanka-dent-indias-wtc-final-hopes/articleshow/133567023.cms",
-      "dateLocation": "Aug 27, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Explored Massive Layoffs Tied to AI Integration Plans",
-      "whyItMatters": "Highlights internal corporate friction over aggressive automation and workforce restructuring.",
-      "brief": "Internal documents reveal Meta previously explored cutting up to 60 percent of staff and replacing traditional teams with AI agents, a plan that stalled amid employee pushback.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-a-plan-hatched-at-mark-zuckerbergs-hawaii-compound-in-january-meta-explored-laying-off-60-employees-deleting-layers-of-middle-management-and-running-product-development-with/articleshow/133569765.cms",
-      "dateLocation": "Aug 27, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Banks and Corporates Well Positioned for Economic Downturn",
-      "whyItMatters": "Indicates robust financial health and resilience against macroeconomic volatility.",
-      "brief": "SBI Chairman CS Setty stated that Indian banks and corporations possess stronger balance sheets than before, positioning them well to weather upcoming global economic downturns.",
+      "headline": "Gold Slips as Fed Chief Warsh's Jackson Hole Speech Looms",
+      "whyItMatters": "Investors await monetary policy signals that will drive global currency movements.",
+      "brief": "Gold prices and the dollar remained steady as global investors awaited the Jackson Hole debut speech by Fed chief Warsh for hints on future interest rates.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-companies-better-positioned-to-weather-next-downturn-cs-setty-sbi-chairman/articleshow/133577665.cms",
-      "dateLocation": "Aug 27, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlR0QXlieWo3eENkM0t6U1djSVl3MzVYWXhqNm0zZzQwdlM3YWo1UW5lNk12RGFfYmVxY2xIVzRsa2NGRnJTVVZ5bGNGSFdoYjl1clctVDQ2Sy1mbUIydVFudDl3VjRGbE1ST3d3VlpFUm9oZkk2X3dYTkV0NVRvNEZOWWtQOGhRUEJsWVc5dFRtalZDRW05Sk9NbHIyTGttOTIw?oc=5",
+      "dateLocation": "August 28, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Norway King Harald Remains in Very Serious Health Condition",
-      "whyItMatters": "Sparks national concern regarding the stability and future of the monarchy.",
-      "brief": "King Harald V of Norway continues to receive intensive medical care in hospital, remaining in a very serious condition following a sudden health deterioration.",
+      "headline": "India and Canada Reiterate Commitment to Complete Trade Deal",
+      "whyItMatters": "Bilateral economic partnership aims to finalize a comprehensive pact by late 2026.",
+      "brief": "Finance ministers from India and Canada concluded their inaugural economic dialogue in Toronto, committing to conclude a trade deal and begin investment treaty negotiations.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/india-canada-reiterate-commitment-to-complete-trade-deal-by-end-of-2026/article71399403.ece",
+      "dateLocation": "August 28, 2026 | Toronto, Canada",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DGGI Issues Rs 40,603 Crore GST Demand to Betting Network",
+      "whyItMatters": "Represents one of the largest tax recovery enforcement actions in recent history.",
+      "brief": "India's tax authorities gave the promoters of the Mahadev betting network a 30-day window to respond to a massive Rs 40,603 crore GST demand notice.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/dggi-issues-40603-crore-gst-demand-to-mahadev-book-promoters-chandrakar-and-uppal-amid-ongoing-betting-network-investigations/articleshow/133587309.cms",
+      "dateLocation": "August 28, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Toyota Sales and Production Fall on Sharp Declines in China",
+      "whyItMatters": "Automotive giant faces mounting pressures in key international manufacturing markets.",
+      "brief": "Toyota reported notable drops in global sales and production driven by severe demand contractions in the Chinese and Middle Eastern markets.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEtxSHAxUUVBZTFKQk0xVnpjUDlpUFBUR3dFcEdIT1RCYTVGWkp3WUNTeno4TjlVdno1VWN2UmhURmJ1TGJVT1NNcmpwVGxpcDMzTFY2WkRHRlJnajh4RS1FTEt4SDdCZnV4dmphX2ZFTlBFRnluWkhTR3E2UkZ5TUJhdkJXaU9WdVdxdE5pREVvU2JDXzlxWV9RUWM0WjRsMk9YWWZUNzdoMFkxTHNoWWdFMFJJVk1iNUljZHNScVpJWS1LcGc?oc=5",
+      "dateLocation": "August 28, 2026 | Tokyo, Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Draws Up Financing Framework for Next Investment Cycle",
+      "whyItMatters": "Aims to build bankable projects and deepen debt markets for massive funding needs.",
+      "brief": "The Indian government has drawn up a dedicated framework to kick-start its next investment cycle and secure bankable projects to meet extensive external funding requirements.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/investment-cycle-bankable-projects-capital-expenditure-debt-capital-markets-11787825876059.html",
+      "dateLocation": "August 28, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Imran Khan's Sons Voice Urgent Fears for His Prison Safety",
+      "whyItMatters": "Heightens political tensions surrounding the detained former Pakistani leader.",
+      "brief": "The sons of imprisoned former Pakistan Prime Minister Imran Khan have publicly voiced severe fears for his safety, accusing authorities of endangering his life inside jail.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/theyre-blatantly-trying-to-kill-him-in-there-imran-khans-sons-voice-fears-for-his-safety/articleshow/133587429.cms",
+      "dateLocation": "August 28, 2026 | Islamabad, Pakistan",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Groundsman Who Clashed with Gautam Gambhir Placed on Leave",
+      "whyItMatters": "Follows ongoing administrative friction and fresh controversies at English cricket venues.",
+      "brief": "Head groundsman Lee Fortis has been placed on leave following an altercation with an ECB employee at The Oval, adding to prior controversies involving India coach Gautam Gambhir.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/groundsman-who-clashed-with-gautam-gambhir-placed-on-leave-after-fresh-controversy/articleshow/133585094.cms",
+      "dateLocation": "August 28, 2026 | London, UK",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sensex Sees Wild Swings During Closing Auction Session",
+      "whyItMatters": "Highlights sudden market volatility and liquidity shifts on stock exchanges.",
+      "brief": "The BSE Sensex experienced dramatic volatility during a closing auction session, crashing thousands of points before recovering sharply within a brief trading window.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/on-fo-expiry-day-sensex-sees-wild-swings-during-closing-auction-session/articleshow/133578425.cms",
+      "dateLocation": "August 28, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Punjab Imposes One-Year Ban on Manufacture of Analogue Paneer",
+      "whyItMatters": "Protects public health standards and authentic dairy product markets from adulteration.",
+      "brief": "The Punjab government has imposed a strict one-year ban on the manufacture, sale, and storage of analogue paneer to curb substandard imitation dairy products.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/norways-king-harald-remains-in-very-serious-condition-11787857158121.html",
-      "dateLocation": "Aug 27, 2026 | Livemint",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/punjab-government-imposes-one-year-ban-on-manufacture-sale-and-storage-of-analogue-paneer/articleshow/133587203.cms",
+      "dateLocation": "August 28, 2026 | Chandigarh, India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nestle Wants India to Consult on Food-Labelling Rules",
+      "whyItMatters": "Regulatory changes could significantly impact corporate packaging and product marketing strategies.",
+      "brief": "Nestle has called on Indian authorities for comprehensive consultations regarding new food-labelling rules amid ongoing public debates over warning labels on packaging.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0s1ODJnaWJLVDNtdzhXZUxRYWxBRHJvLWtPcFZRbXZIa3RnN25IMUtOR2hPZ2pTa0E3TW8tY2dtb0lQSFR3RUgtQlpqdFNCVi1tbmpTVjBtRWktMHYwV0FPRGFBYXF2cVNtWWh2UE9YMG5lRWJxN2xJUG8wWV81OWc4MUdVZXJUVWhLaERlUEF3emxwYW55Vk5HekpySDY4dUpmUlVISWRITjRfa1A3R3N4Rm5vUGlFTHp3ZkkyaFRTcUE2dkZZRkF6dw?oc=5",
+      "dateLocation": "August 28, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Meta Explored 60% Layoffs and AI Automation in Hawaii Plan",
+      "whyItMatters": "Unveils internal struggles over aggressive AI integration and corporate restructuring.",
+      "brief": "Internal documents reveal Meta hatched a plan at Mark Zuckerberg's Hawaii compound to cut teams by 60% using AI agents, though the scheme stalled amid staff resistance.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-a-plan-hatched-at-mark-zuckerbergs-hawaii-compound-in-january-meta-explored-laying-off-60-employees-deleting-layers-of-middle-management-and-running-product-development-with/articleshow/133569765.cms",
+      "dateLocation": "August 28, 2026 | Menlo Park, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "White House Construction Contributed to Marine One Near-Miss",
+      "whyItMatters": "Infrastructure work caused radio communication failures for presidential transport.",
+      "brief": "An NTSB report confirmed that ongoing White House construction created radio line-of-sight issues which contributed to a near-collision between Marine One and a commercial jet.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/us-news/white-house-construction-may-have-contributed-to-trump-s-marine-one-getting-close-to-commercial-jet-what-we-know-11787885112126.html",
+      "dateLocation": "August 28, 2026 | Washington, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
