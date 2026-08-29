@@ -1,120 +1,129 @@
 {
-  "lastUpdated": "2026-08-29T05:31:51.647Z",
+  "lastUpdated": "2026-08-29T12:14:34.884Z",
   "ticker": [
-    "Nepal flood death toll exceeds 600",
-    "Jio Platforms secures SEBI nod for $3.8B IPO",
-    "India forex reserves hit record $729 billion",
-    "PM Modi departs for Uzbekistan SCO Summit",
-    "Trump announces massive Venezuelan oil deal"
+    "Nepal flood death toll climbs past 620",
+    "India forex reserves hit record $729B",
+    "Russian strike on Kyiv warehouse kills 37",
+    "OpenAI cuts off Cursor amid Musk feud",
+    "PM Modi begins Central Asia diplomatic tour"
   ],
   "articles": [
     {
-      "headline": "Nepal Flash Floods Leave Over 600 Dead",
-      "whyItMatters": "Catastrophic flooding causes widespread devastation and requires billions in rebuilding.",
-      "brief": "Nepal faces severe devastation from flash floods along its border with China, with the death toll surpassing 600 and nearly 2,500 missing. Finance Minister Swarnim Wagle stated the nation needs at least $4 billion for reconstruction.",
+      "headline": "Nepal Flood Death Toll Exceeds 620",
+      "whyItMatters": "The disaster threatens immense economic and humanitarian damage to the country.",
+      "brief": "Flash floods triggered by glacier collapses and heavy rains have left over 620 dead and thousands missing, prompting urgent rescue operations.",
       "category": "world",
       "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-missing-persons-fresh-flood-threat-glacier-collapse-live-updates-august-29-2026/article71403315.ece",
-      "dateLocation": "August 29, 2026 | Kathmandu, Nepal",
+      "dateLocation": "Aug 29, 2026 | Kathmandu, Nepal",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Jio Platforms Approved for $3.8 Billion IPO",
-      "whyItMatters": "Marks one of the largest public offerings in the region's telecommunications sector.",
-      "brief": "India's market regulator has officially approved Reliance Industries' telecom arm, Jio Platforms, to proceed with its massive $3.8 billion initial public offering, paving the way for one of the biggest market debuts.",
+      "headline": "India Forex Reserves Hit $729 Billion",
+      "whyItMatters": "Demonstrates strong macroeconomic stability and sustained capital inflows into India's markets.",
+      "brief": "India's foreign exchange reserves reached an all-time high of $729 billion, driven by robust capital inflows and strong investor confidence.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVpfMXktQU4wUXFHUVhTcnUxWkZWVnlDV1V6aGhFaC1tZ3Z2YnA2VGlDQTQta2NxdGtURTFWY1dpQXZrR1VVWlpxWGZLVW5tbU1qRGNVZmh0Sks5SXhUMXlSeGVZOG54YklIbS1ITTQ2ZnlTUUZzRG05eC1mN2loVENwZFltamRmeEVfTlBoZTFUYzI3NzJqSGRWUENFQ1JOUFhBZ0tyVVpaNDlPUGVJ?oc=5",
-      "dateLocation": "August 29, 2026 | Mumbai, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE?oc=5",
+      "dateLocation": "Aug 29, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Forex Reserves Reach Record $729 Billion",
-      "whyItMatters": "Demonstrates robust external sector strength amidst sustained capital inflows.",
-      "brief": "Driven by robust capital inflows, India's foreign exchange reserves have surged to an all-time high of $729 billion, strengthening the country's economic stability against external shocks.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE?oc=5",
-      "dateLocation": "August 29, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "OpenAI to Sever Access for SpaceX's Cursor",
+      "whyItMatters": "Highlights escalating corporate and technological conflicts between major AI and aerospace entities.",
+      "brief": "OpenAI plans to cut off its AI models for the SpaceX-owned coding tool Cursor, deepening tensions between OpenAI and Elon Musk.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
+      "dateLocation": "Aug 29, 2026 | San Francisco, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "PM Modi Departs for Uzbekistan SCO Summit",
-      "whyItMatters": "Advances India's strategic geopolitical engagement and regional connectivity across Central Asia.",
-      "brief": "Prime Minister Narendra Modi has embarked on a two-nation Central Asia tour, starting with Uzbekistan for the Shanghai Cooperation Organisation summit to promote regional security and economic cooperation.",
+      "headline": "Russian Strike on Kyiv Warehouse Kills 37",
+      "whyItMatters": "Marks a significant escalation in infrastructure attacks amidst the ongoing regional conflict.",
+      "brief": "A heavy Russian strike on a Kyiv-area logistics warehouse triggered secondary detonations, resulting in at least 37 fatalities and severe structural damage.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk5FRC00VjkxVTRuVXJFam1IaTVqcmV6R2pXX2pJME1fYXkzSFc0NWoyQXpmdGxYeno1ejV0Rk9jZGd6bDliLUdqcm9fWF8ybFhNUmFHUnAxdkEzdnNSRFowYW1MTE1qSUxKTHJLQjZrak5tdkg0NEd4MkFhTDFGbmNYWlBFSlU3Sy0zRU9kM0FEMVpva3VoTy1Xbmd6NF9JZ04zRXROcUxyOVJEc0U1Q1hn?oc=5",
+      "dateLocation": "Aug 29, 2026 | Kyiv, Ukraine",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Proposes Red Hexagons on Packaged Foods",
+      "whyItMatters": "Aims to tackle rising health crises via aggressive front-of-pack nutritional transparency.",
+      "brief": "Following public outcry, Indian authorities proposed mandatory red-colored hexagonal warning labels on packaged foods high in critical nutrients.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2NiY2FTQVlpNUtTanFadmFrSGVPTzBLRkpWc2RRR2wtaWNjVWJldjVJNEZPcHphaDJGSFh6amdUbzgwOWJOekV4czV6OGYwYmowSllmZ2dZRGRyUjVEWl9WVHBOTVRKejk5MnItOGppSEFVZWlLOFF2S2ptLXZyWVkySWxqb2pQcU8zU3ZzSWlOTU1YdzEwTzJ2aTlKUVVjV2dkcUg4NEowWm5DbEVNYmlqZDQtUktX?oc=5",
+      "dateLocation": "Aug 29, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tamil Nadu Sets Up Safe Houses for Couples",
+      "whyItMatters": "Addresses severe social security issues and adheres to top court rulings on honor killings.",
+      "brief": "The Tamil Nadu government announced district safe houses to shelter vulnerable couples facing threats, following Supreme Court guidelines.",
       "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/looking-to-advance-indias-vision-for-region-free-from-terror-pm-modi-ahead-of-sco-summit-state-visit-to-uzbekistan/articleshow/133603644.cms",
-      "dateLocation": "August 29, 2026 | New Delhi, India",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/honour-killing-tamil-nadu-to-set-up-safe-houses-in-districts-to-provide-shelter-to-vulnerable-affected-couples/article71404215.ece",
+      "dateLocation": "Aug 29, 2026 | Chennai, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Announces Majority Control of Venezuelan Oil",
-      "whyItMatters": "Drastically shifts global energy dynamics and impacts domestic fuel pricing.",
-      "brief": "Former US President Donald Trump announced what he termed the biggest oil deal in history, securing majority US control over 65 billion barrels of Venezuela's proven oil reserves.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-announces-biggest-oil-deal-in-history-giving-us-majority-control-of-65-billion-barrels-of-venezuelan-reserves-11787962127605.html",
-      "dateLocation": "August 29, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Carlos Alcaraz Returns to Tennis at US Open",
+      "whyItMatters": "Brings one of tennis's premier stars back to Grand Slam competition after a prolonged injury.",
+      "brief": "Carlos Alcaraz is back in competitive action at the US Open following a four-month wrist injury layoff, facing Roman Safiullin.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/us_open-carlos_alcaraz-walks-back-into-the-spotlight/articleshow/133610692.cms",
+      "dateLocation": "Aug 29, 2026 | New York, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI to End Agreement with SpaceX Tool Cursor",
-      "whyItMatters": "Highlights intensifying corporate and technological rivalries between leading AI figures.",
-      "brief": "In a move that deepens the friction between Sam Altman and Elon Musk, OpenAI is reportedly ending its agreement with SpaceX-backed AI coding assistant Cursor.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
-      "dateLocation": "August 29, 2026 | San Francisco, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FDA Approves Mounjaro for Cardiovascular Risk Reduction",
-      "whyItMatters": "Broadens therapeutic applications for leading metabolic treatments to improve heart health.",
-      "brief": "The US Food and Drug Administration has officially approved Eli Lilly’s Mounjaro to significantly reduce cardiovascular risks, marking a major milestone in cardiometabolic care.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbTQ5NEtsQlRFV3RndUxiRTJVN0hibGxMbHBRVFhEamU4RXpHTkJrbzE0Q0lwRy1iVjVpczBTTzRkSkZDNlNvMkgybWRvNWZsbDZ5VnZWNllCN2U2QmtfTWJwRU1WOTAwTk12ajI3bWlkUDZQN1NCcGJzM1BiRkhUSHVFY29xREdLakdZNldEXzNBbzNkYnozcmpicVBXVm54X3VIWk51T0tDZ1dIWHVpZE8xaWdWSllCNUlXU3pMNGRBODU5cnktR2Zn?oc=5",
-      "dateLocation": "August 29, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BioNTech Halts Colorectal Cancer Vaccine Trial",
-      "whyItMatters": "Emphasizes the strict regulatory safety reviews governing advanced mRNA oncology trials.",
-      "brief": "BioNTech has temporarily suspended its clinical trial for an mRNA-based colorectal cancer vaccine following a routine safety review that flagged adverse data.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXN5LXFjdWNZZ3hkbjdDc05kYTI2VEY5WkJtM1ptall5VFZWSU5hS2o2MUlDUFRVY0Y5NndMX1RWWVBFQnJtLXU2UFlDa0pDNzE1ZlRZOUpqVkxrLVg5SThqeTdjNkRwUnNtdnNzbTA5WEpUN19oYVJ3NjlFRl81bHFHT1NRSUpjcFhkS1lKSVlKTGFHMjdFbnZ2RGc1bTg0d0luRVVzclB0UDRqUUx3Vi10TWQtTnY1Y2ZfUWtSMDZhdjZf?oc=5",
-      "dateLocation": "August 29, 2026 | Mainz, Germany",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Proposes Front-of-Pack Food Warning Labels",
-      "whyItMatters": "Aims to combat rising lifestyle diseases by promoting transparent nutritional choices.",
-      "brief": "Following considerable public outcry and health advocacy, India has proposed mandatory front-of-pack warning labels for packaged foods to highlight high sugar, salt, and fat content.",
+      "headline": "US Homeland Security Considers Ending H-1B Grace Period",
+      "whyItMatters": "Could drastically alter employment and residency stability for thousands of foreign professionals.",
+      "brief": "The Department of Homeland Security is evaluating a proposal to remove the 60-day post-job-loss grace period for H-1B visa holders.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2NiY2FTQVlpNUtTanFadmFrSGVPTzBLRkpWc2RRR2wtaWNjVWJldjVJNEZPcHphaDJGSFh6amdUbzgwOWJOekV4czV6OGYwYmowSllmZ2dZRGRyUjVEWl9WVHBOTVRKejk5MnItOGppSEFVZWlLOFF2S2ptLXZyWVkySWxqb2pQcU8zU3ZzSWlOTU1YdzEwTzJ2aTlKUVVjV2dkcUg4NEowWm5DbEVNYmlqZDQtUktX?oc=5",
-      "dateLocation": "August 29, 2026 | New Delhi, India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-2017-us-government-introduced-60-day-grace-period-for-h-1b-visa-workers-9-years-later-dhs-wants-to-end-it-heres-the-status-update/articleshow/133608139.cms",
+      "dateLocation": "Aug 29, 2026 | Washington D.C., USA",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Former Ecuador President Moreno Sentenced for Corruption",
-      "whyItMatters": "Reinforces accountability standards for high-ranking political figures in Latin America.",
-      "brief": "A judicial court in Ecuador has sentenced former President Lenin Moreno to five years in prison after finding him guilty of corruption charges.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/former-ecuadorian-president-lenin-moreno-sentenced-to-5-years-for-corruption/article71403553.ece",
-      "dateLocation": "August 29, 2026 | Quito, Ecuador",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "PM Modi Embarks on Central Asia Tour",
+      "whyItMatters": "Strengthens India's strategic, economic, and regional security partnerships in Central Asia.",
+      "brief": "Prime Minister Narendra Modi began a diplomatic visit to Uzbekistan and Kyrgyzstan to hold bilateral talks and attend the SCO Summit.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/indiacentral-asia-ties-in-focus-as-pm-modi-begins-uzbekistan-and-kyrgyzstan-visit-11787981654965.html",
+      "dateLocation": "Aug 29, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Former Meta Executive Sandhya Devanathan Joins OpenAI",
-      "whyItMatters": "Signals aggressive regional expansion and leadership recruitment by top AI firms.",
-      "brief": "After spending a decade at Meta, tech executive Sandhya Devanathan is leaving the social media giant to join OpenAI as Vice President for South East Asia and Australia.",
+      "headline": "FDA Withdraws Cipla Licence Order After Court Rap",
+      "whyItMatters": "Highlights regulatory accountability and judicial oversight regarding major pharmaceutical operations.",
+      "brief": "Indian regulators withdrew an administrative order cancelling a Cipla manufacturing licence after facing strong criticism from the High Court.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-pharma-license-cancellation-fda-withdraws-order-after-hc-raps-it-for-going-overboard/articleshow/133609532.cms",
+      "dateLocation": "Aug 29, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "MJ Gopalan's Legacy Remembered in Cricket",
+      "whyItMatters": "Honors early pioneers of Indian sports who shaped modern cricket history.",
+      "brief": "Remembering multi-talented athlete MJ Gopalan, who famously chose cricket over a 1936 Olympic hockey gold medal pursuit.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/he-chose-cricket-over-olympic-hockey-gold-with-dhyan-chand-mj-gopalan-played-just-1-test-and-bowled-the-first-ranji-trophy-ball/articleshow/133610274.cms",
+      "dateLocation": "Aug 29, 2026 | Chennai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Temasek Backs Singapore Airlines' Air India Investment",
+      "whyItMatters": "Signals strong institutional confidence in aviation consolidation within the South Asian market.",
+      "brief": "Temasek is backing Singapore Airlines' continued investment in Air India, moving forward despite rising regulatory scrutiny.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUxQZW10X0ppY0t2WDFxU2Nldm1CWVdoZ2RuT1c1OWY4RS13QUVpUi1TQ2V3RlZrcTU3NDNxeTNrR0hDVEFxOURkdDJrSWxBYlI1Zl9MVjB2TlZSVXdKanVBMkZuSnBRcWtPRElseXhEb1pXYVRma3puYkxFUy13X1h5aVhLaG4tcGJQanc3cW9sWk84RXhtY2c2cl8wVDNIaG0zMlh2ZW9kUkhadUZSdUF3SV9LSFFXaUFwNy1Wb01KZHFVcHI2cHN3?oc=5",
+      "dateLocation": "Aug 29, 2026 | Singapore",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China's CXMT to Supply Memory Chips to Xiaomi",
+      "whyItMatters": "Reflects the accelerated push for domestic semiconductor supply chains in major Chinese electronics.",
+      "brief": "Domestic memory chip maker CXMT will supply components for Xiaomi's upcoming folding smartphone line, boosting local tech integration.",
       "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/sandhya-devanathan-exits-meta-after-a-decade-to-join-openai-as-vp-south-east-asia-australia/article71403430.ece",
-      "dateLocation": "August 29, 2026 | Singapore",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTdabFZxanFDSFVqRTE0OTBMQWdQNnRCOUN4aGFZdGt1dTdlbzNUYnNuVGg3X1pSVGh5OTJXT0Z6cVVXb19pX0dRbDFGamV0LVhvYzVzeEJTQldmMlltY2dEdlQ5dUpuM1QwQ2ZkanRTVWlqNU9XRWtXR01TNTdudUloQ29JZmF5cnVTWk9SaF9hRDV0VURpMEYzaFVDYlJXYmFXUmNwcEMzczBBQzhiS3djMks4bGM?oc=5",
+      "dateLocation": "Aug 29, 2026 | Beijing, China",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Shares Post Weekly Loss on Rate Jitters",
-      "whyItMatters": "Reflects investor anxiety over macroeconomic cues and global central bank policies.",
-      "brief": "Indian equity benchmarks logged a weekly loss as persistent Federal Reserve rate hike jitters and closing auction pressures weighed heavily on investor sentiment.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzNGUWpsTjFQNm5KaC1uaUREbEp6dkR1WWlDbktxLVlnUGI0eG1RZ21Nai1wcXNPRndtOHlFR1ZfeTMyR3lFdXYtbzBPR1Nrdi1PTlBDbXAtVHU3S2IyQVdfRG5jSWNFMGFhMXZVa0p3dTVWbkI1REg2WmJScnpOd01DanJVRWlpTkF5ZWlsd09ubUQ3NUxuWUMzc29oNTlaT0Vmc2drR1VnVHVaUzl5aXdkTHJDT21fcWk3VFdsTWhMM1hkTkE?oc=5",
-      "dateLocation": "August 29, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
