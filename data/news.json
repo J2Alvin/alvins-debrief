@@ -1,129 +1,129 @@
 {
-  "lastUpdated": "2026-08-29T12:14:34.884Z",
+  "lastUpdated": "2026-08-29T20:22:27.647Z",
   "ticker": [
-    "Nepal flood death toll climbs past 620",
-    "India forex reserves hit record $729B",
-    "Russian strike on Kyiv warehouse kills 37",
-    "OpenAI cuts off Cursor amid Musk feud",
-    "PM Modi begins Central Asia diplomatic tour"
+    "Nepal Seeks Billions in Aid After Devastating Floods",
+    "India Forex Reserves Hit Record $729 Billion",
+    "Russian Strike on Kyiv Ammo Depot Kills 37",
+    "OpenAI to Cut Off SpaceX-Owned Cursor AI Models",
+    "Centre Finalising Article 371 Framework for Ladakh"
   ],
   "articles": [
     {
-      "headline": "Nepal Flood Death Toll Exceeds 620",
-      "whyItMatters": "The disaster threatens immense economic and humanitarian damage to the country.",
-      "brief": "Flash floods triggered by glacier collapses and heavy rains have left over 620 dead and thousands missing, prompting urgent rescue operations.",
+      "headline": "Nepal Seeks Billions After Catastrophic Floods",
+      "whyItMatters": "The massive disaster threatens the nation's economic stability and requires extensive international aid.",
+      "brief": "Nepal is seeking $4-5 billion in international assistance to rebuild after catastrophic floods caused widespread destruction, leaving thousands missing and costing a significant fraction of its economy.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-missing-persons-fresh-flood-threat-glacier-collapse-live-updates-august-29-2026/article71403315.ece",
-      "dateLocation": "Aug 29, 2026 | Kathmandu, Nepal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1yTUtUZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5",
+      "dateLocation": "2026-08-29 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Forex Reserves Hit $729 Billion",
-      "whyItMatters": "Demonstrates strong macroeconomic stability and sustained capital inflows into India's markets.",
-      "brief": "India's foreign exchange reserves reached an all-time high of $729 billion, driven by robust capital inflows and strong investor confidence.",
+      "headline": "India Forex Reserves Surge to Record $729 Billion",
+      "whyItMatters": "Strong capital inflows bolster India's macroeconomic stability against global financial uncertainties.",
+      "brief": "India's foreign exchange reserves have climbed to an all-time high of $729 billion, driven by sustained capital inflows into the country's growing financial markets.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE?oc=5",
-      "dateLocation": "Aug 29, 2026 | New Delhi, India",
+      "dateLocation": "2026-08-29 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI to Sever Access for SpaceX's Cursor",
-      "whyItMatters": "Highlights escalating corporate and technological conflicts between major AI and aerospace entities.",
-      "brief": "OpenAI plans to cut off its AI models for the SpaceX-owned coding tool Cursor, deepening tensions between OpenAI and Elon Musk.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
-      "dateLocation": "Aug 29, 2026 | San Francisco, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russian Strike on Kyiv Warehouse Kills 37",
-      "whyItMatters": "Marks a significant escalation in infrastructure attacks amidst the ongoing regional conflict.",
-      "brief": "A heavy Russian strike on a Kyiv-area logistics warehouse triggered secondary detonations, resulting in at least 37 fatalities and severe structural damage.",
+      "headline": "Russian Strike on Kyiv Depot Kills 37",
+      "whyItMatters": "Escalating military infrastructure strikes continue to drive heavy casualties in the ongoing conflict.",
+      "brief": "A Russian missile strike on an ammunition depot in the Kyiv area triggered a massive explosion, resulting in 37 reported deaths and escalating regional tensions.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk5FRC00VjkxVTRuVXJFam1IaTVqcmV6R2pXX2pJME1fYXkzSFc0NWoyQXpmdGxYeno1ejV0Rk9jZGd6bDliLUdqcm9fWF8ybFhNUmFHUnAxdkEzdnNSRFowYW1MTE1qSUxKTHJLQjZrak5tdkg0NEd4MkFhTDFGbmNYWlBFSlU3Sy0zRU9kM0FEMVpva3VoTy1Xbmd6NF9JZ04zRXROcUxyOVJEc0U1Q1hn?oc=5",
-      "dateLocation": "Aug 29, 2026 | Kyiv, Ukraine",
+      "dateLocation": "2026-08-29 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Proposes Red Hexagons on Packaged Foods",
-      "whyItMatters": "Aims to tackle rising health crises via aggressive front-of-pack nutritional transparency.",
-      "brief": "Following public outcry, Indian authorities proposed mandatory red-colored hexagonal warning labels on packaged foods high in critical nutrients.",
+      "headline": "OpenAI to Restrict AI Models for SpaceX's Cursor",
+      "whyItMatters": "Deepens the corporate feud between OpenAI and Elon Musk over AI infrastructure and services.",
+      "brief": "OpenAI has announced plans to cut off access to its AI models for Cursor, a development platform owned by Elon Musk's SpaceX, further escalating tensions between the tech rivals.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
+      "dateLocation": "2026-08-29 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Proposes Packaged Food Warning Labels",
+      "whyItMatters": "Major regulatory shift aimed at improving public health and consumer awareness regarding processed foods.",
+      "brief": "Following considerable public outcry, Indian authorities have proposed front-of-pack warning labels for packaged foods to clearly indicate high levels of sugar, salt, and fat.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2NiY2FTQVlpNUtTanFadmFrSGVPTzBLRkpWc2RRR2wtaWNjVWJldjVJNEZPcHphaDJGSFh6amdUbzgwOWJOekV4czV6OGYwYmowSllmZ2dZRGRyUjVEWl9WVHBOTVRKejk5MnItOGppSEFVZWlLOFF2S2ptLXZyWVkySWxqb2pQcU8zU3ZzSWlOTU1YdzEwTzJ2aTlKUVVjV2dkcUg4NEowWm5DbEVNYmlqZDQtUktX?oc=5",
-      "dateLocation": "Aug 29, 2026 | New Delhi, India",
+      "dateLocation": "2026-08-29 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tamil Nadu Sets Up Safe Houses for Couples",
-      "whyItMatters": "Addresses severe social security issues and adheres to top court rulings on honor killings.",
-      "brief": "The Tamil Nadu government announced district safe houses to shelter vulnerable couples facing threats, following Supreme Court guidelines.",
+      "headline": "Indian Judiciary Proactively Targets Digital Arrest Scams",
+      "whyItMatters": "Demonstrates a shift in the judiciary stepping in before formal legislative actions are taken.",
+      "brief": "Chief Justice of India Surya Kant highlighted how the judiciary has proactively responded to emerging digital arrest frauds rather than waiting for parliamentary interventions.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/honour-killing-tamil-nadu-to-set-up-safe-houses-in-districts-to-provide-shelter-to-vulnerable-affected-couples/article71404215.ece",
-      "dateLocation": "Aug 29, 2026 | Chennai, India",
+      "sourceUrl": "https://www.thehindu.com/news/national/judiciary-proactively-responded-to-emerging-fraudulent-schemes-like-digital-arrest-cji/article71405958.ece",
+      "dateLocation": "2026-08-29 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Carlos Alcaraz Returns to Tennis at US Open",
-      "whyItMatters": "Brings one of tennis's premier stars back to Grand Slam competition after a prolonged injury.",
-      "brief": "Carlos Alcaraz is back in competitive action at the US Open following a four-month wrist injury layoff, facing Roman Safiullin.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/us_open-carlos_alcaraz-walks-back-into-the-spotlight/articleshow/133610692.cms",
-      "dateLocation": "Aug 29, 2026 | New York, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Delhi Notifies New Fire Safety Rules for Buildings",
+      "whyItMatters": "Addresses growing urban safety concerns by enforcing stricter infrastructural compliance standards.",
+      "brief": "The Delhi government has officially notified new fire safety regulations that require smoke barriers and designated refuge areas across high-risk commercial and residential complexes.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/smoke-barriers-refuge-areas-delhi-notifies-new-fire-safety-rules/article71405843.ece",
+      "dateLocation": "2026-08-29 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Homeland Security Considers Ending H-1B Grace Period",
-      "whyItMatters": "Could drastically alter employment and residency stability for thousands of foreign professionals.",
-      "brief": "The Department of Homeland Security is evaluating a proposal to remove the 60-day post-job-loss grace period for H-1B visa holders.",
+      "headline": "Amazon Charges US Sellers for Faster Fulfillment",
+      "whyItMatters": "Modifies third-party merchant logistics strategies to fund expedited delivery expansion.",
+      "brief": "Amazon is asking third-party merchants using its fulfillment service to bid for priority access to faster delivery, expanding its sub-same-day shipping capabilities in the US.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-2017-us-government-introduced-60-day-grace-period-for-h-1b-visa-workers-9-years-later-dhs-wants-to-end-it-heres-the-status-update/articleshow/133608139.cms",
-      "dateLocation": "Aug 29, 2026 | Washington D.C., USA",
+      "sourceUrl": "https://www.livemint.com/news/us-news/amazon-asks-sellers-in-us-to-pay-up-for-faster-delivery-as-it-expands-sub-same-day-service-11788023835607.html",
+      "dateLocation": "2026-08-29 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "PM Modi Embarks on Central Asia Tour",
-      "whyItMatters": "Strengthens India's strategic, economic, and regional security partnerships in Central Asia.",
-      "brief": "Prime Minister Narendra Modi began a diplomatic visit to Uzbekistan and Kyrgyzstan to hold bilateral talks and attend the SCO Summit.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/indiacentral-asia-ties-in-focus-as-pm-modi-begins-uzbekistan-and-kyrgyzstan-visit-11787981654965.html",
-      "dateLocation": "Aug 29, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FDA Withdraws Cipla Licence Order After Court Rap",
-      "whyItMatters": "Highlights regulatory accountability and judicial oversight regarding major pharmaceutical operations.",
-      "brief": "Indian regulators withdrew an administrative order cancelling a Cipla manufacturing licence after facing strong criticism from the High Court.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-pharma-license-cancellation-fda-withdraws-order-after-hc-raps-it-for-going-overboard/articleshow/133609532.cms",
-      "dateLocation": "Aug 29, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "MJ Gopalan's Legacy Remembered in Cricket",
-      "whyItMatters": "Honors early pioneers of Indian sports who shaped modern cricket history.",
-      "brief": "Remembering multi-talented athlete MJ Gopalan, who famously chose cricket over a 1936 Olympic hockey gold medal pursuit.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/he-chose-cricket-over-olympic-hockey-gold-with-dhyan-chand-mj-gopalan-played-just-1-test-and-bowled-the-first-ranji-trophy-ball/articleshow/133610274.cms",
-      "dateLocation": "Aug 29, 2026 | Chennai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Temasek Backs Singapore Airlines' Air India Investment",
-      "whyItMatters": "Signals strong institutional confidence in aviation consolidation within the South Asian market.",
-      "brief": "Temasek is backing Singapore Airlines' continued investment in Air India, moving forward despite rising regulatory scrutiny.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUxQZW10X0ppY0t2WDFxU2Nldm1CWVdoZ2RuT1c1OWY4RS13QUVpUi1TQ2V3RlZrcTU3NDNxeTNrR0hDVEFxOURkdDJrSWxBYlI1Zl9MVjB2TlZSVXdKanVBMkZuSnBRcWtPRElseXhEb1pXYVRma3puYkxFUy13X1h5aVhLaG4tcGJQanc3cW9sWk84RXhtY2c2cl8wVDNIaG0zMlh2ZW9kUkhadUZSdUF3SV9LSFFXaUFwNy1Wb01KZHFVcHI2cHN3?oc=5",
-      "dateLocation": "Aug 29, 2026 | Singapore",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China's CXMT to Supply Memory Chips to Xiaomi",
-      "whyItMatters": "Reflects the accelerated push for domestic semiconductor supply chains in major Chinese electronics.",
-      "brief": "Domestic memory chip maker CXMT will supply components for Xiaomi's upcoming folding smartphone line, boosting local tech integration.",
+      "headline": "US Flags Suspected Chinese Bot Farm Over AI Energy",
+      "whyItMatters": "Highlights foreign interference concerns regarding domestic US energy policies and data center expansion.",
+      "brief": "Social media platform X flagged roughly 200 accounts linked to a Chinese bot farm attempting to sway American public opinion on AI data center energy consumption and utility costs.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTdabFZxanFDSFVqRTE0OTBMQWdQNnRCOUN4aGFZdGt1dTdlbzNUYnNuVGg3X1pSVGh5OTJXT0Z6cVVXb19pX0dRbDFGamV0LVhvYzVzeEJTQldmMlltY2dEdlQ5dUpuM1QwQ2ZkanRTVWlqNU9XRWtXR01TNTdudUloQ29JZmF5cnVTWk9SaF9hRDV0VURpMEYzaFVDYlJXYmFXUmNwcEMzczBBQzhiS3djMks4bGM?oc=5",
-      "dateLocation": "Aug 29, 2026 | Beijing, China",
+      "sourceUrl": "https://www.livemint.com/news/us-news/are-chinese-bots-influencing-us-citizens-x-flags-suspected-bot-campaign-over-ai-data-centre-energy-policy-11788014739481.html",
+      "dateLocation": "2026-08-29 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "FSSAI Bans Everest Compounded Asafetida Over Starch",
+      "whyItMatters": "Strict food safety enforcement targets major spice brands for failing quality parameters.",
+      "brief": "India's food safety regulator FSSAI banned the sale of compounded hing produced by Everest and LG after finding excessive starch content and low alcohol-soluble extracts.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/everest-hing-ban-fssai-cites-excessive-starch-low-alcohol-soluble-extract-in-compounded-asafetida-11788006207416.html",
+      "dateLocation": "2026-08-29 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Centre Finalising Article 371 Framework for Ladakh",
+      "whyItMatters": "A critical administrative step defining constitutional protections and local governance for the region.",
+      "brief": "Union Minister Kiren Rijiju announced that the central government is currently finalizing the Article 371 framework to address regional safeguards and aspirations in Ladakh.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-finalising-article-371-framework-for-ladakh-says-rijiju/articleshow/133617650.cms",
+      "dateLocation": "2026-08-29 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Standard Time Mandatory for All Entities by 2027",
+      "whyItMatters": "Unifies national digital operations and synchronization across corporate and public sectors.",
+      "brief": "The Indian government has mandated that all commercial and public entities synchronize their time systems with Indian Standard Time starting from March 2027.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/indian-standard-time-to-become-mandatory-for-all-entities-from-march-2027/articleshow/133618687.cms",
+      "dateLocation": "2026-08-29 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US DHS Considers Ending H-1B 60-Day Grace Period",
+      "whyItMatters": "Could severely impact foreign workers and Indian professionals seeking new employment after job loss.",
+      "brief": "The US Department of Homeland Security is evaluating a proposal that could eliminate the 60-day grace period for H-1B visa holders, forcing immediate departure upon job termination.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-2017-us-government-introduced-60-day-grace-period-for-h-1b-visa-workers-9-years-later-dhs-wants-to-end-it-heres-the-status-update/articleshow/133608139.cms",
+      "dateLocation": "2026-08-29 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
