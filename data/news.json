@@ -1,120 +1,120 @@
 {
-  "lastUpdated": "2026-08-28T21:42:16.794Z",
+  "lastUpdated": "2026-08-29T05:31:51.647Z",
   "ticker": [
-    "India's forex reserves hit record $729B",
-    "Nepal flood death toll rises to 579",
-    "Jio Platforms secures $3.8B IPO approval",
-    "India and US sign Javelin missile deal",
-    "Meta agrees to $18B teen safety settlement"
+    "Nepal flood death toll exceeds 600",
+    "Jio Platforms secures SEBI nod for $3.8B IPO",
+    "India forex reserves hit record $729 billion",
+    "PM Modi departs for Uzbekistan SCO Summit",
+    "Trump announces massive Venezuelan oil deal"
   ],
   "articles": [
     {
-      "headline": "India's Forex Reserves Hit Record $729 Billion",
-      "whyItMatters": "Demonstrates robust external economic stability driven by sustained capital inflows.",
-      "brief": "India's foreign exchange reserves have surged to an all-time high of $729 billion, supported by continuous capital inflows strengthening the country's macroeconomic position.",
+      "headline": "Nepal Flash Floods Leave Over 600 Dead",
+      "whyItMatters": "Catastrophic flooding causes widespread devastation and requires billions in rebuilding.",
+      "brief": "Nepal faces severe devastation from flash floods along its border with China, with the death toll surpassing 600 and nearly 2,500 missing. Finance Minister Swarnim Wagle stated the nation needs at least $4 billion for reconstruction.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-missing-persons-fresh-flood-threat-glacier-collapse-live-updates-august-29-2026/article71403315.ece",
+      "dateLocation": "August 29, 2026 | Kathmandu, Nepal",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jio Platforms Approved for $3.8 Billion IPO",
+      "whyItMatters": "Marks one of the largest public offerings in the region's telecommunications sector.",
+      "brief": "India's market regulator has officially approved Reliance Industries' telecom arm, Jio Platforms, to proceed with its massive $3.8 billion initial public offering, paving the way for one of the biggest market debuts.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE?oc=5",
-      "dateLocation": "August 28, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVpfMXktQU4wUXFHUVhTcnUxWkZWVnlDV1V6aGhFaC1tZ3Z2YnA2VGlDQTQta2NxdGtURTFWY1dpQXZrR1VVWlpxWGZLVW5tbU1qRGNVZmh0Sks5SXhUMXlSeGVZOG54YklIbS1ITTQ2ZnlTUUZzRG05eC1mN2loVENwZFltamRmeEVfTlBoZTFUYzI3NzJqSGRWUENFQ1JOUFhBZ0tyVVpaNDlPUGVJ?oc=5",
+      "dateLocation": "August 29, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Jio Platforms Wins Regulatory Approval For $3.8B IPO",
-      "whyItMatters": "Paves the way for one of India's largest public share offerings.",
-      "brief": "India's markets regulator has formally approved Jio Platforms' massive $3.8 billion initial public offering, marking a significant milestone for the telecom and tech giant.",
+      "headline": "India Forex Reserves Reach Record $729 Billion",
+      "whyItMatters": "Demonstrates robust external sector strength amidst sustained capital inflows.",
+      "brief": "Driven by robust capital inflows, India's foreign exchange reserves have surged to an all-time high of $729 billion, strengthening the country's economic stability against external shocks.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVpfMXktQU4wUXFHUVhTcnUxWkZWVnlDV1V6aGhFaC1tZ3Z2YnA2VGlDQTQta2NxdGtURTFWY1dpQXZrR1VVWlpxWGZLVW5tbU1qRGNVZmh0Sks5SXhUMXlSeGVZOG54YklIbS1ITTQ2ZnlTUUZzRG05eC1mN2loVENwZFltamRmeEVfTlBoZTFUYzI3NzJqSGRWUENFQ1JOUFhBZ0tyVVpaNDlPUGVJ?oc=5",
-      "dateLocation": "August 28, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE?oc=5",
+      "dateLocation": "August 29, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Proposes Front-of-Pack Warning Labels For Packaged Foods",
-      "whyItMatters": "Aims to drastically improve public health awareness regarding high sugar, salt, and fat.",
-      "brief": "Following intense public outcry and advocacy, India has proposed prominent front-of-pack warning labels for packaged foods containing high levels of fat, sugar, and salt.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2NiY2FTQVlpNUtTanFadmFrSGVPTzBLRkpWc2RRR2wtaWNjVWJldjVJNEZPcHphaDJGSFh6amdUbzgwOWJOekV4czV6OGYwYmowSllmZ2dZRGRyUjVEWl9WVHBOTVRKejk5MnItOGppSEFVZWlLOFF2S2ptLXZyWVkySWxqb2pQcU8zU3ZzSWlOTU1YdzEwTzJ2aTlKUVVjV2dkcUg4NEowWm5DbEVNYmlqZDQtUktX?oc=5",
-      "dateLocation": "August 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India And US Sign Deal For Javelin Anti-Tank Missiles",
-      "whyItMatters": "Strengthens bilateral defense cooperation and enhances India's tactical military capabilities.",
-      "brief": "India has finalized a major defense agreement with the United States to purchase advanced Javelin anti-tank missile systems to bolster its military readiness.",
+      "headline": "PM Modi Departs for Uzbekistan SCO Summit",
+      "whyItMatters": "Advances India's strategic geopolitical engagement and regional connectivity across Central Asia.",
+      "brief": "Prime Minister Narendra Modi has embarked on a two-nation Central Asia tour, starting with Uzbekistan for the Shanghai Cooperation Organisation summit to promote regional security and economic cooperation.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ095M0taQTY4ZXJWRUFENDdIbFg2LVNoS2pSaVJPT2YwOHUtekpQMWJKa0xGak5NUVp0d21QZ1lzUEc1NG9wLWhNLV9UcXZ2UERibndRWHdjQl8yOTdudXBEZXFPS2ppdmNlaW4wNzcxV050Q01uNnRReE1FR1VHanVwU0o2ZGMwa25BRXFLWWZsNHFHS2RIdFJXanJSaFdKSXVIcW1GcG5keG90LVNxc2l3N0ZLX0VnWHdoN1Rn?oc=5",
-      "dateLocation": "August 28, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/looking-to-advance-indias-vision-for-region-free-from-terror-pm-modi-ahead-of-sco-summit-state-visit-to-uzbekistan/articleshow/133603644.cms",
+      "dateLocation": "August 29, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nepal Flood Death Toll Rises To 579 As Search Continues",
-      "whyItMatters": "Highlights a devastating regional humanitarian crisis driven by extreme weather.",
-      "brief": "The death toll from catastrophic flash floods and glacier collapses in Nepal has surged to 579, with hundreds of citizens and Indian nationals still reported missing.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-surges-nearly-1500-missing-fresh-flood-threat-glacier-collapse-live-updates-august-28-2026/article71398953.ece",
-      "dateLocation": "August 28, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Trump Announces Majority Control of Venezuelan Oil",
+      "whyItMatters": "Drastically shifts global energy dynamics and impacts domestic fuel pricing.",
+      "brief": "Former US President Donald Trump announced what he termed the biggest oil deal in history, securing majority US control over 65 billion barrels of Venezuela's proven oil reserves.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-announces-biggest-oil-deal-in-history-giving-us-majority-control-of-65-billion-barrels-of-venezuelan-reserves-11787962127605.html",
+      "dateLocation": "August 29, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US FDA Approves Mounjaro To Reduce Cardiovascular Risk",
-      "whyItMatters": "Expands therapeutic applications for a leading metabolic disease treatment.",
-      "brief": "The US FDA has officially approved Eli Lilly's Mounjaro for lowering cardiovascular risks, offering a vital new preventive benefit for patients with metabolic conditions.",
+      "headline": "OpenAI to End Agreement with SpaceX Tool Cursor",
+      "whyItMatters": "Highlights intensifying corporate and technological rivalries between leading AI figures.",
+      "brief": "In a move that deepens the friction between Sam Altman and Elon Musk, OpenAI is reportedly ending its agreement with SpaceX-backed AI coding assistant Cursor.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
+      "dateLocation": "August 29, 2026 | San Francisco, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "FDA Approves Mounjaro for Cardiovascular Risk Reduction",
+      "whyItMatters": "Broadens therapeutic applications for leading metabolic treatments to improve heart health.",
+      "brief": "The US Food and Drug Administration has officially approved Eli Lilly’s Mounjaro to significantly reduce cardiovascular risks, marking a major milestone in cardiometabolic care.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbTQ5NEtsQlRFV3RndUxiRTJVN0hibGxMbHBRVFhEamU4RXpHTkJrbzE0Q0lwRy1iVjVpczBTTzRkSkZDNlNvMkgybWRvNWZsbDZ5VnZWNllCN2U2QmtfTWJwRU1WOTAwTk12ajI3bWlkUDZQN1NCcGJzM1BiRkhUSHVFY29xREdLakdZNldEXzNBbzNkYnozcmpicVBXVm54X3VIWk51T0tDZ1dIWHVpZE8xaWdWSllCNUlXU3pMNGRBODU5cnktR2Zn?oc=5",
-      "dateLocation": "August 28, 2026 | Reuters",
+      "dateLocation": "August 29, 2026 | Washington, D.C.",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China's Tencent Releases New Open-Source AI Model",
-      "whyItMatters": "Intensifies global competition in open-source artificial intelligence development.",
-      "brief": "Tencent has launched a cutting-edge open-source AI model specifically designed to optimize coding workflows and complex academic research tasks.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVplU1pYVzl4dkJPUmVQZi1XZ01xY29YNWV2WDZyb2VJb1V2ZjZLZU5EVFFhR3dvbWZOc3BCbUNPb3MyNncwTGVOY3pCdl96VUU1WVFYdnRJSnJvcDJrYzg0OE82emlmZGplWjhKSlcweWdnUkRUMDYwci05X2NleXlrTm44LXZ0bmdTeU9jNWkzRkx6NmFWMzYyYkFWcUpabDgxLXQzTTc0UEdwNy16WTB3RE5EUkZlN0taWGRmYzhfZDA?oc=5",
-      "dateLocation": "August 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "BioNTech Halts Colorectal Cancer Vaccine Trial",
+      "whyItMatters": "Emphasizes the strict regulatory safety reviews governing advanced mRNA oncology trials.",
+      "brief": "BioNTech has temporarily suspended its clinical trial for an mRNA-based colorectal cancer vaccine following a routine safety review that flagged adverse data.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXN5LXFjdWNZZ3hkbjdDc05kYTI2VEY5WkJtM1ptall5VFZWSU5hS2o2MUlDUFRVY0Y5NndMX1RWWVBFQnJtLXU2UFlDa0pDNzE1ZlRZOUpqVkxrLVg5SThqeTdjNkRwUnNtdnNzbTA5WEpUN19oYVJ3NjlFRl81bHFHT1NRSUpjcFhkS1lKSVlKTGFHMjdFbnZ2RGc1bTg0d0luRVVzclB0UDRqUUx3Vi10TWQtTnY1Y2ZfUWtSMDZhdjZf?oc=5",
+      "dateLocation": "August 29, 2026 | Mainz, Germany",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Administration Targets UAE Branches Of Egyptian Bank",
-      "whyItMatters": "Escalates economic pressure and financial sanctions to isolate Iran.",
-      "brief": "Washington has restricted Banque Misr's UAE branches from accessing the US financial system, accusing the institution of supporting Iranian networks.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-administration-targets-egyptian-bank-s-uae-branches-in-fresh-push-to-isolate-iran-11787945467762.html",
-      "dateLocation": "August 28, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Belgium Defeats India In Hockey World Cup Shootout",
-      "whyItMatters": "Concludes a hard-fought tournament campaign for the Indian national squad.",
-      "brief": "India suffered a heartbreaking defeat to Belgium in a penalty shootout after a thrilling 3-3 draw, securing an eighth-place finish at the Hockey World Cup.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/belgium-break-indian-hearts-in-shootout-as-harmanpreets-side-finish-eighth-in-hockey-world-cup/articleshow/133598475.cms",
-      "dateLocation": "August 28, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Agrees To $18 Billion Settlement Over Teen Protections",
-      "whyItMatters": "Mandates sweeping structural safety overhauls across major social media networks.",
-      "brief": "Meta has reached an $18 billion settlement with dozens of state attorneys general, agreeing to implement strict screen-time limits, night modes, and safety guards for minors.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/time-limit-school-mode-and-more-11-changes-that-meta-promises-it-will-add-for-teens-on-instagram-and-facebook/articleshow/133593313.cms",
-      "dateLocation": "August 28, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India And Canada Target C$70 Billion Bilateral Trade",
-      "whyItMatters": "Aims to deepen economic ties and initiate bilateral investment treaties.",
-      "brief": "India and Canada have set an ambitious target of reaching C$70 billion in bilateral trade by 2030, while preparing to begin formal investment treaty negotiations.",
+      "headline": "India Proposes Front-of-Pack Food Warning Labels",
+      "whyItMatters": "Aims to combat rising lifestyle diseases by promoting transparent nutritional choices.",
+      "brief": "Following considerable public outcry and health advocacy, India has proposed mandatory front-of-pack warning labels for packaged foods to highlight high sugar, salt, and fat content.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/india-canada-target-c-70-billion-bilateral-trade-by-2030-eye-investment-treaty-talks-11787918395358.html",
-      "dateLocation": "August 28, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2NiY2FTQVlpNUtTanFadmFrSGVPTzBLRkpWc2RRR2wtaWNjVWJldjVJNEZPcHphaDJGSFh6amdUbzgwOWJOekV4czV6OGYwYmowSllmZ2dZRGRyUjVEWl9WVHBOTVRKejk5MnItOGppSEFVZWlLOFF2S2ptLXZyWVkySWxqb2pQcU8zU3ZzSWlOTU1YdzEwTzJ2aTlKUVVjV2dkcUg4NEowWm5DbEVNYmlqZDQtUktX?oc=5",
+      "dateLocation": "August 29, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Belgium Farmer Proves Viability Of Non-Irrigated Crop Farming",
-      "whyItMatters": "Offers sustainable agricultural models for tackling severe global water shortages.",
-      "brief": "A Belgian farmer has successfully maintained moisture-rich crop soil without any artificial irrigation for 26 years through advanced organic matter integration and no-plow practices.",
+      "headline": "Former Ecuador President Moreno Sentenced for Corruption",
+      "whyItMatters": "Reinforces accountability standards for high-ranking political figures in Latin America.",
+      "brief": "A judicial court in Ecuador has sentenced former President Lenin Moreno to five years in prison after finding him guilty of corruption charges.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/a-belgian-farmer-says-he-has-not-irrigated-outdoor-crops-for-26-years-dig-just-5-to-10-cm-below-the-dry-looking-surface-and-the-soil-is-still-moist/articleshow/133586293.cms",
-      "dateLocation": "August 28, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/international/former-ecuadorian-president-lenin-moreno-sentenced-to-5-years-for-corruption/article71403553.ece",
+      "dateLocation": "August 29, 2026 | Quito, Ecuador",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Former Meta Executive Sandhya Devanathan Joins OpenAI",
+      "whyItMatters": "Signals aggressive regional expansion and leadership recruitment by top AI firms.",
+      "brief": "After spending a decade at Meta, tech executive Sandhya Devanathan is leaving the social media giant to join OpenAI as Vice President for South East Asia and Australia.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/sandhya-devanathan-exits-meta-after-a-decade-to-join-openai-as-vp-south-east-asia-australia/article71403430.ece",
+      "dateLocation": "August 29, 2026 | Singapore",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Shares Post Weekly Loss on Rate Jitters",
+      "whyItMatters": "Reflects investor anxiety over macroeconomic cues and global central bank policies.",
+      "brief": "Indian equity benchmarks logged a weekly loss as persistent Federal Reserve rate hike jitters and closing auction pressures weighed heavily on investor sentiment.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzNGUWpsTjFQNm5KaC1uaUREbEp6dkR1WWlDbktxLVlnUGI0eG1RZ21Nai1wcXNPRndtOHlFR1ZfeTMyR3lFdXYtbzBPR1Nrdi1PTlBDbXAtVHU3S2IyQVdfRG5jSWNFMGFhMXZVa0p3dTVWbkI1REg2WmJScnpOd01DanJVRWlpTkF5ZWlsd09ubUQ3NUxuWUMzc29oNTlaT0Vmc2drR1VnVHVaUzl5aXdkTHJDT21fcWk3VFdsTWhMM1hkTkE?oc=5",
+      "dateLocation": "August 29, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
