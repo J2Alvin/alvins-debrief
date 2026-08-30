@@ -1,147 +1,120 @@
 {
-  "lastUpdated": "2026-08-30T15:59:30.176Z",
+  "lastUpdated": "2026-08-31T00:00:00.000Z",
   "ticker": [
-    "Nepal flood death toll nears 800 as rescue efforts continue",
-    "Ferry capsizes off North Cyprus leaving 7 dead, 24 missing",
-    "NASA successfully launches powerful new Roman Space Telescope",
-    "US Treasury's Bessent faces G20 diplomacy test amid turmoil",
-    "Trump announces major oil deal to refill US strategic reserve"
+    "Nepal flood death toll approaches 800",
+    "US forces strike Iranian rocket launchers",
+    "Ferry sinks off Northern Cyprus with casualties",
+    "Russia strike on Kyiv depot kills 38",
+    "NASA launches Roman Space Telescope"
   ],
   "articles": [
     {
-      "headline": "Himalayan Disaster Death Toll Nears 800",
-      "whyItMatters": "Highlights severe regional climate vulnerability and ongoing humanitarian crises.",
-      "brief": "Rescue operations continue in Nepal and neighboring regions as the death toll from devastating flash floods and landslides approaches 800.",
+      "headline": "Nepal Flood Death Toll Nears 800",
+      "whyItMatters": "Unprecedented monsoon devastation highlights severe regional climate risks and infrastructure vulnerabilities.",
+      "brief": "Nepal is scaling up rescue operations and conducting mass burials as the Himalayan disaster death toll nears 800 people.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
+      "dateLocation": "Aug 31, 2026 | Kathmandu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ferry Capsizes Off North Cyprus Coast",
-      "whyItMatters": "Tragic maritime accident underscores critical safety concerns in regional sea transit.",
-      "brief": "At least seven people died and dozens remain missing after a large ferry carrying nearly 270 passengers capsized off northern Cyprus.",
+      "headline": "US Forces Strike Iranian Rocket Launchers",
+      "whyItMatters": "Direct military engagement raises immediate fears of a wider escalation in the Middle East.",
+      "brief": "U.S. forces have carried out strikes against Iranian rocket launchers in the Strait of Hormuz.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-forces-strike-iran-rocket-launcher-donald-trump-updates/article71408837.ece",
+      "dateLocation": "Aug 31, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ferry Sinks Off Northern Cyprus Coast",
+      "whyItMatters": "Tragic maritime accident triggers immediate criminal investigations and international security scrutiny.",
+      "brief": "A ferry carrying 267 passengers sank off Northern Cyprus, leaving 8 dead and 17 missing, leading to crew arrests.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/world/total-world-latest-news-on-august-31-2026-live-updates-11788120672058.html",
+      "dateLocation": "Aug 31, 2026 | Northern Cyprus",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Deadly Russian Strike Hits Kyiv Depot",
+      "whyItMatters": "Intensified aerial assaults demonstrate ongoing escalation in critical infrastructure warfare.",
+      "brief": "A Russian drone strike on an ammunition depot near Kyiv killed 38 people in the year's deadliest attack.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/russia-strike-on-kyiv-ammunition-depot-kills-38-in-years-deadliest-attack-as-zelenskyy-blames-officials/articleshow/133634088.cms",
+      "dateLocation": "Aug 31, 2026 | Kyiv",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "NASA Launches Roman Space Telescope",
-      "whyItMatters": "Expands humanity's capabilities to explore dark energy and distant exoplanets.",
-      "brief": "NASA successfully launched its powerful new Roman Space Telescope from Florida, aiming to unlock major cosmic mysteries.",
+      "whyItMatters": "Repurposed spy hardware ushers in a new era of deep space observation and cosmology.",
+      "brief": "NASA successfully launched the powerful Roman Space Telescope, adapting former spy satellite technology to study the stars.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUZyNnZKUzR6VV9kSG1yeEZhTkFNaF9rYUxvbGh1THRJMXBodUNMMmZIeV9xQzE3ZzNsZFdvWFFJZnAySDAwbDhFRklFc3VKR3Fuakk3MUo3cGFsVnYwbWFsZlpKaWFrR2F1dzNNVkREM1RibDY1cVkyeVlnVkppOFh1Q21ieFFVQnZPeTl5dXNQYVhYOXp2TEM2N2s5RHVibkE?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
+      "dateLocation": "Aug 31, 2026 | Cape Canaveral",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nvidia CEO Disagrees With Robot Tax",
-      "whyItMatters": "Contributes to the ongoing global debate regarding artificial intelligence economic impacts.",
-      "brief": "Nvidia CEO Jensen Huang publicly disagreed with Bill Gates' proposal for a robot tax, arguing AI will create more jobs overall.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-nvidia-ceo-jensen-huang-does-not-agree-with-says-i-love-bill-but-he-is-wrong-as-/articleshow/133622598.cms",
-      "dateLocation": "August 30, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Treasury Chief Faces G20 Test",
-      "whyItMatters": "Crucial diplomatic talks as global trade tensions and currency volatility threaten stability.",
-      "brief": "US Treasury Secretary Bessent faces high-stakes G20 diplomacy regarding global tariffs, ongoing conflicts, and international bond turmoil.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "HDFC Bank Weighs Candidates for CEO",
-      "whyItMatters": "Leadership transition at one of India's largest financial institutions impacts market sentiment.",
-      "brief": "India's HDFC Bank is actively considering internal deputy MD Bharucha alongside external candidates for its upcoming chief executive role.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1BTUVBQTUlac2RIeVdNZzhOQkFPWWFUU3FqeFlSZlU5QzBrajNsU041RkpsUXpwSngxeEtucFcyU2RRUm1CRzBnbnp1eWJtZHZOQS00UlpsMTQydlR2RlNDSmlVVFphbThOcFVUd2YyWUlVSHdvYVZSbjVxck4wbktHTURxSl8zRmdoc3hVU2hBX25USFFndE5zc0xnNWtiSHNzamtaYWc3dXdyZmVJUG42aVk1Y2ZF?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Turkey, Saudi Arabia, Pakistan Defence Pact",
-      "whyItMatters": "Signals significant geopolitical shifts and military realignment across key strategic regions.",
-      "brief": "Turkey, Saudi Arabia, and Pakistan are set to hold their inaugural defense pact meeting to bolster strategic military cooperation.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGEtTUQ0dGF3WlJacDh2Y2tEZ1BsR3hrRG9BY2ZPQjRFVkloRzJPN1o0UWtRVFRnUjgtVHJvTGFwY3FNVy1mbW1DMTdXek9mdDJZSjUxRy1UQm5kVlRBTzZpcFNrVjFWd1YwOU11TUtDRVk0VHVvbFJWVWRKdDN5TlIyeDhyY3VtdXNSQ2dXLUxhRmt1X2I3QzdpbUhEQV9NMjNxNmZNVkxQbEdaU1dKV0x2Y3E3M2U3VktPNDBiM1h1ZlpVYWc?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "North Korea Names New Defense Minister",
-      "whyItMatters": "Internal leadership changes in Pyongyang can heavily influence regional security dynamics.",
-      "brief": "North Korean state media KCNA announced the appointment of a new defense minister amidst ongoing military developments.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT09qbVFsMFIyb1lCNThXYm1ia1ktRkRXTV9MRUotV3gweGQ3SXhKb3hWOVZsaFJydWpQM0RKS2phUmVRVkg4X3d5SDhiTWRIUWozeEkxbE90R1ViVDh5Nk96OGJVSGhSQWE5eGdMbFd6WURudjBhMUVrQVFKZmoyU2sxYnhSakh6LUoyb1NEYVlYRW14QWxSV3JvcngwN0FvanJpME9B?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Announces Venezuelan Oil Deal",
-      "whyItMatters": "Major energy policy shift aimed at bolstering American strategic petroleum reserves.",
-      "brief": "US President Trump announced a new deal to develop untapped oil fields in Venezuela to refill depleted US reserves.",
+      "whyItMatters": "A newly structured tripartite alliance could significantly alter strategic military balances across regions.",
+      "brief": "Turkey, Saudi Arabia, and Pakistan are scheduled to hold their first high-level defense pact meeting.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/gift-from-venezuela-donald-trump-says-oil-deal-will-help-refill-virtually-emptied-us-strategic-reserve/articleshow/133631753.cms",
-      "dateLocation": "August 30, 2026 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGEtTUQ0dGF3WlJacDh2Y2tEZ1BsR3hrRG9BY2ZPQjRFVkloRzJPN1o0UWtRVFRnUjgtVHJvVGFwY3FNVy1mbW1DMTdXek9mdDJZSjUxRy1UQm5kVlRBTzZpcFNrVjFWd1YwOU11TUtDRVk0VHVvbFJWVWRKdDN5TlIyeDhyY3VtdXNSQ2dXLUxhRmt1X2I3QzdpbUhEQV9NMjNxNmZNVkxQbEdaU1dKV0x2Y3E3M2U3VktPNDBiM1h1ZlpVYWc?oc=5",
+      "dateLocation": "Aug 31, 2026 | Ankara",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and Uzbekistan Target Trade Growth",
-      "whyItMatters": "Deepens bilateral economic ties and enhances regional access to critical minerals.",
-      "brief": "India and Uzbekistan have agreed to slash trade barriers, targeting $5 billion in bilateral trade and mining cooperation by 2030.",
+      "headline": "US Treasury Chief Faces G20 Diplomacy",
+      "whyItMatters": "Global economic stability hinges on resolving mounting trade tariffs and international currency tensions.",
+      "brief": "US Treasury Secretary Bessent faces high-stakes G20 diplomacy amid ongoing tariff conflicts and bond market turmoil.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/india-uzbekistan-target-5-billion-trade-by-2030-move-to-cut-barriers-11788094613691.html",
-      "dateLocation": "August 30, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
+      "dateLocation": "Aug 31, 2026 | Global",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Babar Azam's Test Century Drought Continues",
-      "whyItMatters": "Reflects the extended batting form struggles of one of cricket's premier international stars.",
-      "brief": "Star batsman Babar Azam has now gone 1,300 days and 36 innings without securing a Test match century.",
+      "headline": "Deepti Sharma Breaks T20I Wicket Record",
+      "whyItMatters": "Milestone achievement cements her legacy as a dominant force in modern international women's cricket.",
+      "brief": "Indian all-rounder Deepti Sharma became the world's leading T20I wicket-taker with a stunning performance against Thailand.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/1300-days-36-innings-no-100-how-babar-azams-test-century-drought-became-a-long-running-story/articleshow/133631211.cms",
-      "dateLocation": "August 30, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/deepti-sharma-scripts-history-stunning-3/0-makes-her-worlds-leading-t20i-wicket-taker/articleshow/133635145.cms",
+      "dateLocation": "Aug 31, 2026 | Dubai",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "NMDC Hyderabad Marathon Marks 15th Edition",
-      "whyItMatters": "Promotes massive public fitness initiatives and inclusivity in professional athletic events.",
-      "brief": "The 15th edition of the NMDC Hyderabad Marathon drew 26,500 runners alongside tribal youth participation and a new inclusive run.",
+      "headline": "England Trounces Pakistan in Test Series",
+      "whyItMatters": "Decisive victory showcases bowling prowess and tactical dominance away from home.",
+      "brief": "England comfortably defeated Pakistan by 194 runs, powered by Ollie Robinson's outstanding match haul of 16 wickets.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Hyderabad/26500-runners-184-tribal-youth-and-a-new-inclusive-run-mark-nmdc-hyderabad-marathons-15th-edition/article71408368.ece",
-      "dateLocation": "August 30, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/england-trounce-pakistan-by-194-runs-to-win-series/article71408831.ece",
+      "dateLocation": "Aug 31, 2026 | Lahore",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Doctors Issue Warning on Retinopathy",
-      "whyItMatters": "Critical medical awareness campaign to prevent infant vision loss and developmental complications.",
-      "brief": "Specialist doctors at LVPEI have issued urgent public health cautions regarding Retinopathy of Prematurity in newborn infants.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Visakhapatnam/lvpei-doctors-caution-on-retinopathy-of-prematurity/article71407781.ece",
-      "dateLocation": "August 30, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "AI Integration Mandated for NHAI Projects",
+      "whyItMatters": "Technology-driven oversight aims to curb delays and corruption in large-scale national infrastructure developments.",
+      "brief": "The National Highways Authority of India mandated end-to-end AI monitoring for all highway projects exceeding 20 kilometers.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/nhai-mandates-end-to-end-ai-mc-deployment-for-projects-over-20-km-in-length/articleshow/133636665.cms",
+      "dateLocation": "Aug 31, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government Digital Overhaul for Fertilizers",
-      "whyItMatters": "Improves subsidy targeting and supply chain transparency for agricultural management.",
-      "brief": "The government is rolling out a comprehensive digital overhaul integrating land, farmer, and crop data for end-to-end fertilizer tracking.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/fertilizer-management-system-digital-overhaul-government-subsidy-11788091370720.html",
-      "dateLocation": "August 30, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "HDFC Bank Evaluates Successors for CEO",
+      "whyItMatters": "Leadership transition at India's largest private lender carries significant implications for regional banking trends.",
+      "brief": "HDFC Bank is reportedly weighing Deputy MD Bharucha alongside external candidates for its upcoming CEO transition.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1BTUVBQTUlac2RIeVdNZzhOQkFPWWFUU3FqeFlSZlU5QzBrajNsU041RkpsUXpwSngxeEtucFcyU2RRUm1CRzBnbnp1eWJtZHZOQS00UlpsMTQydlR2RlNDSmlVVFphbThOcFVUd2YyWUlVSHdvYVZSbjVxck4wbktHTURxSl8zRmdoc3hVU2hBX25USFFndE5zc0xnNWtiSHNzamtaYWc3dXdyZmVJUG42aVk1Y2ZF?oc=5",
+      "dateLocation": "Aug 31, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Report Exposes European Hawala Network",
-      "whyItMatters": "Uncovers sophisticated underground financial routing systems operating across international borders.",
-      "brief": "A major investigative report exposed an illicit hawala network utilizing encrypted messaging groups to transfer millions globally.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/whatsapp-group-with-532-members-82-000-messages-millions-in-cash-transfers-report-exposes-hawala-network-11788096611770.html",
-      "dateLocation": "August 30, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "FCNR-B Inflows Help Banks Cut Deposits",
+      "whyItMatters": "Strong foreign currency inflows provide a strategic buffer against expensive domestic credit pricing.",
+      "brief": "Indian banks are leveraging robust FCNR-B foreign currency inflows to reduce reliance on costly bulk retail deposits.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/nri/invest/numbers-boost-fcnr-b-inflows-help-banks-cut-expensive-bulk-deposits/articleshow/133636505.cms",
+      "dateLocation": "Aug 31, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
