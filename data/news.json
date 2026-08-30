@@ -1,120 +1,147 @@
 {
-  "lastUpdated": "2026-08-30T03:29:50.601Z",
+  "lastUpdated": "2026-08-30T11:12:09.991Z",
   "ticker": [
-    "Nepal flood death toll climbs as rescue efforts resume",
-    "PM Modi begins Uzbekistan tour ahead of SCO summit",
-    "India forex reserves hit record $729 billion",
-    "US and Venezuela forge historic 25-year energy pact",
-    "North Korea dismisses defense minister in military shake-up"
+    "Nepal flood death toll reaches 784",
+    "PM Modi visits Tashkent for Uzbekistan ties",
+    "Iceland rejects EU membership referendum",
+    "Turkey, Saudi, and Pakistan hold defense pact talks",
+    "India sets new national mortuary standards"
   ],
   "articles": [
     {
-      "headline": "HDFC Bank CEO Jagdishan to Step Down in October",
-      "whyItMatters": "Signals leadership transition at India's largest private lender.",
-      "brief": "HDFC Bank CEO Sashidhar Jagdishan will retire in October as he decides not to seek reappointment, marking a significant leadership change for the major Indian financial institution.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTZ6Z0pNejBNMndLdnQwalh6NkF6WjIyVGZwOFZfZFl2em53RjU1V1hMSTlCclBHUzE2aEJsZ2pJSjVNTnZvaWU5ZkpBaXVDZTBmS3czUEZSbkl2cl8tRW9tekRuMkx6dHh3anpOd0NnZTBHTHUtYzdUZlpxX3NYV29BTlZnNHIzTXlDZlFSR2lVZ193Y0lKVE9DZ2pQdS1HZnV4VWx4cjJVeXNjc1l6MzJwSXVvRFJSYVE?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Temasek Backs Singapore Airlines' Air India Investment",
-      "whyItMatters": "Provides crucial backing amid growing regulatory scrutiny over aviation consolidation.",
-      "brief": "Temasek has given its backing to Singapore Airlines' investment in Air India, navigating increasing regulatory examination regarding the cross-border airline partnership.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUxQZW10X0ppY0t2WDFxU2Nldm1CWVdoZ2RuT1c1OWY4RS13QUVpUi1TQ2V3RlZrcTU3NDNxeTNrR0hDVEFxOURkdDJrSWxBYlI1Zl9MVjB2TlZSVXdKanVBMkZuSnBRcWtPRElseXhEb1pXYVRma3puYkxFUy13X1h5aVhLaG4tcGJQanc3cW9sWk84RXhtY2c2cl8wVDNIaG0zMlh2ZW9kUkhadUZSdUF3SV9LSFFXaUFwNy1Wb01KZHFVcHI2cHN3?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nepal Resumes Flood Rescue, Seeks Billions for Rebuilding",
-      "whyItMatters": "Highlights massive humanitarian and economic toll on South Asian infrastructure.",
-      "brief": "Nepal resumed rescue operations following devastating floods that left thousands missing, while finance ministers urgently seek billions in international assistance for rebuilding.",
+      "headline": "Nepal glacier collapse and floods spark massive rescue effort",
+      "whyItMatters": "The disaster has caused hundreds of deaths and massive economic damage.",
+      "brief": "Nepal is battling the aftermath of a devastating glacier collapse and flash floods that have left hundreds dead and thousands missing.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfFldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5",
+      "dateLocation": "2026-08-30 | Nepal",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bessent Warns Disorderly Yen Moves Can Destabilize Markets",
-      "whyItMatters": "Highlights ongoing global currency volatility risks and FX market stability.",
-      "brief": "Financial expert Bessent cautioned that disorderly fluctuations in the Japanese yen carry the potential to destabilize broader global markets amid macroeconomic shifts.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBpa0Q1ZFFoeUswNkhnRWtLZEdNVmpSNU5Qd19FY2ZseVEtLTJNQ0J4SVNLUU83RDRWa0VyWWlhQlNUdXoxMldCa0VTXzlhZllsbnh6LXVPbDNSYW1rVmFyY0VNRHljVUlPZGR2MTFZTWotZ0drc2hoNHJJTDZzVEpUZW9ieEt2Ny15QmktV0l0MWx1Rnd4Y00xc2pIQ0FLZkxtdzlkUTZXMDYxOVBXX3lrMUtpN0d6?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI to Cut Off AI Models for Cursor",
-      "whyItMatters": "Escalates corporate feuds and AI ecosystem access policies.",
-      "brief": "OpenAI plans to cut off its AI models for the SpaceX-owned coding platform Cursor, marking an escalation in tensions and rivalry with Elon Musk.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
-      "dateLocation": "August 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "RSS Chief Bhagwat Affirms Inclusion of Muslims in Bharat",
-      "whyItMatters": "Reflects shifting socio-political discourse on pluralism within Indian nationalist organizations.",
-      "brief": "During an address in New York, RSS chief Mohan Bhagwat stated that true Hindutva does not exclude Muslims, asserting that exclusionary views contradict fundamental Hindu principles.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/if-hindus-think-muslims-have-no-place-they-cease-to-be-hindu-mohan-bhagwat-in-new-york/article71405968.ece",
-      "dateLocation": "August 30, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PM Modi Begins Uzbekistan Tour Ahead of SCO Summit",
-      "whyItMatters": "Strengthens geopolitical ties and regional security cooperation in Central Asia.",
-      "brief": "Prime Minister Narendra Modi arrived in Uzbekistan to initiate a diplomatic tour aimed at boosting regional security, trade, and multilateral cooperation ahead of the SCO summit.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-work-with-sco-to-free-region-from-terror-pm-ahead-of-summit/articleshow/133619538.cms",
-      "dateLocation": "August 30, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "North Korea Dismisses Defense Minister in Military Shake-up",
-      "whyItMatters": "Signals high-level military restructuring amid ongoing regional security tensions.",
-      "brief": "North Korean state media announced the dismissal of its defense minister, with Kim Song Gi appointed to the role during a major leadership and military hierarchy shake-up.",
+      "headline": "Iran urges Gulf rulers to confront real enemy",
+      "whyItMatters": "Shifts regional diplomatic dynamics in the Middle East.",
+      "brief": "Iran's Supreme Leader Ayatollah Khamenei has sent a written message to Gulf rulers urging them to confront their real enemy.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/north-korea-defence-minister-dismissed-state-media/article71406956.ece",
-      "dateLocation": "August 30, 2026 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaH9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
+      "dateLocation": "2026-08-30 | Tehran",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US and Venezuela Forge Landmark 25-Year Energy Pact",
-      "whyItMatters": "Redraws geopolitical energy alignments and secures long-term global oil supplies.",
-      "brief": "The US and Venezuela established a 25-year energy partnership designed to revamp Venezuela's oil sector, granting the US a major share of new production output.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-venezuela-deal-what-we-know-about-trumps-biggest-oil-deal-in-world-history/articleshow/133622205.cms",
-      "dateLocation": "August 30, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Iceland voters reject EU membership talks in referendum",
+      "whyItMatters": "Keeps Iceland outside the European Union framework over fishing rights.",
+      "brief": "Icelandic voters have rejected resuming EU membership talks, prioritizing national sovereignty, fishing policies, and economic control.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/world/fishing-sovereignty-and-economic-policy-why-iceland-voters-rejected-eu-membership-in-referendum-11788085925548.html",
+      "dateLocation": "2026-08-30 | Reykjavik",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Demand and Tariffs Fuel Core Inflation Pressures",
-      "whyItMatters": "Demonstrates how technological infrastructure growth directly impacts macroeconomic consumer prices.",
-      "brief": "Minneapolis Fed analysis reveals that massive data center demand for hardware and memory drove up core inflation just as much as early-year import tariffs.",
+      "headline": "Europe central bankers fear turbulence in US relations",
+      "whyItMatters": "Highlights growing economic and diplomatic friction across the Atlantic.",
+      "brief": "Central bankers across Europe are growing increasingly anxious about potential trade and economic turbulence driven by shifting US relations.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
+      "dateLocation": "2026-08-30 | Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Turkey, Saudi Arabia, and Pakistan hold defense pact talks",
+      "whyItMatters": "Establishes a powerful new military alliance block in West and South Asia.",
+      "brief": "Top officials from Turkey, Saudi Arabia, and Pakistan have gathered in Istanbul for the first committee meeting of the Mecca Pact.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/istanbul-to-host-first-committee-meeting-of-turkey-saudi-pakistan-defence-alliance-mecca-pact-report/articleshow/133627671.cms",
+      "dateLocation": "2026-08-30 | Istanbul",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BJP concludes Gen Z outreach brainstorming session",
+      "whyItMatters": "Shapes upcoming youth electoral strategies in national politics.",
+      "brief": "The BJP has concluded that the Gen Z cohort is not homogenous, shifting its focus toward broader youth voter engagement strategies.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/bjp-brainstorming-on-genz-outreach-concludes-cohort-is-not-homogenous/article71407040.ece",
+      "dateLocation": "2026-08-30 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India sets first national standards for mortuaries",
+      "whyItMatters": "Standardizes fragmented infrastructure and bans basement morgues nationwide.",
+      "brief": "India has issued comprehensive new mortuary standards, mandating cold storage requirements, staffing minimums, and strict autopsies.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/india-in-a-first-issues-mortuary-standards-11788066989584.html",
+      "dateLocation": "2026-08-30 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jharkhand places health systems on high alert over swine flu",
+      "whyItMatters": "Protects public health through proactive hospital bed reserves and surveillance.",
+      "brief": "The Jharkhand health minister has directed hospitals to reserve beds and ramp up surveillance amid rising concerns over swine flu.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/jharkhand-on-high-alert-health-minister-directs-hospitals-to-reserve-beds-ramp-up-surveillance/articleshow/133626123.cms",
+      "dateLocation": "2026-08-30 | Ranchi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang disagrees with Bill Gates on robot tax",
+      "whyItMatters": "Challenges prevailing views on automation displacing human labor.",
+      "brief": "Nvidia CEO Jensen Huang argues that AI and automation will ultimately create more jobs and reindustrialize economies rather than require robot taxes.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-tariff-costs-now-reaching-consumers-ai-factors-equally-driving-up-inflation-what-fed-analysis-reveals-11788057097867.html",
-      "dateLocation": "August 30, 2026 | LiveMint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-nvidia-ceo-jensen-huang-does-not-agree-with-you-says-i-love-bill-but-he-is-wrong-as-/articleshow/133622598.cms",
+      "dateLocation": "2026-08-30 | Silicon Valley",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Joe Root Scripts History at Lord's Against Pakistan",
-      "whyItMatters": "Cement's Root's legacy as one of England's all-time greatest Test batsmen.",
-      "brief": "Joe Root surpassed Ricky Ponting's all-time record by scoring the most Test runs for England during a stellar performance against Pakistan at Lord's.",
+      "headline": "IBM CEO Arvind Krishna outlines meeting device etiquette",
+      "whyItMatters": "Reflects modern corporate workplace standards on technology usage.",
+      "brief": "IBM CEO Arvind Krishna distinguishes between large information-sharing meetings and small gatherings, differing with strict no-device policies.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-ceo-disagrees-on-this-smartphone-habit-with-jamie-dimon-says-i-am-sorry-it-is-/articleshow/133627423.cms",
+      "dateLocation": "2026-08-30 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India beauty market estimated for $42 billion valuation",
+      "whyItMatters": "Highlights explosive consumer retail growth in South Asia.",
+      "brief": "India's burgeoning beauty and personal care market is projected to reach an impressive $42 billion valuation by financial year 2031.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/indias-beauty-market-is-estimated-to-get-a-pretty-big-42-billion-glow-up-by-fy31/articleshow/133625794.cms",
+      "dateLocation": "2026-08-30 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tata Motors electric vehicle bookings surge ahead of festive season",
+      "whyItMatters": "Signals accelerating consumer adoption of green mobility in India.",
+      "brief": "Tata Motors passenger vehicles have seen EV bookings triple, pointing toward a record-breaking festive sales quarter for manufacturers.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-pv-sees-ev-boom-bets-on-record-festive-quarter-as-bookings-triple-executive/articleshow/133626196.cms",
+      "dateLocation": "2026-08-30 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Open presents a crucial test for Aryna Sabalenka",
+      "whyItMatters": "Determines the reigning world number one's dominance in professional tennis.",
+      "brief": "Aryna Sabalenka faces high competitive pressure at the US Open as she defends her world number one ranking and pursues a third consecutive title.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-vs-pakistan-at-lords-surpasses-ricky-pontings-all-time-record/articleshow/133622090.cms",
-      "dateLocation": "August 30, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/us-open-aryna-sabalenkas-new-york-test-is-about-more-than-no-1/articleshow/133627185.cms",
+      "dateLocation": "2026-08-30 | New York",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "VVS Laxman Emphasizes Expanding Indian Cricket Pathway",
-      "whyItMatters": "Shapes the future development structure of grassroots Indian athletic talent.",
-      "brief": "National cricket academy head VVS Laxman stated that Centers of Excellence must extend beyond contracted players to build a sustainable national athletic pipeline.",
+      "headline": "Fifteen-year-old Vaibhav Sooryavanshi shows leadership in Duleep Trophy",
+      "whyItMatters": "Showcases exceptional rising talent in Indian domestic cricket.",
+      "brief": "Young cricketer Vaibhav Sooryavanshi captained East Zone in the Duleep Trophy semifinal, making a brave and decisive DRS review call.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/coe-cannot-be-only-for-contracted-players-vvs-laxman-on-building-indias-cricket-pipeline/articleshow/133622224.cms",
-      "dateLocation": "August 30, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-captain-vaibhav-sooryavanshis-brave-drs-call-gets-east-zone-crucial-wicket/articleshow/133626901.cms",
+      "dateLocation": "2026-08-30 | India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Odisha mandates automated alimony deductions from employee salaries",
+      "whyItMatters": "Ensures timely financial justice and enforces strict judicial family orders.",
+      "brief": "The Odisha government will directly deduct alimony payments from the salaries of defaulting employees to provide secure financial support.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/salary-deductions-for-odisha-government-employees-defaulting-on-alimony/articleshow/133627364.cms",
+      "dateLocation": "2026-08-30 | Bhubaneswar",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
