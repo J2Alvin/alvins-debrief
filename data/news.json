@@ -1,147 +1,120 @@
 {
-  "lastUpdated": "2026-08-31T12:37:54.230Z",
+  "lastUpdated": "2026-08-31T22:24:33.544Z",
   "ticker": [
-    "India's Q1 GDP grows 7.8%",
-    "India rejects Hague IWT ruling",
-    "Nepal searches for flood victims",
-    "Oracle braces for fresh layoffs",
-    "HDFC Bank CEO exit raises risks"
+    "India's Q1 GDP hits 7.8%",
+    "Modi urges Putin to end war",
+    "US Supreme Court clears ballroom project",
+    "Nepal avalanche triggers deadly floods",
+    "IMD forecasts below-normal September rain"
   ],
   "articles": [
     {
-      "headline": "India's Q1 GDP Beats Forecasts at 7.8%",
-      "whyItMatters": "Demonstrates robust domestic economic momentum driven by a strong surge in capital investments.",
-      "brief": "India's economy expanded by 7.8% in the April-June quarter, outperforming expectations thanks to a significant acceleration in investment activity.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWt2ZFNZVXBBeVItLUpMOVktRlBOME11YWduTkoySi1LV3F2Tk95U1Y3MnVYOXVSejd2OEJnZ0RlVlZXcEpSWVNScXlVWWQwb0REbldJSlNEZ1hkLXhwejNHV0I3R1Fqemt2TFJJTmZpTjJHNmV3QkNNUWt4a0Y3Zg?oc=5",
-      "dateLocation": "August 31, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Rejects Hague Ruling on Indus Waters",
-      "whyItMatters": "Reasserts national sovereignty over regional water-sharing pacts against international arbitration attempts.",
-      "brief": "New Delhi firmly rejected the Hague arbitration court's ruling on the Indus Waters Treaty, stating it has never recognized the court's existence.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/never-recognised-existence-of-india-rejects-hague-arbitration-court-ruling-on-indus-waters-treaty-11788176314083.html",
-      "dateLocation": "August 31, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nepal Rescuers Search for Flood Survivors",
-      "whyItMatters": "Highlights ongoing humanitarian crises and infrastructure vulnerabilities following severe weather events.",
-      "brief": "Rescue teams in Nepal are frantically searching for hundreds of people trapped inside hydropower tunnels after devastating floods swept the region.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFpMc01NLTlDQi0zUDFwcVBIcDg5d2hsdXVvTG14QzYyOWZSeGdTYzFoNkVoT2ZyTU9zQUwwVkFXZnhXOFpNczNMWDVTOXpkaGhVSXhUR3QwS0hiQkZLTkN0Z3RuTzVmNWxuSUd0TXctMk1URzRMeWRCVnpTM2cwLTdwWWQtREk3X2E3UWFQWGpzWnhJU3RjM3dPSTA1Tnd0aE5pLW9WUF9BZmluelZCWE9oQ2ZyZFhpS1FfRA?oc=5",
-      "dateLocation": "August 31, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oracle Employees Brace for Potential Layoffs",
-      "whyItMatters": "Signals ongoing workforce rationalization in major tech giants amid heavy pivots toward AI investments.",
-      "brief": "Tech workers fear a repeat of previous mass terminations as Oracle leadership reportedly prepares another round of steep job cuts.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-company-leadership-may-again-send-the-6-am-email-on-september-1-that-told-employees-we-have-made-the-decision-to/articleshow/133651829.cms",
-      "dateLocation": "August 31, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "HDFC Bank CEO Exit Raises Transition Risk",
-      "whyItMatters": "Leadership changes in top financial institutions impact investor sentiment and institutional stability.",
-      "brief": "Moody’s warns that the departure of HDFC Bank's CEO introduces transition risks, emphasizing that orderly succession remains critical for investor confidence.",
+      "headline": "India's GDP Surges 7.8% in April-June",
+      "whyItMatters": "Demonstrates strong national economic resilience against global shocks.",
+      "brief": "India's economy recorded an impressive 7.8% growth rate in the first quarter, driven by robust manufacturing, services, and investment surges.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-exit-orderly-succession-key-to-investor-confidence-says-moodys/articleshow/133651177.cms",
-      "dateLocation": "August 31, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3pJY2JhQ3prT1M1ZnJkQ3RXa21UMHQ5N2VMV2JKbzRId0t4bkttRUY2ZmZfbmJ0UENmd21nUVBqallrN2VpQ3BEcnNHNXhWWmdaWEhLbXdBNlNfbkZWSVZKb2dVR3BoSnBrNEVKUG1QYkZGcVBIY2NSM2RTTlY5c1dXaXQtNWY0eEtF?oc=5",
+      "dateLocation": "Aug 31, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Modi and Pezeshkian Meet at SCO Summit",
-      "whyItMatters": "Facilitates diplomatic engagement between regional powers amidst rising tensions in the Middle East.",
-      "brief": "Prime Minister Narendra Modi held his first meeting with Iranian President Pezeshkian since the Gulf conflict, discussing regional peace efforts.",
+      "headline": "Modi Tells Putin Ukraine War Must End",
+      "whyItMatters": "Highlights India's diplomatic stance urging peace for humanity.",
+      "brief": "Prime Minister Modi directly told Russian President Putin that the ongoing war in Ukraine must end for the sake of humanity.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/pm-modi-meets-iran-president-pezeshkian-for-first-time-since-gulf-war-what-was-discussed-11788173299384.html",
-      "dateLocation": "August 31, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1JRSVpMMVp5U0JZRXJRaXk3TTBZSjZqcXNTSTN4QjFBT1RTNGwyZ0hWa216TW94TjNkdE1XZ2lMWnVNMDhsSzczaHRpeWItSDNKREdvdTRSTlBDR3NrUFI5VUJKUnd0N2RyOVdHWmwwM3lFQXNiQnBLUHJTNFFBaGZRNEZ6a2M3Ymh2OEk2VFYzalRISUJCSTM0Y0c4QjNDR2tmU291UzdQWm91V0NpUFZzU0FGYnNZS3hKUEhB?oc=5",
+      "dateLocation": "Aug 31, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "SC to Hear NEET Protest FIR Pleas",
-      "whyItMatters": "Demonstrates the judicial handling of student dissent and civil liberties under constitutional provisions.",
-      "brief": "The Supreme Court will invoke Article 142 to hear the Centre's petition seeking to quash FIRs filed against NEET protesters.",
+      "headline": "Supreme Court Clears White House Ballroom Project",
+      "whyItMatters": "Allows a major federal construction initiative to proceed despite legal challenges.",
+      "brief": "The U.S. Supreme Court voted 5-4 to lift lower court orders halting construction on the controversial $400 million White House ballroom.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-supreme-court-allows-trumps-ballroom-project-to-proceed/article71412668.ece",
+      "dateLocation": "Aug 31, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal Avalanche Triggers Catastrophic Deluge",
+      "whyItMatters": "Demonstrates the severe destructive impact of high-speed Himalayan climate anomalies.",
+      "brief": "A sudden ice-rock avalanche raced down the Himalayas at 167 km/h, causing deadly floods and wreaking havoc on hydropower facilities.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/invoking-article-142-sc-will-hear-centres-plea-to-quash-firs-against-neet-protesters-on-sept-1/articleshow/133652202.cms",
-      "dateLocation": "August 31, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-avalanche-from-5200-metres-raced-down-himalayas-at-167-kmph-triggering-deadly-deluge/articleshow/133657450.cms",
+      "dateLocation": "Aug 31, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi High Court Orders Fortis Forensic Audit",
-      "whyItMatters": "Advances long-standing cross-border asset tracing and corporate accountability in major legal disputes.",
-      "brief": "The Delhi High Court appointed a forensic auditor to examine complex asset transfers involving Fortis Healthcare to aid Daiichi Sankyo.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/delhi-hc-appoints-forensic-auditor-to-examine-fortis-linked-transactions-in-daiichi-case-11788163115784.html",
-      "dateLocation": "August 31, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "IMD Predicts Below-Normal September Rainfall",
+      "whyItMatters": "Threatens agricultural sowing schedules and increases irrigation costs nationwide.",
+      "brief": "India's meteorological department expects below-normal rains in September due to persistent El Niño conditions, concluding the season deficiently.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/imd-predicts-below-normal-rainfall-over-country-in-september/articleshow/133662921.cms",
+      "dateLocation": "Aug 31, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Airports Streamline Immigration Clearance",
-      "whyItMatters": "Enhances travel efficiency by modernizing bureaucratic procedures at major international transit hubs.",
-      "brief": "Indian airports are eliminating physical boarding pass stamping requirements starting September 1 to drastically cut passenger wait times.",
+      "headline": "Oracle Faces Potential Major Workforce Cuts",
+      "whyItMatters": "Signals continued tech sector adjustments as companies heavily prioritize AI infrastructure.",
+      "brief": "Oracle employees brace for potential layoff notifications as leadership reviews restructuring lists, following substantial prior job cuts.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/starting-september-1-indian-airports-are-discontinuing-immigration-clearance-for-/articleshow/133633356.cms",
-      "dateLocation": "August 31, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-company-leadership-may-again-send-the-6-am-email-on-september-1-that-told-employees-we-have-made-the-decision-to/articleshow/133651829.cms",
+      "dateLocation": "Aug 31, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Draft Electoral Roll Excludes Millions",
-      "whyItMatters": "Massive electoral roll revisions impact urban voter demographics ahead of upcoming political contests.",
-      "brief": "A total of 47.7 lakh names have been officially excluded from the latest draft electoral roll published in Delhi.",
+      "headline": "Maruti Suzuki Plans Rs 77,500 Cr Capex",
+      "whyItMatters": "Reflects massive long-term domestic auto industry investment and growth confidence.",
+      "brief": "Maruti Suzuki has announced a massive capital expenditure plan spanning five years to boost consumer demand and scale production infrastructure.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/maruti-suzuki-plans-rs-77500-crore-capex-over-5-years-to-boost-demand-post-gst/articleshow/133661860.cms",
+      "dateLocation": "Aug 31, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Meta Removes Fraud Apps Posing as Porn",
+      "whyItMatters": "Demonstrates cross-border regulatory intervention safeguarding users from digital scams.",
+      "brief": "Meta removed deceptive advertisements for malicious android applications following safety alerts and alarms raised by Indian authorities.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGF5NnoxXzBVMXlDY3ctYUpQZW5ueUw0NFpmaUtwYksxUUpHTU05ZHFzQzJHTnZRcEw5V0VPcGxSQlk1MlZXVEo0aUYyV1ZqQXh3YmE1eTVWTkx1b2lIalkxWDlwcFQ0TDJkQ1VLcURoeEJVaXdYTVM4OHJFZGFJcnNwY1pYUlZGUXY2QmR2WDVkcGxRLXpHV25IcnpPOWlOQU9TdTRUUEgyUQ?oc=5",
+      "dateLocation": "Aug 31, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran President Seeks India's Help for Peace",
+      "whyItMatters": "Positions India as a critical diplomatic mediator in escalating West Asian conflicts.",
+      "brief": "Iranian President Pezeshkian met with Prime Minister Modi to foster trade connections and encourage Indian mediation to end the ongoing war.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/top-news-of-the-day-august-31-2026/article71410737.ece",
-      "dateLocation": "August 31, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/iran-president-meets-pm-modi-seeks-help-to-end-war/articleshow/133662872.cms",
+      "dateLocation": "Aug 31, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Joe Root Reflects on Test Batting Slump",
-      "whyItMatters": "Affects high-profile individual sporting milestones and international cricket ranking dynamics.",
-      "brief": "England batter Joe Root remains unfazed by a lean summer season, attributing his low scores to challenging bowling conditions and Dukes balls.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/umpires-calls-and-different-ball-joe-root-explains-lean-run-as-he-chases-sachin-tendulkars-record/articleshow/133650693.cms",
-      "dateLocation": "August 31, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Zomato Bans Analogue Dairy Products",
-      "whyItMatters": "Sets strict food safety compliance standards and consumer protection norms within the delivery sector.",
-      "brief": "Food delivery major Zomato has enforced a zero-tolerance ban on analogue dairy items to safeguard consumer health and clear standards.",
+      "headline": "Foreign Buying in Indian Stocks Hits High",
+      "whyItMatters": "Shows robust international confidence in Indian market fundamentals despite global turbulence.",
+      "brief": "RBI data reveals that foreign portfolio investments in Indian equities reached a 23-month high during the month of August.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/trends/what-is-analogue-dairy-zomato-bans-such-dishes-to-safeguard-customer-health-and-uphold-clear-standards-11788171775682.html",
-      "dateLocation": "August 31, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHFqREx4OGJ4T0NFMVlHaDZ4aDQ3VTE3ckFZX0JPVk1rRFBBSWxNX25fZkRuYTgyUnJfNlNUUmd1ampBUXZBQ1c4Y3JvYnRKMkh6eVdENFJSTWFQZ3FHVWZ3dDhBbUx1ZXlBY3ZjcEg3ZWNVVk9kNGowdENSZFNuSnRoLXkyNWNSQVpyVndFYUJyYl9kUVNGSDNybGtuZzNzc3laNHJya3ppNG91dDRWZE5SeVh5Vk82?oc=5",
+      "dateLocation": "Aug 31, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ankur Wins Maiden WTT Table Tennis Title",
-      "whyItMatters": "Marks a significant breakthrough for emerging athletes on the international table tennis circuit.",
-      "brief": "Indian paddler Ankur defeated Slovenia's Deni Kozul to claim his first-ever World Table Tennis singles title in Czechia.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/ankur-wins-maiden-wtt-title-doubles-gold-in-czechia/article71410416.ece",
-      "dateLocation": "August 31, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Grand Canyon Under Threat After Deadly Floods",
+      "whyItMatters": "Exposes ongoing risks to tourists and emergency response teams during severe weather.",
+      "brief": "Fresh storms threaten ongoing search-and-rescue operations in the Grand Canyon following flash floods that killed two and left dozens missing.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/grand-anyon-under-storm-threat-after-deadly-weekend-floods-11788205873570.html",
+      "dateLocation": "Aug 31, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Telangana Cracks Down on Fertility Clinics",
-      "whyItMatters": "Addresses regulatory compliance and ethical healthcare delivery within specialized medical sectors.",
-      "brief": "State health authorities found 50 fertility centres violating operational norms, resulting in the cancellation of two registrations.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/telangana/telangana-50-fertility-centres-found-violating-norms-two-registrations-cancelled/article71410626.ece",
-      "dateLocation": "August 31, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Telangana Reports Progress in Healthcare Standards",
-      "whyItMatters": "Highlights local administrative initiatives aimed at improving regional healthcare infrastructure delivery.",
-      "brief": "State officials detailed ongoing expansions in public health facilities to ensure better accessibility and patient care across districts.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/telangana/congress-govt-was-people-centric-in-1000-days-of-rule-tpcc-chief/article71410252.ece",
-      "dateLocation": "August 31, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Considers Tightening H-1B Visa Rules",
+      "whyItMatters": "Directly impacts international professionals and employment stability in the United States.",
+      "brief": "The Trump administration cleared a review of proposals to eliminate the 60-day post-layoff grace period for H-1B visa holders.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-h-1b-visa-rules-may-tighten-trump-administration-clears-review-of-proposal-to-end-60-day-grace-period-after-layoffs-11788209728961.html",
+      "dateLocation": "Aug 31, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
