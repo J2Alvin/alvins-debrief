@@ -1,93 +1,138 @@
 {
-  "lastUpdated": "2026-09-01T16:01:23.539Z",
+  "lastUpdated": "2026-09-01T20:30:28.610Z",
   "ticker": [
-    "India GDP grows 7.8% in Q1",
-    "Nepal flood death toll exceeds 1,050",
-    "US and Iran exchange direct strikes",
-    "India eyes polymer currency rollout",
-    "SpaceX acquires AI startup Cursor"
+    "US launches military strikes on Iranian IRGC targets",
+    "India reports robust 7.8% GDP economic expansion",
+    "Volkswagen proposes shutting four German manufacturing plants",
+    "Coal India commits ₹50,000 crore to non-coal diversification",
+    "Goldman Sachs and BofA plan joint dollar stablecoin"
   ],
   "articles": [
     {
-      "headline": "India prepares rollout of agentic payments on UPI",
-      "whyItMatters": "AI-driven autonomous payments will redefine digital finance and merchant ecosystems.",
-      "brief": "Sources indicate India is gearing up to introduce agentic payments via UPI, marking a major leap in automated digital financial transactions.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnNNcVFja2UtMGZyMWpMWm02ZERpdzVqTVBjYnQwYmhISjlYZnViaHUtME1raWRuZHhqNXpYUVFKaEhjb1pVQnJMTkl2cThfYVVhejJGRk1fM29Id3FpNl9Dek8tX0lUaEVPSV9SLWRDTVRmQ3MzOVQ5bFpZWWhZdU93VlFGeHhWQ2VfQm5nNDFsaDVLcVozNVVRTVJMX3JYajBOR29INA?oc=5",
+      "headline": "US Strikes Iran's IRGC Amid Shipping Tensions",
+      "whyItMatters": "Escalates Middle East conflict and threatens global shipping routes.",
+      "brief": "The United States military has launched direct strikes against Iranian Revolutionary Guard Corps targets following recent provocations near the Strait of Hormuz.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-forces-begin-strikes-on-irgc-targets-in-iran-amid-strait-of-hormuz-tensions-11788281245496.html",
       "dateLocation": "September 1, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India GDP grows better-than-expected at 7.8%",
-      "whyItMatters": "Robust quarterly growth defies global economic headwinds and signals strong domestic investment.",
-      "brief": "India's economy expanded by a stronger-than-expected 7.8% in the April-June quarter, driven largely by a sharp surge in domestic investments.",
+      "headline": "China's Xi Visits Egypt Amid Regional Reshaping",
+      "whyItMatters": "Shifts geopolitical alignments in the Middle East during active conflict.",
+      "brief": "Chinese President Xi Jinping has arrived in Egypt as ongoing hostilities involving Iran actively reshape traditional alliances across the Middle Eastern region.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXdUN1lKTHRMR2hGZjJESTdacVBhMjgwMldoRGJ3dXZKVHNwWndJNlVWX3VJT0xuVkgtdkJMb0cyREdOMmRDcFNnblFUMm5DblctZHAxYnluWUZvQ3NXbTdTenZpYXRENU5wT09BbzF2S1lINnl1Z2p6cy1VeC14Q2kyLWRpNXdRN0lRWjhwM2JQVkxfYzQ0VnduSHZnaEJkLUFQcUw0bDBNaF92a1RLOQ?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Volkswagen Proposes Closing Four German Plants",
+      "whyItMatters": "Signals deep industrial decline and structural manufacturing challenges in Europe.",
+      "brief": "Management at Volkswagen has officially proposed the shutdown of four major German manufacturing plants by the year 2034 amidst severe economic pressures.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3pJY2JhQ3prT1M1ZnJkQ3RXa21UMHQ5N2VMV2JKbzRId0t4bkttRUY2ZmZfbmJ0UENmd21nUVBqallrN2VpQ3BEcnNHNXhWWmdaWEhLbXdBNlNfbkZWSVZKb2dVR3BoSnBrNEVKUG1QYkZGcVBIY2NSM2RTTlY5c1dXaXQtNWY0eEtF?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWWtQclkzdGZNZjlIaXdxQkN5NVA4SWZHMUo5dm9EalhEWDZ5ZFlhUDhwTkpNWVdCYi00SURnOXB6dm4xd003bnQ1a2xoSjgySkRlN3ZrQUl5T2g3c1Ewam5uN2VmbmdJQ1M1TGNMZV9xSzJjbjZ6dlBod2gxX1VSOVRNVEdKLTlxSVFyLVZPdGZSU3VhX05sV0JfdlJpaUJNeTZkTmE1a25lQWM4M1d5NmJISUVyQkFHLXV6bU1nTUpLbU16OHRBN3RnMmcyRm93QTlaSm8xZXp3dUZCalE?oc=5",
       "dateLocation": "September 1, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nepal flood death toll crosses 1,050",
-      "whyItMatters": "Catastrophic monsoon devastation requires massive regional humanitarian and rescue responses.",
-      "brief": "The death toll from devastating floods in Nepal has surpassed 1,050 as rescue teams finally reach isolated remote areas with DNA analysis and drones.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzM2eXZHNlAtNllHNlpsYldnQ2xtdjhiTkxaUW92cExCWmhnWll5eUl1aVVBN2tnUGw4eG9VbmFENmhoUmZRM0lRZ043VHZiM3liSkFhY1RzVEx2am1hX1lsQi1vajliSDhUV05NN1FNMzVFZnN2OUhFdjNPMHo0UzNXSkwtTnVUZ2lGSzhhWDdyNUh6cWFlUTZiMy1Ia3ZHN0pseDhVRjBpY0ZBWTBmS2czUjJ6X0ZZVkZLaHpXQl9uLVpvRW40cA?oc=5",
-      "dateLocation": "September 1, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India explores opacified polymer substrate for currency",
-      "whyItMatters": "Shifting to plastic notes enhances security against counterfeiting and improves durability.",
-      "brief": "The RBI's currency-printing subsidiary has invited global bids to supply opacified polymer substrate sheets, signaling plans for polymer banknotes.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/india-eyes-plastic-notes-how-govt-plans-to-keep-polymer-currency-secure-from-china-pakistan-influence-11788271236087.html",
-      "dateLocation": "September 1, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Treasury warns Strait of Hormuz could face disruption",
-      "whyItMatters": "Geopolitical chokepoints directly impact global oil supply chains and energy security.",
-      "brief": "Amid escalating US-Iran tensions and military strikes, US Treasury Secretary Bessent warned about the future stability of critical energy shipping lanes.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-treasury-secretary-bessent-says-strait-of-hormuz-could-become-worthless-in-two-years-11788276389631.html",
-      "dateLocation": "September 1, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SpaceX acquires AI coding startup Cursor for $60B",
-      "whyItMatters": "Major consolidation in AI tooling highlights massive valuations and strategic tech acquisitions.",
-      "brief": "Elon Musk's SpaceX has acquired AI coding platform Cursor for $60 billion, sparking new industry competition and highlighting Indian-origin founders.",
+      "headline": "India Prepares Rollout of Agentic Payments on UPI",
+      "whyItMatters": "Revolutionsed digital financial transactions through advanced autonomous AI workflows.",
+      "brief": "India is actively preparing the rollout of advanced agentic payment capabilities across its Unified Payments Interface infrastructure, according to industry sources.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-60-billion-purchase-of-cursor-that-has-made-sam-altman-upset-has-an-indian-connection-aman-sanger/articleshow/133669588.cms",
-      "dateLocation": "September 1, 2026 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnNNcVFja2UtMGZyMWpMWm02ZERpdzVqTVBjYnQwYmhISjlYZnViaHUtME1raWRuZHhqNXpYUVFKaEhjb1pVQnJMTkl2cThfYVVhejJGRk1fM29Id3FpNl9Dek8tX0lUaEVPSV9SLWRDTVRmQ3MzOVQ5bFpZWWhZdU93VlFGeHhWQ2VfQm5nNDFsaDVLcVozNVVRTVJMX3JYajBOR29INA?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Maharashtra FDA suspends Blinkit hub over hygiene",
-      "whyItMatters": "Strict food safety enforcement targets quick-commerce dark stores to protect consumer health.",
-      "brief": "State authorities suspended food licenses for Blinkit hubs and partner outlets in Mumbai following serious hygiene and safety violations.",
+      "headline": "Coal India Commits ₹50,000 Crore to Gasification",
+      "whyItMatters": "Diversifies India's largest coal miner into green energy and critical minerals.",
+      "brief": "Coal India has announced a massive ₹50,000 crore investment strategy aimed at life beyond coal, focusing heavily on gasification projects and critical mineral extraction.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/coal-india-bets-50000-crore-on-life-beyond-coal-goes-big-on-gasification-critical-minerals/articleshow/133691232.cms",
+      "dateLocation": "September 1, 2026 | The Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Goldman and BofA Plan Joint Dollar Stablecoin",
+      "whyItMatters": "Marks major traditional banking entry into blockchain-based digital currency systems.",
+      "brief": "Global banking giants including Goldman Sachs and Bank of America are collaborating to issue a regulated dollar stablecoin together by 2027.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN01yNnpGbk1CVXJyS00tY0swX3JKTldjOER3SlY1clItcU5Nbk1XYzZFNEJDR1BIZ2NaSXk5Z0VTRGZJdDd4cUk2YnBLWGNSVVJGS3VTbFRNUlMtcnd6Y1FiU3lfSUU1V3lhSjNfSEhjMjdubTlfOEFEWXZwZUJWVHVxNVBHT0s3TzJfLWRSYTJzNHRtVTVqZEgtcFZER3ZRV0VnRk9jTm40RURvTksyTFA1d29Fem1TMGctaXJB?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UN Warns of Severe Himalayan Glacial Floods",
+      "whyItMatters": "Threatens millions of lives and infrastructure across South Asian river basins.",
+      "brief": "A senior UN official has warned that the Himalayas face catastrophic glacial flood risks in the coming years due to accelerated climate change impacts.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/maharashtra-fda-suspends-blinkit-2-mumbai-eateries-food-licences-over-serious-hygiene-violations/articleshow/133685115.cms",
-      "dateLocation": "September 1, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEtQYjlTRkRTRWtUUWZaVkxvSVI2SHBEdkN3Mmt2X2NnSUFzQVV0aEIybVpJNVNyMEE1ZTNsaC1mTmFiOUp3cWh2NEdwY0UzYUhFTzByLVNfVi1EUHZBMXRCSm9PMXdUVmQ5MEZSYUtOeDY3MUZMaVBhRjEzaTZQQ0RyR3REVXVKRC1rRFFfcHpVdzBXaV9leWlfbDJzNGE2dENaUzV4RDFHMmMwQzRvXzd0cXI3aXN2S1NUVXF0T1NNSmtOak0w?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India revives talks with Zambia for critical minerals",
-      "whyItMatters": "Securing foreign critical mineral assets is vital for India's clean energy and manufacturing transition.",
-      "brief": "India has restarted diplomatic and economic negotiations with Zambia to secure direct access investments in essential critical minerals.",
+      "headline": "India Halves Sugar Stock Limits to Curb Hoarding",
+      "whyItMatters": "Stabilizes domestic food prices and manages essential commodity supply chains.",
+      "brief": "The Indian government has reduced sugar stockholding limits for dealers by half and shifted raw sugar import quotas to daily allocations to control rising prices.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelBWWVBpa3ZuaHdHS0IxSy1qZldPUVBuejNqUjBWN0ZPYklTbVRZMVR3aWZMRzc1WWRaSU1DS3lvRWFOakZHSVNTNjZiaEJBblU4czZjVVZKY21LMHBBYXJiYmZIa0ZhZWZyU3BZTnFfUFpqMmxmWV9Zamdic1RYUWpjaTBaYUpoQWJoZXBMM3BVX21pMzdPR0JUS3JXM1Q1N1lfU2hmQ2l5WmE1QVcteEQ2dVFHY0E?oc=5",
-      "dateLocation": "September 1, 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-halves-sugar-stock-limit-for-dealers-to-curb-hoarding/articleshow/133690744.cms",
+      "dateLocation": "September 1, 2026 | The Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oracle employees track Slack counts amid layoff fears",
-      "whyItMatters": "Tech sector workforce reductions continue to impact major enterprise software companies globally.",
-      "brief": "Following major restructuring charges and heavy AI infrastructure spending, tech employees are anxiously monitoring headcount metrics as layoff rumors circulate.",
+      "headline": "Oracle Staff Track Slack Counts Amid Layoff Fears",
+      "whyItMatters": "Highlights widespread job insecurity and corporate restructuring within big tech.",
+      "brief": "Following major AI spending spikes and prior cuts, Oracle employees across the US and India are closely monitoring Slack directory counts while awaiting structural layoffs.",
       "category": "technology",
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-the-6-am-email-didnt-come-on-september-1-and-employees-across-us-and-india-are-now-watching-slack-counts/articleshow/133685199.cms",
-      "dateLocation": "September 1, 2026 | Times of India",
+      "dateLocation": "September 1, 2026 | The Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Zelenskyy Declares Russian Airspace Unsafe for Airlines",
+      "whyItMatters": "Increases economic pressure on Russian aviation and international transport insurers.",
+      "brief": "Ukrainian President Volodymyr Zelenskyy issued a stark warning to global commercial airlines and insurers, stating that Russian airspace is now entirely unsafe.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/zelenskyy-warns-safe-days-in-russian-skies-are-over/article71417049.ece",
+      "dateLocation": "September 1, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tribunal Alters Dismissal of Gay Ex-IAF Officer",
+      "whyItMatters": "Advances LGBTQ+ rights and legal precedents within Indian armed forces.",
+      "brief": "An armed forces tribunal has officially altered the dismissal of a gay former Indian Air Force officer to a routine discharge.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/tribunal-alters-gay-ex-iaf-man-dismissal-to-routine-discharge/articleshow/133691499.cms",
+      "dateLocation": "September 1, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Quashes FIRs Against Student Protesters",
+      "whyItMatters": "Protects fundamental rights of academic expression and peaceful demonstration.",
+      "brief": "The Supreme Court has officially quashed multiple First Information Reports filed against student protesters, granting major legal relief to campus activists.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/supreme-court-quashes-firs-against-student-protesters/articleshow/133690066.cms",
+      "dateLocation": "September 1, 2026 | The Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Cricket Board Overhauls Selection Committee",
+      "whyItMatters": "Reflects deep administrative instability following national team performance struggles.",
+      "brief": "The Pakistan Cricket Board has demanded explanations for squad selections following poor Test series performances, prompting high-profile resignations within the selection committee.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-chaos-pcb-seeks-answers-over-mohammad-rizwan-imam-ul-haq-picks-as-misbah-ul-haq-quits-selection-committee/articleshow/133688844.cms",
+      "dateLocation": "September 1, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Busts Fake Expiry Date Food Export Ring",
+      "whyItMatters": "Exposes significant regulatory lapses affecting global food safety standards.",
+      "brief": "Indian authorities have busted a rogue firm operating in the country that was systematically faking expiry dates and nutrition labels on major PepsiCo and Nestle exports.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0JzN3FhMUxELS1ucWNKUEl4WHJSMVdaRERwc3FVcHNrY3BIMEljZjM5VHotYTA5OHZyVXNVTVRDcFZVeXVTcFA3aVFZMlVkSDJEUjV1R1BUc0syd2hVYTBMbWlBSnhsVlN0Z2xNSFh6bGM4bGFnYTFpWXBHdi1pNUZIbTM1ZHRxbTV5aEhJWFJlVTNXazdzMUVkM2VGTUdUbUl4UldpaGsydkRjVDVhLUhNejBzVF9XS0JnNFpR?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
