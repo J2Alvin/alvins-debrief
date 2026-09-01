@@ -1,120 +1,147 @@
 {
-  "lastUpdated": "2026-08-31T22:24:33.544Z",
+  "lastUpdated": "2026-09-01T03:27:31.805Z",
   "ticker": [
-    "India's Q1 GDP hits 7.8%",
+    "India Q1 GDP surges 7.8%",
     "Modi urges Putin to end war",
-    "US Supreme Court clears ballroom project",
-    "Nepal avalanche triggers deadly floods",
-    "IMD forecasts below-normal September rain"
+    "US Army Secretary resigns",
+    "Tupac murder case gets conviction",
+    "Lionel Messi retires from Argentina"
   ],
   "articles": [
     {
-      "headline": "India's GDP Surges 7.8% in April-June",
-      "whyItMatters": "Demonstrates strong national economic resilience against global shocks.",
-      "brief": "India's economy recorded an impressive 7.8% growth rate in the first quarter, driven by robust manufacturing, services, and investment surges.",
+      "headline": "India Q1 GDP Surges 7.8%",
+      "whyItMatters": "Robust investment and consumption patterns have effectively blunted broader geopolitical shocks from ongoing global conflicts.",
+      "brief": "India's economy grew by a better-than-expected 7.8% in April-June, driven by a sharp surge in domestic investments and private consumption.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3pJY2JhQ3prT1M1ZnJkQ3RXa21UMHQ5N2VMV2JKbzRId0t4bkttRUY2ZmZfbmJ0UENmd21nUVBqallrN2VpQ3BEcnNHNXhWWmdaWEhLbXdBNlNfbkZWSVZKb2dVR3BoSnBrNEVKUG1QYkZGcVBIY2NSM2RTTlY5c1dXaXQtNWY0eEtF?oc=5",
-      "dateLocation": "Aug 31, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-q1-gdp-growth-quickens-to-7-8-as-consumption-capex-offset-us-iran-war-shock/articleshow/133647714.cms",
+      "dateLocation": "September 1, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Modi Tells Putin Ukraine War Must End",
-      "whyItMatters": "Highlights India's diplomatic stance urging peace for humanity.",
-      "brief": "Prime Minister Modi directly told Russian President Putin that the ongoing war in Ukraine must end for the sake of humanity.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1JRSVpMMVp5U0JZRXJRaXk3TTBZSjZqcXNTSTN4QjFBT1RTNGwyZ0hWa216TW94TjNkdE1XZ2lMWnVNMDhsSzczaHRpeWItSDNKREdvdTRSTlBDR3NrUFI5VUJKUnd0N2RyOVdHWmwwM3lFQXNiQnBLUHJTNFFBaGZRNEZ6a2M3Ymh2OEk2VFYzalRISUJCSTM0Y0c4QjNDR2tmU291UzdQWm91V0NpUFZzU0FGYnNZS3hKUEhB?oc=5",
-      "dateLocation": "Aug 31, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Clears White House Ballroom Project",
-      "whyItMatters": "Allows a major federal construction initiative to proceed despite legal challenges.",
-      "brief": "The U.S. Supreme Court voted 5-4 to lift lower court orders halting construction on the controversial $400 million White House ballroom.",
+      "headline": "Modi Urges Putin to End Ukraine War",
+      "whyItMatters": "Signals shifting diplomatic pressures on Moscow from key international partners during high-level summit meetings.",
+      "brief": "Prime Minister Modi told Russian President Putin that the ongoing war in Ukraine must end immediately for the sake of humanity.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-supreme-court-allows-trumps-ballroom-project-to-proceed/article71412668.ece",
-      "dateLocation": "Aug 31, 2026 | The Hindu",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/pm-modi-putin-sco-summit-russia-ukraine-war-end-hostilities-india-russia-relations/articleshow/133654793.cms",
+      "dateLocation": "September 1, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nepal Avalanche Triggers Catastrophic Deluge",
-      "whyItMatters": "Demonstrates the severe destructive impact of high-speed Himalayan climate anomalies.",
-      "brief": "A sudden ice-rock avalanche raced down the Himalayas at 167 km/h, causing deadly floods and wreaking havoc on hydropower facilities.",
+      "headline": "US Army Secretary Dan Driscoll Resigns",
+      "whyItMatters": "Creates critical civilian leadership vacuums inside the Pentagon as the ongoing conflict in the Middle East enters its seventh month.",
+      "brief": "US Army Secretary Dan Driscoll has submitted his resignation amid reported tensions with Defence Secretary Pete Hegseth.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-army-secretary-driscoll-submits-resignation-white-house/article71413517.ece",
+      "dateLocation": "September 1, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jury Convicts Keffe D in Tupac Murder",
+      "whyItMatters": "Brings long-awaited closure to one of the most famous unsolved homicide investigations in modern music history.",
+      "brief": "A US jury has formally convicted Duane 'Keffe D' Davis for the 1996 drive-by shooting death of rap icon Tupac Shakur.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-avalanche-from-5200-metres-raced-down-himalayas-at-167-kmph-triggering-deadly-deluge/articleshow/133657450.cms",
-      "dateLocation": "Aug 31, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/international/jury-convicts-keffe-d-for-1996-killing-of-rap-icon-tupac-shakur/article71413495.ece",
+      "dateLocation": "September 1, 2026 | Las Vegas",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IMD Predicts Below-Normal September Rainfall",
-      "whyItMatters": "Threatens agricultural sowing schedules and increases irrigation costs nationwide.",
-      "brief": "India's meteorological department expects below-normal rains in September due to persistent El Niño conditions, concluding the season deficiently.",
+      "headline": "Lionel Messi Retires From International Football",
+      "whyItMatters": "Marks the definitive end of an era for global football following a legendary two-decade career with Argentina.",
+      "brief": "Lionel Messi has officially announced his retirement from international football, leaving behind an unmatched legacy with the Argentina national team.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/football/lionel-messi-retires-leaves-argentina-national-team/articleshow/133656834.cms",
+      "dateLocation": "September 1, 2026 | Buenos Aires",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oracle Prepares Massive Wave of Job Cuts",
+      "whyItMatters": "Highlights aggressive corporate restructuring driven by massive shifts in capital expenditure toward artificial intelligence infrastructure.",
+      "brief": "Oracle employees are bracing for severe layoff notifications as the company's new fiscal quarter begins amid mounting cost-cutting measures.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-company-leadership-may-again-send-the-6-am-email-on-september-1-that-told-employees-we-have-made-the-decision-to/articleshow/133651829.cms",
+      "dateLocation": "September 1, 2026 | San Francisco",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "HDFC Bank CEO Retirement Triggers Succession Risk",
+      "whyItMatters": "Raises governance and transition concerns for India's largest private sector lender as internal and external candidates vie for top post.",
+      "brief": "Moody's warned that HDFC Bank CEO Sashidhar Jagdishan's decision to retire introduces potential leadership transition risks for the financial institution.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/business/hdfc-bank-ceos-decision-to-retire-causes-leadership-transition-risk-moodys/article71411300.ece",
+      "dateLocation": "September 1, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal PM Demands Urgent Global Climate Action",
+      "whyItMatters": "Amplifies developing nation calls for international intervention following catastrophic regional flash floods and disaster displacement.",
+      "brief": "In the devastating aftermath of flash floods affecting thousands, Nepal's Prime Minister has strongly demanded comprehensive international climate action.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/imd-predicts-below-normal-rainfall-over-country-in-september/articleshow/133662921.cms",
-      "dateLocation": "Aug 31, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-death-toll-persons-missing-rescue-relief-september-1-2026/article71413472.ece",
+      "dateLocation": "September 1, 2026 | Kathmandu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oracle Faces Potential Major Workforce Cuts",
-      "whyItMatters": "Signals continued tech sector adjustments as companies heavily prioritize AI infrastructure.",
-      "brief": "Oracle employees brace for potential layoff notifications as leadership reviews restructuring lists, following substantial prior job cuts.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-company-leadership-may-again-send-the-6-am-email-on-september-1-that-told-employees-we-have-made-the-decision-to/articleshow/133651829.cms",
-      "dateLocation": "Aug 31, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maruti Suzuki Plans Rs 77,500 Cr Capex",
-      "whyItMatters": "Reflects massive long-term domestic auto industry investment and growth confidence.",
-      "brief": "Maruti Suzuki has announced a massive capital expenditure plan spanning five years to boost consumer demand and scale production infrastructure.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/maruti-suzuki-plans-rs-77500-crore-capex-over-5-years-to-boost-demand-post-gst/articleshow/133661860.cms",
-      "dateLocation": "Aug 31, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Removes Fraud Apps Posing as Porn",
-      "whyItMatters": "Demonstrates cross-border regulatory intervention safeguarding users from digital scams.",
-      "brief": "Meta removed deceptive advertisements for malicious android applications following safety alerts and alarms raised by Indian authorities.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGF5NnoxXzBVMXlDY3ctYUpQZW5ueUw0NFpmaUtwYksxUUpHTU05ZHFzQzJHTnZRcEw5V0VPcGxSQlk1MlZXVEo0aUYyV1ZqQXh3YmE1eTVWTkx1b2lIalkxWDlwcFQ0TDJkQ1VLcURoeEJVaXdYTVM4OHJFZGFJcnNwY1pYUlZGUXY2QmR2WDVkcGxRLXpHV25IcnpPOWlOQU9TdTRUUEgyUQ?oc=5",
-      "dateLocation": "Aug 31, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran President Seeks India's Help for Peace",
-      "whyItMatters": "Positions India as a critical diplomatic mediator in escalating West Asian conflicts.",
-      "brief": "Iranian President Pezeshkian met with Prime Minister Modi to foster trade connections and encourage Indian mediation to end the ongoing war.",
+      "headline": "Trump Vows to Strike Iran 'Hard'",
+      "whyItMatters": "Escalates regional hostilities and threatens global energy supply lines as maritime transit through the Strait of Hormuz plummets.",
+      "brief": "Donald Trump has vowed to hit Iran hard following recent exchanges of fire, while US forces target rocket launchers in critical shipping lanes.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/iran-president-meets-pm-modi-seeks-help-to-end-war/articleshow/133662872.cms",
-      "dateLocation": "Aug 31, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/international/donald-trump-vows-to-hit-iran-hard-after-first-exchange-of-fire-in-weeks/article71413458.ece",
+      "dateLocation": "September 1, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Foreign Buying in Indian Stocks Hits High",
-      "whyItMatters": "Shows robust international confidence in Indian market fundamentals despite global turbulence.",
-      "brief": "RBI data reveals that foreign portfolio investments in Indian equities reached a 23-month high during the month of August.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHFqREx4OGJ4T0NFMVlHaDZ4aDQ3VTE3ckFZX0JPVk1rRFBBSWxNX25fZkRuYTgyUnJfNlNUUmd1ampBUXZBQ1c4Y3JvYnRKMkh6eVdENFJSTWFQZ3FHVWZ3dDhBbUx1ZXlBY3ZjcEg3ZWNVVk9kNGowdENSZFNuSnRoLXkyNWNSQVpyVndFYUJyYl9kUVNGSDNybGtuZzNzc3laNHJya3ppNG91dDRWZE5SeVh5Vk82?oc=5",
-      "dateLocation": "Aug 31, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Venezuela Grants 100-Year Oil Concessions",
+      "whyItMatters": "Restructures long-term South American energy extraction agreements with unprecedented financial guarantees and multi-decade commitments.",
+      "brief": "The White House announced that Venezuela has granted North American Blue Energy Partners century-long oil concessions expected to yield substantial royalties.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/venezuela-oil-deal-nabep-gets-100-year-concessions-to-pay-200-billion-in-royalty-and-taxes-in-first-25-years-11788224401393.html",
+      "dateLocation": "September 1, 2026 | Caracas",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Grand Canyon Under Threat After Deadly Floods",
-      "whyItMatters": "Exposes ongoing risks to tourists and emergency response teams during severe weather.",
-      "brief": "Fresh storms threaten ongoing search-and-rescue operations in the Grand Canyon following flash floods that killed two and left dozens missing.",
+      "headline": "Delhi Electoral Roll Deletes 47 Lakh Names",
+      "whyItMatters": "Sparks intense political friction between regional parties and election authorities ahead of crucial upcoming legislative assembly polls.",
+      "brief": "The Special Intensive Revision draft roll for Delhi has been published, revealing the deletion of over 47.5 million names and drawing sharp criticism.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-draft-roll-out-4756-lakh-names-deleted/article71412633.ece",
+      "dateLocation": "September 1, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Zuckerberg Acquires Historic Irish Castle",
+      "whyItMatters": "Demonstrates expanding personal real estate holdings by big-tech executives within key European corporate operating jurisdictions.",
+      "brief": "Meta CEO Mark Zuckerberg and his wife have purchased the expansive 440-acre Strancally Castle estate in County Waterford, Ireland.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-buys-440-acre-castle-estate-in-ireland-spokesperson-says-mark-and-his-family-are-excited-to-continue-caring-for-/articleshow/133665937.cms",
+      "dateLocation": "September 1, 2026 | Dublin",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Australia Drops Marnus Labuschagne from ODI Squad",
+      "whyItMatters": "Signals major selection shake-ups for national cricket teams as they aggressively plan and rebuild for upcoming world tournaments.",
+      "brief": "Australia has left star batter Marnus Labuschagne out of its upcoming ODI squad for tours of Zimbabwe and South Africa due to poor form.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-lose-patrice-as-star-batter-left-out-of-odi-squad-for-zimbabwe-and-south-africa-tours/articleshow/133665722.cms",
+      "dateLocation": "September 1, 2026 | Sydney",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Europeans Bristle at Russia's G20 Return",
+      "whyItMatters": "Deepens diplomatic fractures within major multilateral economic forums as geopolitical alignments remain severely fractured.",
+      "brief": "European delegates have expressed sharp disapproval regarding Russia's renewed participation and presence at upcoming G20 diplomatic engagements.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/grand-anyon-under-storm-threat-after-deadly-weekend-floods-11788205873570.html",
-      "dateLocation": "Aug 31, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXZxUVBoT0FGcGM1MnBqZEtONlBueE00WktYNGJ2Nm5LRVZQWmVzQklNTXpKaFk2ZEMtNDd6NG1KdWJVTEJZdkJRaTdHZDZiRmlobjFjdjlmZ3RORTh3ZXRVelhYVTlPSVdrcjRTLUhqOEtkNE9abVhiTFJqOXVGS3VGYlpDeXF6SVNZTG9YbW03RTQ?oc=5",
+      "dateLocation": "September 1, 2026 | Brussels",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Considers Tightening H-1B Visa Rules",
-      "whyItMatters": "Directly impacts international professionals and employment stability in the United States.",
-      "brief": "The Trump administration cleared a review of proposals to eliminate the 60-day post-layoff grace period for H-1B visa holders.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-h-1b-visa-rules-may-tighten-trump-administration-clears-review-of-proposal-to-end-60-day-grace-period-after-layoffs-11788209728961.html",
-      "dateLocation": "Aug 31, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Finance Ministry Raises Alarm Over RRB Attrition",
+      "whyItMatters": "Exposes severe workforce retention challenges plaguing rural banking institutions critical to India's agricultural financial ecosystem.",
+      "brief": "The Indian Finance Ministry has flagged alarming attrition rates reaching up to 100% among newly recruited personnel at various Regional Rural Banks.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/finance-ministry-red-flags-rrb-attrition-100-attrition-at-some-rrbs-11788155745513.html",
+      "dateLocation": "September 1, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
