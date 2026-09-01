@@ -1,147 +1,93 @@
 {
-  "lastUpdated": "2026-09-01T11:03:37.739Z",
+  "lastUpdated": "2026-09-01T16:01:23.539Z",
   "ticker": [
-    "India's Q1 GDP grows 7.8%",
-    "Nepal flood death toll reaches 1,003",
-    "Supreme Court quashes NEET protest FIRs",
-    "Strait of Hormuz oil tankers targeted",
-    "India prepares agentic UPI payments rollout"
+    "India GDP grows 7.8% in Q1",
+    "Nepal flood death toll exceeds 1,050",
+    "US and Iran exchange direct strikes",
+    "India eyes polymer currency rollout",
+    "SpaceX acquires AI startup Cursor"
   ],
   "articles": [
     {
-      "headline": "India Prepares Rollout of Agentic Payments on UPI",
-      "whyItMatters": "AI-driven autonomous payments could revolutionize digital transactions and expand financial inclusion nationwide.",
-      "brief": "India is reportedly preparing to introduce agentic payments on the UPI network, allowing AI agents to handle digital transactions autonomously.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/india-preparing-rollout-of-agentic-payments-on-upi/articleshow/133673880.cms",
-      "dateLocation": "2026-09-01 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "India prepares rollout of agentic payments on UPI",
+      "whyItMatters": "AI-driven autonomous payments will redefine digital finance and merchant ecosystems.",
+      "brief": "Sources indicate India is gearing up to introduce agentic payments via UPI, marking a major leap in automated digital financial transactions.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnNNcVFja2UtMGZyMWpMWm02ZERpdzVqTVBjYnQwYmhISjlYZnViaHUtME1raWRuZHhqNXpYUVFKaEhjb1pVQnJMTkl2cThfYVVhejJGRk1fM29Id3FpNl9Dek8tX0lUaEVPSV9SLWRDTVRmQ3MzOVQ5bFpZWWhZdU93VlFGeHhWQ2VfQm5nNDFsaDVLcVozNVVRTVJMX3JYajBOR29INA?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Elon Musk's SpaceX Acquires AI Startup Cursor",
-      "whyItMatters": "The massive $60 billion deal intensifies competition in AI-driven software development and pits Musk against OpenAI.",
-      "brief": "SpaceX has acquired AI coding startup Cursor for $60 billion, highlighting the surging valuation and strategic importance of AI developer tools.",
+      "headline": "India GDP grows better-than-expected at 7.8%",
+      "whyItMatters": "Robust quarterly growth defies global economic headwinds and signals strong domestic investment.",
+      "brief": "India's economy expanded by a stronger-than-expected 7.8% in the April-June quarter, driven largely by a sharp surge in domestic investments.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3pJY2JhQ3prT1M1ZnJkQ3RXa21UMHQ5N2VMV2JKbzRId0t4bkttRUY2ZmZfbmJ0UENmd21nUVBqallrN2VpQ3BEcnNHNXhWWmdaWEhLbXdBNlNfbkZWSVZKb2dVR3BoSnBrNEVKUG1QYkZGcVBIY2NSM2RTTlY5c1dXaXQtNWY0eEtF?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal flood death toll crosses 1,050",
+      "whyItMatters": "Catastrophic monsoon devastation requires massive regional humanitarian and rescue responses.",
+      "brief": "The death toll from devastating floods in Nepal has surpassed 1,050 as rescue teams finally reach isolated remote areas with DNA analysis and drones.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzM2eXZHNlAtNllHNlpsYldnQ2xtdjhiTkxaUW92cExCWmhnWll5eUl1aVVBN2tnUGw4eG9VbmFENmhoUmZRM0lRZ043VHZiM3liSkFhY1RzVEx2am1hX1lsQi1vajliSDhUV05NN1FNMzVFZnN2OUhFdjNPMHo0UzNXSkwtTnVUZ2lGSzhhWDdyNUh6cWFlUTZiMy1Ia3ZHN0pseDhVRjBpY0ZBWTBmS2czUjJ6X0ZZVkZLaHpXQl9uLVpvRW40cA?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India explores opacified polymer substrate for currency",
+      "whyItMatters": "Shifting to plastic notes enhances security against counterfeiting and improves durability.",
+      "brief": "The RBI's currency-printing subsidiary has invited global bids to supply opacified polymer substrate sheets, signaling plans for polymer banknotes.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/india-eyes-plastic-notes-how-govt-plans-to-keep-polymer-currency-secure-from-china-pakistan-influence-11788271236087.html",
+      "dateLocation": "September 1, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Treasury warns Strait of Hormuz could face disruption",
+      "whyItMatters": "Geopolitical chokepoints directly impact global oil supply chains and energy security.",
+      "brief": "Amid escalating US-Iran tensions and military strikes, US Treasury Secretary Bessent warned about the future stability of critical energy shipping lanes.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-treasury-secretary-bessent-says-strait-of-hormuz-could-become-worthless-in-two-years-11788276389631.html",
+      "dateLocation": "September 1, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "SpaceX acquires AI coding startup Cursor for $60B",
+      "whyItMatters": "Major consolidation in AI tooling highlights massive valuations and strategic tech acquisitions.",
+      "brief": "Elon Musk's SpaceX has acquired AI coding platform Cursor for $60 billion, sparking new industry competition and highlighting Indian-origin founders.",
       "category": "technology",
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-60-billion-purchase-of-cursor-that-has-made-sam-altman-upset-has-an-indian-connection-aman-sanger/articleshow/133669588.cms",
-      "dateLocation": "2026-09-01 | Times of India",
+      "dateLocation": "September 1, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Q1 GDP Surges Better-Than-Expected by 7.8%",
-      "whyItMatters": "Robust economic growth defies global slowdown fears, driven largely by a domestic investment boom and strong services sector.",
-      "brief": "India's economy expanded by 7.8% in the April-June quarter, outperforming forecasts as investment activity surged despite external geopolitical turbulence.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3pJY2JhQ3prT1M1ZnJkQ3RXa21UMHQ5N2VMV2JKbzRId0t4bkttRUY2ZmZfbmJ0UENmd21nUVBqallrN2VpQ3BEcnNHNXhWWmdaWEhLbXdBNlNfbkZWSVZKb2dVR3BoSnBrNEVKUG1QYkZGcVBIY2NSM2RTTlY5c1dXaXQtNWY0eEtF?oc=5",
-      "dateLocation": "2026-09-01 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Inc Seeks Up to Rs 25,000 Crore in September",
-      "whyItMatters": "A massive IPO rush reflects strong domestic retail liquidity and surging capital market confidence in Indian equities.",
-      "brief": "Indian companies are chasing approximately Rs 25,000 crore through initial public offerings in September, tapping into robust domestic capital market flows.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-india-inc-to-seek-up-to-rs-25000-crore-in-sept/articleshow/133665148.cms",
-      "dateLocation": "2026-09-01 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Quashes FIRs Against NEET Protesters",
-      "whyItMatters": "The judicial relief brings closure to student agitation and prompts organizers to call off planned demonstrations.",
-      "brief": "The Supreme Court has quashed all FIRs filed against students participating in NEET paper leak protests, leading organizers to withdraw scheduled protests.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/neet-protestors-fir-delhi-police-supreme-court-hearing-september-1-2026/article71414058.cms",
-      "dateLocation": "2026-09-01 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PM Modi Calls for SCO Action Against State Terrorism",
-      "whyItMatters": "Direct messaging at multilateral summits highlights India's security stance regarding cross-border terrorism and territorial sovereignty.",
-      "brief": "Addressing the SCO summit, Prime Minister Narendra Modi urged member nations to confront countries using terrorism as an instrument of state policy.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-address-annual-sco-summit-september-1-2026/article71414028.cms",
-      "dateLocation": "2026-09-01 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "France Targets Shein and Temu with Fast Fashion Fines",
-      "whyItMatters": "Regulatory crackdowns in Europe could set a precedent for global oversight on ultra-cheap cross-border e-commerce giants.",
-      "brief": "France is imposing strict new fines on fast-fashion platforms like Shein and Temu to curb environmental degradation and unsustainable retail models.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3BwaElVSU1mSmM2RFgzVGZBNXhpYW5jQk1vaGNWYWZUaUNuMlJkQ2tabkpQanNZRDZRRHZBdWd4bWR0N2ZNcnpTN2VnYVBkelA3bW51Vks1UHhzNmxoR0hQYnU4dEhINjdxd091ZlVwWV9RUzFsWFd1cDBXMTI2VXo4cDJXb3pKSXhzektrNG5MNlNFcEl1dWM3Mm84RkllNnN2TjJYU3pFNVN4V0Zz?oc=5",
-      "dateLocation": "2026-09-01 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bank Unions Announce Nationwide Strike on September 11",
-      "whyItMatters": "Banking disruptions could significantly impact commercial operations and financial services across the country next week.",
-      "brief": "United bank unions have announced a nationwide strike on September 11 to protest against unresolved workforce and institutional issues.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-unions-announce-strikes-on-sept-11-over-unresolved-issues/articleshow/133675986.cms",
-      "dateLocation": "2026-09-01 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Zomato Bans Analogue Paneer Over Health Concerns",
-      "whyItMatters": "Food delivery safety standards face heightened scrutiny as platforms enforce zero-tolerance policies on substitute dairy ingredients.",
-      "brief": "Zomato has banned restaurants from using analogue paneer, enforcing strict guidelines to ensure natural dairy ingredients are utilized in all dishes.",
+      "headline": "Maharashtra FDA suspends Blinkit hub over hygiene",
+      "whyItMatters": "Strict food safety enforcement targets quick-commerce dark stores to protect consumer health.",
+      "brief": "State authorities suspended food licenses for Blinkit hubs and partner outlets in Mumbai following serious hygiene and safety violations.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/trends/why-zomato-banned-analogue-paneer-what-it-is-and-how-it-harms-even-your-healthy-body-explained-11788247447486.html",
-      "dateLocation": "2026-09-01 | LiveMint",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/maharashtra-fda-suspends-blinkit-2-mumbai-eateries-food-licences-over-serious-hygiene-violations/articleshow/133685115.cms",
+      "dateLocation": "September 1, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nepal Flood Death Toll Surges Past One Thousand",
-      "whyItMatters": "Catastrophic monsoon weather has triggered severe humanitarian crises, stretching rescue and relief operations across remote regions.",
-      "brief": "The death toll from devastating flash floods in Nepal has climbed past 1,000, with thousands remaining missing as rescue teams reach isolated areas.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-death-toll-persons-missing-rescue-relief-september-1-2026/article71413472.cms",
-      "dateLocation": "2026-09-01 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "India revives talks with Zambia for critical minerals",
+      "whyItMatters": "Securing foreign critical mineral assets is vital for India's clean energy and manufacturing transition.",
+      "brief": "India has restarted diplomatic and economic negotiations with Zambia to secure direct access investments in essential critical minerals.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelBWWVBpa3ZuaHdHS0IxSy1qZldPUVBuejNqUjBWN0ZPYklTbVRZMVR3aWZMRzc1WWRaSU1DS3lvRWFOakZHSVNTNjZiaEJBblU4czZjVVZKY21LMHBBYXJiYmZIa0ZhZWZyU3BZTnFfUFpqMmxmWV9Zamdic1RYUWpjaTBaYUpoQWJoZXBMM3BVX21pMzdPR0JUS3JXM1Q1N1lfU2hmQ2l5WmE1QVcteEQ2dVFHY0E?oc=5",
+      "dateLocation": "September 1, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Two Oil Supertankers Attacked in Strait of Hormuz",
-      "whyItMatters": "Escalating maritime hostilities threaten global energy supply chains and stoke fears of wider Middle East conflict.",
-      "brief": "Two oil supertankers were struck by unknown projectiles while transiting the Strait of Hormuz amid renewed US-Iran tensions.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/usiran-war-two-oil-supertankers-targeted-by-unknown-projectiles-in-the-strait-of-hormuz-marisks-reports-11788251141971.html",
-      "dateLocation": "2026-09-01 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Misbah-ul-Haq Resigns as Pakistan Cricket Selector",
-      "whyItMatters": "Internal upheaval continues to plague Pakistan cricket following disappointing international performances and squad shake-ups.",
-      "brief": "Misbah-ul-Haq has stepped down from the Pakistan Cricket Board selection committee amidst a massive restructure of the national Test team.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-in-chaos-misbah-ul-haq-resigns-as-pcb-selector-amid-test-squad-shake-up/articleshow/133676438.cms",
-      "dateLocation": "2026-09-01 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Seventeen-Year-Old Thea Frodin Debuts at US Open",
-      "whyItMatters": "The young prodigy transitions from Hollywood body double to competing on tennis's biggest professional grand slam stage.",
-      "brief": "Seventeen-year-old wild card entrant Thea Frodin makes her U.S. Open singles debut, years after acting as Serena Williams's body double.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/17-year-old-us-open-debutant-once-played-serena-williams-body-double-in-will-smith-starring-king-richard/articleshow/133675508.cms",
-      "dateLocation": "2026-09-01 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi Metro Employee Breaks Guinness Station Travel Record",
-      "whyItMatters": "Endurance feats highlight the immense scale and operational efficiency of expanding urban mass transit networks.",
-      "brief": "A Delhi Metro employee broke a Guinness record by travelling across all rapid transit stations in just under 15 hours.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/trends/delhi-metro-employee-breaks-guinness-record-travels-across-all-stations-in-14-hours-54-minutes-11788249410660.html",
-      "dateLocation": "2026-09-01 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mark Zuckerberg Acquires Historic Irish Castle Estate",
-      "whyItMatters": "High-profile international real estate acquisitions highlight the personal asset expansions of major tech executives.",
-      "brief": "Meta CEO Mark Zuckerberg and his spouse have acquired the 440-acre Strancally Castle estate in County Waterford, Ireland.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-buys-440-acre-castle-estate-in-ireland-spokesperson-says-mark-and-his-family-are-excited-to-continue-caring-for-/articleshow/133665937.cms",
-      "dateLocation": "2026-09-01 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Oracle employees track Slack counts amid layoff fears",
+      "whyItMatters": "Tech sector workforce reductions continue to impact major enterprise software companies globally.",
+      "brief": "Following major restructuring charges and heavy AI infrastructure spending, tech employees are anxiously monitoring headcount metrics as layoff rumors circulate.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-the-6-am-email-didnt-come-on-september-1-and-employees-across-us-and-india-are-now-watching-slack-counts/articleshow/133685199.cms",
+      "dateLocation": "September 1, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
