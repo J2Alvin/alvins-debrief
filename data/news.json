@@ -1,129 +1,84 @@
 {
-  "lastUpdated": "2026-09-02T10:34:48.721Z",
+  "lastUpdated": "2026-09-02T15:56:01.670Z",
   "ticker": [
-    "US-Iran strikes trigger global market sell-off",
-    "Japan upgrades India's sovereign rating to A-",
-    "Hopes fade for survivors of catastrophic Nepal floods",
-    "Germany successfully tests advanced Israeli ballistic missile",
-    "Afghanistan offers US investors access to mineral wealth"
+    "India draws record forex inflows",
+    "UN warns on 1.5C threshold",
+    "Uber cuts 3,300 jobs globally",
+    "India to host Women's Champions Trophy",
+    "Pakistan calls for Indus water dialogue"
   ],
   "articles": [
     {
-      "headline": "US-Iran Conflict Triggers Global Stock Market and Oil Slump",
-      "whyItMatters": "Escalating geopolitical tensions directly threaten global energy supplies and destabilize international financial markets.",
-      "brief": "Global stock markets tumbled and oil prices surged following direct military strikes between the US and Iran, compounding investor anxieties over inflation and economic stability.",
+      "headline": "India Draws Massive Forex Inflows",
+      "whyItMatters": "Boosts rupee stability and economic confidence.",
+      "brief": "India has drawn over $127 billion in forex deposits, bolstering support for the rupee amid global economic uncertainties.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
-      "dateLocation": "Sept 2, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
+      "dateLocation": "2026-09-02 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Japan Upgrades India's Sovereign Credit Rating to A-",
-      "whyItMatters": "Stronger sovereign ratings lower borrowing costs and validate India's ongoing economic reforms and growth.",
-      "brief": "Japan Credit Rating Agency has upgraded India's sovereign rating from BBB to A-, citing robust economic growth, structural reforms, and strong macroeconomic indicators.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-sovereign-rating-upgraded-to-a-from-bbb-by-japans-jcr-amid-strong-growth-and-reforms/articleshow/133705564.cms",
-      "dateLocation": "Sept 2, 2026 | Tokyo",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rescue Hopes Fade One Week After Catastrophic Nepal Floods",
-      "whyItMatters": "Highlights the severe human toll and infrastructure devastation caused by extreme weather events in South Asia.",
-      "brief": "Search and rescue operations are winding down with diminishing hopes of finding survivors a week after severe flooding wreaked havoc across Nepal, leaving communities devastated.",
+      "headline": "UN Warns Global Warming Will Cross 1.5°C",
+      "whyItMatters": "Highlights critical climate tipping points requiring immediate action.",
+      "brief": "A new UN report states the earth is set to cross the 1.5°C warming threshold, charting an overshoot pathway to recover.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
-      "dateLocation": "Sept 2, 2026 | Kathmandu",
+      "sourceUrl": "https://www.thehindu.com/news/international/global-warming-will-exceed-limit-un-says-in-a-report-that-maps-path-to-get-back-below-danger-zone/article71418475.ece",
+      "dateLocation": "2026-09-02 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Germany Successfully Tests Israeli-Built Ballistic Missile System",
-      "whyItMatters": "Reflects deepening defense cooperation and strategic military procurement shifts within European security frameworks.",
-      "brief": "German defense officials confirmed the successful testing of an advanced ballistic missile acquired from Israel, marking a milestone in joint technological defense capabilities.",
+      "headline": "Uber Cuts 3,300 Jobs in Major Restructuring",
+      "whyItMatters": "Signals shifts in tech workforce demands and automation investments.",
+      "brief": "Uber is cutting about 3,300 jobs, marking its biggest restructuring since 2020 to remove management layers and fund robotaxis.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/uber-layoffs-company-cuts-3300-jobs-ceo-dara-khosrowshahi-says-i-realize-this-is-a-lot-of-change-but-it-was-better-to/articleshow/133710869.cms",
+      "dateLocation": "2026-09-02 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India to Host Inaugural Women's Champions Trophy",
+      "whyItMatters": "Expands India's footprint in hosting major international cricket tournaments.",
+      "brief": "India will host the inaugural ICC Women's Champions Trophy in 2027 after Sri Lanka lost hosting rights due to governance issues.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-to-host-inaugural-icc-womens-champions-trophy-after-shift-from-sri-lanka-check-teams-dates-and-venues/articleshow/133712788.cms",
+      "dateLocation": "2026-09-02 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Condemns Hindu Temple Demolition in Pakistan",
+      "whyItMatters": "Raises diplomatic tensions regarding minority protections in the region.",
+      "brief": "India strongly criticized Pakistan over the vandalism and demolition of a century-old Hindu temple, demanding a transparent investigation.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/reprehensible-act-of-vandalism-india-condemns-demolition-of-century-old-hindu-temple-in-pakistan-seeks-probe/articleshow/133714540.cms",
+      "dateLocation": "2026-09-02 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Canadian Fund Buys Stake in Altius",
+      "whyItMatters": "Strengthens foreign direct investment in India's critical telecom infrastructure.",
+      "brief": "Canadian pension fund La Caisse has acquired a 24% stake in India's Altius for Rs 12,100 crore, boosting the telecom backbone.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/canadian-pension-fund-la-caisse-buys-24-stake-in-indias-altius-for-rs-12100-crore/articleshow/133713177.cms",
+      "dateLocation": "2026-09-02 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi High Court Rules on IBC Clean Slate",
+      "whyItMatters": "Protects resolved companies from legacy government tax and statutory claims.",
+      "brief": "The Delhi High Court ruled that government bodies cannot seek old dues after an IBC resolution process is successfully completed.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUVvdnk5N1lGczdtV1ZFYW5hR2JIOHVTSEhTX0pqXzZwb09PTy1HTk5TRjRNVE9HNHA5c3ZtUC1ZVE00U0JRbDFWZVh4SDFvQ3Y3ak4xSDhuSUJHaWlLdUh2MzBKdnFtTHlKRTZiWUNmdy1fNzVzRERZSkNjSHdFdGpSYVpoTnJmSG8tcUNPYlU5OHFRb3dxdlVrUTZfRjhEc1liSzlVbFFvcVQ2YVhnTGpyWkNiNFhObXFGV0RaTGVSWTI2bjBrVQ?oc=5",
-      "dateLocation": "Sept 2, 2026 | Berlin",
+      "sourceUrl": "https://www.livemint.com/news/govt-bodies-cant-seek-old-dues-after-ibc-process-completed-delhi-hc-in-jaiprakash-case-11788345707958.html",
+      "dateLocation": "2026-09-02 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Taliban Offers US Investors Access to Afghan Mineral Wealth",
-      "whyItMatters": "Signals a potential shift in geopolitical engagement and economic policy regarding Afghanistan's untapped resources.",
-      "brief": "Five years after taking power, the Taliban administration is attempting to court American investors with access to billions in mineral wealth in exchange for sanctions relief.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/1-trillion-afghan-mineral-wealth-is-taliban-offering-access-to-american-investors-whats-the-deal-behind-it-11788335498357.html",
-      "dateLocation": "Sept 2, 2026 | Kabul",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indonesian Officials Suspect Mass Food Poisoning From Free Meals",
-      "whyItMatters": "Raises critical quality control and safety concerns regarding large-scale public welfare food distribution programs.",
-      "brief": "Over 500 individuals fell ill in Indonesia, prompting authorities to investigate a suspected food poisoning outbreak linked to a government-sponsored free school meal initiative.",
+      "headline": "Bowel Cancer Before 50 Shows Unique Spread",
+      "whyItMatters": "Improves early detection and treatment strategies for young-onset cancers.",
+      "brief": "New medical studies highlight how bowel cancer occurring in patients under 50 exhibits distinct characteristics when spreading to the liver.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUE9mQTl3alVUNlhtMWxuMlgxZ09sZFNJU3h1bVlKYTN1SjJLZllVcXJJbUZOZVh3YVRDckdacUN1WU5XQ3JVT1dBQnE1SmZzTkxVdFVKemZ1MG9tNm1aZGlWOXZEZC1zRnZpdW81MGItRWJrOUhIbEprT19sZ2JobnhObFBFM0JrTFMwbFUzX3pKN3h1Y1JvVUhGeXlyaE9zMlYxTFB0by1GeEFOcUJsRVNfalpRMTc1NHhLbDdmMHZrMmd3QkQ4T1RpNkdERjE5bU05ZkFROEJyMjRfZlowak9xVQ?oc=5",
-      "dateLocation": "Sept 2, 2026 | Jakarta",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/bowel-cancer-before-50-may-not-be-the-same-disease-heres-what-happens-when-it-spreads-to-the-liver/articleshow/133714192.cms",
+      "dateLocation": "2026-09-02 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Prepares Landmark Rollout of Agentic Payments on UPI",
-      "whyItMatters": "Marks the next major evolution in digital finance and automated consumer payment processing technologies.",
-      "brief": "Industry sources report that India is developing infrastructure to introduce autonomous AI-driven agentic payment capabilities across its Unified Payments Interface network.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnNNcVFja2UtMGZyMWpMWm02ZERpdzVqTVBjYnQwYmhISjlYZnViaHUtME1raWRuZHhqNXpYUVFKaEhjb1pVQnJMTkl2cThfYVVhejJGRk1fM29Id3FpNl9Dek8tX0lUaEVPSV9SLWRDTVRmQ3MzOVQ5bFpZWWhZdU93VlFGeHhWQ2VfQm5nNDFsaDVLcVozNVVRTVJMX3JYajBOR29INA?oc=5",
-      "dateLocation": "Sept 2, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sam Altman Expresses Skepticism Over Meta's Smart Glasses",
-      "whyItMatters": "Highlights rising corporate competition and philosophical divides in future consumer AI hardware development.",
-      "brief": "OpenAI CEO Sam Altman has publicly criticized smart eyewear products like Meta's, noting user discomfort while outlining his firm's vision for distinct personal AI devices.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-has-a-message-for-meta-i-find-it-very-uncomfortable-and-just-dont-like-your-/articleshow/133699592.cms",
-      "dateLocation": "Sept 2, 2026 | San Francisco",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hong Kong Activist Joshua Wong Pleads Guilty in Second Case",
-      "whyItMatters": "Underscores the continued application of stringent national security laws on political opposition figures.",
-      "brief": "Imprisoned pro-democracy activist Joshua Wong has pleaded guilty to a secondary national security charge involving alleged foreign collusion to enact sanctions against authorities.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/joshua-wong-pleads-guilty-what-is-the-second-national-security-case-against-the-hong-kong-activist-11788322592796.html",
-      "dateLocation": "Sept 2, 2026 | Hong Kong",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tamil Nadu Introduces Bill to Streamline Industrial Investments",
-      "whyItMatters": "Aims to accelerate business approvals and bolster regional economic expansion through centralized commission oversight.",
-      "brief": "The Tamil Nadu assembly has introduced a bill to establish an Investment Promotion Commission chaired by the Chief Secretary, aiming to fast-track corporate clearances.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/bill-to-set-up-tamil-nadu-investment-promotion-commission-fast-track-clearances-introduced-in-assembly/article71418964.ece",
-      "dateLocation": "Sept 2, 2026 | Chennai",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Kerala Political Leaders Clash Over Conservative Cleric Remarks",
-      "whyItMatters": "Reflects ongoing social debates regarding women's rights and public participation in modern regional governance.",
-      "brief": "Senior political leaders in Kerala strongly rebuked a prominent cleric's regressive statements calling for women to stay home, championing mainstream gender equality instead.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/its-not-19th-century-kerala-cm-satheesan-slams-cleric-over-women-should-stay-home-remark/articleshow/133703375.cms",
-      "dateLocation": "Sept 2, 2026 | Thiruvananthapuram",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Health Experts Critique India's Proposed Food Warning Labels",
-      "whyItMatters": "Stalls crucial regulatory clarity needed to combat rising lifestyle diseases and dietary health concerns nationwide.",
-      "brief": "India's newly proposed food packaging warning labels have faced heavy backlash from multiple factions, drawing criticism for being simultaneously too weak and overly restrictive.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjRnWDZHRUN1YmY3ZFhyTVJRcmhCOVJIXzkxVHV0RnpRM0VKUFMxUU83WC1wUm1uX3g3NHN3YjBaT0JjcUpUcGE4Wi1ST1gtdDMzby0wMXhSeEJzaXdTSDhVdk1YRWtUMHJjcXFJOHhpcUc3TnM4bW9vSTl4dEZtWWlscFNsS2Y2anNYSVhuSWNkbjZhZUtmd1BnZTZsNGRydmVSd2pwSkRZVE1rTDdpQ0dmeTFaZFpCTUxv?oc=5",
-      "dateLocation": "Sept 2, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Cricketer Slams Board Following Series Defeat",
-      "whyItMatters": "Exposes deep administrative fractures and accountability crises within major international cricket boards.",
-      "brief": "A prominent Pakistani leg-spinner voiced scathing criticism against the Pakistan Cricket Board following a disastrous international series loss, citing systemic failures.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/destroyed-entire-system-pakistan-cricketer-takes-chidiya-chug-gayin-khet-swipe-at-pcb-after-england-debacle/articleshow/133705342.cms",
-      "dateLocation": "Sept 2, 2026 | Lahore",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
