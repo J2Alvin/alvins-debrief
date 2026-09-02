@@ -1,138 +1,102 @@
 {
-  "lastUpdated": "2026-09-01T20:30:28.610Z",
+  "lastUpdated": "2026-09-02T02:45:34.620Z",
   "ticker": [
-    "US launches military strikes on Iranian IRGC targets",
-    "India reports robust 7.8% GDP economic expansion",
-    "Volkswagen proposes shutting four German manufacturing plants",
-    "Coal India commits ₹50,000 crore to non-coal diversification",
-    "Goldman Sachs and BofA plan joint dollar stablecoin"
+    "US-Iran conflict escalates in Middle East",
+    "Nepal flash flood death toll surpasses 1,000",
+    "India rupee hits two-month peak",
+    "Zelenskyy warns airlines over Russian airspace",
+    "G20 finance chiefs back action on distorted trade"
   ],
   "articles": [
     {
-      "headline": "US Strikes Iran's IRGC Amid Shipping Tensions",
-      "whyItMatters": "Escalates Middle East conflict and threatens global shipping routes.",
-      "brief": "The United States military has launched direct strikes against Iranian Revolutionary Guard Corps targets following recent provocations near the Strait of Hormuz.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-forces-begin-strikes-on-irgc-targets-in-iran-amid-strait-of-hormuz-tensions-11788281245496.html",
-      "dateLocation": "September 1, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China's Xi Visits Egypt Amid Regional Reshaping",
-      "whyItMatters": "Shifts geopolitical alignments in the Middle East during active conflict.",
-      "brief": "Chinese President Xi Jinping has arrived in Egypt as ongoing hostilities involving Iran actively reshape traditional alliances across the Middle Eastern region.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXdUN1lKTHRMR2hGZjJESTdacVBhMjgwMldoRGJ3dXZKVHNwWndJNlVWX3VJT0xuVkgtdkJMb0cyREdOMmRDcFNnblFUMm5DblctZHAxYnluWUZvQ3NXbTdTenZpYXRENU5wT09BbzF2S1lINnl1Z2p6cy1VeC14Q2kyLWRpNXdRN0lRWjhwM2JQVkxfYzQ0VnduSHZnaEJkLUFQcUw0bDBNaF92a1RLOQ?oc=5",
-      "dateLocation": "September 1, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Volkswagen Proposes Closing Four German Plants",
-      "whyItMatters": "Signals deep industrial decline and structural manufacturing challenges in Europe.",
-      "brief": "Management at Volkswagen has officially proposed the shutdown of four major German manufacturing plants by the year 2034 amidst severe economic pressures.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWWtQclkzdGZNZjlIaXdxQkN5NVA4SWZHMUo5dm9EalhEWDZ5ZFlhUDhwTkpNWVdCYi00SURnOXB6dm4xd003bnQ1a2xoSjgySkRlN3ZrQUl5T2g3c1Ewam5uN2VmbmdJQ1M1TGNMZV9xSzJjbjZ6dlBod2gxX1VSOVRNVEdKLTlxSVFyLVZPdGZSU3VhX05sV0JfdlJpaUJNeTZkTmE1a25lQWM4M1d5NmJISUVyQkFHLXV6bU1nTUpLbU16OHRBN3RnMmcyRm93QTlaSm8xZXp3dUZCalE?oc=5",
-      "dateLocation": "September 1, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "RBI Intervention Pushes Indian Rupee to Two-Month Peak",
+      "whyItMatters": "Demonstrates central bank efficacy in managing currency volatility amidst fluctuating foreign capital flows.",
+      "brief": "Strategic central bank intervention combined with robust dollar inflows successfully propelled the Indian rupee to a solid two-month high against major global currencies.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckd5Rm5aREhjLWFXU2hmNG9peG9XX01zbkxVX1ZnR084M19ERWFOWW9QQkdndjltRFBwRENRelJRM0pXUXFKdXpJdnIzbk1VRVRWLUtISkdoRURTOGIzaWZSaVNYRloyRkgzUWtnQmxTM3p4LTBJa2N3V0t6aEdZZU5DUnRXQnQ4clZZbmI1Y1VxTjI0QXdLR1V3RDI0THFxbk9nRThLM0JwNDQ?oc=5",
+      "dateLocation": "2026-09-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "India Prepares Rollout of Agentic Payments on UPI",
-      "whyItMatters": "Revolutionsed digital financial transactions through advanced autonomous AI workflows.",
-      "brief": "India is actively preparing the rollout of advanced agentic payment capabilities across its Unified Payments Interface infrastructure, according to industry sources.",
+      "whyItMatters": "Signals the next major evolutionary leap in India's globally acclaimed digital payment infrastructure.",
+      "brief": "Sources reveal India is gearing up to introduce agentic payment capabilities on the Unified Payments Interface, enabling advanced automated financial transactions.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnNNcVFja2UtMGZyMWpMWm02ZERpdzVqTVBjYnQwYmhISjlYZnViaHUtME1raWRuZHhqNXpYUVFKaEhjb1pVQnJMTkl2cThfYVVhejJGRk1fM29Id3FpNl9Dek8tX0lUaEVPSV9SLWRDTVRmQ3MzOVQ5bFpZWWhZdU93VlFGeHhWQ2VfQm5nNDFsaDVLcVozNVVRTVJMX3JYajBOR29INA?oc=5",
-      "dateLocation": "September 1, 2026 | Reuters",
+      "dateLocation": "2026-09-02 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Coal India Commits ₹50,000 Crore to Gasification",
-      "whyItMatters": "Diversifies India's largest coal miner into green energy and critical minerals.",
-      "brief": "Coal India has announced a massive ₹50,000 crore investment strategy aimed at life beyond coal, focusing heavily on gasification projects and critical mineral extraction.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/coal-india-bets-50000-crore-on-life-beyond-coal-goes-big-on-gasification-critical-minerals/articleshow/133691232.cms",
-      "dateLocation": "September 1, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Goldman and BofA Plan Joint Dollar Stablecoin",
-      "whyItMatters": "Marks major traditional banking entry into blockchain-based digital currency systems.",
-      "brief": "Global banking giants including Goldman Sachs and Bank of America are collaborating to issue a regulated dollar stablecoin together by 2027.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN01yNnpGbk1CVXJyS00tY0swX3JKTldjOER3SlY1clItcU5Nbk1XYzZFNEJDR1BIZ2NaSXk5Z0VTRGZJdDd4cUk2YnBLWGNSVVJGS3VTbFRNUlMtcnd6Y1FiU3lfSUU1V3lhSjNfSEhjMjdubTlfOEFEWXZwZUJWVHVxNVBHT0s3TzJfLWRSYTJzNHRtVTVqZEgtcFZER3ZRV0VnRk9jTm40RURvTksyTFA1d29Fem1TMGctaXJB?oc=5",
-      "dateLocation": "September 1, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UN Warns of Severe Himalayan Glacial Floods",
-      "whyItMatters": "Threatens millions of lives and infrastructure across South Asian river basins.",
-      "brief": "A senior UN official has warned that the Himalayas face catastrophic glacial flood risks in the coming years due to accelerated climate change impacts.",
-      "category": "health",
+      "headline": "Himalayas Face Severe Glacial Flood Risks",
+      "whyItMatters": "Highlights escalating climate vulnerabilities threatening millions across South Asian river basins.",
+      "brief": "A senior UN official has issued a stark warning regarding severe glacial flood risks threatening the Himalayan region in the coming years due to climate change.",
+      "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEtQYjlTRkRTRWtUUWZaVkxvSVI2SHBEdkN3Mmt2X2NnSUFzQVV0aEIybVpJNVNyMEE1ZTNsaC1mTmFiOUp3cWh2NEdwY0UzYUhFTzByLVNfVi1EUHZBMXRCSm9PMXdUVmQ5MEZSYUtOeDY3MUZMaVBhRjEzaTZQQ0RyR3REVXVKRC1rRFFfcHpVdzBXaV9leWlfbDJzNGE2dENaUzV4RDFHMmMwQzRvXzd0cXI3aXN2S1NUVXF0T1NNSmtOak0w?oc=5",
-      "dateLocation": "September 1, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "2026-09-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Halves Sugar Stock Limits to Curb Hoarding",
-      "whyItMatters": "Stabilizes domestic food prices and manages essential commodity supply chains.",
-      "brief": "The Indian government has reduced sugar stockholding limits for dealers by half and shifted raw sugar import quotas to daily allocations to control rising prices.",
+      "headline": "G20 Finance Chiefs Back Action on Distorted Trade",
+      "whyItMatters": "Underscores international alignment on multilateral trade policies despite notable opposition from Beijing.",
+      "brief": "G20 finance leaders have reached a consensus backing decisive action against distorted trade practices, with China standing as the sole exception to the joint accord.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-halves-sugar-stock-limit-for-dealers-to-curb-hoarding/articleshow/133690744.cms",
-      "dateLocation": "September 1, 2026 | The Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkV4WWhPZ3JYeUpwMUFmWTQ4eEJLMTRyUXdxMjk1VUtwQ2FaaG01aUhRWXBXUUQyVXZJQkwtWGV5RUpfbGYxRTJ1NFl1d29lSHpFNERCNDIzRGJ2YmRzdmdBODF0TE1yZURZMlJNemtjSkRVMXlTWmZHejFCZFVFVkdoOVJfZ1dvXzk5WDFldk5nYkREUmdNRVlB?oc=5",
+      "dateLocation": "2026-09-02 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oracle Staff Track Slack Counts Amid Layoff Fears",
-      "whyItMatters": "Highlights widespread job insecurity and corporate restructuring within big tech.",
-      "brief": "Following major AI spending spikes and prior cuts, Oracle employees across the US and India are closely monitoring Slack directory counts while awaiting structural layoffs.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-the-6-am-email-didnt-come-on-september-1-and-employees-across-us-and-india-are-now-watching-slack-counts/articleshow/133685199.cms",
-      "dateLocation": "September 1, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Asian Markets Tumble as US-Iran Conflict Lifts Oil",
+      "whyItMatters": "Demonstrates immediate macroeconomic vulnerability of emerging markets to escalating Middle Eastern geopolitical hostilities.",
+      "brief": "Asian markets tumbled sharply as active fighting between the US and Iran sent crude oil prices and sovereign bond yields surging across global trading desks.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
+      "dateLocation": "2026-09-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Zelenskyy Declares Russian Airspace Unsafe for Airlines",
-      "whyItMatters": "Increases economic pressure on Russian aviation and international transport insurers.",
-      "brief": "Ukrainian President Volodymyr Zelenskyy issued a stark warning to global commercial airlines and insurers, stating that Russian airspace is now entirely unsafe.",
+      "headline": "Supreme Court Quashes FIRs Against Gen Z NEET Protesters",
+      "whyItMatters": "Reaffirms judicial protection for student dissent and highlights accountability in law enforcement actions.",
+      "brief": "The Supreme Court invoked Article 142 to quash police FIRs against Gen Z NEET-UG protesters, directing the Centre to formulate a compensation scheme.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/zelenskyy-warns-safe-days-in-russian-skies-are-over/article71417049.ece",
-      "dateLocation": "September 1, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/neet-protestors-fir-delhi-police-supreme-court-hearing-september-1-2026/article71414058.ece",
+      "dateLocation": "2026-09-02 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tribunal Alters Dismissal of Gay Ex-IAF Officer",
-      "whyItMatters": "Advances LGBTQ+ rights and legal precedents within Indian armed forces.",
-      "brief": "An armed forces tribunal has officially altered the dismissal of a gay former Indian Air Force officer to a routine discharge.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/tribunal-alters-gay-ex-iaf-man-dismissal-to-routine-discharge/articleshow/133691499.cms",
-      "dateLocation": "September 1, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Zelenskyy Warns Safe Days in Russian Skies Are Over",
+      "whyItMatters": "Escalates the aerial conflict zone, threatening international aviation routes over Russian airspace.",
+      "brief": "Ukrainian President Zelenskyy warned commercial airlines and insurers that Russian airspace is increasingly unsafe as Kyiv deploys retaliatory drone campaigns.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/zelenskyy-warns-safe-days-in-russian-skies-are-over/article71417049.ece",
+      "dateLocation": "2026-09-02 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Quashes FIRs Against Student Protesters",
-      "whyItMatters": "Protects fundamental rights of academic expression and peaceful demonstration.",
-      "brief": "The Supreme Court has officially quashed multiple First Information Reports filed against student protesters, granting major legal relief to campus activists.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/supreme-court-quashes-firs-against-student-protesters/articleshow/133690066.cms",
-      "dateLocation": "September 1, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Bank Unions Call Nationwide Strikes Starting September 11",
+      "whyItMatters": "Threatens major disruptions to national banking operations over work-week policies and incentive schemes.",
+      "brief": "Public sector bank unions announced rolling nationwide strikes starting September 11 and an indefinite walkout from October 26 over five-day banking demands.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/bank-strike-september-11-bank-strike-ufbu-five-day-banking-pli-public-sector-banks-bank-unions-11788284451966.html",
+      "dateLocation": "2026-09-02 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Cricket Board Overhauls Selection Committee",
-      "whyItMatters": "Reflects deep administrative instability following national team performance struggles.",
-      "brief": "The Pakistan Cricket Board has demanded explanations for squad selections following poor Test series performances, prompting high-profile resignations within the selection committee.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-chaos-pcb-seeks-answers-over-mohammad-rizwan-imam-ul-haq-picks-as-misbah-ul-haq-quits-selection-committee/articleshow/133688844.cms",
-      "dateLocation": "September 1, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Pakistan Takes SCO Chair as PM Modi Slams Terror",
+      "whyItMatters": "Reflects deep geopolitical friction within regional multilateral platforms regarding cross-border security.",
+      "brief": "As Pakistan assumes the SCO chair, Indian Prime Minister Narendra Modi strongly criticized the strategic use of terrorism and emphasized territorial integrity.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/pak-takes-sco-chair-pm-modi-slams-use-of-terror-as-strategic-asset/articleshow/133691725.cms",
+      "dateLocation": "2026-09-02 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Busts Fake Expiry Date Food Export Ring",
-      "whyItMatters": "Exposes significant regulatory lapses affecting global food safety standards.",
-      "brief": "Indian authorities have busted a rogue firm operating in the country that was systematically faking expiry dates and nutrition labels on major PepsiCo and Nestle exports.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0JzN3FhMUxELS1ucWNKUEl4WHJSMVdaRERwc3FVcHNrY3BIMEljZjM5VHotYTA5OHZyVXNVTVRDcFZVeXVTcFA3aVFZMlVkSDJEUjV1R1BUc0syd2hVYTBMbWlBSnhsVlN0Z2xNSFh6bGM4bGFnYTFpWXBHdi1pNUZIbTM1ZHRxbTV5aEhJWFJlVTNXazdzMUVkM2VGTUdUbUl4UldpaGsydkRjVDVhLUhNejBzVF9XS0JnNFpR?oc=5",
-      "dateLocation": "September 1, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Eyes Russia’s S-500 Missile System and Su-57",
+      "whyItMatters": "Indicates continued strategic defense alignment between New Delhi and Moscow for advanced military hardware.",
+      "brief": "Following successful deployments of the S-400 system, Indian defense planners are reportedly evaluating Russia's advanced S-500 missile network and Su-57 fighter jets.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/after-s-400-india-plans-s-500-missile-system-and-su-57-fifth-generation-fighter-from-russia/articleshow/133683831.cms",
+      "dateLocation": "2026-09-02 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
