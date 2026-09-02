@@ -1,84 +1,84 @@
 {
-  "lastUpdated": "2026-09-02T15:56:01.670Z",
+  "lastUpdated": "2026-09-02T20:28:46.815Z",
   "ticker": [
-    "India draws record forex inflows",
-    "UN warns on 1.5C threshold",
-    "Uber cuts 3,300 jobs globally",
-    "India to host Women's Champions Trophy",
-    "Pakistan calls for Indus water dialogue"
+    "India draws $136B in forex inflows",
+    "US urges G20 to allow AI training",
+    "Nepal rescue operations continue in tunnels",
+    "India condemns Hindu temple destruction in Pakistan",
+    "Gold rebounds over 1% on dollar pullback"
   ],
   "articles": [
     {
-      "headline": "India Draws Massive Forex Inflows",
-      "whyItMatters": "Boosts rupee stability and economic confidence.",
-      "brief": "India has drawn over $127 billion in forex deposits, bolstering support for the rupee amid global economic uncertainties.",
+      "headline": "India Draws $136 Billion in Forex Inflows",
+      "whyItMatters": "Massive inflows significantly bolster the rupee's defense against global economic pressures.",
+      "brief": "India has successfully secured a bumper $136 billion in forex inflows, greatly strengthening the local currency's stability amidst volatile international markets.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
       "dateLocation": "2026-09-02 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UN Warns Global Warming Will Cross 1.5°C",
-      "whyItMatters": "Highlights critical climate tipping points requiring immediate action.",
-      "brief": "A new UN report states the earth is set to cross the 1.5°C warming threshold, charting an overshoot pathway to recover.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/global-warming-will-exceed-limit-un-says-in-a-report-that-maps-path-to-get-back-below-danger-zone/article71418475.ece",
-      "dateLocation": "2026-09-02 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Uber Cuts 3,300 Jobs in Major Restructuring",
-      "whyItMatters": "Signals shifts in tech workforce demands and automation investments.",
-      "brief": "Uber is cutting about 3,300 jobs, marking its biggest restructuring since 2020 to remove management layers and fund robotaxis.",
+      "headline": "US Urges G20 to Allow AI Training on Creators' Work",
+      "whyItMatters": "This pushes for international standardization in copyright laws affecting the booming artificial intelligence industry.",
+      "brief": "The United States is actively lobbying G20 member countries to permit AI training data collection utilizing creators' copyrighted works to maintain global competitiveness.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/uber-layoffs-company-cuts-3300-jobs-ceo-dara-khosrowshahi-says-i-realize-this-is-a-lot-of-change-but-it-was-better-to/articleshow/133710869.cms",
-      "dateLocation": "2026-09-02 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
+      "dateLocation": "2026-09-02 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India to Host Inaugural Women's Champions Trophy",
-      "whyItMatters": "Expands India's footprint in hosting major international cricket tournaments.",
-      "brief": "India will host the inaugural ICC Women's Champions Trophy in 2027 after Sri Lanka lost hosting rights due to governance issues.",
+      "headline": "Nepal Rescuers Race to Reach Tunnels Survivors",
+      "whyItMatters": "Humanitarian efforts are racing against time a week after a devastating regional disaster.",
+      "brief": "Emergency rescue teams in Nepal are urgently working to reach survivors still trapped inside tunnels one week after a severe natural disaster struck.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
+      "dateLocation": "2026-09-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Condemns Destruction of Historic Hindu Temple",
+      "whyItMatters": "Bilateral tensions may rise following the failure of authorities to protect minority religious sites.",
+      "brief": "New Delhi has strongly condemned the demolition of a century-old Hindu temple in Pakistan's Narowal district, demanding an immediate and transparent investigation.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/failure-to-protect-this-temple-is-alarming-india-raises-concerns-over-narowal-temple-destruction-11788368559546.html",
+      "dateLocation": "2026-09-02 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Rebounds 1% on Dollar and Yield Pullback",
+      "whyItMatters": "Precious metal markets react swiftly to shifting global macroeconomic indicators and currency values.",
+      "brief": "Gold prices surged over 1% as both the US dollar and Treasury yields retreated significantly from their recent multi-session highs.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
+      "dateLocation": "2026-09-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BCCI Meeting to Focus on Rohit Sharma's Future",
+      "whyItMatters": "Decisions made will heavily shape Indian cricket's transitional roadmap towards the 2027 ODI World Cup.",
+      "brief": "Top BCCI brass gathered in Mumbai to discuss senior player futures, recent performance setbacks, and the overall team roadmap heading into major tournaments.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-to-host-inaugural-icc-womens-champions-trophy-after-shift-from-sri-lanka-check-teams-dates-and-venues/articleshow/133712788.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharmas-future-odi-roadmap-to-2027-world-cup-and-recent-setbacks-on-agenda-at-bcci-meeting/articleshow/133715542.cms",
       "dateLocation": "2026-09-02 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Condemns Hindu Temple Demolition in Pakistan",
-      "whyItMatters": "Raises diplomatic tensions regarding minority protections in the region.",
-      "brief": "India strongly criticized Pakistan over the vandalism and demolition of a century-old Hindu temple, demanding a transparent investigation.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/reprehensible-act-of-vandalism-india-condemns-demolition-of-century-old-hindu-temple-in-pakistan-seeks-probe/articleshow/133714540.cms",
-      "dateLocation": "2026-09-02 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Canadian Fund Buys Stake in Altius",
-      "whyItMatters": "Strengthens foreign direct investment in India's critical telecom infrastructure.",
-      "brief": "Canadian pension fund La Caisse has acquired a 24% stake in India's Altius for Rs 12,100 crore, boosting the telecom backbone.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/canadian-pension-fund-la-caisse-buys-24-stake-in-indias-altius-for-rs-12100-crore/articleshow/133713177.cms",
-      "dateLocation": "2026-09-02 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi High Court Rules on IBC Clean Slate",
-      "whyItMatters": "Protects resolved companies from legacy government tax and statutory claims.",
-      "brief": "The Delhi High Court ruled that government bodies cannot seek old dues after an IBC resolution process is successfully completed.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/govt-bodies-cant-seek-old-dues-after-ibc-process-completed-delhi-hc-in-jaiprakash-case-11788345707958.html",
-      "dateLocation": "2026-09-02 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bowel Cancer Before 50 Shows Unique Spread",
-      "whyItMatters": "Improves early detection and treatment strategies for young-onset cancers.",
-      "brief": "New medical studies highlight how bowel cancer occurring in patients under 50 exhibits distinct characteristics when spreading to the liver.",
+      "headline": "Maharashtra FDA Suspends EatClub Outlet License",
+      "whyItMatters": "Strict regulatory enforcement continues to target major cloud kitchens and food delivery services for hygiene violations.",
+      "brief": "Led by Tukaram Mundhe, the Maharashtra FDA suspended a key Mumbai outlet license belonging to the parent company of Box8 and Mojo Pizza over hygiene issues.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/bowel-cancer-before-50-may-not-be-the-same-disease-heres-what-happens-when-it-spreads-to-the-liver/articleshow/133714192.cms",
-      "dateLocation": "2026-09-02 | Economic Times",
+      "sourceUrl": "https://www.livemint.com/news/india/tukaram-mundhes-fda-crackdown-continues-box8-mojo-pizza-parent-eatclubs-mumbai-outlet-loses-licence-heres-why-11788362186782.html",
+      "dateLocation": "2026-09-02 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Treasury Updates Payroll Rules for Child Accounts",
+      "whyItMatters": "The updated guidelines offer tax-free incentives for companies contributing to employee dependent savings plans.",
+      "brief": "The US Treasury introduced simplified payroll contributions for child savings accounts, enabling companies to contribute up to $2,500 tax-free annually per employee dependent.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-wife-susan-dells-6-25-billion-donation-to-trump-accounts-treasury-announces-that-trump-accounts-are-getting-/articleshow/133704303.cms",
+      "dateLocation": "2026-09-02 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
