@@ -1,120 +1,129 @@
 {
-  "lastUpdated": "2026-09-03T02:50:16.568Z",
+  "lastUpdated": "2026-09-03T10:38:23.727Z",
   "ticker": [
-    "India defends 7.8% GDP growth data amid heavy criticism",
-    "US urges G20 countries to allow AI training on creators' work",
-    "Broadcom raises AI chip forecast on massive Big Tech demand",
-    "Nepal-Tibet flood death toll crosses 1,243 as PM flags climate crisis",
-    "US judge partially blocks Trump's latest birthright citizenship order"
+    "India rupee rally pauses on oil demand",
+    "Vietnam sentences 11 to death for drug trafficking",
+    "Yen surges on Bank of Japan rate expectations",
+    "Tibet hit by magnitude 5 earthquake",
+    "India draws red line on US trade agreement"
   ],
   "articles": [
     {
-      "headline": "India Defends 7.8% Q1 GDP Growth Data Amid Criticism",
-      "whyItMatters": "Validates national economic momentum and addresses fierce political pushback over statistical methodology revisions.",
-      "brief": "Government officials strongly defended India's robust 7.8% Q1 GDP growth figures after former financial officials and critics raised methodological questions.",
+      "headline": "India Rupee Rally Pauses Amid Rising Oil Import Demands",
+      "whyItMatters": "Crude price volatility directly impacts India's macroeconomic stability and import bills.",
+      "brief": "The recent rally in the Indian rupee has paused as climbing crude oil prices spur importer demand, compounding energy security concerns.",
       "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/govt-defends-gdp-data-after-ex-fs-claims-q1-growth-2.6/articleshow/133720341.cms",
-      "dateLocation": "03 September 2026 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXBJSnozUXVWWHEwOThJZnplT19kTUNiUzZBTTVPbl9QV0lPTWpGWjNld2t1aG9GWk9HQm5zYlJ1R3ViY2JWVmQxUDFRZWJGQ0dpdVp2bERIVDI5ZHp4RVNNd08yYjJnWTR3VFFicWluclFEcXdOU0QyRFRMenE4Zmc0TGQ5WXROUFFRMWVxXzBDeEdrS0VidDRlZXZ1enFGVENBZUR6X0oyZEM0ZXd3QV9mWG5QUGtXcS12NUQ1b1hZR0NT?oc=5",
+      "dateLocation": "2026-09-03 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Urges G20 Nations to Permit AI Training on Creators' Work",
-      "whyItMatters": "Aims to reshape global intellectual property standards to accelerate artificial intelligence innovation and cross-border tech competition.",
-      "brief": "The United States formally called upon G20 member countries to allow unrestricted AI model training using copyrighted creator materials.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
-      "dateLocation": "03 September 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Broadcom Raises AI Chip Forecast on Surging Big Tech Spending",
-      "whyItMatters": "Demonstrates that global corporate capital expenditure on artificial infrastructure hardware remains exceptionally strong.",
-      "brief": "Broadcom significantly upgraded its annual AI semiconductor forecast as major technology conglomerates continue allocating massive capital budgets.",
+      "headline": "India Stalls Alipay+ Payments Link Over Security Concerns",
+      "whyItMatters": "Highlights ongoing strict regulatory scrutiny over cross-border digital financial integration and data privacy.",
+      "brief": "India has reportedly stalled the integration of the Alipay+ payments link citing critical security and data localization concerns.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5",
-      "dateLocation": "03 September 2026 | New York, US",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5",
+      "dateLocation": "2026-09-03 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nepal Flood Death Toll Reaches 1,243 Amid Climate Warnings",
-      "whyItMatters": "Highlights escalating regional climate vulnerabilities and prompts immediate international humanitarian and infrastructure support.",
-      "brief": "The combined Nepal-Tibet flash flood death toll surged past 1,200 as Prime Minister Shah strongly emphasized urgent climate change links.",
+      "headline": "Australia and US Boost Defense Ties Amid Growing Pacific Tensions",
+      "whyItMatters": "Strategic alignment in the Indo-Pacific heavily influences regional security dynamics and geopolitical balance.",
+      "brief": "Australia and the United States have agreed to significantly boost defense ties to counter China's expanding influence in the Pacific region.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-death-toll-rescue-operations-missing-persons-helpline-number-september-3-2026/article71422150.ece",
-      "dateLocation": "03 September 2026 | Kathmandu, Nepal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGlQbnNDYmRZNklIT19EZUFaejRPcUNpTENxczFTaVVFczNTOThfQWEtY25pMkJiMDBlQThRS2NhUnpqbjh0bEhEdEpxS25WdjZZNi01bWNkSmFfNThnd01ZN19SWWgwMjQyUE9yd0oyUThiTHhmREF0MlAtV2lUZkJyTGk4d2w0RTZodXNJX2VtdFVRdm1nS1MyRThKZlg0SVNtczlPWWJaT1BBOTFF?oc=5",
+      "dateLocation": "2026-09-03 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Judge Partially Halts Trump’s Birthright Citizenship Order",
-      "whyItMatters": "Protects constitutional immigrant rights and sets up another landmark legal showdown over presidential executive authority.",
-      "brief": "A federal judge issued a preliminary injunction blocking Donald Trump's latest executive attempt to restrict birthright citizenship rights.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/likely-unconstitutional-us-judge-partially-halts-trumps-latest-birthright-citizenship-order/articleshow/133723167.cms",
-      "dateLocation": "03 September 2026 | Washington, US",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Vietnam Court Sentences 11 to Death in Major Drug Case",
+      "whyItMatters": "Demonstrates the state's uncompromising judicial stance on large-scale narcotics trafficking and organized crime.",
+      "brief": "A Vietnamese court has sentenced 11 individuals to death following a major drug trafficking trial handled under strict state media oversight.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3QtVHFjQXE3NzNLTTRmbU5OMXZsQTlGbVFNRi1FbEdpa2pVeVhGcURyUjBGZmNaNmxGOXp2WXhscUlVcUJWaGN3LUxOSkExSldvRHVfa25wV2h1ZGhKTEpGeDNiMmNKclpOVHctNU9hSVNMYWp1Tjd6NFBOdFdqa09tVG11VUhON3lidlVhR2N5RFpQS2V6a3RlcjNxOW9BWndNSDBWT29qSzZQMVA3cHp4VlV3VElPMkI0aFlYOUlyQ19rWjYwMk5ydWhPUzly?oc=5",
+      "dateLocation": "2026-09-03 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Government Restores Full Trust in AI Firm Anthropic",
-      "whyItMatters": "Marks a dramatic policy reversal regarding domestic artificial intelligence regulation and federal tech partnerships.",
-      "brief": "Commerce Secretary Howard Lutnick confirmed renewed federal confidence in Anthropic, following the legal invalidation of prior blacklists.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-now-trusts-anthropic-the-company-that-t-banned-months-ago-howard-lutnick-says-they-are-back-on-/articleshow/133723161.cms",
-      "dateLocation": "03 September 2026 | Washington, US",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Yen Rallies Sharply as Bank of Japan Rate Hikes Loom",
+      "whyItMatters": "Shifts in Japanese monetary policy trigger significant global currency volatility and carry-trade unwinding.",
+      "brief": "The yen rallied sharply against major currencies as financial markets aggressively priced in impending interest rate hikes by the Bank of Japan.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5",
+      "dateLocation": "2026-09-03 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Remains Russia's Largest Crude Supplier Destination in August",
-      "whyItMatters": "Underscores shifting global energy supply chains and ongoing strategic trade maneuvers amid Western sanctions.",
-      "brief": "Trade data revealed Russia maintained its position as India's top crude oil supplier through August, alongside notable US LPG volumes.",
+      "headline": "India Draws Red Line on US Trade Agreement Demands",
+      "whyItMatters": "Bilateral trade negotiations face critical hurdles over preferential tariff terms impacting economic partnerships.",
+      "brief": "India has stated it will not finalize a bilateral trade deal with the United States until explicit preferential tariff terms are provided.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/russia-largest-supplier-of-crude-in-aug-us-tops-lpg-lng-volumes/articleshow/133722226.cms",
-      "dateLocation": "03 September 2026 | New Delhi, India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/will-finalise-trade-deal-after-us-gives-preferential-tariff-terms-indias-clear-message-to-america/articleshow/133732648.cms",
+      "dateLocation": "2026-09-03 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pentagon Issues Immediate Clinical Guidelines for Troop Testosterone Screening",
-      "whyItMatters": "Represents a major operational and medical health policy shift across United States military personnel ranks.",
-      "brief": "The US Department of Defense officially issued mandatory clinical guidelines instructing immediate baseline testosterone screening for active troops.",
+      "headline": "Magnitude 5 Earthquake Strikes Tibet Amid Flood Rescue Efforts",
+      "whyItMatters": "Natural disasters compound logistical challenges in remote high-altitude regions already managing severe climate emergencies.",
+      "brief": "A magnitude 5 earthquake struck Tibet, complicating ongoing search and rescue operations following devastating flash floods near the Nepal border.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/tibet-hit-by-magnitude-5-earthquake-days-after-deadly-glacier-collapse-wreaked-havoc-near-nepal-border-11788425845596.html",
+      "dateLocation": "2026-09-03 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Former Ukrainian Defense Minister Launches Defense Tech Startup",
+      "whyItMatters": "Merges real battlefield wartime experience with advanced venture-backed innovation to supply modern allied defense tech.",
+      "brief": "Backed by Palantir's Alex Karp, former Ukrainian Defense Minister Mykhailo Fedorov has launched a new defense technology company.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/former-ukrainian-defense-minister-mykhailo-fedorov-is-launching-a-defense-technology-company-backed-by-palantir/articleshow/133724341.cms",
+      "dateLocation": "2026-09-03 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Microsoft Reports India Leads Global Artificial Intelligence Workforce",
+      "whyItMatters": "Highlights India's growing dominance in digital skilling and enterprise-level frontier technology adoption.",
+      "brief": "Microsoft data reveals that India currently tops global artificial intelligence adoption with the highest share of frontier technical professionals.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/india-tops-global-ai-adoption-with-highest-share-of-frontier-professionals-microsoft/articleshow/133732018.cms",
+      "dateLocation": "2026-09-03 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "World Bank Weighs Healthcare Transformation Funding for Telangana",
+      "whyItMatters": "Substantial international funding bolsters sustainable public healthcare infrastructure reforms at the state level.",
+      "brief": "The World Bank board is considering a major financing program focused on sustainable transformation in Telangana's healthcare sector.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMWxZb2d6VVdtMGhzMDdubGxVaG5PVFRSRnRNanQwM1Ayc3FHT3VwdGJQdDBrS2kxdkpVRXJGemxGS0h3SFVQYms2TEllWkt6ZVowSHNTQWJyNGNxNWNyZE1jUXFiWkd0OFRVQ1FGcWY4MVVmaDhFb1djUmNPUmMzMnhhbnJGRmdrZTVLOU83SFJSZTQ2OHJEZEV1WGZKcm15VDE0QVFyMXRDSVY0aDJmUEpNZ0NKTUEtWkdZLXlSYl9mMnU5TXgxbjlXMUhWRUhMWEQ0Z1VIYTJreXc3elE?oc=5",
-      "dateLocation": "03 September 2026 | Washington, US",
+      "sourceUrl": "https://www.thehindu.com/news/national/telangana/world-bank-considers-financing-telanganas-programme-for-sustainable-transformation-in-healthcare/article71423028.ece",
+      "dateLocation": "2026-09-03 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Praggnanandhaa Wins Historic Grand Chess Tour Title for India",
-      "whyItMatters": "Solidifies India's rising dominance in international competitive chess and elite grandmaster training circles.",
-      "brief": "Young Indian grandmaster Praggnanandhaa secured a historic victory at the Grand Chess Tour Finals, stunning veteran international players.",
+      "headline": "India Set to Roll Out Indigenous Bullet Trains by 2027",
+      "whyItMatters": "A historic milestone for domestic heavy engineering and high-speed rail corridor development across the country.",
+      "brief": "Indian Railways is scheduled to roll out its own indigenous 280 kmph high-speed trains on select regional sections by early 2027.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/bullet-train-project-was-launched-in-2017-ten-years-later-indian-railways-is-set-to-roll-out-its-own-rs-866-87-crore-high-speed-280-kmph-trains-by-early-next-year/articleshow/133729526.cms",
+      "dateLocation": "2026-09-03 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Cricketer Refuses Meeting King Charles Amid Tour Chaos",
+      "whyItMatters": "Reflects deep internal team dissatisfaction and administrative disputes during high-profile international cricket tours.",
+      "brief": "Following major squad restructuring, a dropped Pakistan cricket player explicitly refused to attend a scheduled royal meeting with King Charles III.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/im-surprised-levon-aronian-on-weakness-praggnanandhaa-fixed-to-win-indias-historic-gct-title-exclusive/articleshow/133723206.cms",
-      "dateLocation": "03 September 2026 | New Delhi, India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/dropped-from-squad-pakistan-player-refuses-to-meet-king-charles-iii-amid-england-tour-chaos/articleshow/133730444.cms",
+      "dateLocation": "2026-09-03 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Urges India to Engage Constructively Under Indus Waters Treaty",
-      "whyItMatters": "Crucial for regional water security, bilateral diplomacy, and managing critical transboundary resource pacts.",
-      "brief": "Pakistan formally approached Indian authorities requesting constructive diplomatic engagement within the framework of the Indus Waters Treaty.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/pakistan-urges-india-to-engage-with-it-constructively-within-indus-water-treaty-framework/articleshow/133713696.cms",
-      "dateLocation": "03 September 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Belgian PM Arrives in India for High-Level Bilateral Talks",
-      "whyItMatters": "Strengthens trade partnerships, technological cooperation, and diplomatic alliances between India and the European Union.",
-      "brief": "Belgian Prime Minister Bart de Wever arrived for a three-day official visit to hold comprehensive strategic discussions with Prime Minister Modi.",
+      "headline": "NHRC Demands Action Reports Over Instagram CSAM Advertisements",
+      "whyItMatters": "Enforces strict accountability for social media intermediaries regarding child safety and regulatory compliance.",
+      "brief": "The National Human Rights Commission has sought action reports from key ministries and Delhi Police regarding child safety failures on Instagram.",
       "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/belgian-pm-bart-de-wever-arrives-in-three-day-official-visit-to-hold-talks-with-pm-modi/articleshow/133722979.cms",
-      "dateLocation": "03 September 2026 | New Delhi, India",
+      "sourceUrl": "https://www.livemint.com/news/india/nhrc-questions-metas-role-seeks-action-taken-reports-from-meity-mib-delhi-police-on-csam-ads-on-instagram-11788426887347.html",
+      "dateLocation": "2026-09-03 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Congo Struggles to Fund Ebola Response Teams Amid Outbreaks",
-      "whyItMatters": "Exposes critical vulnerabilities in global disease surveillance and epidemic containment infrastructure in Central Africa.",
-      "brief": "Several checkpoint health screening stations in northeastern DRC halted reporting after frontline medical personnel experienced prolonged non-payment.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/congo-keeps-struggling-to-pay-the-people-fighting-its-ebola-outbreaks-11788401774149.html",
-      "dateLocation": "03 September 2026 | Kinshasa, DRC",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
