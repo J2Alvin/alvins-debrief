@@ -1,84 +1,120 @@
 {
-  "lastUpdated": "2026-09-02T20:28:46.815Z",
+  "lastUpdated": "2026-09-03T02:50:16.568Z",
   "ticker": [
-    "India draws $136B in forex inflows",
-    "US urges G20 to allow AI training",
-    "Nepal rescue operations continue in tunnels",
-    "India condemns Hindu temple destruction in Pakistan",
-    "Gold rebounds over 1% on dollar pullback"
+    "India defends 7.8% GDP growth data amid heavy criticism",
+    "US urges G20 countries to allow AI training on creators' work",
+    "Broadcom raises AI chip forecast on massive Big Tech demand",
+    "Nepal-Tibet flood death toll crosses 1,243 as PM flags climate crisis",
+    "US judge partially blocks Trump's latest birthright citizenship order"
   ],
   "articles": [
     {
-      "headline": "India Draws $136 Billion in Forex Inflows",
-      "whyItMatters": "Massive inflows significantly bolster the rupee's defense against global economic pressures.",
-      "brief": "India has successfully secured a bumper $136 billion in forex inflows, greatly strengthening the local currency's stability amidst volatile international markets.",
+      "headline": "India Defends 7.8% Q1 GDP Growth Data Amid Criticism",
+      "whyItMatters": "Validates national economic momentum and addresses fierce political pushback over statistical methodology revisions.",
+      "brief": "Government officials strongly defended India's robust 7.8% Q1 GDP growth figures after former financial officials and critics raised methodological questions.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
-      "dateLocation": "2026-09-02 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/govt-defends-gdp-data-after-ex-fs-claims-q1-growth-2.6/articleshow/133720341.cms",
+      "dateLocation": "03 September 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Urges G20 to Allow AI Training on Creators' Work",
-      "whyItMatters": "This pushes for international standardization in copyright laws affecting the booming artificial intelligence industry.",
-      "brief": "The United States is actively lobbying G20 member countries to permit AI training data collection utilizing creators' copyrighted works to maintain global competitiveness.",
+      "headline": "US Urges G20 Nations to Permit AI Training on Creators' Work",
+      "whyItMatters": "Aims to reshape global intellectual property standards to accelerate artificial intelligence innovation and cross-border tech competition.",
+      "brief": "The United States formally called upon G20 member countries to allow unrestricted AI model training using copyrighted creator materials.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRRRFloNlZWNUJwamZCOEJrcGRwQ0JzaS1DeExVS3JOQ21pRi1yRFdyOEsyVlpCSHNobWExOENjRmJEU2dZV1BHY1hVNm9idkdTMGRZQS1YYnhHR1JGNW5mUlJMMGJiQ3E1bDVOWENLTkc2dnZHdUVvZzllWXJpd21KQXZ1TU1ScUJCWkdDd0ppTWZRcnhGQmw4ZkZGTG44SlNJdDcwdGVOVzA2djhfOE93?oc=5",
-      "dateLocation": "2026-09-02 | Reuters",
+      "dateLocation": "03 September 2026 | Washington, D.C.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nepal Rescuers Race to Reach Tunnels Survivors",
-      "whyItMatters": "Humanitarian efforts are racing against time a week after a devastating regional disaster.",
-      "brief": "Emergency rescue teams in Nepal are urgently working to reach survivors still trapped inside tunnels one week after a severe natural disaster struck.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
-      "dateLocation": "2026-09-02 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Condemns Destruction of Historic Hindu Temple",
-      "whyItMatters": "Bilateral tensions may rise following the failure of authorities to protect minority religious sites.",
-      "brief": "New Delhi has strongly condemned the demolition of a century-old Hindu temple in Pakistan's Narowal district, demanding an immediate and transparent investigation.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/failure-to-protect-this-temple-is-alarming-india-raises-concerns-over-narowal-temple-destruction-11788368559546.html",
-      "dateLocation": "2026-09-02 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Rebounds 1% on Dollar and Yield Pullback",
-      "whyItMatters": "Precious metal markets react swiftly to shifting global macroeconomic indicators and currency values.",
-      "brief": "Gold prices surged over 1% as both the US dollar and Treasury yields retreated significantly from their recent multi-session highs.",
+      "headline": "Broadcom Raises AI Chip Forecast on Surging Big Tech Spending",
+      "whyItMatters": "Demonstrates that global corporate capital expenditure on artificial infrastructure hardware remains exceptionally strong.",
+      "brief": "Broadcom significantly upgraded its annual AI semiconductor forecast as major technology conglomerates continue allocating massive capital budgets.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
-      "dateLocation": "2026-09-02 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5",
+      "dateLocation": "03 September 2026 | New York, US",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BCCI Meeting to Focus on Rohit Sharma's Future",
-      "whyItMatters": "Decisions made will heavily shape Indian cricket's transitional roadmap towards the 2027 ODI World Cup.",
-      "brief": "Top BCCI brass gathered in Mumbai to discuss senior player futures, recent performance setbacks, and the overall team roadmap heading into major tournaments.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharmas-future-odi-roadmap-to-2027-world-cup-and-recent-setbacks-on-agenda-at-bcci-meeting/articleshow/133715542.cms",
-      "dateLocation": "2026-09-02 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nepal Flood Death Toll Reaches 1,243 Amid Climate Warnings",
+      "whyItMatters": "Highlights escalating regional climate vulnerabilities and prompts immediate international humanitarian and infrastructure support.",
+      "brief": "The combined Nepal-Tibet flash flood death toll surged past 1,200 as Prime Minister Shah strongly emphasized urgent climate change links.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-death-toll-rescue-operations-missing-persons-helpline-number-september-3-2026/article71422150.ece",
+      "dateLocation": "03 September 2026 | Kathmandu, Nepal",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Maharashtra FDA Suspends EatClub Outlet License",
-      "whyItMatters": "Strict regulatory enforcement continues to target major cloud kitchens and food delivery services for hygiene violations.",
-      "brief": "Led by Tukaram Mundhe, the Maharashtra FDA suspended a key Mumbai outlet license belonging to the parent company of Box8 and Mojo Pizza over hygiene issues.",
+      "headline": "US Judge Partially Halts Trump’s Birthright Citizenship Order",
+      "whyItMatters": "Protects constitutional immigrant rights and sets up another landmark legal showdown over presidential executive authority.",
+      "brief": "A federal judge issued a preliminary injunction blocking Donald Trump's latest executive attempt to restrict birthright citizenship rights.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/likely-unconstitutional-us-judge-partially-halts-trumps-latest-birthright-citizenship-order/articleshow/133723167.cms",
+      "dateLocation": "03 September 2026 | Washington, US",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Government Restores Full Trust in AI Firm Anthropic",
+      "whyItMatters": "Marks a dramatic policy reversal regarding domestic artificial intelligence regulation and federal tech partnerships.",
+      "brief": "Commerce Secretary Howard Lutnick confirmed renewed federal confidence in Anthropic, following the legal invalidation of prior blacklists.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-now-trusts-anthropic-the-company-that-t-banned-months-ago-howard-lutnick-says-they-are-back-on-/articleshow/133723161.cms",
+      "dateLocation": "03 September 2026 | Washington, US",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Remains Russia's Largest Crude Supplier Destination in August",
+      "whyItMatters": "Underscores shifting global energy supply chains and ongoing strategic trade maneuvers amid Western sanctions.",
+      "brief": "Trade data revealed Russia maintained its position as India's top crude oil supplier through August, alongside notable US LPG volumes.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/russia-largest-supplier-of-crude-in-aug-us-tops-lpg-lng-volumes/articleshow/133722226.cms",
+      "dateLocation": "03 September 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pentagon Issues Immediate Clinical Guidelines for Troop Testosterone Screening",
+      "whyItMatters": "Represents a major operational and medical health policy shift across United States military personnel ranks.",
+      "brief": "The US Department of Defense officially issued mandatory clinical guidelines instructing immediate baseline testosterone screening for active troops.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/tukaram-mundhes-fda-crackdown-continues-box8-mojo-pizza-parent-eatclubs-mumbai-outlet-loses-licence-heres-why-11788362186782.html",
-      "dateLocation": "2026-09-02 | LiveMint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMWxZb2d6VVdtMGhzMDdubGxVaG5PVFRSRnRNanQwM1Ayc3FHT3VwdGJQdDBrS2kxdkpVRXJGemxGS0h3SFVQYms2TEllWkt6ZVowSHNTQWJyNGNxNWNyZE1jUXFiWkd0OFRVQ1FGcWY4MVVmaDhFb1djUmNPUmMzMnhhbnJGRmdrZTVLOU83SFJSZTQ2OHJEZEV1WGZKcm15VDE0QVFyMXRDSVY0aDJmUEpNZ0NKTUEtWkdZLXlSYl9mMnU5TXgxbjlXMUhWRUhMWEQ0Z1VIYTJreXc3elE?oc=5",
+      "dateLocation": "03 September 2026 | Washington, US",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Treasury Updates Payroll Rules for Child Accounts",
-      "whyItMatters": "The updated guidelines offer tax-free incentives for companies contributing to employee dependent savings plans.",
-      "brief": "The US Treasury introduced simplified payroll contributions for child savings accounts, enabling companies to contribute up to $2,500 tax-free annually per employee dependent.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-michael-dell-and-wife-susan-dells-6-25-billion-donation-to-trump-accounts-treasury-announces-that-trump-accounts-are-getting-/articleshow/133704303.cms",
-      "dateLocation": "2026-09-02 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Praggnanandhaa Wins Historic Grand Chess Tour Title for India",
+      "whyItMatters": "Solidifies India's rising dominance in international competitive chess and elite grandmaster training circles.",
+      "brief": "Young Indian grandmaster Praggnanandhaa secured a historic victory at the Grand Chess Tour Finals, stunning veteran international players.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/im-surprised-levon-aronian-on-weakness-praggnanandhaa-fixed-to-win-indias-historic-gct-title-exclusive/articleshow/133723206.cms",
+      "dateLocation": "03 September 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Urges India to Engage Constructively Under Indus Waters Treaty",
+      "whyItMatters": "Crucial for regional water security, bilateral diplomacy, and managing critical transboundary resource pacts.",
+      "brief": "Pakistan formally approached Indian authorities requesting constructive diplomatic engagement within the framework of the Indus Waters Treaty.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/pakistan-urges-india-to-engage-with-it-constructively-within-indus-water-treaty-framework/articleshow/133713696.cms",
+      "dateLocation": "03 September 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Belgian PM Arrives in India for High-Level Bilateral Talks",
+      "whyItMatters": "Strengthens trade partnerships, technological cooperation, and diplomatic alliances between India and the European Union.",
+      "brief": "Belgian Prime Minister Bart de Wever arrived for a three-day official visit to hold comprehensive strategic discussions with Prime Minister Modi.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/belgian-pm-bart-de-wever-arrives-in-three-day-official-visit-to-hold-talks-with-pm-modi/articleshow/133722979.cms",
+      "dateLocation": "03 September 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Congo Struggles to Fund Ebola Response Teams Amid Outbreaks",
+      "whyItMatters": "Exposes critical vulnerabilities in global disease surveillance and epidemic containment infrastructure in Central Africa.",
+      "brief": "Several checkpoint health screening stations in northeastern DRC halted reporting after frontline medical personnel experienced prolonged non-payment.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/congo-keeps-struggling-to-pay-the-people-fighting-its-ebola-outbreaks-11788401774149.html",
+      "dateLocation": "03 September 2026 | Kinshasa, DRC",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
