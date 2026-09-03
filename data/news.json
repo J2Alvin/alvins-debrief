@@ -1,129 +1,147 @@
 {
-  "lastUpdated": "2026-09-03T10:38:23.727Z",
+  "lastUpdated": "2026-09-03T15:44:43.114Z",
   "ticker": [
-    "India rupee rally pauses on oil demand",
-    "Vietnam sentences 11 to death for drug trafficking",
-    "Yen surges on Bank of Japan rate expectations",
-    "Tibet hit by magnitude 5 earthquake",
-    "India draws red line on US trade agreement"
+    "India's economy enters A-rated club after 35 years",
+    "US trade deficit hits highest since March 2025",
+    "ChatGPT faces major international service outages globally",
+    "Kenya orders Tata Chemicals to end operations",
+    "Gold jumps 2% on cooling rate hike bets"
   ],
   "articles": [
     {
-      "headline": "India Rupee Rally Pauses Amid Rising Oil Import Demands",
-      "whyItMatters": "Crude price volatility directly impacts India's macroeconomic stability and import bills.",
-      "brief": "The recent rally in the Indian rupee has paused as climbing crude oil prices spur importer demand, compounding energy security concerns.",
+      "headline": "India's Economy Enters A-Rated Club After 35 Years",
+      "whyItMatters": "Marks a major structural milestone for India's sovereign credit profile and international investment appeal.",
+      "brief": "India has shattered a 35-year sovereign rating barrier, entering the A-rated club backed by robust macroeconomic indicators and strong GDP growth estimates.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXBJSnozUXVWWHEwOThJZnplT19kTUNiUzZBTTVPbl9QV0lPTWpGWjNld2t1aG9GWk9HQm5zYlJ1R3ViY2JWVmQxUDFRZWJGQ0dpdVp2bERIVDI5ZHp4RVNNd08yYjJnWTR3VFFicWluclFEcXdOU0QyRFRMenE4Zmc0TGQ5WXROUFFRMWVxXzBDeEdrS0VidDRlZXZ1enFGVENBZUR6X0oyZEM0ZXd3QV9mWG5QUGtXcS12NUQ1b1hZR0NT?oc=5",
-      "dateLocation": "2026-09-03 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/indias-economy-shatters-a-35-year-barrier-to-enter-a-rated-club-india-sovereign-rating-a-by-jcra-sp-moodys-gdp-growth/articleshow/133731421.cms",
+      "dateLocation": "2026-09-03 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Stalls Alipay+ Payments Link Over Security Concerns",
-      "whyItMatters": "Highlights ongoing strict regulatory scrutiny over cross-border digital financial integration and data privacy.",
-      "brief": "India has reportedly stalled the integration of the Alipay+ payments link citing critical security and data localization concerns.",
+      "headline": "US Trade Deficit Surges 24.4% on AI Boom Imports",
+      "whyItMatters": "Highlights how artificial intelligence infrastructure spending is directly impacting international trade flows and deficits.",
+      "brief": "The US trade deficit climbed to $88.6 billion in July as surging demand for AI-related technology drove up import costs significantly.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5",
-      "dateLocation": "2026-09-03 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-trade-deficit-hits-highest-since-march-2025-surges-24-4-to-88-6-billion-in-july-as-ai-boom-drives-imports-11788448211090.html",
+      "dateLocation": "2026-09-03 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Australia and US Boost Defense Ties Amid Growing Pacific Tensions",
-      "whyItMatters": "Strategic alignment in the Indo-Pacific heavily influences regional security dynamics and geopolitical balance.",
-      "brief": "Australia and the United States have agreed to significantly boost defense ties to counter China's expanding influence in the Pacific region.",
+      "headline": "ChatGPT Suffers Second Major Outage in Three Days",
+      "whyItMatters": "Exposes vulnerabilities in enterprise reliance on foundational AI infrastructure during critical workflows.",
+      "brief": "OpenAI's chatbot suffered global disruptions affecting users across the US and India, particularly impacting paying subscribers using advanced work modes.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-outage-openais-ai-chatbot-down-for-second-time-3-days/articleshow/133740055.cms",
+      "dateLocation": "2026-09-03 | San Francisco",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Kenya Orders Tata Chemicals to End Operations",
+      "whyItMatters": "Signals rising economic nationalism and tougher regulatory stances against legacy foreign corporations in East Africa.",
+      "brief": "Kenyan President ordered Tata Chemicals to halt its century-long operations in the country, sparking intense political debate over foreign business sovereignty.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/are-we-slaves-to-other-people-kenya-president-orders-tata-chemicals-to-end-operations-after-100-years/articleshow/133738996.cms",
+      "dateLocation": "2026-09-03 | Nairobi",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Jumps 2% as Fed Comments Cool Rate Hikes",
+      "whyItMatters": "Directly impacts global commodity valuations and shifts investor sentiment regarding upcoming central bank policies.",
+      "brief": "Precious metals surged after Federal Reserve Governor Waller's remarks signaled a softer approach toward future interest rate adjustments.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUhNZ1JkRGozUnRmOFd3alQyWTVjNjd4WXp4SmV4anJuRndaaEVRdzlXajB2b1pWUjh5LTJscnFjY0l6QkhINE9MaXAtRVVWVkdrVXZTSlRudFlSU2cxVVlMT1pkN21TTG55MUxyZEkxalhRUGNwRkVNYXZOeWZuX3VsSWx4alNGeENzSzdfSFRvRzlwdHNZRUppTGdIcHMtTUdrU05KV2VoQmNiWTNfOS1kVjNFMzFDQzFR?oc=5",
+      "dateLocation": "2026-09-03 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Stalls Alipay+ Link Over Security Concerns",
+      "whyItMatters": "Reinforces New Delhi's strict regulatory barriers regarding cross-border financial data flows with major technology firms.",
+      "brief": "India has reportedly stalled the integration of Alipay+ payments due to lingering national security and stringent data localization concerns.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5",
+      "dateLocation": "2026-09-03 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Draws $136 Billion Forex Inflows to Defend Rupee",
+      "whyItMatters": "Demonstrates strong macroeconomic cushions protecting domestic currency stability against external global market shocks.",
+      "brief": "A massive influx of foreign exchange reserves has significantly bolstered India's capacity to defend the rupee amidst global monetary tightening.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
+      "dateLocation": "2026-09-03 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Australia and US Boost Defense Ties Amid China Influence",
+      "whyItMatters": "Redraws regional security architectures across the Indo-Pacific in response to escalating geopolitical competition.",
+      "brief": "Washington and Canberra have agreed to significantly deepen defense cooperation to counter growing strategic inroads by Beijing in the Pacific.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGlQbnNDYmRZNklIT19EZUFaejRPcUNpTENxczFTaVVFczNTOThfQWEtY25pMkJiMDBlQThRS2NhUnpqbjh0bEhEdEpxS25WdjZZNi01bWNkSmFfNThnd01ZN19SWWgwMjQyUE9yd0oyUThiTHhmREF0MlAtV2lUZkJyTGk4d2w0RTZodXNJX2VtdFVRdm1nS1MyRThKZlg0SVNtczlPWWJaT1BBOTFF?oc=5",
-      "dateLocation": "2026-09-03 | Reuters",
+      "dateLocation": "2026-09-03 | Canberra",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Vietnam Court Sentences 11 to Death in Major Drug Case",
-      "whyItMatters": "Demonstrates the state's uncompromising judicial stance on large-scale narcotics trafficking and organized crime.",
-      "brief": "A Vietnamese court has sentenced 11 individuals to death following a major drug trafficking trial handled under strict state media oversight.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3QtVHFjQXE3NzNLTTRmbU5OMXZsQTlGbVFNRi1FbEdpa2pVeVhGcURyUjBGZmNaNmxGOXp2WXhscUlVcUJWaGN3LUxOSkExSldvRHVfa25wV2h1ZGhKTEpGeDNiMmNKclpOVHctNU9hSVNMYWp1Tjd6NFBOdFdqa09tVG11VUhON3lidlVhR2N5RFpQS2V6a3RlcjNxOW9BWndNSDBWT29qSzZQMVA3cHp4VlV3VElPMkI0aFlYOUlyQ19rWjYwMk5ydWhPUzly?oc=5",
-      "dateLocation": "2026-09-03 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Yen Rallies Sharply as Bank of Japan Rate Hikes Loom",
-      "whyItMatters": "Shifts in Japanese monetary policy trigger significant global currency volatility and carry-trade unwinding.",
-      "brief": "The yen rallied sharply against major currencies as financial markets aggressively priced in impending interest rate hikes by the Bank of Japan.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw?oc=5",
-      "dateLocation": "2026-09-03 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Draws Red Line on US Trade Agreement Demands",
-      "whyItMatters": "Bilateral trade negotiations face critical hurdles over preferential tariff terms impacting economic partnerships.",
-      "brief": "India has stated it will not finalize a bilateral trade deal with the United States until explicit preferential tariff terms are provided.",
+      "headline": "Apple Facing $2.7 Billion UK Lawsuit Over App Tracking",
+      "whyItMatters": "Challenges big tech privacy frameworks and opens potential precedents for antitrust damages in European markets.",
+      "brief": "Apple is confronting a massive class-action lawsuit in the UK alleging unfair app tracking rules and anti-competitive developer restrictions.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/will-finalise-trade-deal-after-us-gives-preferential-tariff-terms-indias-clear-message-to-america/articleshow/133732648.cms",
-      "dateLocation": "2026-09-03 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHRUNEVSV0hvdVo5bzgtTWk4dVl0REZLQ0RPbWhpMjF1SHNCWE5uRlBNYlJ3N1U4VTVsOVBDQlJvS2dSU0pvd1BEQXkxaGJ5dDV6MDBNN1Ytb1hPYTJJOFl6c3VKODBMRjdXM21IYVJUODQ1Q29uNzBHYUZWSVUzNHVFcjU4RDVEUjlBUmhoeDF3SzN4VkVzTWZCcXp5bTFxR0ZPZ1FDd3VoZ1M2T1ZQWDZhWktKYXR0aUszVjJUY2ZMQ1dY?oc=5",
+      "dateLocation": "2026-09-03 | London",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Magnitude 5 Earthquake Strikes Tibet Amid Flood Rescue Efforts",
-      "whyItMatters": "Natural disasters compound logistical challenges in remote high-altitude regions already managing severe climate emergencies.",
-      "brief": "A magnitude 5 earthquake struck Tibet, complicating ongoing search and rescue operations following devastating flash floods near the Nepal border.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/tibet-hit-by-magnitude-5-earthquake-days-after-deadly-glacier-collapse-wreaked-havoc-near-nepal-border-11788425845596.html",
-      "dateLocation": "2026-09-03 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Former Ukrainian Defense Minister Launches Defense Tech Startup",
-      "whyItMatters": "Merges real battlefield wartime experience with advanced venture-backed innovation to supply modern allied defense tech.",
-      "brief": "Backed by Palantir's Alex Karp, former Ukrainian Defense Minister Mykhailo Fedorov has launched a new defense technology company.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/former-ukrainian-defense-minister-mykhailo-fedorov-is-launching-a-defense-technology-company-backed-by-palantir/articleshow/133724341.cms",
-      "dateLocation": "2026-09-03 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Microsoft Reports India Leads Global Artificial Intelligence Workforce",
-      "whyItMatters": "Highlights India's growing dominance in digital skilling and enterprise-level frontier technology adoption.",
-      "brief": "Microsoft data reveals that India currently tops global artificial intelligence adoption with the highest share of frontier technical professionals.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/india-tops-global-ai-adoption-with-highest-share-of-frontier-professionals-microsoft/articleshow/133732018.cms",
-      "dateLocation": "2026-09-03 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "World Bank Weighs Healthcare Transformation Funding for Telangana",
-      "whyItMatters": "Substantial international funding bolsters sustainable public healthcare infrastructure reforms at the state level.",
-      "brief": "The World Bank board is considering a major financing program focused on sustainable transformation in Telangana's healthcare sector.",
+      "headline": "Over 1,700 Fall Sick from Indonesia Free School Meals",
+      "whyItMatters": "Highlights critical logistical and food safety challenges facing major state-sponsored nutritional welfare programs.",
+      "brief": "A mass food poisoning incident affecting school children across three days has sparked urgent public health safety reviews in Indonesia.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/telangana/world-bank-considers-financing-telanganas-programme-for-sustainable-transformation-in-healthcare/article71423028.ece",
-      "dateLocation": "2026-09-03 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLWt1ZVJNUDFJdDVaeVlobHEzRkFhNThTa1dhajN4SUlCZUg2dVBWZVVFY1J2QXd1Z0ZEamRoZEdHckpTNnplZHVsV0VLTElZQkJoaTVPZUNqbTdBQk53cWgxNlZoVHlXSmJDdDE3aFh6eG85QjgtUzlLRUJhOFhMQUhHcHA4dzZFbXd1SzlUYXNHWW1GRm1OQUZOZXNObzBnRHJMQkh3amt3MjhnQVRKVkRpOUZMZVdxR0MzanYtdzRQRVNJRHA2alNzRUxOMGpZZmthY1pGQlU4UVN1?oc=5",
+      "dateLocation": "2026-09-03 | Jakarta",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Set to Roll Out Indigenous Bullet Trains by 2027",
-      "whyItMatters": "A historic milestone for domestic heavy engineering and high-speed rail corridor development across the country.",
-      "brief": "Indian Railways is scheduled to roll out its own indigenous 280 kmph high-speed trains on select regional sections by early 2027.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/bullet-train-project-was-launched-in-2017-ten-years-later-indian-railways-is-set-to-roll-out-its-own-rs-866-87-crore-high-speed-280-kmph-trains-by-early-next-year/articleshow/133729526.cms",
-      "dateLocation": "2026-09-03 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "FSSAI Orders CG Foods to Stop Defective Bhujia Production",
+      "whyItMatters": "Reinforces domestic regulatory enforcement on major food manufacturing hygiene standards and consumer protection.",
+      "brief": "Indian food safety authorities directed CG Foods to halt production lines over unhygienic manufacturing practices and broken product re-use.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-takes-actions-against-cg-foods-directs-company-to-stop-production-of-bhujia-namkeen/articleshow/133736005.cms",
+      "dateLocation": "2026-09-03 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Cricketer Refuses Meeting King Charles Amid Tour Chaos",
-      "whyItMatters": "Reflects deep internal team dissatisfaction and administrative disputes during high-profile international cricket tours.",
-      "brief": "Following major squad restructuring, a dropped Pakistan cricket player explicitly refused to attend a scheduled royal meeting with King Charles III.",
+      "headline": "Supreme Court Reservation Debate Divides NDA Coalition",
+      "whyItMatters": "Tests political cohesion within ruling coalitions ahead of major state electoral battles in India.",
+      "brief": "Discussions regarding the 'creamy layer' exclusions within Scheduled Caste reservations have sparked internal political tension among NDA allies in Bihar.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/chirag-paswan-vs-jitan-manjhi-in-bihar-sc-creamy-layer-debate-divides-nda-will-it-open-up-a-pandoras-box/articleshow/133730668.cms",
+      "dateLocation": "2026-09-03 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Draws Red Line on Prime Minister Modi's Iran Meeting",
+      "whyItMatters": "Complicates bilateral strategic balancing acts between major global partners and sanctioned regional states.",
+      "brief": "Washington has established strict diplomatic boundaries concerning high-level bilateral engagements between Indian leadership and Iranian officials.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-draws-a-red-line-on-pm-modis-iran-meeting/articleshow/133739000.cms",
+      "dateLocation": "2026-09-03 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BCCI Defends Rohit Sharma Amid 2027 World Cup Speculation",
+      "whyItMatters": "Highlights high-stakes strategic selection politics within national cricket governance frameworks.",
+      "brief": "Cricket board officials strongly defended veteran player Rohit Sharma's ongoing place in the squad, dismissing succession speculation.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/dropped-from-squad-pakistan-player-refuses-to-meet-king-charles-iii-amid-england-tour-chaos/articleshow/133730444.cms",
-      "dateLocation": "2026-09-03 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/what-more-do-you-want-bcci-secretary-devajit-saikias-blunt-message-on-rohit-sharma-amid-2027-world-cup-speculation/articleshow/133737318.cms",
+      "dateLocation": "2026-09-03 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "NHRC Demands Action Reports Over Instagram CSAM Advertisements",
-      "whyItMatters": "Enforces strict accountability for social media intermediaries regarding child safety and regulatory compliance.",
-      "brief": "The National Human Rights Commission has sought action reports from key ministries and Delhi Police regarding child safety failures on Instagram.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/nhrc-questions-metas-role-seeks-action-taken-reports-from-meity-mib-delhi-police-on-csam-ads-on-instagram-11788426887347.html",
-      "dateLocation": "2026-09-03 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Why Agarkar Missed BCCI Strategy Meeting Explained",
+      "whyItMatters": "Resolves public speculation regarding internal executive friction within national athletic selection panels.",
+      "brief": "Cricket board secretary clarified that chief selector Ajit Agarkar missed a recent strategic review due to travel connectivity issues.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/why-ajit-agarkar-was-not-present-in-bccis-meeting-devajit-saikia-reveals-the-reason/articleshow/133738304.cms",
+      "dateLocation": "2026-09-03 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
