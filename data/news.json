@@ -1,84 +1,156 @@
 {
-  "lastUpdated": "2026-09-04T02:51:17.955Z",
+  "lastUpdated": "2026-09-04T10:35:51.513Z",
   "ticker": [
-    "Volkswagen plans 50,000 job cuts",
-    "Adobe names Anil Chakravarthy CEO",
-    "US seeks Ukraine aid back pay",
-    "Kenya orders Tata Chemicals exit",
-    "ISRO successfully launches EOS-05 satellite"
+    "India enters A-rated sovereign club after 35 years",
+    "Nepal flood losses reach $2.56 billion",
+    "Citi eyes China brokerage license this month",
+    "Sri Lanka arrests former president's son over Airbus deal",
+    "El Nino to persist through February 2027"
   ],
   "articles": [
     {
-      "headline": "Volkswagen Approves Massive Turnaround Plan",
-      "whyItMatters": "Signals deep structural stress within Europe's primary manufacturing sector amid rising costs.",
-      "brief": "Volkswagen has announced plans to cut 50,000 jobs across the group following board approval of a sweeping turnaround strategy aimed at restoring competitiveness.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHJWZnhzWG5faWZEaUhXbDE4aUFUZ3JNWlp0SjB1RzRXS1JZT1hmSy10WDJFbE9kSVhUSE9YVzZ2NkRTY2REMEk3UHFadFp5UUgtVEdMcXowcnlmZGhjNTBVS01DQWJ4UUQ3OHhnakZjdm5IRzBaVlhQMzFaa0lVbW05X0RpRFZuV29SX0MyYVpkZGpCQ3psSlpuc0tLajZJTUIzc1hEdGdWV2swR2pQblJQZHQ2dkVmVkpkZWlFZVM?oc=5",
-      "dateLocation": "04 Sep 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Adobe Names Anil Chakravarthy New CEO",
-      "whyItMatters": "Marks a major executive leadership transition at one of the world's leading software giants.",
-      "brief": "Adobe has appointed insider Anil Chakravarthy as its new CEO, while longtime chief Shantanu Narayen transitions into the role of executive chairman.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUlEaHlFc2tjMlhXWlJrN0s1Q1dDMS1IOTJPamxJOW9senpRQWpEZ1ptbmRZLTI0eDdKQUxPbmU4OVQ3SUwwbVFHRHUwY1NNMXpKNlBrYkJaUW5aZjVaVEZnV09LYW9OSVFaQms3WjBheWstQWxQODV3d3BjUW55YVhIZGc?oc=5",
-      "dateLocation": "04 Sep 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Demands Europe Repay Ukraine Aid",
-      "whyItMatters": "Could severely strain transatlantic diplomatic relations and shift the financial burden of the ongoing conflict.",
-      "brief": "Donald Trump stated that the United States will seek back payments from European allies for financial and military aid provided to Ukraine.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVJMTlRnNjZsN3VYWVl3N2NQYl9EMjBhcHR6Qzl0WDk4QTBSRnFPZFFBWnFMOW0zRE9uX1BJVmhGbnlPLUZkRG5UOXZ1LWhOdXctWFFGbmF2ZVVMcEZ4SVVtYnoweU0wa3lNMWI2Sm1iME9YcnpOYVlvSmh3OUUzYUZDUUpHN0NFVWNrNXVRVkNiS0E1amRfeXI0SXoxTEw3eWtTTXM2ZTJqMVdnaXVHelNtRQ?oc=5",
-      "dateLocation": "04 Sep 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Kenya Orders Tata Chemicals to Exit",
-      "whyItMatters": "Highlights growing economic nationalism and diplomatic friction concerning foreign corporate assets in East Africa.",
-      "brief": "Kenyan President William Ruto has ordered Tata Chemicals to cease operations in the country, citing insufficient local value and announcing plans to transfer assets.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFBlN28wM0xsU1Q0eFI5a2pocjdtUXBzWE5qbURuV0Juem1JTzJqS3NlYWpfMWdNQkgtT1k0dE5ydTU5TDZhay1BSTBqZ0xuOFJLZnZBWWd0cF9BeWhwQVRIbU5kN2hPZXA2X1BTLU5JenRtM202ZEhtb2NuMktGS1l5OXhtR2NRallQam91ZUUxcGV0Q3BzWEJBY1FCdFRMVC1HZ0E1aH1md0VyR1E?oc=5",
-      "dateLocation": "04 Sep 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Stalls Alipay+ Over Data Concerns",
-      "whyItMatters": "Deepens technological decoupling between major Asian economies due to strict national security regulations.",
-      "brief": "India has reportedly stalled the implementation of the Alipay+ cross-border payments link, pointing to lingering cybersecurity and sensitive data localization concerns.",
+      "headline": "India's Economy Enters A-Rated Sovereign Club After 35 Years",
+      "whyItMatters": "Marks a historic milestone for India's macroeconomic stability and global financial standing.",
+      "brief": "India's economy has shattered a 35-year barrier to enter the exclusive A-rated sovereign club following positive credit evaluations.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5",
-      "dateLocation": "04 Sep 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/indias-economy-shatters-a-35-year-barrier-to-enter-a-rated-club-india-sovereign-rating-a-by-jcra-sp-moodys-gdp-growth/articleshow/133731421.cms",
+      "dateLocation": "September 4, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bernie Sanders Proposes AI Jail Terms",
-      "whyItMatters": "Represents one of the most aggressive legislative pushbacks against unchecked artificial intelligence development globally.",
-      "brief": "US Senator Bernie Sanders introduced a bill seeking up to 20-year prison sentences for tech executives developing AI surpassing human intelligence.",
+      "headline": "Nepal Flood Losses Estimated at $2.56 Billion",
+      "whyItMatters": "Highlights the massive infrastructure devastation and economic toll faced by the Himalayan nation.",
+      "brief": "Official estimates put Nepal's total flood and flash flood losses at $2.56 billion as rescue operations continue across affected districts.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUcyUXd3QXE1LVhRMVN5ODFmbG9FSXBBRFN5cjR2bEdRRXlFeEJwcVdfWEd1OHpla0NHSHhxZVRVY1pnZEFwcGF6QzFGQnZNbzgtbGtEZml2ZUxVM0ZNek4xVEtna21weVVLWVVsRy16X0lzaVA1QXdUVUF4M3djeUl2R2RvaVRrZ19OOEd4eVd1TXJTdjg2ZjhSSVBxMUZQSWNoTHFra2l1b3dIWFFqUQ?oc=5",
+      "dateLocation": "September 4, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sri Lanka Arrests Former President's Son Over Airbus Deal",
+      "whyItMatters": "Signals renewed anti-corruption crackdowns on high-profile political figures linked to international procurement scandals.",
+      "brief": "Sri Lankan authorities arrested the former president's son over an Airbus deal probe centered on alleged kickbacks to senior officials.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/sri-lanka-arrests-former-president-rajapaksas-son-over-airbus-deal/article71427828.ece",
+      "dateLocation": "September 4, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Citi Eyes China Brokerage Unit Licence This Month",
+      "whyItMatters": "Demonstrates continued foreign financial institution expansion and commitment to the Chinese domestic market.",
+      "brief": "Sources report that Citigroup is targeting a mainland China brokerage unit licence as soon as this month.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDBoUUlZZmVDRDRNWmlMMnNzNHRqYnZ2QjlVdFpmUGh6b3Bqem5CU0Fsck8td01XVHhoSGdHTnJKZlJleGdYbHNNLUV3VWxxSkhibU1uZGE3cWs0MnFRZWRhZ241NGpwNVItaUlRVzZYakZIQ2oxYjljUTVPSHlfSjFBcERHd3BUVHJVYVhZZGMybEdlb2hiM1dFZS1DMWdjczVjS2dUc2lJWmZxV0oxalhQOG5JaVVpU01j?oc=5",
+      "dateLocation": "September 4, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nigeria's Dangote Refinery IPO to Open Within Days",
+      "whyItMatters": "Unlocks substantial private equity capital and shifts African energy market dynamics significantly.",
+      "brief": "Industrialist Aliko Dangote announced that the much-anticipated public offering for the massive refinery will open within days.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVVOaTVGQ1dUUVpfcFBwSGQ5WTRNMEQwTmtFejg1RHh4Uk9vRFA5UVNzYXc1blJsZ29DQXJBZ2Z6WGZpRHhteWhOU2haVkQxWXN6bjlJdXFaSnpkb2Y2SXQ5TnNhaWhUbXBwQVE5cm9QMlE3Z3Z5Y183dENkZjBzLTItdjNUYWFOVjV1Q2kzWDVFOUpLblhwMnk5U0V4WHZBUVhyTkt3?oc=5",
+      "dateLocation": "September 4, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "El Nino to Persist Through February 2027",
+      "whyItMatters": "Warns of impending disruptions to global agricultural yields, monsoon patterns, and commodity prices.",
+      "brief": "Meteorological agencies confirm that El Nino conditions will persist through February 2027, impacting rainfall and economies globally.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/el-nino-to-persist-through-february-2027-what-it-means-for-india-rainfall-indian-economy-monsoon-world-meteorological-organization/articleshow/133759194.cms",
+      "dateLocation": "September 4, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Microsoft AI CEO Warns of Advanced Autonomous Model Risks",
+      "whyItMatters": "Highlights growing industry concerns regarding the safety and unpredictable autonomy of large-scale models.",
+      "brief": "Microsoft AI CEO Mustafa Suleyman cautioned against the autonomous hacking risks posed by advanced AI systems.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-has-a-warning-on-ai-company-hacking-that-nvidia-just-spent-13-billion-on-says-imagine-the-hugging-face-incident-with-/articleshow/133756416.cms",
+      "dateLocation": "September 4, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Air India Pilot Tests Positive for Psychoactive Drugs",
+      "whyItMatters": "Raises critical aviation safety compliance questions following a severe turbulence and technical incident.",
+      "brief": "The AAIB preliminary report confirmed a pilot involved in a turbulence-hit flight tested positive for psychoactive substances.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/bernie-sanders-introduces-a-bill-in-senate-that-may-land-sam-altman-dario-amodei-and-other-top-tech-executives-in-jail-for-as-much-as-20-years/articleshow/133749410.cms",
-      "dateLocation": "04 Sep 2026 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/india/aaib-releases-prelim-report-on-phuket-delhi-air-india-flight-case-says-pilot-did-use-drugs-asks-dgca-to-take-action-11788504202965.html",
+      "dateLocation": "September 4, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ISRO Places EOS-05 Satellite Into Orbit",
-      "whyItMatters": "Bolsters India's remote sensing capabilities and strategic space-based Earth observation infrastructure.",
-      "brief": "The Indian Space Research Organisation successfully launched and deployed the EOS-05 imaging satellite into its designated geosynchronous orbit using the GSLV-F17 rocket.",
+      "headline": "Two Workers Rescued Alive From Nepal Tunnel After Nine Days",
+      "whyItMatters": "Provides a remarkable tale of survival amid widespread devastation caused by extreme weather events.",
+      "brief": "Rescue teams successfully pulled two workers alive from a Nepal hydropower tunnel nine days after a disastrous flash flood.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclRkbXhxWG9zTGx0YzkzcDJ3RDZYV254czR6eUZIRWtpNHlhOEtscDNYWWZIOXlHTlFLOTVnY0toTEhKTWduQlMxdXRvV1V3RWRHY3pXd1RhTTVpejRWR3pUbE8ydDYxVko2aHJ1THdfQlF0Skl1NUJuZDdicXAxbWJLY25pUUI1My1faV9xSG9qTzJORUtLZFBLWQ?oc=5",
+      "dateLocation": "September 4, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "HarperCollins India to Publish Sonia Gandhi's Memoir 'Belonging'",
+      "whyItMatters": "Resolves a high-profile publishing dispute over one of the most anticipated political manuscripts.",
+      "brief": "Following Penguin's withdrawal, HarperCollins India announced it will publish Sonia Gandhi's memoir titled 'Belonging'.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/harpercollins-india-to-publish-sonia-gandhi-s-memoir-after-row-with-penguin-11788505148077.html",
+      "dateLocation": "September 4, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Adam Telle Appointed Acting US Army Secretary",
+      "whyItMatters": "Shuffles military leadership at the top civilian tier amid ongoing defense policy shifts.",
+      "brief": "Donald Trump appointed Adam R. Telle as acting US Army Secretary following the sudden resignation of Dan Driscoll.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/us-news/who-is-adam-telle-donald-trump-appoints-new-acting-secretary-of-us-army-after-dan-driscolls-resignation-11788503672778.html",
+      "dateLocation": "September 4, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Emergency Broadcast Systems Resumed, Says C-DOT CEO",
+      "whyItMatters": "Strengthens national disaster response infrastructure and public emergency communication capabilities.",
+      "brief": "C-DOT announced the successful resumption of emergency cell broadcast messages, highlighting domestic software capabilities.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/emergency-broadcast-messages-resumed-c-dot-ceo-says/article71427467.ece",
+      "dateLocation": "September 4, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UAE Airports Face Major Flight Disruptions Amid Security Tensions",
+      "whyItMatters": "Impacts major international transit corridors due to escalating geopolitical security concerns.",
+      "brief": "Dubai and Abu Dhabi international airports experienced widespread cancellations and delays driven by renewed regional conflicts.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/world/uae-airports-see-flight-cancellation-delays-list-of-dubai-and-abu-dhabi-arrivals-departures-running-late-11788503155282.html",
+      "dateLocation": "September 4, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "National Child Rights Commission Rescues Over 3,800 Children",
+      "whyItMatters": "Drives systematic enforcement against illegal labor networks through coordinated pan-India operations.",
+      "brief": "A special pan-India rescue campaign led to the retrieval of over 3,800 child laborers and the filing of multiple FIRs.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/national-child-rights-commission-rescues-over-3800-children-from-child-labour/article71427770.ece",
+      "dateLocation": "September 4, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Cricket Board Under Fire After Coaching Changes",
+      "whyItMatters": "Underscores administrative instability and frequent personnel overhauls plaguing international cricket squads.",
+      "brief": "Former coach Jason Gillespie slammed Pakistan cricket administration after sweeping coaching and player changes following Test defeats.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/isros-gslv-f17-successfully-places-eos-05-earth-observation-satellite-in-geosynchronous-orbit/articleshow/133746002.cms",
-      "dateLocation": "04 Sep 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/they-change-their-mind-like-pants-former-pakistan-coach-tears-into-chief-selector-aaqib-javed-over-england-chaos/articleshow/133758734.cms",
+      "dateLocation": "September 4, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Smriti Mandhana Breaks T20 Cricket Record",
-      "whyItMatters": "Milestone achievement highlights the rapid global growth and rising prominence of women's cricket.",
-      "brief": "Indian cricketer Smriti Mandhana scored an impressive 124 runs against Hong Kong, becoming the first Indian woman to achieve this milestone in T20 internationals.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/i-didnt-know-all-of-this-happened-smriti-mandhana-reacts-after-rewriting-womens-cricket-history/articleshow/133749094.cms",
-      "dateLocation": "04 Sep 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Yuvraj Singh Shares Birthday Wish for Abhishek Sharma",
+      "whyItMatters": "Captures major sports entertainment culture and mentorship highlights within domestic cricket communities.",
+      "brief": "Former Indian cricketer Yuvraj Singh posted a light-hearted celebratory video message for Abhishek Sharma's 26th birthday.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pehli-ball-te-lappa-nahi-maaranga-yuvraj-singhs-hilarious-birthday-post-for-abhishek-sharma/articleshow/133757347.cms",
+      "dateLocation": "September 4, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
