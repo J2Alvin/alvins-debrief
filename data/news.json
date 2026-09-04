@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-09-03T20:28:01.782Z",
+  "lastUpdated": "2026-09-04T02:51:17.955Z",
   "ticker": [
-    "India enters A-rated sovereign club after 35 years",
-    "Volkswagen plans 100,000 job cuts by end of decade",
-    "US seeks back payment from Europe for Ukraine aid",
-    "Kenya orders Tata Chemicals to halt domestic operations",
-    "India stalls Alipay+ payments link over security data concerns"
+    "Volkswagen plans 50,000 job cuts",
+    "Adobe names Anil Chakravarthy CEO",
+    "US seeks Ukraine aid back pay",
+    "Kenya orders Tata Chemicals exit",
+    "ISRO successfully launches EOS-05 satellite"
   ],
   "articles": [
     {
-      "headline": "India's Economy Enters A-Rated Club After 35 Years",
-      "whyItMatters": "Sovereign rating upgrade reflects major structural strengthening of India's economy.",
-      "brief": "India has shattered a 35-year barrier to enter the exclusive A-rated sovereign club, backed by robust GDP growth and strong financial metrics.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/indias-economy-shatters-a-35-year-barrier-to-enter-a-rated-club-india-sovereign-rating-a-by-jcra-sp-moodys-gdp-growth/articleshow/133731421.cms",
-      "dateLocation": "September 3, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Volkswagen Approves Massive Turnaround Plan With 100,000 Job Cuts",
-      "whyItMatters": "Signals deep structural crisis and cost pressures facing European automotive giants.",
-      "brief": "Volkswagen board has approved a sweeping turnaround plan aiming to cut up to 100,000 jobs across the group by the end of the decade.",
+      "headline": "Volkswagen Approves Massive Turnaround Plan",
+      "whyItMatters": "Signals deep structural stress within Europe's primary manufacturing sector amid rising costs.",
+      "brief": "Volkswagen has announced plans to cut 50,000 jobs across the group following board approval of a sweeping turnaround strategy aimed at restoring competitiveness.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHJWZnhzWG5faWZEaUhXbDE4aUFUZ3JNWlp0SjB1RzRXS1JZT1hmSy10WDJFbE9kSVhUSE9YVzZ2NkRTY2REMEk3UHFadFp5UUgtVEdMcXowcnlmZGhjNTBVS01DQWJ4UUQ3OHhnakZjdm5IRzBaVlhQMzFaa0lVbW05X0RpRFZuV29SX0MyYVpkZGpCQ3psSlpuc0tLajZJTUIzc1hEdGdWV2swR2pQblJQZHQ2dkVmVkpkZWlFZVM?oc=5",
-      "dateLocation": "September 3, 2026 | Reuters",
+      "dateLocation": "04 Sep 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Stalls Alipay+ Link Over Security Concerns",
-      "whyItMatters": "Highlights continued strict regulatory scrutiny on Chinese digital payment platforms.",
-      "brief": "India has officially stalled the integration of Alipay+ payments due to lingering security and data sovereignty concerns flagged by government sources.",
+      "headline": "Adobe Names Anil Chakravarthy New CEO",
+      "whyItMatters": "Marks a major executive leadership transition at one of the world's leading software giants.",
+      "brief": "Adobe has appointed insider Anil Chakravarthy as its new CEO, while longtime chief Shantanu Narayen transitions into the role of executive chairman.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5",
-      "dateLocation": "September 3, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUlEaHlFc2tjMlhXWlJrN0s1Q1dDMS1IOTJPamxJOW9senpRQWpEZ1ptbmRZLTI0eDdKQUxPbmU4OVQ3SUwwbVFHRHUwY1NNMXpKNlBrYkJaUW5aZjVaVEZnV09LYW9OSVFaQms3WjBheWstQWxQODV3d3BjUW55YVhIZGc?oc=5",
+      "dateLocation": "04 Sep 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Kenya Orders Tata Chemicals to End Local Operations",
-      "whyItMatters": "Direct regulatory actions threaten multinational investments across emerging African markets.",
-      "brief": "Kenyan President William Ruto ordered Tata Chemicals to halt all domestic operations, claiming insufficient local value, with assets slated for transition.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFBlN28wM0xsU1Q0eFI5a2pocjdtUXBzWE5qbURuV0Juem1JTzJqS3NlYWpfMWdNQkgtT1k0dE5ydTU5TDZhay1BSTBqZ0xuOFJLZnZBWWd0cF9BeWhwQVRIbU5kN2hPZXA2X1BTLU5JenRtM202ZEhtb2NuMktGS1l5OXhtR2NRallQam91ZUUxcGV0Q3BzWEJBY1FCdFRMVC1HZ0E1aE1md0VyR1E?oc=5",
-      "dateLocation": "September 3, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US to Seek Back Payment From Europe for Ukraine Aid",
-      "whyItMatters": "Could deeply strain transatlantic diplomatic ties and alter global defense funding commitments.",
-      "brief": "Donald Trump stated that the US will actively seek retrospective financial contributions from European allies to cover previous Ukraine aid.",
+      "headline": "US Demands Europe Repay Ukraine Aid",
+      "whyItMatters": "Could severely strain transatlantic diplomatic relations and shift the financial burden of the ongoing conflict.",
+      "brief": "Donald Trump stated that the United States will seek back payments from European allies for financial and military aid provided to Ukraine.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVJMTlRnNjZsN3VYWVl3N2NQYl9EMjBhcHR6Qzl0WDk4QTBSRnFPZFFBWnFMOW0zRE9uX1BJVmhGbnlPLUZkRG5UOXZ1LWhOdXctWFFGbmF2ZVVMcEZ4SVVtYnoweU0wa3lNMWI2Sm1iME9YcnpOYVlvSmh3OUUzYUZDUUpHN0NFVWNrNXVRVkNiS0E1amRfeXI0SXoxTEw3eWtTTXM2ZTJqMVdnaXVHelNtRQ?oc=5",
-      "dateLocation": "September 3, 2026 | Reuters",
+      "dateLocation": "04 Sep 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Over 1,700 Fall Sick From Indonesia Free School Meals",
-      "whyItMatters": "Raises urgent safety questions surrounding large-scale state nutritional welfare programs.",
-      "brief": "More than 1,700 individuals have fallen ill over three days following incidents linked to Indonesia's nationwide free school meal initiative.",
+      "headline": "Kenya Orders Tata Chemicals to Exit",
+      "whyItMatters": "Highlights growing economic nationalism and diplomatic friction concerning foreign corporate assets in East Africa.",
+      "brief": "Kenyan President William Ruto has ordered Tata Chemicals to cease operations in the country, citing insufficient local value and announcing plans to transfer assets.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFBlN28wM0xsU1Q0eFI5a2pocjdtUXBzWE5qbURuV0Juem1JTzJqS3NlYWpfMWdNQkgtT1k0dE5ydTU5TDZhay1BSTBqZ0xuOFJLZnZBWWd0cF9BeWhwQVRIbU5kN2hPZXA2X1BTLU5JenRtM202ZEhtb2NuMktGS1l5OXhtR2NRallQam91ZUUxcGV0Q3BzWEJBY1FCdFRMVC1HZ0E1aH1md0VyR1E?oc=5",
+      "dateLocation": "04 Sep 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Stalls Alipay+ Over Data Concerns",
+      "whyItMatters": "Deepens technological decoupling between major Asian economies due to strict national security regulations.",
+      "brief": "India has reportedly stalled the implementation of the Alipay+ cross-border payments link, pointing to lingering cybersecurity and sensitive data localization concerns.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnVCOGpCQkJrVXBLSjBiZGtOb0FBR29SRG4xbzR3ckVHNEpBQ0dKTnNZQTY5STNlZ1FuUnRUaXV1X2NzSFNoVG5XRUhLZXB2alZZdjIwQlo5M1R6Um9rMUNBUk12T1NYUml3akk4aWxmSmNiemdXUGFpNzN0cHBmbHdNWjJZZGowLTBnb2FDZm9EWi15cDVCWFd5VGZKWkpwUDVuT1ZDcUVvTUtYcHB4MkdaY2s0aHBVZUZPczZR?oc=5",
+      "dateLocation": "04 Sep 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Bernie Sanders Proposes AI Jail Terms",
+      "whyItMatters": "Represents one of the most aggressive legislative pushbacks against unchecked artificial intelligence development globally.",
+      "brief": "US Senator Bernie Sanders introduced a bill seeking up to 20-year prison sentences for tech executives developing AI surpassing human intelligence.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLWt1ZVJNUDFJdDVaeVlobHEzRkFhNThTa1dhajN4SUlCZUg2dVBWZVVFY1J2QXd1Z0ZEamRoZEdHckpTNnplZHVsV0VLTElZQkJoaTVPZUNqbTdBQk53cWgxNlZoVHlXSmJDdDE3aFh6eG85QjgtUzlLRUJhOFhMQUhHcHA4dzZFbXd1SzlUYXNHWW1GRm1OQUZOZXNObzBnRHJMQkh3amt3MjhnQVRKVkRpOUZMZVdxR0MzanYtdzRQRVNJRHA2alNzRUxOMGpZZmthY1pGQlU4UVN1?oc=5",
-      "dateLocation": "September 3, 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/bernie-sanders-introduces-a-bill-in-senate-that-may-land-sam-altman-dario-amodei-and-other-top-tech-executives-in-jail-for-as-much-as-20-years/articleshow/133749410.cms",
+      "dateLocation": "04 Sep 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BCCI Outlines Long-Term Development Plan for Sooryavanshi",
-      "whyItMatters": "Sets a strategic blueprint for nurturing young sporting talent sustainably in professional cricket.",
-      "brief": "The BCCI has instituted a structured mentorship and development framework for 15-year-old cricketing prodigy Vaibhav Sooryavanshi to secure his international career.",
+      "headline": "ISRO Places EOS-05 Satellite Into Orbit",
+      "whyItMatters": "Bolsters India's remote sensing capabilities and strategic space-based Earth observation infrastructure.",
+      "brief": "The Indian Space Research Organisation successfully launched and deployed the EOS-05 imaging satellite into its designated geosynchronous orbit using the GSLV-F17 rocket.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/bccis-big-plan-for-vaibhav-sooryavanshi-serve-like-sachin-not-be-a-one-year-wonder/articleshow/133741692.cms",
-      "dateLocation": "September 3, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/isros-gslv-f17-successfully-places-eos-05-earth-observation-satellite-in-geosynchronous-orbit/articleshow/133746002.cms",
+      "dateLocation": "04 Sep 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government to Allow Retrofit Devices for Polluting Trucks",
-      "whyItMatters": "Provides a cost-effective compliance pathway for upgrading older commercial transport fleets.",
-      "brief": "The government is set to permit approved retrofit devices, enabling older heavy diesel trucks and buses to meet strict BS-VI emission norms.",
+      "headline": "Smriti Mandhana Breaks T20 Cricket Record",
+      "whyItMatters": "Milestone achievement highlights the rapid global growth and rising prominence of women's cricket.",
+      "brief": "Indian cricketer Smriti Mandhana scored an impressive 124 runs against Hong Kong, becoming the first Indian woman to achieve this milestone in T20 internationals.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-to-allow-retrofit-devices-for-polluting-trucks-buses/articleshow/133745752.cms",
-      "dateLocation": "September 3, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/i-didnt-know-all-of-this-happened-smriti-mandhana-reacts-after-rewriting-womens-cricket-history/articleshow/133749094.cms",
+      "dateLocation": "04 Sep 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
