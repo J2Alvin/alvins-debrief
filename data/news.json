@@ -1,155 +1,137 @@
 {
-  "lastUpdated": "2026-09-04T10:35:51.513Z",
+  "lastUpdated": "2026-09-04T20:14:32.675Z",
   "ticker": [
-    "India enters A-rated sovereign club after 35 years",
-    "Nepal flood losses reach $2.56 billion",
-    "Citi eyes China brokerage license this month",
-    "Sri Lanka arrests former president's son over Airbus deal",
-    "El Nino to persist through February 2027"
+    "NSE clears Rs 30K crore IPO",
+    "US adds 162k jobs in August",
+    "India forex reserves hit record",
+    "US probes Tesla Cybercab safety",
+    "World food prices hit high"
   ],
   "articles": [
     {
-      "headline": "India's Economy Enters A-Rated Sovereign Club After 35 Years",
-      "whyItMatters": "Marks a historic milestone for India's macroeconomic stability and global financial standing.",
-      "brief": "India's economy has shattered a 35-year barrier to enter the exclusive A-rated sovereign club following positive credit evaluations.",
+      "headline": "India Forex Reserves Hit Record High",
+      "whyItMatters": "Demonstrates strong macroeconomic resilience amidst ongoing global market uncertainties.",
+      "brief": "India's foreign exchange reserves reached a fresh record high driven by strong dollar deposits, providing a solid cushion against external shocks.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/indias-economy-shatters-a-35-year-barrier-to-enter-a-rated-club-india-sovereign-rating-a-by-jcra-sp-moodys-gdp-growth/articleshow/133731421.cms",
-      "dateLocation": "September 4, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3VBUFZ5YXQ5YV9zTnNwblR3V1JxbUlMVjM5Q3pNQi1TdmRhdFFtalYxVTNfMHk4N0ZEcWNTU0U4bzExYm1iRmQ1TG5IVkNlY3lBZV9ESDJwa1NmNUtydmtoRVZ0ajNoM2RqZW9vaEF2blpfbGRIWWFuWVZRclF6MkdjYUo3bmNXcXFURDY4VWdQNTlTZ1lJRmdac3hkSmVXRHJialdGVHdwQ0hSX3BQV002dUdyQ294X0tlVFQ4ZUR6QQ?oc=5",
+      "dateLocation": "Aug 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nepal Flood Losses Estimated at $2.56 Billion",
-      "whyItMatters": "Highlights the massive infrastructure devastation and economic toll faced by the Himalayan nation.",
-      "brief": "Official estimates put Nepal's total flood and flash flood losses at $2.56 billion as rescue operations continue across affected districts.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUcyUXd3QXE1LVhRMVN5ODFmbG9FSXBBRFN5cjR2bEdRRXlFeEJwcVdfWEd1OHpla0NHSHhxZVRVY1pnZEFwcGF6QzFGQnZNbzgtbGtEZml2ZUxVM0ZNek4xVEtna21weVVLWVVsRy16X0lzaVA1QXdUVUF4M3djeUl2R2RvaVRrZ19OOEd4eVd1TXJTdjg2ZjhSSVBxMUZQSWNoTHFra2l1b3dIWFFqUQ?oc=5",
-      "dateLocation": "September 4, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sri Lanka Arrests Former President's Son Over Airbus Deal",
-      "whyItMatters": "Signals renewed anti-corruption crackdowns on high-profile political figures linked to international procurement scandals.",
-      "brief": "Sri Lankan authorities arrested the former president's son over an Airbus deal probe centered on alleged kickbacks to senior officials.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/sri-lanka-arrests-former-president-rajapaksas-son-over-airbus-deal/article71427828.ece",
-      "dateLocation": "September 4, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Citi Eyes China Brokerage Unit Licence This Month",
-      "whyItMatters": "Demonstrates continued foreign financial institution expansion and commitment to the Chinese domestic market.",
-      "brief": "Sources report that Citigroup is targeting a mainland China brokerage unit licence as soon as this month.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDBoUUlZZmVDRDRNWmlMMnNzNHRqYnZ2QjlVdFpmUGh6b3Bqem5CU0Fsck8td01XVHhoSGdHTnJKZlJleGdYbHNNLUV3VWxxSkhibU1uZGE3cWs0MnFRZWRhZ241NGpwNVItaUlRVzZYakZIQ2oxYjljUTVPSHlfSjFBcERHd3BUVHJVYVhZZGMybEdlb2hiM1dFZS1DMWdjczVjS2dUc2lJWmZxV0oxalhQOG5JaVVpU01j?oc=5",
-      "dateLocation": "September 4, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nigeria's Dangote Refinery IPO to Open Within Days",
-      "whyItMatters": "Unlocks substantial private equity capital and shifts African energy market dynamics significantly.",
-      "brief": "Industrialist Aliko Dangote announced that the much-anticipated public offering for the massive refinery will open within days.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVVOaTVGQ1dUUVpfcFBwSGQ5WTRNMEQwTmtFejg1RHh4Uk9vRFA5UVNzYXc1blJsZ29DQXJBZ2Z6WGZpRHhteWhOU2haVkQxWXN6bjlJdXFaSnpkb2Y2SXQ5TnNhaWhUbXBwQVE5cm9QMlE3Z3Z5Y183dENkZjBzLTItdjNUYWFOVjV1Q2kzWDVFOUpLblhwMnk5U0V4WHZBUVhyTkt3?oc=5",
-      "dateLocation": "September 4, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "El Nino to Persist Through February 2027",
-      "whyItMatters": "Warns of impending disruptions to global agricultural yields, monsoon patterns, and commodity prices.",
-      "brief": "Meteorological agencies confirm that El Nino conditions will persist through February 2027, impacting rainfall and economies globally.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/el-nino-to-persist-through-february-2027-what-it-means-for-india-rainfall-indian-economy-monsoon-world-meteorological-organization/articleshow/133759194.cms",
-      "dateLocation": "September 4, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Microsoft AI CEO Warns of Advanced Autonomous Model Risks",
-      "whyItMatters": "Highlights growing industry concerns regarding the safety and unpredictable autonomy of large-scale models.",
-      "brief": "Microsoft AI CEO Mustafa Suleyman cautioned against the autonomous hacking risks posed by advanced AI systems.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-has-a-warning-on-ai-company-hacking-that-nvidia-just-spent-13-billion-on-says-imagine-the-hugging-face-incident-with-/articleshow/133756416.cms",
-      "dateLocation": "September 4, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Air India Pilot Tests Positive for Psychoactive Drugs",
-      "whyItMatters": "Raises critical aviation safety compliance questions following a severe turbulence and technical incident.",
-      "brief": "The AAIB preliminary report confirmed a pilot involved in a turbulence-hit flight tested positive for psychoactive substances.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/aaib-releases-prelim-report-on-phuket-delhi-air-india-flight-case-says-pilot-did-use-drugs-asks-dgca-to-take-action-11788504202965.html",
-      "dateLocation": "September 4, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Two Workers Rescued Alive From Nepal Tunnel After Nine Days",
-      "whyItMatters": "Provides a remarkable tale of survival amid widespread devastation caused by extreme weather events.",
-      "brief": "Rescue teams successfully pulled two workers alive from a Nepal hydropower tunnel nine days after a disastrous flash flood.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclRkbXhxWG9zTGx0YzkzcDJ3RDZYV254czR6eUZIRWtpNHlhOEtscDNYWWZIOXlHTlFLOTVnY0toTEhKTWduQlMxdXRvV1V3RWRHY3pXd1RhTTVpejRWR3pUbE8ydDYxVko2aHJ1THdfQlF0Skl1NUJuZDdicXAxbWJLY25pUUI1My1faV9xSG9qTzJORUtLZFBLWQ?oc=5",
-      "dateLocation": "September 4, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "HarperCollins India to Publish Sonia Gandhi's Memoir 'Belonging'",
-      "whyItMatters": "Resolves a high-profile publishing dispute over one of the most anticipated political manuscripts.",
-      "brief": "Following Penguin's withdrawal, HarperCollins India announced it will publish Sonia Gandhi's memoir titled 'Belonging'.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/harpercollins-india-to-publish-sonia-gandhi-s-memoir-after-row-with-penguin-11788505148077.html",
-      "dateLocation": "September 4, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Adam Telle Appointed Acting US Army Secretary",
-      "whyItMatters": "Shuffles military leadership at the top civilian tier amid ongoing defense policy shifts.",
-      "brief": "Donald Trump appointed Adam R. Telle as acting US Army Secretary following the sudden resignation of Dan Driscoll.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/who-is-adam-telle-donald-trump-appoints-new-acting-secretary-of-us-army-after-dan-driscolls-resignation-11788503672778.html",
-      "dateLocation": "September 4, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Emergency Broadcast Systems Resumed, Says C-DOT CEO",
-      "whyItMatters": "Strengthens national disaster response infrastructure and public emergency communication capabilities.",
-      "brief": "C-DOT announced the successful resumption of emergency cell broadcast messages, highlighting domestic software capabilities.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/emergency-broadcast-messages-resumed-c-dot-ceo-says/article71427467.ece",
-      "dateLocation": "September 4, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UAE Airports Face Major Flight Disruptions Amid Security Tensions",
-      "whyItMatters": "Impacts major international transit corridors due to escalating geopolitical security concerns.",
-      "brief": "Dubai and Abu Dhabi international airports experienced widespread cancellations and delays driven by renewed regional conflicts.",
+      "headline": "NSE Eyes September IPO After Approval",
+      "whyItMatters": "Marks a milestone public offering for one of the world's largest derivatives exchanges.",
+      "brief": "The National Stock Exchange of India is eyeing a September listing after receiving regulatory clearance for its massive public offer.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/world/uae-airports-see-flight-cancellation-delays-list-of-dubai-and-abu-dhabi-arrivals-departures-running-late-11788503155282.html",
-      "dateLocation": "September 4, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1MxaThhcGFxb1ZXZ1phbzBtcEloVzJDUW1UOXdRXzJSY3VrMktsb0VQalVEMFlFQVU0eV9zQ0hHclIzTHBFaWo3cTFaaWwwdEczcl91R0VhX2p6T0M4OWtyTTREMjVhbkxFSzFKZHBERWpFOFRCTjVsS211TXBKdzY2OUVpOHE4bmtpUWpvRkgwcVo3NURTeXJEbVVUOWFWUVE?oc=5",
+      "dateLocation": "Aug 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "National Child Rights Commission Rescues Over 3,800 Children",
-      "whyItMatters": "Drives systematic enforcement against illegal labor networks through coordinated pan-India operations.",
-      "brief": "A special pan-India rescue campaign led to the retrieval of over 3,800 child laborers and the filing of multiple FIRs.",
+      "headline": "US Economy Adds 162,000 Jobs in August",
+      "whyItMatters": "Eases recession fears and influences upcoming Federal Reserve monetary policy decisions.",
+      "brief": "The US labor market demonstrated solid growth by adding 162,000 jobs in August while unemployment held steady at 4.1%.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUNQZU5RWWN5TXNDaU9CQkIyc1NPTE95RzBLc0lSMGQyRGRnT19DVldpRXF2TEVzYXdKUzRjR1RyNC1KZ3Rka2Z2ZS1HZUhyUkFYLTBYWE1JRXhXSDJBYWV5Tmpkc3psRy1TWHNlZUN1T1hrZnE5TVpkVTlObkdrZWRVSnA5MU41cWVhSEZSNVU2TlBjdG5SbDBSb3BTYTE3SmNGZU5wR3dDVlVDRXFMZkN0SllDUWVh?oc=5",
+      "dateLocation": "Aug 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "World Food Prices Reach Highest Since 2022",
+      "whyItMatters": "Signals mounting global supply risks and potential inflationary pressures on food commodities.",
+      "brief": "Global food prices climbed to their highest levels since 2022 as agricultural supply risks mounted across several key regions.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWg1YTJhUEh0WXJNUk11cTZYSDhIcHBqTFIxX0E3NU4xdmd2YTJUaFJUb0hKa0hZOFo1SVJXM3padGM0a0ljeGJrZ2VoNXFaQmhrbGMzMmo1dEJPbFl0enJPa0JCelVlWmZiWXppMzl2b3k0NjJRVVJZX2haU25RWWYyWjhZOFJDSGJKVDFiOGpwdHE1U1Y5Vzg2V1AwNmw0b0dLazRRUnp5aU1TczMybW5Pcw?oc=5",
+      "dateLocation": "Aug 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Probes Tesla Cybercab Self-Certification",
+      "whyItMatters": "Highlights intense regulatory scrutiny facing autonomous vehicle safety standards and deployment.",
+      "brief": "US federal regulators have opened an investigation into Tesla's self-certification process for its Cybercab robotaxi fleet.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5",
+      "dateLocation": "Aug 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Builds Massive AI Hub in Inner Mongolia",
+      "whyItMatters": "Expands critical computing infrastructure to meet surging national demands for artificial intelligence.",
+      "brief": "China is establishing a massive AI computing powerhouse in Ulanqab, taking advantage of abundant renewable energy and favorable climate.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/from-grasslands-to-gpus-why-china-is-building-its-ai-powerhouse-in-mongolia-explained-in-5-charts/articleshow/133756664.cms",
+      "dateLocation": "Aug 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Blacklists Turkish Bank Over Iran Ties",
+      "whyItMatters": "Intensifies economic sanctions targeting illicit financial networks moving oil revenues.",
+      "brief": "Washington has sanctioned Golden Global Bank and subsidiaries, accusing them of helping Iran route oil revenues and bypass restrictions.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-blacklists-turkish-bank-and-two-subsidiaries-over-alleged-iran-financial-links-11788546924844.html",
+      "dateLocation": "Aug 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Engages Moscow and Kyiv to End War",
+      "whyItMatters": "Reflects active diplomatic positioning and pragmatic energy sourcing during geopolitical conflict.",
+      "brief": "External Affairs Minister stated that India continues working alongside both Moscow and Kyiv to help broker an end to the conflict.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-working-with-moscow-kyiv-to-end-war-eam/articleshow/133776510.cms",
+      "dateLocation": "Aug 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UNEP Report Urges Climate Overshoot Action",
+      "whyItMatters": "Calls for strategic policy pivots and urges developing nations to take proactive climate leadership.",
+      "brief": "A recent UNEP report highlights the severe risks of climate overshoot, emphasizing that emerging economies must enhance mitigation strategies.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/opinion/editorial/warning-on-warming-on-the-unep-report-limiting-overshoot/article71428123.ece",
+      "dateLocation": "Aug 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal Flood Crisis Leaves Thousands Missing",
+      "whyItMatters": "Highlights severe regional humanitarian impacts and ongoing disaster response challenges.",
+      "brief": "Devastating flash floods in Nepal have left thousands missing while multinational rescue teams continue relief operations across the area.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/india/nepal-floods-update-275-indians-still-missing-169-rescued-govt-says-no-travellers-stranded-in-tibet-11788541989471.html",
+      "dateLocation": "Aug 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New Perimenopausal Health Policy Proposed",
+      "whyItMatters": "Improves healthcare access and long-overdue clinical support structures for women in midlife.",
+      "brief": "A progressive health initiative seeks to establish dedicated perimenopausal policies to ease medical access and care for women.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/national-child-rights-commission-rescues-over-3800-children-from-child-labour/article71427770.ece",
-      "dateLocation": "September 4, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/opinion/editorial/out-of-neglect-bin-on-perimenopausal-policy/article71428165.ece",
+      "dateLocation": "Aug 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Cricket Board Under Fire After Coaching Changes",
-      "whyItMatters": "Underscores administrative instability and frequent personnel overhauls plaguing international cricket squads.",
-      "brief": "Former coach Jason Gillespie slammed Pakistan cricket administration after sweeping coaching and player changes following Test defeats.",
+      "headline": "Thane Hospital Canteen Closed After Cockroach Incident",
+      "whyItMatters": "Spotlights critical hygiene failures and enforcement of food safety standards in public facilities.",
+      "brief": "Food authorities shut down a government hospital canteen in Maharashtra following patient complaints regarding severe hygiene lapses.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/cockroach-found-in-patients-meal-fda-shuts-canteen-at-thane-govt-hospital-in-maharashtra-11788539313153.html",
+      "dateLocation": "Aug 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Srikkanth Criticizes India's Afghan Series Squad",
+      "whyItMatters": "Sparks intense debate regarding selection policy and the integration of younger cricket talent.",
+      "brief": "Former cricketer Kris Srikkanth criticized India's cautious squad selection for the upcoming series, arguing selectors missed youth testing opportunities.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/they-change-their-mind-like-pants-former-pakistan-coach-tears-into-chief-selector-aaqib-javed-over-england-chaos/articleshow/133758734.cms",
-      "dateLocation": "September 4, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/this-is-a-mistake-srikkanth-slams-indias-fear-driven-squad-for-afghanistan-series/articleshow/133771010.cms",
+      "dateLocation": "Aug 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Yuvraj Singh Shares Birthday Wish for Abhishek Sharma",
-      "whyItMatters": "Captures major sports entertainment culture and mentorship highlights within domestic cricket communities.",
-      "brief": "Former Indian cricketer Yuvraj Singh posted a light-hearted celebratory video message for Abhishek Sharma's 26th birthday.",
+      "headline": "The Enduring Commercial Power of Lionel Messi",
+      "whyItMatters": "Illustrates how modern athletic personal brands sustain massive commercial ecosystems post-retirement.",
+      "brief": "Analysts explore how the global commercial brand of Lionel Messi will continue driving massive economic value well beyond his playing career.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pehli-ball-te-lappa-nahi-maaranga-yuvraj-singhs-hilarious-birthday-post-for-abhishek-sharma/articleshow/133757347.cms",
-      "dateLocation": "September 4, 2026 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/football/lionel-messi-the-enduring-commercial-powerhouse-in-sports-marketing-cristiano-ronaldo-retirement-brands-the-messi-economy-life-after-argentina-is-still-big-money-for-the-little-magician/articleshow/133756227.cms",
+      "dateLocation": "Aug 2026 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
