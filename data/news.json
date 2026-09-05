@@ -1,147 +1,102 @@
 {
-  "lastUpdated": "2026-09-05T09:55:29.483Z",
+  "lastUpdated": "2026-03-31T00:00:00.000Z",
   "ticker": [
-    "US Attack Hits Near Kharg Island",
-    "Nepal Tunnel Rescues Save Trapped Workers",
-    "Delhi NCR Battered By Heavy Rains",
-    "UN Warns of 1.5C Warming Breach",
-    "AstraZeneca Gains FDA Breast Cancer Approval"
+    "US Envoys Arrive in Moscow for Ukraine Peace Talks",
+    "Putin Orders 72-Hour Pause in Kyiv Airstrikes",
+    "Iran Claims US Attack on Tanker Near Kharg Island",
+    "World Food Prices Hit Highest Level Since 2022",
+    "Nigeria SEC Approves $1.6B Dangote Refinery IPO"
   ],
   "articles": [
     {
-      "headline": "Iranian Tanker Hit in Alleged US Attack Near Kharg Island",
-      "whyItMatters": "Escalates Middle East tensions and threatens critical global oil supply routes.",
-      "brief": "Iranian media reports an oil tanker was targeted by a US attack near Kharg Island, though initial checks show no visible smoke.",
+      "headline": "US Envoys Arrive in Moscow for Peace Talks",
+      "whyItMatters": "Diplomatic efforts escalate as high-level US envoys push for a resolution to the ongoing Ukraine conflict.",
+      "brief": "US special representatives Steve Witkoff and Jared Kushner have arrived in Moscow to hold crucial peace talks aimed at ending the war in Ukraine.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5",
+      "dateLocation": "Today | Moscow/Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Putin Orders 72-Hour Pause in Kyiv Strikes",
+      "whyItMatters": "The temporary ceasefire coincides with high-stakes international diplomatic missions visiting the region.",
+      "brief": "Russian President Vladimir Putin has ordered a 72-hour pause in airstrikes on Kyiv as US envoys arrive in Russia to advance peace negotiations.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/vladimir-putin-orders-72-hour-pause-in-kyiv-strikes-as-us-envoys-push-for-peace-talks-11788611019384.html",
+      "dateLocation": "Today | Moscow",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Reports US Attack on Tanker",
+      "whyItMatters": "Escalating maritime tensions in the Middle East threaten global shipping lanes and regional stability.",
+      "brief": "Iranian state media reports that an Iranian tanker was targeted by a US attack near Iran's Kharg Island, raising tensions.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
-      "dateLocation": "2026-09-05 | Reuters",
+      "dateLocation": "Today | Tehran",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bolivia Military Base Explosion Kills Two With Missing Workers",
-      "whyItMatters": "Highlights critical safety failures and personnel risks within military installations.",
-      "brief": "An explosion at a military base in Bolivia leaves at least two dead and fourteen missing, prompting an active ministry investigation.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRklsd3Jrb19ZM2FUSmYyUW9kVUhwSEUyelBoak82R25hNi14SXF0OUUzdV95d0c1eF9hTTZBTnpnVlcyV0M3ZXFJWGhTUS1JbTZvR3FkU3lnWUdoRXRtcklybDlBclJDZ254WEpSc0FqZURXaFZ3SUtVdlplWmZCOWFRbDR1cG9zNUx2OUdhUVpHN293VWV4bEMwWS1kb25yQ2g1dlNzaThXUk1aM3B4Vg?oc=5",
-      "dateLocation": "2026-09-05 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nigeria Approves $1.6B Dangote Refinery IPO",
+      "whyItMatters": "A landmark public offering for Africa's largest refinery could significantly reshape energy markets on the continent.",
+      "brief": "Nigeria's Securities and Exchange Commission has officially approved an approximate $1.6 billion initial public offering for the massive Dangote Refinery.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5",
+      "dateLocation": "Today | Lagos",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Opens Probe into Tesla Cybercab Robotaxi Self-Certification",
-      "whyItMatters": "Sets a vital regulatory precedent for autonomous vehicle deployment and safety compliance.",
-      "brief": "Federal regulators have initiated an official investigation into Tesla's self-certification process for its upcoming Cybercab robotaxi fleet.",
+      "headline": "World Food Prices Peak to Highest Since 2022",
+      "whyItMatters": "Mounting global supply risks threaten food security and economic stability worldwide.",
+      "brief": "The UN Food and Agriculture Organization reports that global food prices have surged to their highest levels since 2022 due to growing supply pressures.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWg1YTJhUEh0WXJNUk11cTZYSDhIcHBqTFIxX0E3NU4xdmd2YTJUaFJUb0hKa0hZOFo1SVJXM3padGM0a0ljeGJrZ2VoNXFaQmhrbGMzMmo1dEJPbFl0enJPa0JCelVlWmZiWXppMzl2b3k0NjJRVVJZX2haU25RWWYyWjhZOFJDSGJKVDFiOGpwdHE1U1Y5Vzg2V1AwNmw0b0dLazRRUnp5aU1TczMybW5Pcw?oc=5",
+      "dateLocation": "Today | Rome",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Opens Probe Into Tesla Cybercab Self-Certification",
+      "whyItMatters": "Regulatory scrutiny over autonomous vehicle safety and compliance standards continues to intensify.",
+      "brief": "US regulators have opened an official investigation into Tesla's self-certification procedures regarding its Cybercab autonomous robotaxi fleet.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5",
-      "dateLocation": "2026-09-05 | Reuters",
+      "dateLocation": "Today | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI CEO Apologizes After Messy GPT-6 Astra Rollout",
-      "whyItMatters": "Exposes infrastructure scaling pressures and customer trust challenges in generative AI giants.",
-      "brief": "Sam Altman issued a public apology after a flawed GPT-6 Astra rollout accidentally locked out paying subscribers while prioritizing enterprise clients.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-says-sorry-after-openais-messy-gpt-6-astra-rollout-locks-out-paying-users-but-apology-misses-out-on-this-one-promise/articleshow/133762207.cms",
-      "dateLocation": "2026-09-05 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nigeria Secures SEC Approval for $1.6bn Dangote Refinery IPO",
-      "whyItMatters": "Represents a monumental financial milestone for African capital markets and energy independence.",
-      "brief": "Nigeria's Securities and Exchange Commission has officially cleared the massive $1.6 billion public offering for the Dangote Refinery.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5",
-      "dateLocation": "2026-09-05 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's NSE Eyes September Listing Following Regulatory Clearance",
-      "whyItMatters": "Unlocks unprecedented liquidity and investment opportunities in one of the world's fastest-growing exchanges.",
-      "brief": "Following final regulatory greenlights, the National Stock Exchange of India is targeting a historic multi-week listing window in September.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1MxaThhcGFxb1ZXZ1phbzBtcEloVzJDUW1UOXdRXzJSY3VrMktsb0VQalVEMFlFQVU0eV9zQ0hHclIzTHBFaWo3cTFaaWwwdEczcl91R0VhX2p6T0M4OWtyTTREMjVhbkxFSzFKZHBERWpFOFRCTjVsS211TXBKdzY2OUVpOHE4bmtpUWpvRkgwcVo3NURTeXJEbVVUOWFWUVE?oc=5",
-      "dateLocation": "2026-09-05 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Novartis and Ionis Experimental Heart Drug Misses Trial Goal",
-      "whyItMatters": "Shifts cardiovascular therapeutic pipelines and dampens market expectations for novel RNA treatments.",
-      "brief": "A closely watched clinical trial revealed that Novartis and Ionis's experimental heart medication failed to achieve its primary objective.",
+      "headline": "Novartis and Ionis Heart Drug Misses Key Goal",
+      "whyItMatters": "A major setback for cardiovascular therapeutics in late-stage clinical trials handled by pharmaceutical giants.",
+      "brief": "An experimental heart drug jointly developed by Novartis and Ionis Pharmaceuticals has failed to meet its primary objective in a prominent trial.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUxoV0pmRFpRcnNRQm1TU1N0YXF1RDE2RXp1RWE2NXF6UGJqU1hRYzFLMlhPRi1FZVotdTJjU0xsMVpoMnU2ZXM5UVlQbmFfYy16NGswZzJJUjNjUEJ3MVlfaUVFUU03OVpCblBmVUpEeUhFQkdWUnhjTWI5alBpa0c0cXRVQjE1QjFTQWZDTzh4cW11TEhURC12N0M5VU5pRWNyTUZYY3pxV3lqOG1jY2d5UEYycTlKLXJ6dWRodUttQWZVY194elJkNGJMNGpjem1v?oc=5",
-      "dateLocation": "2026-09-05 | Reuters",
+      "dateLocation": "Today | Basel/New York",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US FDA Approves AstraZeneca's New Breast Cancer Pill Etcamah",
-      "whyItMatters": "Expands targeted therapeutic options for patients battling genetically driven metastatic forms of the disease.",
-      "brief": "The US FDA has cleared AstraZeneca's camizestrant—marketed as Etcamah—for specific high-risk, genetically driven metastatic breast cancer cases.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-fda-approves-astrazeneca-s-new-breast-cancer-pill-etcamah-dosage-high-risk-and-side-effects-all-you-need-to-know-11788585060737.html",
-      "dateLocation": "2026-09-05 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "TCS Subsidiary Invests ₹70,000 Cr in Hyderabad AI Hub",
+      "whyItMatters": "Massive capital injection signals India's growing footprint as a global center for artificial intelligence infrastructure.",
+      "brief": "TCS subsidiary HyperVault has announced a massive ₹70,000 crore investment to construct an advanced AI data center hub in Hyderabad.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/information-tech/tcs-subsidiary-hypervault-to-invest-rs-70000-cr-to-develop-hyderabad-ai-data-centre/articleshow/133797995.cms",
+      "dateLocation": "Today | Hyderabad",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UN Report Warns 1.5C Warming Breach Causes Irreversible Loss",
-      "whyItMatters": "Emphasizes the critical urgency for nations to accelerate global carbon and methane reduction pledges.",
-      "brief": "A sobering UN Environment Programme report indicates that crossing the 1.5C threshold will trigger permanent ecological and environmental damage.",
+      "headline": "Gold Prices Slide Following Strong US Payrolls Data",
+      "whyItMatters": "Robust economic indicators shift monetary policy expectations and spark strong market reactions for precious metals.",
+      "brief": "Gold prices experienced a notable slide after better-than-expected US employment figures boosted expectations of continued interest rate hikes.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0hqb2VPQUFuRk45bGpFaXNxaHc4NTVtSTJhcVJWdDNRSjEzbTRXWkhVOHRMVDNBdFNTajFBWTI0Z2RBX09VdTBjbmp4aS1zQkhHaWJWVjFYZmU2Q0J4MnZ2SU1rWXJzSy1ZeFBkTjZPWEY1RTVGREhfbGpVbXV5TFRnNTNBYmhubXZjQzRoY1IyM2RWT29XMw?oc=5",
+      "dateLocation": "Today | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Bolivia Military Base Explosion Kills at Least 2",
+      "whyItMatters": "Tragic industrial accident prompts immediate government response and search operations for numerous missing personnel.",
+      "brief": "An explosion at a military base in Bolivia has resulted in at least two deaths and left fourteen others missing, authorities confirm.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/videos/un-report-warns-15c-warming-breach-could-cause-irreversible-losses-the-hindu-editorial/article71431578.ece",
-      "dateLocation": "2026-09-05 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRklsd3Jrb19ZM2FUSmYyUW9kVUhwSEUyelBoak82R25hNi14SXF0OUUzdV95d0c1eF9hTTZBTnpnVlcyV0M3ZXFJWGhTUS1JbTZvR3FkU3lnWUdoRXRtcklybDlBclJDZ254WEpSc0FqZURXaFZ3SUtVdlplWmZCOWFRbDR1cG9zNUx2OUdhUVpHN293VWV4bEMwWS1kb25yQ2g1dlNzaThXUk1aM3B4Vg?oc=5",
+      "dateLocation": "Today | La Paz",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China's Xi Seeks Large CEO Delegation for Upcoming US Visit",
-      "whyItMatters": "Signals a diplomatic push to stabilize bilateral commercial ties and foster deeper trade engagement.",
-      "brief": "President Xi Jinping is reportedly planning to bring an extensive contingent of top corporate executives during an upcoming US trip.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFEycUQtWHlNWVlNdHl2S2JKX2pmMDRUYmp5V1dVN2xnWkdnOVQ2QW1VM2ZRSEdCdElaRTQ1cGlGMDkxV25PYWRfVEJJWllCRjBIVzYwZ1JjMGotd2t0YzRQQ1huRG9CNnpraXVsakw1clltekpVU1czZm9VQUhVQ3R3N2NSdEc1LTJqYWlsa3p2UGh3dWZHU0F0ekNCbEdQTUhUdGc4dVplVG5YYUxKV0xoQU9UdU9GUEZOS0dJTFZKUzg1RHRR?oc=5",
-      "dateLocation": "2026-09-05 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India-US Trade Deal Nears Finalization Following Envoy Hints",
-      "whyItMatters": "Could dramatically reduce tariffs and deepen strategic economic alignment between the two democracies.",
-      "brief": "US Ambassador Sergio Gor indicated that bilateral trade negotiations are being recalibrated to rapidly finalize a major pact.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/indiaus-trade-deal-to-be-finalised-in-next-few-months-trump-s-priority-at-g20-and-a-hint-from-us-envoy-sergio-gor-11788580296390.html",
-      "dateLocation": "2026-09-05 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Households Shift Spending Focus Toward Discretionary Goods",
-      "whyItMatters": "Reflects evolving domestic consumption patterns and rising consumer confidence within urban markets.",
-      "brief": "Recent economic indicators show that Indian households are increasingly allocating a larger share of disposable income to discretionary items.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indian-households-shift-spending-towards-discretionary-goods-services/articleshow/133794791.cms",
-      "dateLocation": "2026-09-05 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Automotive Electronics Projected to Make Up Half of Car Costs",
-      "whyItMatters": "Signals a massive paradigm shift in automobile manufacturing and localized supply chains by 2030.",
-      "brief": "A new industry report forecasts that electronic components will account for up to 55 percent of vehicle costs by the end of the decade.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/electronics-to-make-up-50-55-of-car-cost-by-2030-signalling-major-localisation-opportunity-bcg-acma/articleshow/133792982.cms",
-      "dateLocation": "2026-09-05 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Smriti Mandhana Breaks Record With 18th Century in Asia Cup",
-      "whyItMatters": "Cements her legacy as one of the most prolific and dominant batters in international cricket history.",
-      "brief": "Indian opener Smriti Mandhana surpassed past milestones by scoring a record-breaking century against Hong Kong in the Asia Cup.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/data/tracing-smriti-mandhanas-journey-to-the-top-with-a-record-18-centuries/article71431459.ece",
-      "dateLocation": "2026-09-05 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Cricket Board Restructures Selection Panel in Major Shakeup",
-      "whyItMatters": "Intensifies administrative instability and strategy debates within the national cricket setup.",
-      "brief": "The PCB moves to remove its chief selector as part of a sweeping clean-up exercise following recent team management controversies.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/more-drama-in-pakistan-cricket-mohsin-naqvis-pcb-likely-to-remove-chief-selector-aaqib-javed-in-clean-up-exercise/articleshow/133788251.cms",
-      "dateLocation": "2026-09-05 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
