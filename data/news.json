@@ -1,102 +1,120 @@
 {
-  "lastUpdated": "2026-03-31T00:00:00.000Z",
+  "lastUpdated": "2026-09-05T19:53:56.432Z",
   "ticker": [
-    "US Envoys Arrive in Moscow for Ukraine Peace Talks",
-    "Putin Orders 72-Hour Pause in Kyiv Airstrikes",
-    "Iran Claims US Attack on Tanker Near Kharg Island",
-    "World Food Prices Hit Highest Level Since 2022",
-    "Nigeria SEC Approves $1.6B Dangote Refinery IPO"
+    "US Envoys Meet Putin in Moscow",
+    "US Military Strikes Iranian Tankers",
+    "TCS Invests $7.4B in AI Campus",
+    "India Crushes Pakistan in Asia Cup",
+    "Pentagon Imposes Polygraphs Over Leaks"
   ],
   "articles": [
     {
-      "headline": "US Envoys Arrive in Moscow for Peace Talks",
-      "whyItMatters": "Diplomatic efforts escalate as high-level US envoys push for a resolution to the ongoing Ukraine conflict.",
-      "brief": "US special representatives Steve Witkoff and Jared Kushner have arrived in Moscow to hold crucial peace talks aimed at ending the war in Ukraine.",
+      "headline": "TCS Invests $7.4 Billion in AI Data Centers",
+      "whyItMatters": "Massive capital injection signals India's growing role in global artificial intelligence infrastructure.",
+      "brief": "India's TCS unit is committing up to $7.4 billion to develop a state-of-the-art AI data center campus.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlpZ0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
+      "dateLocation": "September 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Acknowledges Transparency Issues After Wiki Incident",
+      "whyItMatters": "Highlights growing accountability pressures on generative AI developers regarding unintended behavior.",
+      "brief": "OpenAI publicly acknowledged the recent wiki incident and stressed the urgent need for greater transparency around unintended AI outputs.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
+      "dateLocation": "September 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Strikes Iranian Oil Tankers Following Regional Clashes",
+      "whyItMatters": "Escalates geopolitical tensions and risks broader disruptions in critical Middle Eastern energy supply routes.",
+      "brief": "The US Central Command confirmed military strikes against three Iranian crude oil carriers following hostile naval actions.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnduS0xfeWF0NWZJUEpneWJOWTU3ZXNmUEZrVUY2a0U2b0FPejBkR21SMGxfRjVhWENDdUJOMTJKVm9MbjBBTkVTeHRGZmRfVkhKNnlyR1dySzBPUXBEUm1CVlVsQkhCTnlhMXBPMFM0NEJ5QTE0aDNxLU5SbzRVX09fZ3NpbnIycXVzZG9XM0dnb1JaS3pvbnI3UDUxNG1VUVhTWWFfbGQ5T2NQR0N6WnRzbzhINGlVRmRPUHhKT0xGVmhWc1E?oc=5",
+      "dateLocation": "September 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Envoys Meet Putin to Push Ukraine Peace",
+      "whyItMatters": "Represents a high-stakes diplomatic effort by Washington to revive stalled peace talks with Moscow.",
+      "brief": "Trump's envoys Steve Witkoff and Jared Kushner met Vladimir Putin in Moscow to advance renewed negotiations over Ukraine.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvOXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
+      "dateLocation": "September 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Crush Pakistan by Seven Wickets in Asia Cup",
+      "whyItMatters": "Dominant tournament performance reinforces India's regional cricketing supremacy and secures an undefeated group stage.",
+      "brief": "Indian spinners bundled Pakistan out for a paltry 55 runs before comfortably sealing a seven-wicket victory.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreet-kaurs-india-turn-pakistan-clash-into-a-rout-seal-7-wicket-win-after-bowling-them-out-for-55/articleshow/133808870.cms",
+      "dateLocation": "September 5, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China to Proceed with Brahmaputra Mega Dam",
+      "whyItMatters": "Raises acute geopolitical concerns regarding downstream water security and ecological impacts in India.",
+      "brief": "Despite growing regional concerns and recent flood warnings, Beijing is pressing forward with its controversial mega-dam project.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece",
+      "dateLocation": "September 5, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pentagon Subjects Officials to Polygraphs Over Classified Leaks",
+      "whyItMatters": "Demonstrates severe internal government panic and stricter security crackdowns following major intelligence breaches.",
+      "brief": "Dozens of senior US military officials faced polygraph tests in a sweeping federal investigation into defense leaks.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5",
-      "dateLocation": "Today | Moscow/Washington",
+      "sourceUrl": "https://www.livemint.com/news/us-news/who-leaked-americas-weapons-secrets-pentagon-subjects-top-military-officials-to-polygraphs-11788634858493.html",
+      "dateLocation": "September 5, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Putin Orders 72-Hour Pause in Kyiv Strikes",
-      "whyItMatters": "The temporary ceasefire coincides with high-stakes international diplomatic missions visiting the region.",
-      "brief": "Russian President Vladimir Putin has ordered a 72-hour pause in airstrikes on Kyiv as US envoys arrive in Russia to advance peace negotiations.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/vladimir-putin-orders-72-hour-pause-in-kyiv-strikes-as-us-envoys-push-for-peace-talks-11788611019384.html",
-      "dateLocation": "Today | Moscow",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Census 2027 Enumeration Begins Amid Opposition Scrutiny",
+      "whyItMatters": "Decennial demographic exercise triggers intense political debate over potential privacy and National Population Register links.",
+      "brief": "Enumerators have commenced headcount operations in snowbound regions while critics debate new questionnaire formats and implications.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/census-2027-the-14-questions-and-why-opposition-fears-an-npr-backdoor/articleshow/133796101.cms",
+      "dateLocation": "September 5, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Reports US Attack on Tanker",
-      "whyItMatters": "Escalating maritime tensions in the Middle East threaten global shipping lanes and regional stability.",
-      "brief": "Iranian state media reports that an Iranian tanker was targeted by a US attack near Iran's Kharg Island, raising tensions.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
-      "dateLocation": "Today | Tehran",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nigeria Approves $1.6B Dangote Refinery IPO",
-      "whyItMatters": "A landmark public offering for Africa's largest refinery could significantly reshape energy markets on the continent.",
-      "brief": "Nigeria's Securities and Exchange Commission has officially approved an approximate $1.6 billion initial public offering for the massive Dangote Refinery.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5",
-      "dateLocation": "Today | Lagos",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "World Food Prices Peak to Highest Since 2022",
-      "whyItMatters": "Mounting global supply risks threaten food security and economic stability worldwide.",
-      "brief": "The UN Food and Agriculture Organization reports that global food prices have surged to their highest levels since 2022 due to growing supply pressures.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWg1YTJhUEh0WXJNUk11cTZYSDhIcHBqTFIxX0E3NU4xdmd2YTJUaFJUb0hKa0hZOFo1SVJXM3padGM0a0ljeGJrZ2VoNXFaQmhrbGMzMmo1dEJPbFl0enJPa0JCelVlWmZiWXppMzl2b3k0NjJRVVJZX2haU25RWWYyWjhZOFJDSGJKVDFiOGpwdHE1U1Y5Vzg2V1AwNmw0b0dLazRRUnp5aU1TczMybW5Pcw?oc=5",
-      "dateLocation": "Today | Rome",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Opens Probe Into Tesla Cybercab Self-Certification",
-      "whyItMatters": "Regulatory scrutiny over autonomous vehicle safety and compliance standards continues to intensify.",
-      "brief": "US regulators have opened an official investigation into Tesla's self-certification procedures regarding its Cybercab autonomous robotaxi fleet.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5",
-      "dateLocation": "Today | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Novartis and Ionis Heart Drug Misses Key Goal",
-      "whyItMatters": "A major setback for cardiovascular therapeutics in late-stage clinical trials handled by pharmaceutical giants.",
-      "brief": "An experimental heart drug jointly developed by Novartis and Ionis Pharmaceuticals has failed to meet its primary objective in a prominent trial.",
+      "headline": "Novartis and Ionis Experimental Heart Drug Misses Key Goal",
+      "whyItMatters": "Setback for cardiovascular clinical pipelines and high-profile drug development efforts by major pharmaceutical leaders.",
+      "brief": "A closely watched clinical trial revealed that an experimental heart drug by Novartis and Ionis missed its primary endpoint.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUxoV0pmRFpRcnNRQm1TU1N0YXF1RDE2RXp1RWE2NXF6UGJqU1hRYzFLMlhPRi1FZVotdTJjU0xsMVpoMnU2ZXM5UVlQbmFfYy16NGswZzJJUjNjUEJ3MVlfaUVFUU03OVpCblBmVUpEeUhFQkdWUnhjTWI5alBpa0c0cXRVQjE1QjFTQWZDTzh4cW11TEhURC12N0M5VU5pRWNyTUZYY3pxV3lqOG1jY2d5UEYycTlKLXJ6dWRodUttQWZVY194elJkNGJMNGpjem1v?oc=5",
-      "dateLocation": "Today | Basel/New York",
+      "dateLocation": "September 5, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "TCS Subsidiary Invests ₹70,000 Cr in Hyderabad AI Hub",
-      "whyItMatters": "Massive capital injection signals India's growing footprint as a global center for artificial intelligence infrastructure.",
-      "brief": "TCS subsidiary HyperVault has announced a massive ₹70,000 crore investment to construct an advanced AI data center hub in Hyderabad.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/information-tech/tcs-subsidiary-hypervault-to-invest-rs-70000-cr-to-develop-hyderabad-ai-data-centre/articleshow/133797995.cms",
-      "dateLocation": "Today | Hyderabad",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Alternative Fuels Overtake Petrol in Indian Car Sales",
+      "whyItMatters": "Reflects a profound structural shift in consumer preferences toward sustainable motoring and clean energy mobility.",
+      "brief": "CNG, hybrid, and electric vehicles captured 42% of India's passenger vehicle market in August, edging past petrol sales.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/cng-hybrid-and-evs-overtake-petrol-as-india-s-car-buyers-embrace-cleaner-fuels-11788628628925.html",
+      "dateLocation": "September 5, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Prices Slide Following Strong US Payrolls Data",
-      "whyItMatters": "Robust economic indicators shift monetary policy expectations and spark strong market reactions for precious metals.",
-      "brief": "Gold prices experienced a notable slide after better-than-expected US employment figures boosted expectations of continued interest rate hikes.",
+      "headline": "CBI Lodges FIR Against Subhash Chandra in Fraud Case",
+      "whyItMatters": "Major corporate governance development impacting high-profile media and financial sector leadership figures.",
+      "brief": "The CBI filed an FIR against Subhash Chandra and others regarding a multi-crore financial fraud investigation.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa0hqb2VPQUFuRk45bGpFaXNxaHc4NTVtSTJhcVJWdDNRSjEzbTRXWkhVOHRMVDNBdFNTajFBWTI0Z2RBX09VdTBjbmp4aS1zQkhHaWJWVjFYZmU2Q0J4MnZ2SU1rWXJzSy1ZeFBkTjZPWEY1RTVGREhfbGpVbXV5TFRnNTNBYmhubXZjQzRoY1IyM2RWT29XMw?oc=5",
-      "dateLocation": "Today | New York",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/cbi-lodges-fir-against-subhash-chandra-three-others-in-rs-1322-crore-fraud-case-lic-housing-finance/articleshow/133794433.cms",
+      "dateLocation": "September 5, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bolivia Military Base Explosion Kills at Least 2",
-      "whyItMatters": "Tragic industrial accident prompts immediate government response and search operations for numerous missing personnel.",
-      "brief": "An explosion at a military base in Bolivia has resulted in at least two deaths and left fourteen others missing, authorities confirm.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRklsd3Jrb19ZM2FUSmYyUW9kVUhwSEUyelBoak82R25hNi14SXF0OUUzdV95d0c1eF9hTTZBTnpnVlcyV0M3ZXFJWGhTUS1JbTZvR3FkU3lnWUdoRXRtcklybDlBclJDZ254WEpSc0FqZURXaFZ3SUtVdlplWmZCOWFRbDR1cG9zNUx2OUdhUVpHN293VWV4bEMwWS1kb25yQ2g1dlNzaThXUk1aM3B4Vg?oc=5",
-      "dateLocation": "Today | La Paz",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Global Central Banks Reshuffle Official Gold Reserves",
+      "whyItMatters": "Indicates changing geopolitical calculations and sovereign risk management strategies among global financial authorities.",
+      "brief": "Central banks are actively moving physical gold reserves across international vaults in response to shifting economic policies.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/gold-reserves-are-on-the-move-but-central-banks-are-choosing-different-vaults/articleshow/133788083.cms",
+      "dateLocation": "September 5, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
