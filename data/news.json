@@ -1,138 +1,147 @@
 {
-  "lastUpdated": "2026-09-04T20:14:32.675Z",
+  "lastUpdated": "2026-09-05T02:50:40.900Z",
   "ticker": [
-    "NSE clears Rs 30K crore IPO",
-    "US adds 162k jobs in August",
-    "India forex reserves hit record",
-    "US probes Tesla Cybercab safety",
-    "World food prices hit high"
+    "US and China prepare for mid-September AI safety talks",
+    "Zelenskyy proposes Ukraine ceasefire amid US peace push",
+    "Gold slides as robust US payrolls boost rate bets",
+    "Anthropic delays IPO to mid-October, eyes huge valuation",
+    "India's NSE eyes September listing after IPO clearance"
   ],
   "articles": [
     {
-      "headline": "India Forex Reserves Hit Record High",
-      "whyItMatters": "Demonstrates strong macroeconomic resilience amidst ongoing global market uncertainties.",
-      "brief": "India's foreign exchange reserves reached a fresh record high driven by strong dollar deposits, providing a solid cushion against external shocks.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3VBUFZ5YXQ5YV9zTnNwblR3V1JxbUlMVjM5Q3pNQi1TdmRhdFFtalYxVTNfMHk4N0ZEcWNTU0U4bzExYm1iRmQ1TG5IVkNlY3lBZV9ESDJwa1NmNUtydmtoRVZ0ajNoM2RqZW9vaEF2blpfbGRIWWFuWVZRclF6MkdjYUo3bmNXcXFURDY4VWdQNTlTZ1lJRmdac3hkSmVXRHJialdGVHdwQ0hSX3BQV002dUdyQ294X0tlVFQ4ZUR6QQ?oc=5",
-      "dateLocation": "Aug 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NSE Eyes September IPO After Approval",
-      "whyItMatters": "Marks a milestone public offering for one of the world's largest derivatives exchanges.",
-      "brief": "The National Stock Exchange of India is eyeing a September listing after receiving regulatory clearance for its massive public offer.",
+      "headline": "India's NSE Eyes September Listing After IPO Clearance",
+      "whyItMatters": "Unlocks massive value for India's primary stock exchange.",
+      "brief": "The National Stock Exchange of India is targeting a late September listing following regulatory clearance for its long-awaited initial public offering.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1MxaThhcGFxb1ZXZ1phbzBtcEloVzJDUW1UOXdRXzJSY3VrMktsb0VQalVEMFlFQVU0eV9zQ0hHclIzTHBFaWo3cTFaaWwwdEczcl91R0VhX2p6T0M4OWtyTTREMjVhbkxFSzFKZHBERWpFOFRCTjVsS211TXBKdzY2OUVpOHE4bmtpUWpvRkgwcVo3NURTeXJEbVVUOWFWUVE?oc=5",
-      "dateLocation": "Aug 2026 | Reuters",
+      "dateLocation": "September 5, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Economy Adds 162,000 Jobs in August",
-      "whyItMatters": "Eases recession fears and influences upcoming Federal Reserve monetary policy decisions.",
-      "brief": "The US labor market demonstrated solid growth by adding 162,000 jobs in August while unemployment held steady at 4.1%.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUNQZU5RWWN5TXNDaU9CQkIyc1NPTE95RzBLc0lSMGQyRGRnT19DVldpRXF2TEVzYXdKUzRjR1RyNC1KZ3Rka2Z2ZS1HZUhyUkFYLTBYWE1JRXhXSDJBYWV5Tmpkc3psRy1TWHNlZUN1T1hrZnE5TVpkVTlObkdrZWRVSnA5MU41cWVhSEZSNVU2TlBjdG5SbDBSb3BTYTE3SmNGZU5wR3dDVlVDRXFMZkN0SllDUWVh?oc=5",
-      "dateLocation": "Aug 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nigeria's SEC Approves $1.6 Billion Dangote Refinery IPO",
+      "whyItMatters": "Major milestone for African energy markets and capital raising.",
+      "brief": "Nigeria's Securities and Exchange Commission has officially approved the multi-billion-dollar initial public offering for the massive Dangote Refinery.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5",
+      "dateLocation": "September 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "World Food Prices Reach Highest Since 2022",
-      "whyItMatters": "Signals mounting global supply risks and potential inflationary pressures on food commodities.",
-      "brief": "Global food prices climbed to their highest levels since 2022 as agricultural supply risks mounted across several key regions.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWg1YTJhUEh0WXJNUk11cTZYSDhIcHBqTFIxX0E3NU4xdmd2YTJUaFJUb0hKa0hZOFo1SVJXM3padGM0a0ljeGJrZ2VoNXFaQmhrbGMzMmo1dEJPbFl0enJPa0JCelVlWmZiWXppMzl2b3k0NjJRVVJZX2haU25RWWYyWjhZOFJDSGJKVDFiOGpwdHE1U1Y5Vzg2V1AwNmw0b0dLazRRUnp5aU1TczMybW5Pcw?oc=5",
-      "dateLocation": "Aug 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Anthropic Delays IPO to Mid-October, Eyes $2 Trillion Valuation",
+      "whyItMatters": "Signals high investor appetite for leading artificial intelligence firms.",
+      "brief": "AI giant Anthropic has delayed its public offering to mid-October, targeting a massive valuation while securing a substantial new credit facility.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-ai-giant-delays-public-offering-eyes-2-trillion-valuation-mid-october-market-debut/articleshow/133783952.cms",
+      "dateLocation": "September 5, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Probes Tesla Cybercab Self-Certification",
-      "whyItMatters": "Highlights intense regulatory scrutiny facing autonomous vehicle safety standards and deployment.",
-      "brief": "US federal regulators have opened an investigation into Tesla's self-certification process for its Cybercab robotaxi fleet.",
+      "headline": "US Opens Probe Into Tesla Self-Certification of Cybercab",
+      "whyItMatters": "Implications for autonomous vehicle safety and regulatory compliance standards.",
+      "brief": "Federal regulators have opened an investigation into Tesla's self-certification protocols regarding its upcoming Cybercab robotaxi fleet.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5",
-      "dateLocation": "Aug 2026 | Reuters",
+      "dateLocation": "September 5, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Builds Massive AI Hub in Inner Mongolia",
-      "whyItMatters": "Expands critical computing infrastructure to meet surging national demands for artificial intelligence.",
-      "brief": "China is establishing a massive AI computing powerhouse in Ulanqab, taking advantage of abundant renewable energy and favorable climate.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/from-grasslands-to-gpus-why-china-is-building-its-ai-powerhouse-in-mongolia-explained-in-5-charts/articleshow/133756664.cms",
-      "dateLocation": "Aug 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Blacklists Turkish Bank Over Iran Ties",
-      "whyItMatters": "Intensifies economic sanctions targeting illicit financial networks moving oil revenues.",
-      "brief": "Washington has sanctioned Golden Global Bank and subsidiaries, accusing them of helping Iran route oil revenues and bypass restrictions.",
+      "headline": "Zelenskyy Proposes Ukraine Ceasefire as US Envoys Discuss Peace",
+      "whyItMatters": "Potential shift in diplomatic efforts to end the ongoing conflict.",
+      "brief": "Ukrainian President Volodymyr Zelenskyy proposed a mutual halt to airstrikes as American envoys arrive to discuss a comprehensive peace plan.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-blacklists-turkish-bank-and-two-subsidiaries-over-alleged-iran-financial-links-11788546924844.html",
-      "dateLocation": "Aug 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/world/russiaukraine-war-zelenskyy-proposes-ceasefire-as-us-send-envoys-to-discuss-peace-plan-no-airstrikes-on-our-part-11788572017931.html",
+      "dateLocation": "September 5, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Engages Moscow and Kyiv to End War",
-      "whyItMatters": "Reflects active diplomatic positioning and pragmatic energy sourcing during geopolitical conflict.",
-      "brief": "External Affairs Minister stated that India continues working alongside both Moscow and Kyiv to help broker an end to the conflict.",
+      "headline": "US Judge Extends Ban on Postal Service Mail-in Voting Rules",
+      "whyItMatters": "Directly impacts voting logistics ahead of upcoming midterm elections.",
+      "brief": "A federal judge extended an injunction blocking controversial new USPS mail-in voting requirements, citing potential chaos for election administrators.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-working-with-moscow-kyiv-to-end-war-eam/articleshow/133776510.cms",
-      "dateLocation": "Aug 2026 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-judge-extends-ban-on-trump-s-new-usps-mail-in-voting-rules-ahead-of-november-midterm-elections-11788569883893.html",
+      "dateLocation": "September 5, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UNEP Report Urges Climate Overshoot Action",
-      "whyItMatters": "Calls for strategic policy pivots and urges developing nations to take proactive climate leadership.",
-      "brief": "A recent UNEP report highlights the severe risks of climate overshoot, emphasizing that emerging economies must enhance mitigation strategies.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/opinion/editorial/warning-on-warming-on-the-unep-report-limiting-overshoot/article71428123.ece",
-      "dateLocation": "Aug 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tata Motors Launches Tender Offer for Iveco Group Shares",
+      "whyItMatters": "Expands Indian automotive footprint within European industrial manufacturing sectors.",
+      "brief": "Following regulatory clearance in Italy, a Tata Motors subsidiary has launched a formal tender offer for common shares of Iveco Group.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/tata-motors-launches-tender-offer-for-common-shares-of-iveco-group/article71430941.ece",
+      "dateLocation": "September 5, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nepal Flood Crisis Leaves Thousands Missing",
-      "whyItMatters": "Highlights severe regional humanitarian impacts and ongoing disaster response challenges.",
-      "brief": "Devastating flash floods in Nepal have left thousands missing while multinational rescue teams continue relief operations across the area.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/nepal-floods-update-275-indians-still-missing-169-rescued-govt-says-no-travellers-stranded-in-tibet-11788541989471.html",
-      "dateLocation": "Aug 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "World Food Prices Reach Highest Level Since 2022",
+      "whyItMatters": "Amplifies global economic pressures and food security concerns.",
+      "brief": "The FAO reported that global food prices have hit their highest mark since 2022 as mounting supply risks threaten international markets.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWg1YTJhUEh0WXJNUk11cTZYSDhIcHBqTFIxX0E3NU4xdmd2YTJUaFJUb0hKa0hZOFo1SVJXM3padGM0a0ljeGJrZ2VoNXFaQmhrbGMzMmo1dEJPbFl0enJPa0JCelVlWmZiWXppMzl2b3k0NjJRVVJZX2haU25RWWYyWjhZOFJDSGJKVDFiOGpwdHE1U1Y5Vzg2V1AwNmw0b0dLazRRUnp5aU1TczMybW5Pcw?oc=5",
+      "dateLocation": "September 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "New Perimenopausal Health Policy Proposed",
-      "whyItMatters": "Improves healthcare access and long-overdue clinical support structures for women in midlife.",
-      "brief": "A progressive health initiative seeks to establish dedicated perimenopausal policies to ease medical access and care for women.",
+      "headline": "US Measles Cases Hit 3,134 Amid Outbreak Disagreements",
+      "whyItMatters": "Highlights ongoing public health challenges and vaccination rate concerns.",
+      "brief": "Confirmed US measles cases have climbed past 3,100 this year, fueled by a prominent outbreak in Pennsylvania and sparking political feuds.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/opinion/editorial/out-of-neglect-bin-on-perimenopausal-policy/article71428165.ece",
-      "dateLocation": "Aug 2026 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-measles-cases-hit-3-134-as-leaders-feud-over-death-count-11788556498417.html",
+      "dateLocation": "September 5, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Thane Hospital Canteen Closed After Cockroach Incident",
-      "whyItMatters": "Spotlights critical hygiene failures and enforcement of food safety standards in public facilities.",
-      "brief": "Food authorities shut down a government hospital canteen in Maharashtra following patient complaints regarding severe hygiene lapses.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/cockroach-found-in-patients-meal-fda-shuts-canteen-at-thane-govt-hospital-in-maharashtra-11788539313153.html",
-      "dateLocation": "Aug 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "At Least 10 Killed in Explosion at Bolivia Military Base",
+      "whyItMatters": "Tragic security incident impacting military infrastructure and local communities.",
+      "brief": "An explosion at a military base in Viacha, Bolivia, left at least 10 people dead and dozens injured, prompting immediate emergency response.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/several-feared-dead-in-explosion-at-bolivia-military-base-over-58-injured-11788572647999.html",
+      "dateLocation": "September 5, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Srikkanth Criticizes India's Afghan Series Squad",
-      "whyItMatters": "Sparks intense debate regarding selection policy and the integration of younger cricket talent.",
-      "brief": "Former cricketer Kris Srikkanth criticized India's cautious squad selection for the upcoming series, arguing selectors missed youth testing opportunities.",
+      "headline": "US Military Disables Ad Trackers Amid Middle East Operations",
+      "whyItMatters": "Operational security measure reflecting heightened geopolitical tensions.",
+      "brief": "The American military has reportedly instructed personnel to disable ad-tracking features on personal devices amid sensitive Middle East reporting.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/us-iran-war-american-military-disables-ad-trackers-on-devices-amid-middle-east-targeting-reports/articleshow/133784348.cms",
+      "dateLocation": "September 5, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Levon Aronian Assesses Gukesh Ahead of World Chess Match",
+      "whyItMatters": "Provides elite analytical perspective on upcoming international sporting showdowns.",
+      "brief": "American Grandmaster Levon Aronian weighs in on the immense pressure facing young world champion Gukesh ahead of his match against Javokhir Sindarov.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/this-is-a-mistake-srikkanth-slams-indias-fear-driven-squad-for-afghanistan-series/articleshow/133771010.cms",
-      "dateLocation": "Aug 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/gukeshs-lifetime-dream-just-came-too-early-american-gm-levon-aronian-assesses-sindarov-clash-exclusive/articleshow/133783238.cms",
+      "dateLocation": "September 5, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "The Enduring Commercial Power of Lionel Messi",
-      "whyItMatters": "Illustrates how modern athletic personal brands sustain massive commercial ecosystems post-retirement.",
-      "brief": "Analysts explore how the global commercial brand of Lionel Messi will continue driving massive economic value well beyond his playing career.",
+      "headline": "IOA Draws Line on BCCI's Special Asian Games Housing",
+      "whyItMatters": "Ensures equitable logistical treatment for all national athletes.",
+      "brief": "The Indian Olympic Association has ruled out special elite accommodation rooms for cricketers, insisting on standardized lodging for all participants.",
       "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/football/lionel-messi-the-enduring-commercial-powerhouse-in-sports-marketing-cristiano-ronaldo-retirement-brands-the-messi-economy-life-after-argentina-is-still-big-money-for-the-little-magician/articleshow/133756227.cms",
-      "dateLocation": "Aug 2026 | The Economic Times",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/no-special-room-for-cricket-ioa-draws-line-on-bccis-asian-games-stay/articleshow/133783567.cms",
+      "dateLocation": "September 5, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Engineers Use WhatsApp Group to Guide Nepal Tunnel Rescue",
+      "whyItMatters": "Demonstrates resourceful grassroots problem-solving during critical infrastructure crises.",
+      "brief": "A decentralized group of engineers connected via WhatsApp has been instrumental in providing technical guidance for tunnel rescue efforts in Nepal.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0E3MkZHX3BnbHVnNUJTODJyc0JsYmlCdk9PSlJzcW8zTXM4V0tBQnotb0JDZ0Z0YS1KMlJMR1gwb2tTZTEyN1YzTE9rai02MnBNc2JZcVlIWjlta25tOUFFeFRWYmZJWmRNYmpMWFIwYmQtZ2VJSVBTMWNuQ2J0a2NoMU13aUxxLW5JT1QyU3QwTjRELWxZdXF2cFMtWUxlc1RYSUFLeHBRc0wxbWo1M1BnTFp1b0xyS2N3WjZNeFZoX0k?oc=5",
+      "dateLocation": "September 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "MacKenzie Scott Sets Record With HBCU Philanthropic Donations",
+      "whyItMatters": "Significant financial boost for historically Black higher education institutions.",
+      "brief": "Philanthropist MacKenzie Scott has surpassed one billion dollars in total donations to historically Black colleges and universities with recent unrestricted gifts.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-sets-new-record-with-her-donations-to-historically-black-colleges-and-universities/articleshow/133763850.cms",
+      "dateLocation": "September 5, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
