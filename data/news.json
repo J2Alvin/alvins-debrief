@@ -1,111 +1,93 @@
 {
-  "lastUpdated": "2026-09-06T10:13:30.546Z",
+  "lastUpdated": "2026-09-06T14:53:31.472Z",
   "ticker": [
-    "US Military strikes Iranian crude oil carriers",
-    "Delhi building collapse leaves several trapped",
-    "Germany plans anti-sabotage drone shield",
-    "Zaporizhzhia nuclear plant ceasefire implemented",
-    "India's TCS invests $7.4B in AI"
+    "US Envoys Meet Putin in Moscow Before Kyiv Visit",
+    "Strait of Hormuz Blocked Amid US-Iran Tensions",
+    "Germany Plans Anti-Sabotage Shield After Drone Attack",
+    "Delhi Building Collapse Triggers Safety Concerns",
+    "TCS Unit Invests $7.4 Billion in AI Data Centers"
   ],
   "articles": [
     {
-      "headline": "Germany Plans Anti-Sabotage Shield After Drone Attacks",
-      "whyItMatters": "Enhances critical European infrastructure security against emerging drone warfare threats.",
-      "brief": "Following an airport drone attack, Germany is developing a comprehensive anti-sabotage defense shield to protect vital transport and logistics hubs.",
+      "headline": "Germany Plans Anti-Sabotage Shield Following Airport Drone Attack",
+      "whyItMatters": "Highlights growing vulnerabilities in critical European infrastructure against hybrid threats.",
+      "brief": "Germany has announced plans to implement an anti-sabotage security shield following a recent disruptive drone attack at a major airport.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw?oc=5",
       "dateLocation": "September 6, 2026 | Berlin, Germany",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Military Strikes Three Iranian Crude Oil Carriers",
-      "whyItMatters": "Significantly escalates Middle Eastern maritime conflict and disrupts global energy shipping routes.",
-      "brief": "US Central Command announced military strikes targeting three Iranian crude oil carriers amid escalating economic and naval tensions.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnduS0xfeWF0NWZJUEpneWJOWTU3ZXNmUEZrVUY2a0U2b0FPejBkR21SMGxfFjVhWENDdUJOMTJKVm9MbjBBTkVTeHRGZmRfVkhKNnlyR1dySzBPUXBEUm1CVlVsQkhCTnlhMXBPMFM0NEJ5QTE0aDNxLU5SbzRVX09fZ3NpbnIycXVzZG9XM0dnb1JaS3pvbnI3UDUxNG1VUVhTWWFfbGQ5T2NQR0N6WnRzbzhINGlVRmRPUHhKT0xGVmhWc1E?oc=5",
-      "dateLocation": "September 6, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "OPEC+ Keeps Oil Output Policy Unchanged for October",
+      "whyItMatters": "Maintains current global energy supply levels and price stability projections.",
+      "brief": "OPEC+ decided to keep its oil production policy completely unchanged for the upcoming month of October during latest meetings.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
+      "dateLocation": "September 6, 2026 | Vienna, Austria",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's TCS to Invest $7.4B in AI Data Centers",
-      "whyItMatters": "Marks one of the largest regional expansions in global artificial intelligence infrastructure capacity.",
-      "brief": "TCS unit plans a massive $7.4 billion investment to establish an expansive AI data center campus in India.",
+      "headline": "India's TCS Unit to Invest $7.4 Billion in AI Campus",
+      "whyItMatters": "Signals massive capital allocation toward expanding global artificial intelligence infrastructure.",
+      "brief": "A TCS unit in India is investing up to $7.4 billion to construct an expansive new AI data center campus.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
-      "dateLocation": "September 6, 2026 | New Delhi, India",
+      "dateLocation": "September 6, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "German Rocket Reaches Space in Milestone Launch",
-      "whyItMatters": "Signals Europe's rising domestic capabilities in the commercial satellite launch market.",
-      "brief": "A German-built rocket successfully reached space, marking a major leap forward for Europe's independent satellite launch ambitions.",
+      "headline": "German Space Rocket Reaches Orbit in First Commercial Launch",
+      "whyItMatters": "Marks a milestone for European commercial spaceflight capabilities and independence.",
+      "brief": "A German space rocket successfully reached orbit, achieving Europe's first-ever commercial orbital launch.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWtGQzdRb3BkZlNlZXdoamc5LU9Qc1RTaFJYNjJzemV0NU9ONDVmM0JFTW5wRWNvbW43LTRhOEw0cmZkcDFsUDFRd2lXSHk2dV9sOHNTcTdZRWFBTXN2VmlMRkRZTzdIX1lOZUFUMm9wWXQwUmpRanowbERtLWJnRWc1dGQ2dFdCNXJOU3NjYjhJeWR2c0xsWUZxZzlJZ0hVVHc?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWtGQzdRb3BkZlNlZXdoamc5LU9Qc1RTaFJYNjJzemV0NU9ONDVmM0JFTW5wRWNvbW43LTRhOEw0cmZkcDFsUDFRd2lXSHk2dV9sOHNTcTdZRWFBTXN2VmlMRkRZTzdIX1lOZUFUMm9wWXQwUmpRanowbERtLWJnRWc1dFdCNXJOU3NjYjhJeWR2c0xsWUZxZzlJZ0hVVHc?oc=5",
       "dateLocation": "September 6, 2026 | Munich, Germany",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OPEC+ Expected to Keep Oil Output Policy Unchanged",
-      "whyItMatters": "Stabilizes global crude supply expectations amidst ongoing geopolitical friction in energy markets.",
-      "brief": "Sources indicate that OPEC+ will maintain its current oil output quotas during Sunday's scheduled policy meeting.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
-      "dateLocation": "September 6, 2026 | Vienna, Austria",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Envoys Arrive in Kyiv Following High-Level Moscow Meetings",
+      "whyItMatters": "Demonstrates active diplomatic engagements amid ongoing intensive regional hostilities.",
+      "brief": "US diplomats arrived in Kyiv via train for crucial talks after meeting with Russian leadership in Moscow.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/witkoff-and-kushner-met-putin-travelled-via-train-to-kyiv-what-we-know-so-far-on-second-leg-of-us-diplomacy-push-11788698978151.html",
+      "dateLocation": "September 6, 2026 | Kyiv, Ukraine",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ED Busts Toll Fraud Syndicate Siphoning Crores",
-      "whyItMatters": "Exposes widespread technological manipulation within national transit infrastructure payment systems.",
-      "brief": "Enforcement Directorate busted 100 toll plazas using malicious mobile apps to siphon money from non-FASTag vehicles.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/toll-fraud-ed-busts-100-plazas-using-mobdata-any-apps-to-siphon-crores-from-non-fastag-vehicles-11788684500105.html",
-      "dateLocation": "September 6, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Brokered Ceasefire Enables Zaporizhzhia Plant Repairs",
-      "whyItMatters": "Temporarily reduces nuclear safety risks at Europe's largest atomic power station.",
-      "brief": "A locally brokered ceasefire went into effect to allow critical maintenance crews to perform repairs at the Zaporizhzhia nuclear plant.",
+      "headline": "Delhi Building Collapse Leaves Three Dead and Several Trapped",
+      "whyItMatters": "Underscores severe urban safety and building maintenance regulatory failures.",
+      "brief": "A five-storey residential building collapsed in Delhi, resulting in three fatalities and intensive rescue operations.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXJwQ1BPMFoxZ1JOZjRpMmJhaDktQ01QbzhoMUZsTjY4VURwSjBLQnRXNUg2dzY1MDVrbFoyeTZmMTNhTmFhV1FOaThxbEQyVmJ5VzN4ZllJTnFGOXpaMHhKNWNIM3JhY3diNG9DM3hMcC1kNlc1TTFRSXhVenRPanpaWERNVmpDNE1GVUszWklKQm5STEhpUmYwVmFCR0hrcDI0RUhVeVZCa3pfdUNfUUdURDY0U005NkE?oc=5",
-      "dateLocation": "September 6, 2026 | Zaporizhzhia, Ukraine",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi Building Collapse Traps Several Under Rubble",
-      "whyItMatters": "Highlights recurring urban safety and structural integrity concerns in densely populated metropolitan zones.",
-      "brief": "A residential building collapsed in Delhi's Satya Niketan area, prompting massive rescue operations as multiple people remain trapped.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/building-collapses-near-delhis-satya-niketan/articleshow/133831307.cms",
+      "sourceUrl": "https://www.livemint.com/news/india/satya-niketan-building-collapse-in-delhi-felt-like-an-earthquake-eyewitnesses-flag-20-year-old-pg-congested-lanes-11788696020604.html",
       "dateLocation": "September 6, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Putin Welcomes US Talks With Witkoff and Kushner",
-      "whyItMatters": "Indicates active diplomatic backchannel discussions between Washington and Moscow.",
-      "brief": "Russian President Putin stated that US-Russia contacts remain beneficial as high-level discussions begin with US envoys.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
-      "dateLocation": "September 6, 2026 | Moscow, Russia",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Strait of Hormuz Effectively Blocked Amid Escalating Tensions",
+      "whyItMatters": "Threatens global petroleum transit routes and international shipping lanes.",
+      "brief": "Experts warn that ongoing naval blockades and maritime threats have effectively choked off the Strait of Hormuz.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/strait-of-hormuz-is-effectively-blocked-foreign-expert-robinder-sachdev-on-us-iran-tit-for-tat-phase/articleshow/133839328.cms",
+      "dateLocation": "September 6, 2026 | Washington, DC",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rahul Gandhi Targets Modi Over Bihar Student Protests",
-      "whyItMatters": "Amplifies youth employment frustrations as a central political talking point in regional elections.",
-      "brief": "Opposition leader Rahul Gandhi criticized Prime Minister Narendra Modi over police crackdowns against protesting BPSC aspirants in Bihar.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/rahul-gandhi-targets-pm-modi-over-police-action-on-bihar-students/article71434888.ece",
+      "headline": "GST Council Reschedules Meeting to October 7",
+      "whyItMatters": "Shifts major national tax policy discussions due to international diplomatic schedules.",
+      "brief": "The GST Council meeting has been officially rescheduled to take place on October 7 because of the BRICS summit.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/gst-council-meeting-rescheduled-to-october-7-due-to-brics-summit/articleshow/133838574.cms",
       "dateLocation": "September 6, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Spinner Sai Kishore Seals County Win",
-      "whyItMatters": "Demonstrates the rising international prowess of Indian domestic spin bowlers abroad.",
-      "brief": "Sai Kishore claimed 5-20 to bowl out Derbyshire and secure a commanding 213-run victory in the County Championship.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-spinner-takes-five-for-in-england-seals-213-run-win-in-county-championship/articleshow/133826931.cms",
-      "dateLocation": "September 6, 2026 | Derby, United Kingdom",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "China Deploys Rescue Teams to Flood-Destroyed Border Port",
+      "whyItMatters": "Demonstrates cross-border recovery efforts following catastrophic natural disasters.",
+      "brief": "Chinese teams are aggressively scouring the ruined infrastructure of a once-busy border port destroyed by severe floods.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?oc=5",
+      "dateLocation": "September 6, 2026 | Beijing, China",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
