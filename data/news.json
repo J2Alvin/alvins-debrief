@@ -1,84 +1,111 @@
 {
-  "lastUpdated": "2026-09-06T02:49:08.402Z",
+  "lastUpdated": "2026-09-06T10:13:30.546Z",
   "ticker": [
-    "US strikes three Iranian crude oil tankers",
-    "US envoys meet Putin in Moscow for peace talks",
-    "German rocket reaches space in historic launch",
-    "TCS invests $7.4B in AI data centers",
-    "India defeats Pakistan in Women's Asia Cup"
+    "US Military strikes Iranian crude oil carriers",
+    "Delhi building collapse leaves several trapped",
+    "Germany plans anti-sabotage drone shield",
+    "Zaporizhzhia nuclear plant ceasefire implemented",
+    "India's TCS invests $7.4B in AI"
   ],
   "articles": [
     {
-      "headline": "German Rocket Reaches Space in European Launch Milestone",
-      "whyItMatters": "Marks Europe's major entry into the competitive commercial satellite launch race.",
-      "brief": "A German rocket successfully reached space, signaling Europe's growing capabilities in the satellite launch market and expanding commercial space access.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWtGQzdRb3BkZlNlZXdoamc5LU9Qc1RTaFJYNjJzemV0NU9ONDVmM0JFTW5wRWNvbW43LTRhOEw0cmZkcDFsUDFRd2lXSHk2dV9sOHNTcTdZRWFBTXN2VmlMRkRZTzdIX1lOZUFUMm9wWXQwUmpRanowbERtLWJnRWc1dGQ2dFdCNXJOU3NjYjhJeWR2c0xsWUZxZzlJZ0hVVHc?oc=5",
-      "dateLocation": "2026-09-06 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "TCS Invests $7.4 Billion in AI Data Centers",
-      "whyItMatters": "Significantly accelerates global artificial intelligence infrastructure development and capacity.",
-      "brief": "India's TCS unit announced a massive investment of up to $7.4 billion to build an expansive AI data center campus.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
-      "dateLocation": "2026-09-06 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Military Strikes Three Iranian Oil Tankers",
-      "whyItMatters": "Escalates military tensions and risks severe disruptions in vital Middle Eastern shipping lanes.",
-      "brief": "Central Command reported that US military forces struck three Iranian crude oil carriers following naval missile attacks.",
+      "headline": "Germany Plans Anti-Sabotage Shield After Drone Attacks",
+      "whyItMatters": "Enhances critical European infrastructure security against emerging drone warfare threats.",
+      "brief": "Following an airport drone attack, Germany is developing a comprehensive anti-sabotage defense shield to protect vital transport and logistics hubs.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnduS0xfeWF0NWZJUEpneWJOWTU3ZXNmUEZrVUY2a0U2b0FPejBkR21SMGxfRjVhWENDdUJOMTJKVm9MbjBBTkVTeHRGZmRfVkhKNnlyR1dySzBPUXBEUm1CVlVsQkhCTnlhMXBPMFM0NEJ5QTE0aDNxLU5SbzRVX09fZ3NpbnIycXVzZG9XM0dnb1JaS3pvbnI3UDUxNG1VUVhTWWFfbGQ5T2NQR0N6WnRzbzhINGlVRmRPUHhKT0xGVmhWc1E?oc=5",
-      "dateLocation": "2026-09-06 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw?oc=5",
+      "dateLocation": "September 6, 2026 | Berlin, Germany",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Putin Meets US Envoys Witkoff and Kushner",
-      "whyItMatters": "Presents a fresh diplomatic push to negotiate an end to the Russia-Ukraine conflict.",
-      "brief": "Russian President Vladimir Putin met with US envoys Steve Witkoff and Jared Kushner for extensive discussions regarding peace options.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
-      "dateLocation": "2026-09-06 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Military Strikes Three Iranian Crude Oil Carriers",
+      "whyItMatters": "Significantly escalates Middle Eastern maritime conflict and disrupts global energy shipping routes.",
+      "brief": "US Central Command announced military strikes targeting three Iranian crude oil carriers amid escalating economic and naval tensions.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnduS0xfeWF0NWZJUEpneWJOWTU3ZXNmUEZrVUY2a0U2b0FPejBkR21SMGxfFjVhWENDdUJOMTJKVm9MbjBBTkVTeHRGZmRfVkhKNnlyR1dySzBPUXBEUm1CVlVsQkhCTnlhMXBPMFM0NEJ5QTE0aDNxLU5SbzRVX09fZ3NpbnIycXVzZG9XM0dnb1JaS3pvbnI3UDUxNG1VUVhTWWFfbGQ5T2NQR0N6WnRzbzhINGlVRmRPUHhKT0xGVmhWc1E?oc=5",
+      "dateLocation": "September 6, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Brokered Ceasefire Permits Repairs at Zaporizhzhia",
-      "whyItMatters": "Reduces immediate nuclear safety risks by allowing crucial plant infrastructure repairs.",
-      "brief": "A temporary ceasefire took effect to allow essential engineering and structural repairs at the Zaporizhzhia nuclear power plant.",
+      "headline": "India's TCS to Invest $7.4B in AI Data Centers",
+      "whyItMatters": "Marks one of the largest regional expansions in global artificial intelligence infrastructure capacity.",
+      "brief": "TCS unit plans a massive $7.4 billion investment to establish an expansive AI data center campus in India.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
+      "dateLocation": "September 6, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "German Rocket Reaches Space in Milestone Launch",
+      "whyItMatters": "Signals Europe's rising domestic capabilities in the commercial satellite launch market.",
+      "brief": "A German-built rocket successfully reached space, marking a major leap forward for Europe's independent satellite launch ambitions.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWtGQzdRb3BkZlNlZXdoamc5LU9Qc1RTaFJYNjJzemV0NU9ONDVmM0JFTW5wRWNvbW43LTRhOEw0cmZkcDFsUDFRd2lXSHk2dV9sOHNTcTdZRWFBTXN2VmlMRkRZTzdIX1lOZUFUMm9wWXQwUmpRanowbERtLWJnRWc1dGQ2dFdCNXJOU3NjYjhJeWR2c0xsWUZxZzlJZ0hVVHc?oc=5",
+      "dateLocation": "September 6, 2026 | Munich, Germany",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OPEC+ Expected to Keep Oil Output Policy Unchanged",
+      "whyItMatters": "Stabilizes global crude supply expectations amidst ongoing geopolitical friction in energy markets.",
+      "brief": "Sources indicate that OPEC+ will maintain its current oil output quotas during Sunday's scheduled policy meeting.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
+      "dateLocation": "September 6, 2026 | Vienna, Austria",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ED Busts Toll Fraud Syndicate Siphoning Crores",
+      "whyItMatters": "Exposes widespread technological manipulation within national transit infrastructure payment systems.",
+      "brief": "Enforcement Directorate busted 100 toll plazas using malicious mobile apps to siphon money from non-FASTag vehicles.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/toll-fraud-ed-busts-100-plazas-using-mobdata-any-apps-to-siphon-crores-from-non-fastag-vehicles-11788684500105.html",
+      "dateLocation": "September 6, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Brokered Ceasefire Enables Zaporizhzhia Plant Repairs",
+      "whyItMatters": "Temporarily reduces nuclear safety risks at Europe's largest atomic power station.",
+      "brief": "A locally brokered ceasefire went into effect to allow critical maintenance crews to perform repairs at the Zaporizhzhia nuclear plant.",
       "category": "general",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXJwQ1BPMFoxZ1JOZjRpMmJhaDktQ01QbzhoMUZsTjY4VURwSjBLQnRXNUg2dzY1MDVrbFoyeTZmMTNhTmFhV1FOaThxbEQyVmJ5VzN4ZllJTnFGOXpaMHhKNWNIM3JhY3diNG9DM3hMcC1kNlc1TTFRSXhVenRPanpaWERNVmpDNE1GVUszWklKQm5STEhpUmYwVmFCR0hrcDI0RUhVeVZCa3pfdUNfUUdURDY0U005NkE?oc=5",
-      "dateLocation": "2026-09-06 | Reuters",
+      "dateLocation": "September 6, 2026 | Zaporizhzhia, Ukraine",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indonesia Cancels Flights as Anak Krakatau Erupts",
-      "whyItMatters": "Disrupts regional aviation and raises alarms due to the volcano's destructive tsunami history.",
-      "brief": "Authorities in Indonesia canceled flights at Jakarta airport after the Anak Krakatau volcano erupted, prompting safety concerns.",
-      "category": "finance",
-      "sourceUrl": "https://www.thehindu.com/news/international/anak-krakatau-active-volcano-erupts-indonesia/article71434453.ece",
-      "dateLocation": "2026-09-06 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Delhi Building Collapse Traps Several Under Rubble",
+      "whyItMatters": "Highlights recurring urban safety and structural integrity concerns in densely populated metropolitan zones.",
+      "brief": "A residential building collapsed in Delhi's Satya Niketan area, prompting massive rescue operations as multiple people remain trapped.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/building-collapses-near-delhis-satya-niketan/articleshow/133831307.cms",
+      "dateLocation": "September 6, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Jharkhand Minister Sudivya Kumar Passes Away at 56",
-      "whyItMatters": "Causes a political vacuum and major loss for the ruling JMM party in the state.",
-      "brief": "Sudivya Kumar, a senior JMM leader and cabinet minister in Jharkhand, tragically passed away at the age of 56.",
+      "headline": "Putin Welcomes US Talks With Witkoff and Kushner",
+      "whyItMatters": "Indicates active diplomatic backchannel discussions between Washington and Moscow.",
+      "brief": "Russian President Putin stated that US-Russia contacts remain beneficial as high-level discussions begin with US envoys.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
+      "dateLocation": "September 6, 2026 | Moscow, Russia",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rahul Gandhi Targets Modi Over Bihar Student Protests",
+      "whyItMatters": "Amplifies youth employment frustrations as a central political talking point in regional elections.",
+      "brief": "Opposition leader Rahul Gandhi criticized Prime Minister Narendra Modi over police crackdowns against protesting BPSC aspirants in Bihar.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/rahul-gandhi-targets-pm-modi-over-police-action-on-bihar-students/article71434888.ece",
+      "dateLocation": "September 6, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Spinner Sai Kishore Seals County Win",
+      "whyItMatters": "Demonstrates the rising international prowess of Indian domestic spin bowlers abroad.",
+      "brief": "Sai Kishore claimed 5-20 to bowl out Derbyshire and secure a commanding 213-run victory in the County Championship.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/news/national/jharkhand/sudivya-kumar-jmm-senior-leader-and-jharkhand-minister-dies-at-56/article71434454.ece",
-      "dateLocation": "2026-09-06 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-spinner-takes-five-for-in-england-seals-213-run-win-in-county-championship/articleshow/133826931.cms",
+      "dateLocation": "September 6, 2026 | Derby, United Kingdom",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "USCIS Revokes H-1B Visas of Major IT Firm",
-      "whyItMatters": "Enforces strict wage compliance and shifts regulatory scrutiny on skilled worker immigration programs.",
-      "brief": "US immigration authorities denied and revoked multiple H-1B petitions from a major IT consulting firm over wage misclassification.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-authority-says-it-denied-and-revoked-visa-petitions-from-a-major-it-consulting-company-after-/articleshow/133807905.cms",
-      "dateLocation": "2026-09-06 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
