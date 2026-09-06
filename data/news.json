@@ -1,93 +1,102 @@
 {
-  "lastUpdated": "2026-09-06T14:53:31.472Z",
+  "lastUpdated": "2026-09-06T19:57:58.621Z",
   "ticker": [
-    "US Envoys Meet Putin in Moscow Before Kyiv Visit",
-    "Strait of Hormuz Blocked Amid US-Iran Tensions",
-    "Germany Plans Anti-Sabotage Shield After Drone Attack",
-    "Delhi Building Collapse Triggers Safety Concerns",
-    "TCS Unit Invests $7.4 Billion in AI Data Centers"
+    "Delhi building collapse kills 5",
+    "Germany plans anti-sabotage shield",
+    "US denies Strait of Hormuz strike",
+    "China pumps $54B into banks",
+    "Zelenskyy meets US envoys"
   ],
   "articles": [
     {
-      "headline": "Germany Plans Anti-Sabotage Shield Following Airport Drone Attack",
-      "whyItMatters": "Highlights growing vulnerabilities in critical European infrastructure against hybrid threats.",
-      "brief": "Germany has announced plans to implement an anti-sabotage security shield following a recent disruptive drone attack at a major airport.",
+      "headline": "Five Dead in Delhi Building Collapse",
+      "whyItMatters": "Exposes critical student housing crises and building safety regulatory failures in major Indian urban centers.",
+      "brief": "A multi-storey building collapse in Delhi's Satya Niketan killed five people, prompting massive student protests and political accountability demands.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/delhi-building-collapse-several-rescued-will-spare-no-one-cm-vows-action-top-developments/articleshow/133839515.cms",
+      "dateLocation": "Sept 6 | Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Germany Plans Anti-Sabotage Shield After Drone Attacks",
+      "whyItMatters": "Highlights escalating vulnerabilities in European critical infrastructure amid rising geopolitical tensions.",
+      "brief": "Following recent airport drone incursions, Germany is rolling out a comprehensive anti-sabotage shield to secure transport hubs and critical national infrastructure.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw?oc=5",
-      "dateLocation": "September 6, 2026 | Berlin, Germany",
+      "dateLocation": "Sept 6 | Berlin, Germany",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OPEC+ Keeps Oil Output Policy Unchanged for October",
-      "whyItMatters": "Maintains current global energy supply levels and price stability projections.",
-      "brief": "OPEC+ decided to keep its oil production policy completely unchanged for the upcoming month of October during latest meetings.",
+      "headline": "China Pumping $54 Billion into State Banks",
+      "whyItMatters": "A crucial fiscal intervention aimed at stabilizing China's financial sector and boosting economic growth.",
+      "brief": "China announced a massive capital-boosting injection of $54 billion into major state-owned banks and insurers to strengthen the financial system.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
-      "dateLocation": "September 6, 2026 | Vienna, Austria",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPang2d09TQ3Q1cEd0QVJXaWc5aWpIcVh5MUQ5UEhud1R1OVFKV2lYSXEtb2hGMHNqR0xjUWx1cXJNZ3NFcTV3RmR5LXliVHNuWEJDdUVLVld1OU5mMURmLWFieGxGZzdYbTdhMUZkeXk2UTM2QS1QRWt2M2JJelM4VUlXZ2pxd2I5ZFZyX1k2TmJLNHVURHNwTEVQOHNuOV9rZTM1UFh6d1c0RFAwVFBLaG1yQVAzSEpRQWptMg?oc=5",
+      "dateLocation": "Sept 6 | Beijing, China",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's TCS Unit to Invest $7.4 Billion in AI Campus",
-      "whyItMatters": "Signals massive capital allocation toward expanding global artificial intelligence infrastructure.",
-      "brief": "A TCS unit in India is investing up to $7.4 billion to construct an expansive new AI data center campus.",
+      "headline": "TCS Unit to Invest $7.4 Billion in AI Data Centers",
+      "whyItMatters": "Signals massive enterprise capital deployment into artificial intelligence infrastructure and technological expansion.",
+      "brief": "India's TCS unit plans to invest up to $7.4 billion to build a massive AI data center campus, driving regional tech growth.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
-      "dateLocation": "September 6, 2026 | Mumbai, India",
+      "dateLocation": "Sept 6 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "German Space Rocket Reaches Orbit in First Commercial Launch",
-      "whyItMatters": "Marks a milestone for European commercial spaceflight capabilities and independence.",
-      "brief": "A German space rocket successfully reached orbit, achieving Europe's first-ever commercial orbital launch.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWtGQzdRb3BkZlNlZXdoamc5LU9Qc1RTaFJYNjJzemV0NU9ONDVmM0JFTW5wRWNvbW43LTRhOEw0cmZkcDFsUDFRd2lXSHk2dV9sOHNTcTdZRWFBTXN2VmlMRkRZTzdIX1lOZUFUMm9wWXQwUmpRanowbERtLWJnRWc1dFdCNXJOU3NjYjhJeWR2c0xsWUZxZzlJZ0hVVHc?oc=5",
-      "dateLocation": "September 6, 2026 | Munich, Germany",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Denies Iran's Claim of Vessel Strike",
+      "whyItMatters": "Underscores dangerous military escalations and conflicting narratives in the critical Middle Eastern shipping lanes.",
+      "brief": "The United States officially denied Iranian claims of a successful strike on an American vessel near the Strait of Hormuz.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-denies-irans-claim-of-strike-on-american-vessel-near-strait-of-hormuz-11788723096763.html",
+      "dateLocation": "Sept 6 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Envoys Arrive in Kyiv Following High-Level Moscow Meetings",
-      "whyItMatters": "Demonstrates active diplomatic engagements amid ongoing intensive regional hostilities.",
-      "brief": "US diplomats arrived in Kyiv via train for crucial talks after meeting with Russian leadership in Moscow.",
+      "headline": "AfD Scores Historic Victory in German State Election",
+      "whyItMatters": "Marks a significant political shift in Europe as far-right populist movements gain substantial legislative ground.",
+      "brief": "The far-right AfD secured a historic victory in a German regional election, posing a major challenge to traditional ruling parties.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/witkoff-and-kushner-met-putin-travelled-via-train-to-kyiv-what-we-know-so-far-on-second-leg-of-us-diplomacy-push-11788698978151.html",
-      "dateLocation": "September 6, 2026 | Kyiv, Ukraine",
+      "sourceUrl": "https://www.livemint.com/news/us-news/afd-projected-to-score-historic-victory-in-german-state-election-but-path-to-power-remains-unclear-11788716551220.html",
+      "dateLocation": "Sept 6 | Magdeburg, Germany",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Building Collapse Leaves Three Dead and Several Trapped",
-      "whyItMatters": "Underscores severe urban safety and building maintenance regulatory failures.",
-      "brief": "A five-storey residential building collapsed in Delhi, resulting in three fatalities and intensive rescue operations.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/satya-niketan-building-collapse-in-delhi-felt-like-an-earthquake-eyewitnesses-flag-20-year-old-pg-congested-lanes-11788696020604.html",
-      "dateLocation": "September 6, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Zelenskyy Sees No Fast End to War After US Talks",
+      "whyItMatters": "Indicates prolonged geopolitical friction and the ongoing necessity of Western military and financial support for Ukraine.",
+      "brief": "Following meetings with US envoys, Ukrainian leadership acknowledged that the conflict with Russia is likely to extend through another severe winter.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/zelenskyy-sees-no-fast-end-to-war-after-meeting-with-us-envoys-11788713942895.html",
+      "dateLocation": "Sept 6 | Kyiv, Ukraine",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Strait of Hormuz Effectively Blocked Amid Escalating Tensions",
-      "whyItMatters": "Threatens global petroleum transit routes and international shipping lanes.",
-      "brief": "Experts warn that ongoing naval blockades and maritime threats have effectively choked off the Strait of Hormuz.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/strait-of-hormuz-is-effectively-blocked-foreign-expert-robinder-sachdev-on-us-iran-tit-for-tat-phase/articleshow/133839328.cms",
-      "dateLocation": "September 6, 2026 | Washington, DC",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "GST Council Reschedules Meeting to October 7",
-      "whyItMatters": "Shifts major national tax policy discussions due to international diplomatic schedules.",
-      "brief": "The GST Council meeting has been officially rescheduled to take place on October 7 because of the BRICS summit.",
+      "headline": "Finmin Secures $1 Billion IFC Funding for MSMEs",
+      "whyItMatters": "Provides critical financial liquidity and credit backing to small and medium enterprises vital for emerging economies.",
+      "brief": "India's Finance Ministry secured $1 billion in IFC funding aimed at bolstering MSMEs, with half the funds already released to SIDBI.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/gst-council-meeting-rescheduled-to-october-7-due-to-brics-summit/articleshow/133838574.cms",
-      "dateLocation": "September 6, 2026 | New Delhi, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/finmin-secures-1-billion-ifc-funding-for-msmes-500-million-already-released-to-sidbi/articleshow/133848674.cms",
+      "dateLocation": "Sept 6 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Deploys Rescue Teams to Flood-Destroyed Border Port",
-      "whyItMatters": "Demonstrates cross-border recovery efforts following catastrophic natural disasters.",
-      "brief": "Chinese teams are aggressively scouring the ruined infrastructure of a once-busy border port destroyed by severe floods.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?oc=5",
-      "dateLocation": "September 6, 2026 | Beijing, China",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "ISRO Addresses Staff Concerns Over Privatisation",
+      "whyItMatters": "Reflects the shifting paradigm of national space programs as commercial aerospace entities scale up rapidly.",
+      "brief": "Space agency officials assured staff that ISRO's role remains central despite increased privatization and private sector participation in India's space ecosystem.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/isros-role-by-no-means-diminishing-space-agency-chairman-pawan-goenka-address-staff-s-privatisation-concerns-11788708171870.html",
+      "dateLocation": "Sept 6 | Bengaluru, India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Cricket Decline Linked to Past India Win",
+      "whyItMatters": "Analyzes the psychological and strategic impact of high-stakes rivalries on professional sports team performance.",
+      "brief": "Former cricketer Mohammad Yousuf argued that Pakistan's historic 2021 World Cup win against India negatively altered player mindsets and contributed to a subsequent decline.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/win-against-india-damaged-us-a-lot-mohammad-yousuf-explains-pakistans-cricket-decline/articleshow/133838396.cms",
+      "dateLocation": "Sept 6 | Lahore, Pakistan",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
