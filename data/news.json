@@ -1,120 +1,84 @@
 {
-  "lastUpdated": "2026-09-05T19:53:56.432Z",
+  "lastUpdated": "2026-09-06T02:49:08.402Z",
   "ticker": [
-    "US Envoys Meet Putin in Moscow",
-    "US Military Strikes Iranian Tankers",
-    "TCS Invests $7.4B in AI Campus",
-    "India Crushes Pakistan in Asia Cup",
-    "Pentagon Imposes Polygraphs Over Leaks"
+    "US strikes three Iranian crude oil tankers",
+    "US envoys meet Putin in Moscow for peace talks",
+    "German rocket reaches space in historic launch",
+    "TCS invests $7.4B in AI data centers",
+    "India defeats Pakistan in Women's Asia Cup"
   ],
   "articles": [
     {
+      "headline": "German Rocket Reaches Space in European Launch Milestone",
+      "whyItMatters": "Marks Europe's major entry into the competitive commercial satellite launch race.",
+      "brief": "A German rocket successfully reached space, signaling Europe's growing capabilities in the satellite launch market and expanding commercial space access.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWtGQzdRb3BkZlNlZXdoamc5LU9Qc1RTaFJYNjJzemV0NU9ONDVmM0JFTW5wRWNvbW43LTRhOEw0cmZkcDFsUDFRd2lXSHk2dV9sOHNTcTdZRWFBTXN2VmlMRkRZTzdIX1lOZUFUMm9wWXQwUmpRanowbERtLWJnRWc1dGQ2dFdCNXJOU3NjYjhJeWR2c0xsWUZxZzlJZ0hVVHc?oc=5",
+      "dateLocation": "2026-09-06 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
       "headline": "TCS Invests $7.4 Billion in AI Data Centers",
-      "whyItMatters": "Massive capital injection signals India's growing role in global artificial intelligence infrastructure.",
-      "brief": "India's TCS unit is committing up to $7.4 billion to develop a state-of-the-art AI data center campus.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlpZ0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
-      "dateLocation": "September 5, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "whyItMatters": "Significantly accelerates global artificial intelligence infrastructure development and capacity.",
+      "brief": "India's TCS unit announced a massive investment of up to $7.4 billion to build an expansive AI data center campus.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
+      "dateLocation": "2026-09-06 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI Acknowledges Transparency Issues After Wiki Incident",
-      "whyItMatters": "Highlights growing accountability pressures on generative AI developers regarding unintended behavior.",
-      "brief": "OpenAI publicly acknowledged the recent wiki incident and stressed the urgent need for greater transparency around unintended AI outputs.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
-      "dateLocation": "September 5, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Strikes Iranian Oil Tankers Following Regional Clashes",
-      "whyItMatters": "Escalates geopolitical tensions and risks broader disruptions in critical Middle Eastern energy supply routes.",
-      "brief": "The US Central Command confirmed military strikes against three Iranian crude oil carriers following hostile naval actions.",
+      "headline": "US Military Strikes Three Iranian Oil Tankers",
+      "whyItMatters": "Escalates military tensions and risks severe disruptions in vital Middle Eastern shipping lanes.",
+      "brief": "Central Command reported that US military forces struck three Iranian crude oil carriers following naval missile attacks.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnduS0xfeWF0NWZJUEpneWJOWTU3ZXNmUEZrVUY2a0U2b0FPejBkR21SMGxfRjVhWENDdUJOMTJKVm9MbjBBTkVTeHRGZmRfVkhKNnlyR1dySzBPUXBEUm1CVlVsQkhCTnlhMXBPMFM0NEJ5QTE0aDNxLU5SbzRVX09fZ3NpbnIycXVzZG9XM0dnb1JaS3pvbnI3UDUxNG1VUVhTWWFfbGQ5T2NQR0N6WnRzbzhINGlVRmRPUHhKT0xGVmhWc1E?oc=5",
-      "dateLocation": "September 5, 2026 | Reuters",
+      "dateLocation": "2026-09-06 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Envoys Meet Putin to Push Ukraine Peace",
-      "whyItMatters": "Represents a high-stakes diplomatic effort by Washington to revive stalled peace talks with Moscow.",
-      "brief": "Trump's envoys Steve Witkoff and Jared Kushner met Vladimir Putin in Moscow to advance renewed negotiations over Ukraine.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvOXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
-      "dateLocation": "September 5, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Putin Meets US Envoys Witkoff and Kushner",
+      "whyItMatters": "Presents a fresh diplomatic push to negotiate an end to the Russia-Ukraine conflict.",
+      "brief": "Russian President Vladimir Putin met with US envoys Steve Witkoff and Jared Kushner for extensive discussions regarding peace options.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
+      "dateLocation": "2026-09-06 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Crush Pakistan by Seven Wickets in Asia Cup",
-      "whyItMatters": "Dominant tournament performance reinforces India's regional cricketing supremacy and secures an undefeated group stage.",
-      "brief": "Indian spinners bundled Pakistan out for a paltry 55 runs before comfortably sealing a seven-wicket victory.",
+      "headline": "Brokered Ceasefire Permits Repairs at Zaporizhzhia",
+      "whyItMatters": "Reduces immediate nuclear safety risks by allowing crucial plant infrastructure repairs.",
+      "brief": "A temporary ceasefire took effect to allow essential engineering and structural repairs at the Zaporizhzhia nuclear power plant.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXJwQ1BPMFoxZ1JOZjRpMmJhaDktQ01QbzhoMUZsTjY4VURwSjBLQnRXNUg2dzY1MDVrbFoyeTZmMTNhTmFhV1FOaThxbEQyVmJ5VzN4ZllJTnFGOXpaMHhKNWNIM3JhY3diNG9DM3hMcC1kNlc1TTFRSXhVenRPanpaWERNVmpDNE1GVUszWklKQm5STEhpUmYwVmFCR0hrcDI0RUhVeVZCa3pfdUNfUUdURDY0U005NkE?oc=5",
+      "dateLocation": "2026-09-06 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indonesia Cancels Flights as Anak Krakatau Erupts",
+      "whyItMatters": "Disrupts regional aviation and raises alarms due to the volcano's destructive tsunami history.",
+      "brief": "Authorities in Indonesia canceled flights at Jakarta airport after the Anak Krakatau volcano erupted, prompting safety concerns.",
+      "category": "finance",
+      "sourceUrl": "https://www.thehindu.com/news/international/anak-krakatau-active-volcano-erupts-indonesia/article71434453.ece",
+      "dateLocation": "2026-09-06 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jharkhand Minister Sudivya Kumar Passes Away at 56",
+      "whyItMatters": "Causes a political vacuum and major loss for the ruling JMM party in the state.",
+      "brief": "Sudivya Kumar, a senior JMM leader and cabinet minister in Jharkhand, tragically passed away at the age of 56.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreet-kaurs-india-turn-pakistan-clash-into-a-rout-seal-7-wicket-win-after-bowling-them-out-for-55/articleshow/133808870.cms",
-      "dateLocation": "September 5, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/national/jharkhand/sudivya-kumar-jmm-senior-leader-and-jharkhand-minister-dies-at-56/article71434454.ece",
+      "dateLocation": "2026-09-06 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China to Proceed with Brahmaputra Mega Dam",
-      "whyItMatters": "Raises acute geopolitical concerns regarding downstream water security and ecological impacts in India.",
-      "brief": "Despite growing regional concerns and recent flood warnings, Beijing is pressing forward with its controversial mega-dam project.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece",
-      "dateLocation": "September 5, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pentagon Subjects Officials to Polygraphs Over Classified Leaks",
-      "whyItMatters": "Demonstrates severe internal government panic and stricter security crackdowns following major intelligence breaches.",
-      "brief": "Dozens of senior US military officials faced polygraph tests in a sweeping federal investigation into defense leaks.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/who-leaked-americas-weapons-secrets-pentagon-subjects-top-military-officials-to-polygraphs-11788634858493.html",
-      "dateLocation": "September 5, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Census 2027 Enumeration Begins Amid Opposition Scrutiny",
-      "whyItMatters": "Decennial demographic exercise triggers intense political debate over potential privacy and National Population Register links.",
-      "brief": "Enumerators have commenced headcount operations in snowbound regions while critics debate new questionnaire formats and implications.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/census-2027-the-14-questions-and-why-opposition-fears-an-npr-backdoor/articleshow/133796101.cms",
-      "dateLocation": "September 5, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Novartis and Ionis Experimental Heart Drug Misses Key Goal",
-      "whyItMatters": "Setback for cardiovascular clinical pipelines and high-profile drug development efforts by major pharmaceutical leaders.",
-      "brief": "A closely watched clinical trial revealed that an experimental heart drug by Novartis and Ionis missed its primary endpoint.",
+      "headline": "USCIS Revokes H-1B Visas of Major IT Firm",
+      "whyItMatters": "Enforces strict wage compliance and shifts regulatory scrutiny on skilled worker immigration programs.",
+      "brief": "US immigration authorities denied and revoked multiple H-1B petitions from a major IT consulting firm over wage misclassification.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUxoV0pmRFpRcnNRQm1TU1N0YXF1RDE2RXp1RWE2NXF6UGJqU1hRYzFLMlhPRi1FZVotdTJjU0xsMVpoMnU2ZXM5UVlQbmFfYy16NGswZzJJUjNjUEJ3MVlfaUVFUU03OVpCblBmVUpEeUhFQkdWUnhjTWI5alBpa0c0cXRVQjE1QjFTQWZDTzh4cW11TEhURC12N0M5VU5pRWNyTUZYY3pxV3lqOG1jY2d5UEYycTlKLXJ6dWRodUttQWZVY194elJkNGJMNGpjem1v?oc=5",
-      "dateLocation": "September 5, 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-immigration-authority-says-it-denied-and-revoked-visa-petitions-from-a-major-it-consulting-company-after-/articleshow/133807905.cms",
+      "dateLocation": "2026-09-06 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Alternative Fuels Overtake Petrol in Indian Car Sales",
-      "whyItMatters": "Reflects a profound structural shift in consumer preferences toward sustainable motoring and clean energy mobility.",
-      "brief": "CNG, hybrid, and electric vehicles captured 42% of India's passenger vehicle market in August, edging past petrol sales.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/cng-hybrid-and-evs-overtake-petrol-as-india-s-car-buyers-embrace-cleaner-fuels-11788628628925.html",
-      "dateLocation": "September 5, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "CBI Lodges FIR Against Subhash Chandra in Fraud Case",
-      "whyItMatters": "Major corporate governance development impacting high-profile media and financial sector leadership figures.",
-      "brief": "The CBI filed an FIR against Subhash Chandra and others regarding a multi-crore financial fraud investigation.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/cbi-lodges-fir-against-subhash-chandra-three-others-in-rs-1322-crore-fraud-case-lic-housing-finance/articleshow/133794433.cms",
-      "dateLocation": "September 5, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Global Central Banks Reshuffle Official Gold Reserves",
-      "whyItMatters": "Indicates changing geopolitical calculations and sovereign risk management strategies among global financial authorities.",
-      "brief": "Central banks are actively moving physical gold reserves across international vaults in response to shifting economic policies.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/gold-reserves-are-on-the-move-but-central-banks-are-choosing-different-vaults/articleshow/133788083.cms",
-      "dateLocation": "September 5, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
