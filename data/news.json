@@ -1,120 +1,147 @@
 {
-  "lastUpdated": "2026-09-07T02:46:42.458Z",
+  "lastUpdated": "2026-09-07T11:31:11.306Z",
   "ticker": [
-    "US-Iran ship strikes escalate maritime tensions",
-    "Delhi building collapse death toll rises to six",
-    "Amazon cargo plane crashes in Miami",
-    "Germany plans airport drone anti-sabotage shield",
-    "TCS invests $7.4B in AI data center campus"
+    "India Clears ₹1.1 Lakh Crore Defence Deals",
+    "Delhi Suspends MCD Officials After Deadly Building Collapse",
+    "Alternative-Fuel Car Sales Overtake Petrol in India",
+    "India Unloads $8 Billion to Anchor Rupee",
+    "Nepal Marks National Mourning After Deadly Flood"
   ],
   "articles": [
     {
-      "headline": "US and Iran Exchange Strikes on Ships in Hormuz",
-      "whyItMatters": "Escalating naval clashes threaten critical global oil supply routes and energy security.",
-      "brief": "Oil prices extended gains following military strikes between US and Iranian vessels in the Strait of Hormuz, causing maritime traffic to drop significantly.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
-      "dateLocation": "September 7, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Amazon Cargo Plane Crashes in Miami",
-      "whyItMatters": "Major aviation accident highlights cargo safety and operational risks at busy hubs.",
-      "brief": "An Amazon Prime Air cargo plane crashed after overshooting the runway in Miami, resulting in at least five fatalities and triggering extensive fires.",
+      "headline": "Delhi Building Collapse Kills Seven, MCD Suspends Officials",
+      "whyItMatters": "Exposes critical urban safety lapses and regulatory failures in municipal governance.",
+      "brief": "Following a fatal five-storey building collapse in Satya Niketan that killed seven people, the MCD suspended five South Zone officials while facing intense judicial scrutiny from the Delhi High Court over accountability.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUxSZmhjRHBaRS1KVTJfWmUyVXFzOGs3NENFMU4wZFprQWVkX19CMGxSWlh0cW1GZzhYMWpIaWFjVWpSTUl3alNMY0lHVmlQOXlHRGZmNVJ0NElhN2UyOUN1MnozaFp0amh0YzV3VnhDX1VENFdjMk1aNU1IXzM4dWJjaXBRSzIxd3ZhOEtPRlppR3VMR01YRm1ZMlE3aWpIN0xURFhLSVpqLUFfWi1SaWdiTzZ1YnRqZGtGOQ?oc=5",
-      "dateLocation": "September 7, 2026 | Miami",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-satya-niketan-building-collapse-mcd-suspends-five-officials-from-south-zone-after-seven-people-killed-11788766852447.html",
+      "dateLocation": "September 7, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Building Collapse Kills Six in Satya Niketan",
-      "whyItMatters": "Exposes severe urban safety failures and unregulated housing crises in student hubs.",
-      "brief": "A multi-storey building collapse in Delhi killed six people and trapped several others, prompting massive enforcement drives against illegal structural modifications.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWkyV2lvbGxIam15ZEdnMjQyb0sxd2JGaVBnRlJ5ZmZuYUVERVRvelQyNkVseTNyS1ZwVFNLNmRaWnZfbmo1VTNDemhDZkxVbXdkOXZQc1ZKRnhIQTJPaWtaRW0xdWFCT0lneFFPbWE2aGZpNzI4TEtkREdJYzBLZnlVdmxteHoybzhJQzRBRjlkQkFER0pTYkIzVC1TMEtFbk43MmNYTVFYaFRoUm9vZWdBZ3NFMU1WM0FNYzY3cw?oc=5",
+      "headline": "India Clears ₹1.10 Lakh Crore Defence Acquisitions",
+      "whyItMatters": "Significantly bolsters military modernization and domestic manufacturing capabilities across all armed forces.",
+      "brief": "The Defence Acquisition Council chaired by Rajnath Singh cleared major proposals worth ₹1.10 lakh crore, including CBRN reconnaissance vehicles, advanced light helicopters, and mine-laying systems for the Army, Navy, and Air Force.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/defence-ministry-clears-rs-1-10-lakh-crore-acquisition-proposals-for-army-navy-air-force/articleshow/133877562.cms",
       "dateLocation": "September 7, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Germany Plans Anti-Sabotage Shield After Drone Attack",
-      "whyItMatters": "Highlights growing critical infrastructure vulnerabilities across European transportation networks.",
-      "brief": "Following an airport drone attack, Germany has announced plans to implement a comprehensive anti-sabotage shield to protect critical transport infrastructure.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw?oc=5",
-      "dateLocation": "September 7, 2026 | Berlin",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Alternative-Fuel Car Sales Top Petrol in India",
+      "whyItMatters": "Marks a historic shift in consumer preference driven by fuel costs and environmental regulations.",
+      "brief": "Dealers' bodies report that alternative-fuel car sales in India have outpaced traditional petrol vehicles, fueled by rising operating costs and growing consumer concerns regarding E20 fuel mandates.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVoxeEhSeXlubXdWMV9CbTQ0b25DU1RXb2pzMG1Hay1fZU1HUXlrTmozX3JzU0dZcE1weno2X2lxcXZPcEtiY1lCSW93M3Q2bS14QUFTblBFdDRjWER5dkY5UzVxMHJBbkd0MWlONnB4MzBwNFNDV2doVm92UlBLUEJzVVpVbm9DeUFIRDZxc2dPUENEcGhOcnI2a2VtMGpoQ2FVR2wzVFE3U3dOd3EzcWQ2Z0hUQVpCT1M1ZHY1MUp3dEpGUmRn?oc=5",
+      "dateLocation": "September 7, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "TCS Invests Up to $7.4 Billion in AI Campus",
-      "whyItMatters": "Massive capital expenditure signals India's aggressive positioning in the global artificial intelligence economy.",
-      "brief": "Tata Consultancy Services plans to invest up to $7.4 billion to build a massive AI data center campus in India.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
+      "headline": "Maruti Suzuki Hikes Car Prices for Third Time",
+      "whyItMatters": "Reflects ongoing input cost pressures impacting consumer automotive demand nationwide.",
+      "brief": "India's largest carmaker Maruti Suzuki has announced another price hike, its third since May, citing rising production costs and inflationary pressures across the supply chain.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWV4ZlNlSGx0SjBFdTNNMnM0QTEwRXVOanpKckg2OGJPbWQ4MEU4X2dPT3JWbF9EZV9aY2NWWUdkVGV5NkhxWFBqaDJNbm1GN09ZVWRTMjZwck1jRTNBbUdES2VXdGxCV3oyZ1N2STZpLVcxNFMyMXpld3FoR3RVdHZRdDNVUTg2eDBTdmFMWEFRVjRNVGt0YVNRREhhdkZHT3VFVg?oc=5",
+      "dateLocation": "September 7, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Central Bank Unloads $8 Billion to Anchor Rupee",
+      "whyItMatters": "Demonstrates aggressive monetary intervention to maintain currency stability amid global market pressures.",
+      "brief": "According to banking sources, the Reserve Bank of India deployed at least $8 billion from its foreign reserves last week to defend the weakening rupee against external macroeconomic headwinds.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEJ5MFFyZkNReHhmbnNfZmpwQzExb0cxY0Y4dHpBRXkxZE5XSVdFNjhpLUhxUUFmMGs1YkJxMW9GSG5PYmpIVl9IQnlUSnVhWWQxSUdsVUdKQnMxc1FfSk05U0ZvbmRSOWNrSVM3VVg2eFhhZk9QN2h6bXBMYV9vSkRkdllxQXBQTVFOZ3U5TDZwaTZjSUliYy1kOE9BN3VQZkFQM1N6Ylh0YVQwVTdjWHVwMnVPb1hUU0o5Y2pETy1wMk1ZN1E?oc=5",
       "dateLocation": "September 7, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Government Raises Fuel Prices for Heavy Users",
-      "whyItMatters": "Domestic economic shifts and subsidy cuts reflect growing pressure from international sanctions.",
-      "brief": "In response to intensifying economic pressure, the Iranian government has announced plans to increase fuel prices specifically for heavy users.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzl2bnVkTGFvdGg5UXU3LXk1ZUNSWlVtajg2NFFCd1JkMzhHSVVfeVd0djRKSHpCa2xpVkVJTG1Ra0hwNWVNQkY3VVg0NmpXRXBFMFFSbFM1SERFb1Fna2V6a1h0WjhYWHQyYl84cWhQalRPamRqWVBUWVhWLXY1U2QzeUF5UjVfd3NEcHlLMUx3MDJSR0ZvcHRYYjFkdw?oc=5",
-      "dateLocation": "September 7, 2026 | Tehran",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Geoffrey Hinton Backs Canada in Tariff War",
-      "whyItMatters": "Highlights geopolitical tech talent migration trends driven by immigration policies.",
-      "brief": "Pioneering AI researcher Geoffrey Hinton has endorsed Canada in its trade disputes, praising its welcoming stance on tech immigration compared to the US.",
+      "headline": "Gold Eases as Strong US Jobs Data Boosts Rates",
+      "whyItMatters": "Highlights how robust US economic indicators directly dictate global precious metal valuations.",
+      "brief": "Gold prices retreated slightly as a stronger-than-expected US jobs report reinforced expectations that the Federal Reserve will maintain high interest rates to curb inflation.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGNES0hoVGlPMVZfR041a2MwVUNQOUI5dzBweW04UlNvWjNJUnJYUEdGMkkyb1I1MWdRcUp5SDJybUV4YlRTWEZ5aFd4M3NaTnE5clF1Y200Tk9oNFoxd3lncVkzbjFNdTVKazRLNVpSSloteGRvakNZWmxwLW5uUWo5V0U2dDc2TFE0Nkg4VWVOU1dpdE5tNUhzOWtXcUNjTUZQMmF3T2ZOQkpWRURmX20wSFlvam9UV1Yw?oc=5",
+      "dateLocation": "September 7, 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Google-Backed Indian Space Startup Secures $100 Million",
+      "whyItMatters": "Underscores the rapid commercialization and growing global investor confidence in India's private space sector.",
+      "brief": "An emerging Indian space tech startup backed by Google has successfully raised $100 million in its latest funding round to scale up satellite manufacturing and launch vehicle capabilities.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/father-of-ai-geoffrey-hinton-bets-on-canada-in-tariff-war-with-us-says-unlike-america-canada-welcomes-immigration-lead-engineer-lost-h1-b-visa/articleshow/133859056.cms",
-      "dateLocation": "September 7, 2026 | Toronto",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckhZX3NWQWUyYUdvMjlFb25xTFhUN0VmNmIwX0dwd3JhVnU3b01WR3ZpZUhzQ3J3c19mMHFOakVKSnlwMFhkNmF5TlBGYl80WW80ckIyOXRpaFFMUlMtNlMyc3VpQ2psYk1kZGx4Slh0SUdLcHhONEk4Vkd0czMtSUQtckhYM01GNGJicTZxaVVCdGwxLXVLQjdQOE9rd3RMY2FzME5DeWdwWThqM3VVbnZndG1sZThDcHc?oc=5",
+      "dateLocation": "September 7, 2026 | Bengaluru",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Satwik and Chirag Triumph at China Masters",
-      "whyItMatters": "Major badminton victory boosts India's medal prospects ahead of the Asian Games.",
-      "brief": "Indian badminton stars Satwiksairaj Rankireddy and Chirag Shetty secured a thrilling victory at the China Masters BWF Super 750 tournament.",
+      "headline": "China Develops Advanced Humanoid Robots for Combat Roles",
+      "whyItMatters": "Signals a dangerous escalation in the militarization of advanced artificial intelligence and robotics.",
+      "brief": "Reports indicate that Chinese defense initiatives are pivoting commercial humanoid robotic platforms into combat-ready units, integrating advanced mobility and tactical algorithms for future military operations.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
+      "dateLocation": "September 7, 2026 | Beijing",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal Observes National Mourning Day After Floods",
+      "whyItMatters": "Draws urgent attention to escalating climate vulnerabilities and Himalayan disaster risks across South Asia.",
+      "brief": "The nation of Nepal observed a solemn national mourning day following a catastrophic flood disaster that caused widespread devastation, leaving infrastructure ruined and raising questions about regional early-warning systems.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJveGVZS095QW9DNThLWGh4dlU1MzJMeWtwRHBRTzlOMXRKeklkVl8wNEh6aVlfdzNRajJlQ2JmekkteGRxbjBCV3hyOWU2VEpXc2k4RklPZFJSdFZtZTZQR2xBM3ZfLUN3cERMcGk0bVdYNDNKb3Y4bXZneGNNTGdaSXdYWTB3Vmt6LWZsa1U1M1JjU0dCcWV0UElyUnFuU2FvWkNuUW56TEtQLXc?oc=5",
+      "dateLocation": "September 7, 2026 | Kathmandu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran to Announce New Restricted Zone in the Gulf",
+      "whyItMatters": "Heightens geopolitical tensions and poses potential threats to critical international maritime trade routes.",
+      "brief": "Iranian authorities announced plans to establish a new restricted security zone in the Persian Gulf in the coming days, escalating regional friction with Western naval forces operating in the area.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
+      "dateLocation": "September 7, 2026 | Tehran",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Fixing Cloud Hangs Over Pakistan Cricket Again",
+      "whyItMatters": "Damages international sporting integrity and plunges national cricket administration into a severe crisis.",
+      "brief": "Pakistan cricket faces renewed corruption allegations after seven players were dropped, coaches released, and mobile phones confiscated during the England Test series without official explanation from the board.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/satwik-chirag-breach-great-wall-china-masters-win-boosts-asian-games-hopes/articleshow/133859924.cms",
-      "dateLocation": "September 7, 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/phones-confiscated-players-sent-home-fixing-cloud-hangs-over-pakistan-cricket-again/articleshow/133871424.cms",
+      "dateLocation": "September 7, 2026 | Lahore",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AfD Scores Historic Victory in German State Election",
-      "whyItMatters": "Shifts the European political landscape and challenges traditional coalition governing dynamics.",
-      "brief": "The far-right AfD is projected to secure a historic win in a German state election, marking a major setback for Chancellor Friedrich Merz's CDU.",
+      "headline": "Indian Health Activists Challenge Food Warning Proposal",
+      "whyItMatters": "Directly impacts consumer health transparency and regulatory food labeling standards nationwide.",
+      "brief": "Public health activists have lodged formal legal challenges in court opposing a controversial food warning proposal, arguing that current drafts compromise consumer safety and obscure nutritional transparency.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2pSdDBXOTd0bFI3MmNXLTlQWW5MWDRmN096R0x3T0MxSjh3d3ozRjJmcWlLVEdZSW91dnFza3J2WEQ3NEp0ZzFUek1HaUtxQjg3OWE1b3doUXdSSDVmV3FfUEE3NWNvZEhYLV9BVTR3RHJPaVQ3dk9PQVc4Uk1rbjlKSzdnbXBvV1p2TUJYSTR4Umw0TEJBM1NNX2QxNTRkMU1qZmFvS09HbHFNMDY2c2VZMXc?oc=5",
+      "dateLocation": "September 7, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Piyush Goyal Outlines Medical Tourism Expansion Plan",
+      "whyItMatters": "Aims to position India as the premier global hub for affordable, high-end healthcare services.",
+      "brief": "Commerce and Industry Minister Piyush Goyal unveiled a five-point strategy targeting 10 million medical value tourists, aiming to upgrade infrastructure and streamline visa frameworks across the country.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/india-medical-tourism-10-million-patients-piyush-goyal-11788773491067.html",
+      "dateLocation": "September 7, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BJP Wins Majority in Rajasthan Municipal By-Elections",
+      "whyItMatters": "Demonstrates grassroots political momentum for the ruling party ahead of upcoming regional state contests.",
+      "brief": "The Bharatiya Janata Party secured a dominant victory in the Rajasthan civic polls by winning 44 out of 77 contested seats, comfortably outpacing the opposition Congress party.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/afd-projected-to-score-historic-victory-in-german-state-election-but-path-to-power-remain-unclear-11788716551220.html",
-      "dateLocation": "September 7, 2026 | Berlin",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/rajasthan-civic-polls-bjp-wins-44-congress-16-of-77-unopposed-seats-37-women-among-winners/articleshow/133876544.cms",
+      "dateLocation": "September 7, 2026 | Jaipur",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global Energy Markets Face Severe Strain From Sanctions",
-      "whyItMatters": "Warnings over Russian oil exclusions underscore deep vulnerabilities in international supply chains.",
-      "brief": "Russian envoy Denis Alipov warned that the global energy market would severely struggle if Russian oil is entirely excluded from markets.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/world/us-trade-war-what-if-russian-oil-is-excluded-from-markets-envoy-alipov-warns-world-will-not-cope-11788713729490.html",
+      "headline": "Census Movement Signals Early 2027 State Elections",
+      "whyItMatters": "Sets a definitive timeline for major electoral battles across five key Indian states.",
+      "brief": "Recent administrative movements regarding census data point toward an upcoming February-March election timeline in 2027 for five major state legislative assemblies, prompting early political preparations.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/census-move-signals-feb-march-timeline-for-2027-assembly-polls-in-five-states/articleshow/133875073.cms",
       "dateLocation": "September 7, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Netanyahu Orders Evacuation of West Bank Outposts",
-      "whyItMatters": "Shifts territorial control policies within disputed regions of the West Bank.",
-      "brief": "Israeli Prime Minister Benjamin Netanyahu has ordered the evacuation of several unauthorized settler outposts built in Palestinian Authority-controlled areas.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/netanyahu-orders-evacuation-of-some-west-bank-settler-outposts-minister/article71437261.ece",
-      "dateLocation": "September 7, 2026 | Jerusalem",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and China Hold Corps Commanders Meeting",
-      "whyItMatters": "Continued military dialogue aims to de-escalate long-standing border friction points.",
-      "brief": "Indian and Chinese military officials held a strategic Corps Commanders meeting in Arunachal Pradesh to discuss border stability and troop disengagement.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-china-corps-commanders-meet-in-arunachal-for-first-time/articleshow/133850148.cms",
-      "dateLocation": "September 7, 2026 | Arunachal Pradesh",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
