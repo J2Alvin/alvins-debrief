@@ -1,147 +1,129 @@
 {
-  "lastUpdated": "2026-09-07T11:31:11.306Z",
+  "lastUpdated": "2026-09-07T17:11:31.737Z",
   "ticker": [
-    "India Clears ₹1.1 Lakh Crore Defence Deals",
-    "Delhi Suspends MCD Officials After Deadly Building Collapse",
-    "Alternative-Fuel Car Sales Overtake Petrol in India",
-    "India Unloads $8 Billion to Anchor Rupee",
-    "Nepal Marks National Mourning After Deadly Flood"
+    "Seven dead in Delhi building collapse",
+    "India central bank unloads $8B",
+    "Canada sets retaliatory US tariffs",
+    "Satwik-Chirag win China Masters",
+    "Germany AfD scores election victory"
   ],
   "articles": [
     {
-      "headline": "Delhi Building Collapse Kills Seven, MCD Suspends Officials",
-      "whyItMatters": "Exposes critical urban safety lapses and regulatory failures in municipal governance.",
-      "brief": "Following a fatal five-storey building collapse in Satya Niketan that killed seven people, the MCD suspended five South Zone officials while facing intense judicial scrutiny from the Delhi High Court over accountability.",
+      "headline": "Delhi Building Collapse Kills Seven",
+      "whyItMatters": "Highlights critical failures in urban safety regulations and unauthorized building operations.",
+      "brief": "A tragic building collapse in Delhi's Satya Niketan resulted in seven fatalities, prompting high court inquiries, arrests, and intense scrutiny over lax structural audits.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/delhi-satya-niketan-building-collapse-mcd-suspends-five-officials-from-south-zone-after-seven-people-killed-11788766852447.html",
-      "dateLocation": "September 7, 2026 | New Delhi",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTExsWHRaZmQ3T0JIcEJQeEpGbEdKQXN3a2ZmU3RYNFZhTlJiMnRrY2ViR3ptQnZObGJ4bGI0WldwR25vaEppRWkxQkVTNTVYNVJpcXVhSFF5Z1hwUDlTbHNvUlZCdGh6b1dGT2dRSU1saTNJNFdVWDRVVkJVUkVlN3hmQk9mSDRpSUZJTGNkd0hrRlJ3ZS1pUUkwZ3BZRWFqU084Q1M3azNjSS1aOW9aQXh6YWFsTTVFc18tUA?oc=5",
+      "dateLocation": "2026-09-07 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Clears ₹1.10 Lakh Crore Defence Acquisitions",
-      "whyItMatters": "Significantly bolsters military modernization and domestic manufacturing capabilities across all armed forces.",
-      "brief": "The Defence Acquisition Council chaired by Rajnath Singh cleared major proposals worth ₹1.10 lakh crore, including CBRN reconnaissance vehicles, advanced light helicopters, and mine-laying systems for the Army, Navy, and Air Force.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/defence-ministry-clears-rs-1-10-lakh-crore-acquisition-proposals-for-army-navy-air-force/articleshow/133877562.cms",
-      "dateLocation": "September 7, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Alternative-Fuel Car Sales Top Petrol in India",
-      "whyItMatters": "Marks a historic shift in consumer preference driven by fuel costs and environmental regulations.",
-      "brief": "Dealers' bodies report that alternative-fuel car sales in India have outpaced traditional petrol vehicles, fueled by rising operating costs and growing consumer concerns regarding E20 fuel mandates.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVoxeEhSeXlubXdWMV9CbTQ0b25DU1RXb2pzMG1Hay1fZU1HUXlrTmozX3JzU0dZcE1weno2X2lxcXZPcEtiY1lCSW93M3Q2bS14QUFTblBFdDRjWER5dkY5UzVxMHJBbkd0MWlONnB4MzBwNFNDV2doVm92UlBLUEJzVVpVbm9DeUFIRDZxc2dPUENEcGhOcnI2a2VtMGpoQ2FVR2wzVFE3U3dOd3EzcWQ2Z0hUQVpCT1M1ZHY1MUp3dEpGUmRn?oc=5",
-      "dateLocation": "September 7, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maruti Suzuki Hikes Car Prices for Third Time",
-      "whyItMatters": "Reflects ongoing input cost pressures impacting consumer automotive demand nationwide.",
-      "brief": "India's largest carmaker Maruti Suzuki has announced another price hike, its third since May, citing rising production costs and inflationary pressures across the supply chain.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWV4ZlNlSGx0SjBFdTNNMnM0QTEwRXVOanpKckg2OGJPbWQ4MEU4X2dPT3JWbF9EZV9aY2NWWUdkVGV5NkhxWFBqaDJNbm1GN09ZVWRTMjZwck1jRTNBbUdES2VXdGxCV3oyZ1N2STZpLVcxNFMyMXpld3FoR3RVdHZRdDNVUTg2eDBTdmFMWEFRVjRNVGt0YVNRREhhdkZHT3VFVg?oc=5",
-      "dateLocation": "September 7, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Central Bank Unloads $8 Billion to Anchor Rupee",
-      "whyItMatters": "Demonstrates aggressive monetary intervention to maintain currency stability amid global market pressures.",
-      "brief": "According to banking sources, the Reserve Bank of India deployed at least $8 billion from its foreign reserves last week to defend the weakening rupee against external macroeconomic headwinds.",
+      "headline": "Indian Central Bank Unloads $8 Billion",
+      "whyItMatters": "Demonstrates aggressive central bank intervention to defend the domestic currency against depreciation pressures.",
+      "brief": "Bankers report that the Reserve Bank of India deployed at least $8 billion last week to anchor the rupee amid mounting external pressures.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEJ5MFFyZkNReHhmbnNfZmpwQzExb0cxY0Y4dHpBRXkxZE5XSVdFNjhpLUhxUUFmMGs1YkJxMW9GSG5PYmpIVl9IQnlUSnVhWWQxSUdsVUdKQnMxc1FfSk05U0ZvbmRSOWNrSVM3VVg2eFhhZk9QN2h6bXBMYV9vSkRkdllxQXBQTVFOZ3U5TDZwaTZjSUliYy1kOE9BN3VQZkFQM1N6Ylh0YVQwVTdjWHVwMnVPb1hUU0o5Y2pETy1wMk1ZN1E?oc=5",
-      "dateLocation": "September 7, 2026 | Mumbai",
+      "dateLocation": "2026-09-07 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Eases as Strong US Jobs Data Boosts Rates",
-      "whyItMatters": "Highlights how robust US economic indicators directly dictate global precious metal valuations.",
-      "brief": "Gold prices retreated slightly as a stronger-than-expected US jobs report reinforced expectations that the Federal Reserve will maintain high interest rates to curb inflation.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGNES0hoVGlPMVZfR041a2MwVUNQOUI5dzBweW04UlNvWjNJUnJYUEdGMkkyb1I1MWdRcUp5SDJybUV4YlRTWEZ5aFd4M3NaTnE5clF1Y200Tk9oNFoxd3lncVkzbjFNdTVKazRLNVpSSloteGRvakNZWmxwLW5uUWo5V0U2dDc2TFE0Nkg4VWVOU1dpdE5tNUhzOWtXcUNjTUZQMmF3T2ZOQkpWRURmX20wSFlvam9UV1Yw?oc=5",
-      "dateLocation": "September 7, 2026 | New York",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Google-Backed Indian Space Startup Secures $100 Million",
-      "whyItMatters": "Underscores the rapid commercialization and growing global investor confidence in India's private space sector.",
-      "brief": "An emerging Indian space tech startup backed by Google has successfully raised $100 million in its latest funding round to scale up satellite manufacturing and launch vehicle capabilities.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckhZX3NWQWUyYUdvMjlFb25xTFhUN0VmNmIwX0dwd3JhVnU3b01WR3ZpZUhzQ3J3c19mMHFOakVKSnlwMFhkNmF5TlBGYl80WW80ckIyOXRpaFFMUlMtNlMyc3VpQ2psYk1kZGx4Slh0SUdLcHhONEk4Vkd0czMtSUQtckhYM01GNGJicTZxaVVCdGwxLXVLQjdQOE9rd3RMY2FzME5DeWdwWThqM3VVbnZndG1sZThDcHc?oc=5",
-      "dateLocation": "September 7, 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Develops Advanced Humanoid Robots for Combat Roles",
-      "whyItMatters": "Signals a dangerous escalation in the militarization of advanced artificial intelligence and robotics.",
-      "brief": "Reports indicate that Chinese defense initiatives are pivoting commercial humanoid robotic platforms into combat-ready units, integrating advanced mobility and tactical algorithms for future military operations.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-      "dateLocation": "September 7, 2026 | Beijing",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nepal Observes National Mourning Day After Floods",
-      "whyItMatters": "Draws urgent attention to escalating climate vulnerabilities and Himalayan disaster risks across South Asia.",
-      "brief": "The nation of Nepal observed a solemn national mourning day following a catastrophic flood disaster that caused widespread devastation, leaving infrastructure ruined and raising questions about regional early-warning systems.",
+      "headline": "Canada Imposes Retaliatory Tariffs on US",
+      "whyItMatters": "Escalates trade tensions and risks significant economic impacts on cross-border supply chains.",
+      "brief": "Carney's government is set to impose retaliatory tariffs on various US steel products and consumer goods, escalating ongoing trade conflicts.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJveGVZS095QW9DNThLWGh4dlU1MzJMeWtwRHBRTzlOMXRKeklkVl8wNEh6aVlfdzNRajJlQ2JmekkteGRxbjBCV3hyOWU2VEpXc2k4RklPZFJSdFZtZTZQR2xBM3ZfLUN3cERMcGk0bVdYNDNKb3Y4bXZneGNNTGdaSXdYWTB3Vmt6LWZsa1U1M1JjU0dCcWV0UElyUnFuU2FvWkNuUW56TEtQLXc?oc=5",
-      "dateLocation": "September 7, 2026 | Kathmandu",
+      "sourceUrl": "https://www.livemint.com/news/world/trumpcarney-trade-war-canada-set-to-impose-retaliatory-tariffs-on-us-products-11788795162465.html",
+      "dateLocation": "2026-09-07 | Ottawa",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran to Announce New Restricted Zone in the Gulf",
-      "whyItMatters": "Heightens geopolitical tensions and poses potential threats to critical international maritime trade routes.",
-      "brief": "Iranian authorities announced plans to establish a new restricted security zone in the Persian Gulf in the coming days, escalating regional friction with Western naval forces operating in the area.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
-      "dateLocation": "September 7, 2026 | Tehran",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Germany's AfD Secures Landmark Victory",
+      "whyItMatters": "Signals a profound rightward political shift in Europe, altering immigration and foreign policies.",
+      "brief": "The Alternative for Germany achieved significant electoral gains, challenging established norms and influencing regional stances on international alliances.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/europe-turning-right-what-afds-victory-in-germany-means-for-russia-us/articleshow/133875702.cms",
+      "dateLocation": "2026-09-07 | Berlin",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Fixing Cloud Hangs Over Pakistan Cricket Again",
-      "whyItMatters": "Damages international sporting integrity and plunges national cricket administration into a severe crisis.",
-      "brief": "Pakistan cricket faces renewed corruption allegations after seven players were dropped, coaches released, and mobile phones confiscated during the England Test series without official explanation from the board.",
+      "headline": "Satwik and Chirag Win China Masters",
+      "whyItMatters": "Boosts national morale and provides essential momentum ahead of major international multi-sport games.",
+      "brief": "Star Indian shuttlers Satwiksairaj Rankireddy and Chirag Shetty secured their maiden China Masters title in Shenzhen, overcoming injury concerns.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/phones-confiscated-players-sent-home-fixing-cloud-hangs-over-pakistan-cricket-again/articleshow/133871424.cms",
-      "dateLocation": "September 7, 2026 | Lahore",
+      "sourceUrl": "https://www.thehindu.com/sport/other-sports/satwiksairaj-rankireddy-chirag-shetty-win-china-masters-eye-asian-games-title-defence/article71440040.ece",
+      "dateLocation": "2026-09-07 | Shenzhen",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Health Activists Challenge Food Warning Proposal",
-      "whyItMatters": "Directly impacts consumer health transparency and regulatory food labeling standards nationwide.",
-      "brief": "Public health activists have lodged formal legal challenges in court opposing a controversial food warning proposal, arguing that current drafts compromise consumer safety and obscure nutritional transparency.",
+      "headline": "NASA Launches Nancy Grace Roman Telescope",
+      "whyItMatters": "Revolutionizes astronomical research by providing sweeping panoramic views of the universe on an unprecedented scale.",
+      "brief": "NASA successfully deployed the cutting-edge space observatory equipped with military-grade spy mirrors, promising to map astronomical territories extensively.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/half-a-million-4k-tvs-to-view-one-photo-why-nasas-new-space-telescope-is-special/articleshow/133865609.cms",
+      "dateLocation": "2026-09-07 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Health Activists Challenge Food Warnings",
+      "whyItMatters": "Directly impacts public health transparency and regulatory frameworks governing consumer food labeling.",
+      "brief": "Health activists have lodged formal legal concerns regarding proposed food warning standards, seeking stricter transparency from regulatory authorities.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2pSdDBXOTd0bFI3MmNXLTlQWW5MWDRmN096R0x3T0MxSjh3d3ozRjJmcWlLVEdZSW91dnFza3J2WEQ3NEp0ZzFUek1HaUtxQjg3OWE1b3doUXdSSDVmV3FfUEE3NWNvZEhYLV9BVTR3RHJPaVQ3dk9PQVc4Uk1rbjlKSzdnbXBvV1p2TUJYSTR4Umw0TEJBM1NNX2QxNTRkMU1qZmFvS09HbHFNMDY2c2VZMXc?oc=5",
-      "dateLocation": "September 7, 2026 | New Delhi",
+      "dateLocation": "2026-09-07 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Piyush Goyal Outlines Medical Tourism Expansion Plan",
-      "whyItMatters": "Aims to position India as the premier global hub for affordable, high-end healthcare services.",
-      "brief": "Commerce and Industry Minister Piyush Goyal unveiled a five-point strategy targeting 10 million medical value tourists, aiming to upgrade infrastructure and streamline visa frameworks across the country.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/india-medical-tourism-10-million-patients-piyush-goyal-11788773491067.html",
-      "dateLocation": "September 7, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "LPG Refill Booking Gap Uniformly Cut",
+      "whyItMatters": "Streamlines household energy distribution and addresses consumer availability issues across states.",
+      "brief": "The Petroleum Ministry directed state-run oil companies to introduce a uniform 25-day gap for LPG refill bookings nationwide.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/lpg-cylinder-rules-changed-refill-booking-gap-cut-to-25-days-for-all-consumers-11788795337380.html",
+      "dateLocation": "2026-09-07 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BJP Wins Majority in Rajasthan Municipal By-Elections",
-      "whyItMatters": "Demonstrates grassroots political momentum for the ruling party ahead of upcoming regional state contests.",
-      "brief": "The Bharatiya Janata Party secured a dominant victory in the Rajasthan civic polls by winning 44 out of 77 contested seats, comfortably outpacing the opposition Congress party.",
+      "headline": "Coal Miners Ramp Up Thermal Plant Supplies",
+      "whyItMatters": "Prevents imminent energy shortages by stabilizing critical coal inventories at power generating units.",
+      "brief": "With dozens of thermal plants holding critically low stocks, the coal ministry has spurred rake loading to secure supplies.",
+      "category": "finance",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/govt-spurs-coal-rake-loading-by-20-to-strengthen-stocks-positions-at-thermal-plants/article71437951.ece",
+      "dateLocation": "2026-09-07 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Huawei and Xiaomi Launch Foldable Phones",
+      "whyItMatters": "Intensifies competition in the high-end mobile market ahead of major global tech launches.",
+      "brief": "Chinese smartphone makers Huawei and Xiaomi rolled out advanced foldable devices in a strategic move prior to the upcoming Apple event.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXj1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
+      "dateLocation": "2026-09-07 | Beijing",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rahul Gandhi Responds to Criticisms",
+      "whyItMatters": "Reflects deep political polarization and ongoing rhetorical battles between ruling and opposition figures.",
+      "brief": "Opposition leader Rahul Gandhi sharply criticized the Prime Minister's derogatory remarks, accusing leadership of silencing democratic dissent.",
       "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/rajasthan-civic-polls-bjp-wins-44-congress-16-of-77-unopposed-seats-37-women-among-winners/articleshow/133876544.cms",
-      "dateLocation": "September 7, 2026 | Jaipur",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/insulting-label-rahul-gandhi-responds-to-dimagi-naxal-attack-accuses-pm-modi-of-silencing-and-shaming-critics/articleshow/133888025.cms",
+      "dateLocation": "2026-09-07 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Census Movement Signals Early 2027 State Elections",
-      "whyItMatters": "Sets a definitive timeline for major electoral battles across five key Indian states.",
-      "brief": "Recent administrative movements regarding census data point toward an upcoming February-March election timeline in 2027 for five major state legislative assemblies, prompting early political preparations.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/census-move-signals-feb-march-timeline-for-2027-assembly-polls-in-five-states/articleshow/133875073.cms",
-      "dateLocation": "September 7, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "UN Map Depicts Disputed Border Lines",
+      "whyItMatters": "Influences geopolitical perceptions and diplomatic stances on sensitive Himalayan territorial claims.",
+      "brief": "A new United Nations map illustrates Arunachal Pradesh and Aksai Chin as territories caught between distinct Indian and Chinese claim lines.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/national/new-un-map-depicts-arunachal-pradesh-and-aksai-chin-as-territories-caught-between-indian-line-and-chinese-line/article71437431.ece",
+      "dateLocation": "2026-09-07 | United Nations",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maruti Suzuki Implements Third Price Hike",
+      "whyItMatters": "Reflects persistent input cost pressures impacting consumer purchasing power in the automotive sector.",
+      "brief": "India's largest carmaker Maruti Suzuki announced its third price increase since May, citing rising manufacturing and material costs.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWV4ZlNlSGx0SjBFdTNNMnM0QTEwRXVOanpKckg2OGJPbWQ4MEU4X2dPT3JWbF9EZV9aY2NWWUdkVGV5NkhxWFBqaDJNbm1GN09ZVWRTMjZwck1jRTNBbUdES2VXdGxCV3oyZ1N2STZpLVcxNFMyMXpld3FoR3RVdHZRdDNVUTg2eDBTdmFMWEFRVjRNVGt0YVNRREhhdkZHT3VFVg?oc=5",
+      "dateLocation": "2026-09-07 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
