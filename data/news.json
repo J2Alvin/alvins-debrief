@@ -1,101 +1,119 @@
 {
-  "lastUpdated": "2026-09-06T19:57:58.621Z",
+  "lastUpdated": "2026-09-07T02:46:42.458Z",
   "ticker": [
-    "Delhi building collapse kills 5",
-    "Germany plans anti-sabotage shield",
-    "US denies Strait of Hormuz strike",
-    "China pumps $54B into banks",
-    "Zelenskyy meets US envoys"
+    "US-Iran ship strikes escalate maritime tensions",
+    "Delhi building collapse death toll rises to six",
+    "Amazon cargo plane crashes in Miami",
+    "Germany plans airport drone anti-sabotage shield",
+    "TCS invests $7.4B in AI data center campus"
   ],
   "articles": [
     {
-      "headline": "Five Dead in Delhi Building Collapse",
-      "whyItMatters": "Exposes critical student housing crises and building safety regulatory failures in major Indian urban centers.",
-      "brief": "A multi-storey building collapse in Delhi's Satya Niketan killed five people, prompting massive student protests and political accountability demands.",
+      "headline": "US and Iran Exchange Strikes on Ships in Hormuz",
+      "whyItMatters": "Escalating naval clashes threaten critical global oil supply routes and energy security.",
+      "brief": "Oil prices extended gains following military strikes between US and Iranian vessels in the Strait of Hormuz, causing maritime traffic to drop significantly.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
+      "dateLocation": "September 7, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Amazon Cargo Plane Crashes in Miami",
+      "whyItMatters": "Major aviation accident highlights cargo safety and operational risks at busy hubs.",
+      "brief": "An Amazon Prime Air cargo plane crashed after overshooting the runway in Miami, resulting in at least five fatalities and triggering extensive fires.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/delhi-building-collapse-several-rescued-will-spare-no-one-cm-vows-action-top-developments/articleshow/133839515.cms",
-      "dateLocation": "Sept 6 | Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUxSZmhjRHBaRS1KVTJfWmUyVXFzOGs3NENFMU4wZFprQWVkX19CMGxSWlh0cW1GZzhYMWpIaWFjVWpSTUl3alNMY0lHVmlQOXlHRGZmNVJ0NElhN2UyOUN1MnozaFp0amh0YzV3VnhDX1VENFdjMk1aNU1IXzM4dWJjaXBRSzIxd3ZhOEtPRlppR3VMR01YRm1ZMlE3aWpIN0xURFhLSVpqLUFfWi1SaWdiTzZ1YnRqZGtGOQ?oc=5",
+      "dateLocation": "September 7, 2026 | Miami",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Germany Plans Anti-Sabotage Shield After Drone Attacks",
-      "whyItMatters": "Highlights escalating vulnerabilities in European critical infrastructure amid rising geopolitical tensions.",
-      "brief": "Following recent airport drone incursions, Germany is rolling out a comprehensive anti-sabotage shield to secure transport hubs and critical national infrastructure.",
+      "headline": "Delhi Building Collapse Kills Six in Satya Niketan",
+      "whyItMatters": "Exposes severe urban safety failures and unregulated housing crises in student hubs.",
+      "brief": "A multi-storey building collapse in Delhi killed six people and trapped several others, prompting massive enforcement drives against illegal structural modifications.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw?oc=5",
-      "dateLocation": "Sept 6 | Berlin, Germany",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWkyV2lvbGxIam15ZEdnMjQyb0sxd2JGaVBnRlJ5ZmZuYUVERVRvelQyNkVseTNyS1ZwVFNLNmRaWnZfbmo1VTNDemhDZkxVbXdkOXZQc1ZKRnhIQTJPaWtaRW0xdWFCT0lneFFPbWE2aGZpNzI4TEtkREdJYzBLZnlVdmxteHoybzhJQzRBRjlkQkFER0pTYkIzVC1TMEtFbk43MmNYTVFYaFRoUm9vZWdBZ3NFMU1WM0FNYzY3cw?oc=5",
+      "dateLocation": "September 7, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Pumping $54 Billion into State Banks",
-      "whyItMatters": "A crucial fiscal intervention aimed at stabilizing China's financial sector and boosting economic growth.",
-      "brief": "China announced a massive capital-boosting injection of $54 billion into major state-owned banks and insurers to strengthen the financial system.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPang2d09TQ3Q1cEd0QVJXaWc5aWpIcVh5MUQ5UEhud1R1OVFKV2lYSXEtb2hGMHNqR0xjUWx1cXJNZ3NFcTV3RmR5LXliVHNuWEJDdUVLVld1OU5mMURmLWFieGxGZzdYbTdhMUZkeXk2UTM2QS1QRWt2M2JJelM4VUlXZ2pxd2I5ZFZyX1k2TmJLNHVURHNwTEVQOHNuOV9rZTM1UFh6d1c0RFAwVFBLaG1yQVAzSEpRQWptMg?oc=5",
-      "dateLocation": "Sept 6 | Beijing, China",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Germany Plans Anti-Sabotage Shield After Drone Attack",
+      "whyItMatters": "Highlights growing critical infrastructure vulnerabilities across European transportation networks.",
+      "brief": "Following an airport drone attack, Germany has announced plans to implement a comprehensive anti-sabotage shield to protect critical transport infrastructure.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlY5UWtzNjhvVnRzNHJpWk54ZTYwMjZNeWIwUTVNU1RSOFl2X19NcGZvRnJxNDZUMmt5LWlvZnROeVlHQ052V2UtaUViYjFBWFhJSlJqN3p5TC1kZHZPZ3hPdDRETE9INHpnYm04eXItcGZhUVRNUVFNbTNTSUoydUdRX3ZtWmFHdnB4cVNNWnRjTTFmN0E5ekFzcEFxcGhzbnR5QU41c2dLcml4Z0l3ZzcwRFhQRlBQdTRmQi0wMnRxUlFkNGI0TmRNZFRhdw?oc=5",
+      "dateLocation": "September 7, 2026 | Berlin",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "TCS Unit to Invest $7.4 Billion in AI Data Centers",
-      "whyItMatters": "Signals massive enterprise capital deployment into artificial intelligence infrastructure and technological expansion.",
-      "brief": "India's TCS unit plans to invest up to $7.4 billion to build a massive AI data center campus, driving regional tech growth.",
+      "headline": "TCS Invests Up to $7.4 Billion in AI Campus",
+      "whyItMatters": "Massive capital expenditure signals India's aggressive positioning in the global artificial intelligence economy.",
+      "brief": "Tata Consultancy Services plans to invest up to $7.4 billion to build a massive AI data center campus in India.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5",
-      "dateLocation": "Sept 6 | New Delhi, India",
+      "dateLocation": "September 7, 2026 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Denies Iran's Claim of Vessel Strike",
-      "whyItMatters": "Underscores dangerous military escalations and conflicting narratives in the critical Middle Eastern shipping lanes.",
-      "brief": "The United States officially denied Iranian claims of a successful strike on an American vessel near the Strait of Hormuz.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-denies-irans-claim-of-strike-on-american-vessel-near-strait-of-hormuz-11788723096763.html",
-      "dateLocation": "Sept 6 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Iran Government Raises Fuel Prices for Heavy Users",
+      "whyItMatters": "Domestic economic shifts and subsidy cuts reflect growing pressure from international sanctions.",
+      "brief": "In response to intensifying economic pressure, the Iranian government has announced plans to increase fuel prices specifically for heavy users.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzl2bnVkTGFvdGg5UXU3LXk1ZUNSWlVtajg2NFFCd1JkMzhHSVVfeVd0djRKSHpCa2xpVkVJTG1Ra0hwNWVNQkY3VVg0NmpXRXBFMFFSbFM1SERFb1Fna2V6a1h0WjhYWHQyYl84cWhQalRPamRqWVBUWVhWLXY1U2QzeUF5UjVfd3NEcHlLMUx3MDJSR0ZvcHRYYjFkdw?oc=5",
+      "dateLocation": "September 7, 2026 | Tehran",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Geoffrey Hinton Backs Canada in Tariff War",
+      "whyItMatters": "Highlights geopolitical tech talent migration trends driven by immigration policies.",
+      "brief": "Pioneering AI researcher Geoffrey Hinton has endorsed Canada in its trade disputes, praising its welcoming stance on tech immigration compared to the US.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/father-of-ai-geoffrey-hinton-bets-on-canada-in-tariff-war-with-us-says-unlike-america-canada-welcomes-immigration-lead-engineer-lost-h1-b-visa/articleshow/133859056.cms",
+      "dateLocation": "September 7, 2026 | Toronto",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Satwik and Chirag Triumph at China Masters",
+      "whyItMatters": "Major badminton victory boosts India's medal prospects ahead of the Asian Games.",
+      "brief": "Indian badminton stars Satwiksairaj Rankireddy and Chirag Shetty secured a thrilling victory at the China Masters BWF Super 750 tournament.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/satwik-chirag-breach-great-wall-china-masters-win-boosts-asian-games-hopes/articleshow/133859924.cms",
+      "dateLocation": "September 7, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "AfD Scores Historic Victory in German State Election",
-      "whyItMatters": "Marks a significant political shift in Europe as far-right populist movements gain substantial legislative ground.",
-      "brief": "The far-right AfD secured a historic victory in a German regional election, posing a major challenge to traditional ruling parties.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/afd-projected-to-score-historic-victory-in-german-state-election-but-path-to-power-remains-unclear-11788716551220.html",
-      "dateLocation": "Sept 6 | Magdeburg, Germany",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Zelenskyy Sees No Fast End to War After US Talks",
-      "whyItMatters": "Indicates prolonged geopolitical friction and the ongoing necessity of Western military and financial support for Ukraine.",
-      "brief": "Following meetings with US envoys, Ukrainian leadership acknowledged that the conflict with Russia is likely to extend through another severe winter.",
+      "whyItMatters": "Shifts the European political landscape and challenges traditional coalition governing dynamics.",
+      "brief": "The far-right AfD is projected to secure a historic win in a German state election, marking a major setback for Chancellor Friedrich Merz's CDU.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/zelenskyy-sees-no-fast-end-to-war-after-meeting-with-us-envoys-11788713942895.html",
-      "dateLocation": "Sept 6 | Kyiv, Ukraine",
+      "sourceUrl": "https://www.livemint.com/news/us-news/afd-projected-to-score-historic-victory-in-german-state-election-but-path-to-power-remain-unclear-11788716551220.html",
+      "dateLocation": "September 7, 2026 | Berlin",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Finmin Secures $1 Billion IFC Funding for MSMEs",
-      "whyItMatters": "Provides critical financial liquidity and credit backing to small and medium enterprises vital for emerging economies.",
-      "brief": "India's Finance Ministry secured $1 billion in IFC funding aimed at bolstering MSMEs, with half the funds already released to SIDBI.",
+      "headline": "Global Energy Markets Face Severe Strain From Sanctions",
+      "whyItMatters": "Warnings over Russian oil exclusions underscore deep vulnerabilities in international supply chains.",
+      "brief": "Russian envoy Denis Alipov warned that the global energy market would severely struggle if Russian oil is entirely excluded from markets.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/finmin-secures-1-billion-ifc-funding-for-msmes-500-million-already-released-to-sidbi/articleshow/133848674.cms",
-      "dateLocation": "Sept 6 | New Delhi, India",
+      "sourceUrl": "https://www.livemint.com/news/world/us-trade-war-what-if-russian-oil-is-excluded-from-markets-envoy-alipov-warns-world-will-not-cope-11788713729490.html",
+      "dateLocation": "September 7, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ISRO Addresses Staff Concerns Over Privatisation",
-      "whyItMatters": "Reflects the shifting paradigm of national space programs as commercial aerospace entities scale up rapidly.",
-      "brief": "Space agency officials assured staff that ISRO's role remains central despite increased privatization and private sector participation in India's space ecosystem.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/isros-role-by-no-means-diminishing-space-agency-chairman-pawan-goenka-address-staff-s-privatisation-concerns-11788708171870.html",
-      "dateLocation": "Sept 6 | Bengaluru, India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Netanyahu Orders Evacuation of West Bank Outposts",
+      "whyItMatters": "Shifts territorial control policies within disputed regions of the West Bank.",
+      "brief": "Israeli Prime Minister Benjamin Netanyahu has ordered the evacuation of several unauthorized settler outposts built in Palestinian Authority-controlled areas.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/international/netanyahu-orders-evacuation-of-some-west-bank-settler-outposts-minister/article71437261.ece",
+      "dateLocation": "September 7, 2026 | Jerusalem",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Cricket Decline Linked to Past India Win",
-      "whyItMatters": "Analyzes the psychological and strategic impact of high-stakes rivalries on professional sports team performance.",
-      "brief": "Former cricketer Mohammad Yousuf argued that Pakistan's historic 2021 World Cup win against India negatively altered player mindsets and contributed to a subsequent decline.",
+      "headline": "India and China Hold Corps Commanders Meeting",
+      "whyItMatters": "Continued military dialogue aims to de-escalate long-standing border friction points.",
+      "brief": "Indian and Chinese military officials held a strategic Corps Commanders meeting in Arunachal Pradesh to discuss border stability and troop disengagement.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/win-against-india-damaged-us-a-lot-mohammad-yousuf-explains-pakistans-cricket-decline/articleshow/133838396.cms",
-      "dateLocation": "Sept 6 | Lahore, Pakistan",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-china-corps-commanders-meet-in-arunachal-for-first-time/articleshow/133850148.cms",
+      "dateLocation": "September 7, 2026 | Arunachal Pradesh",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
