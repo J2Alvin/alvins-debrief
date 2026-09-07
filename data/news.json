@@ -1,129 +1,129 @@
 {
-  "lastUpdated": "2026-09-07T17:11:31.737Z",
+  "lastUpdated": "2026-09-07T21:04:41.701Z",
   "ticker": [
-    "Seven dead in Delhi building collapse",
-    "India central bank unloads $8B",
-    "Canada sets retaliatory US tariffs",
-    "Satwik-Chirag win China Masters",
-    "Germany AfD scores election victory"
+    "India clears ₹1.1 lakh crore defense deals",
+    "RBI unloads $8 billion to anchor rupee",
+    "JLR to cut 10% of workforce",
+    "Canada sets retaliatory tariffs on US",
+    "Iran and Oman plan Strait of Hormuz route"
   ],
   "articles": [
     {
-      "headline": "Delhi Building Collapse Kills Seven",
-      "whyItMatters": "Highlights critical failures in urban safety regulations and unauthorized building operations.",
-      "brief": "A tragic building collapse in Delhi's Satya Niketan resulted in seven fatalities, prompting high court inquiries, arrests, and intense scrutiny over lax structural audits.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTExsWHRaZmQ3T0JIcEJQeEpGbEdKQXN3a2ZmU3RYNFZhTlJiMnRrY2ViR3ptQnZObGJ4bGI0WldwR25vaEppRWkxQkVTNTVYNVJpcXVhSFF5Z1hwUDlTbHNvUlZCdGh6b1dGT2dRSU1saTNJNFdVWDRVVkJVUkVlN3hmQk9mSDRpSUZJTGNkd0hrRlJ3ZS1pUUkwZ3BZRWFqU084Q1M3azNjSS1aOW9aQXh6YWFsTTVFc18tUA?oc=5",
-      "dateLocation": "2026-09-07 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Clears ₹1.1 Lakh Crore Defense Acquisitions",
+      "whyItMatters": "Boosts domestic manufacturing and modernizes military hardware with 98% local sourcing.",
+      "brief": "The Indian government has cleared massive proposals worth ₹1.1 lakh crore to buy military hardware for the army, navy, and air force, focusing heavily on indigenous sourcing.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-clears-1-10-lakh-crore-defence-acquisitions-for-army-navy-and-air-force/articleshow/133877635.cms",
+      "dateLocation": "2026-09-07 | New Delhi / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Central Bank Unloads $8 Billion",
-      "whyItMatters": "Demonstrates aggressive central bank intervention to defend the domestic currency against depreciation pressures.",
-      "brief": "Bankers report that the Reserve Bank of India deployed at least $8 billion last week to anchor the rupee amid mounting external pressures.",
+      "headline": "Indian Central Bank Unloads $8 Billion to Anchor Rupee",
+      "whyItMatters": "Demonstrates aggressive monetary defense to stabilize currency amidst rising global economic pressures.",
+      "brief": "Bankers report that the Reserve Bank of India unloaded at least $8 billion last week to anchor the sliding rupee against mounting external pressures.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEJ5MFFyZkNReHhmbnNfZmpwQzExb0cxY0Y4dHpBRXkxZE5XSVdFNjhpLUhxUUFmMGs1YkJxMW9GSG5PYmpIVl9IQnlUSnVhWWQxSUdsVUdKQnMxc1FfSk05U0ZvbmRSOWNrSVM3VVg2eFhhZk9QN2h6bXBMYV9vSkRkdllxQXBQTVFOZ3U5TDZwaTZjSUliYy1kOE9BN3VQZkFQM1N6Ylh0YVQwVTdjWHVwMnVPb1hUU0o5Y2pETy1wMk1ZN1E?oc=5",
-      "dateLocation": "2026-09-07 | Mumbai",
+      "dateLocation": "2026-09-07 | Mumbai / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Canada Imposes Retaliatory Tariffs on US",
-      "whyItMatters": "Escalates trade tensions and risks significant economic impacts on cross-border supply chains.",
-      "brief": "Carney's government is set to impose retaliatory tariffs on various US steel products and consumer goods, escalating ongoing trade conflicts.",
+      "headline": "UK's Jaguar Land Rover to Cut 10% Workforce",
+      "whyItMatters": "Reflects ongoing structural challenges and restructuring pressures within legacy European automotive giants.",
+      "brief": "Jaguar Land Rover is set to cut nearly 10% of its total workforce as part of a sweeping new turnaround plan aimed at restoring profitability.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG1leHh6LUdMenZscjYwWnJhamJoaW9xVkV2SUJUeHUtejZGNTNPUDZFTGdkby02c2Y2Wmp0UXNPMUtzYlNzS1VwVXZOYlc4c1d4Vk9IV3VJX2F3VG0wYnFySE5nVzR6eDZ4MTlvcXJzVm5ESUsyeFViUFRVQW1hMjRDQ2c4dUUyWkxaQVYwMWJBODdGeGt2V2JwVG1rUHlVa2VPMFhwWVJOVW1NNWl5N203U3d3bWpGbVBV?oc=5",
+      "dateLocation": "2026-09-07 | London / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Canada Prepares Retaliatory Tariffs on US Products",
+      "whyItMatters": "Escalates trade tensions and threatens cross-border supply chains for steel and consumer goods.",
+      "brief": "Unless a last-minute deal is struck, Canada's government will impose retaliatory tariffs on US steel products, raising levies to 50% alongside consumer goods.",
       "category": "world",
       "sourceUrl": "https://www.livemint.com/news/world/trumpcarney-trade-war-canada-set-to-impose-retaliatory-tariffs-on-us-products-11788795162465.html",
-      "dateLocation": "2026-09-07 | Ottawa",
+      "dateLocation": "2026-09-07 | Ottawa / LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Germany's AfD Secures Landmark Victory",
-      "whyItMatters": "Signals a profound rightward political shift in Europe, altering immigration and foreign policies.",
-      "brief": "The Alternative for Germany achieved significant electoral gains, challenging established norms and influencing regional stances on international alliances.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/europe-turning-right-what-afds-victory-in-germany-means-for-russia-us/articleshow/133875702.cms",
-      "dateLocation": "2026-09-07 | Berlin",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Iran and Oman to Establish Safe Strait Route",
+      "whyItMatters": "Aims to stabilize oil tanker traffic and secure vital shipping lanes amidst ongoing regional conflicts.",
+      "brief": "Iran and Oman have agreed to set up a temporary safe route in the Strait of Hormuz as regional conflict causes tanker traffic to plummet.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/strait-of-hormuz-deal-iran-and-oman-to-set-temporary-safe-route-as-tanker-traffic-falls-amid-war-1178804289846.html",
+      "dateLocation": "2026-09-07 | Muscat / LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Satwik and Chirag Win China Masters",
-      "whyItMatters": "Boosts national morale and provides essential momentum ahead of major international multi-sport games.",
-      "brief": "Star Indian shuttlers Satwiksairaj Rankireddy and Chirag Shetty secured their maiden China Masters title in Shenzhen, overcoming injury concerns.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/other-sports/satwiksairaj-rankireddy-chirag-shetty-win-china-masters-eye-asian-games-title-defence/article71440040.ece",
-      "dateLocation": "2026-09-07 | Shenzhen",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NASA Launches Nancy Grace Roman Telescope",
-      "whyItMatters": "Revolutionizes astronomical research by providing sweeping panoramic views of the universe on an unprecedented scale.",
-      "brief": "NASA successfully deployed the cutting-edge space observatory equipped with military-grade spy mirrors, promising to map astronomical territories extensively.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/half-a-million-4k-tvs-to-view-one-photo-why-nasas-new-space-telescope-is-special/articleshow/133865609.cms",
-      "dateLocation": "2026-09-07 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Health Activists Challenge Food Warnings",
-      "whyItMatters": "Directly impacts public health transparency and regulatory frameworks governing consumer food labeling.",
-      "brief": "Health activists have lodged formal legal concerns regarding proposed food warning standards, seeking stricter transparency from regulatory authorities.",
+      "headline": "Passive Smoking Deaths Surge 50% Since 1990",
+      "whyItMatters": "Highlights a critical and worsening public health crisis across densely populated developing regions.",
+      "brief": "A new Lancet study reveals that passive smoking deaths have surged by 50% globally since 1990, accounting for hundreds of thousands of fatalities in India alone.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2pSdDBXOTd0bFI3MmNXLTlQWW5MWDRmN096R0x3T0MxSjh3d3ozRjJmcWlLVEdZSW91dnFza3J2WEQ3NEp0ZzFUek1HaUtxQjg3OWE1b3doUXdSSDVmV3FfUEE3NWNvZEhYLV9BVTR3RHJPaVQ3dk9PQVc4Uk1rbjlKSzdnbXBvV1p2TUJYSTR4Umw0TEJBM1NNX2QxNTRkMU1qZmFvS09HbHFNMDY2c2VZMXc?oc=5",
-      "dateLocation": "2026-09-07 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/passive-smoking-deaths-up-50-since-1990-lancet/articleshow/133895924.cms",
+      "dateLocation": "2026-09-07 | New Delhi / Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "LPG Refill Booking Gap Uniformly Cut",
-      "whyItMatters": "Streamlines household energy distribution and addresses consumer availability issues across states.",
-      "brief": "The Petroleum Ministry directed state-run oil companies to introduce a uniform 25-day gap for LPG refill bookings nationwide.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/lpg-cylinder-rules-changed-refill-booking-gap-cut-to-25-days-for-all-consumers-11788795337380.html",
-      "dateLocation": "2026-09-07 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Coal Miners Ramp Up Thermal Plant Supplies",
-      "whyItMatters": "Prevents imminent energy shortages by stabilizing critical coal inventories at power generating units.",
-      "brief": "With dozens of thermal plants holding critically low stocks, the coal ministry has spurred rake loading to secure supplies.",
-      "category": "finance",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/govt-spurs-coal-rake-loading-by-20-to-strengthen-stocks-positions-at-thermal-plants/article71437951.ece",
-      "dateLocation": "2026-09-07 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Huawei and Xiaomi Launch Foldable Phones",
-      "whyItMatters": "Intensifies competition in the high-end mobile market ahead of major global tech launches.",
-      "brief": "Chinese smartphone makers Huawei and Xiaomi rolled out advanced foldable devices in a strategic move prior to the upcoming Apple event.",
+      "headline": "Apple Eyeing Foldables for Major Market Break",
+      "whyItMatters": "Could dramatically reshape consumer adoption curves and redefine the stagnant high-end smartphone market.",
+      "brief": "Industry reports indicate that Apple is positioning itself to introduce foldable device technology, potentially giving the nascent sector its biggest mainstream break yet.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXj1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
-      "dateLocation": "2026-09-07 | Beijing",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-event-foldable-iphone-ultra-launch-smartphone-market-growth-samsung-xiaomi/articleshow/133872279.cms",
+      "dateLocation": "2026-09-07 | Cupertino / Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rahul Gandhi Responds to Criticisms",
-      "whyItMatters": "Reflects deep political polarization and ongoing rhetorical battles between ruling and opposition figures.",
-      "brief": "Opposition leader Rahul Gandhi sharply criticized the Prime Minister's derogatory remarks, accusing leadership of silencing democratic dissent.",
+      "headline": "DGFT Launches API for Certificate of Origin",
+      "whyItMatters": "Streamlines bilateral trade operations and cuts down bureaucratic data entry delays for Indian exporters.",
+      "brief": "The Directorate General of Foreign Trade has launched an API facility enabling exporters to integrate enterprise software directly with the CoO system.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/dgft-launches-api-facility-to-streamline-certificate-of-origin-process-bilateral-trade-exporters-11788784707109.html",
+      "dateLocation": "2026-09-07 | New Delhi / LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Alternative Fuel Car Sales Outpace Petrol in India",
+      "whyItMatters": "Signals a rapid consumer shift driven by fuel costs and environmental compliance concerns.",
+      "brief": "According to dealers' bodies, alternative-fuel car sales in India have surpassed petrol variants due to soaring running costs and ethanol-blending policy concerns.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVoxeEhSeXlubXdWMV9CbTQ0b25DU1RXb2pzMG1Hay1fZU1HUXlrTmozX3JzU0dZcE1weno2X2lxcXZPcEtiY1lCSW93M3Q2bS14QUFTblBFdDRjWER5dkY5UzVxMHJBbkd0MWlONnB4MzBwNFNDV2doVm92UlBLUEJzVVpVbm9DeUFIRDZxc2dPUENEcGhOcnI2a2VtMGpoQ2FVR2wzVFE3U3dOd3EzcWQ2Z0hUQVpCT1M1ZHY1MUp3dEpGUmRn?oc=5",
+      "dateLocation": "2026-09-07 | New Delhi / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Government Cuts LPG Refill Booking Gap to 25 Days",
+      "whyItMatters": "Ensures uniform household energy access and curbs hoarding or black marketing of cylinders.",
+      "brief": "The Petroleum Ministry has directed state-run oil marketing companies to introduce a uniform 25-day gap between LPG refill bookings for all consumers.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/lpg-cylinder-rules-changed-refill-booking-gap-cut-to-25-days-for-all-consumers-11788795337380.html",
+      "dateLocation": "2026-09-07 | New Delhi / LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mizoram Electoral Rolls Finalized After Special Revision",
+      "whyItMatters": "Maintains democratic integrity through rigorous updating of regional voter databases ahead of elections.",
+      "brief": "Following a special intensive revision, Mizoram's final electoral rolls stand at 8.35 lakh electors after notable deletions and additions.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/insulting-label-rahul-gandhi-responds-to-dimagi-naxal-attack-accuses-pm-modi-of-silencing-and-shaming-critics/articleshow/133888025.cms",
-      "dateLocation": "2026-09-07 | New Delhi",
+      "sourceUrl": "https://www.thehindu.com/news/national/mizoram/mizoram-electoral-rolls-see-78442-deletions-39243-additions-after-sir-final-count-at-835-lakh/article71440012.ece",
+      "dateLocation": "2026-09-07 | Aizawl / The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UN Map Depicts Disputed Border Lines",
-      "whyItMatters": "Influences geopolitical perceptions and diplomatic stances on sensitive Himalayan territorial claims.",
-      "brief": "A new United Nations map illustrates Arunachal Pradesh and Aksai Chin as territories caught between distinct Indian and Chinese claim lines.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/national/new-un-map-depicts-arunachal-pradesh-and-aksai-chin-as-territories-caught-between-indian-line-and-chinese-line/article71437431.ece",
-      "dateLocation": "2026-09-07 | United Nations",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Delhi Building Collapse Triggers Crackdown on Unsafe PGs",
+      "whyItMatters": "Exposes hazardous living conditions in student hubs, prompting urgent safety audits and arrests.",
+      "brief": "Following a tragic building collapse in Satya Niketan that killed several individuals, police have arrested owners and sparked intense political scrutiny over unauthorized student accommodations.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/satya-niketan-collapse-why-did-delhi-police-arrest-a-retired-iaf-sergeant-and-family-what-was-found-during-probe-11788797463842.html",
+      "dateLocation": "2026-09-07 | New Delhi / LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Maruti Suzuki Implements Third Price Hike",
-      "whyItMatters": "Reflects persistent input cost pressures impacting consumer purchasing power in the automotive sector.",
-      "brief": "India's largest carmaker Maruti Suzuki announced its third price increase since May, citing rising manufacturing and material costs.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWV4ZlNlSGx0SjBFdTNNMnM0QTEwRXVOanpKckg2OGJPbWQ4MEU4X2dPT3JWbF9EZV9aY2NWWUdkVGV5NkhxWFBqaDJNbm1GN09ZVWRTMjZwck1jRTNBbUdES2VXdGxCV3oyZ1N2STZpLVcxNFMyMXpld3FoR3RVdHZRdDNVUTg2eDBTdmFMWEFRVjRNVGt0YVNRREhhdkZHT3VFVg?oc=5",
-      "dateLocation": "2026-09-07 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nehra Compares Shubman Gill and Hardik Pandya",
+      "whyItMatters": "Provides elite strategic insight into leadership transitions within premier franchise cricket setups.",
+      "brief": "Coach Ashish Nehra has highlighted stark leadership contrasts between Shubman Gill and Hardik Pandya, evaluating their unique captaincy styles in the IPL.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/north-pole-and-south-pole-ashish-nehra-compares-shubman-gill-and-hardik-pandya-as-captains/articleshow/133888610.cms",
+      "dateLocation": "2026-09-07 | Mumbai / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
