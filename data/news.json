@@ -1,120 +1,75 @@
 {
-  "lastUpdated": "2026-09-08T10:32:33.288Z",
+  "lastUpdated": "2026-09-08T15:56:48.375Z",
   "ticker": [
-    "Japan Credit Rating Agency upgrades India to 'A' grade",
-    "Canada enforces counter-tariffs amid escalating trade dispute with US",
-    "At least two dead following heavy Russian drone strikes on Kyiv",
-    "Australia proposes landmark legislation allowing users to opt out of algorithms",
-    "India and Russia hold high-level bilateral talks ahead of BRICS summit"
+    "Oil Nears $100 Amid Gulf Tensions",
+    "UK Air Traffic Control Failure Disrupts Flights",
+    "India Joins US-Led 6G Global Initiative",
+    "Putin and Trump Hold One-Hour Phone Call",
+    "Qualcomm Strikes $4B AI Chip Deal with Amazon"
   ],
   "articles": [
     {
-      "headline": "India Returns to 'A' Sovereign Credit Rating After Decades",
-      "whyItMatters": "Significantly boosts foreign investor confidence and lowers national borrowing costs globally.",
-      "brief": "Japan Credit Rating Agency upgraded India to an 'A' grade for the first time since 1988, reflecting strengthened economic fundamentals.",
+      "headline": "Oil Nears $100 As Gulf Tensions Escalate",
+      "whyItMatters": "Surging oil prices threaten global inflation and market stability.",
+      "brief": "Global markets slip as rising Gulf tensions push oil prices toward the $100 mark, impacting Asian equities and Wall Street.",
       "category": "finance",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/what-prompted-indias-return-to-the-a-rating-after-35-years/article71442079.ece",
-      "dateLocation": "September 8, 2026 | New Delhi",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5",
+      "dateLocation": "2026-09-08 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government Receives Seven Bids for Coal Gasification Scheme",
-      "whyItMatters": "Advances national clean energy transition and industrial self-reliance goals.",
-      "brief": "Major industry players, including Adani and NTPC, have submitted applications for the ₹37,500 crore surface coal gasification package.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/adani-ntpc-among-7-applicants-for-rs-37500-crore-coal-gasification-scheme/articleshow/133915378.cms",
-      "dateLocation": "September 8, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Australia Proposes Legislation to Let Users Control Algorithms",
-      "whyItMatters": "Sets a global regulatory precedent for major social media platforms and digital safety.",
-      "brief": "The Australian government introduced the Digital Duty of Care bill, requiring services to protect minors and let users opt out of algorithmic feeds.",
+      "headline": "Qualcomm Strikes $4B AI Chip Deal With Amazon",
+      "whyItMatters": "This massive partnership accelerates infrastructure scaling for artificial intelligence.",
+      "brief": "Qualcomm has partnered with Amazon on AI chips, offering the retail giant the right to buy roughly $4 billion in stock.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/world/australia-picks-new-fight-with-social-media-cos-labour-govt-proposes-legislation-to-allow-users-to-decide-algorithm-11788857199049.html",
-      "dateLocation": "September 8, 2026 | Sydney",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5",
+      "dateLocation": "2026-09-08 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Canada Enforces Counter-Tariffs Amid US Trade Dispute",
-      "whyItMatters": "Threatens the stability of the largest bilateral trading relationship globally.",
-      "brief": "New Canadian counter-tariffs targeting $20 billion worth of American goods have officially come into force following escalating trade tensions.",
+      "headline": "India Launches Unprecedented Food Safety Push",
+      "whyItMatters": "Stricter compliance protects consumers and impacts major retail distribution chains.",
+      "brief": "Indian authorities conduct widespread raids, issue shutdowns, and mandate new warning labels in a major food safety crackdown.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWJrbWRuQ0x3SUhKNDd5ZWdqRzVwdnNfcDgtYnhwUklvMnZFXy1SRVVIYUYwMVVGT3EzNEh5TFV5dWtGUnYyQnJzRzd1VmRoVkYtLTBxYnZDd005QklEaWpVM1h6c3dpV2pDX2xXUWJpdmlMZl9SaUo3cDJEa0VISlpfYzh2bG1mSHRZWVhhekZqZFJPYndlMTRaT3pKRm45cGhrLXNlNTdYMEFxXy1vU0lUVGhGTE5KcC1ySGNB?oc=5",
+      "dateLocation": "2026-09-08 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Major UK Air Traffic Control Failure Disrupts Flights",
+      "whyItMatters": "Critical infrastructure failure strands thousands of passengers across major European airports.",
+      "brief": "A technical glitch at NATS caused widespread flight groundings and severe delays at Heathrow, Gatwick, and Manchester.",
       "category": "world",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jdev0422jo",
-      "dateLocation": "September 8, 2026 | Ottawa",
+      "sourceUrl": "https://www.livemint.com/news/world/uk-airports-ground-flights-over-air-traffic-control-issue-easyjet-british-airways-heathrow-gatwick-manchester-11788881979362.html",
+      "dateLocation": "2026-09-08 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "At Least Two Dead Following Russian Drone Strikes on Kyiv",
-      "whyItMatters": "Intensifies ongoing regional conflict and highlights persistent threats to civilian infrastructure.",
-      "brief": "Explosions and air raid alerts rocked Ukraine's capital as Russian forces launched a series of deadly early-morning drone strikes.",
-      "category": "world",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o",
-      "dateLocation": "September 8, 2026 | Kyiv",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and Russia Hold Bilateral Talks Ahead of BRICS Summit",
-      "whyItMatters": "Strengthens strategic, defence, and geopolitical cooperation between major global economies.",
-      "brief": "Prime Minister Narendra Modi and Vladimir Putin met to discuss defense technology transfers, nuclear energy projects, and international sanctions.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-putin-to-hold-bilateral-talks-ahead-of-brics-summit-in-new-delhi/articleshow/133917580.cms",
-      "dateLocation": "September 8, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Allahabad High Court Overturns Preventive Detention of Activist",
-      "whyItMatters": "Reinforces constitutional safeguards against the perceived abuse of administrative detention powers.",
-      "brief": "The High Court criticized the local administration for lacking evidence, ruling that civil servants must remain loyal to the Constitution.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/allahabad/hc-civil-servants-loyalty-must-be-to-constitution-not-political-executive/articleshow/133892044.cms",
-      "dateLocation": "September 8, 2026 | Allahabad",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "DAC Clears ₹1.10 Lakh Crore Defence Capital Proposals",
-      "whyItMatters": "Accelerates indigenous military modernization and drives domestic manufacturing growth.",
-      "brief": "The Defence Acquisition Council cleared major military acquisition proposals, putting prominent domestic defence sector stocks into sharp focus.",
+      "headline": "Flipkart Widens Lead Over Amazon in Quick Commerce",
+      "whyItMatters": "Rapid shifts in e-commerce are reshaping retail market dynamics across India.",
+      "brief": "Flipkart has expanded its user base lead over rival Amazon, fueled by the explosive growth of its quick-commerce service.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/hal-bel-other-defence-stocks-in-focus-after-dac-clears-rs-1-10-lakh-crore-proposals-motilal-picks-3-stocks-to-buy/articleshow/133905778.cms",
-      "dateLocation": "September 8, 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/flipkart-widens-lead-against-amazon-as-quick-commerce-surges/articleshow/133931230.cms",
+      "dateLocation": "2026-09-08 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Former USCIS Official Charged in $960,000 Citizenship Bribery Scam",
-      "whyItMatters": "Exposes significant vulnerabilities within national immigration processing systems.",
-      "brief": "Federal investigators used thousands of WhatsApp messages to uncover a multi-year bribery scheme that manipulated American citizenship applications.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/how-whatsapp-messages-and-calls-led-investigators-to-former-uscis-official-in-alleged-960000-american-citizenship-bribery-scam/articleshow/133912303.cms",
-      "dateLocation": "September 8, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK's Third-Biggest Taxpayer Plans Relocation to Greece",
-      "whyItMatters": "Highlights ongoing concerns regarding capital flight and taxation policy shifts in Europe.",
-      "brief": "Prominent hedge fund manager Chris Rokos is reportedly preparing to open an Athens office, moving away from his primary UK base.",
-      "category": "finance",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo",
-      "dateLocation": "September 8, 2026 | London",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Chargesheet in Manipuri Musician's Murder Within Days",
-      "whyItMatters": "Addresses widespread public outcry and demands for swift justice in capital hate crimes.",
-      "brief": "Union Minister Kiren Rijiju assured that Delhi Police will file a chargesheet within eight to nine days against all arrested suspects.",
+      "headline": "India Joins US-Led 6G Global Initiative",
+      "whyItMatters": "Multinational cooperation will define the future of wireless connectivity and telecom standards.",
+      "brief": "India has officially joined a 26-nation global alliance aimed at developing next-generation 6G internet and telecommunications infrastructure.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/chargesheet-in-manipuri-musicians-murder-case-within-8-9-days-kiren-rijiju/article71442169.ece",
-      "dateLocation": "September 8, 2026 | New Delhi",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/india-joins-us-led-6g-initiative-with-25-countries-what-new-global-alliance-means-for-the-future-of-internet-and-wireless-connectivity/articleshow/133930349.cms",
+      "dateLocation": "2026-09-08 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UK Government Secures £30 Million for Shetland Spaceport",
-      "whyItMatters": "Bolsters commercial aerospace capabilities and domestic satellite launch infrastructure.",
-      "brief": "The SaxaVord spaceport project in northern Scotland secured significant funding to serve as a launch site for small commercial rockets.",
-      "category": "general",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyze8ed774o",
-      "dateLocation": "September 8, 2026 | London",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Israel Shuts British Consulate Over Settlement Sanctions",
+      "whyItMatters": "Diplomatic tensions escalate sharply between key Western allies over Middle East policies.",
+      "brief": "Tel Aviv ordered the closure of the British consulate in Jerusalem in direct retaliation for UK sanctions on West Bank settlers.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/uk-israel-spat-gets-ugly-tel-aviv-to-close-british-consulate-in-jerusalem-over-sanctions-on-settlers/articleshow/133930902.cms",
+      "dateLocation": "2026-09-08 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
