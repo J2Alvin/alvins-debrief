@@ -1,145 +1,118 @@
 {
-  "lastUpdated": "2026-09-08T02:57:28.458Z",
+  "lastUpdated": "2026-09-08T10:32:33.288Z",
   "ticker": [
-    "Brent crude surpasses $97 amid Mideast supply fears",
-    "Yen hits seven-month high as global markets waver",
-    "Canada retaliatory tariffs on US goods take effect",
-    "Indonesia's capital reopens flights after volcano eruption",
-    "ISRO plans to outsource routine rocketry to private firms"
+    "Japan Credit Rating Agency upgrades India to 'A' grade",
+    "Canada enforces counter-tariffs amid escalating trade dispute with US",
+    "At least two dead following heavy Russian drone strikes on Kyiv",
+    "Australia proposes landmark legislation allowing users to opt out of algorithms",
+    "India and Russia hold high-level bilateral talks ahead of BRICS summit"
   ],
   "articles": [
     {
-      "headline": "Brent Crude Surpasses $97 Amid Middle East Supply Fears",
-      "whyItMatters": "Escalating conflicts directly threaten global energy supplies and spike fuel costs.",
-      "brief": "Oil prices surged past $97 a barrel as prolonged Middle East tensions and Strait of Hormuz disruptions heightened fears of global supply shortages.",
+      "headline": "India Returns to 'A' Sovereign Credit Rating After Decades",
+      "whyItMatters": "Significantly boosts foreign investor confidence and lowers national borrowing costs globally.",
+      "brief": "Japan Credit Rating Agency upgraded India to an 'A' grade for the first time since 1988, reflecting strengthened economic fundamentals.",
       "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/brent-crude-climbs-beyond-97-as-strait-of-hormuz-disruptions-choke-global-oil-supplies/articleshow/133903159.cms",
-      "dateLocation": "September 8, 2026 | Global",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/what-prompted-indias-return-to-the-a-rating-after-35-years/article71442079.ece",
+      "dateLocation": "September 8, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Yen Extends Rally to Reach Seven-Month High",
-      "whyItMatters": "Currency fluctuations impact global trade balances and investor risk appetite worldwide.",
-      "brief": "The Japanese yen extended its strong rally to a new seven-month high while the US dollar remained subdued ahead of crucial inflation data.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzJTNlNmRkk4ZlAxN0diYXoyblUyaE41UTRRRFpZbURGSk9pZGlTVDc5QkpJSHpqWlRWY0ZjR1M1ZW1sdU5KNmJqUGZ6eTRleGRfektFaDFlMmprZW14T2RodGJMcVlfNG5fMmZTbFhqNERNeGZvVW1CcHQ5MUZ4R0pGbTF3WllEN2hqQkpTVUZrUmVlUnh2UWIwOTJSQU5IZ2pxRGJNelRPdU8wd0dYS0Q4QXB0bWNRSnc?oc=5",
-      "dateLocation": "September 8, 2026 | Tokyo",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Canada Implements Retaliatory Tariffs on US Goods",
-      "whyItMatters": "Escalating trade wars between neighbors disrupt North American supply chains and markets.",
-      "brief": "Ottawa has enacted retaliatory tariffs on billions in US imports following Washington's levies, prompting new trade friction and economic warnings.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/canadas-retaliatory-us-tariffs-set-to-take-effect-which-american-products-face-new-duties-11788833231533.html",
-      "dateLocation": "September 8, 2026 | Ottawa",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "North Korea Warns US Over Joint Military Drills",
-      "whyItMatters": "Heightened geopolitical rhetoric on the Korean peninsula threatens regional security and stability.",
-      "brief": "North Korea’s newly appointed defense minister strongly condemned ongoing joint military drills by the US, South Korea, and Japan.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/north-korea-s-new-defense-minister-warns-us-over-military-drills-11788830852834.html",
-      "dateLocation": "September 8, 2026 | Pyongyang",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Alternative-Fuel Cars Outpace Petrol Sales in India",
-      "whyItMatters": "Signals a massive consumer shift toward sustainable transport driven by cost and regulations.",
-      "brief": "Alternative-fuel passenger vehicle sales in India have surpassed petrol models due to operating costs and evolving environmental concerns.",
+      "headline": "Government Receives Seven Bids for Coal Gasification Scheme",
+      "whyItMatters": "Advances national clean energy transition and industrial self-reliance goals.",
+      "brief": "Major industry players, including Adani and NTPC, have submitted applications for the ₹37,500 crore surface coal gasification package.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVoxeEhSeXlubXdWMV9CbTQ0b25DU1RXb2pzMG1Hay1fZU1HUXlrTmozX3JzU0dZcM1weno2X2lxcXZPcEtiY1lCSW93M3Q2bS14QUFTblBFdDRjWER5dkY5UzVxMHJBbkd0MWlONnB4MzBwNFNDV2doVm92UlBLUEJzVVpVbm9DeUFIRDZxc2dPUENEcGhOcnI2a2VtMGpoQ2FVR2wzVFE3U3dOd3EzcWQ2Z0hUQVpCT1M1ZHY1MUp3dEpGUmRn?oc=5",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/adani-ntpc-among-7-applicants-for-rs-37500-crore-coal-gasification-scheme/articleshow/133915378.cms",
       "dateLocation": "September 8, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UK's Jaguar Land Rover to Cut 10% of Workforce",
-      "whyItMatters": "Demonstrates ongoing structural adjustments and cost pressures within the traditional European automotive sector.",
-      "brief": "Jaguar Land Rover announced plans to slash nearly 10% of its global workforce as part of an aggressive turnaround strategy.",
+      "headline": "Australia Proposes Legislation to Let Users Control Algorithms",
+      "whyItMatters": "Sets a global regulatory precedent for major social media platforms and digital safety.",
+      "brief": "The Australian government introduced the Digital Duty of Care bill, requiring services to protect minors and let users opt out of algorithmic feeds.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/world/australia-picks-new-fight-with-social-media-cos-labour-govt-proposes-legislation-to-allow-users-to-decide-algorithm-11788857199049.html",
+      "dateLocation": "September 8, 2026 | Sydney",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Canada Enforces Counter-Tariffs Amid US Trade Dispute",
+      "whyItMatters": "Threatens the stability of the largest bilateral trading relationship globally.",
+      "brief": "New Canadian counter-tariffs targeting $20 billion worth of American goods have officially come into force following escalating trade tensions.",
+      "category": "world",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jdev0422jo",
+      "dateLocation": "September 8, 2026 | Ottawa",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "At Least Two Dead Following Russian Drone Strikes on Kyiv",
+      "whyItMatters": "Intensifies ongoing regional conflict and highlights persistent threats to civilian infrastructure.",
+      "brief": "Explosions and air raid alerts rocked Ukraine's capital as Russian forces launched a series of deadly early-morning drone strikes.",
+      "category": "world",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o",
+      "dateLocation": "September 8, 2026 | Kyiv",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Russia Hold Bilateral Talks Ahead of BRICS Summit",
+      "whyItMatters": "Strengthens strategic, defence, and geopolitical cooperation between major global economies.",
+      "brief": "Prime Minister Narendra Modi and Vladimir Putin met to discuss defense technology transfers, nuclear energy projects, and international sanctions.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-putin-to-hold-bilateral-talks-ahead-of-brics-summit-in-new-delhi/articleshow/133917580.cms",
+      "dateLocation": "September 8, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Allahabad High Court Overturns Preventive Detention of Activist",
+      "whyItMatters": "Reinforces constitutional safeguards against the perceived abuse of administrative detention powers.",
+      "brief": "The High Court criticized the local administration for lacking evidence, ruling that civil servants must remain loyal to the Constitution.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/allahabad/hc-civil-servants-loyalty-must-be-to-constitution-not-political-executive/articleshow/133892044.cms",
+      "dateLocation": "September 8, 2026 | Allahabad",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DAC Clears ₹1.10 Lakh Crore Defence Capital Proposals",
+      "whyItMatters": "Accelerates indigenous military modernization and drives domestic manufacturing growth.",
+      "brief": "The Defence Acquisition Council cleared major military acquisition proposals, putting prominent domestic defence sector stocks into sharp focus.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG1leHh6LUdMenZscjYwWnJhamJoaW9xVkV2SUJUeHUtejZGNTNPUDZFTGdkby02c2Y2Wmp0UXNPMUtzS1VwVXZOYlc4c1d4Vk9IV3VJX2F3VG0wYnFySE5nVzR6eDZ4MTlvcXJzVm5ESUsyeFViUFRVQW1hMjRDQ2c4dUUyWkxaQVYwMWJBODdGeGt2V2JwVG1rUHlVa2VPMFhwWVJOVW1NNWl5N203U3d3bWpGbVBV?oc=5",
-      "dateLocation": "September 8, 2026 | London",
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/hal-bel-other-defence-stocks-in-focus-after-dac-clears-rs-1-10-lakh-crore-proposals-motilal-picks-3-stocks-to-buy/articleshow/133905778.cms",
+      "dateLocation": "September 8, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global IT Giants Outpace Indian Rivals in AI Consulting",
-      "whyItMatters": "Highlights shifting competitive landscapes in high-end technology services and artificial intelligence adoption.",
-      "brief": "International technology corporations are accelerating past Indian IT listed rivals in securing lucrative artificial intelligence consulting contracts.",
+      "headline": "Former USCIS Official Charged in $960,000 Citizenship Bribery Scam",
+      "whyItMatters": "Exposes significant vulnerabilities within national immigration processing systems.",
+      "brief": "Federal investigators used thousands of WhatsApp messages to uncover a multi-year bribery scheme that manipulated American citizenship applications.",
       "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/information-tech/global-it-firms-outpace-india-listed-rivals-on-ai-consulting/articleshow/133895181.cms",
-      "dateLocation": "September 8, 2026 | Bengaluru",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/how-whatsapp-messages-and-calls-led-investigators-to-former-uscis-official-in-alleged-960000-american-citizenship-bribery-scam/articleshow/133912303.cms",
+      "dateLocation": "September 8, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ISRO Takes NASA Route, Plans to Outsource Rocketry",
-      "whyItMatters": "Marks a major shift toward commercial privatization in India's national space exploration framework.",
-      "brief": "In a strategic policy shift, the Indian Space Research Organisation plans to outsource routine rocketry to private industry partners.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/isro-takes-nasa-route-plans-to-outsource-routine-rocketry/articleshow/133895586.cms",
-      "dateLocation": "September 8, 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "UK's Third-Biggest Taxpayer Plans Relocation to Greece",
+      "whyItMatters": "Highlights ongoing concerns regarding capital flight and taxation policy shifts in Europe.",
+      "brief": "Prominent hedge fund manager Chris Rokos is reportedly preparing to open an Athens office, moving away from his primary UK base.",
+      "category": "finance",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo",
+      "dateLocation": "September 8, 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global Climate Change Links to Tibetan Glacier Collapse",
-      "whyItMatters": "Warns of accelerating environmental hazards and rising downstream disaster risks across Asia.",
-      "brief": "Chinese researchers have established a direct link between global climate change and major glacial collapses across the Tibetan plateau.",
-      "category": "science",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/chinese-researchers-see-climate-change-link-to-glacial-collapse-warn-of-rising-disaster-risks/article71441103.ece",
-      "dateLocation": "September 8, 2026 | Beijing",
+      "headline": "Chargesheet in Manipuri Musician's Murder Within Days",
+      "whyItMatters": "Addresses widespread public outcry and demands for swift justice in capital hate crimes.",
+      "brief": "Union Minister Kiren Rijiju assured that Delhi Police will file a chargesheet within eight to nine days against all arrested suspects.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/chargesheet-in-manipuri-musicians-murder-case-within-8-9-days-kiren-rijiju/article71442169.ece",
+      "dateLocation": "September 8, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Uttar Pradesh to Establish Mental Health Support Cells",
-      "whyItMatters": "Addresses growing academic stress and student well-being crises within higher education institutions.",
-      "brief": "The state government of Uttar Pradesh will mandate mental health support cells across all universities and colleges to foster safe environments.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-to-set-up-mental-health-support-cells-in-all-universities-and-colleges/article71439718.ece",
-      "dateLocation": "September 8, 2026 | Lucknow",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Paris Investigates Claims at Eiffel Tower Delegation Visit",
-      "whyItMatters": "Sparks diplomatic and cultural inquiries regarding discrimination and event protocols at public monuments.",
-      "brief": "Paris authorities are investigating allegations that female staff members were sidelined during a Hindu delegation's visit to the Eiffel Tower.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHJRcm5FUlpiWGg1OWN3SHEwWk85N1NvRlk4OFN1T24zVmp5d1FyTXhrM3N3ckNuOVV6S0ZkNmFzVUNDQ0g4MXIzOFN3U0haTXVKR0ZOZGJTMXNQb2IyYlJGQjYxRnp6RGZpLXJINk8tNHl4bHkzZDhMdzdlMVJaV2NNR09aWG1yVFZra0wzYXE5YUhUNTNscUdURFI0OWVtdEYwN2NNUjlRQnVJNEhfQ0xJb0FyWjBNZ3dXTkJjR1ZlTENpT2hyM0tjUQ?oc=5",
-      "dateLocation": "September 8, 2026 | Paris",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Flights Resume in Jakarta Following Volcanic Eruption",
-      "whyItMatters": "Restores critical regional transportation hubs after multi-day safety disruptions caused by ash plumes.",
-      "brief": "Flights to and from Jakarta resumed normal operations after a volcanic ash eruption forced a two-day closure halting thousands of flights.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/flights-to-and-from-indonesias-capital-resume-after-volcanic-eruption-forced-a-2-day-closure/article71441117.ece",
-      "dateLocation": "September 8, 2026 | Jakarta",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ishan Kishan Smashes Mammoth 270 in Domestic Cricket",
-      "whyItMatters": "Demonstrates elite batting form and bolsters selection contention for national red-ball duties.",
-      "brief": "Wicketkeeper-batter Ishan Kishan hit a brilliant 270 off 334 balls in the Duleep Trophy final, signaling strong red-ball intent.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-final-ishan-kishan-signals-red-ball-intent-with-mammoth-270/articleshow/133904100.ece",
-      "dateLocation": "September 8, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Saeed Ajmal Launches Scathing Attack on Pakistan Cricket",
-      "whyItMatters": "Sheds light on deep-rooted administrative challenges plaguing international cricket structures.",
-      "brief": "Former spinner Saeed Ajmal criticized the Pakistan Cricket Board's management, arguing recent decisions have severely stunted player development.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-has-gone-back-10-years-saeed-ajmal-launches-scathing-pcb-attack/articleshow/133902589.cms",
-      "dateLocation": "September 8, 2026 | Lahore",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK Recognizes India's Carbon Credit Scheme Under CBAM",
-      "whyItMatters": "Eases international tax burdens for Indian exporters complying with stringent European environmental rules.",
-      "brief": "The United Kingdom has officially recognized India’s carbon credit trading scheme, allowing relief against future CBAM liabilities for importers.",
+      "headline": "UK Government Secures £30 Million for Shetland Spaceport",
+      "whyItMatters": "Bolsters commercial aerospace capabilities and domestic satellite launch infrastructure.",
+      "brief": "The SaxaVord spaceport project in northern Scotland secured significant funding to serve as a launch site for small commercial rockets.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/uk-recognises-india-s-carbon-credit-scheme-under-cbam-easing-tax-burden-for-exporters-11788830116654.html",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyze8ed774o",
       "dateLocation": "September 8, 2026 | London",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
