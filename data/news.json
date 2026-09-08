@@ -1,129 +1,147 @@
 {
-  "lastUpdated": "2026-09-07T21:04:41.701Z",
+  "lastUpdated": "2026-09-08T02:57:28.458Z",
   "ticker": [
-    "India clears ₹1.1 lakh crore defense deals",
-    "RBI unloads $8 billion to anchor rupee",
-    "JLR to cut 10% of workforce",
-    "Canada sets retaliatory tariffs on US",
-    "Iran and Oman plan Strait of Hormuz route"
+    "Brent crude surpasses $97 amid Mideast supply fears",
+    "Yen hits seven-month high as global markets waver",
+    "Canada retaliatory tariffs on US goods take effect",
+    "Indonesia's capital reopens flights after volcano eruption",
+    "ISRO plans to outsource routine rocketry to private firms"
   ],
   "articles": [
     {
-      "headline": "India Clears ₹1.1 Lakh Crore Defense Acquisitions",
-      "whyItMatters": "Boosts domestic manufacturing and modernizes military hardware with 98% local sourcing.",
-      "brief": "The Indian government has cleared massive proposals worth ₹1.1 lakh crore to buy military hardware for the army, navy, and air force, focusing heavily on indigenous sourcing.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-clears-1-10-lakh-crore-defence-acquisitions-for-army-navy-and-air-force/articleshow/133877635.cms",
-      "dateLocation": "2026-09-07 | New Delhi / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Central Bank Unloads $8 Billion to Anchor Rupee",
-      "whyItMatters": "Demonstrates aggressive monetary defense to stabilize currency amidst rising global economic pressures.",
-      "brief": "Bankers report that the Reserve Bank of India unloaded at least $8 billion last week to anchor the sliding rupee against mounting external pressures.",
+      "headline": "Brent Crude Surpasses $97 Amid Middle East Supply Fears",
+      "whyItMatters": "Escalating conflicts directly threaten global energy supplies and spike fuel costs.",
+      "brief": "Oil prices surged past $97 a barrel as prolonged Middle East tensions and Strait of Hormuz disruptions heightened fears of global supply shortages.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEJ5MFFyZkNReHhmbnNfZmpwQzExb0cxY0Y4dHpBRXkxZE5XSVdFNjhpLUhxUUFmMGs1YkJxMW9GSG5PYmpIVl9IQnlUSnVhWWQxSUdsVUdKQnMxc1FfSk05U0ZvbmRSOWNrSVM3VVg2eFhhZk9QN2h6bXBMYV9vSkRkdllxQXBQTVFOZ3U5TDZwaTZjSUliYy1kOE9BN3VQZkFQM1N6Ylh0YVQwVTdjWHVwMnVPb1hUU0o5Y2pETy1wMk1ZN1E?oc=5",
-      "dateLocation": "2026-09-07 | Mumbai / Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/brent-crude-climbs-beyond-97-as-strait-of-hormuz-disruptions-choke-global-oil-supplies/articleshow/133903159.cms",
+      "dateLocation": "September 8, 2026 | Global",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UK's Jaguar Land Rover to Cut 10% Workforce",
-      "whyItMatters": "Reflects ongoing structural challenges and restructuring pressures within legacy European automotive giants.",
-      "brief": "Jaguar Land Rover is set to cut nearly 10% of its total workforce as part of a sweeping new turnaround plan aimed at restoring profitability.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG1leHh6LUdMenZscjYwWnJhamJoaW9xVkV2SUJUeHUtejZGNTNPUDZFTGdkby02c2Y2Wmp0UXNPMUtzYlNzS1VwVXZOYlc4c1d4Vk9IV3VJX2F3VG0wYnFySE5nVzR6eDZ4MTlvcXJzVm5ESUsyeFViUFRVQW1hMjRDQ2c4dUUyWkxaQVYwMWJBODdGeGt2V2JwVG1rUHlVa2VPMFhwWVJOVW1NNWl5N203U3d3bWpGbVBV?oc=5",
-      "dateLocation": "2026-09-07 | London / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Canada Prepares Retaliatory Tariffs on US Products",
-      "whyItMatters": "Escalates trade tensions and threatens cross-border supply chains for steel and consumer goods.",
-      "brief": "Unless a last-minute deal is struck, Canada's government will impose retaliatory tariffs on US steel products, raising levies to 50% alongside consumer goods.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/trumpcarney-trade-war-canada-set-to-impose-retaliatory-tariffs-on-us-products-11788795162465.html",
-      "dateLocation": "2026-09-07 | Ottawa / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran and Oman to Establish Safe Strait Route",
-      "whyItMatters": "Aims to stabilize oil tanker traffic and secure vital shipping lanes amidst ongoing regional conflicts.",
-      "brief": "Iran and Oman have agreed to set up a temporary safe route in the Strait of Hormuz as regional conflict causes tanker traffic to plummet.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/strait-of-hormuz-deal-iran-and-oman-to-set-temporary-safe-route-as-tanker-traffic-falls-amid-war-1178804289846.html",
-      "dateLocation": "2026-09-07 | Muscat / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Passive Smoking Deaths Surge 50% Since 1990",
-      "whyItMatters": "Highlights a critical and worsening public health crisis across densely populated developing regions.",
-      "brief": "A new Lancet study reveals that passive smoking deaths have surged by 50% globally since 1990, accounting for hundreds of thousands of fatalities in India alone.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/passive-smoking-deaths-up-50-since-1990-lancet/articleshow/133895924.cms",
-      "dateLocation": "2026-09-07 | New Delhi / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple Eyeing Foldables for Major Market Break",
-      "whyItMatters": "Could dramatically reshape consumer adoption curves and redefine the stagnant high-end smartphone market.",
-      "brief": "Industry reports indicate that Apple is positioning itself to introduce foldable device technology, potentially giving the nascent sector its biggest mainstream break yet.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-event-foldable-iphone-ultra-launch-smartphone-market-growth-samsung-xiaomi/articleshow/133872279.cms",
-      "dateLocation": "2026-09-07 | Cupertino / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "DGFT Launches API for Certificate of Origin",
-      "whyItMatters": "Streamlines bilateral trade operations and cuts down bureaucratic data entry delays for Indian exporters.",
-      "brief": "The Directorate General of Foreign Trade has launched an API facility enabling exporters to integrate enterprise software directly with the CoO system.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/dgft-launches-api-facility-to-streamline-certificate-of-origin-process-bilateral-trade-exporters-11788784707109.html",
-      "dateLocation": "2026-09-07 | New Delhi / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Alternative Fuel Car Sales Outpace Petrol in India",
-      "whyItMatters": "Signals a rapid consumer shift driven by fuel costs and environmental compliance concerns.",
-      "brief": "According to dealers' bodies, alternative-fuel car sales in India have surpassed petrol variants due to soaring running costs and ethanol-blending policy concerns.",
+      "headline": "Yen Extends Rally to Reach Seven-Month High",
+      "whyItMatters": "Currency fluctuations impact global trade balances and investor risk appetite worldwide.",
+      "brief": "The Japanese yen extended its strong rally to a new seven-month high while the US dollar remained subdued ahead of crucial inflation data.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVoxeEhSeXlubXdWMV9CbTQ0b25DU1RXb2pzMG1Hay1fZU1HUXlrTmozX3JzU0dZcE1weno2X2lxcXZPcEtiY1lCSW93M3Q2bS14QUFTblBFdDRjWER5dkY5UzVxMHJBbkd0MWlONnB4MzBwNFNDV2doVm92UlBLUEJzVVpVbm9DeUFIRDZxc2dPUENEcGhOcnI2a2VtMGpoQ2FVR2wzVFE3U3dOd3EzcWQ2Z0hUQVpCT1M1ZHY1MUp3dEpGUmRn?oc=5",
-      "dateLocation": "2026-09-07 | New Delhi / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzJTNlNmRkk4ZlAxN0diYXoyblUyaE41UTRRRFpZbURGSk9pZGlTVDc5QkpJSHpqWlRWY0ZjR1M1ZW1sdU5KNmJqUGZ6eTRleGRfektFaDFlMmprZW14T2RodGJMcVlfNG5fMmZTbFhqNERNeGZvVW1CcHQ5MUZ4R0pGbTF3WllEN2hqQkpTVUZrUmVlUnh2UWIwOTJSQU5IZ2pxRGJNelRPdU8wd0dYS0Q4QXB0bWNRSnc?oc=5",
+      "dateLocation": "September 8, 2026 | Tokyo",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government Cuts LPG Refill Booking Gap to 25 Days",
-      "whyItMatters": "Ensures uniform household energy access and curbs hoarding or black marketing of cylinders.",
-      "brief": "The Petroleum Ministry has directed state-run oil marketing companies to introduce a uniform 25-day gap between LPG refill bookings for all consumers.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/lpg-cylinder-rules-changed-refill-booking-gap-cut-to-25-days-for-all-consumers-11788795337380.html",
-      "dateLocation": "2026-09-07 | New Delhi / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mizoram Electoral Rolls Finalized After Special Revision",
-      "whyItMatters": "Maintains democratic integrity through rigorous updating of regional voter databases ahead of elections.",
-      "brief": "Following a special intensive revision, Mizoram's final electoral rolls stand at 8.35 lakh electors after notable deletions and additions.",
+      "headline": "Canada Implements Retaliatory Tariffs on US Goods",
+      "whyItMatters": "Escalating trade wars between neighbors disrupt North American supply chains and markets.",
+      "brief": "Ottawa has enacted retaliatory tariffs on billions in US imports following Washington's levies, prompting new trade friction and economic warnings.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/mizoram/mizoram-electoral-rolls-see-78442-deletions-39243-additions-after-sir-final-count-at-835-lakh/article71440012.ece",
-      "dateLocation": "2026-09-07 | Aizawl / The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/us-news/canadas-retaliatory-us-tariffs-set-to-take-effect-which-american-products-face-new-duties-11788833231533.html",
+      "dateLocation": "September 8, 2026 | Ottawa",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Building Collapse Triggers Crackdown on Unsafe PGs",
-      "whyItMatters": "Exposes hazardous living conditions in student hubs, prompting urgent safety audits and arrests.",
-      "brief": "Following a tragic building collapse in Satya Niketan that killed several individuals, police have arrested owners and sparked intense political scrutiny over unauthorized student accommodations.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/satya-niketan-collapse-why-did-delhi-police-arrest-a-retired-iaf-sergeant-and-family-what-was-found-during-probe-11788797463842.html",
-      "dateLocation": "2026-09-07 | New Delhi / LiveMint",
+      "headline": "North Korea Warns US Over Joint Military Drills",
+      "whyItMatters": "Heightened geopolitical rhetoric on the Korean peninsula threatens regional security and stability.",
+      "brief": "North Korea’s newly appointed defense minister strongly condemned ongoing joint military drills by the US, South Korea, and Japan.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/north-korea-s-new-defense-minister-warns-us-over-military-drills-11788830852834.html",
+      "dateLocation": "September 8, 2026 | Pyongyang",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Alternative-Fuel Cars Outpace Petrol Sales in India",
+      "whyItMatters": "Signals a massive consumer shift toward sustainable transport driven by cost and regulations.",
+      "brief": "Alternative-fuel passenger vehicle sales in India have surpassed petrol models due to operating costs and evolving environmental concerns.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVoxeEhSeXlubXdWMV9CbTQ0b25DU1RXb2pzMG1Hay1fZU1HUXlrTmozX3JzU0dZcM1weno2X2lxcXZPcEtiY1lCSW93M3Q2bS14QUFTblBFdDRjWER5dkY5UzVxMHJBbkd0MWlONnB4MzBwNFNDV2doVm92UlBLUEJzVVpVbm9DeUFIRDZxc2dPUENEcGhOcnI2a2VtMGpoQ2FVR2wzVFE3U3dOd3EzcWQ2Z0hUQVpCT1M1ZHY1MUp3dEpGUmRn?oc=5",
+      "dateLocation": "September 8, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UK's Jaguar Land Rover to Cut 10% of Workforce",
+      "whyItMatters": "Demonstrates ongoing structural adjustments and cost pressures within the traditional European automotive sector.",
+      "brief": "Jaguar Land Rover announced plans to slash nearly 10% of its global workforce as part of an aggressive turnaround strategy.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG1leHh6LUdMenZscjYwWnJhamJoaW9xVkV2SUJUeHUtejZGNTNPUDZFTGdkby02c2Y2Wmp0UXNPMUtzS1VwVXZOYlc4c1d4Vk9IV3VJX2F3VG0wYnFySE5nVzR6eDZ4MTlvcXJzVm5ESUsyeFViUFRVQW1hMjRDQ2c4dUUyWkxaQVYwMWJBODdGeGt2V2JwVG1rUHlVa2VPMFhwWVJOVW1NNWl5N203U3d3bWpGbVBV?oc=5",
+      "dateLocation": "September 8, 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global IT Giants Outpace Indian Rivals in AI Consulting",
+      "whyItMatters": "Highlights shifting competitive landscapes in high-end technology services and artificial intelligence adoption.",
+      "brief": "International technology corporations are accelerating past Indian IT listed rivals in securing lucrative artificial intelligence consulting contracts.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/information-tech/global-it-firms-outpace-india-listed-rivals-on-ai-consulting/articleshow/133895181.cms",
+      "dateLocation": "September 8, 2026 | Bengaluru",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ISRO Takes NASA Route, Plans to Outsource Rocketry",
+      "whyItMatters": "Marks a major shift toward commercial privatization in India's national space exploration framework.",
+      "brief": "In a strategic policy shift, the Indian Space Research Organisation plans to outsource routine rocketry to private industry partners.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/isro-takes-nasa-route-plans-to-outsource-routine-rocketry/articleshow/133895586.cms",
+      "dateLocation": "September 8, 2026 | Bengaluru",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global Climate Change Links to Tibetan Glacier Collapse",
+      "whyItMatters": "Warns of accelerating environmental hazards and rising downstream disaster risks across Asia.",
+      "brief": "Chinese researchers have established a direct link between global climate change and major glacial collapses across the Tibetan plateau.",
+      "category": "science",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/chinese-researchers-see-climate-change-link-to-glacial-collapse-warn-of-rising-disaster-risks/article71441103.ece",
+      "dateLocation": "September 8, 2026 | Beijing",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nehra Compares Shubman Gill and Hardik Pandya",
-      "whyItMatters": "Provides elite strategic insight into leadership transitions within premier franchise cricket setups.",
-      "brief": "Coach Ashish Nehra has highlighted stark leadership contrasts between Shubman Gill and Hardik Pandya, evaluating their unique captaincy styles in the IPL.",
+      "headline": "Uttar Pradesh to Establish Mental Health Support Cells",
+      "whyItMatters": "Addresses growing academic stress and student well-being crises within higher education institutions.",
+      "brief": "The state government of Uttar Pradesh will mandate mental health support cells across all universities and colleges to foster safe environments.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-to-set-up-mental-health-support-cells-in-all-universities-and-colleges/article71439718.ece",
+      "dateLocation": "September 8, 2026 | Lucknow",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Paris Investigates Claims at Eiffel Tower Delegation Visit",
+      "whyItMatters": "Sparks diplomatic and cultural inquiries regarding discrimination and event protocols at public monuments.",
+      "brief": "Paris authorities are investigating allegations that female staff members were sidelined during a Hindu delegation's visit to the Eiffel Tower.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHJRcm5FUlpiWGg1OWN3SHEwWk85N1NvRlk4OFN1T24zVmp5d1FyTXhrM3N3ckNuOVV6S0ZkNmFzVUNDQ0g4MXIzOFN3U0haTXVKR0ZOZGJTMXNQb2IyYlJGQjYxRnp6RGZpLXJINk8tNHl4bHkzZDhMdzdlMVJaV2NNR09aWG1yVFZra0wzYXE5YUhUNTNscUdURFI0OWVtdEYwN2NNUjlRQnVJNEhfQ0xJb0FyWjBNZ3dXTkJjR1ZlTENpT2hyM0tjUQ?oc=5",
+      "dateLocation": "September 8, 2026 | Paris",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Flights Resume in Jakarta Following Volcanic Eruption",
+      "whyItMatters": "Restores critical regional transportation hubs after multi-day safety disruptions caused by ash plumes.",
+      "brief": "Flights to and from Jakarta resumed normal operations after a volcanic ash eruption forced a two-day closure halting thousands of flights.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/flights-to-and-from-indonesias-capital-resume-after-volcanic-eruption-forced-a-2-day-closure/article71441117.ece",
+      "dateLocation": "September 8, 2026 | Jakarta",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ishan Kishan Smashes Mammoth 270 in Domestic Cricket",
+      "whyItMatters": "Demonstrates elite batting form and bolsters selection contention for national red-ball duties.",
+      "brief": "Wicketkeeper-batter Ishan Kishan hit a brilliant 270 off 334 balls in the Duleep Trophy final, signaling strong red-ball intent.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/north-pole-and-south-pole-ashish-nehra-compares-shubman-gill-and-hardik-pandya-as-captains/articleshow/133888610.cms",
-      "dateLocation": "2026-09-07 | Mumbai / Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-final-ishan-kishan-signals-red-ball-intent-with-mammoth-270/articleshow/133904100.ece",
+      "dateLocation": "September 8, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saeed Ajmal Launches Scathing Attack on Pakistan Cricket",
+      "whyItMatters": "Sheds light on deep-rooted administrative challenges plaguing international cricket structures.",
+      "brief": "Former spinner Saeed Ajmal criticized the Pakistan Cricket Board's management, arguing recent decisions have severely stunted player development.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-has-gone-back-10-years-saeed-ajmal-launches-scathing-pcb-attack/articleshow/133902589.cms",
+      "dateLocation": "September 8, 2026 | Lahore",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UK Recognizes India's Carbon Credit Scheme Under CBAM",
+      "whyItMatters": "Eases international tax burdens for Indian exporters complying with stringent European environmental rules.",
+      "brief": "The United Kingdom has officially recognized India’s carbon credit trading scheme, allowing relief against future CBAM liabilities for importers.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/world/uk-recognises-india-s-carbon-credit-scheme-under-cbam-easing-tax-burden-for-exporters-11788830116654.html",
+      "dateLocation": "September 8, 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
