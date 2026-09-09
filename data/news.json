@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-09-08T20:41:12.915Z",
+  "lastUpdated": "2026-09-09T02:58:06.826Z",
   "ticker": [
-    "UK Air Traffic Control Glitch Grounds Hundreds",
-    "Trump and Putin Discuss Ukraine War",
-    "Meta Launches Cross-App AI Agent Muse",
-    "India Joins US-Led 6G Global Alliance",
-    "West Asia Tensions Flare Over Oil Tankers"
+    "US and Iran exchange direct military strikes in Middle East escalation",
+    "Meta unveils autonomous AI agent capable of managing external apps",
+    "Oil prices surge toward $100 per barrel amid regional conflict",
+    "Qualcomm strikes multi-billion dollar AI chip partnership with Amazon",
+    "Magnitude 5.3 earthquake strikes Tibet with tremors felt in Nepal"
   ],
   "articles": [
     {
-      "headline": "Meta Launches Muse AI Agent for Cross-App Tasks",
-      "whyItMatters": "Highlights rapid advancements in autonomous AI agents interacting with personal data.",
-      "brief": "Meta launched Muse, an AI agent capable of accessing third-party apps to send emails and make payments, despite internal safety test concerns.",
+      "headline": "Meta Launches Autonomous AI Agent for Multi-App Actions",
+      "whyItMatters": "Expands AI utility into direct external app execution and financial transactions.",
+      "brief": "Meta has launched a new AI agent capable of navigating external applications to perform complex tasks, including sending emails and conducting payments, marking a major leap in consumer AI utility.",
       "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/meta-launches-muse-ai-agent-that-can-access-other-apps-to-send-emails-make-payments/article71444514.ece",
-      "dateLocation": "September 8, 2026 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Joins US-Led 6G Global Telecom Alliance",
-      "whyItMatters": "Positions India centrally in the next generation of global wireless infrastructure standards.",
-      "brief": "India has officially joined a US-led international alliance comprising 25 nations to drive research and development in future 6G technologies.",
+      "headline": "Qualcomm Strikes $4 Billion AI Chip Deal With Amazon",
+      "whyItMatters": "Solidifies major enterprise semiconductor alignment within the high-growth cloud sector.",
+      "brief": "Qualcomm has announced a major AI chip partnership with Amazon, which includes granting Amazon the right to buy approximately $4 billion in stock as part of the strategic alliance.",
       "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/india-joins-us-led-6g-initiative-with-25-countries-what-new-global-alliance-means-for-the-future-of-internet-and-wireless-connectivity/articleshow/133930349.cms",
-      "dateLocation": "September 8, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Central Bank Extends Rupee Support Interventions",
-      "whyItMatters": "Demonstrates aggressive monetary defense mechanisms to stabilize the national currency.",
-      "brief": "Traders report that the Reserve Bank of India has prolonged its market intervention streak to actively support the weakening rupee.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDc0QVVDRm5Ud0ZCWnhONzRDZ0JjZEhMWF9ocnVTS1JXNF9wbmtWcHdIR0pFSnh6ZnhaRXNQZ2x3MmFrUUdveFYxNGZnVlN0enFFRVVjSkZqaWJfQjdRdlNpaS04bmZtX0dPOUJHbTBsLURWeERyZkJpcWlxSG1oRDRkVFhQS0REUW9LS3FOWkFFVENhU3c5MGF5SUlIVmUtN0c5MTh0aHM3dnNBYnN5ZnFLLVBoMHg4dWFJd1RR?oc=5",
-      "dateLocation": "September 8, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Qualcomm Secures $4 Billion AI Chip Deal with Amazon",
-      "whyItMatters": "Intensifies corporate competition in supplying advanced hardware for hyperscale cloud AI workloads.",
-      "brief": "Qualcomm has finalized a major AI chip supply agreement with Amazon, offering the tech giant stock purchase rights worth roughly $4 billion.",
-      "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5",
-      "dateLocation": "September 8, 2026 | Reuters",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Weakens Ahead of Inflation Data as Oil Rises",
+      "whyItMatters": "Reflects shifting macro investor sentiment amidst fluctuating commodity pricing pressures.",
+      "brief": "Gold prices remained lackluster ahead of critical upcoming inflation figures, while crude oil prices climbed sharply due to escalating geopolitical tensions in the Middle East.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVFOMG93MEp4ZjJ0VUtRcWQxVTRKYTJOb3RwbTZpMnNyZlJ5eFdCRGhNTXF4b2MyRGpXWTh0T1N1d28tUGRfSW80bmFNT1RNelFYMTlLU2ctZEZpYmsyNjZRb2ROTnVqMkVuX2Z3UU12UDlCV2cxSmd1MzR2dktuNUtOR3ZXdjR2YnAyUlJDYjFtWmwybURmNEdLMHk3SFBQNVE?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump and Putin Hold Phone Call on Ukraine",
-      "whyItMatters": "Signals potential high-level diplomatic shifts regarding ongoing peace talks in Eastern Europe.",
-      "brief": "Donald Trump and Vladimir Putin held an hour-long phone conversation regarding the Ukraine war, which the Kremlin described as constructive.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-putin-hold-hour-long-phone-call-on-ukraine-war-us-seeks-to-revive-stalled-peace-talks-11788882716964.html",
-      "dateLocation": "September 8, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Bristol Myers Blood Cancer Therapy Succeeds in Trials",
+      "whyItMatters": "Advances promising cell-based oncology treatments through critical clinical milestones.",
+      "brief": "Bristol Myers Squibb announced that its advanced blood cancer cell therapy successfully met its primary endpoints in a closely watched mid-stage clinical trial.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPangzOHZiUTJWRlJlVlhlWFFFNlduVURITDVFNnRDQW1DN1dZb05TSmtjd0dWM2ZPTm5MaG1PMkstbHQ0VXB5T0c3WGY0VVdoamRLeXZHc0RoRFMyNE44QVJZUGtaU0JReUw3VTZaMTMtUy01WlRiRXRqUVVMWTNYVzNZTnBaVllpM2NlNDI4S2VuR1RBRW9OdFowT3FzZkRYZDZWVDZTRmlKYUgxNmF0bThoYnhlRXhobGxTZnhQOFVSM0pvWDhfMU9GaDNJNDc2V0xVR192bERpN2M?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "INDIA Bloc Protests Planned Over New Mining Laws",
-      "whyItMatters": "Sets up major legislative friction between regional state governments and federal resource policies.",
-      "brief": "Opposition parties in Odisha have announced a major assembly protest on September 29, alleging heavy revenue losses from new central mining regulations.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/odisha/india-bloc-parties-announce-odisha-assembly-gherao-on-sept-29-over-new-mining-law/article71444026.ece",
-      "dateLocation": "September 8, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Emerges as Top Exporter of LPG to India",
-      "whyItMatters": "Reduces dependency on traditional Middle Eastern energy corridors amidst geopolitical uncertainty.",
-      "brief": "The United States now supplies over 50% of India's liquefied petroleum gas imports, solidifying a shifting energy partnership pattern.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/why-just-russian-oil-us-supplies-over-50-of-indias-lpg-imports-what-it-means/articleshow/133926992.cms",
-      "dateLocation": "September 8, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Uber Ends Remote Work for Most Employees",
-      "whyItMatters": "Reflects the ongoing corporate retreat from flexible work policies among major global firms.",
-      "brief": "Alongside job cuts, Uber's latest memo mandates that remaining remote employees must relocate to an official office near their teams.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms",
-      "dateLocation": "September 8, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Major UK Air Traffic Control Glitch Cancels Flights",
-      "whyItMatters": "Exposes vulnerabilities in critical national infrastructure affecting international transit corridors.",
-      "brief": "A technical failure in the UK air traffic control system disrupted major airports like Heathrow and Manchester, grounding nearly 300 flights.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/uk-airports-ground-flights-over-air-traffic-control-issue-easyjet-british-airways-heathrow-gatwick-manchester-11788881979362.html",
-      "dateLocation": "September 8, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Warns of Retaliatory Strikes on Oil Tankers",
-      "whyItMatters": "Escalates maritime security risks in crucial global energy shipping lanes following regional clashes.",
-      "brief": "The Iranian Revolutionary Guard Corps stated that Tehran plans to target oil tankers in Kuwait and Bahrain following recent U.S. strikes.",
+      "headline": "US and Iran Trade Direct Strikes Amid Escalation",
+      "whyItMatters": "Drastically escalates long-running regional hostilities and threatens global energy corridors.",
+      "brief": "Following U.S. strikes on Iranian oil tankers, Iran launched ballistic missiles targeting American positions in Jordan and naval ships in the Strait of Hormuz, driving oil prices higher.",
       "category": "world",
       "sourceUrl": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece",
-      "dateLocation": "September 8, 2026 | The Hindu",
+      "dateLocation": "September 9, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Launches Unprecedented National Food Safety Push",
-      "whyItMatters": "Addresses systemic public health vulnerabilities through sweeping manufacturing and retail regulatory crackdowns.",
-      "brief": "Regulatory bodies across India have launched aggressive raids, facility shutdowns, and mandatory warning labels in a wide-reaching food safety enforcement drive.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWJrbWRuQ0x3SUhKNDd5ZWdqRzVwdnNfcDgtYnhwUklvMnZFXy1SRVVIYUYwMVVGT3EzNEh5TFV5dWtGUnYyQnJzRzd1VmRoVkYtLTBxYnZDd005QklEaWpVM1h6c3dpV2pDX2xXUWJpdmlMZl9SaUo3cDJEa0VISlpfYzh2bG1mSHRZWVhhekZqZFJPYndlMTRaT3pKRm45cGhrLXNlNTdYMEFxXy1vU0lUVGhGTE5KcC1ySGNB?oc=5",
-      "dateLocation": "September 8, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Chlorine Gas Leak Hospitalizes Four in Madhya Pradesh",
-      "whyItMatters": "Highlights localized industrial safety hazards at municipal water infrastructure plants.",
-      "brief": "A chlorine gas leak from a purification cylinder at a water filtration plant in Sehore resulted in four individuals being hospitalized.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/chlorine-gas-leak-at-a-sehore-water-filtration-plant/article71444504.ece",
-      "dateLocation": "September 8, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Wasim Akram Voices Concern Over Imran Khan's Health",
-      "whyItMatters": "Draws international attention to the welfare of prominent global public figures in detention.",
-      "brief": "Former cricketer Wasim Akram has publicly spoken out to express deep concern regarding the health and humane treatment of Imran Khan.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/convicted-or-not-convicted-wasim-akram-breaks-silence-on-imran-khans-health-i-miss-him-a-lot/articleshow/133929616.cms",
-      "dateLocation": "September 8, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BCCI Secures Lucrative Commercial Partnerships for Home Series",
-      "whyItMatters": "Underscores the immense commercial valuation of Indian cricket media and sponsorship rights.",
-      "brief": "The Board of Control for Cricket in India has signed major sponsorship agreements with top corporate entities exceeding heavy per-game revenue thresholds.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-signs-rs-130-crore-plus-deals-with-campa-sbi-life-chatgpt-for-india-home-cricket/articleshow/133930103.cms",
-      "dateLocation": "September 8, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Chhattisgarh High Court Rules Religious Courts Invalid",
+      "whyItMatters": "Reasserts the constitutional supremacy of secular judicial mechanisms over parallel bodies.",
+      "brief": "The Chhattisgarh High Court ruled that no religious institution or quasi-court has the legal authority to function as a court of law or issue legally binding marital decrees.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/latest-news/no-religious-institution-can-function-as-court-says-chhattisgarh-high-court/article71443643.ece",
+      "dateLocation": "September 9, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Magnitude 5.3 Earthquake Strikes Tibet Region",
-      "whyItMatters": "Demonstrates ongoing seismic activity along Himalayan fault lines affecting neighboring populations.",
-      "brief": "A 5.3 magnitude earthquake struck Tibet at a depth of 35 km, sending noticeable tremors across parts of Nepal following recent weather anomalies.",
+      "whyItMatters": "Highlights ongoing seismic activity in a vulnerable, high-altitude border territory.",
+      "brief": "A magnitude 5.3 earthquake struck Tibet at a depth of 35 kilometers, sending sharp tremors across neighboring regions including parts of Nepal, according to seismological authorities.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/earthquake-hits-tibet-again-magnitude-5-3-this-time-at-a-depth-of-35-km-nepal-feels-tremor-11788889363182.html",
-      "dateLocation": "September 8, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDB4OHhldzNIcmo3OUI5Z0UxbEFQNmJVM05uQVdCRzBKVmpCZGZ1ekR6MU56Nmw2Nmxta0hjUFNmZjc5LS1RSnFCS3llS29OcWstUV9IOEZYRWdQUElzdWtHb2tRRTltRU5uMVdQSFVGdTROMEpSOG9NbjgtelBfa1JzQmJvUVdHN09VekN2bFlrdk1ETDl3aGRQX1FVUVBmZmNpbkxYMA?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Kane, Haaland, and Messi Lead Ballon d'Or Shortlist",
+      "whyItMatters": "Showcases the pinnacle of individual excellence in international professional football.",
+      "brief": "Top football stars including Harry Kane, Erling Haaland, and Lionel Messi have officially been named on the prestigious shortlist for the upcoming Ballon d'Or awards.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTVhWnpVcVp4T3RLWUtnRUY3T2pPbThiZzFpbTZvMDNJNUJRdDItNGt2d1lvNlpEWmpNclBabDR3cjN2ZmQ3bkJLc3ZhalRNNjlweDgtdzVONjliN2hPZEVOdmNXMVhtQ3ZXSkpWbkVBVkxCajlIWWFrNGs3aXRyMlJoZEd3aGNpZm51QXZkTWM2M1BpMDh4SEJod19BY3k2RWNad0RheVk1LUctbGRLOGNIZ1BaSGZkUTdQZQ?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Launches Unprecedented Food Safety Crackdown",
+      "whyItMatters": "Seeks to overhaul national consumer health standards via strict regulatory enforcement.",
+      "brief": "Indian food safety authorities have initiated widespread raids, operational shutdowns, and mandatory warning label enforcement in an aggressive push to elevate commercial standards.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWJrbWRuQ0x3SUhKNDd5ZWdqRzVwdnNfcDgtYnhwUklvMnZFXy1SRVVIYUYwMVVGT3EzNEh5TFV5dWtGUnYyQnJzRzd1VmRoVkYtLTBxYnZDd005QklEaWpVM1h6c3dpV2pDX2xXUWJpdmlMZl9SaUo3cDJEa0VISlpfYzh2bG1mSHRZWVhhekZqZFJPYndlMTRaT3pKRm45cGhrLXNlNTdYMEFxXy1vU0lUVGhGTE5KcC1ySGNB?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Resumes Immigrant Visa Processing for Poland, Hungary",
+      "whyItMatters": "Signals a selective normalization of consular operations within specific European allies.",
+      "brief": "The United States has officially resumed normal immigrant visa processing for applicants in Hungary and Poland, even as temporary pauses remain active across other global jurisdictions.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLU5LT2VyMl95SlRhUnVCekhEVUlxdC1mdnoyVnR4Sms3bWlsVGdfeFlaTEFTMl9JT1FVTnhqUTZrLXRVUm4zZ1BiV2JtVlRhVDI4cGtkNG1EU2xCQWlhNExUY2tTUWVETFJIZkhlY2Rxb29IR25qb1hSMmlaUmc4cU9DQ1VnT2N0dDh0NGhVam03QnpubzU4LWFqeFFvSUY4TUU1ZlNUT0g1b1l3dEtTN00wV3Y3ME8xX1Z5alVSV3VoTk96OWlGejJR?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Novartis Pipeline Faces Pressure Following Twin Drug Trials",
+      "whyItMatters": "Emphasizes the persistent financial and clinical risks inherent in pharmaceutical development.",
+      "brief": "Novartis CEO acknowledged that recent setbacks in two major clinical drug trials have increased strategic pressure on the company's broader therapeutic pipeline.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFhlWVprMlBUTENuN2xCUEM0dUpweUxxdjdUVmpkNEQydkZqUWVpeFRTYXowZG5vdWxuUEhvc2VabDZpYllTUG9BaHB3cFMyZ1JZSnJhNGY0QnlsX3VyTUFUeTF2RS1Gc19xZ1RtQU1vTW5nMzQ0ZEgwZXZNTXI3REtIdVFQYUdGSW55aHJuVm9iNUY3ZFAxNV9LSnBnYTFGWnF2eXM5ZjkwRVd3OF9YV2VfTlg4YmxVRHU2TjZn?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Uber Mandates Return to Office in Major Workforce Overhaul",
+      "whyItMatters": "Accelerates the broader corporate pullback from remote work flexibility for major tech firms.",
+      "brief": "Alongside a 10% workforce reduction affecting 3,300 employees, Uber CEO Dara Khosrowshahi announced that remaining remote staff must relocate to core offices, ending widespread remote work policies.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ubers-layoff-memo-also-has-a-work-from-home-message-for-the-remaining-29000-employees-were-establishing-clearer-principles-for-where-roles-and-teams-should-/articleshow/133916866.cms",
+      "dateLocation": "September 9, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Nears $100 Per Barrel Amid Middle East Conflict",
+      "whyItMatters": "Threatens global economic stability and accelerates inflationary pressures across energy markets.",
+      "brief": "Crude oil prices surged toward $100 a barrel, marking a fourth consecutive session of gains, as military exchanges between the U.S. and Iran severely disrupted critical Middle Eastern supply infrastructure.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/oil-inches-closer-to-100-per-barrel-as-iran-strikes-us-targets-in-jordan/articleshow/133948682.cms",
+      "dateLocation": "September 9, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal Tunnel Rescue Operations Target Trapped Workers",
+      "whyItMatters": "Focalizes emergency humanitarian response on deep-underground construction entrapments.",
+      "brief": "Rescue authorities in Nepal intensified coordinated efforts to reach construction workers trapped inside three distinct underground tunnels following recent infrastructure emergencies.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnZVXzVfbzMwSU9tX2tTTTBISFZ5eE44QmF0YlIzVEZMY2lxOVpnS0VJeVd5bWktRHVScEM4T283MjBKdFlVMXVGSUNEbk9nY2l1Zk1ZUGVmakNobV9yRl9kZ3hDR1lOMjhXNDRPNXVxZk1qLTBGbC1aYnlVZ2xZY2phcGdvQVJISFUzTjNpN3Y0bHhPNnlsYVNLOTZ4VWRfRzA3Rm1ReWRtaFdIb193?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Wasim Akram Blasts Pakistan Cricket Management and Team",
+      "whyItMatters": "Exposes deep institutional turmoil within elite international cricket administration.",
+      "brief": "Following a whitewash series defeat and subsequent drastic squad purges by the Pakistan Cricket Board, legend Wasim Akram issued a scathing critique regarding player attitudes and systemic failures.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/i-knew-we-were-going-to-lose-3-0-wasim-akrams-brutal-verdict-on-pakistan-cricket-crisis/articleshow/133948687.cms",
+      "dateLocation": "September 9, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
