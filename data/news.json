@@ -1,138 +1,147 @@
 {
-  "lastUpdated": "2026-09-09T10:43:47.606Z",
+  "lastUpdated": "2026-09-09T15:52:45.686Z",
   "ticker": [
-    "Brent crude breaches $100 per barrel amid Middle East escalation",
-    "Apple unveils iPhone 18 lineup and foldable device at event",
-    "Cabinet clears ₹10,021 crore multi-tracking railway projects",
-    "Google to invest $15B in AI infrastructure and nuclear energy",
-    "Xiaomi faces fresh Indian probe regarding investment rules"
+    "Oil crosses $100 on Middle East escalation",
+    "Google invests $15B in AI infrastructure",
+    "BRICS summit set for New Delhi",
+    "WTO reports resilient global trade",
+    "Volkswagen explores JSW partnership"
   ],
   "articles": [
     {
-      "headline": "Brent Crude Crosses $100 Amid Middle East Conflict",
-      "whyItMatters": "Surging oil prices threaten global economic stability and escalate inflationary pressures worldwide.",
-      "brief": "Brent crude prices have crossed $100 a barrel as intensifying conflicts in the Middle East stoke severe supply concerns and energy market volatility.",
+      "headline": "Brent Crude Hits $100 Amid Middle East Tensions",
+      "whyItMatters": "Spiking energy prices threaten global economic stability and manufacturing costs worldwide.",
+      "brief": "Brent crude oil prices surged past $100 a barrel following intensified US-Iran clashes, highlighting shrinking global safety margins and rattling Wall Street.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
-      "dateLocation": "2026-09-09 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk83eHNVQXFWUEdoZGxYdmRpdnhuMFFKM3JfMkRRNDMxWmM0c1JPVmpkRWhQVVBvX0VLdjlhZ296NHpDVDdUNS0xZl9jRXJEeWZ1N1ZWSnZGUjVueEc2MzdjNTAwUTNlUFEtZWZ5el9Jc3dBYjJzVzN6R080aFJLLVlYWEVqUTU0WHRGX1hMSXQ3cnFpaVNHeHM3enRkYjZDcEUyb0Vic1JhMExzU1BCZVBvZlh2dExCZ3dRTVBlNWxNZw?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China's Inflation Rises on Higher Energy Costs",
-      "whyItMatters": "Rising producer and consumer inflation in China signals broader global commodity price pressures.",
-      "brief": "Higher energy costs have driven up both producer and consumer inflation figures in China for the month of August.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDFLd1BDaVVNS01JdGxKYmQ5QVNtYlh3QlJEMTRUaWRHUUw1OTJqWnNTME94LUFkZk1BQU1GcnlaRmswN2gtTDYzeUduZjF3bi03QUlYUGRJR2Zqd1ptR0Ftek5kNGVXaFRZSE5HTE90YnA1ZDM4T0FPN2VOeDVfeDBzQVdaRjI4ajhEUFp2dHdnVXRWejYtLTBQOE8tSTNxcW1iTlU3MA?oc=5",
-      "dateLocation": "2026-09-09 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Google Invests $15 Billion in AI and Nuclear Power",
-      "whyItMatters": "Massive tech investments in nuclear energy mark a strategic shift toward powering data-heavy AI infrastructure.",
-      "brief": "Google is committing $15 billion to expand artificial intelligence infrastructure and secure clean nuclear energy power sources in Finland.",
+      "headline": "Google Pledges $15 Billion for AI and Nuclear Energy",
+      "whyItMatters": "Massive AI expansion requires direct investments in green and reliable baseline power sources.",
+      "brief": "Google announced a $15 billion investment in AI infrastructure, which includes acquiring nuclear power solutions in Finland to meet high energy demands.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
-      "dateLocation": "2026-09-09 | Reuters",
+      "dateLocation": "September 9, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI Partners with Samsung on Next-Gen Chips",
-      "whyItMatters": "Deepened chip cooperation aims to secure specialized hardware required for future AI model developments.",
-      "brief": "OpenAI has announced a collaboration with Samsung to manufacture next-generation semiconductor chips, expanding its hardware supply chain strategy.",
+      "headline": "WTO: AI Demand Sustains Global Trade Through Conflict",
+      "whyItMatters": "Tech demand serves as a crucial cushion against geopolitical headwinds for international commerce.",
+      "brief": "The World Trade Organization reported that world goods trade is maintaining momentum despite ongoing Middle East conflicts, heavily supported by robust AI sector demand.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/world-goods-trade-gains-momentum-despite-middle-east-conflict-ai-demand-cushions-blow-wto/articleshow/133971695.cms",
+      "dateLocation": "September 9, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Volkswagen Explores Joint Venture with India's JSW Group",
+      "whyItMatters": "Global automakers continuously seek local partnerships to cut production costs in key Asian markets.",
+      "brief": "German auto giant Volkswagen is in talks with India's JSW Group for a strategic partnership, following previous failed collaborations with local conglomerates.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlZCT25kTG1XeVJLa0hvenZlYTdLcTFQTHZJOTZMUUVtb3JaVHl2dzk1YjMyaThCamI3Z3R1MHNwSnNOa0xWS1ZrNUJFZ2Y4VnY3dG5Eek9ESENIM3pMZkxmUWNTNVJlb2VCdXdSa2RvTlFhSjV2RGtOXzBpOGxWYy1sbWhQUkExMzQ1SUdnMk9sVjMxcWhLNEhPMlFLdF9BV1FacGZ6MXY0RFVhZHAtdDYtX0l6Q0lRajVN?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New Delhi to Host High-Stakes BRICS Summit",
+      "whyItMatters": "Multilateral economic blocs play a growing role in shaping developing nation trade policies.",
+      "brief": "New Delhi finalizes preparations for the upcoming BRICS summit scheduled for September 12-13, focusing on regional cooperation, trade agendas, and global stability.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/brics-summit-in-delhi-on-september-12-13-agenda-schedule-and-other-details/articleshow/133973488.cms",
+      "dateLocation": "September 9, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Anti-Fraud Office Proposes Xiaomi Probe",
+      "whyItMatters": "Regulatory crackdowns on multinational tech corporations operating within major emerging markets continue to rise.",
+      "brief": "India's Serious Fraud Investigation Office has reportedly recommended a detailed inquiry into the business operations of smartphone manufacturer Xiaomi within the country.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Railways Clears Rs 10,021 Crore for South Lines",
+      "whyItMatters": "Infrastructure funding boosts regional transit capacity and promotes economic corridor development.",
+      "brief": "The Indian Railways has sanctioned over Rs 10,000 crore to construct 540 kilometers of new railway lines across southern states to ease congestion.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/railways-clears-rs-10021-crore-for-540-km-of-new-lines-in-southern-states/articleshow/133972422.cms",
+      "dateLocation": "September 9, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ben Shelton Shocks Carlos Alcaraz at US Open",
+      "whyItMatters": "Major upsets in Grand Slam tournaments reshape professional tennis rankings and competitive dynamics.",
+      "brief": "American tennis star Ben Shelton defeated Carlos Alcaraz in an epic five-set US Open quarterfinal battle, halting Alcaraz's Grand Slam winning streak.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/that-was-some-tennis-sachin-tendulkar-in-awe-of-ben-sheltons-epic-win-over-carlos-alcaraz-at-us-open-2026/articleshow/133970977.cms",
+      "dateLocation": "September 9, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PhonePe Integrates Visa Tokenisation and Cross-Border Pay",
+      "whyItMatters": "Advanced payment solutions streamline digital financial services for millions of merchants and consumers.",
+      "brief": "PhonePe has become the first Indian application to incorporate Visa’s device tokenisation, tap-to-pay, and cross-border payment capabilities at the Global Fintech Fest.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw?oc=5",
-      "dateLocation": "2026-09-09 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/india/phonepe-brings-visas-device-tokenisation-tap-to-pay-and-cross-border-payment-solutions-11788955307317.html",
+      "dateLocation": "September 9, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bangladesh Fights World's Worst Measles Outbreak",
-      "whyItMatters": "Vaccination gaps expose severe public health vulnerabilities, triggering intensive containment efforts across the country.",
-      "brief": "Bangladesh is battling a severe measles outbreak driven by critical vaccination gaps, prompting urgent public health interventions.",
+      "headline": "Monsoon Active Across India Through mid-September",
+      "whyItMatters": "Consistent rainfall is critical for agricultural output and water security across rain-fed regions.",
+      "brief": "The southwest monsoon remains active across large parts of India, bringing necessary showers crucial for the country's agricultural sowing cycle.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5",
-      "dateLocation": "2026-09-09 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/monsoon-to-remain-active-across-india-through-15-september-rainfall-showers-11788951511928.html",
+      "dateLocation": "September 9, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tylenol Pregnancy Link Investigated in Daughters",
-      "whyItMatters": "New observational studies raise potential safety questions regarding common analgesics during prenatal care.",
-      "brief": "Research suggests prenatal Tylenol use may correlate with structural changes in the ovaries and uterus of female offspring.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaFVzLXNtZFg1d0xVdnhBSno1NG92OVQyWk5LelJzenBtcDZtZUxQclhQQ2toaHpJTURicG9yV3Q1UkZCcGpWZjByUDlUVlJWeDl0dTNqdE5yX3BEb2xLUVpFQ0t6U2pUMDlrREVzV2p4QUVMM2t6aktTZXFZQml6Z3lRVkpDQWQyY1hoVDlSaTRfdDRkNGpNb2JubkRORF83c1ZBVlNmNVR4bS1GaXNXSDU0OGFrVXZzR29aWlJxTF81ZXZtMkswLTUxODRNMnJIa0NJRk13a09KYkU?oc=5",
-      "dateLocation": "2026-09-09 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Condemns Houthi Attacks on Saudi Arabia",
-      "whyItMatters": "Escalating regional conflicts threaten critical international shipping lanes and Middle East stability.",
-      "brief": "The Indian Ministry of External Affairs condemned Iran-backed Houthi drone attacks on Saudi Arabia that injured civilians.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiukFBVV95cUxQUTJ5YTBDcXdScFdqQUJJNmpuSC1YYmZtQUJEbDdlV3dEazhPNWtIb3MwV2lqQTdqakNBZDhlZ21uMHMzNWp4ZFF2djRtZ3hnQnlnRnhzel9CbzJsXzJnSHg3aUlCUGZzZDc1RnpENVBQMEtUUXVYcThYUG1pU1dPdVpqR1BPWjlJSWYwRW02MU9nOVNxV3h5UTFRTHVaSnVPQmU1QW5mZGRWci1oZ2FqUG1TYU9fSGhzS1E?oc=5",
-      "dateLocation": "2026-09-09 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BRICS Summit 2026 Set to Open in New Delhi",
-      "whyItMatters": "Major international diplomatic summit convenes global leaders to discuss innovation, resilience, and sustainability.",
-      "brief": "The BRICS Leaders' Summit is scheduled at Bharat Mandapam in New Delhi, focusing on resilience, cooperation, and sustainable growth.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw?oc=5",
-      "dateLocation": "2026-09-09 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cabinet Clears ₹10,021 Cr Railway Multi-Tracking",
-      "whyItMatters": "Infrastructure investments across southern states aim to ease congestion and improve freight transit times.",
-      "brief": "The Union Cabinet has approved rail multi-tracking projects worth ₹10,021 crore across four southern Indian states.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/cabinet-clears-rs-10021-crore-rail-multi-tracking-projects-across-four-southern-states-tamil-nadu-indian-railways/articleshow/133963901.cms",
-      "dateLocation": "2026-09-09 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Xiaomi Faces Fresh India Investigation Over Investments",
-      "whyItMatters": "Regulatory scrutiny on foreign tech firms operating in India continues to tighten compliance requirements.",
-      "brief": "India's Serious Fraud Investigation Office has recommended a detailed probe into Xiaomi's business operations and investment structures.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-in-country/articleshow/133963640.cms",
-      "dateLocation": "2026-09-09 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ben Shelton Stuns Carlos Alcaraz at U.S. Open",
-      "whyItMatters": "A historic late-night thriller shifts the tournament landscape following the defending champion's exit.",
-      "brief": "American player Ben Shelton defeated Carlos Alcaraz in a dramatic late-night match lasting over four hours at the U.S. Open.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/tennis/ben-shelton-stuns-carlos-alcaraz-in-latest-ever-us-open-finish/article71446526.ece",
-      "dateLocation": "2026-09-09 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hardik Pandya Returns to India A Squad",
-      "whyItMatters": "The all-rounder's injury return bolsters national depth ahead of upcoming competitive series against Australia A.",
-      "brief": "Hardik Pandya has recovered from injury and been named in the India A squad for the upcoming home series against Australia A.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-named-in-india-a-squad-for-australia-a-home-series-gaikwad-padikkal-to-lead/articleshow/133962399.cms",
-      "dateLocation": "2026-09-09 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tamil Nadu Bureaucratic Reshuffle Transfers 27 IAS Officers",
-      "whyItMatters": "Major administrative realignments impact governance structures and key developmental portfolios across state departments.",
-      "brief": "The Tamil Nadu government has executed a major administrative reshuffle, transferring 27 senior IAS officers to new assignments.",
+      "headline": "Tamil Nadu Political Parties Form New Alliance Banner",
+      "whyItMatters": "Coalition realigning shifts regional political power dynamics ahead of upcoming electoral contests.",
+      "brief": "Tamil Nadu's ruling coalition led by Chief Minister C. Joseph Vijay formally adopted the name Secular Social Justice Victory Alliance during a coordination meeting.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-transfers-27-ias-officers-in-major-bureaucratic-reshuffle/article71443826.ece",
-      "dateLocation": "2026-09-09 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/videos/tvk-alliance-gets-formal-name-at-chennai-coordination-meeting/article71448473.ece",
+      "dateLocation": "September 9, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Questions Magistrate Notice to Student",
-      "whyItMatters": "Judicial oversight reinforces civil liberties and limits executive penal actions against student protesters.",
-      "brief": "The Chief Justice of India questioned how an executive magistrate could issue notices to a student regarding a protest.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/how-can-magistrate-issue-notice-why-cji-surya-kant-questioned-notice-to-noida-student-over-jantar-mantar-protest-cjp-11788936471939.html",
-      "dateLocation": "2026-09-09 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Construction Surges at Iran's Underground Nuclear Site",
+      "whyItMatters": "Escalating nuclear facility development escalates regional security risks and international military responses.",
+      "brief": "New satellite imagery reveals a major construction surge at Iran's underground Pickaxe Mountain facility amidst mounting tensions and U.S. strike warnings.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/satellite-images-show-major-construction-surge-at-irans-underground-pickaxe-site-amid-us-war/articleshow/133967582.cms",
+      "dateLocation": "September 9, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Eleven Indian Insurers Prepare for Ind AS Transition",
+      "whyItMatters": "Accounting standard transitions unify financial reporting frameworks across the national insurance sector.",
+      "brief": "Eleven insurance companies have officially begun their transition to Ind AS starting fiscal year 2027, with the regulator closely monitoring remaining firms.",
+      "category": "finance",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/11-insurers-begin-ind-as-transition-from-fy27-irdai-tracks-rest-for-fy28/article71448276.ece",
+      "dateLocation": "September 9, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Producer Inflation Rises on Higher Energy Costs",
+      "whyItMatters": "Input cost inflation in major manufacturing economies directly impacts global supply chain pricing.",
+      "brief": "China reported an uptick in producer and consumer inflation for August, driven primarily by rising global energy costs and industrial material demand.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDFLd1BDaVVNS01JdGxKYmQ5QVNtYlh3QlJEMTRUaWRHUUw1OTJqWnNTME94LUFkZk1BQU1GcnlaRmswN2gtTDYzeUduZjF3bi03QUlYUGRJR2Zqd1ptR0Ftek5kNGVXaFRZSE5HTE90YnA1ZDM4T0FPN2VOeDVfeDBzQVdaRjI4ajhEUFp2dHdnVXRWejYtLTBQOE8tSTNxcW1iTlU3MA?oc=5",
+      "dateLocation": "September 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UIDAI Targets Threefold Surge in Daily Aadhaar Auth",
+      "whyItMatters": "Digital ID platform scalability is vital for massive national verification and fintech infrastructures.",
+      "brief": "UIDAI chief Neelkanth Mishra announced that the Aadhaar system is preparing to scale daily authentications from 100 million to nearly 300 million.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/aadhaar-prepares-for-threefold-jump-in-daily-authentications-uidai-chief-neelkanth-mishra-11788953180553.html",
+      "dateLocation": "September 9, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
