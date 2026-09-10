@@ -1,147 +1,111 @@
 {
-  "lastUpdated": "2026-09-10T15:47:44.295Z",
+  "lastUpdated": "2026-09-10T20:23:50.245Z",
   "ticker": [
-    "BRICS Summit 2026 kicks off in New Delhi",
-    "IMF forecasts steady global economic growth at 3%",
-    "Houthi rebels seize strategic Yemeni port city",
-    "India plans comprehensive AI registry and payments",
-    "Global chipmakers race to integrate advanced tech"
+    "BRICS Summit kicks off in New Delhi with global leaders attending",
+    "Oil crosses $105 as Houthis seize strategic Red Sea port",
+    "US proposes scrapping 60-day grace period for H-1B holders",
+    "ECB raises interest rates to combat sudden inflation spikes",
+    "Wipro deploys AI capacity equivalent to 20,000 workers"
   ],
   "articles": [
     {
       "headline": "India Pushes BRICS Digital Currency Link Despite Hurdles",
-      "whyItMatters": "It challenges Western financial dominance and boosts cross-border trade efficiency.",
-      "brief": "India is driving efforts to link central bank digital currencies among BRICS nations despite structural hurdles, aiming for greater payment system interoperability.",
+      "whyItMatters": "Enhances cross-border transaction efficiency and challenges traditional Western-led financial payment networks.",
+      "brief": "India is aggressively pushing for the integration of central bank digital currencies among BRICS nations to improve cross-border transaction efficiency, despite significant technical hurdles.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGFTYnhPbjNiSlZaLWpwYUE1aEJpdUViQjlnOF83UWx2UXdEYkF5VzdqWU5GX3pRemRhWVhuWUdGUkpUWmRvNTRYb0ZLMkJZSll2dTB1Wm9XWnlIV3BIUWZadHBBYmtXTmZyaVJ1Rnhrd0tlWkl2OWx0aHFxdXJyYVJQbkJhMnUxOGo1V2RFcGk2cWZCbVlQaDVUSjR2d3QzWkVGMFdOU3BBMk5RUEhSOUZvT08?oc=5",
-      "dateLocation": "2026-09-10 | Reuters",
+      "dateLocation": "2026-09-10 | New Delhi / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Wipro's AI Push Frees Capacity Equivalent to 20,000 Workers",
-      "whyItMatters": "It demonstrates massive productivity gains from enterprise AI integration.",
-      "brief": "Wipro's CTO reports that their aggressive AI automation deployment has successfully freed up operational capacity equivalent to 20,000 workers.",
+      "headline": "Wipro AI Push Frees Capacity Equal to 20,000 Workers",
+      "whyItMatters": "Demonstrates the rapid scaling of enterprise AI productivity within the global IT services sector.",
+      "brief": "Wipro's CTO announced that internal artificial intelligence initiatives have successfully freed up operational capacity equivalent to 20,000 workers, highlighting massive productivity gains.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZqYW42N1U0V0Nwcy0tclBNM0NETGhYRXdidmZmdWxxWWtlOHZKRUp6alpTSlZYWk1JaWt3ZGdQNkVEc2tQMGpUWnlHZXFTcVc3b2NxcHEyWTR2eVJPVmNieTBVbFhLdE5FWGRxVHlUbXdKdWtGRm9IN3pIZWJMUVFEcE1oMmsxeXowY0dKcV9GaGhRVDl4MTlVMDY1VWd4b3BmaHU1aXEtZHdBaEo5cA?oc=5",
-      "dateLocation": "2026-09-10 | Reuters",
+      "dateLocation": "2026-09-10 | Bengaluru / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Hosts BRICS Summit as Regional Conflicts Test Unity",
-      "whyItMatters": "Geopolitical tensions test the diplomatic resilience of emerging market alliances.",
-      "brief": "India is hosting the 18th BRICS Summit in New Delhi as ongoing Middle East conflicts and shifting global dynamics test the bloc's internal unity.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckJSazh5QjVkOTBaUXN3cm5TRkM5NGhqN3NWTUNidU5BX2QyZmNlSHkwYmQ0S2JPSmlFUWl2TWswaUlrVWJCRmkyMUZ6c0U5eTZsdldNZEZHR0cySmg5dTAyNW4td2JzZUNhaVhMaXFJTEpuMEQzZUJDbUhlTXhoMGt5elNXRU5TUGR2XzZmd2xXMzcwR09SYUlzRGlZb1E?oc=5",
-      "dateLocation": "2026-09-10 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "India Signals Stricter Red Warning Labels for Big Food",
-      "whyItMatters": "It marks a major regulatory clampdown on processed food marketing and health safety.",
-      "brief": "In a significant blow to multinational food corporations, India is signaling the implementation of prominent red warning labels on high-fat, sugar, and salt products.",
+      "whyItMatters": "Presents a major regulatory setback for multinational processed food manufacturers operating in India.",
+      "brief": "The Indian government has signaled the introduction of stricter red warning labels on packaged foods, posing a significant regulatory challenge for major global food corporations.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWpxT3FMVUNDdWdfdjduU2ZXNWY3WjFRQUFpZFF4eWgtMlI4aWZfX2E4TXNEdkduYU9ld1F6MnQxMksydXpicC1ueTh0ZS1nVXRKT3FjeTQ1NnNzd19mR211OGpLTTdGOGtqRVhBYzQ5WWpjckVuMG4tWk5VVXRPYXJVRkxKeVAtNWRjVS04bFpUUFcyd1oyeDUwYWxBc0hWQkIyTFpQM2t2MHF3MGpwQ3FISTM4amRPbE1YVFNpN2k4YnRxcVZxZ1A1NzA?oc=5",
-      "dateLocation": "2026-09-10 | Reuters",
+      "dateLocation": "2026-09-10 | New Delhi / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tanya Chaudhary Breaks National Hammer Throw Record",
-      "whyItMatters": "It provides a major morale and performance boost ahead of the Asian Games.",
-      "brief": "Indian athlete Tanya Chaudhary shattered the women's national hammer throw record with a remarkable 68.35m throw just days before the Asian Games.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/days-before-asian-games-tanya-chaudhary-shatters-national-record-in-big-boost-for-indian-athletics/articleshow/134015722.cms",
-      "dateLocation": "2026-09-10 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Karnataka Government and NIMHANS Expand Project USHAS",
-      "whyItMatters": "It scales up critical mental health infrastructure and suicide prevention resources regionally.",
-      "brief": "NIMHANS and the Karnataka government have expanded Project USHAS to 37 hospitals across the state to enhance mental health support services.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/world-suicide-prevention-day-nimhans-karnataka-government-expand-project-ushas-to-37-hospitals/article71452646.ece",
-      "dateLocation": "2026-09-10 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Houthi Rebels Seize Strategic Yemeni Port City of Mokha",
-      "whyItMatters": "It threatens critical global shipping lanes near the Bab el-Mandeb Strait.",
-      "brief": "Iran-backed Houthi rebels have captured the strategic port city of Mokha, posing fresh security risks to international oil and cargo shipping in the Red Sea.",
+      "headline": "Yemeni Houthis Seize Strategic Red Sea Port of Mocha",
+      "whyItMatters": "Threatens critical global energy choke points and disrupts vital maritime trade corridors.",
+      "brief": "Backed by Iranian arms and tactical advice, Yemen's Houthi militia has captured the critical Red Sea city of Mocha, expanding control over the vital Bab-al-Mandeb strait.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/iran-backed-houthi-rebels-take-over-a-strategic-port-city-in-yemen-posing-a-new-threat-to-shipping/article71452799.ece",
-      "dateLocation": "2026-09-10 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1UxOEFocWZUYXJVTUdzcW10bmc3SGRzLWdXOFBUMjUxbVAyOUFrZTJQMXJpeFI3U1BheDVPYzdzOG5yOG04TjU0VWpCS2hBdDlmd3VVcV9VYzZXVjN6dHlSeklJR2ZkdWRlaGcyN2dFMjlHbFpHbjVybUJySmZTSGowSFNRYUhBQm9IajBENWFQeG5KOF9zNTk0NFhUYzFEOXczbHFpb2tPaW1ZSDlmUXgyZFRVNUZrNG1SSnFWZUw3LUh2LTdRNE9n?oc=5",
+      "dateLocation": "2026-09-10 | Sanaa / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government Plans Central Licensing for All Sterile Drugs",
-      "whyItMatters": "It addresses critical pharmaceutical quality lapses and protects patient safety nationwide.",
-      "brief": "Following widespread quality failures in injectable samples, the Indian government is moving toward centralized licensing mandates for all sterile drug manufacturing.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/govt-plans-central-licensing-for-all-sterile-drugs-after-240-injection-samples-fail-quality-tests-medicine-11789033517269.html",
-      "dateLocation": "2026-09-10 | Mint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Plans AI Registry for Upcoming Agentic Payments Rollout",
-      "whyItMatters": "It establishes regulatory frameworks for autonomous AI-driven financial transactions.",
-      "brief": "India is developing a dedicated AI registry to safely govern the upcoming integration of autonomous agentic payment systems across digital platforms.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVNCTTRPWDZrd1cwM2NQVG84dHJQSHVmMnNJRU5TdGZMc3l2LUFLRlJoNDZQemUtdGF4T3BhdFhtUFhZSXZwQV9PZGxpTW9fMWFJMU4wZENTaTl3Q2tmUGVEVFpIelZFWjJ5R1J5c3dvYk5xUDNmX2Fha0daQUV5eS1RNU1zZXBhQ1Z5VW1JNF9UdzRvdDlzb2U1NW5UUm9vYWM0VGxLcUxzbkttR2cxYU5JWnp6NkJ6Y1E?oc=5",
-      "dateLocation": "2026-09-10 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Government Tightens E-commerce Rules on Search and Discounts",
-      "whyItMatters": "It curbs anti-competitive practices and protects consumer interests in digital retail.",
-      "brief": "New regulatory amendments for e-commerce platforms target unfair discounting strategies, search manipulation, and biased sponsored listings to foster market fairness.",
+      "headline": "ECB Raises Interest Rates to Fight Off Inflation Jump",
+      "whyItMatters": "Signals persistent eurozone inflation pressures and shifts central bank monetary tightening strategies.",
+      "brief": "The European Central Bank has raised interest rates in a decisive move to combat an unexpected resurgence in eurozone inflation figures.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/ecommerce-platforms-to-face-tighter-rules-on-discounts-search-results-and-sponsored-listings-11789050186264.html",
-      "dateLocation": "2026-09-10 | Mint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGdaa19kT2JiMm9NaWdRRnFjUlhvSDBlUF9IbjZQbjZ5dUFPOVdnMlRSSUFPcjRsdXRHdWFsZkxCSEZXSEc1SERmWWE3Q1JCOHZFZl9UU3NBdGhyZkhTcFFrR3BCYVd0XzNTNGFPcHFaLS1mWm5OajlZMDNSRzBoaXpDTXVCWmJtMGwxa1Zqazcwb0t4UUtIUTZvQQ?oc=5",
+      "dateLocation": "2026-09-10 | Frankfurt / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Xi Jinping's India Visit Signals Diplomatic Thaw Amid Caution",
-      "whyItMatters": "It recalibrates diplomatic engagements between Asia's two largest regional powers.",
-      "brief": "Chinese President Xi Jinping's visit to India aims to warm diplomatic ties, though underlying strategic and business suspicions continue to constrain cooperation.",
+      "headline": "Chip Startup d-Matrix to Use Nvidia Chip-Linking Tech",
+      "whyItMatters": "Deepens hardware integration across generative AI server architectures and strengthens ecosystem partnerships.",
+      "brief": "AI chip startup d-Matrix announced it will incorporate Nvidia's advanced chip-linking technology into its upcoming line of high-performance servers.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkktWlJVd2tXLVVfa2tROW5TNjhnaC1rVjRRVlFJWmJUVVU3WlRaVFVUVXhFN1MwbXhSczdJUU5QcjBiNlZVM0RBNVFJbWdGN0FndkNOMlM4RWlDSWdGU1hhOThtbm1jckxrdFhmYjRDYVlWTEZEMDNNd1RaYVVUMy1kX0xFVGtHeDU2WXFUeUw1bHBIZnBBaGVXbnpEellQSi13OVMyVlVmWUpIVjJocW9yS0NaaTBwaHhVNQ?oc=5",
+      "dateLocation": "2026-09-10 | Silicon Valley / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Proposes Scrapping 60-Day Grace Period for H-1B Holders",
+      "whyItMatters": "Creates major logistical challenges and employment uncertainty for thousands of foreign tech workers in the US.",
+      "brief": "The US Department of Homeland Security has proposed eliminating the 60-day grace period for temporary visa holders after job loss, heavily impacting Indian professionals.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5",
-      "dateLocation": "2026-09-10 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/us-news/h1b-visa-issue-trump-administration-proposes-scrapping-60-day-grace-period-indian-techies-to-be-affected-11789064597291.html",
+      "dateLocation": "2026-09-10 | Washington / LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "PepsiCo Bets Big on India as Global Anchor Market",
-      "whyItMatters": "It reinforces India's growing importance as a primary hub for global FMCG expansion.",
-      "brief": "With a new manufacturing facility in Assam, PepsiCo aims to position India among its top ten global anchor markets while integrating local farmers.",
+      "headline": "Adani Group Eyes Restoration of Kolkata's Writers' Building",
+      "whyItMatters": "Highlights expanding corporate infrastructure projects and urban regeneration efforts in eastern India.",
+      "brief": "The Adani Group has reportedly begun preliminary assessments to undertake the major restoration and renovation of Kolkata's historic Writers' Building.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/national/other-states/with-new-assam-unit-pepsico-eyes-india-as-one-of-its-top-10-global-anchor-markets/article71452612.ece",
-      "dateLocation": "2026-09-10 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/india/did-adani-group-begin-preliminary-assessment-to-renovate-writers-building-in-kolkata-project-could-cost-up-to-120-cr-11789058674600.html",
+      "dateLocation": "2026-09-10 | Kolkata / LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Study Finds Urban Winter Waste Burning Triples Pollution",
-      "whyItMatters": "It highlights seasonal atmospheric vulnerabilities and the need for stricter waste management.",
-      "brief": "A WRI India study reveals that winter waste burning generates three times more pollution than summer due to atmospheric inversions and space-heating practices.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/pollution-from-winter-waste-burning-in-cities-three-times-higher-than-summer-study-finds/article71448312.ece",
-      "dateLocation": "2026-09-10 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IMF Projects Global Economic Growth to Reach 3% in 2026",
-      "whyItMatters": "It provides baseline economic stability projections despite lingering geopolitical risks.",
-      "brief": "The International Monetary Fund reports that global economic growth remains on track to hit 3% this year, though warning that downside risks remain elevated.",
+      "headline": "Sheikh Hasina's Daughter Resigns as WHO Regional Director",
+      "whyItMatters": "Reflects continuing political fallout and administrative scrutiny surrounding former leadership families in Bangladesh.",
+      "brief": "Saima Wazed has resigned from her position as a WHO regional director following corruption allegations and a regional committee recommendation for her termination.",
       "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/imf-say-global-growth-on-track-to-reach-3-in-2026-but-risks-remain-high/articleshow/134016846.cms",
-      "dateLocation": "2026-09-10 | Economic Times",
+      "sourceUrl": "https://www.thehindu.com/news/international/saima-wazed-hasina-daughter-resigns-as-who-regional-director-fraud-allegations-bangladesh/article71450449.ece",
+      "dateLocation": "2026-09-10 | New Delhi / The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Google Chrome Shifts to Aggressive Two-Week Update Cycle",
-      "whyItMatters": "It accelerates security patching and feature rollouts for billions of users.",
-      "brief": "Google has announced that its Chrome browser will transition to releasing core software updates every two weeks across desktop, Android, and iOS platforms.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/google-chrome-is-now-getting-updates-every-2-weeks-starting-september-2026-on-desktop-android-and-ios-heres-what-users-need-to-know/articleshow/134016382.cms",
-      "dateLocation": "2026-09-10 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Centre Tightens E-commerce Rules on Fake Discounts",
+      "whyItMatters": "Protects consumer rights and cracks down on deceptive online retail marketing tactics across digital platforms.",
+      "brief": "The Indian government has introduced stricter compliance guidelines for e-commerce platforms to curb deceptive pricing strategies and fraudulent discount claims.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/centre-tightens-e-commerce-sales-rules-puts-fake-discounts-on-watch/articleshow/134027726.cms",
+      "dateLocation": "2026-09-10 | New Delhi / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mayawati 'Refrees' Nephew Akash Anand from BSP Ranks",
+      "whyItMatters": "Shakes up succession planning and internal party dynamics within key Uttar Pradesh political factions.",
+      "brief": "BSP chief Mayawati has relieved her nephew Akash Anand of his party responsibilities following political departures within their extended family network.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-frees-her-nephew-akash-anand-from-bsp-after-his-father-in-law-quits-politics/article71452463.ece",
+      "dateLocation": "2026-09-10 | Lucknow / The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
