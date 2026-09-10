@@ -1,138 +1,82 @@
 {
-  "lastUpdated": "2026-09-09T20:22:20.402Z",
+  "lastUpdated": "2026-09-10T02:58:34.474Z",
   "ticker": [
-    "Brent Crude Surges Past $100 Amid Middle East Conflict",
-    "Apple Unveils First Foldable Smartphone iPhone Duo",
-    "Google Invests $15 Billion in AI and Nuclear Power",
-    "US Wins UN Security Council Vote on Iran Nuclear Censure",
-    "India Power Demand Crosses 260 GW Amid Heatwave"
+    "Oil Surges Past $100 Amid US-Iran Crossfire",
+    "Apple Launches First Foldable iPhone Duo",
+    "Ukraine Hits Russian Arctic Gas Plants",
+    "Philippines Ferry Fire Kills 5 with Dozens Missing",
+    "US Wins UN Watchdog Vote on Iran Nuclear Censure"
   ],
   "articles": [
     {
-      "headline": "Brent Crude Surges Past $100 Per Barrel",
-      "whyItMatters": "Escalating Middle East conflicts threaten global economic stability and energy supply chains.",
-      "brief": "Brent crude futures crossed $100 per barrel for the first time since July 2024 as US-Iran attacks intensified around the Strait of Hormuz.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
-      "dateLocation": "September 9, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Oil Surges Past $100 Amid US-Iran Conflict",
+      "whyItMatters": "Escalating Middle East conflict threatens global energy supplies and stokes inflationary pressures worldwide.",
+      "brief": "Crude oil surpassed $100 a barrel following intense tit-for-tat strikes between the US and Iran, exposing a dwindling safety net for global energy markets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk83eHNVQXFWUEdoZGxYdmRpdnhuMFFKM3JfMkRRNDMxWmM0c1JPVmpkRWhQVVBvX0VLdjlhZ296NHpDVDdUNS0xZl9jRXJEeWZ1N1ZWSnZGUjVueEc2MzdjNTAwUTNlUFEtZWZ5el9Jc3dBYjJzVzN6R080aFJLLVlYWEVqUTU0WHRGX1hMSXQ3cnFpaVNHeHM3enRkYjZDcEUyb0Vic1JhMExzU1BCZVBvZlh2dExCZ3dRTVBlNWxNZw?oc=5",
+      "dateLocation": "10 Sep 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Passes Censure Resolution Against Iran Nuclear Program",
-      "whyItMatters": "Deepens diplomatic divides between Washington, Beijing, Moscow, and Tehran over regional security.",
-      "brief": "The US pushed through a resolution of censure against Iran that refers its nuclear file to the UN Security Council.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/iran-nuclear-impasse-deepens-after-us-wins-un-watchdog-vote-11788981453559.html",
-      "dateLocation": "September 9, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple Enters Foldable Market with iPhone Duo",
-      "whyItMatters": "Marks a major shift in the premium smartphone segment as Apple challenges competitors.",
-      "brief": "Apple launched its first foldable phone, the passport-shaped iPhone Duo, priced at $1,999, featuring dual screens and advanced A20 chips.",
+      "headline": "Apple Unveils First Foldable iPhone Duo",
+      "whyItMatters": "Apple officially enters the lucrative foldable device market, challenging competitors with a high-end passport-shaped design.",
+      "brief": "Apple revealed its long-awaited passport-shaped foldable phone, the iPhone Duo, alongside the iPhone 18 Pro lineup during its major showcase.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
-      "dateLocation": "September 9, 2026 | Reuters",
+      "dateLocation": "10 Sep 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Google Invests $15 Billion in AI Infrastructure",
-      "whyItMatters": "Highlights the massive power demands and technological scaling required for next-generation AI models.",
-      "brief": "Google announced a $15 billion investment in AI infrastructure alongside clean nuclear power acquisitions in Finland.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
-      "dateLocation": "September 9, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Ukraine Strikes Russian Arctic Gas Plants",
+      "whyItMatters": "Demonstrates the expanding range of Ukrainian long-range strikes targeting critical Russian energy infrastructure.",
+      "brief": "Ukraine successfully struck two gas condensate processing plants in Russia’s Arctic zone for the first time, hitting key industrial targets.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/ukraine-hits-two-gas-condensate-plants-in-russia-s-arctic-11788983110178.html",
+      "dateLocation": "10 Sep 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Serious Fraud Office Proposes Xiaomi Probe",
-      "whyItMatters": "Signals continued regulatory tightening on foreign technology firms operating within the Indian market.",
-      "brief": "India's Serious Fraud Investigation Office recommended a detailed probe into Xiaomi's business operations within the country.",
+      "headline": "Philippines Ferry Fire Leaves Five Dead",
+      "whyItMatters": "Highlights ongoing maritime safety concerns and passenger vessel vulnerabilities in regional waters.",
+      "brief": "A devastating fire aboard a passenger ferry in the Philippines left five people dead and dozens missing as rescue operations continued.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/flames-engulfed-vessel-5-killed-87-missing-in-philippines-ferry-fire-what-we-know/articleshow/133990012.cms",
+      "dateLocation": "10 Sep 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UN Watchdog Censure Deepens Iran Impasse",
+      "whyItMatters": "Escalates international diplomatic friction and refers Iran's nuclear file directly to the UN Security Council.",
+      "brief": "The US successfully pushed through a UN watchdog resolution censuring Iran, widening the diplomatic divide between Western nations, Beijing, and Moscow.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/iran-nuclear-impasse-deepens-after-us-wins-un-watchdog-vote-11788981453559.html",
+      "dateLocation": "10 Sep 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Serious Fraud Office Probes Xiaomi",
+      "whyItMatters": "Signals mounting regulatory scrutiny for major foreign technology manufacturers operating within the Indian market.",
+      "brief": "India's Serious Fraud Office recommended a detailed investigation into Xiaomi's business operations within the country amid ongoing compliance reviews.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHg4WTBWRU9RMm16bXRLQnA2WHZfYm9ydEdPNnBXdHpKSEpRQi1rVS1hcW5VUk9DdlA3SE9ZWXpLMVZFNDUydzBYM2ROdmRqeEZfMmZtN0MxWDNRTnA3UklLYjNfTDlNNzcyY3Etb2JaSVZ2TGpIYVJWQWhsbGhTY0ZHdFNrS3FtYmdBN0pwU053OUZLU1NLT2ttZDM1emJ3VE10N3d6NF96UUxkLTFWUVV3elpNMTRLdjdjaV9MbHZDa2s3eTIxTEdrMk9CNl9oa0E?oc=5",
-      "dateLocation": "September 9, 2026 | Reuters",
+      "dateLocation": "10 Sep 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Volkswagen Explores Partnership with JSW Group",
-      "whyItMatters": "Demonstrates foreign automotive giants actively seeking local joint ventures to capture India's EV market.",
-      "brief": "Volkswagen is exploring a strategic partnership with India's JSW Group to expand its market presence and manufacturing capabilities.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlZCT25kTG1XeVJLa0hvenZlYTdLcTFQTHZJOTZMUUVtb3JaVHl2dzk1YjMyaThCamI3Z3R1MHNwSnNOa0xWS1ZrNUJFZ2Y4VnY3dG5Eek9ESENIM3pMZkxmUWNTNVJlb2VCdXdSa2RvTlFhSjV2RGtOXzBpOGxWYy1sbWhQUkExMzQ1SUdnMk9sVjMxcWhLNEhPMlFLdF9BV1FacGZ6MXY0RFVhZHAtdDYtX0l6Q0lRajVN?oc=5",
-      "dateLocation": "September 9, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Legal AI Startup Harvey Valued at $15.5 Billion",
-      "whyItMatters": "Reflects massive venture capital enthusiasm and high valuations for vertical-specific enterprise AI applications.",
-      "brief": "Legal tech AI startup Harvey has achieved a $15.5 billion valuation following a successful new funding round.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFtalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ?oc=5",
-      "dateLocation": "September 9, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Dutch Fintech Adyen Expands India Operations",
-      "whyItMatters": "Highlights growing international payment service provider interest in India's expanding digital economy.",
-      "brief": "European fintech giant Adyen is planning local expansion to capture long-term payment and financial service opportunities in India.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamF3RVNlNUo1d2J1REl4aldPd0dHY0F5OU1maXROVjlVUzF2d19jRjlSSnI4QTFRY3hOZ1gydkdWUmxjSGtQSzJkVlZma1hCQnRWUHgwSDR1R3VYNEJWUzFycEdpRTFMQ0xTWU42MExOMEVoVzJwblFXZ3FhMHZ5c1UzWnVOTkFhOXZ1QVpZOVRDZVl6U1p1aGJVSWdTeWhldUtoV2Exd3V1UTdqd1FXcm1zRXNpRGE1TkxQb2dpNA?oc=5",
-      "dateLocation": "September 9, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Arvind Kejriwal Re-elected AAP National Convener",
-      "whyItMatters": "Solidifies internal party leadership structures ahead of critical regional and national political campaigns.",
-      "brief": "Arvind Kejriwal was unanimously re-elected as the national convener of the Aam Aadmi Party during its 15th national council meeting.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/arvind-kejriwal-re-elected-aap-national-convener/article71448881.ece",
-      "dateLocation": "September 9, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ladakh Groups Claim Talks Breakthrough with MHA",
-      "whyItMatters": "Could resolve long-standing administrative and governance demands in the sensitive border region.",
-      "brief": "Leaders from Ladakh announced a significant breakthrough in discussions with the Ministry of Home Affairs regarding legislative powers.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/ladakh-groups-claim-breakthrough-in-talks-with-mha-on-legislative-powers/articleshow/133981763.cms",
-      "dateLocation": "September 9, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jessica Pegula Defeats Emma Navarro at US Open",
-      "whyItMatters": "Highlights high-stakes athletic achievements featuring prominent contenders in professional tennis.",
-      "brief": "Jessica Pegula staged a resilient comeback against Emma Navarro to secure her spot in the US Open semi-finals.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/a-15-billion-tennis-match-how-pegula-and-navarro-turned-a-us-open-clash-into-a-battle-of-the-billionaires-that-dwarfed-djokovic-federer-and-nadals-combined-wealth/articleshow/133974795.cms",
-      "dateLocation": "September 9, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple Watch Ultra 4 Focuses on Advanced Health",
-      "whyItMatters": "Reinforces wearable technology's expanding role in proactive health monitoring and consumer diagnostics.",
-      "brief": "Apple introduced the Apple Watch Ultra 4 at ₹1,09,900, heavily emphasizing advanced biometric and health tracking features.",
+      "headline": "Apple Delays Hypertension Alert Feature in India",
+      "whyItMatters": "Demonstrates the strict regulatory approval hurdles wearable health tech manufacturers face in key emerging markets.",
+      "brief": "Apple delayed the launch of the hypertension notification feature on its Watch Series 12 in India pending local regulatory clearances.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/magazines/panache/apple-watch-ultra-4-introduced-with-new-health-features-priced-at-109900/articleshow/133979925.cms",
-      "dateLocation": "September 9, 2026 | Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-delays-hypertension-notification-on-watch-series-12-in-india-pending-clearances/articleshow/133990747.cms",
+      "dateLocation": "10 Sep 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Power Demand Crosses 260 GW in Heatwave",
-      "whyItMatters": "Strains domestic power grids and depletes critical coal stocks amid unseasonal climate spikes.",
-      "brief": "India's peak power demand surged past 260 GW due to prolonged September heatwaves, tightening national coal inventories.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/power/indias-power-demand-crosses-260-gw-in-september-heat-coal-stocks-tighten/articleshow/133980485.cms",
-      "dateLocation": "September 9, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Corrosion Costs India's Infrastructure ₹1.42 Lakh Crore",
-      "whyItMatters": "Exposes massive structural maintenance expenses affecting national public infrastructure safety and longevity.",
-      "brief": "A new report reveals that material corrosion inflicts a massive annual economic toll of ₹1.42 lakh crore on Indian infrastructure.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/infrastructure/corrosion-costs-indias-infrastructure-1-42-lakh-crore-a-year-report/articleshow/133981559.cms",
-      "dateLocation": "September 9, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "International Space Summit Opens in Paris",
+      "whyItMatters": "Brings together global leaders to forge multi-billion-dollar aerospace partnerships and collaborative space exploration projects.",
+      "brief": "The International Space Summit kicked off in Paris with delegates from 90 countries slated to sign over 50 major investment projects.",
+      "category": "sports",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
