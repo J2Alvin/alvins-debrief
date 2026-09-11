@@ -1,102 +1,84 @@
 {
-  "lastUpdated": "2026-09-11T15:49:33.183Z",
+  "lastUpdated": "2026-09-11T20:24:37.102Z",
   "ticker": [
-    "Modi and Putin discuss strengthening India-Russia partnership at BRICS.",
-    "EU moves its landmark free trade agreement with India closer to reality.",
-    "Iran-backed Houthis seize Yemen's entire Red Sea coast and islands.",
-    "Anthropic successfully disrupts attempts to use AI for biological weapons.",
-    "Global oil prices surge sharply amid escalating Middle East supply concerns."
+    "Modi and Putin discuss stronger bilateral and BRICS ties in Delhi",
+    "Indian shares hit three-month low amid escalating Middle East tensions",
+    "China and India arrange bilateral meeting for Xi Jinping and Narendra Modi",
+    "Tesla robotaxis face NHTSA audit over self-certification safety rules",
+    "Gulf states weigh rare meeting with Iran regarding Strait of Hormuz security"
   ],
   "articles": [
     {
-      "headline": "Modi and Putin Strengthen India-Russia Ties",
-      "whyItMatters": "Deepens bilateral cooperation on trade and geopolitics ahead of the summit.",
-      "brief": "Prime Minister Modi and President Putin met to solidify the India-Russia partnership, discussing bilateral ties, local currencies, and regional stability on the eve of the BRICS summit.",
+      "headline": "Modi and Putin Meet in New Delhi to Strengthen Ties",
+      "whyItMatters": "Deepens strategic and economic cooperation between India and Russia amidst shifting global alliances.",
+      "brief": "Prime Minister Narendra Modi and Russian President Vladimir Putin held high-stakes talks in New Delhi ahead of the BRICS summit, reviewing defense, energy, and space cooperation while addressing the Ukraine conflict.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFAxREMtVW5qaWVJY2JtNVowUjlwSmlkal9XMW1LLW5HYTVXMUNqempxWFZjeWszdEd0UmFzV2NWNjhxczhiRXpjbjlpTUd5VkI2NzNTeVA5X3BfcXZTUFRGOWUtMDZmbDVDYXJQc2hUa0pxUGVzM2ZKMHMxbUs2WGxDcmxlOFN0Q1lBYUJyXzFoNk9MTEplWm9TdFozNFZkUkwxSkQwUVM0dFZs?oc=5",
-      "dateLocation": "2026-09-11 | Reuters",
+      "dateLocation": "September 11, 2026 | New Delhi / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "EU Moves India Free Trade Deal Forward",
-      "whyItMatters": "Promises massive tariff cuts and billions in economic savings for exporters.",
-      "brief": "The European Commission has officially sought Council approval to sign an expansive FTA with India, aiming to eliminate tariffs on 96% of EU goods exports.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/eu-moves-india-trade-deal-closer-to-finish-line-11789129057338.html",
-      "dateLocation": "2026-09-11 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Houthis Seize Yemen's Entire Red Sea Coast",
-      "whyItMatters": "Drastically escalates maritime security threats in critical global trade choke points.",
-      "brief": "Iran-backed Houthi forces have seized control of Yemen's entire Red Sea coastline along with three strategic islands, heightening regional conflict concerns.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-seize-yemens-entire-red-sea-coast-three-strategic-islands/articleshow/134074950.cms",
-      "dateLocation": "2026-09-11 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Anthropic Disrupts Biological Weapons AI Misuse",
-      "whyItMatters": "Highlights urgent security risks and oversight needs surrounding advanced AI models.",
-      "brief": "A new industry report details how Anthropic successfully intercepted and blocked multiple attempts to utilize advanced artificial intelligence for biological weapons research.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/anthropic-disrupts-attempts-to-use-ai-for-biological-weapons-research-report-flags-rising-misuse/articleshow/134074496.cms",
-      "dateLocation": "2026-09-11 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Equities Hit Three-Month Lows",
-      "whyItMatters": "Reflects heavy investor flight driven by deepening Middle East geopolitical tensions.",
-      "brief": "Indian share markets suffered a broad-based sell-off, dragging key indices to a three-month low amidst mounting concerns over Middle Eastern conflicts and oil prices.",
+      "headline": "Indian Shares Slide to Three-Month Low on Mideast Worries",
+      "whyItMatters": "Highlights emerging market vulnerability to regional conflicts and energy supply disruptions.",
+      "brief": "Indian equity markets experienced a broad-based sell-off, plunging to a three-month low as escalating Middle East tensions triggered heavy oil supply worries and currency depreciation.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcV9paWE2NzJNbkNRNUdicjF3UjUwSURuaUJ5TzRObXdfX2pKUEZ5NlZQQ1RSSW5GdFlNWUNHMzBSZlkxUzVRWEowU2NZRXMzTW8zeDNrZWQ3YmtBNERoXy1RZ3RLa0xwMjl4SDJyWXNQUXktY2h4aTQtRkpObkhQcm9uVVgzc1V2MUpYaDNvVGU4LU1IUm13WEk3eEJ6VDdfeUdKZ3FpQmMwdw?oc=5",
-      "dateLocation": "2026-09-11 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcV9paWE2NzJNbkNRNUdicjF3UjUwSURuaUJ5TzRObXdfX2pKUEZ5NlZQQ1RSSW5GdFlNWUNHMzBSZlkxUzVRWEowU2NZRXMzTW8zeDNrZWQ3YmtBNERoXy1RZ3RLa0xwMjl4SDJyWXNQUXktY2h4aTQtFkpObkhQcm9uVVgzc1V2MUpYaDNvVGU4LU1IUm13WEk3eEJ6VDdfeUdKZ3FpQmMwdw?oc=5",
+      "dateLocation": "September 11, 2026 | Mumbai / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "PM Modi Presses Putin on Ukraine Peace",
-      "whyItMatters": "Highlights India's diplomatic balancing act and advocacy for civilian safety.",
-      "brief": "During bilateral discussions, Prime Minister Modi urged Russian leadership toward a peaceful resolution in Ukraine while addressing vital seafarer safety in the Black Sea.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-presses-putin-on-ukraine-peace-raises-safety-of-seafarers-in-black-sea/articleshow/134075410.cms",
-      "dateLocation": "2026-09-11 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "China and India Arrange Bilateral Meeting for Xi and Modi",
+      "whyItMatters": "Signals potential diplomatic thawing between the two Asian giants amid complex geopolitical alignments.",
+      "brief": "China's foreign ministry confirmed that arrangements are underway for a bilateral meeting between President Xi Jinping and Prime Minister Narendra Modi on the sidelines of ongoing diplomatic engagements.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTNxS28yUXVkQ1l4bmItaUNkMTRvd01pWC1Ic0hRZF9McXI3UzlWZnJueXpuLUEzaXVjNVdVcjFMdXY2d011aW1LSlZMYlM5ckZiN0pEd0JaTlEtdEViRHR6Yk9PT0ZvVkFiU1M3VTZJV3QtOURVRUV4RzdQMU9peFNmM2xZdXNuTGpWM0Zfdk9CR2pZWjFIWHR5OTlUSURsMl9YQnAxU29pQVMwTVVodDVaYXI?oc=5",
+      "dateLocation": "September 11, 2026 | Beijing / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Microsoft Signs Student AI Privacy Agreement",
-      "whyItMatters": "Sets strict precedents for corporate AI usage and data protection in schools.",
-      "brief": "Following strict regulatory bans in New York, Microsoft signed a legally binding agreement prohibiting the training of AI models on student data.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/after-zohran-mamdani-bans-ai-in-new-york-city-schools-microsoft-agrees-not-to-train-ai-on-student-data-teachers-union-says-anything-less-than/articleshow/134071844.cms",
-      "dateLocation": "2026-09-11 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India-BRICS Trade Surges Past $417 Billion",
-      "whyItMatters": "Demonstrates rapid economic integration and expanding multilateral commerce among emerging markets.",
-      "brief": "According to trade reports, total commerce between India and BRICS nations doubled over the past five years, reaching an impressive $417 billion.",
+      "headline": "Colgate-Palmolive Seeks Divestment of Personal Care Brands",
+      "whyItMatters": "Reflects shifting consumer goods strategies toward core profitable segments amid global market adjustments.",
+      "brief": "People familiar with the matter revealed that Colgate-Palmolive is actively seeking to divest certain personal care brands to streamline operations and optimize its global portfolio.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-brics-trade-increased-more-than-100-during-last-five-years-to-usd-417-billion-in-2025-26-assocham/articleshow/134069496.cms",
-      "dateLocation": "2026-09-11 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTlwOTQxMHU0MzVXcnRITWpXU3FSdkVDeXdSMXhidzJxenJZeHdDY1pvMktMQW1yTmVpNGw4d0xHcVBSXzFRRGI5RGRtX1pIQUJGYmtSVXVyRnotV0h5dVEtWVRuSU56T0pLekRSQ0ZKZ290VmZacnJzZXpxU2lYRzVsVU50bzlIeDh1Q3dOZG50elNGOTNaLWIta1RhdXlscFFiS0Ria3FYdE5yTUE4?oc=5",
+      "dateLocation": "September 11, 2026 | New York / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UIDAI Prepares Global Push for Aadhaar",
-      "whyItMatters": "Expands India's digital public infrastructure footprint to international NRIs and OCIs.",
-      "brief": "The Unique Identification Authority of India announced active development toward making Aadhaar accessible internationally as a best-in-class digital identity framework.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/in-2010-india-launched-aadhaar-card-16-years-later-uidai-says-work-underway-to-take-aadhaar-global-to-benefit-nris-and-ocis/articleshow/134061418.cms",
-      "dateLocation": "2026-09-11 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Sri Lanka Edges Pakistan to Set Up Asia Cup Final",
+      "whyItMatters": "Sets up a high-stakes regional cricket showdown following an extraordinary comeback victory.",
+      "brief": "Sri Lanka staged a stunning recovery from 33/4 to defeat Pakistan by four wickets in a thrilling Women's Asia Cup semi-final, securing a spot in the tournament finale against India.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/womens-asia-cup-sri-lanka-fight-back-from-33/4-to-beat-pakistan-by-4-wickets-set-up-india-final/articleshow/134087591.cms",
+      "dateLocation": "September 11, 2026 | Colombo / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran President Condemns US Sanctions and War",
-      "whyItMatters": "Intensifies geopolitical friction and challenges Western-led economic security frameworks.",
-      "brief": "Addressing global forums, Iranian President Masoud Pezeshkian heavily criticized ongoing US military aggression and sanctions, warning of a dangerous phase in regional conflicts.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/brics-2026-us-israels-war-on-iran-has-redrawn-the-meaning-of-economic-security-says-president-masoud-pezeshkian/articleshow/134066604.cms",
-      "dateLocation": "2026-09-11 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tesla Robotaxi Fleet Faces Safety Audit by US Regulators",
+      "whyItMatters": "Tests the regulatory framework for autonomous vehicles operating without traditional controls.",
+      "brief": "The National Highway Traffic Safety Administration has opened an audit into approximately 1,000 Tesla Cybercab vehicles operating in Texas without steering wheels or pedals under self-certification rules.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms",
+      "dateLocation": "September 11, 2026 | Washington / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Court Orders Timeline for Mandatory Food Warning Labels",
+      "whyItMatters": "Enhances consumer protection and transparency regarding packaged food health risks.",
+      "brief": "The Supreme Court instructed regulators to provide a concrete timeline for rolling out front-of-pack food warning labels, addressing ongoing ambiguities in public health safety implementations.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/sc-junks-per-serve-labelling-plea-calls-fssais-phased-fopl-rollout-ambiguous-seeks-timeline-in-10-days/articleshow/134086311.cms",
+      "dateLocation": "September 11, 2026 | New Delhi / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gulf States Weigh Rare Meeting with Iran on Hormuz Security",
+      "whyItMatters": "Aims to de-escalate maritime security threats and stabilize regional oil transport routes.",
+      "brief": "Gulf nations are considering a rare high-level meeting with Iranian officials next week to address escalating security concerns and navigation threats in the vital Strait of Hormuz corridor.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/gulf-states-weigh-rare-meeting-with-iran-next-week-on-hormuz/articleshow/134087249.cms",
+      "dateLocation": "September 11, 2026 | Dubai / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
