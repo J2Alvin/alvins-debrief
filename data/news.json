@@ -1,111 +1,84 @@
 {
-  "lastUpdated": "2026-09-10T20:23:50.245Z",
+  "lastUpdated": "2026-09-11T02:53:58.922Z",
   "ticker": [
-    "BRICS Summit kicks off in New Delhi with global leaders attending",
-    "Oil crosses $105 as Houthis seize strategic Red Sea port",
-    "US proposes scrapping 60-day grace period for H-1B holders",
-    "ECB raises interest rates to combat sudden inflation spikes",
-    "Wipro deploys AI capacity equivalent to 20,000 workers"
+    "Oil Surges Past $107 Amid Middle East Escalation",
+    "India Hosts BRICS Summit in New Delhi",
+    "US Deploys Troops to Support Saudi Arabia",
+    "Adobe Reports Strong Q3 Revenue on AI",
+    "Ebola Spreads to Seventh Province in Congo"
   ],
   "articles": [
     {
-      "headline": "India Pushes BRICS Digital Currency Link Despite Hurdles",
-      "whyItMatters": "Enhances cross-border transaction efficiency and challenges traditional Western-led financial payment networks.",
-      "brief": "India is aggressively pushing for the integration of central bank digital currencies among BRICS nations to improve cross-border transaction efficiency, despite significant technical hurdles.",
+      "headline": "Global Oil Prices Spike Past $107",
+      "whyItMatters": "Persistent supply disruptions and regional conflicts are driving up global energy costs significantly.",
+      "brief": "Crude oil prices surpassed $107 per barrel as ongoing Middle East conflicts and choked shipping routes heavily impact global energy markets.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGFTYnhPbjNiSlZaLWpwYUE1aEJpdUViQjlnOF83UWx2UXdEYkF5VzdqWU5GX3pRemRhWVhuWUdGUkpUWmRvNTRYb0ZLMkJZSll2dTB1Wm9XWnlIV3BIUWZadHBBYmtXTmZyaVJ1Rnhrd0tlWkl2OWx0aHFxdXJyYVJQbkJhMnUxOGo1V2RFcGk2cWZCbVlQaDVUSjR2d3QzWkVGMFdOU3BBMk5RUEhSOUZvT08?oc=5",
-      "dateLocation": "2026-09-10 | New Delhi / Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-brent-crude-wti-over-100-per-barrel-for-first-time-in-4-months/articleshow/134039908.cms",
+      "dateLocation": "Sept 11, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Wipro AI Push Frees Capacity Equal to 20,000 Workers",
-      "whyItMatters": "Demonstrates the rapid scaling of enterprise AI productivity within the global IT services sector.",
-      "brief": "Wipro's CTO announced that internal artificial intelligence initiatives have successfully freed up operational capacity equivalent to 20,000 workers, highlighting massive productivity gains.",
+      "headline": "India Welcomes World Leaders for BRICS Summit",
+      "whyItMatters": "The high-stakes summit tests bloc unity and economic partnerships amid shifting geopolitical alignments.",
+      "brief": "Prime Minister Narendra Modi welcomed global leaders to New Delhi for the BRICS summit, focusing on digital currencies and strategic cooperation.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
+      "dateLocation": "Sept 11, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Sends Troops to Aid Saudi Arabia",
+      "whyItMatters": "Direct military involvement escalates foreign intervention against Iran-backed Houthi threats in vital shipping lanes.",
+      "brief": "The United States has deployed up to 200 troops to assist Saudi Arabia in combating escalating attacks by Iran-backed Houthi forces.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/us-sends-up-to-200-troops-to-help-saudi-arabia-fight-iran-backed-houthis-report/articleshow/134041099.cms",
+      "dateLocation": "Sept 11, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Wipro Automates Capacity Equal to 20,000 Workers",
+      "whyItMatters": "Aggressive AI adoption continues to reshape enterprise workforce structures and operational efficiency.",
+      "brief": "Wipro's Chief Technology Officer announced that recent AI implementations have successfully freed up capacity equivalent to 20,000 workers.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZqYW42N1U0V0Nwcy0tclBNM0NETGhYRXdidmZmdWxxWWtlOHZKRUp6alpTSlZYWk1JaWt3ZGdQNkVEc2tQMGpUWnlHZXFTcVc3b2NxcHEyWTR2eVJPVmNieTBVbFhLdE5FWGRxVHlUbXdKdWtGRm9IN3pIZWJMUVFEcE1oMmsxeXowY0dKcV9GaGhRVDl4MTlVMDY1VWd4b3BmaHU1aXEtZHdBaEo5cA?oc=5",
-      "dateLocation": "2026-09-10 | Bengaluru / Reuters",
+      "dateLocation": "Sept 11, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Signals Stricter Red Warning Labels for Big Food",
-      "whyItMatters": "Presents a major regulatory setback for multinational processed food manufacturers operating in India.",
-      "brief": "The Indian government has signaled the introduction of stricter red warning labels on packaged foods, posing a significant regulatory challenge for major global food corporations.",
+      "headline": "Adobe Beats Q3 Expectations on AI Demand",
+      "whyItMatters": "Robust software sales confirm strong enterprise appetite for monetizable artificial intelligence tools.",
+      "brief": "Adobe reported stronger-than-expected third-quarter revenue, driven heavily by increasing commercial demand for its AI-integrated product ecosystem.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWpxT3FMVUNDdWdfdjduU2ZXNWY3WjFRQUFpZFF4eWgtMlI4aWZfX2E4TXNEdkduYU9ld1F6MnQxMksydXpicC1ueTh0ZS1nVXRKT3FjeTQ1NnNzd19mR211OGpLTTdGOGtqRVhBYzQ5WWpjckVuMG4tWk5VVXRPYXJVRkxKeVAtNWRjVS04bFpUUFcyd1oyeDUwYWxBc0hWQkIyTFpQM2t2MHF3MGpwQ3FISTM4amRPbE1YVFNpN2k4YnRxcVZxZ1A1NzA?oc=5",
-      "dateLocation": "2026-09-10 | New Delhi / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGZzUEp3UWwzR0pGdnp1Xy13dEZxaC15NmJkRHRpaTNLV3VZT3VOQ3kyel90YU5KbEplZ0NFQ0VvOE1DSlRzSlNmS2UtT3UtR1RLSDZxaWRkeUNrTWFiLW5RaXZJZ2phMUdzSHVYTndGcjRvNV9SWWdBMVRGTk5pbGJCTFgxc3UzNmhHRkhsemtLQQ?oc=5",
+      "dateLocation": "Sept 11, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Yemeni Houthis Seize Strategic Red Sea Port of Mocha",
-      "whyItMatters": "Threatens critical global energy choke points and disrupts vital maritime trade corridors.",
-      "brief": "Backed by Iranian arms and tactical advice, Yemen's Houthi militia has captured the critical Red Sea city of Mocha, expanding control over the vital Bab-al-Mandeb strait.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1UxOEFocWZUYXJVTUdzcW10bmc3SGRzLWdXOFBUMjUxbVAyOUFrZTJQMXJpeFI3U1BheDVPYzdzOG5yOG04TjU0VWpCS2hBdDlmd3VVcV9VYzZXVjN6dHlSeklJR2ZkdWRlaGcyN2dFMjlHbFpHbjVybUJySmZTSGowSFNRYUhBQm9IajBENWFQeG5KOF9zNTk0NFhUYzFEOXczbHFpb2tPaW1ZSDlmUXgyZFRVNUZrNG1SSnFWZUw3LUh2LTdRNE9n?oc=5",
-      "dateLocation": "2026-09-10 | Sanaa / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Ebola Virus Spreads in Democratic Republic of Congo",
+      "whyItMatters": "Cross-border transit has accelerated viral dissemination, threatening wider regional health stability.",
+      "brief": "Ebola has reached Congo’s Sud-Ubangi province following a cross-country travel route through neighboring Rwanda and Uganda.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/ebola-reaches-congo-s-sud-ubangi-province-after-patient-traveled-through-rwanda-and-uganda-11789091351547.html",
+      "dateLocation": "Sept 11, 2026 | Kinshasa",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ECB Raises Interest Rates to Fight Off Inflation Jump",
-      "whyItMatters": "Signals persistent eurozone inflation pressures and shifts central bank monetary tightening strategies.",
-      "brief": "The European Central Bank has raised interest rates in a decisive move to combat an unexpected resurgence in eurozone inflation figures.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGdaa19kT2JiMm9NaWdRRnFjUlhvSDBlUF9IbjZQbjZ5dUFPOVdnMlRSSUFPcjRsdXRHdWFsZkxCSEZXSEc1SERmWWE3Q1JCOHZFZl9UU3NBdGhyZkhTcFFrR3BCYVd0XzNTNGFPcHFaLS1mWm5OajlZMDNSRzBoaXpDTXVCWmJtMGwxa1Zqazcwb0t4UUtIUTZvQQ?oc=5",
-      "dateLocation": "2026-09-10 | Frankfurt / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Aryna Sabalenka Reaches U.S. Open Final",
+      "whyItMatters": "Elite tennis players showcase peak competitive resilience at major Grand Slam championship stages.",
+      "brief": "Aryna Sabalenka secured her spot in the U.S. Open final after defeating Jessica Pegula in a hard-fought match.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/tennis/sabalenka-pushes-past-pegula-into-us-open-final/article71454544.ece",
+      "dateLocation": "Sept 11, 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Chip Startup d-Matrix to Use Nvidia Chip-Linking Tech",
-      "whyItMatters": "Deepens hardware integration across generative AI server architectures and strengthens ecosystem partnerships.",
-      "brief": "AI chip startup d-Matrix announced it will incorporate Nvidia's advanced chip-linking technology into its upcoming line of high-performance servers.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkktWlJVd2tXLVVfa2tROW5TNjhnaC1rVjRRVlFJWmJUVVU3WlRaVFVUVXhFN1MwbXhSczdJUU5QcjBiNlZVM0RBNVFJbWdGN0FndkNOMlM4RWlDSWdGU1hhOThtbm1jckxrdFhmYjRDYVlWTEZEMDNNd1RaYVVUMy1kX0xFVGtHeDU2WXFUeUw1bHBIZnBBaGVXbnpEellQSi13OVMyVlVmWUpIVjJocW9yS0NaaTBwaHhVNQ?oc=5",
-      "dateLocation": "2026-09-10 | Silicon Valley / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Proposes Scrapping 60-Day Grace Period for H-1B Holders",
-      "whyItMatters": "Creates major logistical challenges and employment uncertainty for thousands of foreign tech workers in the US.",
-      "brief": "The US Department of Homeland Security has proposed eliminating the 60-day grace period for temporary visa holders after job loss, heavily impacting Indian professionals.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/h1b-visa-issue-trump-administration-proposes-scrapping-60-day-grace-period-indian-techies-to-be-affected-11789064597291.html",
-      "dateLocation": "2026-09-10 | Washington / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Adani Group Eyes Restoration of Kolkata's Writers' Building",
-      "whyItMatters": "Highlights expanding corporate infrastructure projects and urban regeneration efforts in eastern India.",
-      "brief": "The Adani Group has reportedly begun preliminary assessments to undertake the major restoration and renovation of Kolkata's historic Writers' Building.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/did-adani-group-begin-preliminary-assessment-to-renovate-writers-building-in-kolkata-project-could-cost-up-to-120-cr-11789058674600.html",
-      "dateLocation": "2026-09-10 | Kolkata / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sheikh Hasina's Daughter Resigns as WHO Regional Director",
-      "whyItMatters": "Reflects continuing political fallout and administrative scrutiny surrounding former leadership families in Bangladesh.",
-      "brief": "Saima Wazed has resigned from her position as a WHO regional director following corruption allegations and a regional committee recommendation for her termination.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/saima-wazed-hasina-daughter-resigns-as-who-regional-director-fraud-allegations-bangladesh/article71450449.ece",
-      "dateLocation": "2026-09-10 | New Delhi / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre Tightens E-commerce Rules on Fake Discounts",
-      "whyItMatters": "Protects consumer rights and cracks down on deceptive online retail marketing tactics across digital platforms.",
-      "brief": "The Indian government has introduced stricter compliance guidelines for e-commerce platforms to curb deceptive pricing strategies and fraudulent discount claims.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/centre-tightens-e-commerce-sales-rules-puts-fake-discounts-on-watch/articleshow/134027726.cms",
-      "dateLocation": "2026-09-10 | New Delhi / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mayawati 'Refrees' Nephew Akash Anand from BSP Ranks",
-      "whyItMatters": "Shakes up succession planning and internal party dynamics within key Uttar Pradesh political factions.",
-      "brief": "BSP chief Mayawati has relieved her nephew Akash Anand of his party responsibilities following political departures within their extended family network.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-frees-her-nephew-akash-anand-from-bsp-after-his-father-in-law-quits-politics/article71452463.ece",
-      "dateLocation": "2026-09-10 | Lucknow / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Reflecting Absence Memorial Marks 25 Years of 9/11",
+      "whyItMatters": "Global communities pause to commemorate historic tragedies and honor the legacy of victims.",
+      "brief": "The world marks the 25th anniversary of the 9/11 attacks, reflecting on security changes and memorial sites at Ground Zero.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/international/25-years-after-911-what-stands-where-twin-towers-once-stood-in-new-york-usa/article71441731.ece",
+      "dateLocation": "Sept 11, 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
