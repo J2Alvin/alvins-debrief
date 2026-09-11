@@ -1,84 +1,102 @@
 {
-  "lastUpdated": "2026-09-11T10:33:59.579Z",
+  "lastUpdated": "2026-09-11T15:49:33.183Z",
   "ticker": [
-    "BRICS Summit 2026 kicks off in New Delhi",
-    "Oil crosses $100 per barrel amid West Asia conflict",
-    "India reports massive festive season ticket booking surge",
-    "Public sector bank employees stage nationwide strike",
-    "IMD issues red alert as heavy rains lash Delhi"
+    "Modi and Putin discuss strengthening India-Russia partnership at BRICS.",
+    "EU moves its landmark free trade agreement with India closer to reality.",
+    "Iran-backed Houthis seize Yemen's entire Red Sea coast and islands.",
+    "Anthropic successfully disrupts attempts to use AI for biological weapons.",
+    "Global oil prices surge sharply amid escalating Middle East supply concerns."
   ],
   "articles": [
     {
-      "headline": "India Hosts BRICS Summit Amid West Asia Tensions",
-      "whyItMatters": "Discusses currency mechanisms, trade barriers, and global supply chain resilience.",
-      "brief": "World leaders gather in New Delhi for the BRICS Summit to address regional conflicts, local currency usage, and economic cooperation.",
+      "headline": "Modi and Putin Strengthen India-Russia Ties",
+      "whyItMatters": "Deepens bilateral cooperation on trade and geopolitics ahead of the summit.",
+      "brief": "Prime Minister Modi and President Putin met to solidify the India-Russia partnership, discussing bilateral ties, local currencies, and regional stability on the eve of the BRICS summit.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
-      "dateLocation": "September 11, 2026 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFAxREMtVW5qaWVJY2JtNVowUjlwSmlkal9XMW1LLW5HYTVXMUNqempxWFZjeWszdEd0UmFzV2NWNjhxczhiRXpjbjlpTUd5VkI2NzNTeVA5X3BfcXZTUFRGOWUtMDZmbDVDYXJQc2hUa0pxUGVzM2ZKMHMxbUs2WGxDcmxlOFN0Q1lBYUJyXzFoNk9MTEplWm9TdFozNFZkUkwxSkQwUVM0dFZs?oc=5",
+      "dateLocation": "2026-09-11 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BRICS Flags Unilateral Tariffs as Global Economic Risks",
-      "whyItMatters": "Highlights emerging multilateral frameworks and private capital incentives for infrastructure.",
-      "brief": "BRICS finance chiefs highlighted trade barriers as global risks and supported stronger public-private partnerships for emerging-market investments.",
+      "headline": "EU Moves India Free Trade Deal Forward",
+      "whyItMatters": "Promises massive tariff cuts and billions in economic savings for exporters.",
+      "brief": "The European Commission has officially sought Council approval to sign an expansive FTA with India, aiming to eliminate tariffs on 96% of EU goods exports.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/brics-flags-unilateral-tariffs-trade-barriers-as-global-risks/articleshow/134055321.cms",
-      "dateLocation": "September 11, 2026 | New Delhi, India",
+      "sourceUrl": "https://www.livemint.com/news/india/eu-moves-india-trade-deal-closer-to-finish-line-11789129057338.html",
+      "dateLocation": "2026-09-11 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Prices Breach $100 Milestone Amid West Asian Conflict",
-      "whyItMatters": "Sustained high oil prices pressure global currencies, inflation metrics, and economic growth.",
-      "brief": "Global oil prices crossed $100 per barrel for the first time since mid-May following escalation in Red Sea shipping risks.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5",
-      "dateLocation": "September 11, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Bank Employees Stage Nationwide Strike Over Demands",
-      "whyItMatters": "Disrupts financial operations and highlights workforce demands for five-day workweeks.",
-      "brief": "Public sector bank employees across India joined a nationwide strike called by unions, halting branch operations while digital channels remained functional.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/bank-strike-today-why-are-unions-holding-nationwide-protest-what-are-their-demands-explained-11789111110795.html",
-      "dateLocation": "September 11, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cognizant Suspends PERM Filings, Impacting H-1B Visa Workers",
-      "whyItMatters": "Creates significant green card processing delays for Indian IT professionals near limits.",
-      "brief": "Cognizant's temporary suspension of PERM labor certification filings creates fresh immigration hurdles for Indian IT workers nearing their H-1B limits.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/cognizant-faces-perm-suspension-heres-why-indian-it-workers-nearing-h-1bs-6-year-limit-could-face-trouble-11789119283586.html",
-      "dateLocation": "September 11, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IRCTC Records Historic Single-Day Train Ticket Bookings",
-      "whyItMatters": "Reflects massive logistical capacity improvements during peak festive travel season.",
-      "brief": "The Indian Railway Catering and Tourism Corporation handled over 20 lakh ticket bookings in a single day amid heavy festive season demand.",
+      "headline": "Houthis Seize Yemen's Entire Red Sea Coast",
+      "whyItMatters": "Drastically escalates maritime security threats in critical global trade choke points.",
+      "brief": "Iran-backed Houthi forces have seized control of Yemen's entire Red Sea coastline along with three strategic islands, heightening regional conflict concerns.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/irctc-records-highest-ever-20-06-lakh-ticket-bookings-in-a-day-system-capacity-doubled-as-festive-rush-drives-demand-19-51-lakh-more-booked-next-day/articleshow/134054231.cms",
-      "dateLocation": "September 11, 2026 | New Delhi, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-seize-yemens-entire-red-sea-coast-three-strategic-islands/articleshow/134074950.cms",
+      "dateLocation": "2026-09-11 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Magnus Carlsen Weighs In On AI Solving Chess",
-      "whyItMatters": "Explores the shifting landscape of artificial intelligence in complex strategic games.",
-      "brief": "World chess number one Magnus Carlsen responded to Elon Musk's prediction, noting chess is already semi-solved as a draw while praising AI accessibility.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/elon-musk-feels-chess-will-be-fully-solved-one-day-what-does-world-no-1-magnus-carlsen-think/articleshow/134043770.cms",
-      "dateLocation": "September 11, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Anthropic Disrupts Biological Weapons AI Misuse",
+      "whyItMatters": "Highlights urgent security risks and oversight needs surrounding advanced AI models.",
+      "brief": "A new industry report details how Anthropic successfully intercepted and blocked multiple attempts to utilize advanced artificial intelligence for biological weapons research.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/anthropic-disrupts-attempts-to-use-ai-for-biological-weapons-research-report-flags-rising-misuse/articleshow/134074496.cms",
+      "dateLocation": "2026-09-11 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rare Medical Condition Discovered During Infertility Test",
-      "whyItMatters": "Demonstrates the importance of thorough clinical evaluations for congenital abnormalities.",
-      "brief": "Doctors treating a 26-year-old man for infertility discovered a rare congenital condition involving a uterus and damaged undescended testes.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-man-goes-for-infertility-test-doctors-find-uterus-testes-inside-abdomen/articleshow/134053954.cms",
-      "dateLocation": "September 11, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Indian Equities Hit Three-Month Lows",
+      "whyItMatters": "Reflects heavy investor flight driven by deepening Middle East geopolitical tensions.",
+      "brief": "Indian share markets suffered a broad-based sell-off, dragging key indices to a three-month low amidst mounting concerns over Middle Eastern conflicts and oil prices.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcV9paWE2NzJNbkNRNUdicjF3UjUwSURuaUJ5TzRObXdfX2pKUEZ5NlZQQ1RSSW5GdFlNWUNHMzBSZlkxUzVRWEowU2NZRXMzTW8zeDNrZWQ3YmtBNERoXy1RZ3RLa0xwMjl4SDJyWXNQUXktY2h4aTQtRkpObkhQcm9uVVgzc1V2MUpYaDNvVGU4LU1IUm13WEk3eEJ6VDdfeUdKZ3FpQmMwdw?oc=5",
+      "dateLocation": "2026-09-11 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PM Modi Presses Putin on Ukraine Peace",
+      "whyItMatters": "Highlights India's diplomatic balancing act and advocacy for civilian safety.",
+      "brief": "During bilateral discussions, Prime Minister Modi urged Russian leadership toward a peaceful resolution in Ukraine while addressing vital seafarer safety in the Black Sea.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-presses-putin-on-ukraine-peace-raises-safety-of-seafarers-in-black-sea/articleshow/134075410.cms",
+      "dateLocation": "2026-09-11 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Microsoft Signs Student AI Privacy Agreement",
+      "whyItMatters": "Sets strict precedents for corporate AI usage and data protection in schools.",
+      "brief": "Following strict regulatory bans in New York, Microsoft signed a legally binding agreement prohibiting the training of AI models on student data.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/after-zohran-mamdani-bans-ai-in-new-york-city-schools-microsoft-agrees-not-to-train-ai-on-student-data-teachers-union-says-anything-less-than/articleshow/134071844.cms",
+      "dateLocation": "2026-09-11 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India-BRICS Trade Surges Past $417 Billion",
+      "whyItMatters": "Demonstrates rapid economic integration and expanding multilateral commerce among emerging markets.",
+      "brief": "According to trade reports, total commerce between India and BRICS nations doubled over the past five years, reaching an impressive $417 billion.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-brics-trade-increased-more-than-100-during-last-five-years-to-usd-417-billion-in-2025-26-assocham/articleshow/134069496.cms",
+      "dateLocation": "2026-09-11 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UIDAI Prepares Global Push for Aadhaar",
+      "whyItMatters": "Expands India's digital public infrastructure footprint to international NRIs and OCIs.",
+      "brief": "The Unique Identification Authority of India announced active development toward making Aadhaar accessible internationally as a best-in-class digital identity framework.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/in-2010-india-launched-aadhaar-card-16-years-later-uidai-says-work-underway-to-take-aadhaar-global-to-benefit-nris-and-ocis/articleshow/134061418.cms",
+      "dateLocation": "2026-09-11 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran President Condemns US Sanctions and War",
+      "whyItMatters": "Intensifies geopolitical friction and challenges Western-led economic security frameworks.",
+      "brief": "Addressing global forums, Iranian President Masoud Pezeshkian heavily criticized ongoing US military aggression and sanctions, warning of a dangerous phase in regional conflicts.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/brics-2026-us-israels-war-on-iran-has-redrawn-the-meaning-of-economic-security-says-president-masoud-pezeshkian/articleshow/134066604.cms",
+      "dateLocation": "2026-09-11 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
