@@ -1,84 +1,84 @@
 {
-  "lastUpdated": "2026-09-11T02:53:58.922Z",
+  "lastUpdated": "2026-09-11T10:33:59.579Z",
   "ticker": [
-    "Oil Surges Past $107 Amid Middle East Escalation",
-    "India Hosts BRICS Summit in New Delhi",
-    "US Deploys Troops to Support Saudi Arabia",
-    "Adobe Reports Strong Q3 Revenue on AI",
-    "Ebola Spreads to Seventh Province in Congo"
+    "BRICS Summit 2026 kicks off in New Delhi",
+    "Oil crosses $100 per barrel amid West Asia conflict",
+    "India reports massive festive season ticket booking surge",
+    "Public sector bank employees stage nationwide strike",
+    "IMD issues red alert as heavy rains lash Delhi"
   ],
   "articles": [
     {
-      "headline": "Global Oil Prices Spike Past $107",
-      "whyItMatters": "Persistent supply disruptions and regional conflicts are driving up global energy costs significantly.",
-      "brief": "Crude oil prices surpassed $107 per barrel as ongoing Middle East conflicts and choked shipping routes heavily impact global energy markets.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-brent-crude-wti-over-100-per-barrel-for-first-time-in-4-months/articleshow/134039908.cms",
-      "dateLocation": "Sept 11, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Welcomes World Leaders for BRICS Summit",
-      "whyItMatters": "The high-stakes summit tests bloc unity and economic partnerships amid shifting geopolitical alignments.",
-      "brief": "Prime Minister Narendra Modi welcomed global leaders to New Delhi for the BRICS summit, focusing on digital currencies and strategic cooperation.",
+      "headline": "India Hosts BRICS Summit Amid West Asia Tensions",
+      "whyItMatters": "Discusses currency mechanisms, trade barriers, and global supply chain resilience.",
+      "brief": "World leaders gather in New Delhi for the BRICS Summit to address regional conflicts, local currency usage, and economic cooperation.",
       "category": "politics",
       "sourceUrl": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece",
-      "dateLocation": "Sept 11, 2026 | New Delhi",
+      "dateLocation": "September 11, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Sends Troops to Aid Saudi Arabia",
-      "whyItMatters": "Direct military involvement escalates foreign intervention against Iran-backed Houthi threats in vital shipping lanes.",
-      "brief": "The United States has deployed up to 200 troops to assist Saudi Arabia in combating escalating attacks by Iran-backed Houthi forces.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/us-sends-up-to-200-troops-to-help-saudi-arabia-fight-iran-backed-houthis-report/articleshow/134041099.cms",
-      "dateLocation": "Sept 11, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Wipro Automates Capacity Equal to 20,000 Workers",
-      "whyItMatters": "Aggressive AI adoption continues to reshape enterprise workforce structures and operational efficiency.",
-      "brief": "Wipro's Chief Technology Officer announced that recent AI implementations have successfully freed up capacity equivalent to 20,000 workers.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZqYW42N1U0V0Nwcy0tclBNM0NETGhYRXdidmZmdWxxWWtlOHZKRUp6alpTSlZYWk1JaWt3ZGdQNkVEc2tQMGpUWnlHZXFTcVc3b2NxcHEyWTR2eVJPVmNieTBVbFhLdE5FWGRxVHlUbXdKdWtGRm9IN3pIZWJMUVFEcE1oMmsxeXowY0dKcV9GaGhRVDl4MTlVMDY1VWd4b3BmaHU1aXEtZHdBaEo5cA?oc=5",
-      "dateLocation": "Sept 11, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Adobe Beats Q3 Expectations on AI Demand",
-      "whyItMatters": "Robust software sales confirm strong enterprise appetite for monetizable artificial intelligence tools.",
-      "brief": "Adobe reported stronger-than-expected third-quarter revenue, driven heavily by increasing commercial demand for its AI-integrated product ecosystem.",
+      "headline": "BRICS Flags Unilateral Tariffs as Global Economic Risks",
+      "whyItMatters": "Highlights emerging multilateral frameworks and private capital incentives for infrastructure.",
+      "brief": "BRICS finance chiefs highlighted trade barriers as global risks and supported stronger public-private partnerships for emerging-market investments.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGZzUEp3UWwzR0pGdnp1Xy13dEZxaC15NmJkRHRpaTNLV3VZT3VOQ3kyel90YU5KbEplZ0NFQ0VvOE1DSlRzSlNmS2UtT3UtR1RLSDZxaWRkeUNrTWFiLW5RaXZJZ2phMUdzSHVYTndGcjRvNV9SWWdBMVRGTk5pbGJCTFgxc3UzNmhHRkhsemtLQQ?oc=5",
-      "dateLocation": "Sept 11, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/brics-flags-unilateral-tariffs-trade-barriers-as-global-risks/articleshow/134055321.cms",
+      "dateLocation": "September 11, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ebola Virus Spreads in Democratic Republic of Congo",
-      "whyItMatters": "Cross-border transit has accelerated viral dissemination, threatening wider regional health stability.",
-      "brief": "Ebola has reached Congo’s Sud-Ubangi province following a cross-country travel route through neighboring Rwanda and Uganda.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/ebola-reaches-congo-s-sud-ubangi-province-after-patient-traveled-through-rwanda-and-uganda-11789091351547.html",
-      "dateLocation": "Sept 11, 2026 | Kinshasa",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Oil Prices Breach $100 Milestone Amid West Asian Conflict",
+      "whyItMatters": "Sustained high oil prices pressure global currencies, inflation metrics, and economic growth.",
+      "brief": "Global oil prices crossed $100 per barrel for the first time since mid-May following escalation in Red Sea shipping risks.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWZtMHZyX3Z0UkY2T285M3E2bElVVXRpdVhIVnZLQ1N4UjhKMTQ0UmZLWDlrQmRlcHFtZkN1SUcxSmNvVWhyelh4ZUhpZER2N2N5REE2aFR6Nm52YWRKY0xQRk16cE0tMFpRdkNjQm5YTDZ2RWFhcld2aWVHWUJMcFdncU1FUWVNNTgtX2VKcmpfZUNWZE1LenhwWDlGQmxreVF3Zjk4WlJ0N3hqODIxSQ?oc=5",
+      "dateLocation": "September 11, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Aryna Sabalenka Reaches U.S. Open Final",
-      "whyItMatters": "Elite tennis players showcase peak competitive resilience at major Grand Slam championship stages.",
-      "brief": "Aryna Sabalenka secured her spot in the U.S. Open final after defeating Jessica Pegula in a hard-fought match.",
+      "headline": "Indian Bank Employees Stage Nationwide Strike Over Demands",
+      "whyItMatters": "Disrupts financial operations and highlights workforce demands for five-day workweeks.",
+      "brief": "Public sector bank employees across India joined a nationwide strike called by unions, halting branch operations while digital channels remained functional.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/bank-strike-today-why-are-unions-holding-nationwide-protest-what-are-their-demands-explained-11789111110795.html",
+      "dateLocation": "September 11, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cognizant Suspends PERM Filings, Impacting H-1B Visa Workers",
+      "whyItMatters": "Creates significant green card processing delays for Indian IT professionals near limits.",
+      "brief": "Cognizant's temporary suspension of PERM labor certification filings creates fresh immigration hurdles for Indian IT workers nearing their H-1B limits.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/us-news/cognizant-faces-perm-suspension-heres-why-indian-it-workers-nearing-h-1bs-6-year-limit-could-face-trouble-11789119283586.html",
+      "dateLocation": "September 11, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IRCTC Records Historic Single-Day Train Ticket Bookings",
+      "whyItMatters": "Reflects massive logistical capacity improvements during peak festive travel season.",
+      "brief": "The Indian Railway Catering and Tourism Corporation handled over 20 lakh ticket bookings in a single day amid heavy festive season demand.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/irctc-records-highest-ever-20-06-lakh-ticket-bookings-in-a-day-system-capacity-doubled-as-festive-rush-drives-demand-19-51-lakh-more-booked-next-day/articleshow/134054231.cms",
+      "dateLocation": "September 11, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Magnus Carlsen Weighs In On AI Solving Chess",
+      "whyItMatters": "Explores the shifting landscape of artificial intelligence in complex strategic games.",
+      "brief": "World chess number one Magnus Carlsen responded to Elon Musk's prediction, noting chess is already semi-solved as a draw while praising AI accessibility.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/tennis/sabalenka-pushes-past-pegula-into-us-open-final/article71454544.ece",
-      "dateLocation": "Sept 11, 2026 | New York",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/elon-musk-feels-chess-will-be-fully-solved-one-day-what-does-world-no-1-magnus-carlsen-think/articleshow/134043770.cms",
+      "dateLocation": "September 11, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Reflecting Absence Memorial Marks 25 Years of 9/11",
-      "whyItMatters": "Global communities pause to commemorate historic tragedies and honor the legacy of victims.",
-      "brief": "The world marks the 25th anniversary of the 9/11 attacks, reflecting on security changes and memorial sites at Ground Zero.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/25-years-after-911-what-stands-where-twin-towers-once-stood-in-new-york-usa/article71441731.ece",
-      "dateLocation": "Sept 11, 2026 | New York",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Rare Medical Condition Discovered During Infertility Test",
+      "whyItMatters": "Demonstrates the importance of thorough clinical evaluations for congenital abnormalities.",
+      "brief": "Doctors treating a 26-year-old man for infertility discovered a rare congenital condition involving a uterus and damaged undescended testes.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-man-goes-for-infertility-test-doctors-find-uterus-testes-inside-abdomen/articleshow/134053954.cms",
+      "dateLocation": "September 11, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
