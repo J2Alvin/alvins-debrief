@@ -1,84 +1,84 @@
 {
-  "lastUpdated": "2026-09-11T20:24:37.102Z",
+  "lastUpdated": "2026-09-12T03:01:04.939Z",
   "ticker": [
-    "Modi and Putin discuss stronger bilateral and BRICS ties in Delhi",
-    "Indian shares hit three-month low amid escalating Middle East tensions",
-    "China and India arrange bilateral meeting for Xi Jinping and Narendra Modi",
-    "Tesla robotaxis face NHTSA audit over self-certification safety rules",
-    "Gulf states weigh rare meeting with Iran regarding Strait of Hormuz security"
+    "BRICS Summit 2026 kicks off in New Delhi",
+    "Saudi Arabia shuts major oil pipeline amid Yemen fighting",
+    "Strait of Hormuz closure sparks global energy fears",
+    "Chinese President Xi Jinping arrives in India",
+    "India's FX reserves surge to record $45B high"
   ],
   "articles": [
     {
-      "headline": "Modi and Putin Meet in New Delhi to Strengthen Ties",
-      "whyItMatters": "Deepens strategic and economic cooperation between India and Russia amidst shifting global alliances.",
-      "brief": "Prime Minister Narendra Modi and Russian President Vladimir Putin held high-stakes talks in New Delhi ahead of the BRICS summit, reviewing defense, energy, and space cooperation while addressing the Ukraine conflict.",
+      "headline": "BRICS Summit 2026 Begins in New Delhi",
+      "whyItMatters": "Shapes global economic and geopolitical realignments as leaders gather.",
+      "brief": "World leaders, including Xi Jinping and Vladimir Putin, have arrived in New Delhi for the BRICS Summit 2026, focusing on expanding trade in local currencies and reforming global financial institutions.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFAxREMtVW5qaWVJY2JtNVowUjlwSmlkal9XMW1LLW5HYTVXMUNqempxWFZjeWszdEd0UmFzV2NWNjhxczhiRXpjbjlpTUd5VkI2NzNTeVA5X3BfcXZTUFRGOWUtMDZmbDVDYXJQc2hUa0pxUGVzM2ZKMHMxbUs2WGxDcmxlOFN0Q1lBYUJyXzFoNk9MTEplWm9TdFozNFZkUkwxSkQwUVM0dFZs?oc=5",
-      "dateLocation": "September 11, 2026 | New Delhi / Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
+      "dateLocation": "September 12, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Shares Slide to Three-Month Low on Mideast Worries",
-      "whyItMatters": "Highlights emerging market vulnerability to regional conflicts and energy supply disruptions.",
-      "brief": "Indian equity markets experienced a broad-based sell-off, plunging to a three-month low as escalating Middle East tensions triggered heavy oil supply worries and currency depreciation.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcV9paWE2NzJNbkNRNUdicjF3UjUwSURuaUJ5TzRObXdfX2pKUEZ5NlZQQ1RSSW5GdFlNWUNHMzBSZlkxUzVRWEowU2NZRXMzTW8zeDNrZWQ3YmtBNERoXy1RZ3RLa0xwMjl4SDJyWXNQUXktY2h4aTQtFkpObkhQcm9uVVgzc1V2MUpYaDNvVGU4LU1IUm13WEk3eEJ6VDdfeUdKZ3FpQmMwdw?oc=5",
-      "dateLocation": "September 11, 2026 | Mumbai / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China and India Arrange Bilateral Meeting for Xi and Modi",
-      "whyItMatters": "Signals potential diplomatic thawing between the two Asian giants amid complex geopolitical alignments.",
-      "brief": "China's foreign ministry confirmed that arrangements are underway for a bilateral meeting between President Xi Jinping and Prime Minister Narendra Modi on the sidelines of ongoing diplomatic engagements.",
+      "headline": "Saudi Arabia Shuts Key Oil Pipeline",
+      "whyItMatters": "Intensifies global energy market pressures amid ongoing Middle East conflicts.",
+      "brief": "Saudi Arabia has shut down a major oil pipeline following Houthi escalation and seizure of a strategic Red Sea island, severely tightening global oil supplies.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTNxS28yUXVkQ1l4bmItaUNkMTRvd01pWC1Ic0hRZF9McXI3UzlWZnJueXpuLUEzaXVjNVdVcjFMdXY2d011aW1LSlZMYlM5ckZiN0pEd0JaTlEtdEViRHR6Yk9PT0ZvVkFiU1M3VTZJV3QtOURVRUV4RzdQMU9peFNmM2xZdXNuTGpWM0Zfdk9CR2pZWjFIWHR5OTlUSURsMl9YQnAxU29pQVMwTVVodDVaYXI?oc=5",
-      "dateLocation": "September 11, 2026 | Beijing / Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-shuts-key-oil-pipeline-as-houthis-seize-strategic-red-sea-island/articleshow/134102085.cms",
+      "dateLocation": "September 12, 2026 | Riyadh, Saudi Arabia",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Colgate-Palmolive Seeks Divestment of Personal Care Brands",
-      "whyItMatters": "Reflects shifting consumer goods strategies toward core profitable segments amid global market adjustments.",
-      "brief": "People familiar with the matter revealed that Colgate-Palmolive is actively seeking to divest certain personal care brands to streamline operations and optimize its global portfolio.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTlwOTQxMHU0MzVXcnRITWpXU3FSdkVDeXdSMXhidzJxenJZeHdDY1pvMktMQW1yTmVpNGw4d0xHcVBSXzFRRGI5RGRtX1pIQUJGYmtSVXVyRnotV0h5dVEtWVRuSU56T0pLekRSQ0ZKZ290VmZacnJzZXpxU2lYRzVsVU50bzlIeDh1Q3dOZG50elNGOTNaLWIta1RhdXlscFFiS0Ria3FYdE5yTUE4?oc=5",
-      "dateLocation": "September 11, 2026 | New York / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "India's FX Reserves Hit Record High",
+      "whyItMatters": "Reflects strong economic resilience and capital inflows despite regional volatility.",
+      "brief": "India's foreign exchange reserves surged by $45 billion on-week to reach an all-time high, driven by robust capital flows amid global financial shifts.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdV8xc3lFRERiNENOdW5ZUmIxV2VGZ05ncjBuMV9IeXhsZDk3eGZrSUwzSE1iME1raEw2NmlWSXRpVlJZQ09QSWtDU004RWlILWNONy1XMFlvMjktNU0zTVU4dXJiOXdFdmJ5WUNCOEhHVlRRYXBsdlZwRGlJbWRoay1ZWE5RZjdxNjlaRWlSUGFlMnBxTEZnOGRMY1A5eHhVOG9SejJqaW1tZGdBNnc2djFuTUM3clNyV3NELW9nMVphYkdERk5n?oc=5",
+      "dateLocation": "September 12, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Sri Lanka Edges Pakistan to Set Up Asia Cup Final",
-      "whyItMatters": "Sets up a high-stakes regional cricket showdown following an extraordinary comeback victory.",
-      "brief": "Sri Lanka staged a stunning recovery from 33/4 to defeat Pakistan by four wickets in a thrilling Women's Asia Cup semi-final, securing a spot in the tournament finale against India.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/womens-asia-cup-sri-lanka-fight-back-from-33/4-to-beat-pakistan-by-4-wickets-set-up-india-final/articleshow/134087591.cms",
-      "dateLocation": "September 11, 2026 | Colombo / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tesla Robotaxi Fleet Faces Safety Audit by US Regulators",
-      "whyItMatters": "Tests the regulatory framework for autonomous vehicles operating without traditional controls.",
-      "brief": "The National Highway Traffic Safety Administration has opened an audit into approximately 1,000 Tesla Cybercab vehicles operating in Texas without steering wheels or pedals under self-certification rules.",
+      "headline": "Tesla Cybercab Robotaxis Audited by NHTSA",
+      "whyItMatters": "Tests the regulatory framework for autonomous vehicles without human controls.",
+      "brief": "US safety regulators have opened an audit into roughly 1,000 Tesla Cybercabs operating in Texas without traditional steering wheels or pedals.",
       "category": "technology",
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms",
-      "dateLocation": "September 11, 2026 | Washington / Times of India",
+      "dateLocation": "September 12, 2026 | Washington, D.C.",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Court Orders Timeline for Mandatory Food Warning Labels",
-      "whyItMatters": "Enhances consumer protection and transparency regarding packaged food health risks.",
-      "brief": "The Supreme Court instructed regulators to provide a concrete timeline for rolling out front-of-pack food warning labels, addressing ongoing ambiguities in public health safety implementations.",
+      "headline": "Ebola Cases Surpass 7,000 in DRC",
+      "whyItMatters": "Highlights persistent public health crises and regional epidemic containment challenges.",
+      "brief": "Ebola infections in the Democratic Republic of Congo have topped 7,000 as the deadly virus spreads into a new province, prompting urgent medical responses.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/sc-junks-per-serve-labelling-plea-calls-fssais-phased-fopl-rollout-ambiguous-seeks-timeline-in-10-days/articleshow/134086311.cms",
-      "dateLocation": "September 11, 2026 | New Delhi / Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekp2Sm9XTHh0RXBjaHc2XzBLMVJkUVlMdkhmNm0zVm5hSmJkZWdJdDR0S1QtX0RFcXI2cU04ZVUwQ3dpWEkyYnRsVDh1bDlxU2hNYlVqWEd6TmlMT2FHZHBDWmJvVGotdExVdjYtMzFhb1UyLWFCSzNzUnMyYTZpSTZEUEpveEZSUEt6OGNjYUJDOVVIV09vUVVtOTJWeUR4WHpNTzFlZ0RCUERpVkVBZE9SdUhxTm9yNXNtNU53SzhZWTc0VWI5VXJn?oc=5",
+      "dateLocation": "September 12, 2026 | Kinshasa, DRC",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gulf States Weigh Rare Meeting with Iran on Hormuz Security",
-      "whyItMatters": "Aims to de-escalate maritime security threats and stabilize regional oil transport routes.",
-      "brief": "Gulf nations are considering a rare high-level meeting with Iranian officials next week to address escalating security concerns and navigation threats in the vital Strait of Hormuz corridor.",
+      "headline": "Pakistan Faces Pressure in Yemen Conflict",
+      "whyItMatters": "Complicates regional diplomacy and traditional alliances in the Middle East.",
+      "brief": "As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces mounting pressure from regional powers to choose a side in the widening conflict.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/gulf-states-weigh-rare-meeting-with-iran-next-week-on-hormuz/articleshow/134087249.cms",
-      "dateLocation": "September 11, 2026 | Dubai / Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeEtIRmd6Qm1XMzBxWWhjWXkwU3NPaFY0Nk1HTWdNQzhlSEg2ZlJMQ1BCcS02UTRVcFpBRXZtb3laVXI4Q0VOdVd4RXBNdFhNSU1taGRya3NoVlItcVdmMXBlaTVFcjdMNE9UMGU5T0JidVVjbV9Sc3ZjMzMyeXZLaGV2MHRlUktWTklJN25ubkdjVE56UjJiSDFQYU5sUDQ3eUVuV0JXS1dXcnM4WWJ6dTdZY2EwWnR6MlBlTEdKOFZTTFZOYXc?oc=5",
+      "dateLocation": "September 12, 2026 | Islamabad, Pakistan",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "North Korea Fires Ballistic Missiles",
+      "whyItMatters": "Raises security tensions on the Korean Peninsula following joint military drills.",
+      "brief": "North Korea fired multiple short-range ballistic missiles toward the East Sea just days after the conclusion of joint military exercises by the US, South Korea, and Japan.",
+      "category": "sports",
+      "sourceUrl": "https://www.livemint.com/news/world/north-korea-fires-short-ballistic-missiles-toward-east-sea-11789172277029.html",
+      "dateLocation": "September 12, 2026 | Seoul, South Korea",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Colgate-Palmolive Seeks Personal Care Divestment",
+      "whyItMatters": "Signals portfolio restructuring by major consumer goods conglomerates.",
+      "brief": "Colgate-Palmolive is reportedly seeking to divest several of its underperforming personal care brands to streamline operations and focus on core categories.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTlwOTQxMHU0MzVXcnRITWpXU3FSdkVDeXdSMXhidzJxenJZeHdDY1pvMktMQW1yTmVpNGw4d0xHcVBSXzFRRGI5RGRtX1pIQUJGYmtSVXVyRnotV0h5dVEtWVRuSU56T0pLekRSQ0ZKZ290VmZacnJzZXpxU2lYRzVsVU50bzlIeDh1Q3dOZG50elNGOTNaLWIta1RhdXlscFFiS0Ria3FYdE5yTUE4?oc=5",
+      "dateLocation": "September 12, 2026 | New York, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
