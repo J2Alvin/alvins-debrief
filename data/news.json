@@ -1,84 +1,138 @@
 {
-  "lastUpdated": "2026-09-12T03:01:04.939Z",
+  "lastUpdated": "2026-09-12T10:02:31.485Z",
   "ticker": [
-    "BRICS Summit 2026 kicks off in New Delhi",
-    "Saudi Arabia shuts major oil pipeline amid Yemen fighting",
-    "Strait of Hormuz closure sparks global energy fears",
-    "Chinese President Xi Jinping arrives in India",
-    "India's FX reserves surge to record $45B high"
+    "BRICS nations agree on New Delhi joint declaration",
+    "Saudis shut pipeline amid intensified Red Sea Houthi attacks",
+    "US finalizes steep solar import tariffs on Asian nations",
+    "Bangladesh places 101 bilateral India agreements under review",
+    "Congo Ebola infections exceed 7,000 as virus spreads"
   ],
   "articles": [
     {
-      "headline": "BRICS Summit 2026 Begins in New Delhi",
-      "whyItMatters": "Shapes global economic and geopolitical realignments as leaders gather.",
-      "brief": "World leaders, including Xi Jinping and Vladimir Putin, have arrived in New Delhi for the BRICS Summit 2026, focusing on expanding trade in local currencies and reforming global financial institutions.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece",
-      "dateLocation": "September 12, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Saudi Arabia Shuts Key Oil Pipeline",
-      "whyItMatters": "Intensifies global energy market pressures amid ongoing Middle East conflicts.",
-      "brief": "Saudi Arabia has shut down a major oil pipeline following Houthi escalation and seizure of a strategic Red Sea island, severely tightening global oil supplies.",
+      "headline": "BRICS Nations Reach Consensus on New Delhi Joint Declaration",
+      "whyItMatters": "Demonstrates diplomatic alignment among major developing economies despite internal tensions.",
+      "brief": "Following intensive negotiations, BRICS member states successfully agreed on a joint declaration for the New Delhi summit, overcoming friction between specific regional rivals.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-shuts-key-oil-pipeline-as-houthis-seize-strategic-red-sea-island/articleshow/134102085.cms",
-      "dateLocation": "September 12, 2026 | Riyadh, Saudi Arabia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
+      "dateLocation": "September 12, 2026 | New Delhi / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's FX Reserves Hit Record High",
-      "whyItMatters": "Reflects strong economic resilience and capital inflows despite regional volatility.",
-      "brief": "India's foreign exchange reserves surged by $45 billion on-week to reach an all-time high, driven by robust capital flows amid global financial shifts.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdV8xc3lFRERiNENOdW5ZUmIxV2VGZ05ncjBuMV9IeXhsZDk3eGZrSUwzSE1iME1raEw2NmlWSXRpVlJZQ09QSWtDU004RWlILWNONy1XMFlvMjktNU0zTVU4dXJiOXdFdmJ5WUNCOEhHVlRRYXBsdlZwRGlJbWRoay1ZWE5RZjdxNjlaRWlSUGFlMnBxTEZnOGRMY1A5eHhVOG9SejJqaW1tZGdBNnc2djFuTUM3clNyV3NELW9nMVphYkdERk5n?oc=5",
-      "dateLocation": "September 12, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Modi and Putin Push for Stronger Ties at BRICS",
+      "whyItMatters": "Highlights shifting global alliances and ongoing efforts to establish alternative economic frameworks.",
+      "brief": "Prime Minister Narendra Modi and Russian President Vladimir Putin met during the BRICS summit to discuss enhanced bilateral cooperation and strategies to counter Western economic dominance.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFAxREMtVW5qaWVJY2JtNVowUjlwSmlkal9XMW1LLW5HYTVXMUNqempxWFZjeWszdEd0UmFzV2NWNjhxczhiRXpjbjlpTUd5VkI2NzNTeVA5X3BfcXZTUFRGOWUtMDZmbDVDYXJQc2hUa0pxUGVzM2ZKMHMxbUs2WGxDcmxlOFN0Q1lBYUJyXzFoNk9MTEplWm9TdFozNFZkUkwxSkQwUVM0dFZs?oc=5",
+      "dateLocation": "September 12, 2026 | New Delhi / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tesla Cybercab Robotaxis Audited by NHTSA",
-      "whyItMatters": "Tests the regulatory framework for autonomous vehicles without human controls.",
-      "brief": "US safety regulators have opened an audit into roughly 1,000 Tesla Cybercabs operating in Texas without traditional steering wheels or pedals.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-cybercab-has-no-steering-wheel-pedals-or-mirrors-us-safety-regulators-open-audit-of-about-1000-cars-over-teslas-self-certification/articleshow/134066366.cms",
-      "dateLocation": "September 12, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Saudi Arabia Shuts Oil Pipeline Amid Red Sea Attacks",
+      "whyItMatters": "Threatens global energy supply stability and escalates Middle Eastern geopolitical conflicts.",
+      "brief": "Saudi authorities temporarily shut down a major oil pipeline as Houthi militants tightened their operational grip on crucial Red Sea shipping lanes.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczRVMDVmcFFkMWs3TDRSemk1SnA1SW1NSTRmaGU3VXRmbDlvUnlGTll6VHRRYWxjOTl1N3QzcFhIYWs5RjJaRGRmclRQYmpLdW8tNHNXWExZTnpmSklXaFU4YWJvOC1EcEpvcDdQVnpfWnBYT3l6X1pCRW9Bc19YQzNmYnFrbHBNQXd4aE1nVkpKWktoTjFoM2dSa1BGMnlSb3dVMnJhOFVTRHRrXzlHSFVXTDFvZVNzQ19r?oc=5",
+      "dateLocation": "September 12, 2026 | Riyadh / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ebola Cases Surpass 7,000 in DRC",
-      "whyItMatters": "Highlights persistent public health crises and regional epidemic containment challenges.",
-      "brief": "Ebola infections in the Democratic Republic of Congo have topped 7,000 as the deadly virus spreads into a new province, prompting urgent medical responses.",
+      "headline": "US Finalizes Steep Tariffs on Solar Imports",
+      "whyItMatters": "Impacts renewable energy transition costs and shifts international trade dynamics for manufacturers.",
+      "brief": "The US Commerce Department finalized aggressive new tariff rates on solar product imports originating from India, Indonesia, and Laos.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGxXeDZUYl9tZThrU2hrNmhkUjFmT25vTEhBVDBWZ2l4THVNVWl1akxnenBTNFViVV9IckIzYXdLSGhlTkN6ZWd2SHZFYmRsX1N6OU82aDZCVnlDb2dSUVdrUVY4WEZzUUVYeFRkaFpSUGl5MU5sbmdiRXdjYkRtTVM4d1FDWXlYQXY2VU15NGtEbFhFWWNIVncwVEhRXzg2LUxtUzNLajd0WE54OEM4RjV5WVdzSm52U2dsLUVJeldoTERTdzhyME9nR2U?oc=5",
+      "dateLocation": "September 12, 2026 | Washington / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Congo Ebola Infections Surpass Seven Thousand Cases",
+      "whyItMatters": "Poses severe public health concerns as the viral outbreak breaches new regional boundaries.",
+      "brief": "Health authorities confirmed that total Ebola infections in Congo have crossed 7,000 as the highly infectious virus successfully spreads into a new province.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekp2Sm9XTHh0RXBjaHc2XzBLMVJkUVlMdkhmNm0zVm5hSmJkZWdJdDR0S1QtX0RFcXI2cU04ZVUwQ3dpWEkyYnRsVDh1bDlxU2hNYlVqWEd6TmlMT2FHZHBDWmJvVGotdExVdjYtMzFhb1UyLWFCSzNzUnMyYTZpSTZEUEpveEZSUEt6OGNjYUJDOVVIV09vUVVtOTJWeUR4WHpNTzFlZ0RCUERpVkVBZE9SdUhxTm9yNXNtNU53SzhZWTc0VWI5VXJn?oc=5",
-      "dateLocation": "September 12, 2026 | Kinshasa, DRC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekp2Sm9XTHh0RXBjaHc2XzBLMVJkUVlMdkhmNm0zVm5hSmJkZWdJdDR0S1QtX0RFcXI2cU04ZVUwQ3dpWEkyYnRsVDh1bDlxU2hNYlVqWEd6TmlMT2FHZHBDWmJvVGotdExVdjYtMzFhb1UyLWFCSzNzUnMyYTZpSTZEUEpveEZSUEt6OGNjYUJDOVVIV09vUVVtOTJWeUR4WHpNTzFlZ0RCUERpVkVBZE9SdUhxTm9yNXSm5tNX3K8YZY3q?oc=5",
+      "dateLocation": "September 12, 2026 | Kinshasa / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Faces Pressure in Yemen Conflict",
-      "whyItMatters": "Complicates regional diplomacy and traditional alliances in the Middle East.",
-      "brief": "As Saudi tensions with Iran-backed Houthis escalate, mediator Pakistan faces mounting pressure from regional powers to choose a side in the widening conflict.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeEtIRmd6Qm1XMzBxWWhjWXkwU3NPaFY0Nk1HTWdNQzhlSEg2ZlJMQ1BCcS02UTRVcFpBRXZtb3laVXI4Q0VOdVd4RXBNdFhNSU1taGRya3NoVlItcVdmMXBlaTVFcjdMNE9UMGU5T0JidVVjbV9Sc3ZjMzMyeXZLaGV2MHRlUktWTklJN25ubkdjVE56UjJiSDFQYU5sUDQ3eUVuV0JXS1dXcnM4WWJ6dTdZY2EwWnR6MlBlTEdKOFZTTFZOYXc?oc=5",
-      "dateLocation": "September 12, 2026 | Islamabad, Pakistan",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "New Mexico Supreme Court Fines Lawyer Over AI Falsifications",
+      "whyItMatters": "Establishes strict legal precedents regarding the irresponsible use of generative AI in court filings.",
+      "brief": "The New Mexico Supreme Court penalized a defense attorney $5,000 for submitting a legal brief containing fake witness testimony generated by ChatGPT.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/us-news/taking-ai-too-far-new-mexico-supreme-court-fines-lawyer-5-000-for-presenting-fake-testimony-chatgpt-generated-brief-11789198936558.html",
+      "dateLocation": "September 12, 2026 | Santa Fe / LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "North Korea Fires Ballistic Missiles",
-      "whyItMatters": "Raises security tensions on the Korean Peninsula following joint military drills.",
-      "brief": "North Korea fired multiple short-range ballistic missiles toward the East Sea just days after the conclusion of joint military exercises by the US, South Korea, and Japan.",
+      "headline": "Bangladesh Puts India Pacts Under Review Amid Diplomatic Friction",
+      "whyItMatters": "Signals potential strain in regional diplomacy and bilateral trade relations in South Asia.",
+      "brief": "Dhaka has initiated a formal review of 101 bilateral agreements signed with India following a diplomatic dispute over a regional leadership summit invitation.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/brics-invitation-row-upsets-bangladesh-dhaka-puts-101-india-agreements-under-review-11789196186243.html",
+      "dateLocation": "September 12, 2026 | Dhaka / LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and UAE Discuss Multibillion-Dollar Strategic Energy Infrastructure",
+      "whyItMatters": "Deepens bilateral economic integration and secures long-term technological and energy investments.",
+      "brief": "Prime Minister Narendra Modi met with the Abu Dhabi Crown Prince to advance strategic cooperation across defense, space, nuclear energy, and major regional investments.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/india-uae-discuss-new-possibilities-in-strategic-energy-infrastructure-on-sidelines-of-brics-2026-modi-meets-sheikh-khaled-bin-mohamed-bin-zayed-al-nahyan/articleshow/134118759.cms",
+      "dateLocation": "September 12, 2026 | New Delhi / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Apple Reportedly Agrees to Massive Display Deal with Samsung",
+      "whyItMatters": "Highlights critical supply chain interdependencies among leading consumer electronics giants.",
+      "brief": "Industry reports indicate Apple has entered a three-year multi-million dollar agreement with Samsung to supply advanced foldable iPhone screens.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/samsung-may-charge-apple-250-for-each-foldable-iphone-display-under-reported-three-year-deal/articleshow/134104415.cms",
+      "dateLocation": "September 12, 2026 | Seoul / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ITAT Cancels Heavy Tax Penalty Involving Minor Child Income",
+      "whyItMatters": "Clarifies legal boundaries regarding tax dispute definitions and under-reporting assessments for individuals.",
+      "brief": "The Income Tax Appellate Tribunal canceled a substantial penalty levied against a Delhi resident, ruling that standard rate disputes do not constitute under-reporting.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/minor-child-had-rs-1-17-crore-interest-income-father-faced-rs-12-83-lakh-penalty-itat-delhi-cancels-it-rules-tax-rate-dispute-isnt-under-reporting/articleshow/134076542.cms",
+      "dateLocation": "September 12, 2026 | New Delhi / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tax Rules Clarified for Equity Short-Term Capital Gains Under Twelve Lakhs",
+      "whyItMatters": "Provides vital tax planning clarity for retail equity investors with moderate income profiles.",
+      "brief": "Financial analysts outline the specific tax implications and zero-tax applicability thresholds for short-term and long-term capital gains for the upcoming fiscal cycle.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/wealth/tax/taxable-income-below-rs-12-lakh-will-you-pay-zero-income-tax-if-this-income-includes-ltcg-and-stcg-for-tax-year-2026-27/articleshow/134119480.cms",
+      "dateLocation": "September 12, 2026 | Mumbai / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Cricket Team Adopts Retro AI Makeovers for Series Promo",
+      "whyItMatters": "Illustrates the growing mainstream integration of consumer generative AI tools in sports media.",
+      "brief": "The Board of Control for Cricket in India shared footage of players reacting to humorous 1980s retro AI portraits ahead of their upcoming series.",
       "category": "sports",
-      "sourceUrl": "https://www.livemint.com/news/world/north-korea-fires-short-ballistic-missiles-toward-east-sea-11789172277029.html",
-      "dateLocation": "September 12, 2026 | Seoul, South Korea",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/1980s-ai-photo-trend-jasprit-bumrah-vaibhav-sooryavanshi-shreyas-iyer-get-hilarious-makeovers-watch/articleshow/134121954.cms",
+      "dateLocation": "September 12, 2026 | New Delhi / Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Colgate-Palmolive Seeks Personal Care Divestment",
-      "whyItMatters": "Signals portfolio restructuring by major consumer goods conglomerates.",
-      "brief": "Colgate-Palmolive is reportedly seeking to divest several of its underperforming personal care brands to streamline operations and focus on core categories.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQTlwOTQxMHU0MzVXcnRITWpXU3FSdkVDeXdSMXhidzJxenJZeHdDY1pvMktMQW1yTmVpNGw4d0xHcVBSXzFRRGI5RGRtX1pIQUJGYmtSVXVyRnotV0h5dVEtWVRuSU56T0pLekRSQ0ZKZ290VmZacnJzZXpxU2lYRzVsVU50bzlIeDh1Q3dOZG50elNGOTNaLWIta1RhdXlscFFiS0Ria3FYdE5yTUE4?oc=5",
-      "dateLocation": "September 12, 2026 | New York, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Rare 1894 San Francisco Dime Fetches Million at Auction",
+      "whyItMatters": "Reflects the enduring global appetite and immense financial valuation for ultra-scarce numismatic assets.",
+      "brief": "A rare 1894-S Barber dime, with only nine known surviving specimens, successfully sold at a high-profile collector auction for $1.25 million.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/san-francisco-minted-just-24-of-these-dimes-in-1894-and-only-9-are-known-to-survive-132-years-later-one-10-cent-coin-has-sold-at-auction-for-1-25-million/articleshow/134112354.cms",
+      "dateLocation": "September 12, 2026 | San Francisco / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Philippines Initiates Victim Identification Following Tragic Ferry Fire",
+      "whyItMatters": "Brings urgency to maritime safety regulations after survivors reported sudden onboard explosions.",
+      "brief": "Maritime authorities in the Philippines commenced formal victim identification procedures following a fatal ferry fire sparked by explosions.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/international/philippines-begins-identifying-victims-from-ferry-fire-as-dozens-still-missing/article71459549.ece",
+      "dateLocation": "September 12, 2026 | Manila / The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
