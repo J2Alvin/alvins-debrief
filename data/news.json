@@ -1,102 +1,102 @@
 {
-  "lastUpdated": "2026-09-12T14:57:07.155Z",
+  "lastUpdated": "2026-09-12T20:09:27.615Z",
   "ticker": [
-    "BRICS Adopts Joint Declaration in New Delhi",
-    "HDFC Bank Submits CEO Candidates to RBI",
-    "Yemen Conflict Escalates with Houthi Advance",
-    "Saudi Arabia Shuts Down Key Oil Pipeline",
-    "PM Modi Urges Global Governance Reforms"
+    "BRICS summit adopts joint declaration in New Delhi",
+    "RBI rejects Tata Sons public listing exemption request",
+    "Anthropic CEO calls for slowing down AI development pace",
+    "US military reports 100 ships redirected amid Iran blockade",
+    "Decomposed body of Jaish terrorist found in J&K's Doda"
   ],
   "articles": [
     {
-      "headline": "BRICS Adopts Joint Declaration in New Delhi",
-      "whyItMatters": "Signals unity among major economies amid rising Middle East tensions.",
-      "brief": "BRICS nations concluded their summit in New Delhi with a joint declaration urging maximum restraint in the Middle East and calling for UN reforms.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
-      "dateLocation": "September 12, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Anthropic CEO Calls for Slowing AI Race",
+      "whyItMatters": "Major tech leaders urge caution over unchecked artificial intelligence progress.",
+      "brief": "Anthropic CEO Dario Amodei has called for slowing down AI development to maintain safety control, drawing support from prominent figures like Sam Altman and Elon Musk.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-calls-on-ai-firms-to-slow-pace-of-developmen-gets-backing-from-sam-altman-elon-musk/articleshow/134146825.cms",
+      "dateLocation": "2026-09-12 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "HDFC Bank Submits CEO Candidates to RBI",
-      "whyItMatters": "Critical leadership transition for India's largest private sector bank.",
-      "brief": "HDFC Bank has officially submitted two internal candidates to the Reserve Bank of India to succeed the current chief executive officer.",
+      "headline": "Mark Zuckerberg Returns to X for AI Launch",
+      "whyItMatters": "Meta CEO utilizes competitor platform to amplify new technological developments.",
+      "brief": "Meta CEO Mark Zuckerberg made a surprising return to Elon Musk's X platform to unveil Meta's latest AI innovation, engaging directly with engineering communities.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms",
+      "dateLocation": "2026-09-12 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "HDFC Bank Submits Successor Candidates to RBI",
+      "whyItMatters": "India's largest private lender prepares for crucial leadership transition.",
+      "brief": "HDFC Bank has officially submitted two candidate names to the Reserve Bank of India to succeed current leadership as its next Managing Director and CEO.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjdMbW15NHlUVGNJZHhBaUJxWFZRUi1aSVNsYTBCb1p4T2VyRzdEZWYzZUhGZ0tCQUo0eXNBRkt1RE43T1RKSWg3R2xRX1ljTkpzandKaG9JVzJ3QlhtTk04cll5QXVLd0M0V3MwWU9ycnZIalZzOU10NGxQUjFwTTN3M3BHbzBMWXpadmRmYkxlVWZxTkJzdmNlU08yb3RMTEE?oc=5",
-      "dateLocation": "September 12, 2026 | Reuters",
+      "dateLocation": "2026-09-12 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Arabia Shuts Key Oil Pipeline Amid Red Sea Threats",
-      "whyItMatters": "Directly threatens global energy supplies and maritime trade routes.",
-      "brief": "Saudi Arabia shut down its East-West oil pipeline following drone strikes and tightening Houthi control over Red Sea shipping lanes.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczRVMDVmcFFkMWs3TDRSemk1SnA1SW1NSTRmaGU3VXRmbDlvUnlGTll6VHRRYWxjOTl1N3QzcFhIYWs5RjJaRGRmclRQYmpLdW8tNHNXWExZTnpmSklXaFU4YWJvOC1EcEpvcDdQVnpfWnBYT3l6X1pCRW9Bc19YQzNmYnFrbHBNQXd4aE1nVkpKWktoTjFoM2dSa1BGMnlSb3dVMnJhOFVTRHRrXzlHSFVXTDFvZVNzQ19r?oc=5",
-      "dateLocation": "September 12, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Yemen War Escalates as Houthi Offensive Displaces Thousands",
-      "whyItMatters": "Deepens the humanitarian crisis and regional instability in the Middle East.",
-      "brief": "A major Houthi offensive in Yemen has forced nearly 50,000 people to flee their homes while threatening vital international trade routes.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/yemen-war-escalates-nearly-50000-flee-homes-as-iran-backed-houthi-offensive-threatens-red-sea-trade/articleshow/134137484.cms",
-      "dateLocation": "September 12, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Joe Root Breaks Sachin Tendulkar's Test Record",
-      "whyItMatters": "A historic milestone in modern international cricket batting statistics.",
-      "brief": "England's Joe Root surpassed Sachin Tendulkar's long-standing record for the most Test match half-centuries during a series whitewash.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-creates-history-breaks-sachin-tendulkars-record/articleshow/134136516.cms",
-      "dateLocation": "September 12, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Harvard Alerts International Students to Strict Visa Changes",
-      "whyItMatters": "Impacts international students studying in the United States under F-1 and J-1 visas.",
-      "brief": "Harvard University warned international students about new Department of Homeland Security regulations replacing duration of status with fixed visa end dates.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/harvard-university-has-a-september-message-for-all-international-students-planning-to-leave-america-as-well-as-those-staying-in-the-country/articleshow/134118705.cms",
-      "dateLocation": "September 12, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SEBI Proposes New Framework for Expiry Day Settlement",
-      "whyItMatters": "Could significantly alter trading dynamics and risk management in Indian stock markets.",
-      "brief": "SEBI has proposed a new Consolidated Account Statement framework, introducing two distinct options for expiry day settlement to curb market volatility.",
+      "headline": "RBI Rejects Tata Sons Public Listing Exemption",
+      "whyItMatters": "Removes escape route, paving way for massive public market listing.",
+      "brief": "The Reserve Bank of India has rejected Tata Sons' request to avoid public listing, forcing the massive conglomerate closer to a mandatory market debut.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-new-cas-framework-two-options-for-expiry-day-settlement/articleshow/134113792.cms",
-      "dateLocation": "September 12, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5",
+      "dateLocation": "2026-09-12 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BRICS Backs Diversified Energy Mix and Critical Minerals",
-      "whyItMatters": "Highlights developing nations' strategies for balancing energy security and transition.",
-      "brief": "The BRICS summit declaration emphasized the continued importance of fossil fuels for developing nations alongside investments in critical minerals.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/brics-backs-diversified-energy-mix-says-fossil-fuels-remain-important-for-emdes/articleshow/134131125.cms",
-      "dateLocation": "September 12, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PM Modi Pitches 'Three Mutuals' for India-China Ties",
-      "whyItMatters": "A crucial diplomatic overture for regional stability between Asian giants.",
-      "brief": "During bilateral talks on the sidelines of the BRICS summit, Prime Minister Modi emphasized that differences between India and China should not become disputes.",
+      "headline": "Xi Urges BRICS Peace Role in Middle East",
+      "whyItMatters": "Global powers realign strategic diplomatic priorities during New Delhi summit.",
+      "brief": "Chinese President Xi Jinping urged BRICS nations to play an active peace role in the Middle East while meeting Indian Prime Minister Narendra Modi during the summit.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/differences-should-not-become-disputes-pm-modi-says-india-china-ties-should-be-guided-by-3-mutuals/articleshow/134137553.cms",
-      "dateLocation": "September 12, 2026 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hwaW9IeTRsWlZUMXI0TnRSYUhSM0ZNZVRXUHpQM0NKMHJIMlhJaFZZUUJYRE5PbEpvSjg4bDFxT0FVQUp1X0hHSUhOcXJjOFZpaDY3RmRMeFpFT0VaZVlQWG12ZlZJQ3BjdF9MMVJXYUxHV0xwQjVJWGstZWpJYWxlM2pmMzBCdFc5d1NCeE5IWENOUC1Id1ZfZGJDMkMwckY5Y082T2NLOEk?oc=5",
+      "dateLocation": "2026-09-12 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Lenders Face Accountability Questions Over AI Lending",
-      "whyItMatters": "Addresses legal and ethical risks of automated financial decision-making.",
-      "brief": "Industry leaders at a global fintech forum questioned who bears responsibility when automated AI models make erroneous lending decisions.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/gff-2026-with-ai-handing-down-verdicts-indias-lenders-ask-who-signs-off-on-it-report/articleshow/134128815.cms",
-      "dateLocation": "September 12, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "BRICS Bloc Adopts Joint Middle East Declaration",
+      "whyItMatters": "Member nations unite to advocate diplomatic restraint amidst regional conflicts.",
+      "brief": "The BRICS summit concluded its first day by adopting a joint declaration urging maximum restraint in West Asia and condemning regional acts of terror.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZERlSkNRYWwycnZ4Y1Nwc1RXSXU3WTFLbmFLVnJGOWhfWjdvTzZiTGJVWVpSWHFWWXB1TTh0STE5QkM2VUlabV9DaENCYXJ2djY1OUhfVjUzbTZWdVVHbjRLTlBNLURPYnNlQU1WSzdYZWxzSk51b0ZQS0Y2N0hndGJPMnF3bW9MUjJSWk80cFkxZVUyXzRFVTdwVGtIQVF0S2Z6RkdqQWFOSGdWZnVV?oc=5",
+      "dateLocation": "2026-09-12 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and China Push Border Peace and Trade",
+      "whyItMatters": "Bilateral relations thaw significantly between the two Asian economic giants.",
+      "brief": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping pushed for strengthened business links and lasting border peace as bilateral ties experience a cautious thaw.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD?oc=5",
+      "dateLocation": "2026-09-12 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran and UAE Back Joint BRICS Statement",
+      "whyItMatters": "Middle Eastern rivals align on multilateral diplomatic messaging during crisis.",
+      "brief": "Iranian and United Arab Emirates leadership formally supported the joint BRICS declaration calling for war restraint and regional stability on the sidelines of the New Delhi summit.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
+      "dateLocation": "2026-09-12 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Military Redirects 100 Ships Over Iran Blockade",
+      "whyItMatters": "Ongoing maritime disruptions severely impact global shipping routes and oil transit.",
+      "brief": "The United States military announced that approximately 100 ships have been redirected over the past two months to bypass ongoing Iranian maritime blockades in the region.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-military-says-100-ships-redirects-in-past-two-months-of-iran-blockade/article71461351.ece",
+      "dateLocation": "2026-09-12 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Decomposed Body of Jaish Terrorist Found in Doda",
+      "whyItMatters": "Security operations uncover hidden militant infrastructure in Jammu and Kashmir.",
+      "brief": "Security forces in Jammu and Kashmir's Doda district recovered the decomposed body of a suspected Jaish-e-Mohammed terrorist alongside an M4 assault rifle.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/decomposed-body-of-pak-jaish-terrorist-m4-rifle-found-in-doda/articleshow/134149836.cms",
+      "dateLocation": "2026-09-12 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
