@@ -1,102 +1,129 @@
 {
-  "lastUpdated": "2026-09-12T20:09:27.615Z",
+  "lastUpdated": "2026-09-13T03:01:15.919Z",
   "ticker": [
-    "BRICS summit adopts joint declaration in New Delhi",
-    "RBI rejects Tata Sons public listing exemption request",
-    "Anthropic CEO calls for slowing down AI development pace",
-    "US military reports 100 ships redirected amid Iran blockade",
-    "Decomposed body of Jaish terrorist found in J&K's Doda"
+    "BRICS nations adopt New Delhi declaration",
+    "RBI rejects Tata Sons public listing exemption",
+    "Modi and Xi hold bilateral talks in Delhi",
+    "HDFC Bank submits candidates for next CEO",
+    "Iran conflict triggers fresh Middle East travel risks"
   ],
   "articles": [
     {
-      "headline": "Anthropic CEO Calls for Slowing AI Race",
-      "whyItMatters": "Major tech leaders urge caution over unchecked artificial intelligence progress.",
-      "brief": "Anthropic CEO Dario Amodei has called for slowing down AI development to maintain safety control, drawing support from prominent figures like Sam Altman and Elon Musk.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-calls-on-ai-firms-to-slow-pace-of-developmen-gets-backing-from-sam-altman-elon-musk/articleshow/134146825.cms",
-      "dateLocation": "2026-09-12 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "BRICS Nations Adopt New Delhi Declaration",
+      "whyItMatters": "Crucial global coalition addresses geopolitical headwinds, security reforms, and regional stability.",
+      "brief": "BRICS leaders at the New Delhi summit adopted a joint declaration focusing on nuclear danger risks, Mideast restraint, and UN security council reforms.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece",
+      "dateLocation": "September 13, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Mark Zuckerberg Returns to X for AI Launch",
-      "whyItMatters": "Meta CEO utilizes competitor platform to amplify new technological developments.",
-      "brief": "Meta CEO Mark Zuckerberg made a surprising return to Elon Musk's X platform to unveil Meta's latest AI innovation, engaging directly with engineering communities.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-him-do-it/articleshow/134147562.cms",
-      "dateLocation": "2026-09-12 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Modi and Xi Push Bilateral Ties",
+      "whyItMatters": "A thawing of India-China relations impacts global trade dynamics and regional security.",
+      "brief": "Prime Minister Modi and President Xi Jinping met during the BRICS summit to discuss business links, border peace, and stable bilateral relations.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD?oc=5",
+      "dateLocation": "September 13, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "HDFC Bank Submits Successor Candidates to RBI",
-      "whyItMatters": "India's largest private lender prepares for crucial leadership transition.",
-      "brief": "HDFC Bank has officially submitted two candidate names to the Reserve Bank of India to succeed current leadership as its next Managing Director and CEO.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjdMbW15NHlUVGNJZHhBaUJxWFZRUi1aSVNsYTBCb1p4T2VyRzdEZWYzZUhGZ0tCQUo0eXNBRkt1RE43T1RKSWg3R2xRX1ljTkpzandKaG9JVzJ3QlhtTk04cll5QXVLd0M0V3MwWU9ycnZIalZzOU10NGxQUjFwTTN3M3BHbzBMWXpadmRmYkxlVWZxTkJzdmNlU08yb3RMTEE?oc=5",
-      "dateLocation": "2026-09-12 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "RBI Rejects Tata Sons Public Listing Exemption",
-      "whyItMatters": "Removes escape route, paving way for massive public market listing.",
-      "brief": "The Reserve Bank of India has rejected Tata Sons' request to avoid public listing, forcing the massive conglomerate closer to a mandatory market debut.",
+      "headline": "RBI Rejects Tata Sons Listing Exemption",
+      "whyItMatters": "Forces a massive ₹2.01 lakh crore corporate entity into a mandatory public market debut.",
+      "brief": "The Reserve Bank of India has rejected Tata Sons' request to avoid public listing, paving the way for a massive market entry.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5",
-      "dateLocation": "2026-09-12 | Reuters",
+      "dateLocation": "September 13, 2026 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Xi Urges BRICS Peace Role in Middle East",
-      "whyItMatters": "Global powers realign strategic diplomatic priorities during New Delhi summit.",
-      "brief": "Chinese President Xi Jinping urged BRICS nations to play an active peace role in the Middle East while meeting Indian Prime Minister Narendra Modi during the summit.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hwaW9IeTRsWlZUMXI0TnRSYUhSM0ZNZVRXUHpQM0NKMHJIMlhJaFZZUUJYRE5PbEpvSjg4bDFxT0FVQUp1X0hHSUhOcXJjOFZpaDY3RmRMeFpFT0VaZVlQWG12ZlZJQ3BjdF9MMVJXYUxHV0xwQjVJWGstZWpJYWxlM2pmMzBCdFc5d1NCeE5IWENOUC1Id1ZfZGJDMkMwckY5Y082T2NLOEk?oc=5",
-      "dateLocation": "2026-09-12 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "HDFC Bank Submits CEO Candidates",
+      "whyItMatters": "Leadership transition at India's largest private bank dictates future financial sector strategies.",
+      "brief": "India's HDFC Bank has submitted a shortlist of two candidates to the Reserve Bank of India for its upcoming CEO succession.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjdMbW15NHlUVGNJZHhBaUJxWFZRUi1aSVNsYTBCb1p4T2VyRzdEZWYzZUhGZ0tCQUo0eXNBRkt1RE43T1RKSWg3R2xRX1ljTkpzandKaG9JVzJ3QlhtTk04cll5QXVLd0M0V3MwWU9ycnZIalZzOU10NGxQUjFwTTN3M3BHbzBMWXpadmRmYkxlVWZxTkJzdmNlU08yb3RMTEE?oc=5",
+      "dateLocation": "September 13, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BRICS Bloc Adopts Joint Middle East Declaration",
-      "whyItMatters": "Member nations unite to advocate diplomatic restraint amidst regional conflicts.",
-      "brief": "The BRICS summit concluded its first day by adopting a joint declaration urging maximum restraint in West Asia and condemning regional acts of terror.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZERlSkNRYWwycnZ4Y1Nwc1RXSXU3WTFLbmFLVnJGOWhfWjdvTzZiTGJVWVpSWHFWWXB1TTh0STE5QkM2VUlabV9DaENCYXJ2djY1OUhfVjUzbTZWdVVHbjRLTlBNLURPYnNlQU1WSzdYZWxzSk51b0ZQS0Y2N0hndGJPMnF3bW9MUjJSWk80cFkxZVUyXzRFVTdwVGtIQVF0S2Z6RkdqQWFOSGdWZnVV?oc=5",
-      "dateLocation": "2026-09-12 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tesla to Unveil Roadster in October",
+      "whyItMatters": "Reignites consumer interest in high-performance electric vehicles amidst intense global market competition.",
+      "brief": "Elon Musk announced that Tesla will finally unveil its long-delayed next-generation Roadster electric sports car on October 1.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVZJUGlQN185ek5VWXktaDYwaHNCcFpqYzVmM3Y0XzdOay1vdWprNGMzUGxrYTd6Vmk5MzJfNGNCZW9tckhQcjIwUUlJVGpGUWUxTkF4YjM2ZUFXajhVd2RtSWdXQXV1SG1JeDZlbWMzZ2YzMWhTYnMyNEFYS2QxNHVOZGJ2aFM1MklUclUzT18xZm9Ga0ZuX0FCOFpFRldLOVhZdURTaDJTVkJOcjB1OWtRQTE?oc=5",
+      "dateLocation": "September 13, 2026 | Austin",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and China Push Border Peace and Trade",
-      "whyItMatters": "Bilateral relations thaw significantly between the two Asian economic giants.",
-      "brief": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping pushed for strengthened business links and lasting border peace as bilateral ties experience a cautious thaw.",
+      "headline": "Mark Zuckerberg Returns to X",
+      "whyItMatters": "Cross-platform engagement by tech giants highlights shifting tactics in artificial intelligence marketing.",
+      "brief": "Meta CEO Mark Zuckerberg returned to Elon Musk's platform X after three years to unveil and discuss Meta's new AI model, Muse.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-it-do-it/articleshow/134147562.cms",
+      "dateLocation": "September 13, 2026 | Menlo Park",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Houthi Advance in Yemen Strains US",
+      "whyItMatters": "Escalating regional conflicts threaten vital global shipping lanes and international energy supplies.",
+      "brief": "Recent military advancements by Houthi forces in Yemen amid ongoing Middle East tensions have placed Washington in a strategic dilemma.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
+      "dateLocation": "September 13, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Chile Arrests 284 in Dictatorship Protests",
+      "whyItMatters": "Reflects deep historical divisions and modern civil unrest over South America's authoritarian past.",
+      "brief": "Chilean authorities arrested 284 individuals during intense demonstrations condemning the historical legacy of the Pinochet dictatorship.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/chile-arrests-284-in-protests-condemning-pinochet-dictatorship/article71462462.ece",
+      "dateLocation": "September 13, 2026 | Santiago",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Magnus Carlsen Suffers Rare Defeat",
+      "whyItMatters": "Shakes up professional chess standings and brings intense competitive drama to ongoing global tournaments.",
+      "brief": "Chess grandmaster Magnus Carlsen experienced his first defeat in current tournament play as Alireza Firouzja's team secured a major upset.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/a-crazy-day-of-chess-magnus-carlsen-loses-for-first-time-boosts-javokhir-sindarovs-gcl-final-hopes-only-to-donied/articleshow/134171949.cms",
+      "dateLocation": "September 13, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Full-Strength India Face Afghanistan",
+      "whyItMatters": "Serves as a crucial tactical precursor for international multi-sport athletic events.",
+      "brief": "A full-strength Indian cricket squad led by Shreyas Iyer prepares to take on Afghanistan in an action-packed T20I series opener.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/game-time-after-injury-hiccups-full-strength-india-take-on-afghanistan-in-first-t20i/articleshow/134173420.cms",
+      "dateLocation": "September 13, 2026 | Bengaluru",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Padel and Pickleball Fuel Injury Surge",
+      "whyItMatters": "The rapid popularity shift in recreational sports is introducing entirely new physical therapy trends globally.",
+      "brief": "Sports medicine specialists report a significant influx of patients seeking physiotherapy due to rapid physical strains from playing padel and pickleball.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/padel-pickleball-boom-brings-a-new-wave-of-sports-injuries-to-physiotherapists/articleshow/134171051.cms",
+      "dateLocation": "September 13, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Venice Film Festival Awards Golden Lion",
+      "whyItMatters": "Highlights groundbreaking international cinematic achievements and elevates emerging directing talents.",
+      "brief": "The film 'Woman Unknown' clinched the top prize at the Venice Film Festival as female filmmakers triumphed across major categories.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD?oc=5",
-      "dateLocation": "2026-09-12 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNS1KQzUwQkhZVjRVS09iZ3NLWVUyTU1ZaW4zRnhiTnRWaG9sd3VSOTAxaUhQNVVIc09KUWRoWm1tcjdmSWpTbl95eWZyZFR2ZE1fcnVqQUJxdWlNRVQtRXp6NkdoOUY1OGpQbTZlN2RweVlvc3NNRVpWa1pkMUxvb3EtNTNCWjZ0Y0w4UkRPb2lqX1lYVGt6aWRKWG5iLUJvbG1WZlhB?oc=5",
+      "dateLocation": "September 13, 2026 | Venice",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran and UAE Back Joint BRICS Statement",
-      "whyItMatters": "Middle Eastern rivals align on multilateral diplomatic messaging during crisis.",
-      "brief": "Iranian and United Arab Emirates leadership formally supported the joint BRICS declaration calling for war restraint and regional stability on the sidelines of the New Delhi summit.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0hxYi1hRXRlN01ldlJFSmk4ZDVnS1c0NE8xMm5PWXJFT3Vpd2prTWI4TGl5UTd6c1JKS24xVXpvOGpRY1VsYUUxQVk0TDVmNElEMUxLYnB4c2NfUWxmQWN0N21LWUY1TkZNc1pQWHczRUdhYTVJbEpiZXZPVi16SnZCdVN5eWotZ2dJaGt3UkNFdGF2NzUtTTFMU1dsR2EzcEpiQVRvRFFmaE1HdWZXSko1bVl3d2YyTGZPRUpGTEE5MW92SjJJNA?oc=5",
-      "dateLocation": "2026-09-12 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Military Redirects 100 Ships Over Iran Blockade",
-      "whyItMatters": "Ongoing maritime disruptions severely impact global shipping routes and oil transit.",
-      "brief": "The United States military announced that approximately 100 ships have been redirected over the past two months to bypass ongoing Iranian maritime blockades in the region.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-military-says-100-ships-redirects-in-past-two-months-of-iran-blockade/article71461351.ece",
-      "dateLocation": "2026-09-12 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Decomposed Body of Jaish Terrorist Found in Doda",
-      "whyItMatters": "Security operations uncover hidden militant infrastructure in Jammu and Kashmir.",
-      "brief": "Security forces in Jammu and Kashmir's Doda district recovered the decomposed body of a suspected Jaish-e-Mohammed terrorist alongside an M4 assault rifle.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/decomposed-body-of-pak-jaish-terrorist-m4-rifle-found-in-doda/articleshow/134149836.cms",
-      "dateLocation": "2026-09-12 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Blue Collar Uniform Hub Expands Operations",
+      "whyItMatters": "Reflects structural changes in industrial safety requirements and frontline worker service demands.",
+      "brief": "Chennai's primary industrial garment hub reports major expansions and increased bulk orders driven by stricter safety gear requirements.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/news/cities/chennai/the-blue-collar-uniform-hub-of-chennai-aligns-with-the-times-and-grows-bigger/article71462469.ece",
+      "dateLocation": "September 13, 2026 | Chennai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
