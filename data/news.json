@@ -1,129 +1,75 @@
 {
-  "lastUpdated": "2026-09-13T03:01:15.919Z",
+  "lastUpdated": "2026-09-13T11:02:58.633Z",
   "ticker": [
-    "BRICS nations adopt New Delhi declaration",
-    "RBI rejects Tata Sons public listing exemption",
-    "Modi and Xi hold bilateral talks in Delhi",
-    "HDFC Bank submits candidates for next CEO",
-    "Iran conflict triggers fresh Middle East travel risks"
+    "Modi and Xi hold high-level bilateral talks at Delhi BRICS summit",
+    "RBI rejects Tata Sons request to bypass public listing rules",
+    "Russia and Ukraine trade heavy strikes on energy and refining infrastructure",
+    "Joe Root shatters historical records with fourth-innings Test dominance",
+    "China launches world's first commercial underwater data center off Shanghai"
   ],
   "articles": [
     {
-      "headline": "BRICS Nations Adopt New Delhi Declaration",
-      "whyItMatters": "Crucial global coalition addresses geopolitical headwinds, security reforms, and regional stability.",
-      "brief": "BRICS leaders at the New Delhi summit adopted a joint declaration focusing on nuclear danger risks, Mideast restraint, and UN security council reforms.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece",
-      "dateLocation": "September 13, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Modi and Xi Push Bilateral Ties",
-      "whyItMatters": "A thawing of India-China relations impacts global trade dynamics and regional security.",
-      "brief": "Prime Minister Modi and President Xi Jinping met during the BRICS summit to discuss business links, border peace, and stable bilateral relations.",
+      "headline": "Modi and Xi Push for Business Links and Border Peace",
+      "whyItMatters": "Crucial for stabilizing geopolitical tensions and trade relations between two Asian economic powerhouses.",
+      "brief": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping met during the BRICS summit to discuss business links, regional stability, and easing long-standing border tensions.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD?oc=5",
-      "dateLocation": "September 13, 2026 | New Delhi",
+      "dateLocation": "2026-09-13 | New Delhi / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "RBI Rejects Tata Sons Listing Exemption",
-      "whyItMatters": "Forces a massive ₹2.01 lakh crore corporate entity into a mandatory public market debut.",
-      "brief": "The Reserve Bank of India has rejected Tata Sons' request to avoid public listing, paving the way for a massive market entry.",
+      "headline": "RBI Rejects Tata Sons Request to Avoid Public Listing",
+      "whyItMatters": "Sets a strict regulatory precedent for massive Indian conglomerates seeking exemptions from core financial rules.",
+      "brief": "The Reserve Bank of India has turned down Tata Sons' application to surrender its NBFC license, mandating an immediate public listing for the holding company.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5",
-      "dateLocation": "September 13, 2026 | Mumbai",
+      "dateLocation": "2026-09-13 | Mumbai / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "HDFC Bank Submits CEO Candidates",
-      "whyItMatters": "Leadership transition at India's largest private bank dictates future financial sector strategies.",
-      "brief": "India's HDFC Bank has submitted a shortlist of two candidates to the Reserve Bank of India for its upcoming CEO succession.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjdMbW15NHlUVGNJZHhBaUJxWFZRUi1aSVNsYTBCb1p4T2VyRzdEZWYzZUhGZ0tCQUo0eXNBRkt1RE43T1RKSWg3R2xRX1ljTkpzandKaG9JVzJ3QlhtTk04cll5QXVLd0M0V3MwWU9ycnZIalZzOU10NGxQUjFwTTN3M3BHbzBMWXpadmRmYkxlVWZxTkJzdmNlU08yb3RMTEE?oc=5",
-      "dateLocation": "September 13, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tesla to Unveil Roadster in October",
-      "whyItMatters": "Reignites consumer interest in high-performance electric vehicles amidst intense global market competition.",
-      "brief": "Elon Musk announced that Tesla will finally unveil its long-delayed next-generation Roadster electric sports car on October 1.",
+      "headline": "China Deploys 2,000 Seawater-Cooled Servers Off Shanghai",
+      "whyItMatters": "Pioneers sustainable oceanic data infrastructure with massive energy and water-saving efficiencies.",
+      "brief": "China has activated a 24MW underwater data center near Shanghai, plunging 2,000 servers into pressure-resistant modules powered directly by an offshore wind farm.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVZJUGlQN185ek5VWXktaDYwaHNCcFpqYzVmM3Y0XzdOay1vdWprNGMzUGxrYTd6Vmk5MzJfNGNCZW9tckhQcjIwUUlJVGpGUWUxTkF4YjM2ZUFXajhVd2RtSWdXQXV1SG1JeDZlbWMzZ2YzMWhTYnMyNEFYS2QxNHVOZGJ2aFM1MklUclUzT18xZm9Ga0ZuX0FCOFpFRldLOVhZdURTaDJTVkJOcjB1OWtRQTE?oc=5",
-      "dateLocation": "September 13, 2026 | Austin",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/china-has-put-2000-servers-in-sea-near-shanghai-taking-off-from-a-microsoft-project-that-shutdown-in-2020-where-the-company-sank-855-servers-in-north-sea/articleshow/134190348.cms",
+      "dateLocation": "2026-09-13 | Shanghai / Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Mark Zuckerberg Returns to X",
-      "whyItMatters": "Cross-platform engagement by tech giants highlights shifting tactics in artificial intelligence marketing.",
-      "brief": "Meta CEO Mark Zuckerberg returned to Elon Musk's platform X after three years to unveil and discuss Meta's new AI model, Muse.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-returned-to-elon-musks-x-after-three-years-in-2026-meta-ceo-tells-its-these-engineers-and-researchers-who-made-it-do-it/articleshow/134147562.cms",
-      "dateLocation": "September 13, 2026 | Menlo Park",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Houthi Advance in Yemen Strains US",
-      "whyItMatters": "Escalating regional conflicts threaten vital global shipping lanes and international energy supplies.",
-      "brief": "Recent military advancements by Houthi forces in Yemen amid ongoing Middle East tensions have placed Washington in a strategic dilemma.",
+      "headline": "Russia and Ukraine Exchange Intense Strikes on Energy Infrastructure",
+      "whyItMatters": "Escalates the ongoing war's economic toll by targeting critical fuel and power networks on both sides.",
+      "brief": "Russian forces launched overnight attacks on southern Ukrainian power sites, while Kyiv's forces retaliated by targeting a vital oil-refining hub deep inside Russian territory.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkd2T3JFYkQtX1BpRFMwdUY5V0tXY0xuX1JpY3cwa2hEZmxKRWVSdGtNQkR5dFBIT2JPanlxM0N3WjA5YVVpZExUOFJIWG1MZTNLUXNrTXZaZDRLRnFac2Vkclp3eWhkaTFUNEZrdGk4RzBYTmVVV1kwMHRJWHdXbGs3Z3U5VlZ1eldGOGJXLTU5d3B2NUE?oc=5",
-      "dateLocation": "September 13, 2026 | Washington",
+      "sourceUrl": "https://www.livemint.com/news/world/russia-strikes-ukraine-power-sites-as-kyiv-targets-refining-hub-11789290960216.html",
+      "dateLocation": "2026-09-13 | Moscow/Kyiv / Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Chile Arrests 284 in Dictatorship Protests",
-      "whyItMatters": "Reflects deep historical divisions and modern civil unrest over South America's authoritarian past.",
-      "brief": "Chilean authorities arrested 284 individuals during intense demonstrations condemning the historical legacy of the Pinochet dictatorship.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/chile-arrests-284-in-protests-condemning-pinochet-dictatorship/article71462462.ece",
-      "dateLocation": "September 13, 2026 | Santiago",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Magnus Carlsen Suffers Rare Defeat",
-      "whyItMatters": "Shakes up professional chess standings and brings intense competitive drama to ongoing global tournaments.",
-      "brief": "Chess grandmaster Magnus Carlsen experienced his first defeat in current tournament play as Alireza Firouzja's team secured a major upset.",
+      "headline": "Joe Root Becomes First Batter to Score 2,000 Fourth-Innings Runs",
+      "whyItMatters": "Cements his legendary status by breaking a legendary 147-year-old Test cricket record.",
+      "brief": "England batter Joe Root achieved an unprecedented milestone in Test cricket history by surpassing two thousand runs in fourth innings during a thrilling victory against Pakistan.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/a-crazy-day-of-chess-magnus-carlsen-loses-for-first-time-boosts-javokhir-sindarovs-gcl-final-hopes-only-to-donied/articleshow/134171949.cms",
-      "dateLocation": "September 13, 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-achieves-what-no-batter-has-done-in-147-years-of-test-cricket-becomes-first-batter-to-score-2000-fourth-innings-runs/articleshow/134191220.cms",
+      "dateLocation": "2026-09-13 | Edgbaston / Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Full-Strength India Face Afghanistan",
-      "whyItMatters": "Serves as a crucial tactical precursor for international multi-sport athletic events.",
-      "brief": "A full-strength Indian cricket squad led by Shreyas Iyer prepares to take on Afghanistan in an action-packed T20I series opener.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/game-time-after-injury-hiccups-full-strength-india-take-on-afghanistan-in-first-t20i/articleshow/134173420.cms",
-      "dateLocation": "September 13, 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "DRDO Develops Indigenous GaN Technology for Advanced Radars",
+      "whyItMatters": "Strengthens national defense capabilities with homegrown semiconductor technology for next-generation military hardware.",
+      "brief": "India's DRDO has successfully developed an indigenous Gallium Nitride technology chip capable of delivering up to 30W power for next-gen radars and electronic warfare.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/drdo-develops-indigenous-gan-technology-for-next-gen-radars-electronic-warfare-tiny-3-53-mm-chip-delivers-up-to-30w-power-defence-ministry-report/articleshow/134191238.cms",
+      "dateLocation": "2026-09-13 | New Delhi / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Padel and Pickleball Fuel Injury Surge",
-      "whyItMatters": "The rapid popularity shift in recreational sports is introducing entirely new physical therapy trends globally.",
-      "brief": "Sports medicine specialists report a significant influx of patients seeking physiotherapy due to rapid physical strains from playing padel and pickleball.",
+      "headline": "Expert Guide on Longevity and Healthspan Through Racket Sports",
+      "whyItMatters": "Offers actionable medical insights into maintaining long-term physical wellness and healthy aging.",
+      "brief": "Leading longevity physicians highlight the significant health benefits of regular movement and racket sports in achieving a healthier, longer lifespan in modern populations.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/padel-pickleball-boom-brings-a-new-wave-of-sports-injuries-to-physiotherapists/articleshow/134171051.cms",
-      "dateLocation": "September 13, 2026 | New Delhi",
+      "sourceUrl": "https://www.thehindu.com/videos/health-wrap-episode-50-longevity-and-racket-sports/article71460821.ece",
+      "dateLocation": "2026-09-13 | Chennai / The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Venice Film Festival Awards Golden Lion",
-      "whyItMatters": "Highlights groundbreaking international cinematic achievements and elevates emerging directing talents.",
-      "brief": "The film 'Woman Unknown' clinched the top prize at the Venice Film Festival as female filmmakers triumphed across major categories.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNS1KQzUwQkhZVjRVS09iZ3NLWVUyTU1ZaW4zRnhiTnRWaG9sd3VSOTAxaUhQNVVIc09KUWRoWm1tcjdmSWpTbl95eWZyZFR2ZE1fcnVqQUJxdWlNRVQtRXp6NkdoOUY1OGpQbTZlN2RweVlvc3NNRVpWa1pkMUxvb3EtNTNCWjZ0Y0w4UkRPb2lqX1lYVGt6aWRKWG5iLUJvbG1WZlhB?oc=5",
-      "dateLocation": "September 13, 2026 | Venice",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Blue Collar Uniform Hub Expands Operations",
-      "whyItMatters": "Reflects structural changes in industrial safety requirements and frontline worker service demands.",
-      "brief": "Chennai's primary industrial garment hub reports major expansions and increased bulk orders driven by stricter safety gear requirements.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/cities/chennai/the-blue-collar-uniform-hub-of-chennai-aligns-with-the-times-and-grows-bigger/article71462469.ece",
-      "dateLocation": "September 13, 2026 | Chennai",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
