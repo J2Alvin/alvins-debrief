@@ -1,129 +1,102 @@
 {
-  "lastUpdated": "2026-09-13T15:34:14.329Z",
+  "lastUpdated": "2026-09-13T20:16:59.077Z",
   "ticker": [
-    "Saudi pipeline outage threatens global oil",
-    "BRICS summit concludes with major economic pacts",
-    "India condemns commercial vessel attack off Oman",
-    "RBI rejects Tata Sons public listing exemption",
-    "Speculators turn net long on yen for first time"
+    "Saudi pipeline outage threatens 4% of global oil supply",
+    "BRICS summit adopts New Delhi Declaration backing Palestinian state",
+    "India beats Sri Lanka to win 8th Asia Cup title",
+    "Russian drone strikes train near Ukraine-Poland border",
+    "India central bank rejects Tata Sons public listing exemption"
   ],
   "articles": [
     {
       "headline": "Saudi Pipeline Outage Threatens Global Oil Supply",
-      "whyItMatters": "A major outage could instantly hike energy prices worldwide.",
-      "brief": "A pipeline outage in Saudi Arabia threatens a potential loss of 4% of the global oil supply, sparking immediate energy market concerns.",
+      "whyItMatters": "Critical disruption risks driving up global fuel prices significantly.",
+      "brief": "A major pipeline outage in Saudi Arabia threatens the loss of 4 percent of the global oil supply, intensifying energy market volatility.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5",
-      "dateLocation": "2026-09-13 | Reuters",
+      "dateLocation": "Sept 13, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "RBI Rejects Tata Sons Public Listing Request",
-      "whyItMatters": "It forces massive corporate restructuring within India's top conglomerate.",
-      "brief": "India's central bank has officially rejected Tata Sons' request to avoid mandatory public listing, according to insider sources.",
+      "headline": "RBI Rejects Tata Sons Public Listing Exemption",
+      "whyItMatters": "Sets a strict precedent for regulatory compliance among India's major conglomerates.",
+      "brief": "The Reserve Bank of India has rejected Tata Sons' request to bypass public listing mandates, according to sources.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5",
-      "dateLocation": "2026-09-13 | Reuters",
+      "dateLocation": "Sept 13, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Xi Pushes 'Greater BRICS' Economic Integration",
-      "whyItMatters": "Reshapes global trade networks away from Western hegemony.",
-      "brief": "Chinese President Xi Jinping is strongly pushing for expanded BRICS economic ties to grant the developing bloc a much larger global role.",
+      "headline": "Xi Pushes Greater BRICS Economic Ties",
+      "whyItMatters": "Aims to reshape traditional economic power structures and counter Western influence.",
+      "brief": "Chinese President Xi Jinping advocated for expanded Greater BRICS economic ties to give the bloc a larger global role during the summit.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFpydUdTZlpsZXo4YUE2eTl5N1ZHaXMta1F0bDVram5Wd05nWlBzdl9OZWF0STBhZFBiandFZGYtT0xPaWpIYlpvQ2tsUHJDbUpUS0kxdU50NGtmSEJqaFlBajJPaFpjZDFqb0RMT01FZVg1cnBmQzNtODlIa0pTandBajFTaDVDVVQ3bjlmbTUzejAwU2tCTlBQUE9NaUNfVVJXMFBIZ0Z1UHN1c3pLUTNrYUl5RWNRbTJCUGFJSE1zM2cwalRvWQ?oc=5",
-      "dateLocation": "2026-09-13 | Reuters",
+      "dateLocation": "Sept 13, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Zaporizhzhia Plant Endangered After Fuel Truck Attack",
-      "whyItMatters": "Escalates nuclear safety risks amid the ongoing Russia-Ukraine conflict.",
-      "brief": "The Russian nuclear head stated that Ukraine attacked fuel trucks, severely endangering the security of the Zaporizhzhia nuclear plant.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFYySWw1NWJ0UTM5Nk9pckRNeE5Ka3JIcHVuN0JFZEtmTUJKekZyT2NXSlBVdTJPeUZrc1Q5R0o3V0hPS3dlbkZHNUpxckFJZEQ3VWVQNFVnMVYwN0dXR0lBNXpkcEdJTlVoZG9yVi1aUmoyUDdrN3VDWmxkRnF6TDZNdm9TLUhha3d3R1cySFpWd0lBMmlPcTAxZktuZFVOc1cxZExwUFBLVHNRaG1YLWZkS0JWalU0V0JJWkE1T2xDOXR4Z3p4LTR3?oc=5",
-      "dateLocation": "2026-09-13 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hyundai Motor to Launch In-House Driver-Assist System",
-      "whyItMatters": "Aims to rival major autonomous driving players in the EV era.",
-      "brief": "Hyundai Motor announced plans to roll out its proprietary in-house driver-assistance system by the year 2029.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVhXVEpKMlIzcFp1cW5CS3VMQVZ4OE9NMWFJbnJ5V29Sdk1nZ1NTbXFhZGpFM0dfN2NKQ1l4aTdDUFVUb2tYaExkbVZiSFRZSVdfMm1sNzJLT1JlckY2TVROWHVlcFNzc1VybXp0SjZUWmkxV3pIQlo2QWxnTjNUOERpWEE1Ym1rTXBpNXZnaEFIbkN4cFV1SWpvLTZraDliTmdoeUZrRzVMSmVRU19mUW05UngwNDl6LTNOaXF3SUI?oc=5",
-      "dateLocation": "2026-09-13 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tesla to Unveil Long-Delayed Roadster on Oct. 1",
-      "whyItMatters": "Generates massive hype and technological benchmarks for EV enthusiasts.",
-      "brief": "Elon Musk announced that Tesla will finally unveil its long-delayed next-generation Roadster electric sports car on October 1.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVZJUGlQN185ek5VWXktaDYwaHNCcFpqYzVmM3Y0XzdOay1vdWprNGMzUGxrYTd6Vmk5MzJfNGNCZW9tckhQcjIwUUlJVGpGUWUxTkF4YjM2ZUFXajhVd2RtSWdXQXV1SG1JeDZlbWMzZ2YzMWhTYnMyNEFYS2QxNHVOZGJ2aFM1MklUclUzT18xZm9Ga0ZuX0FCOFpFRldLOVhZdURTaDJTVkJOcjB1OWtRQTE?oc=5",
-      "dateLocation": "2026-09-13 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Speculators Turn Net Long on Yen for First Time",
-      "whyItMatters": "Signals a massive shift in currency market sentiment and monetary policy.",
-      "brief": "Market speculators have turned net long on the Japanese yen for the first time since February, reflecting changing global interest rate expectations.",
+      "headline": "Speculators Turn Net Long on Yen",
+      "whyItMatters": "Signals a notable shift in market sentiment toward the Japanese currency.",
+      "brief": "Market speculators have turned net long on the Japanese yen for the first time since February amid changing economic conditions.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVh0SVo5eDhlZlBSX1U5RVFnWTM5Wk5PWWs5WENsOWhOMTBCN0pQcVhiN2tXS1NSaUNHZjNFbnFRSWFEUThieVQ3NjR6NXp1NnBDN2xBbzBIQ3ktZHpmanpKc3FSM3dQQzVPZ2F5X2UyVTFpUEtSVHM2ZUF3a3NhZmhWWTJpRHpGcWUwOFVyYS0wODJ0Wmw5UWszYlRxVDZwQWpURVpjRUdWWEx4ZFFZ?oc=5",
-      "dateLocation": "2026-09-13 | Reuters",
+      "dateLocation": "Sept 13, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UK Nations Unite in Push for Independence Referendums",
-      "whyItMatters": "Threatens the constitutional integrity of the United Kingdom.",
-      "brief": "Leaders in Scotland, Wales, and Northern Ireland are planning a joint declaration to demand the right to hold independence referendums.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/scotland-wales-and-northern-ireland-unite-over-the-uk-s-future-will-burnham-be-the-last-pm-of-the-union-explained-11789299860842.html",
-      "dateLocation": "2026-09-13 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tesla to Unveil Long-Delayed Roadster in October",
+      "whyItMatters": "Revives long-standing consumer anticipation for Tesla's high-performance vehicle line.",
+      "brief": "Elon Musk announced that Tesla will finally unveil its long-delayed Roadster sports car on October 1.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVZJUGlQN185ek5VWXktaDYwaHNCcFpqYzVmM3Y0XzdOay1vdWprNGMzUGxrYTd6Vmk5MzJfNGNCZW9tckhQcjIwUUlJVGpGUWUxTkF4YjM2ZUFXajhVd2RtSWdXQXV1SG1JeDZlbWMzZ2YzMWhTYnMyNEFYS2QxNHVOZGJ2aFM1MklUclUzT18xZm9Ga0ZuX0FCOFpFRldLOVhZdURTaDJTVkJOcjB1OWtRQTE?oc=5",
+      "dateLocation": "Sept 13, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Condemns Attack on Commercial Vessel Off Oman",
-      "whyItMatters": "Highlights growing security threats to maritime shipping lanes in West Asia.",
-      "brief": "India strongly condemned an attack on a commercial vessel off the coast of Oman, confirming that 13 Indian crew members were safely rescued.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/unacceptable-india-condemns-attack-on-commercial-vessel-off-oman-13-indians-rescued/articleshow/134203824.cms",
-      "dateLocation": "2026-09-13 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PwC India and US Join to Form Consulting Giant",
-      "whyItMatters": "Creates a massive 40,000-strong consulting powerhouse with Indian operational control.",
-      "brief": "PwC India and the US have united to create a 40,000-strong consulting joint venture, giving India significant operational control.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/pwc-india-us-to-create-40000-strong-consulting-jv-india-to-get-operating-control/articleshow/134183372.cms",
-      "dateLocation": "2026-09-13 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "First Time Ever: Vande Mataram Sung Before Anthem",
-      "whyItMatters": "Marks a cultural and protocol precedent at international cricket events.",
-      "brief": "The national song Vande Mataram was sung for the very first time before the National Anthem at an international cricket match.",
+      "headline": "India Women Claim Eighth Asia Cup Title",
+      "whyItMatters": "Reinforces India's undisputed dominance in women's cricket across the region.",
+      "brief": "Led by Harmanpreet Kaur, India defeated Sri Lanka by 72 runs to secure their record-extending eighth Asia Cup title.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/why-vande-mataram-was-sung-before-national-anthem-in-india-vs-afghanistan-t20i-in-delhi/articleshow/134206904.cms",
-      "dateLocation": "2026-09-13 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece",
+      "dateLocation": "Sept 13, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tasmanian Devil Introduction Wiped Out Penguin Colony",
-      "whyItMatters": "Demonstrates the unintended ecological fallout of wildlife conservation programs.",
-      "brief": "A conservation project that introduced Tasmanian devils to Maria Island inadvertently led to the complete disappearance of a 3,000-pair penguin colony.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/in-2012-tasmania-moved-15-devils-to-maria-island-to-protect-the-species-from-facial-tumour-disease-after-28-were-released-by-2013-a-3000-pair-penguin-colony-disappeared/articleshow/134202337.cms",
-      "dateLocation": "2026-09-13 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Russian Drone Hits Train Near Poland Border",
+      "whyItMatters": "Escalates risks near NATO borders shortly after European dignitaries visit the area.",
+      "brief": "A Russian drone struck a train near the Ukraine-Poland border minutes after a diplomatic train carrying European officials passed through.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/russian-drone-hits-train-near-ukraine-poland-border-soon-after-boris-johnson-other-visiting-dignitaries-passed-through/article71464480.ece",
+      "dateLocation": "Sept 13, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Historic 4 AM Diplomatic Breakthrough at BRICS Summit",
-      "whyItMatters": "Showcases India's diplomatic capacity to bridge deep geopolitical divides.",
-      "brief": "India successfully cracked tough diplomatic deadlock at the BRICS summit through intense late-night negotiations in a heavily divided room.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/brics-2026-india-cracks-the-code-in-a-divided-room-with-4-am-talks-diplomatic-heavy-lifting/articleshow/134183728.cms",
-      "dateLocation": "2026-09-13 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Dhiraj Bommadevara Wins Historic World Cup Gold",
+      "whyItMatters": "Marks a historic milestone for Indian archery on the global stage.",
+      "brief": "Dhiraj Bommadevara made history by becoming the first Indian male recurve archer to win a World Cup final gold medal.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/dhiraj-bommadevara-scripts-history-becomes-first-indian-male-recurve-archer-to-win-world-cup-final-gold/articleshow/134220322.cms",
+      "dateLocation": "Sept 13, 2026 | The Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mark Zuckerberg's Secret Project AI Native Plan",
+      "whyItMatters": "Highlights aggressive corporate restructuring toward an automated, AI-driven workforce model.",
+      "brief": "Reports reveal Mark Zuckerberg ran a secret project to make Meta AI native, exploring scenarios that reduced team sizes significantly.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms",
+      "dateLocation": "Sept 13, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BRICS Delhi Declaration Backs Sovereign Palestinian State",
+      "whyItMatters": "Demonstrates a unified diplomatic stance from developing economies on the Middle East conflict.",
+      "brief": "The BRICS summit concluded with the New Delhi Declaration explicitly backing a sovereign Palestinian state and opposing displacement in Gaza.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/brics-delhi-declaration-backs-sovereign-palestinian-state-opposes-gaza-displacement/articleshow/134218737.cms",
+      "dateLocation": "Sept 13, 2026 | The Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
