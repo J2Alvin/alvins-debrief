@@ -1,75 +1,129 @@
 {
-  "lastUpdated": "2026-09-13T11:02:58.633Z",
+  "lastUpdated": "2026-09-13T15:34:14.329Z",
   "ticker": [
-    "Modi and Xi hold high-level bilateral talks at Delhi BRICS summit",
-    "RBI rejects Tata Sons request to bypass public listing rules",
-    "Russia and Ukraine trade heavy strikes on energy and refining infrastructure",
-    "Joe Root shatters historical records with fourth-innings Test dominance",
-    "China launches world's first commercial underwater data center off Shanghai"
+    "Saudi pipeline outage threatens global oil",
+    "BRICS summit concludes with major economic pacts",
+    "India condemns commercial vessel attack off Oman",
+    "RBI rejects Tata Sons public listing exemption",
+    "Speculators turn net long on yen for first time"
   ],
   "articles": [
     {
-      "headline": "Modi and Xi Push for Business Links and Border Peace",
-      "whyItMatters": "Crucial for stabilizing geopolitical tensions and trade relations between two Asian economic powerhouses.",
-      "brief": "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping met during the BRICS summit to discuss business links, regional stability, and easing long-standing border tensions.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFlybEpEZWtDbThQdk9OMFR0bFA0dmZtcUZLSEo2a0djT2xmanVSRlFRWVBRelg3dEUxTUJ1VW5zSWpFZDhGVzJHQWtxS2JkNm9XQUFFSUVTZjRDVTZ4RWd2YzZZZmZYNVAzOGdLWE9ZUzFBb0VKMXRTVXVtdjIyRFlORkZvaUc0ODBxcWRuVDhOTjc0WmdWamtZcmRPQmZoUi1jTmYxa0o4UUtD?oc=5",
-      "dateLocation": "2026-09-13 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "RBI Rejects Tata Sons Request to Avoid Public Listing",
-      "whyItMatters": "Sets a strict regulatory precedent for massive Indian conglomerates seeking exemptions from core financial rules.",
-      "brief": "The Reserve Bank of India has turned down Tata Sons' application to surrender its NBFC license, mandating an immediate public listing for the holding company.",
+      "headline": "Saudi Pipeline Outage Threatens Global Oil Supply",
+      "whyItMatters": "A major outage could instantly hike energy prices worldwide.",
+      "brief": "A pipeline outage in Saudi Arabia threatens a potential loss of 4% of the global oil supply, sparking immediate energy market concerns.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5",
-      "dateLocation": "2026-09-13 | Mumbai / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5",
+      "dateLocation": "2026-09-13 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Deploys 2,000 Seawater-Cooled Servers Off Shanghai",
-      "whyItMatters": "Pioneers sustainable oceanic data infrastructure with massive energy and water-saving efficiencies.",
-      "brief": "China has activated a 24MW underwater data center near Shanghai, plunging 2,000 servers into pressure-resistant modules powered directly by an offshore wind farm.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/china-has-put-2000-servers-in-sea-near-shanghai-taking-off-from-a-microsoft-project-that-shutdown-in-2020-where-the-company-sank-855-servers-in-north-sea/articleshow/134190348.cms",
-      "dateLocation": "2026-09-13 | Shanghai / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russia and Ukraine Exchange Intense Strikes on Energy Infrastructure",
-      "whyItMatters": "Escalates the ongoing war's economic toll by targeting critical fuel and power networks on both sides.",
-      "brief": "Russian forces launched overnight attacks on southern Ukrainian power sites, while Kyiv's forces retaliated by targeting a vital oil-refining hub deep inside Russian territory.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/russia-strikes-ukraine-power-sites-as-kyiv-targets-refining-hub-11789290960216.html",
-      "dateLocation": "2026-09-13 | Moscow/Kyiv / Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Joe Root Becomes First Batter to Score 2,000 Fourth-Innings Runs",
-      "whyItMatters": "Cements his legendary status by breaking a legendary 147-year-old Test cricket record.",
-      "brief": "England batter Joe Root achieved an unprecedented milestone in Test cricket history by surpassing two thousand runs in fourth innings during a thrilling victory against Pakistan.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-achieves-what-no-batter-has-done-in-147-years-of-test-cricket-becomes-first-batter-to-score-2000-fourth-innings-runs/articleshow/134191220.cms",
-      "dateLocation": "2026-09-13 | Edgbaston / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "DRDO Develops Indigenous GaN Technology for Advanced Radars",
-      "whyItMatters": "Strengthens national defense capabilities with homegrown semiconductor technology for next-generation military hardware.",
-      "brief": "India's DRDO has successfully developed an indigenous Gallium Nitride technology chip capable of delivering up to 30W power for next-gen radars and electronic warfare.",
+      "headline": "RBI Rejects Tata Sons Public Listing Request",
+      "whyItMatters": "It forces massive corporate restructuring within India's top conglomerate.",
+      "brief": "India's central bank has officially rejected Tata Sons' request to avoid mandatory public listing, according to insider sources.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/drdo-develops-indigenous-gan-technology-for-next-gen-radars-electronic-warfare-tiny-3-53-mm-chip-delivers-up-to-30w-power-defence-ministry-report/articleshow/134191238.cms",
-      "dateLocation": "2026-09-13 | New Delhi / Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5",
+      "dateLocation": "2026-09-13 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Expert Guide on Longevity and Healthspan Through Racket Sports",
-      "whyItMatters": "Offers actionable medical insights into maintaining long-term physical wellness and healthy aging.",
-      "brief": "Leading longevity physicians highlight the significant health benefits of regular movement and racket sports in achieving a healthier, longer lifespan in modern populations.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/videos/health-wrap-episode-50-longevity-and-racket-sports/article71460821.ece",
-      "dateLocation": "2026-09-13 | Chennai / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Xi Pushes 'Greater BRICS' Economic Integration",
+      "whyItMatters": "Reshapes global trade networks away from Western hegemony.",
+      "brief": "Chinese President Xi Jinping is strongly pushing for expanded BRICS economic ties to grant the developing bloc a much larger global role.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFpydUdTZlpsZXo4YUE2eTl5N1ZHaXMta1F0bDVram5Wd05nWlBzdl9OZWF0STBhZFBiandFZGYtT0xPaWpIYlpvQ2tsUHJDbUpUS0kxdU50NGtmSEJqaFlBajJPaFpjZDFqb0RMT01FZVg1cnBmQzNtODlIa0pTandBajFTaDVDVVQ3bjlmbTUzejAwU2tCTlBQUE9NaUNfVVJXMFBIZ0Z1UHN1c3pLUTNrYUl5RWNRbTJCUGFJSE1zM2cwalRvWQ?oc=5",
+      "dateLocation": "2026-09-13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Zaporizhzhia Plant Endangered After Fuel Truck Attack",
+      "whyItMatters": "Escalates nuclear safety risks amid the ongoing Russia-Ukraine conflict.",
+      "brief": "The Russian nuclear head stated that Ukraine attacked fuel trucks, severely endangering the security of the Zaporizhzhia nuclear plant.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFYySWw1NWJ0UTM5Nk9pckRNeE5Ka3JIcHVuN0JFZEtmTUJKekZyT2NXSlBVdTJPeUZrc1Q5R0o3V0hPS3dlbkZHNUpxckFJZEQ3VWVQNFVnMVYwN0dXR0lBNXpkcEdJTlVoZG9yVi1aUmoyUDdrN3VDWmxkRnF6TDZNdm9TLUhha3d3R1cySFpWd0lBMmlPcTAxZktuZFVOc1cxZExwUFBLVHNRaG1YLWZkS0JWalU0V0JJWkE1T2xDOXR4Z3p4LTR3?oc=5",
+      "dateLocation": "2026-09-13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hyundai Motor to Launch In-House Driver-Assist System",
+      "whyItMatters": "Aims to rival major autonomous driving players in the EV era.",
+      "brief": "Hyundai Motor announced plans to roll out its proprietary in-house driver-assistance system by the year 2029.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVhXVEpKMlIzcFp1cW5CS3VMQVZ4OE9NMWFJbnJ5V29Sdk1nZ1NTbXFhZGpFM0dfN2NKQ1l4aTdDUFVUb2tYaExkbVZiSFRZSVdfMm1sNzJLT1JlckY2TVROWHVlcFNzc1VybXp0SjZUWmkxV3pIQlo2QWxnTjNUOERpWEE1Ym1rTXBpNXZnaEFIbkN4cFV1SWpvLTZraDliTmdoeUZrRzVMSmVRU19mUW05UngwNDl6LTNOaXF3SUI?oc=5",
+      "dateLocation": "2026-09-13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tesla to Unveil Long-Delayed Roadster on Oct. 1",
+      "whyItMatters": "Generates massive hype and technological benchmarks for EV enthusiasts.",
+      "brief": "Elon Musk announced that Tesla will finally unveil its long-delayed next-generation Roadster electric sports car on October 1.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVZJUGlQN185ek5VWXktaDYwaHNCcFpqYzVmM3Y0XzdOay1vdWprNGMzUGxrYTd6Vmk5MzJfNGNCZW9tckhQcjIwUUlJVGpGUWUxTkF4YjM2ZUFXajhVd2RtSWdXQXV1SG1JeDZlbWMzZ2YzMWhTYnMyNEFYS2QxNHVOZGJ2aFM1MklUclUzT18xZm9Ga0ZuX0FCOFpFRldLOVhZdURTaDJTVkJOcjB1OWtRQTE?oc=5",
+      "dateLocation": "2026-09-13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Speculators Turn Net Long on Yen for First Time",
+      "whyItMatters": "Signals a massive shift in currency market sentiment and monetary policy.",
+      "brief": "Market speculators have turned net long on the Japanese yen for the first time since February, reflecting changing global interest rate expectations.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVh0SVo5eDhlZlBSX1U5RVFnWTM5Wk5PWWs5WENsOWhOMTBCN0pQcVhiN2tXS1NSaUNHZjNFbnFRSWFEUThieVQ3NjR6NXp1NnBDN2xBbzBIQ3ktZHpmanpKc3FSM3dQQzVPZ2F5X2UyVTFpUEtSVHM2ZUF3a3NhZmhWWTJpRHpGcWUwOFVyYS0wODJ0Wmw5UWszYlRxVDZwQWpURVpjRUdWWEx4ZFFZ?oc=5",
+      "dateLocation": "2026-09-13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UK Nations Unite in Push for Independence Referendums",
+      "whyItMatters": "Threatens the constitutional integrity of the United Kingdom.",
+      "brief": "Leaders in Scotland, Wales, and Northern Ireland are planning a joint declaration to demand the right to hold independence referendums.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/scotland-wales-and-northern-ireland-unite-over-the-uk-s-future-will-burnham-be-the-last-pm-of-the-union-explained-11789299860842.html",
+      "dateLocation": "2026-09-13 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Condemns Attack on Commercial Vessel Off Oman",
+      "whyItMatters": "Highlights growing security threats to maritime shipping lanes in West Asia.",
+      "brief": "India strongly condemned an attack on a commercial vessel off the coast of Oman, confirming that 13 Indian crew members were safely rescued.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/unacceptable-india-condemns-attack-on-commercial-vessel-off-oman-13-indians-rescued/articleshow/134203824.cms",
+      "dateLocation": "2026-09-13 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PwC India and US Join to Form Consulting Giant",
+      "whyItMatters": "Creates a massive 40,000-strong consulting powerhouse with Indian operational control.",
+      "brief": "PwC India and the US have united to create a 40,000-strong consulting joint venture, giving India significant operational control.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/pwc-india-us-to-create-40000-strong-consulting-jv-india-to-get-operating-control/articleshow/134183372.cms",
+      "dateLocation": "2026-09-13 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "First Time Ever: Vande Mataram Sung Before Anthem",
+      "whyItMatters": "Marks a cultural and protocol precedent at international cricket events.",
+      "brief": "The national song Vande Mataram was sung for the very first time before the National Anthem at an international cricket match.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/why-vande-mataram-was-sung-before-national-anthem-in-india-vs-afghanistan-t20i-in-delhi/articleshow/134206904.cms",
+      "dateLocation": "2026-09-13 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tasmanian Devil Introduction Wiped Out Penguin Colony",
+      "whyItMatters": "Demonstrates the unintended ecological fallout of wildlife conservation programs.",
+      "brief": "A conservation project that introduced Tasmanian devils to Maria Island inadvertently led to the complete disappearance of a 3,000-pair penguin colony.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/in-2012-tasmania-moved-15-devils-to-maria-island-to-protect-the-species-from-facial-tumour-disease-after-28-were-released-by-2013-a-3000-pair-penguin-colony-disappeared/articleshow/134202337.cms",
+      "dateLocation": "2026-09-13 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Historic 4 AM Diplomatic Breakthrough at BRICS Summit",
+      "whyItMatters": "Showcases India's diplomatic capacity to bridge deep geopolitical divides.",
+      "brief": "India successfully cracked tough diplomatic deadlock at the BRICS summit through intense late-night negotiations in a heavily divided room.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/brics-2026-india-cracks-the-code-in-a-divided-room-with-4-am-talks-diplomatic-heavy-lifting/articleshow/134183728.cms",
+      "dateLocation": "2026-09-13 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
