@@ -1,84 +1,120 @@
 {
-  "lastUpdated": "2026-09-14T11:44:01.562Z",
+  "lastUpdated": "2026-09-14T17:38:06.788Z",
   "ticker": [
-    "Fed rate hike bets grow as inflation concerns persist globally.",
-    "Saudi pipeline risks threaten significant global oil supply disruptions.",
-    "China's spy chief warns against emerging AI cognitive warfare threats.",
-    "India seizes massive contraband shipments routed via UAE transshipments.",
-    "Kashmiri Pandits observe Balidan Diwas reiterating homeland and justice demands."
+    "India Inflation Rises to 4.82% in August",
+    "Brent Nears $110 Amid Deepening West Asia Conflict",
+    "Trump Moves to Scrap Biden-Era Power Plant Carbon Limits",
+    "China's Spy Chief Warns of National Security AI Risks",
+    "Oracle Launches Fresh Wave of Global Employee Layoffs"
   ],
   "articles": [
     {
-      "headline": "Gold Falls on Growing Fed Rate Hike Expectations",
-      "whyItMatters": "Signals shifts in global monetary policy and investor sentiment amidst lingering inflation.",
-      "brief": "Gold prices declined as markets increasingly price in potential Federal Reserve rate hikes following persistent inflation data ahead of the policy meeting.",
+      "headline": "India Inflation Rises to 4.82% in August",
+      "whyItMatters": "Heightens pressure on central banks to consider rate hikes.",
+      "brief": "India's retail inflation accelerated to 4.82% in August driven by higher food costs, strengthening the case for potential interest rate hikes.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmx1T0lGQjE3MEJmVkdNRXl5eXpxRzNrQk0zQUJzdGNqcXhEWTA3TW5iZVFIVDBuTVZ3ZU5EWHVRektNVVlXUFpfV29tNmlPcHZtVXQzOF9Oa055ZEloY3p6UEpvMTAtNWtHekV1MTVUbzNnZVhqU25aZjQ2aW1UZDB4aktQdjI0MGlZRnZueUN4eGRJWEdreWJXdF9fMTNhTVNOVTdKQ1JKQQ?oc=5",
-      "dateLocation": "2026-09-14 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjkzaUlTSVF5ekc4elYyR2p6NXNFYXJSVzFGdkhoTWxNTmlVRnBpV012SlRiVG5wUlY3aTRZUmpkQ1I0cmJvYWtlVHRZTnlwaUVvVVNMVk5YWFU2dVY3VnlDMmNuWFM3RTFwdzc1dkVBUDhtUGx1eE9YVGhRaFo3T1ZtNEVLMkVyUW5YSDhGNEZfVXdX?oc=5",
+      "dateLocation": "September 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Arabia Faces Critical Oil Export Pipeline Disruptions",
-      "whyItMatters": "Threatens global energy supply stability and increases crude shipping operational costs.",
-      "brief": "Traders warn that Saudi Arabia risks exhausting its oil export stocks within days if the key East-West pipeline remains shut due to ongoing regional clashes.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/world/saudihouthis-clash-traders-expect-riyadh-to-run-out-of-oil-stocks-soon-if-work-on-east-west-pipeline-doesnt-resume-11789372007752.html",
-      "dateLocation": "2026-09-14 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Fed Rate Hike Likely on Wednesday, Poll Shows",
+      "whyItMatters": "Signals continued aggressive monetary tightening by global central banks.",
+      "brief": "A Reuters poll indicates a Federal Reserve rate hike is now likely on Wednesday, with economists projecting at least one more to follow soon.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
+      "dateLocation": "September 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China's Spy Chief Warns of AI Cognitive Warfare",
-      "whyItMatters": "Highlights escalating geopolitical tensions involving advanced technology and national security.",
-      "brief": "China's top security official has flagged artificial intelligence threats, explicitly warning against rising cognitive warfare and risks to national sovereignty.",
+      "headline": "China's Spy Chief Warns of National Security AI Risks",
+      "whyItMatters": "Highlights growing state-level apprehension over foreign exploitation of artificial intelligence.",
+      "brief": "China's Minister of State Security warned that foreign intelligence agencies are heavily exploiting web crawlers and data mining tools to compromise national data and secrets.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/chinas-spy-chief-flags-ai-threat-warns-of-cognitive-warfare-threats-to-security/articleshow/134240223.cms",
-      "dateLocation": "2026-09-14 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/chinas-spy-chief-warns-of-national-security-risks-from-ai/article71466340.ece",
+      "dateLocation": "September 14, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "DRI Seizes 362 Tonnes of Smuggled Pakistan Dates",
-      "whyItMatters": "Exposes complex transshipment networks used to bypass national import bans.",
-      "brief": "Under Operation Deep Manifest, Indian authorities intercepted 13 containers in Nashik carrying Pakistan-origin dry dates routed deceptively via the UAE.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/dri-seizes-362-tonnes-pakistan-dates-india-import-ban-uae-jebel-ali-operation-deep-manifest-11789379011851.html",
-      "dateLocation": "2026-09-14 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Europe Faces Unprecedented Risk of Being Cut Off From AI",
+      "whyItMatters": "Exposes regional tech dependencies and the urgency for sovereign infrastructure.",
+      "brief": "European Central Bank officials warned that the continent faces a severe risk of technological isolation and lagging behind in crucial artificial intelligence advancement.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEJidFNRQ1I5MGgydDNteUNFSGpyc0R6WEZ5RGRnQ3JBLXZfdVdnUHVpZVJxaG8zMFlIMDNucm5UM3huWVNYa1FZNmtGZk03VEY2aHJFSHBvU0ZVN1JydTVmTko0UHNJc0Z3N0d2UTU3aW5VWUtma3hiNDR3X2FybnJpTW5iMS1VYUU1ZmhLdkY4ZzlCYzVrZW1TbUR5R0VjTmdTWjdTd3UzUVh2Q2NuTC1ObEt1QU0?oc=5",
+      "dateLocation": "September 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Amit Shah Targets 2029 Uniform Civil Code Rollout",
-      "whyItMatters": "Marks a major legislative push for nationwide legal uniformity across NDA-governed states.",
-      "brief": "Union Home Minister Amit Shah outlined plans for a 2029 Uniform Civil Code rollout across 21 NDA states, noting current implementation progress.",
+      "headline": "Brent Nears $110 as West Asia Conflict Deepens",
+      "whyItMatters": "Threatens global energy security and stokes inflationary pressures worldwide.",
+      "brief": "Crude oil prices spiked toward $110 a barrel following delayed Hormuz negotiations and escalating regional conflicts affecting key supply routes.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/brent-nears-110-a-barrel-as-west-asia-conflict-deepens-hormuz-talks-delayed-11789391149565.html",
+      "dateLocation": "September 14, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gadkari’s Tolling Plan Could Unlock Rs 25,000 Cr",
+      "whyItMatters": "Significantly impacts national highway infrastructure funding and logistics costs.",
+      "brief": "India plans to make all national highway toll plazas barrier-free by 2027, a shift expected to massively boost government transportation revenues.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/roadways/nitin-gadkari-says-by-2027-all-national-highway-toll-plazas-will-go-barrier-free-how-new-tolling-system-could-boost-govt-revenue-by-up-to-rs-25000-crore-a-year/articleshow/134244594.cms",
+      "dateLocation": "September 14, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Moves to Scrap Biden-Era Power Plant Carbon Limits",
+      "whyItMatters": "Reverses key U.S. climate policy and signals major deregulation for fossil fuels.",
+      "brief": "The Trump administration has initiated steps to repeal strict emission limits on coal and gas power plants, unleashing domestic energy production despite environmental pushback.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/uniform-civil-code-amit-shah-targets-2029-rollout-across-21-nda-states-where-is-already-in-force-11789372433501.html",
-      "dateLocation": "2026-09-14 | LiveMint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/unleash-american-energy-trump-moves-to-scrap-biden-era-carbon-limits-on-us-coal-gas-power-plants/articleshow/134244398.cms",
+      "dateLocation": "September 14, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Refuses Asia Cup Trophy From Pakistani Official",
-      "whyItMatters": "Underscores ongoing diplomatic and sporting tensions between neighboring nations.",
-      "brief": "The Indian women's cricket team declined to accept the Women's Asia Cup trophy from ACC president Mohsin Naqvi following their tournament victory.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/we-should-not-play-pakistan-world-cup-winner-reacts-after-india-refuse-asia-cup-trophy-from-mohsin-naqvi/articleshow/134239238.cms",
-      "dateLocation": "2026-09-14 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Rajasthan Civic Poll Results Show Enduring BJP Dominance",
+      "whyItMatters": "Provides a crucial political barometer ahead of upcoming regional assembly elections.",
+      "brief": "The BJP secured victories across multiple municipal corporations in Rajasthan, cementing its political standing while delivering a warning to opposition parties.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece",
+      "dateLocation": "September 14, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Himalayas Approach Ecological Tipping Point, Report Warns",
-      "whyItMatters": "Puts millions of regional livelihoods and critical environmental stability at extreme risk.",
-      "brief": "A major new scientific report highlights that the Himalayan ecosystem is rapidly nearing a critical tipping point, endangering millions who rely on its resources.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2tTdmlLTEY1Z09ndW01LWl3dDRCU1hzY1lIandTZjVaUm1KRTEyQzFmTi1mZlZqMEREbVJGb0lqd1d1d2h3N3RObFBKdnJXUlBkaGQtMGY0SVZDNlNJcXNOTGZ2dGF6SnVudUpnMmktRTU3TnROTWRHWDVMdmZZb25oSEp2MEc5YWl2VlFRN19qYTNQMHlOckdtaXR1dF9MMkl6QmhGOHVEVll1Tm9ib1NYN1ptbUlsY1ZEb1BuSUtCUQ?oc=5",
-      "dateLocation": "2026-09-14 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Scottish, Welsh, Northern Irish Leaders Assert Self-Determination",
-      "whyItMatters": "Reflects growing political fragmentation and constitutional debates within the United Kingdom.",
-      "brief": "Nationalist leaders from Scotland, Wales, and Northern Ireland have collectively asserted their right to political self-determination and paths toward breaking away.",
+      "headline": "Partition Push: Scotland, Wales, and NI Discuss UK Exit",
+      "whyItMatters": "Reignites deep constitutional crises over the future integrity of the United Kingdom.",
+      "brief": "Leaders from Scotland, Wales, and Northern Ireland convened to promote joint independence efforts, pushing for closer economic alignment with the European Union.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/scottish-northern-irish-welsh-leaders-assert-right-to-self-determination/article71465923.ece",
-      "dateLocation": "2026-09-14 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/world/partition-in-uk-scotland-wales-and-northern-ireland-push-for-exit-from-united-kingdom-europe-is-our-common-home-11789392780803.html",
+      "dateLocation": "September 14, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Sets ₹7 Million Bounty on Masood Azhar",
+      "whyItMatters": "Aims to satisfy global watchdog requirements ahead of an upcoming FATF review.",
+      "brief": "Pakistan placed a significant bounty on terrorist Masood Azhar ahead of the Financial Action Task Force plenary meeting to avoid returning to the grey list.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/pakistan-sets-7-million-bounty-on-masood-azhar-ahead-of-fatf-review-terrorist-linked-to-pathankot-pulwama-attacks-11789391263647.html",
+      "dateLocation": "September 14, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oracle Begins New Wave of Global Workforce Layoffs",
+      "whyItMatters": "Highlights ongoing tech industry restructuring and cost-cutting measures amid economic shifts.",
+      "brief": "Oracle employees across various global divisions reported unexpected early-morning termination notices, reflecting rising restructuring costs exceeding $2.8 billion.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms",
+      "dateLocation": "September 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Mercosur Expand Comprehensive Trade Pact",
+      "whyItMatters": "Expands market diversification strategies for emerging developing economies.",
+      "brief": "India and the South American trade bloc Mercosur announced plans to broaden their existing trade pact to navigate global economic volatility.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/india-south-american-bloc-mercosur-announce-plan-to-expand-trade-pact-11789403133176.html",
+      "dateLocation": "September 14, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
