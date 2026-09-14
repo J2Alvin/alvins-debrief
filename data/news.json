@@ -1,102 +1,147 @@
 {
-  "lastUpdated": "2026-09-13T20:16:59.077Z",
+  "lastUpdated": "2026-09-14T03:15:43.208Z",
   "ticker": [
-    "Saudi pipeline outage threatens 4% of global oil supply",
-    "BRICS summit adopts New Delhi Declaration backing Palestinian state",
-    "India beats Sri Lanka to win 8th Asia Cup title",
-    "Russian drone strikes train near Ukraine-Poland border",
-    "India central bank rejects Tata Sons public listing exemption"
+    "Oil prices surge past $107 following fresh strikes on Saudi infrastructure",
+    "US-Iran conflict escalates as oil supply fears mount globally",
+    "Alexander Zverev clinches US Open title defeating Ben Shelton",
+    "Swedish election ends in tight dead heat with opposition leading",
+    "Iran nuclear chief blocked from attending IAEA meeting in Vienna"
   ],
   "articles": [
     {
-      "headline": "Saudi Pipeline Outage Threatens Global Oil Supply",
-      "whyItMatters": "Critical disruption risks driving up global fuel prices significantly.",
-      "brief": "A major pipeline outage in Saudi Arabia threatens the loss of 4 percent of the global oil supply, intensifying energy market volatility.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5",
-      "dateLocation": "Sept 13, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "RBI Rejects Tata Sons Public Listing Exemption",
-      "whyItMatters": "Sets a strict precedent for regulatory compliance among India's major conglomerates.",
-      "brief": "The Reserve Bank of India has rejected Tata Sons' request to bypass public listing mandates, according to sources.",
+      "headline": "Oil Prices Surge Following Fresh Middle East Strikes",
+      "whyItMatters": "Spiking oil prices threaten global economic stability and escalate regional conflict risks.",
+      "brief": "Brent crude futures climbed over 3% past $108 per barrel following new military strikes targeting Saudi infrastructure and the Strait of Hormuz.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5",
-      "dateLocation": "Sept 13, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/business/markets/oil-prices-jump-more-than-3-after-new-strikes-on-saudi-strait-of-hormuz/article71465318.ece",
+      "dateLocation": "Sept 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Xi Pushes Greater BRICS Economic Ties",
-      "whyItMatters": "Aims to reshape traditional economic power structures and counter Western influence.",
-      "brief": "Chinese President Xi Jinping advocated for expanded Greater BRICS economic ties to give the bloc a larger global role during the summit.",
+      "headline": "Trump Hints at US Control Over Iranian Oil",
+      "whyItMatters": "Signals a radical shift in American foreign policy and long-term Mideast intervention strategies.",
+      "brief": "President Trump suggested the US could take Venezuela-style control of Iranian oil resources following the ongoing military conflict.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/trump-eyes-iran-oil-hints-at-venezuela-style-us-control-after-war/articleshow/134230938.chinese",
+      "dateLocation": "Sept 14, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Swedish General Election Ends in Dead Heat",
+      "whyItMatters": "Political shifts in Sweden could alter European Union policy directions and Nordic security cooperation.",
+      "brief": "Preliminary results show Sweden's election in a near dead heat, with the opposition holding a narrow one-seat majority pending overseas ballots.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/swedish-election-ends-in-near-dead-heat-preliminary-results-give-opposition-1-seat-majority/article71465312.ece",
+      "dateLocation": "Sept 14, 2026 | Stockholm",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Amazon Halts Operations With Cargo Carrier 21 Air",
+      "whyItMatters": "Highlights intense supply chain vetting and aviation safety scrutiny following fatal crashes.",
+      "brief": "Amazon paused operations with 21 Air after a fatal cargo plane crash at Miami International Airport claimed five lives.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/us-news/amazon-pauses-operations-with-21-air-carrier-operating-aircraft-that-overshot-the-runway-at-miami-airport-killing-five-11789351880819.html",
+      "dateLocation": "Sept 14, 2026 | Seattle",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Alexander Zverev Wins US Open Title",
+      "whyItMatters": "Marks a significant career milestone and reshapes the current hierarchy of professional tennis.",
+      "brief": "Alexander Zverev triumphed over American contender Ben Shelton to capture the prestigious US Open championship title.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/tennis/alexander-zverev-beats-americas-ben-shelton-to-win-us-open-title/articleshow/134229946.cms",
+      "dateLocation": "Sept 14, 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Women Snub Trophy Over Political Tensions",
+      "whyItMatters": "Reflects deep geopolitical friction spilling over into regional athletic competitions and diplomacy.",
+      "brief": "The Indian women's cricket team refused to accept the Asia Cup trophy from Pakistan Cricket Board head Mohsin Naqvi.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/we-cant-receive-the-trophy-from-him-why-india-snubbed-mohsin-naqvi-again-devajit-saikia-explains/articleshow/134229998.cms",
+      "dateLocation": "Sept 14, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Nuclear Chief Blocked From IAEA Meeting",
+      "whyItMatters": "Deepens diplomatic isolation of Tehran amid escalating international nuclear compliance tensions.",
+      "brief": "A top Iranian nuclear official was barred from addressing the IAEA general conference in Vienna following heavy US diplomatic pressure.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/iranian-official-blocked-from-un-nuclear-meeting-at-us-s-urging-11789339124139.html",
+      "dateLocation": "Sept 14, 2026 | Vienna",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ford Pushes Back Against US Transport Secretary",
+      "whyItMatters": "Exposes policy friction between Washington leadership and American automakers regarding Chinese tech partnerships.",
+      "brief": "Ford dismissed US Transportation Secretary Sean Duffy's criticisms regarding its Chinese manufacturing partnerships as factually inaccurate political theater.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/upset-ford-responds-to-us-transportation-secretarys-letter-to-ceo-jim-farley-says-your-letter-is-factually-wrong-ford-is-the-most-american-automaker-we-/articleshow/134230793.cms",
+      "dateLocation": "Sept 14, 2026 | Detroit",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India & Asian Peers Pile Up $7.4B LNG Spot Bill",
+      "whyItMatters": "Demonstrates the severe fiscal cost of energy market volatility on emerging Asian economies.",
+      "brief": "Surging liquefied natural gas spot prices force major Asian importers to radically rethink long-term procurement and energy security strategies.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-asian-peers-pile-up-7-4-billion-spot-gas-bill-turning-wary-of-lng/articleshow/134230770.cms",
+      "dateLocation": "Sept 14, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "David Sacks Criticizes AI Slowdown Proposals",
+      "whyItMatters": "Intensifies Silicon Valley debates over regulatory oversight, market dominance, and commercial artificial intelligence deployment.",
+      "brief": "Tech investor David Sacks blasted calls by OpenAI and Anthropic to slow AI development, labeling them self-serving financial tactics.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-david-sacks-to-sam-altman-and-dario-amodeis-call-to-slowdown-ai-development-stop-pretending-and-fooling-everyone-go-ahead-and-/articleshow/134230837.cms",
+      "dateLocation": "Sept 14, 2026 | San Francisco",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Central Bank Rejects Tata Sons Public Listing Bid",
+      "whyItMatters": "Reinforces stringent financial regulatory compliance standards for systemically important non-banking financial companies.",
+      "brief": "The Reserve Bank of India reportedly rejected Tata Sons' request to bypass mandatory public listing rules for major conglomerates.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5",
+      "dateLocation": "Sept 14, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maratha Quota Activist Warns of Hunger Strike",
+      "whyItMatters": "Threatens significant political disruption and public transit paralysis in India's commercial capital.",
+      "brief": "Manoj Jarange Patil issued an eight-day ultimatum, threatening an indefinite fast at Mumbai's Azad Maidan over reservation demands.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/maratha-quota-battle-heads-to-mumbai-activist-manoj-jarange-patil-warns-of-fast-unto-death-at-azad-maidan-11789323910846.html",
+      "dateLocation": "Sept 14, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "North Korea Conducts Destructive Live-Fire Drill",
+      "whyItMatters": "Escalates security anxieties across the Korean peninsula following renewed ballistic missile testing.",
+      "brief": "Pyongyang confirmed executing its first public ballistic missile drills in three weeks, demonstrating significant destructive capabilities.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/international/north-korea-says-its-recent-live-fire-drill-demonstrated-huge-destructive-power/article71465327.ece",
+      "dateLocation": "Sept 14, 2026 | Seoul",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Xi Jinping Pushes 'Greater BRICS' Economic Ties",
+      "whyItMatters": "Aims to reshape global trade architecture and diminish Western economic hegemony through expanded alliances.",
+      "brief": "Chinese President Xi Jinping advocated for deeper economic integration within BRICS nations to establish a larger global governance role.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFpydUdTZlpsZXo4YUE2eTl5N1ZHaXMta1F0bDVram5Wd05nWlBzdl9OZWF0STBhZFBiandFZGYtT0xPaWpIYlpvQ2tsUHJDbUpUS0kxdU50NGtmSEJqaFlBajJPaFpjZDFqb0RMT01FZVg1cnBmQzNtODlIa0pTandBajFTaDVDVVQ3bjlmbTUzejAwU2tCTlBQUE9NaUNfVVJXMFBIZ0Z1UHN1c3pLUTNrYUl5RWNRbTJCUGFJSE1zM2cwalRvWQ?oc=5",
-      "dateLocation": "Sept 13, 2026 | Reuters",
+      "dateLocation": "Sept 14, 2026 | Beijing",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Speculators Turn Net Long on Yen",
-      "whyItMatters": "Signals a notable shift in market sentiment toward the Japanese currency.",
-      "brief": "Market speculators have turned net long on the Japanese yen for the first time since February amid changing economic conditions.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVh0SVo5eDhlZlBSX1U5RVFnWTM5Wk5PWWs5WENsOWhOMTBCN0pQcVhiN2tXS1NSaUNHZjNFbnFRSWFEUThieVQ3NjR6NXp1NnBDN2xBbzBIQ3ktZHpmanpKc3FSM3dQQzVPZ2F5X2UyVTFpUEtSVHM2ZUF3a3NhZmhWWTJpRHpGcWUwOFVyYS0wODJ0Wmw5UWszYlRxVDZwQWpURVpjRUdWWEx4ZFFZ?oc=5",
-      "dateLocation": "Sept 13, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tesla to Unveil Long-Delayed Roadster in October",
-      "whyItMatters": "Revives long-standing consumer anticipation for Tesla's high-performance vehicle line.",
-      "brief": "Elon Musk announced that Tesla will finally unveil its long-delayed Roadster sports car on October 1.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVZJUGlQN185ek5VWXktaDYwaHNCcFpqYzVmM3Y0XzdOay1vdWprNGMzUGxrYTd6Vmk5MzJfNGNCZW9tckhQcjIwUUlJVGpGUWUxTkF4YjM2ZUFXajhVd2RtSWdXQXV1SG1JeDZlbWMzZ2YzMWhTYnMyNEFYS2QxNHVOZGJ2aFM1MklUclUzT18xZm9Ga0ZuX0FCOFpFRldLOVhZdURTaDJTVkJOcjB1OWtRQTE?oc=5",
-      "dateLocation": "Sept 13, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Women Claim Eighth Asia Cup Title",
-      "whyItMatters": "Reinforces India's undisputed dominance in women's cricket across the region.",
-      "brief": "Led by Harmanpreet Kaur, India defeated Sri Lanka by 72 runs to secure their record-extending eighth Asia Cup title.",
+      "headline": "US Fighter Pilot Survives 50 Hours Behind Enemy Lines",
+      "whyItMatters": "Underscores high-stakes military rescue capabilities and ongoing covert operations in contested regional conflicts.",
+      "brief": "A downed US Air Force officer successfully survived nearly two days evading capture in Iranian territory before a complex rescue.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece",
-      "dateLocation": "Sept 13, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/shot-down-over-iran-hunted-for-50-hrs-how-us-fighter-survived-behind-enemy-lines/articleshow/134230639.cms",
+      "dateLocation": "Sept 14, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russian Drone Hits Train Near Poland Border",
-      "whyItMatters": "Escalates risks near NATO borders shortly after European dignitaries visit the area.",
-      "brief": "A Russian drone struck a train near the Ukraine-Poland border minutes after a diplomatic train carrying European officials passed through.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/russian-drone-hits-train-near-ukraine-poland-border-soon-after-boris-johnson-other-visiting-dignitaries-passed-through/article71464480.ece",
-      "dateLocation": "Sept 13, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Dhiraj Bommadevara Wins Historic World Cup Gold",
-      "whyItMatters": "Marks a historic milestone for Indian archery on the global stage.",
-      "brief": "Dhiraj Bommadevara made history by becoming the first Indian male recurve archer to win a World Cup final gold medal.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/dhiraj-bommadevara-scripts-history-becomes-first-indian-male-recurve-archer-to-win-world-cup-final-gold/articleshow/134220322.cms",
-      "dateLocation": "Sept 13, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mark Zuckerberg's Secret Project AI Native Plan",
-      "whyItMatters": "Highlights aggressive corporate restructuring toward an automated, AI-driven workforce model.",
-      "brief": "Reports reveal Mark Zuckerberg ran a secret project to make Meta AI native, exploring scenarios that reduced team sizes significantly.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ceo-mark-zuckerberg-ran-a-secret-project-to-make-the-company-ai-native-asked-teams-to-study-impact-of-/articleshow/134212125.cms",
-      "dateLocation": "Sept 13, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BRICS Delhi Declaration Backs Sovereign Palestinian State",
-      "whyItMatters": "Demonstrates a unified diplomatic stance from developing economies on the Middle East conflict.",
-      "brief": "The BRICS summit concluded with the New Delhi Declaration explicitly backing a sovereign Palestinian state and opposing displacement in Gaza.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/brics-delhi-declaration-backs-sovereign-palestinian-state-opposes-gaza-displacement/articleshow/134218737.cms",
-      "dateLocation": "Sept 13, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
