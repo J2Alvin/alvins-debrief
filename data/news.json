@@ -1,119 +1,137 @@
 {
-  "lastUpdated": "2026-09-14T17:38:06.788Z",
+  "lastUpdated": "2026-09-14T21:26:08.959Z",
   "ticker": [
     "India Inflation Rises to 4.82% in August",
     "Brent Nears $110 Amid Deepening West Asia Conflict",
-    "Trump Moves to Scrap Biden-Era Power Plant Carbon Limits",
-    "China's Spy Chief Warns of National Security AI Risks",
-    "Oracle Launches Fresh Wave of Global Employee Layoffs"
+    "Europe Faces Unprecedented Risk of AI Cutoff",
+    "Oracle Resumes Global Layoffs With 6 AM Emails",
+    "Scotland, Wales, Northern Ireland Push for Exit from UK"
   ],
   "articles": [
     {
       "headline": "India Inflation Rises to 4.82% in August",
-      "whyItMatters": "Heightens pressure on central banks to consider rate hikes.",
-      "brief": "India's retail inflation accelerated to 4.82% in August driven by higher food costs, strengthening the case for potential interest rate hikes.",
+      "whyItMatters": "Signals mounting economic pressure and increases the likelihood of an upcoming interest rate hike.",
+      "brief": "India's inflation rate climbed to 4.82% in August, driven by commodity and food dynamics, strengthening the case for central bank rate hikes as economists anticipate policy tightening.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjkzaUlTSVF5ekc4elYyR2p6NXNFYXJSVzFGdkhoTWxNTmlVRnBpV012SlRiVG5wUlY3aTRZUmpkQ1I0cmJvYWtlVHRZTnlwaUVvVVNMVk5YWFU2dVY3VnlDMmNuWFM3RTFwdzc1dkVBUDhtUGx1eE9YVGhRaFo3T1ZtNEVLMkVyUW5YSDhGNEZfVXdX?oc=5",
       "dateLocation": "September 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Fed Rate Hike Likely on Wednesday, Poll Shows",
-      "whyItMatters": "Signals continued aggressive monetary tightening by global central banks.",
-      "brief": "A Reuters poll indicates a Federal Reserve rate hike is now likely on Wednesday, with economists projecting at least one more to follow soon.",
+      "headline": "Government Bars Bank Charges on UPI Payments",
+      "whyItMatters": "Promotes digital payments by ensuring zero merchant and consumer friction for smaller transactions.",
+      "brief": "The Indian government officially barred bank charges on UPI payments up to 2,000 rupees and RuPay debit cards under updated provisions of the Payment and Settlement Act.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5",
       "dateLocation": "September 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China's Spy Chief Warns of National Security AI Risks",
-      "whyItMatters": "Highlights growing state-level apprehension over foreign exploitation of artificial intelligence.",
-      "brief": "China's Minister of State Security warned that foreign intelligence agencies are heavily exploiting web crawlers and data mining tools to compromise national data and secrets.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/chinas-spy-chief-warns-of-national-security-risks-from-ai/article71466340.ece",
-      "dateLocation": "September 14, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Europe Faces Unprecedented Risk of Being Cut Off From AI",
-      "whyItMatters": "Exposes regional tech dependencies and the urgency for sovereign infrastructure.",
-      "brief": "European Central Bank officials warned that the continent faces a severe risk of technological isolation and lagging behind in crucial artificial intelligence advancement.",
+      "headline": "Europe Faces Unprecedented Risk of AI Cutoff",
+      "whyItMatters": "Highlights Europe's strategic technological vulnerability and dependence on foreign artificial intelligence infrastructure.",
+      "brief": "European Central Bank official warnings emphasize an unprecedented risk of the continent being cut off from advanced artificial intelligence systems amid escalating global tech fractures.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEJidFNRQ1I5MGgydDNteUNFSGpyc0R6WEZ5RGRnQ3JBLXZfdVdnUHVpZVJxaG8zMFlIMDNucm5UM3huWVNYa1FZNmtGZk03VEY2aHJFSHBvU0ZVN1JydTVmTko0UHNJc0Z3N0d2UTU3aW5VWUtma3hiNDR3X2FybnJpTW5iMS1VYUU1ZmhLdkY4ZzlCYzVrZW1TbUR5R0VjTmdTWjdTd3UzUVh2Q2NuTC1ObEt1QU0?oc=5",
       "dateLocation": "September 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Brent Nears $110 as West Asia Conflict Deepens",
-      "whyItMatters": "Threatens global energy security and stokes inflationary pressures worldwide.",
-      "brief": "Crude oil prices spiked toward $110 a barrel following delayed Hormuz negotiations and escalating regional conflicts affecting key supply routes.",
-      "category": "business",
+      "headline": "Oracle Resumes Massive Global Layoffs",
+      "whyItMatters": "Demonstrates ongoing corporate restructuring pains and cost-cutting measures across major tech giants.",
+      "brief": "Oracle initiated a fresh round of job cuts globally, delivering early morning emails and disabling access across cloud, infrastructure, and health units as restructuring costs climb.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms",
+      "dateLocation": "September 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Brent Nears $110 Amid West Asia Conflict",
+      "whyItMatters": "Surging oil prices threaten global economic growth and exacerbate inflationary pressures worldwide.",
+      "brief": "Crude oil prices surged near $110 a barrel as the West Asia conflict deepened, compounded by delayed talks regarding the Strait of Hormuz and repeated Houthi facility strikes.",
+      "category": "world",
       "sourceUrl": "https://www.livemint.com/news/india/brent-nears-110-a-barrel-as-west-asia-conflict-deepens-hormuz-talks-delayed-11789391149565.html",
-      "dateLocation": "September 14, 2026 | LiveMint",
+      "dateLocation": "September 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Scotland, Wales, and Northern Ireland Push for Exit",
+      "whyItMatters": "Represents a monumental constitutional challenge that could fundamentally fracture the United Kingdom.",
+      "brief": "Leaders from Scotland, Wales, and Northern Ireland signed a historic memorandum of understanding to pursue joint independence efforts, stronger EU ties, and economic self-determination.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/scotland-northern-ireland-and-wales-sign-mou-to-break-away-from-uk/articleshow/134247408.cms",
+      "dateLocation": "September 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Sets Bounty on Terrorist Masood Azhar",
+      "whyItMatters": "A strategic security move designed to satisfy international watchdogs ahead of critical evaluations.",
+      "brief": "Pakistan announced a substantial bounty on Masood Azhar ahead of the upcoming Financial Action Task Force plenary review, aiming to avoid returning to the global grey list.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/pakistan-sets-7-million-bounty-on-masood-azhar-ahead-of-fatf-review-terrorist-linked-to-pathankot-pulwama-attacks-11789391263647.html",
+      "dateLocation": "September 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Mercosur Expand Trade Pact",
+      "whyItMatters": "Broadens export markets and deepens strategic economic cooperation with South American nations.",
+      "brief": "India and the South American trade bloc Mercosur officially announced plans to expand their existing trade pact to navigate global economic volatility and diversify export destinations.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/india-south-american-bloc-mercosur-announce-plan-to-expand-trade-pact-11789403133176.html",
+      "dateLocation": "September 14, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gadkari’s Tolling Plan Could Unlock Rs 25,000 Cr",
-      "whyItMatters": "Significantly impacts national highway infrastructure funding and logistics costs.",
-      "brief": "India plans to make all national highway toll plazas barrier-free by 2027, a shift expected to massively boost government transportation revenues.",
+      "headline": "National Highway Toll Plazas to Go Barrier-Free",
+      "whyItMatters": "Modernizes transport infrastructure and is projected to unlock massive yearly revenue gains for the government.",
+      "brief": "Union Minister Nitin Gadkari announced that all national highway toll plazas will transition to barrier-free technology by 2027, potentially boosting state toll revenue significantly.",
       "category": "business",
       "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/roadways/nitin-gadkari-says-by-2027-all-national-highway-toll-plazas-will-go-barrier-free-how-new-tolling-system-could-boost-govt-revenue-by-up-to-rs-25000-crore-a-year/articleshow/134244594.cms",
       "dateLocation": "September 14, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Moves to Scrap Biden-Era Power Plant Carbon Limits",
-      "whyItMatters": "Reverses key U.S. climate policy and signals major deregulation for fossil fuels.",
-      "brief": "The Trump administration has initiated steps to repeal strict emission limits on coal and gas power plants, unleashing domestic energy production despite environmental pushback.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/unleash-american-energy-trump-moves-to-scrap-biden-era-carbon-limits-on-us-coal-gas-power-plants/articleshow/134244398.cms",
-      "dateLocation": "September 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rajasthan Civic Poll Results Show Enduring BJP Dominance",
-      "whyItMatters": "Provides a crucial political barometer ahead of upcoming regional assembly elections.",
-      "brief": "The BJP secured victories across multiple municipal corporations in Rajasthan, cementing its political standing while delivering a warning to opposition parties.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-poll-congress-bjp-vote-counting-results-update-september-14-2026/article71465801.ece",
-      "dateLocation": "September 14, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Partition Push: Scotland, Wales, and NI Discuss UK Exit",
-      "whyItMatters": "Reignites deep constitutional crises over the future integrity of the United Kingdom.",
-      "brief": "Leaders from Scotland, Wales, and Northern Ireland convened to promote joint independence efforts, pushing for closer economic alignment with the European Union.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/partition-in-uk-scotland-wales-and-northern-ireland-push-for-exit-from-united-kingdom-europe-is-our-common-home-11789392780803.html",
-      "dateLocation": "September 14, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Sets ₹7 Million Bounty on Masood Azhar",
-      "whyItMatters": "Aims to satisfy global watchdog requirements ahead of an upcoming FATF review.",
-      "brief": "Pakistan placed a significant bounty on terrorist Masood Azhar ahead of the Financial Action Task Force plenary meeting to avoid returning to the grey list.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/pakistan-sets-7-million-bounty-on-masood-azhar-ahead-of-fatf-review-terrorist-linked-to-pathankot-pulwama-attacks-11789391263647.html",
-      "dateLocation": "September 14, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oracle Begins New Wave of Global Workforce Layoffs",
-      "whyItMatters": "Highlights ongoing tech industry restructuring and cost-cutting measures amid economic shifts.",
-      "brief": "Oracle employees across various global divisions reported unexpected early-morning termination notices, reflecting rising restructuring costs exceeding $2.8 billion.",
+      "headline": "IAF Achieves Record 314-Km 'Longest Kill'",
+      "whyItMatters": "Demonstrates advanced tactical defense capabilities and marks a milestone in modern aerial warfare tech.",
+      "brief": "An official Ministry of Defence report revealed that the Indian Air Force achieved a record-breaking 314-kilometer missile kill against a hostile aircraft during Operation Sindoor.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-employees-receive-6am-job-cuts-email-from-oracle-leadership-again-saying-we-are-sharing-some/articleshow/134243494.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/how-iaf-achieved-314-km-longest-kill-of-pak-aircraft-during-op-sindoor-reveals-mod-report/articleshow/134244709.cms",
       "dateLocation": "September 14, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and Mercosur Expand Comprehensive Trade Pact",
-      "whyItMatters": "Expands market diversification strategies for emerging developing economies.",
-      "brief": "India and the South American trade bloc Mercosur announced plans to broaden their existing trade pact to navigate global economic volatility.",
+      "headline": "Underwater Survey Planned for Sunk Vessel",
+      "whyItMatters": "Crucial for mitigating long-term ecological damage along sensitive southern Indian coastal waters.",
+      "brief": "The Centre informed the Kerala High Court that an underwater survey will be conducted to assess the environmental and ecological fallout from the sinking of the MSC Elsa 3.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/underwater-survey-to-be-done-to-assess-long-term-impact-of-msc-elsa-3-sinking-centre-informs-kerala-hc/article71466179.ece",
+      "dateLocation": "September 14, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Super El Niño Set to Reshape Winter Weather",
+      "whyItMatters": "Presents severe agricultural, infrastructure, and energy demand implications across North America.",
+      "brief": "Meteorologists confirm that a record-strength Super El Niño weather pattern has arrived, bringing disruptive shifts that are projected to fundamentally alter winter conditions across regions.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/super-el-nio-is-here-and-its-record-breaking-strength-is-about-to-reshape-americas-winter/articleshow/134245065.cms",
+      "dateLocation": "September 14, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Zelenskyy Proposes Mutual Infrastructure Pause",
+      "whyItMatters": "Offers a potential diplomatic opening for de-escalation of critical civilian infrastructure attacks.",
+      "brief": "Ukrainian President Volodymyr Zelenskyy stated that Ukraine would pause strikes on Russian energy infrastructure if the Kremlin agrees to similarly spare critical civilian facilities.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/ukraine-wants-specifics-from-partners-over-halting-strikes-on-russia-zelenskyy-after-trumps-post/article71466382.ece",
+      "dateLocation": "September 14, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi High Court Dismisses Vimal Elaichi Plea",
+      "whyItMatters": "Affirms regulatory authority and jurisdiction over celebrity brand endorsements for surrogate products.",
+      "brief": "The Delhi High Court dismissed a plea by the makers of Vimal Elaichi challenging show-cause notices issued to prominent actors, ruling that Maharashtra courts hold proper territorial jurisdiction.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/india-south-american-bloc-mercosur-announce-plan-to-expand-trade-pact-11789403133176.html",
-      "dateLocation": "September 14, 2026 | LiveMint",
+      "sourceUrl": "https://www.livemint.com/news/india/cannot-by-themselves-why-delhi-hc-dismissed-vimal-elaichi-makers-plea-against-notice-to-shah-rukh-khan-others-11789398960981.html",
+      "dateLocation": "September 14, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
