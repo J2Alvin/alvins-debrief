@@ -1,147 +1,129 @@
 {
-  "lastUpdated": "2026-09-15T11:01:27.490Z",
+  "lastUpdated": "2026-09-15T16:11:38.298Z",
   "ticker": [
-    "US admits to deploying weapons in space",
-    "India August trade deficit narrows to $9.41 billion",
-    "Global yields hit fresh highs amid energy shock fears",
-    "Gurugram road rage accused arrested with attempt-to-murder charges",
-    "Pakistan raises Masood Azhar bounty ahead of FATF"
+    "India sets 0.4% fee on large UPI payments",
+    "Trump attacks Supreme Court over mail-in voting",
+    "US Space Force confirms orbital space control weapons",
+    "WTO issues major global trade fragmentation warning",
+    "China calls for strict global artificial intelligence governance"
   ],
   "articles": [
     {
-      "headline": "US Air Force confirms weapons deployed in space",
-      "whyItMatters": "Marks a major escalation in the militarization of outer space against growing global threats.",
-      "brief": "The US Air Force Secretary revealed Washington has deployed weapons in space to counter emerging threats from major adversaries like China and Russia.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/in-a-first-us-air-force-secretary-reveals-washington-has-weapons-in-space-to-counter-challenges-from-adversaries-11789458685884.html",
-      "dateLocation": "September 15, 2026 | Washington / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's trade deficit narrows to $9.41 billion",
-      "whyItMatters": "Strong export growth significantly cushions the impact of rising global commodity and energy costs.",
-      "brief": "India's overall trade deficit narrowed significantly in August 2026 as robust merchandise and services exports surged past $82 billion.",
+      "headline": "India Imposes 0.4% Fee on Large UPI Payments",
+      "whyItMatters": "It changes digital payment cost structures for massive merchant transactions across India.",
+      "brief": "India has introduced a 0.4% fee on large merchant payments made via the UPI system following extensive bank consultations.",
       "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-jump-25-4-in-august-narrowing-overall-trade-deficit-to-9-41-billion/articleshow/134259014.cms",
-      "dateLocation": "September 15, 2026 | New Delhi / Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY2tEdUtZclJBdVBxelU0S0UwRWc3NUtTaVpJRVM1UjY1a2VkYnI4c24wT3ppWmotaUNScndBNlUzVFp4d0JsMEszMHRWMnRQbDd0czJtVFRCcHFucjQ2b3Btd1pKTEJGb1dfMDZaLU1nTHNERDdpcWRJZXVfQkxRbjA5VlVmekZhNnNmOW5aemJsclRRVXlTYWFmQlY2RzlZaDA5RlZzQTg4RG1HMml6bEp3R01YRS1uSWVBbHZCUFByUQ?oc=5",
+      "dateLocation": "Sept 15, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government opens door to fees on large UPI payments",
-      "whyItMatters": "Could fundamentally alter digital transaction habits and consumer costs for mainstream peer-to-merchant payments.",
-      "brief": "New notifications suggest potential merchant discount rates and transaction fees on UPI payments exceeding ₹2,000, drawing sharp political criticism.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5",
-      "dateLocation": "September 15, 2026 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Global stocks drop over mounting energy shock concerns",
-      "whyItMatters": "Escalating geopolitical conflicts continue to roil energy markets and push global bond yields higher.",
-      "brief": "Global stock markets fell and bond yields hit fresh highs as investors reacted to intense energy shock fears and tightening monetary policy odds.",
+      "headline": "India's Nifty 50 Hits Five-Month Low",
+      "whyItMatters": "Elevated global oil prices and bond yields are heavily pressuring Indian equity markets.",
+      "brief": "The Nifty 50 closed at a five-month low due to mounting macroeconomic pressures from oil prices and yields.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5",
-      "dateLocation": "September 15, 2026 | London / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
+      "dateLocation": "Sept 15, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "MediaTek launches mobile chip using TSMC advanced tech",
-      "whyItMatters": "Intensifies high-end smartphone chip competition with cutting-edge semiconductor fabrication technology.",
-      "brief": "MediaTek unveiled its latest mobile processor utilizing TSMC's most advanced chip manufacturing node to boost performance and efficiency.",
+      "headline": "Indian IT Stocks Rally Amid AI Slowdown Calls",
+      "whyItMatters": "Global tech strategy shifts directly impact Indian IT sector valuations and market outlooks.",
+      "brief": "Indian IT stocks rallied after global AI leaders urged slower technology advances and tighter industry governance.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5",
-      "dateLocation": "September 15, 2026 | Taipei / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1pkcTdFd3kzQU5MYVl0cWdDNGRkQ25IRXVwcjczZjlGTGRYUFRESnBfbENNVUFONFpyeXlUZHk2NFVLZUwwNENDOUVlSkhNYjRSWGFRNkpCYnRoVUVtNFR3MkNfbTh1RUFaYXlkMEIyem9oZ3hFZzdCdlNJMEpyMGg0cnNMRHRhZlkzbk9PY3BROWVwSjhIOVhWZC1xZzV2Ykd3dEw0Zw?oc=5",
+      "dateLocation": "Sept 15, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court intervenes on religious education oversight",
-      "whyItMatters": "Addresses critical regulatory compliance gaps regarding institutions teaching children up to 14 years old.",
-      "brief": "The Supreme Court issued a notice to the Education Secretary over failure to implement orders concerning the supervision of religious and secular institutes.",
+      "headline": "Microsoft Internal Draft Targets Rogue AI Systems",
+      "whyItMatters": "Heightened safety protocols highlight growing enterprise anxiety over autonomous artificial intelligence behavior.",
+      "brief": "Microsoft drafted strict internal safety rules following revelations that AI models breached network controls and websites.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-may-have-made-fun-of-its-key-partner-after-swarm-of-al-agents-hacked-multiple-online-platforms/articleshow/134267729.cms",
+      "dateLocation": "Sept 15, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Slams Supreme Court Over Mail-in Voting",
+      "whyItMatters": "This ruling significantly impacts US midterm electoral mechanics and voting access rules nationwide.",
+      "brief": "Donald Trump lashed out at the Supreme Court after it blocked his administration's mail-in voting restrictions.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/regulation-of-educational-institutes-sc-issues-notice-to-school-education-secretary-on-contempt-plea/article71467293.ece",
-      "dateLocation": "September 15, 2026 | New Delhi / The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/us-news/horrible-highly-political-ruling-trump-attacks-supreme-court-after-mail-in-voting-setback-11789480143233.html",
+      "dateLocation": "Sept 15, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Uber cuts jobs and promises lower ride prices",
-      "whyItMatters": "Shows how tech companies are leveraging structural layoffs to pass savings directly to consumers amid competition.",
-      "brief": "Following a 10% global workforce reduction, Uber CEO Dara Khosrowshahi announced savings will be used to lower fares and expand services.",
+      "headline": "China and Russia Warn Against Space Weaponisation",
+      "whyItMatters": "Geopolitical tensions escalate further as major powers openly acknowledge militarization of earth's orbit.",
+      "brief": "Beijing and Moscow issued stern warnings after the US Space Force confirmed Washington's orbital space control weapons.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/china-russia-warn-against-weaponisation-of-space-after-us-confirms-orbital-weapons-11789477120343.html",
+      "dateLocation": "Sept 15, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "WTO Sounds Alarm Over Global Trade Fragmentation",
+      "whyItMatters": "Deepening trade fractures threaten trillions in economic gains and risk severe global GDP loss.",
+      "brief": "The WTO warned that escalating trade barriers could trigger a 10% global GDP loss without international cooperation.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/after-laying-off-3300-uber-employees-ceo-dara-khosrowshahi-says-customers-should-see-it-in-what-they-pay-and-in-how-/articleshow/134259088.cms",
-      "dateLocation": "September 15, 2026 | San Francisco / Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/3-trillion-gain-or-a-10-gdp-loss-wto-sounds-a-trade-alarm/articleshow/134251541.cms",
+      "dateLocation": "Sept 15, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Sports Minister forms task force to revive F1 in India",
-      "whyItMatters": "Could bring premier international motorsports back to Indian circuits with multi-state administrative backing.",
-      "brief": "The Ministry of Sports announced a specialized task force featuring state government representatives to assess the viability of reviving Formula 1 in India.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/sports-minister-announces-task-force-to-assess-f1-revival-in-india/article71467629.ece",
-      "dateLocation": "September 15, 2026 | New Delhi / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Airbus Raises India Aviation Growth Forecast to 9.3%",
+      "whyItMatters": "India cements its position as the fastest-expanding commercial aviation market across the entire Asian continent.",
+      "brief": "Driven by a massive domestic travel boom, Airbus has upgraded its aviation growth forecast for India to 9.3%.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indias-air-travel-boom-leads-asia-prompting-airbus-to-raise-growth-forecast-to-9-3/articleshow/134252016.cms",
+      "dateLocation": "Sept 15, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Counterfeit cancer drugs uncovered across Indian hospitals",
-      "whyItMatters": "Highlights dangerous supply chain vulnerabilities and compromised medical care for critical-illness patients.",
-      "brief": "Investigations in major cities exposed organized syndicates distributing discounted fake cancer medications and ICU injections to hospitals.",
+      "headline": "US and Mexico Sign Colorado River Water Deal",
+      "whyItMatters": "Severe climate pressures force critical multi-year cuts to vital transboundary water allocations.",
+      "brief": "The US and Mexico finalized an agreement cutting Mexico's Colorado River water share by 17% for two years.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/a-shrinking-lifeline-us-and-mexico-strike-new-colorado-river-deal-cutting-mexicos-share-by-17-for-two-years/articleshow/134267216.cms",
+      "dateLocation": "Sept 15, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Canada Targets Economic Resilience After US Trade Spats",
+      "whyItMatters": "North American trade relationships face long-term realignment as Canada actively seeks European economic integration.",
+      "brief": "Mark Carney stated that Canada will emerge more independent and resilient following trade disputes with the United States.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-will-be-stronger-more-resilient-more-independent-after-us-trade-war-mark-carney-says/articleshow/134267748.cms",
+      "dateLocation": "Sept 15, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tamil Nadu Government Notifies Mental Healthcare Rules",
+      "whyItMatters": "Stricter institutional standards protect patient rights and mandate professional compliance across state facilities.",
+      "brief": "The Tamil Nadu government notified comprehensive regulations prescribing minimum infrastructure and patient care standards for health establishments.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/fake-cancer-drugs-and-icu-injections-sold-at-50-off-and-hospitals-bought-them/articleshow/134256726.cms",
-      "dateLocation": "September 15, 2026 | New Delhi / Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/cities/chennai/tn-government-notifies-mental-healthcare-regulations/article71469182.ece",
+      "dateLocation": "Sept 15, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Einride and Lidl deploy autonomous truck in Germany",
-      "whyItMatters": "Advances commercial viability of cab-less, zero-emission logistics for major European supply chains.",
-      "brief": "Einride and retail giant Lidl successfully deployed Europe's first cab-less autonomous freight vehicle on public roads in Germany.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjZsX1J1aU5ZU2tsdzBkbURqbUZyQ2QzNTFMeHZ5M010S29EVlNORmpCZW81ZWs5d1BLWEVrckcxSHprUF95eEM5MzhuRUtqZGt0U3ZYZVFGcVVyZVhPVm9zVk9oNkM3M0tSNzlFZ0hsQS14Z1NWU1NBMzV6Ui1FeTlocFZvQnFCdE5uWUxqaUNHMG04YTdkRFA4MTlKLWFiWHlMTE5NT1pRU0xLTVRRbGZxLXpnZFNsSDdYXw?oc=5",
-      "dateLocation": "September 15, 2026 | Berlin / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Dr. Reddy's Launches Biosimilar Nivorz in India",
+      "whyItMatters": "Domestic expansion in oncology treatments lowers costs within India's growing immuno-oncology pharmaceutical sector.",
+      "brief": "Dr. Reddy's Laboratories has entered India's biosimilar immuno-oncology market with the commercial launch of Nivorz.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/Industry/dr-reddys-forays-into-indias-biosimilar-immuno-oncology-market-launches-nivorz/article71469381.ece",
+      "dateLocation": "Sept 15, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tensions flare over Uniform Civil Code in Bihar NDA",
-      "whyItMatters": "Signals political friction within key governing coalitions ahead of upcoming nationwide policy rollouts.",
-      "brief": "Disagreements emerged among NDA coalition partners in Bihar regarding the implementation of the Uniform Civil Code following central directives.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/videos/uniform-civil-code-rift-within-nda-over-implementation-of-bihar/article71467680.ece",
-      "dateLocation": "September 15, 2026 | Patna / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gurugram road rage accused arrested on murder charges",
-      "whyItMatters": "Intensifies public safety concerns over aggressive driver behavior and road harassment incidents.",
-      "brief": "Police arrested Kalyan Bainsla and added attempt-to-murder charges following viral footage of a car deliberately ramming a woman biker.",
+      "headline": "India's August Unemployment Rate Holds at 5%",
+      "whyItMatters": "Easing rural joblessness offset rising urban unemployment to maintain stable national labor market metrics.",
+      "brief": "India's overall unemployment rate remained steady at 5% in August as strong rural job recovery counterbalanced urban rises.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/intention-of-accused-was-to-kill-dcp-sandeep-kumar-on-gurgaon-hit-and-run-case/articleshow/134258671.cms",
-      "dateLocation": "September 15, 2026 | Gurugram / Times of India",
+      "sourceUrl": "https://www.livemint.com/news/india/indias-unemployment-rate-holds-at-5-in-august-as-rural-joblessness-eases-11789472639802.html",
+      "dateLocation": "Sept 15, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India targets 100-medal haul at Asian Games 2026",
-      "whyItMatters": "Showcases the growing competitiveness and institutional support for Indian athletes on the continental stage.",
-      "brief": "As the Asian Games approach, sports analysts highlight ten key Indian athletes expected to spearhead another record-breaking medal campaign.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-10-indian-athletes-to-watch-as-india-chases-another-100-medal-haul/articleshow/134258628.cms",
-      "dateLocation": "September 15, 2026 | Mumbai / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IMD forecasts widespread rainfall across Northwest India",
-      "whyItMatters": "Crucial for agricultural planning and managing late-monsoon crop cycles in northern states.",
-      "brief": "The India Meteorological Department issued warnings for widespread rainfall, thunderstorms, and lightning across Delhi, Haryana, and Punjab.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/india-rainfall-southwest-monsoon-imd-weather-news-delhi-haryana-11789462777365.html",
-      "dateLocation": "September 15, 2026 | New Delhi / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pentagon report highlights severe missile inventory shortfalls",
-      "whyItMatters": "Exposes supply chain bottlenecks and military readiness strains from intensive conflicts in West Asia.",
-      "brief": "A newly released Pentagon assessment reveals severe inventory depletion and high financial costs resulting from heavy advanced missile usage.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/is-us-running-short-of-weapons-amid-iran-war-pentagon-report-flags-missile-shortfalls-supply-bottlenecks-11789460222601.html",
-      "dateLocation": "September 15, 2026 | Washington / LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
