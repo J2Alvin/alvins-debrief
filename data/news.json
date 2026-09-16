@@ -1,147 +1,84 @@
 {
-  "lastUpdated": "2026-09-15T20:50:39.252Z",
+  "lastUpdated": "2026-09-16T03:13:21.718Z",
   "ticker": [
-    "India UPI Imposes Fees on Large Merchant Payments",
-    "US Military Costs for Iran Conflict Surpass $38 Billion",
-    "India and Afghanistan T20 Series Concludes",
-    "Meta Agrees to Direct CSAM Reporting with India",
-    "US Measles Fatalities Reach Decades-High Level"
+    "India UPI Imposes Fees on Large Merchants",
+    "Oil Surges Near Record Amid Saudi Disruptions",
+    "New Zealand Passes India Trade Agreement",
+    "US House Advances Russia Sanctions Bill",
+    "US Military Iran War Costs Hit $38B"
   ],
   "articles": [
     {
-      "headline": "India Imposes New Fees on Large UPI Merchant Payments",
-      "whyItMatters": "Alters digital payment adoption costs for large transactions across India.",
-      "brief": "India is ending the free era for UPI with a new fee structure on large merchant payments above Rs 2,000, effective October 15.",
+      "headline": "India's UPI Ends Free Era with Large Merchant Fees",
+      "whyItMatters": "Shifts digital payment cost structures for massive commercial transactions across India.",
+      "brief": "India's UPI payment system is introducing a merchant discount rate on large transactions, impacting commercial payments while attempting to spare everyday small consumers.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY2tEdUtZclJBdVBxelU0S0UwRWc3NUtTaVpJRVM1UjY1a2VkYnI4c24wT3ppWmotaUNScndBNlUzVFp4d0JsMEszMHRWMnRQbDd0czJtVFRCcHFucjQ2b3Btd1pKTEJGb1dfMDZaLU1nTHNERDdpcWRJZXVfQkxRbjA5VlVmekZhNnNmOW5aemJsclRRVXlTYWFmQlY2RzlZaDA5RlZzQTg4RG1HMml6bEp3R01YRS1uSWVBbHZCUFByUQ?oc=5",
-      "dateLocation": "September 15, 2026 | Reuters",
+      "dateLocation": "2026-09-16 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Military Reaches $38 Billion Cost in Iran Conflict",
-      "whyItMatters": "Highlights escalating financial burdens and munitions depletion for the US military.",
-      "brief": "The Congressional Budget Office warns of billions more in monthly expenses as the ongoing Iran conflict strains US defense resources.",
+      "headline": "Oil Prices Surge Past $130 on Saudi Supply Disruptions",
+      "whyItMatters": "Threatens global economic stability and spikes energy inflation worldwide.",
+      "brief": "Physical oil cargoes topped $130 a barrel, nearing historical records, as Saudi pipeline closures and regional tensions heavily constrict global crude supplies.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXd2QmNxLUwzMURZZkotelUyMGFuU2RtSHluS0ZuV2JyLXNRWF9uMUlVZU1jQW5pZ3hLQ3BiLU5oQzhxTm41cDZvLVFfN2Z4N1B6Yjh4VGxzMUcxSl9WbjBoR2hiZkgxUnFjazlHMUNyVDJaOTJlZ0JKOHN1SER3YzJnbi10emhqWmFJVjEtZEV3Q0ZRcnJkaG1DZFJHNERYa18xWVJJVS1tVGVoOS1HVEd0QzBDdFlNWk9oNWpUc0YyamFqSEtISkc3Mk4?oc=5",
+      "dateLocation": "2026-09-16 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New Zealand Parliament Passes Comprehensive India Trade Deal",
+      "whyItMatters": "Cuts export tariffs significantly, boosting bilateral trade ties between the nations.",
+      "brief": "New Zealand's parliament successfully passed a trade agreement with India, making more than half of covered export products duty-free immediately.",
       "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI?oc=5",
+      "dateLocation": "2026-09-16 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US House Advances Bill Threatening 100% Tariffs on Russian Energy",
+      "whyItMatters": "Intensifies secondary economic sanctions on major global buyers of Russian oil.",
+      "brief": "The US House advanced a sanctions bill allowing up to 100% tariffs on countries purchasing Russian oil and gas, directly putting major buyers like India in the crosshairs.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/100-tariff-threat-to-india-us-house-advances-russia-sanctions-bill-what-we-know-11789522442630.html",
+      "dateLocation": "2026-09-16 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Military Operations Against Iran Cost $38 Billion",
+      "whyItMatters": "Strains federal defense budgets with mounting monthly operational expenditures.",
+      "brief": "The Congressional Budget Office revealed that ongoing military actions against Iran have cost the US $38 billion, driven by munitions replacement and higher fuel expenses.",
+      "category": "general",
       "sourceUrl": "https://www.livemint.com/news/us-news/iran-war-costs-us-military-38-billion-as-cbo-warns-of-billions-more-in-monthly-expenses-11789501056348.html",
-      "dateLocation": "September 15, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "2026-09-16 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Meta to Share Child Safety Data Directly with India",
-      "whyItMatters": "Streamlines enforcement and response times regarding online child exploitation in India.",
-      "brief": "Meta has agreed to report child-safety and CSAM cases directly to Indian cybercrime portals, bypassing previous US routing agencies.",
+      "headline": "Meta Agrees to Direct CSAM Reporting to Indian Authorities",
+      "whyItMatters": "Accelerates child safety compliance mechanisms within major social media platforms in India.",
+      "brief": "Meta has agreed to bypass US intermediaries and report child safety matters directly to Indian authorities, strengthening local regulatory enforcement.",
       "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece",
-      "dateLocation": "September 15, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms",
+      "dateLocation": "2026-09-16 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Seals T20 Series Victory Against Afghanistan",
-      "whyItMatters": "Showcases strong emerging opening combinations and bowling performances ahead of major tournaments.",
-      "brief": "Sanju Samson's blistering 57 off 22 balls and tight bowling guided India to an easy series-clinching victory over Afghanistan.",
+      "headline": "Priscilla Chan's $125 Million Educational Venture Closes",
+      "whyItMatters": "Highlights systemic challenges in aligning philanthropic private schooling with state standards.",
+      "brief": "After operating for a decade, the school founded by Priscilla Chan with $125 million in donations is shutting down its operations to pivot towards scientific research initiatives.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms",
+      "dateLocation": "2026-09-16 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Harry Brook Sets T20I Record with Twin Centuries",
+      "whyItMatters": "Marks a historic milestone in international cricket captaincy and batting performance.",
+      "brief": "England's Harry Brook became the first Full Member captain to score two T20I centuries in the same calendar year following a blistering knock against Sri Lanka.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/india-vs-afghanistan-second-t20i-september-15-2026/article71468729.ece",
-      "dateLocation": "September 15, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-scripts-history-becomes-first-cricketer-to-achieve-this-feat-in-t20is/articleshow/134276459.cms",
+      "dateLocation": "2026-09-16 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Measles Fatalities Reach Highest Level in Decades",
-      "whyItMatters": "Raises public health alarms over dropping vaccination rates and preventable disease surges.",
-      "brief": "Pennsylvania health officials confirmed additional measles-associated deaths, pushing total US fatalities for the year to historic highs.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/new-measles-deaths-send-us-fatality-total-highest-in-decades-11789499497119.html",
-      "dateLocation": "September 15, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Omar Abdullah Praises India's Foreign Policy on BRICS",
-      "whyItMatters": "Reflects cross-political acknowledgment of diplomatic achievements concerning national security statements.",
-      "brief": "J&K Chief Minister Omar Abdullah commended India's diplomatic push at the BRICS summit regarding terrorism while criticizing domestic UCC implementation.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/omar-praises-indias-foreign-policy-over-brics-mention-of-pahalgam-slams-centre-on-ucc/articleshow/134271508.cms",
-      "dateLocation": "September 15, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "El Nino Puts India's Kharif Crops Under Severe Stress",
-      "whyItMatters": "Poses risks to agricultural output, rural inflation, and domestic food supply security.",
-      "brief": "Drought conditions affecting over half of India due to El Nino have placed heavy stress on current kharif crops and winter sowing.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/el-nio-effect-kharif-crops-winter-sowing-face-stress-as-drought-hits-53-of-india/articleshow/134271996.cms",
-      "dateLocation": "September 15, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Seeks Transparency on Indian Rice Used for Ethanol",
-      "whyItMatters": "Highlights international trade focus on food stock management and biofuel policies.",
-      "brief": "The United States has formally requested comprehensive details regarding Indian rice stocks utilized for domestic ethanol production output.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/us-seeks-details-of-indias-rice-stocks-used-for-ethanol-output/articleshow/134271804.cms",
-      "dateLocation": "September 15, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tanker Hit Near Strait of Hormuz Operated in Dark Mode",
-      "whyItMatters": "Raises security concerns regarding commercial maritime traffic transiting active geopolitical conflict zones.",
-      "brief": "Investigations reveal the tanker El Gaia, carrying Indian and Pakistani crew members, was operating without active tracking when struck.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/tanker-hit-by-projectile-near-strait-of-hormuz-was-operating-in-dark-mode/article71469903.ece",
-      "dateLocation": "September 15, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Imran Khan's Sons Accuse Military Chief of Vendetta",
-      "whyItMatters": "Intensifies political turmoil and human rights concerns surrounding the former Pakistani premier's detention.",
-      "brief": "Imran Khan's sons have publicly alleged that Pakistan's army chief is conducting a personal vendetta and neglecting Khan's medical needs.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/our-father-being-slowly-killed-imran-khans-sons-accuse-pakistans-asim-munir-of-vendetta/articleshow/134267616.cms",
-      "dateLocation": "September 15, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian IT Stocks Rally as AI Leaders Urge Cautious Pace",
-      "whyItMatters": "Shifts market sentiment for technology outsourcing firms amid evolving global AI deployment strategies.",
-      "brief": "Major Indian IT stocks saw gains following statements from global AI industry leaders advocating for slower technological advancement cycles.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1pkcTdFd3kzQU5MYVl0cWdDNGRkQ25IRXVwcjczZjlGTGRYUFRESnBfbENNVUFONFpyeXlUZHk2NFVLZUwwNENDOUVlSkhNYjRSWGFRNkpCYnRoVUVtNFR3MkNfbTh1RUFaYXlkMEIyem9oZ3hFZzdCdlNJMEpyMGg0cnNMRHRhZlkzbk9PY3BROWVwSjhIOVhWZC1xZzV2Ykd3dEw0Zw?oc=5",
-      "dateLocation": "September 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre Directs BHEL to Diversify Beyond Thermal Power",
-      "whyItMatters": "Aims to restructure legacy state-owned heavy engineering companies toward green energy transition.",
-      "brief": "The central government has strongly pushed Bharat Heavy Electricals Limited to accelerate diversification efforts away from traditional thermal reliance.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/centre-rap-pushes-bhel-to-diversify-beyond-thermal/articleshow/134272029.cms",
-      "dateLocation": "September 15, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's August Trade Deficit Narrows as Gold Imports Drop",
-      "whyItMatters": "Provides near-term relief to the country's current account balance and foreign exchange reserves.",
-      "brief": "A significant contraction in gold imports helped narrow India's goods trade deficit substantially during the month of August.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkcwU0xsUjlqM1lxdXhyNnJka3RvNXljQm04eFZfWHpjMUxyOXJHR29xSXU1UklDUFMyQjBtQVVOVkZoS0tnbHpSWnB4T1RLdHBSVnVUUlRUS0hnMEZLUVUwNlA0c20wTF8yZ3Y2eWgxRVprRHVhV2lTRWpyODFrV2NHODNSRWxMRVhzdmVfaW8xMGpIcUNfdGs2dHY5WXVKeVE?oc=5",
-      "dateLocation": "September 15, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Consumer Watchdog Expands Antitrust Probe Into Apple",
-      "whyItMatters": "Continues global regulatory scrutiny over platform software controls and developer policies.",
-      "brief": "Regulatory consumer watchdogs have stepped up ongoing investigations regarding software update issues and platform restrictions tied to iOS 18.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/consumer-watchdog-steps-up-probe-into-apple-on-ios-18-software-update-issues/articleshow/134272519.cms",
-      "dateLocation": "September 15, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Two Kuki-Zo Women Killed in Manipur Violence",
-      "whyItMatters": "Underscores persistent security challenges and ethnic tensions remaining within the region.",
-      "brief": "Local reports confirm the targeted killings of two Kuki-Zo women in Manipur's Tamenglong district, prompting fresh security alerts.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/2-kuki-zo-women-killed-in-manipurs-tamenglong/articleshow/134271582.cms",
-      "dateLocation": "September 15, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
