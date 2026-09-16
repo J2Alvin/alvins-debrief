@@ -1,84 +1,120 @@
 {
-  "lastUpdated": "2026-09-16T03:13:21.718Z",
+  "lastUpdated": "2026-09-16T10:48:41.413Z",
   "ticker": [
-    "India UPI Imposes Fees on Large Merchants",
-    "Oil Surges Near Record Amid Saudi Disruptions",
-    "New Zealand Passes India Trade Agreement",
-    "US House Advances Russia Sanctions Bill",
-    "US Military Iran War Costs Hit $38B"
+    "India-Pakistan naval collision in Arabian Sea",
+    "UPI fee structure updated for merchants",
+    "EPFO wage ceiling raised to ₹25,000",
+    "Strait of Hormuz tensions escalate",
+    "SK Hynix in talks with Intel"
   ],
   "articles": [
     {
-      "headline": "India's UPI Ends Free Era with Large Merchant Fees",
-      "whyItMatters": "Shifts digital payment cost structures for massive commercial transactions across India.",
-      "brief": "India's UPI payment system is introducing a merchant discount rate on large transactions, impacting commercial payments while attempting to spare everyday small consumers.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY2tEdUtZclJBdVBxelU0S0UwRWc3NUtTaVpJRVM1UjY1a2VkYnI4c24wT3ppWmotaUNScndBNlUzVFp4d0JsMEszMHRWMnRQbDd0czJtVFRCcHFucjQ2b3Btd1pKTEJGb1dfMDZaLU1nTHNERDdpcWRJZXVfQkxRbjA5VlVmekZhNnNmOW5aemJsclRRVXlTYWFmQlY2RzlZaDA5RlZzQTg4RG1HMml6bEp3R01YRS1uSWVBbHZCUFByUQ?oc=5",
-      "dateLocation": "2026-09-16 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oil Prices Surge Past $130 on Saudi Supply Disruptions",
-      "whyItMatters": "Threatens global economic stability and spikes energy inflation worldwide.",
-      "brief": "Physical oil cargoes topped $130 a barrel, nearing historical records, as Saudi pipeline closures and regional tensions heavily constrict global crude supplies.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXd2QmNxLUwzMURZZkotelUyMGFuU2RtSHluS0ZuV2JyLXNRWF9uMUlVZU1jQW5pZ3hLQ3BiLU5oQzhxTm41cDZvLVFfN2Z4N1B6Yjh4VGxzMUcxSl9WbjBoR2hiZkgxUnFjazlHMUNyVDJaOTJlZ0JKOHN1SER3YzJnbi10emhqWmFJVjEtZEV3Q0ZRcnJkaG1DZFJHNERYa18xWVJJVS1tVGVoOS1HVEd0QzBDdFlNWk9oNWpUc0YyamFqSEtISkc3Mk4?oc=5",
-      "dateLocation": "2026-09-16 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New Zealand Parliament Passes Comprehensive India Trade Deal",
-      "whyItMatters": "Cuts export tariffs significantly, boosting bilateral trade ties between the nations.",
-      "brief": "New Zealand's parliament successfully passed a trade agreement with India, making more than half of covered export products duty-free immediately.",
+      "headline": "India Protests Naval Collision with Pakistan",
+      "whyItMatters": "Heightens bilateral naval tensions in international shipping lanes.",
+      "brief": "New Delhi summoned Islamabad's envoy after an Indian warship and a Pakistan Navy vessel collided in the Arabian Sea, causing no major damage.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI?oc=5",
-      "dateLocation": "2026-09-16 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/videos/tanker-el-gaia-hit-in-strait-of-hormuz-with-25-crew-members-on-board-including-14-indians/article71472024.ece",
+      "dateLocation": "Sept 16, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US House Advances Bill Threatening 100% Tariffs on Russian Energy",
-      "whyItMatters": "Intensifies secondary economic sanctions on major global buyers of Russian oil.",
-      "brief": "The US House advanced a sanctions bill allowing up to 100% tariffs on countries purchasing Russian oil and gas, directly putting major buyers like India in the crosshairs.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/100-tariff-threat-to-india-us-house-advances-russia-sanctions-bill-what-we-know-11789522442630.html",
-      "dateLocation": "2026-09-16 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Implements UPI Fee Shake-Up",
+      "whyItMatters": "Ends the completely free digital payment era for large merchants.",
+      "brief": "India introduces a fee structure on large merchant transactions via UPI, prompting heavy political debate and restructuring digital payment economics.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmplVU0tSzN3OXktN2pJZV8yenNyendPSDFaVE5CRmF3NDl5OHU1NGM4VWhwZElDMU5YOEFUUXlNS2h3bFR4TGoxOXpQVDJvS09hQ3BaaTQ1ZDR6akhBTEw2MVNyc1pZYzItc3FEaXlZLWEwQjhoM0ZqM004TWprU0V1R1dDQURYVTA0VGFaVjJycWh4NlROOXRfODR3SlRL?oc=5",
+      "dateLocation": "Sept 16, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Military Operations Against Iran Cost $38 Billion",
-      "whyItMatters": "Strains federal defense budgets with mounting monthly operational expenditures.",
-      "brief": "The Congressional Budget Office revealed that ongoing military actions against Iran have cost the US $38 billion, driven by munitions replacement and higher fuel expenses.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/iran-war-costs-us-military-38-billion-as-cbo-warns-of-billions-more-in-monthly-expenses-11789501056348.html",
-      "dateLocation": "2026-09-16 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Cabinet Raises EPFO Wage Ceiling to ₹25,000",
+      "whyItMatters": "Brings millions of additional workers into mandatory social security coverage.",
+      "brief": "The Union Cabinet officially approved raising the Employee's Provident Fund Organisation wage ceiling from ₹15,000 to ₹25,000 per month.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/union-cabinet-approves-raising-epfo-wage-ceiling-to-25000-per-month-from-15000/article71471942.ece",
+      "dateLocation": "Sept 16, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Meta Agrees to Direct CSAM Reporting to Indian Authorities",
-      "whyItMatters": "Accelerates child safety compliance mechanisms within major social media platforms in India.",
-      "brief": "Meta has agreed to bypass US intermediaries and report child safety matters directly to Indian authorities, strengthening local regulatory enforcement.",
+      "headline": "Saudi Arabia Declares Mecca Attack a Red Line",
+      "whyItMatters": "Deepens regional instability as Houthi drone threats target holy sites.",
+      "brief": "Saudi forces intercepted a drone near Mecca, escalating security alerts and drawing international concern over ongoing Middle East conflicts.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/saudi-arabia-calls-attempted-mecca-attack-red-line-as-iran-backed-houthis-deny-they-did-it/article71471868.ece",
+      "dateLocation": "Sept 16, 2026 | Riyadh",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "SK Hynix Discusses US Chip Partnership with Intel",
+      "whyItMatters": "Could reshape domestic semiconductor supply chains and manufacturing footprints.",
+      "brief": "SK Hynix is reportedly in advanced discussions with Intel to manufacture memory chips inside the United States for the first time.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms",
-      "dateLocation": "2026-09-16 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVW1TN09JajVCZlllYVppOUxpX1RKbnVZOEpHNlA5ZkxFaElCd3h2czNacjJ6QlRyM2NPM1A4Y2tUVmNUTzlRSVJhX29oUk9ZTjFnYjFLOE9NWm5jaTVGOWo1Mnc1VHBOMTRKYXR0NURtUlltQV9ZVlgybWNSWmlDbjdVOGxLTTRlWFhGcUNNcjhYZXA2Q3BocGFpUF9sZXhYdXNURk5CVkZ2UVptUlUxOVQ1UmdOY1RUT2FvZDVBQ2EtNWRRbnpaMHlEYl9XQ2Ny?oc=5",
+      "dateLocation": "Sept 16, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Priscilla Chan's $125 Million Educational Venture Closes",
-      "whyItMatters": "Highlights systemic challenges in aligning philanthropic private schooling with state standards.",
-      "brief": "After operating for a decade, the school founded by Priscilla Chan with $125 million in donations is shutting down its operations to pivot towards scientific research initiatives.",
+      "headline": "Oracle Executes Second Major Layoff Round",
+      "whyItMatters": "Reflects ongoing corporate restructuring and cost-cutting across global tech firms.",
+      "brief": "Oracle reused its earlier termination emails to lay off mid-to-senior level employees globally, impacting hundreds of workers in India.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-read-the-6-am-email-oracle-leadership-reused-for-its-second-round-of-job-cuts-this-year-telling-employees-today-is-your-last-working-day/articleshow/134283195.cms",
+      "dateLocation": "Sept 16, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New Zealand Parliament Passes India Trade Pact",
+      "whyItMatters": "Reduces bilateral trade barriers and expands market access for exports.",
+      "brief": "New Zealand's parliament successfully passed a comprehensive trade agreement with India, significantly cutting tariffs on a majority of mutual export goods.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI?oc=5",
+      "dateLocation": "Sept 16, 2026 | Wellington",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "High Prolactin Linked to Pregnancy Loss",
+      "whyItMatters": "Provides vital diagnostic insights for hormonal and fertility health management.",
+      "brief": "Medical experts highlight the importance of prolactin screening during comprehensive hormonal evaluations for women dealing with recurrent fertility challenges.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms",
-      "dateLocation": "2026-09-16 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/can-high-prolactin-be-linked-to-repeated-pregnancy-loss-or-pmos/article71459869.ece",
+      "dateLocation": "Sept 16, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Harry Brook Sets T20I Record with Twin Centuries",
-      "whyItMatters": "Marks a historic milestone in international cricket captaincy and batting performance.",
-      "brief": "England's Harry Brook became the first Full Member captain to score two T20I centuries in the same calendar year following a blistering knock against Sri Lanka.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-scripts-history-becomes-first-cricketer-to-achieve-this-feat-in-t20is/articleshow/134276459.cms",
-      "dateLocation": "2026-09-16 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Bharat Forge Partners for HALE Drone Program",
+      "whyItMatters": "Bolsters India's domestic defense manufacturing and Atmanirbhar Bharat UAV push.",
+      "brief": "Bharat Forge and Pratt & Whitney Canada have joined forces to evaluate turboprop engines for the DRDO's high-altitude long-endurance drone initiative.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/bharat-forge-pratt-whitney-join-hands-for-india-s-hale-programme-what-it-means-for-india-s-uav-push-11789544117994.html",
+      "dateLocation": "Sept 16, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Ranks 131 on Global Gender Gap",
+      "whyItMatters": "Highlights persistent challenges in national gender parity indexes.",
+      "brief": "India's position on the global gender gap index remains unchanged at 131, while Nordic countries continue to lead worldwide rankings.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/indias-rank-on-global-gender-gap-index-unchanged-at-131-iceland-retains-top-spot/articleshow/134282911.cms",
+      "dateLocation": "Sept 16, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Hallmarking Fees Up by 67 Percent",
+      "whyItMatters": "Increases compliance costs for precious metal jewelry manufacturers and retailers.",
+      "brief": "The Bureau of Indian Standards has hiked hallmarking fees significantly, introducing new charging schedules for gold and silver articles.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/wealth/invest/gold-hallmarking-fee-hiked-by-67-new-bis-charges-for-gold-and-silver-articles-explained/articleshow/134284033.cms",
+      "dateLocation": "Sept 16, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Canada Evaluates EU Associate Membership",
+      "whyItMatters": "Could deeply integrate North American and European defense and trade policies.",
+      "brief": "European Commission leadership has proposed Canada as the EU's first associate member to enhance cross-continental strategic collaboration.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/canada-may-become-the-eus-first-associate-member-what-could-it-get-from-trade-to-defence-and-more-11789552345139.html",
+      "dateLocation": "Sept 16, 2026 | Brussels",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
