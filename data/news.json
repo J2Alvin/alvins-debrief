@@ -1,120 +1,84 @@
 {
-  "lastUpdated": "2026-09-16T10:48:41.413Z",
+  "lastUpdated": "2026-09-16T16:04:58.171Z",
   "ticker": [
-    "India-Pakistan naval collision in Arabian Sea",
-    "UPI fee structure updated for merchants",
-    "EPFO wage ceiling raised to ₹25,000",
-    "Strait of Hormuz tensions escalate",
-    "SK Hynix in talks with Intel"
+    "India cabinet clears EPF wage limit hike",
+    "Government defends UPI merchant charges",
+    "Death penalty in 2013 Maoist attack",
+    "New Zealand passes India trade deal",
+    "India protests naval ship collision"
   ],
   "articles": [
     {
-      "headline": "India Protests Naval Collision with Pakistan",
-      "whyItMatters": "Heightens bilateral naval tensions in international shipping lanes.",
-      "brief": "New Delhi summoned Islamabad's envoy after an Indian warship and a Pakistan Navy vessel collided in the Arabian Sea, causing no major damage.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/videos/tanker-el-gaia-hit-in-strait-of-hormuz-with-25-crew-members-on-board-including-14-indians/article71472024.ece",
-      "dateLocation": "Sept 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Implements UPI Fee Shake-Up",
-      "whyItMatters": "Ends the completely free digital payment era for large merchants.",
-      "brief": "India introduces a fee structure on large merchant transactions via UPI, prompting heavy political debate and restructuring digital payment economics.",
+      "headline": "India Clears EPF Wage Upper Limit Hike",
+      "whyItMatters": "Expands social security coverage for millions of formal sector employees across India.",
+      "brief": "The Indian cabinet has cleared a plan to raise the Employees' Provident Fund wage upper limit to 25,000 rupees.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmplVU0tSzN3OXktN2pJZV8yenNyendPSDFaVE5CRmF3NDl5OHU1NGM4VWhwZElDMU5YOEFUUXlNS2h3bFR4TGoxOXpQVDJvS09hQ3BaaTQ1ZDR6akhBTEw2MVNyc1pZYzItc3FEaXlZLWEwQjhoM0ZqM004TWprU0V1R1dDQURYVTA0VGFaVjJycWh4NlROOXRfODR3SlRL?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHBFS2l6Vm1mUWVXN3RiNUlWeUZsV1pSaHlIbEE1NGtudkhxTS1RbGI1OHpVR0ZCbmdkRmZaYnphcDMySjFRLWJ3Mmk5UVJ3MTJORlU2SVB6ajRUUW9nRXpONmxxSlRTckx4TUlydXRMSktvTlFuNzlnNEpJQmE3dVBxZllkVXZCSE81S1p5Yl9Kd29yR3J5U2liWVZiM3N2bGRwMVNpSHFtNVIzSGxFUnh0aw?oc=5",
       "dateLocation": "Sept 16, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cabinet Raises EPFO Wage Ceiling to ₹25,000",
-      "whyItMatters": "Brings millions of additional workers into mandatory social security coverage.",
-      "brief": "The Union Cabinet officially approved raising the Employee's Provident Fund Organisation wage ceiling from ₹15,000 to ₹25,000 per month.",
+      "headline": "Government Defends New UPI Merchant Charges",
+      "whyItMatters": "Restructures the digital payment ecosystem by introducing fees for larger merchant transactions.",
+      "brief": "The Indian government has firmly defended the introduction of a Merchant Discount Rate for UPI transactions exceeding 2,000 rupees.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/union-cabinet-approves-raising-epfo-wage-ceiling-to-25000-per-month-from-15000/article71471942.ece",
-      "dateLocation": "Sept 16, 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/no-question-of-rollback-govt-digs-in-on-upi-mdr-amid-rahul-gandhis-attack/articleshow/134287348.cms",
+      "dateLocation": "Sept 16, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Arabia Declares Mecca Attack a Red Line",
-      "whyItMatters": "Deepens regional instability as Houthi drone threats target holy sites.",
-      "brief": "Saudi forces intercepted a drone near Mecca, escalating security alerts and drawing international concern over ongoing Middle East conflicts.",
+      "headline": "New Zealand Parliament Passes India Trade Deal",
+      "whyItMatters": "Reduces trade barriers and cuts tariffs on a wide range of bilateral export goods.",
+      "brief": "New Zealand parliament has officially passed a trade agreement with India, significantly cutting tariffs on most export items.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/saudi-arabia-calls-attempted-mecca-attack-red-line-as-iran-backed-houthis-deny-they-did-it/article71471868.ece",
-      "dateLocation": "Sept 16, 2026 | Riyadh",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SK Hynix Discusses US Chip Partnership with Intel",
-      "whyItMatters": "Could reshape domestic semiconductor supply chains and manufacturing footprints.",
-      "brief": "SK Hynix is reportedly in advanced discussions with Intel to manufacture memory chips inside the United States for the first time.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVW1TN09JajVCZlllYVppOUxpX1RKbnVZOEpHNlA5ZkxFaElCd3h2czNacjJ6QlRyM2NPM1A4Y2tUVmNUTzlRSVJhX29oUk9ZTjFnYjFLOE9NWm5jaTVGOWo1Mnc1VHBOMTRKYXR0NURtUlltQV9ZVlgybWNSWmlDbjdVOGxLTTRlWFhGcUNNcjhYZXA2Q3BocGFpUF9sZXhYdXNURk5CVkZ2UVptUlUxOVQ1UmdOY1RUT2FvZDVBQ2EtNWRRbnpaMHlEYl9XQ2Ny?oc=5",
-      "dateLocation": "Sept 16, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oracle Executes Second Major Layoff Round",
-      "whyItMatters": "Reflects ongoing corporate restructuring and cost-cutting across global tech firms.",
-      "brief": "Oracle reused its earlier termination emails to lay off mid-to-senior level employees globally, impacting hundreds of workers in India.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-read-the-6-am-email-oracle-leadership-reused-for-its-second-round-of-job-cuts-this-year-telling-employees-today-is-your-last-working-day/articleshow/134283195.cms",
-      "dateLocation": "Sept 16, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New Zealand Parliament Passes India Trade Pact",
-      "whyItMatters": "Reduces bilateral trade barriers and expands market access for exports.",
-      "brief": "New Zealand's parliament successfully passed a comprehensive trade agreement with India, significantly cutting tariffs on a majority of mutual export goods.",
-      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlRsdXdHb2dDYTBpODY1eVIyc09aQkY5UjZpajFnaTFUZnIxeEM3cmNVVG14TEVaazRtaHpkRDd6bUhISzluUU9ZMW5VU1dFQkJ0aXZqZXB3cXdjd3NacmFELVAzRXlWNDZMeVNNVHVlX0hMVzNRWDlmV0lXUEh2d2tOR3pwT1VEVFJ5cURIZFdjb0p1bTlVY2dOWVRDSi1Yb29WU25TMldYeTJKMTl4aVd6cERhd0JjNVpkTkljaDI?oc=5",
-      "dateLocation": "Sept 16, 2026 | Wellington",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "Sept 16, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "High Prolactin Linked to Pregnancy Loss",
-      "whyItMatters": "Provides vital diagnostic insights for hormonal and fertility health management.",
-      "brief": "Medical experts highlight the importance of prolactin screening during comprehensive hormonal evaluations for women dealing with recurrent fertility challenges.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/can-high-prolactin-be-linked-to-repeated-pregnancy-loss-or-pmos/article71459869.ece",
-      "dateLocation": "Sept 16, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bharat Forge Partners for HALE Drone Program",
-      "whyItMatters": "Bolsters India's domestic defense manufacturing and Atmanirbhar Bharat UAV push.",
-      "brief": "Bharat Forge and Pratt & Whitney Canada have joined forces to evaluate turboprop engines for the DRDO's high-altitude long-endurance drone initiative.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/bharat-forge-pratt-whitney-join-hands-for-india-s-hale-programme-what-it-means-for-india-s-uav-push-11789544117994.html",
-      "dateLocation": "Sept 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Ranks 131 on Global Gender Gap",
-      "whyItMatters": "Highlights persistent challenges in national gender parity indexes.",
-      "brief": "India's position on the global gender gap index remains unchanged at 131, while Nordic countries continue to lead worldwide rankings.",
+      "headline": "Death Penalty for Maoist Attack Convicts",
+      "whyItMatters": "Delivers a definitive judicial verdict on one of the deadliest political attacks in modern history.",
+      "brief": "A court has handed down the death penalty to all ten convicts involved in the 2013 Jhiram Valley Maoist attack.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/indias-rank-on-global-gender-gap-index-unchanged-at-131-iceland-retains-top-spot/articleshow/134282911.cms",
-      "dateLocation": "Sept 16, 2026 | New Delhi",
+      "sourceUrl": "https://www.thehindu.com/news/national/chhattisgarh/death-penalty-for-all-10-convicts-in-2013-jhiram-valley-maoist-attack-case/article71472537.ece",
+      "dateLocation": "Sept 16, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Hallmarking Fees Up by 67 Percent",
-      "whyItMatters": "Increases compliance costs for precious metal jewelry manufacturers and retailers.",
-      "brief": "The Bureau of Indian Standards has hiked hallmarking fees significantly, introducing new charging schedules for gold and silver articles.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/wealth/invest/gold-hallmarking-fee-hiked-by-67-new-bis-charges-for-gold-and-silver-articles-explained/articleshow/134284033.cms",
-      "dateLocation": "Sept 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Protests Naval Collision to Pakistan",
+      "whyItMatters": "Escalates diplomatic tensions between neighboring nations following an incident at sea.",
+      "brief": "India has formally protested to Pakistan regarding the collision of naval ships operating in international waters.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlYtUV9TbjBCNm1SdkF0c1R1R2F6WGdOSmhMRkNQaWVXWFNpODc1LUZTQ2xhTjRzTFo4dlBIZW11bmh4R09WUUduUHhhQmN5VTRHVG1HbW9OX0VPNDFwbExEMU1tS0VwYU9mMzRGUWpfdnR6bHVOMDVESVNXMUJRUEhHZExoaDkwZmpYa1hndnpQaFJYS1IwTkVyNzBzSkg1OUwzQTMzZVlBTExobUE?oc=5",
+      "dateLocation": "Sept 16, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Canada Evaluates EU Associate Membership",
-      "whyItMatters": "Could deeply integrate North American and European defense and trade policies.",
-      "brief": "European Commission leadership has proposed Canada as the EU's first associate member to enhance cross-continental strategic collaboration.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/canada-may-become-the-eus-first-associate-member-what-could-it-get-from-trade-to-defence-and-more-11789552345139.html",
-      "dateLocation": "Sept 16, 2026 | Brussels",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Apple Considers Nvidia Tech for Servers",
+      "whyItMatters": "Signals a potential strategic shift in Apple's enterprise and cloud computing infrastructure partnerships.",
+      "brief": "Apple is reportedly considering Nvidia technology as it plans its long-awaited return to the server hardware market.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5",
+      "dateLocation": "Sept 16, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Surges Ahead of Fed Rate Decision",
+      "whyItMatters": "Reflects broader macroeconomic hedging and shifting currency yields ahead of central bank updates.",
+      "brief": "Gold prices gained over one percent as oil prices and treasury yields slipped ahead of the Federal Reserve rate decision.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVwMWpILUF1dnhqajU0di1FMVRLWGNScTJKdTR2NUl2VWZSUXpWNF9UQ3h2M0ZuMUYxZzJab09IcUMwN0RQSlRtcC1HSGdQM2poNXptR1BCeklERXdjcmE5N2tzNmdHczY1SkdnSXE0Q3dJNV9TYkNjVDdNUFZjLUhDMkRWcHlsNVF5V19sS1MwX3lnNG13?oc=5",
+      "dateLocation": "Sept 16, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Unveils Squad for West Indies Series",
+      "whyItMatters": "Reshapes national team leadership and player selections ahead of major upcoming cricket fixtures.",
+      "brief": "India announced its squads for the upcoming series, appointing Shubman Gill as ODI captain and resting several senior players.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-returns-to-odi-squad-dhruv-jurel-pips-rishabh-pant-rohit-sharma-stays/articleshow/134291088.cms",
+      "dateLocation": "Sept 16, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
