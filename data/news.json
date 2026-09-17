@@ -1,120 +1,154 @@
 {
-  "lastUpdated": "2026-09-17T10:55:37.995Z",
+  "lastUpdated": "2026-09-17T16:11:35.369Z",
   "ticker": [
-    "NSE India $2.3B IPO opens",
-    "US-India tensions rise over oil tariffs",
-    "UN alleges US and Iran war crimes",
-    "Australia restricts international student visas",
-    "Saudi pipeline shutdown halts oil supplies"
+    "Tata reappoints chairman amid governance rift",
+    "Pakistan announces severe fuel austerity measures",
+    "Bank of England shifts tone toward rate hikes",
+    "Applied Materials invests $5B in India chip sector",
+    "Abhishek Sharma breaks fastest T20I record"
   ],
   "articles": [
     {
-      "headline": "NSE India $2.3 Billion IPO Opens for Subscription",
-      "whyItMatters": "It marks one of the largest public offerings in the region.",
-      "brief": "The National Stock Exchange of India has officially opened its massive $2.3 billion initial public offering for market subscription.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPME1EbktmN3VLZGdidFl4UVl0UURYZXNxQWFySFFZNHVSYU9YX1BrNkRYVUZzSnFLaE1BRGNicG9RbHpvczg5VWdXSnM4NjJWNlZoUkZZamlBakFhaTl3VDlkMkZrdTg3N3IyUTlvTm5vQm5BeXJTWTJ5ZzNZN0xHNF8tLWtTUzV5TFEtNEkyR0lZMFBDUDNjeVpockloajNIN3djRkVuYXB6TUJ6dXZYSlNYVWhQV2NlQlE?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tata Reappoints Chairman Amid Boardroom Tensions",
+      "whyItMatters": "Highlights high-stakes governance struggles within India's largest conglomerate.",
+      "brief": "Tata Sons reappointed its executive chairman by majority vote, navigating a growing rift with its controlling charity trust over listings and future strategy.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdTFnQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5",
+      "dateLocation": "September 17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Warns US Tariffs Over Russian Oil Threaten Ties",
-      "whyItMatters": "Energy security remains a vital point of diplomatic friction.",
-      "brief": "New Delhi has strongly defended its energy procurement policies while cautioning Washington against imposing punitive tariffs on Russian oil trade.",
+      "headline": "Pakistan Implements Austerity as Gulf Conflict Deepens",
+      "whyItMatters": "Demonstrates the expanding economic fallout of Middle Eastern energy disruptions.",
+      "brief": "Pakistan has rolled out emergency austerity measures to conserve fuel as escalating conflicts in the Gulf severely strain national energy reserves and supplies.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0Jyc1lIM3FCbG1acWJJU0xWdUdSUTM2TWloWk9tTDRGaDRyRmhvWUFtQ2k4NE02d25Vb29BYUFqYnFoY014eWpMM2hlaDJ1R0RESE5heGszQ3FiTEUzMGVrZTFvYjNGazZIM1RpTjZUNzNMQ3UwQnE3cG9fOE9FM3MybUo0X05ISnNXOWJZV1h3SE9TRUJ3S2lfejF6UWlPZ3NvT3MtMGNsVjlVeGV1Qkpud0QxMm81NVRSVk91TENhSzlCbnFR?oc=5",
+      "dateLocation": "September 17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Resists US Tariffs Over Russian Oil Imports",
+      "whyItMatters": "Signals potential diplomatic friction over global energy supply chains and sanctions.",
+      "brief": "New Delhi stated that proposed US tariffs on Russian oil could harm bilateral ties, maintaining its firm stance on safeguarding national energy security.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEYxR3ZWQVp2WmNVWFlkTGd2QThGc3VMX2pPd3JSbkR4ekxSZm1WbjdhSU1hZ2JHaHZIZEJRSEEwdUZUOVl4REwxWU9OWUFJcWxaWm9hNk4yeXJJVU5FSUQ4WWZFVTVwQmpaZlFOem5wc1hiNnJJQklmQXo3aWpaOG1tY2tUWm9IalFnSFUzbWFoREwxNHo0RzZrb0RNbHJSa25yMDlidVk5WEt4RkNKRjQwRXpZSWkyYUE?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
+      "dateLocation": "September 17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Australia Implements Major Crackdown on Student Visas",
-      "whyItMatters": "The policy shift directly impacts hundreds of thousands of international students.",
-      "brief": "Australia has enforced strict visa limitations to curb surging net migration, significantly restricting students from bringing family members.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDViRDgzOU9tQ1BaamhJaXduZVlVbko2WlREN0U5ZExnSFJjR1JWTDRHRDlpdmxpLUVURlpST0pLY2xvV3VRdEw4RGdSbk5jSnl2VmI5djlzZWJjODNkTFdERDd1SzhxNUs2MHNNeThGWGdPbmpIMEE3aXdZeU5pYzhKVTdmc1ZWeGUyZmJmU1Fta3M4QW5lQWFwbWtRMTJzcWkzanpQNERkb0M4VEVlT2stVUtXbkxpeWtVV0w4WU51NTRibGp6MVozbTl5Zw?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UN Mission Finds Grounds for US and Iranian War Crimes",
-      "whyItMatters": "International scrutiny intensifies over recent Middle Eastern military escalations.",
-      "brief": "A UN investigative report concluded that the US committed war crimes in deadly strikes, while Tehran faced accusations of crimes against humanity.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AI Military Risks Spark Concern at China Security Conference",
-      "whyItMatters": "Autonomous weapons systems pose escalating global security challenges.",
-      "brief": "Delegates at a high-level security conference in China voiced serious concerns regarding the unmitigated risks of military artificial intelligence applications.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2R6ekhkRHVUTU95d042blJ6bWlXZEFxcEhPWTV5S3JtVXI0emlsaVdyb1BURWJzZk5ySWdyVGNKcEJldUg5Q3BaNF9wdUxWVzZyZHA2RWpjVWJVU1hRa2c2dmtMX3FOOGVKWFlBU0dfcjU0R1AtTjFURmpUOHo5LTFVRXBlaWx6OHktNHJiQUZ6a0NOdElKVHNIZnlTVW5hc0RTMTVnSE95NnExaEdJNWplNjdUdjQ?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Cabinet Approves EPF Wage Ceiling Hike to 25,000 Rupees",
-      "whyItMatters": "This reform expands formal social security coverage for the Indian workforce.",
-      "brief": "The Indian cabinet officially cleared a proposal to raise the Employees' Provident Fund wage upper limit to 25,000 rupees.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHBFS2l6Vm1mUWVXN3RiNUlWeUZsV1pSaHlIbEE1NGtudkhxTS1RbGI1OHpVR0ZCbmdkRmZaYnphcDMySjFRLWJ3Mmk5UVJ3MTJORlU2SVB6ajRUUW9nRXpONmxxSlRTckx4TUlydXRMSktvTlFuNzlnNEpJQmE3dVBxZllkVXZCSE81S1p5Yl9Kd29yR3J5U2liWVZiM3N2bGRwMVNpSHFtNVIzSGxFUnh0aw?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Saudi Aramco Halts Crude Supplies Following Pipeline Shutdown",
-      "whyItMatters": "Global oil markets face immediate supply chain disruptions.",
-      "brief": "The closure of Saudi Arabia's East-West pipeline has halted crude deliveries to major Indian refineries, prompting rising energy price concerns.",
+      "headline": "Bank of England Signals Rate Hikes on Inflation",
+      "whyItMatters": "Reflects shifting central bank priorities as global inflationary pressures persist.",
+      "brief": "The Bank of England has shifted its policy tone toward prospective interest rate hikes as economic indicators project inflation surpassing the four percent threshold.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/eastwest-pipeline-shutdown-saudi-aramco-halts-supplies-to-indian-refiners-11789626993707.html",
-      "dateLocation": "2026-09-17 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5",
+      "dateLocation": "September 17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Labor Department Ramps Up H-1B Visa Fraud Probes",
-      "whyItMatters": "Foreign worker recruitment practices face intense federal scrutiny.",
-      "brief": "Federal investigators are expanding H-1B visa fraud inspections beyond technology sectors, leveraging whistleblower tips to uncover systemic abuses.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/count-your-days-us-labor-department-ramps-up-h-1b-fraud-probe-amid-increased-scrutiny-11789630081342.html",
-      "dateLocation": "2026-09-17 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Health Ministry Bars Stem Cell Therapy for Autism as Routine",
-      "whyItMatters": "Patients are protected from unproven and potentially harmful medical treatments.",
-      "brief": "India's health ministry has issued a strict directive barring clinics from marketing stem cell therapies as standard treatments for autism.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/health-ministry-bars-stem-cell-therapy-for-autism-as-routine-care-11789622430314.html",
-      "dateLocation": "2026-09-17 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tata Sons Reappoints N Chandrasekaran as Chairman",
-      "whyItMatters": "Continuity is secured at the helm of India's largest conglomerate.",
-      "brief": "The board of Tata Sons reversed its prior stance, unanimously approving a fresh five-year leadership term for N Chandrasekaran.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-approves-re-appointment-of-n-chandrasekaran-as-chairman-of-tata-group-for-another-5-year-term/articleshow/134307569.cms",
-      "dateLocation": "2026-09-17 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Salesforce CEO Urges AI Firms to Adopt Hawaiian Responsibility Concept",
-      "whyItMatters": "Tech leaders debate proactive accountability frameworks for artificial intelligence.",
-      "brief": "Marc Benioff has called on artificial intelligence companies to embrace the Hawaiian concept of kuleana to manage emerging systemic risks.",
+      "headline": "Applied Materials Pledges $5 Billion Chip Investment in India",
+      "whyItMatters": "Reinforces India's emergence as a key destination for global semiconductor manufacturing.",
+      "brief": "Applied Materials announced a massive $5 billion investment package in India as Prime Minister Modi's flagship semiconductor event commences.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-made-largest-healthcare-donation-in-hawaiis-history-now-he-wants-ai-companies-to-follow-hawaiian-concept-of-/articleshow/134305244.cms",
-      "dateLocation": "2026-09-17 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3kyeU5pWlZVczhBTGVoMVlLTFZkLS1Tb2J5QkhXdldvNW1fVlVCNTNRMUdiVUNBVGVDaURDb2NFSTZTOG1MR2Q2dWdXdXJDSkJmd0t3NjNncGN6VGdCeDF4T2pGWEQ2OXhNTU5zcEFaa0c2aTJEczgtbE1GeWZ6M0JJb2ZJbWY1TzlIaTYwOHVtWEp0LWtZeW9sNjNmUVE0cHRIaFNnSzZVZ3NmNUZXVW5yamdHODNTVkxXWE5CaHV6Y0V6VzVTd1BJNA?oc=5",
+      "dateLocation": "September 17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Mandatory CCTVs Proposed for Indian Medical Stores",
-      "whyItMatters": "Regulatory oversight over prescription drug sales is set to tighten.",
-      "brief": "India is proposing mandatory CCTV surveillance across pharmacies to guarantee transparency and regulate prescription medication supply chains.",
+      "headline": "King Charles Warns of Severe AI Existential Risks",
+      "whyItMatters": "Emphasizes top-level global concern regarding the uncontrolled proliferation of advanced artificial intelligence.",
+      "brief": "Monarch King Charles warned global technology leaders of profound existential risks if artificial intelligence systems ultimately fall into malicious hands.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtbUd4TWFBZFhmZHZMYXZuV0E3NUZoZzZ2LUtOWE00UHpmVkVObEhmOENPS2IzN0J6dkZYZlYxYXFQcExiTEZSSXd1WkUtV3lvX2xQaDZFYzUxQS1aeERURmtaT2RpTE42U1RKYlc2ZndZSHFNU0IzZUwwd3ZRTk9wQy1xTmQtcXlDUDBJUS05RHBwUk8wakpkX19tUkpjSklDcldBMktQM29sUFZjS2hPSFdxQnRLU0FpaDd2SC1pZC1sQ0dfaG5aY3NEcHQwYjM0?oc=5",
+      "dateLocation": "September 17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Novo and Orbis Sign $1.4 Billion Oral Drug Deal",
+      "whyItMatters": "Expands pharmaceutical pipelines targeting next-generation oral therapeutics and treatments.",
+      "brief": "Novo and Orbis have finalized a $1.4 billion partnership agreement aimed at accelerating the research and development of novel oral drug treatments.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/health-ministry-mandatory-cctv-coverage-medical-stores-prescription-drugs-regulation-of-sales-chemists-pharmacies-11789625876785.html",
-      "dateLocation": "2026-09-17 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEpTSXdZaXJKZU1mRkFwczRkakJpbXNpdWhTVWMwbGpzZ0hxaVJzcXE2QlZwOTEyOWVhZFQxVml4RjZFRVNYYS1OdG1IQk8yeFh4TXVGeHBDY3IydFRhUnRMMUtRX1ZJanJ0c21Nanp1VHltRWpmTHlXMUlJaTktVzRzSzFYaFdmWHlDRDhyZG1kSjc4NFRNb1VuUGltTENTSmlnNHJnU2M0Zw?oc=5",
+      "dateLocation": "September 17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Abhishek Sharma Smashes Fastest T20I Century for India",
+      "whyItMatters": "Sets a new milestone in Indian cricket history with an explosive batting performance.",
+      "brief": "Abhishek Sharma shattered the record for the fastest T20I century by an Indian, reaching the milestone in a blistering 30 balls.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-hits-fastest-t20i-century-by-an-indian-breaks-rohit-sharmas-record/articleshow/134315127.cms",
+      "dateLocation": "September 17 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "EPFO Raises Wage Ceiling, Impacting Employee Contributions",
+      "whyItMatters": "Alters mandatory social security calculations and take-home pay structures for millions.",
+      "brief": "The Employees' Provident Fund Organisation has raised its statutory wage ceiling, altering contribution structures and prompting reviews of employee take-home pay.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-rises-to-rs-25000-what-has-changed-and-will-your-take-home-pay-salary-come-down/articleshow/134307071.cms",
+      "dateLocation": "September 17 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Australia Bars International Students From Bringing Families",
+      "whyItMatters": "Tightens immigration policies impacting global study destinations and international student mobility.",
+      "brief": "Australia has implemented strict new restrictions blocking the vast majority of foreign students from bringing family members into the country.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/nri/study/australia-bans-most-international-students-from-bringing-family-members/articleshow/134306416.cms",
+      "dateLocation": "September 17 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Centre Cuts NEET-SS Percentile Requirement to 30%",
+      "whyItMatters": "Expands eligibility criteria for super-specialty medical courses across the nation.",
+      "brief": "The central government has lowered the NEET-SS cut-off percentile to thirty percent, making thousands of additional candidates eligible for advanced medical admissions.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/neet-ss-cut-off-to-drop-to-30-over-6000-more-candidates-eligible-centre-tells-supreme-court/articleshow/134314113.cms",
+      "dateLocation": "September 17 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AI Boom Drives Trillion-Dollar Data Center Expansion",
+      "whyItMatters": "Highlights massive real estate and infrastructure transformation driven by artificial intelligence.",
+      "brief": "Surging artificial intelligence workloads are projected to dominate global data center demand by 2030, fueling monumental institutional real estate investments.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/real-estate/news/why-the-ai-boom-matters-to-real-estate-inside-the-3-trillion-data-centre-opportunity/articleshow/134314829.cms",
+      "dateLocation": "September 17 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Exporters Secure Wider Access to EU Steel Market",
+      "whyItMatters": "Boosts manufacturing exports and trade relations prior to a formal free trade agreement.",
+      "brief": "Indian steel exporters have secured favorable quota-based duty-free access to European Union markets, significantly increasing annual export capacity.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/india-eu-fta-steel-export-quota-duty-free-access-11789649990445.html",
+      "dateLocation": "September 17 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UN Experts Flag Potential War Crimes in US Strikes",
+      "whyItMatters": "Raises international legal scrutiny over military operations and Middle Eastern conflict conduct.",
+      "brief": "United Nations investigators have formally flagged two recent US military strikes in Iran over potential violations of international humanitarian law.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/un-experts-flag-two-us-strikes-in-iran-over-possible-war-crimes-which-ones-11789651893095.html",
+      "dateLocation": "September 17 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IndiGo Revises Add-on Fees Amid Rising Travel Costs",
+      "whyItMatters": "Affects travel expenses and service pricing frameworks for major domestic airline passengers.",
+      "brief": "IndiGo has hiked various passenger add-on fees, significantly increasing costs for infant travel, priority boarding, and excess baggage allowances.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/indigo-revises-add-on-fees-infant-travel-up-50-excess-baggage-now-800-kg-heres-how-much-you-have-to-pay-now-11789655725411.html",
+      "dateLocation": "September 17 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil India Commits $1.8 Billion to Deepwater Drilling",
+      "whyItMatters": "Expands domestic exploration efforts to secure long-term national energy independence.",
+      "brief": "State-run Oil India has announced a major capital expenditure plan to aggressively pursue deepwater hydrocarbon exploration across multiple offshore wells.",
+      "category": "energy",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
