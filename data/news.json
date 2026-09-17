@@ -1,153 +1,146 @@
 {
-  "lastUpdated": "2026-09-17T16:11:35.369Z",
+  "lastUpdated": "2026-09-17T20:55:48.583Z",
   "ticker": [
-    "Tata reappoints chairman amid governance rift",
-    "Pakistan announces severe fuel austerity measures",
-    "Bank of England shifts tone toward rate hikes",
-    "Applied Materials invests $5B in India chip sector",
-    "Abhishek Sharma breaks fastest T20I record"
+    "US Passes Russia Sanctions Bill",
+    "Tata Reappoints Executive Chairman",
+    "Pakistan Announces Fuel Austerity",
+    "US Approves Visas For Iran Leaders",
+    "Bank of England Signals Rate Hike"
   ],
   "articles": [
     {
-      "headline": "Tata Reappoints Chairman Amid Boardroom Tensions",
-      "whyItMatters": "Highlights high-stakes governance struggles within India's largest conglomerate.",
-      "brief": "Tata Sons reappointed its executive chairman by majority vote, navigating a growing rift with its controlling charity trust over listings and future strategy.",
+      "headline": "Tata Reappoints Chairman Amid Charity Dispute",
+      "whyItMatters": "Secures leadership stability for India's largest conglomerate amidst internal governance tensions.",
+      "brief": "Tata Sons has reappointed its executive chairman for a five-year term following majority board support, signaling continuity despite ongoing friction with controlling philanthropic trusts.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdTFnQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5",
-      "dateLocation": "September 17 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdGdpQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Implements Austerity as Gulf Conflict Deepens",
-      "whyItMatters": "Demonstrates the expanding economic fallout of Middle Eastern energy disruptions.",
-      "brief": "Pakistan has rolled out emergency austerity measures to conserve fuel as escalating conflicts in the Gulf severely strain national energy reserves and supplies.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0Jyc1lIM3FCbG1acWJJU0xWdUdSUTM2TWloWk9tTDRGaDRyRmhvWUFtQ2k4NE02d25Vb29BYUFqYnFoY014eWpMM2hlaDJ1R0RESE5heGszQ3FiTEUzMGVrZTFvYjNGazZIM1RpTjZUNzNMQ3UwQnE3cG9fOE9FM3MybUo0X05ISnNXOWJZV1h3SE9TRUJ3S2lfejF6UWlPZ3NvT3MtMGNsVjlVeGV1Qkpud0QxMm81NVRSVk91TENhSzlCbnFR?oc=5",
-      "dateLocation": "September 17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Resists US Tariffs Over Russian Oil Imports",
-      "whyItMatters": "Signals potential diplomatic friction over global energy supply chains and sanctions.",
-      "brief": "New Delhi stated that proposed US tariffs on Russian oil could harm bilateral ties, maintaining its firm stance on safeguarding national energy security.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEYxR3ZWQVp2WmNVWFlkTGd2QThGc3VMX2pPd3JSbkR4ekxSZm1WbjdhSU1hZ2JHaHZIZEJRSEEwdUZUOVl4REwxWU9OWUFJcWxaWm9hNk4yeXJJVU5FSUQ4WWZFVTVwQmpaZlFOem5wc1hiNnJJQklmQXo3aWpaOG1tY2tUWm9IalFnSFUzbWFoREwxNHo0RzZrb0RNbHJSa25yMDlidVk5WEt4RkNKRjQwRXpZSWkyYUE?oc=5",
-      "dateLocation": "September 17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bank of England Signals Rate Hikes on Inflation",
-      "whyItMatters": "Reflects shifting central bank priorities as global inflationary pressures persist.",
-      "brief": "The Bank of England has shifted its policy tone toward prospective interest rate hikes as economic indicators project inflation surpassing the four percent threshold.",
+      "headline": "India Faces Severe Rice Output Drop",
+      "whyItMatters": "Threatens domestic food pricing, though existing national reserves offer export cushioning.",
+      "brief": "India's rice production is confronting its largest single-year decline in two decades, though abundant national buffer stocks will help cushion immediate export commitments.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5",
-      "dateLocation": "September 17 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZENVQmY1eVNPd2hpVjdLWGNmQTFPdjYxNC1hbnM4cjJQS1pGVWlYeFhKSjNJMWh3NlpPQUp5ZEpmUmZoYnZPNGNfZDVVZ3pmaUx0enNXajZLaHdKTFdEQU8xbHdXSGluMy05b09rNHpXS01IUE1JWEg5UHBKTHdOemY4eVZnaTh0YkQ5WVE5UEJfbjJMSVZYUWtDWHBldURqVVlQZDhzLU9mRDhQRGxyZWp1cDBweE8zUk1v?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Applied Materials Pledges $5 Billion Chip Investment in India",
-      "whyItMatters": "Reinforces India's emergence as a key destination for global semiconductor manufacturing.",
-      "brief": "Applied Materials announced a massive $5 billion investment package in India as Prime Minister Modi's flagship semiconductor event commences.",
+      "headline": "India Resists US Tariffs Over Russian Oil",
+      "whyItMatters": "Exposes potential diplomatic friction between Washington and New Delhi regarding energy procurement autonomy.",
+      "brief": "New Delhi warned that new American secondary tariffs targeting Russian energy purchases risk damaging bilateral ties, reaffirming its absolute commitment to national energy security.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEYxR3ZWQVp2WmNVWFlkTGd2QThGc3VMX2pPd3JSbkR4ekxSZm1WbjdhSU1hZ2JHaHZIZEJRSEEwdUZUOVl4REwxWU9OWUFJcWxaWm9hNk4yeXJJVU5FSUQ4WWZFVTVwQmpaZlFOem5wc1hiNnJJQklmQXo3aWpaOG1tY2tUWm9IalFnSFUzbWFoREwxNHo0RzZrb0RNbHJSa25yMDlidVk5WEt4RkNKRjQwRXpZSWkyYUE?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Applied Materials Pledges $5B Chip Investment",
+      "whyItMatters": "Accelerates India's ambitions to establish a domestic semiconductor manufacturing and design ecosystem.",
+      "brief": "Applied Materials has announced a massive $5 billion capital investment in India, timed alongside the launch of Prime Minister Modi's flagship semiconductor industry summit.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3kyeU5pWlZVczhBTGVoMVlLTFZkLS1Tb2J5QkhXdldvNW1fVlVCNTNRMUdiVUNBVGVDaURDb2NFSTZTOG1MR2Q2dWdXdXJDSkJmd0t3NjNncGN6VGdCeDF4T2pGWEQ2OXhNTU5zcEFaa0c2aTJEczgtbE1GeWZ6M0JJb2ZJbWY1TzlIaTYwOHVtWEp0LWtZeW9sNjNmUVE0cHRIaFNnSzZVZ3NmNUZXVW5yamdHODNTVkxXWE5CaHV6Y0V6VzVTd1BJNA?oc=5",
-      "dateLocation": "September 17 | Reuters",
+      "dateLocation": "2026-09-17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "King Charles Warns of Severe AI Existential Risks",
-      "whyItMatters": "Emphasizes top-level global concern regarding the uncontrolled proliferation of advanced artificial intelligence.",
-      "brief": "Monarch King Charles warned global technology leaders of profound existential risks if artificial intelligence systems ultimately fall into malicious hands.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtbUd4TWFBZFhmZHZMYXZuV0E3NUZoZzZ2LUtOWE00UHpmVkVObEhmOENPS2IzN0J6dkZYZlYxYXFQcExiTEZSSXd1WkUtV3lvX2xQaDZFYzUxQS1aeERURmtaT2RpTE42U1RKYlc2ZndZSHFNU0IzZUwwd3ZRTk9wQy1xTmQtcXlDUDBJUS05RHBwUk8wakpkX19tUkpjSklDcldBMktQM29sUFZjS2hPSFdxQnRLU0FpaDd2SC1pZC1sQ0dfaG5aY3NEcHQwYjM0?oc=5",
-      "dateLocation": "September 17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Pakistan Implements Severe Fuel Austerity Measures",
+      "whyItMatters": "Highlights intense regional economic vulnerability amid compounding Middle Eastern energy supply shocks.",
+      "brief": "Pakistan has enacted emergency austerity protocols, banning official dinners and restricting foreign travel to conserve petroleum reserves as the Gulf conflict intensifies.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0Jyc1lIM3FCbG1acWJJU0xWdUdSUTM2TWloWk9tTDRGaDRyRmhvWUFtQ2k4NE02d25Vb29BYUFqYnFoY014eWpMM2hlaDJ1R0RESE5heGszQ3FiTEUzMGVrZTFvYjNGazZIM1RpTjZUNzNMQ3UwQnE3cG9fOE9FM3MybUo0X05ISnNXOWJZV1h3SE9TRUJ3S2lfejF6UWlPZ3NvT3MtMGNsVjlVeGV1Qkpud0QxMm81NVRSVk91TENhSzlCbnFR?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Novo and Orbis Sign $1.4 Billion Oral Drug Deal",
-      "whyItMatters": "Expands pharmaceutical pipelines targeting next-generation oral therapeutics and treatments.",
-      "brief": "Novo and Orbis have finalized a $1.4 billion partnership agreement aimed at accelerating the research and development of novel oral drug treatments.",
+      "headline": "Bank of England Hints at Rate Hikes",
+      "whyItMatters": "Signals a global shift in monetary policy as persistent inflation risks reemerge.",
+      "brief": "The Bank of England has altered its monetary stance toward potential interest rate hikes as domestic inflation figures are projected to climb past the 4% threshold.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Approves Visas for Iranian Leadership at UN",
+      "whyItMatters": "Represents an unexpected diplomatic opening despite ongoing direct conflict between Washington and Tehran.",
+      "brief": "The United States has unexpectedly approved entry visas for Iran's president and foreign minister to attend high-level UN sessions despite months of active military hostilities.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-approves-visas-for-iran-president-fm-araghchi-to-attend-un-high-level-meeting-even-with-sides-at-war/article71478184.ece",
+      "dateLocation": "2026-09-17 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New Cat Species Discovered in Bolivia",
+      "whyItMatters": "Marks the first identification of a new South American feline species in over a century.",
+      "brief": "Genetic analysis has confirmed the 'Tilcayo' as an entirely new cat species in Bolivia, separating from lineage relatives roughly 1.4 million years ago.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEpTSXdZaXJKZU1mRkFwczRkakJpbXNpdWhTVWMwbGpzZ0hxaVJzcXE2QlZwOTEyOWVhZFQxVml4RjZFRVNYYS1OdG1IQk8yeFh4TXVGeHBDY3IydFRhUnRMMUtRX1ZJanJ0c21Nanp1VHltRWpmTHlXMUlJaTktVzRzSzFYaFdmWHlDRDhyZG1kSjc4NFRNb1VuUGltTENTSmlnNHJnU2M0Zw?oc=5",
-      "dateLocation": "September 17 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/new-cat-species-identified-in-bolivia-first-in-over-a-century/article71478144.ece",
+      "dateLocation": "2026-09-17 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Abhishek Sharma Smashes Fastest T20I Century for India",
-      "whyItMatters": "Sets a new milestone in Indian cricket history with an explosive batting performance.",
-      "brief": "Abhishek Sharma shattered the record for the fastest T20I century by an Indian, reaching the milestone in a blistering 30 balls.",
+      "headline": "Canada Advances Bilateral Trade Talks With India",
+      "whyItMatters": "Aims to significantly boost economic integration and double bilateral trade volume by the decade's end.",
+      "brief": "Canada's international trade minister traveled to Mumbai to accelerate negotiations on a comprehensive economic partnership agreement targeted at reaching 70 billion Canadian dollars.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india-canada-trade-deal-cepa-fourth-round-talks-11789665940175.html",
+      "dateLocation": "2026-09-17 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "USCIS Imposes Stricter Green Card Rules",
+      "whyItMatters": "Alters financial evaluation criteria for thousands of prospective employment and family-based immigrants.",
+      "brief": "The USCIS has implemented new public charge regulations enforcing rigorous financial evaluations and expanded definitions of public benefit usage for applicants.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms",
+      "dateLocation": "2026-09-17 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Abhishek Sharma Leads India to T20 Sweep",
+      "whyItMatters": "Solidifies the explosive opener's long-term position in India's primary international squad configuration.",
+      "brief": "Abhishek Sharma scored a record-breaking 30-ball century to power India to a decisive 3-0 T20I series sweep against Afghanistan.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-hits-fastest-t20i-century-by-an-indian-breaks-rohit-sharmas-record/articleshow/134315127.cms",
-      "dateLocation": "September 17 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms",
+      "dateLocation": "2026-09-17 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "EPFO Raises Wage Ceiling, Impacting Employee Contributions",
-      "whyItMatters": "Alters mandatory social security calculations and take-home pay structures for millions.",
-      "brief": "The Employees' Provident Fund Organisation has raised its statutory wage ceiling, altering contribution structures and prompting reviews of employee take-home pay.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-rises-to-rs-25000-what-has-changed-and-will-your-take-home-pay-salary-come-down/articleshow/134307071.cms",
-      "dateLocation": "September 17 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Australia Bars International Students From Bringing Families",
-      "whyItMatters": "Tightens immigration policies impacting global study destinations and international student mobility.",
-      "brief": "Australia has implemented strict new restrictions blocking the vast majority of foreign students from bringing family members into the country.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/nri/study/australia-bans-most-international-students-from-bringing-family-members/articleshow/134306416.cms",
-      "dateLocation": "September 17 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre Cuts NEET-SS Percentile Requirement to 30%",
-      "whyItMatters": "Expands eligibility criteria for super-specialty medical courses across the nation.",
-      "brief": "The central government has lowered the NEET-SS cut-off percentile to thirty percent, making thousands of additional candidates eligible for advanced medical admissions.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/neet-ss-cut-off-to-drop-to-30-over-6000-more-candidates-eligible-centre-tells-supreme-court/articleshow/134314113.cms",
-      "dateLocation": "September 17 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AI Boom Drives Trillion-Dollar Data Center Expansion",
-      "whyItMatters": "Highlights massive real estate and infrastructure transformation driven by artificial intelligence.",
-      "brief": "Surging artificial intelligence workloads are projected to dominate global data center demand by 2030, fueling monumental institutional real estate investments.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/real-estate/news/why-the-ai-boom-matters-to-real-estate-inside-the-3-trillion-data-centre-opportunity/articleshow/134314829.cms",
-      "dateLocation": "September 17 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Exporters Secure Wider Access to EU Steel Market",
-      "whyItMatters": "Boosts manufacturing exports and trade relations prior to a formal free trade agreement.",
-      "brief": "Indian steel exporters have secured favorable quota-based duty-free access to European Union markets, significantly increasing annual export capacity.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/india-eu-fta-steel-export-quota-duty-free-access-11789649990445.html",
-      "dateLocation": "September 17 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UN Experts Flag Potential War Crimes in US Strikes",
-      "whyItMatters": "Raises international legal scrutiny over military operations and Middle Eastern conflict conduct.",
-      "brief": "United Nations investigators have formally flagged two recent US military strikes in Iran over potential violations of international humanitarian law.",
+      "headline": "Eac-Pm Member Advises Ending Population Controls",
+      "whyItMatters": "Reflects shifting national demographic discourse as fertility rates fall below replacement levels.",
+      "brief": "Economic Advisory Council member Sanjeev Sanyal has publicly called for phasing out state population control measures to address emerging demographic deficits.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/un-experts-flag-two-us-strikes-in-iran-over-possible-war-crimes-which-ones-11789651893095.html",
-      "dateLocation": "September 17 | LiveMint",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/eac-pm-member-sanjeev-sanyal-suggests-ending-population-control-policies-amid-falling-fertility/articleshow/134320068.cms",
+      "dateLocation": "2026-09-17 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IndiGo Revises Add-on Fees Amid Rising Travel Costs",
-      "whyItMatters": "Affects travel expenses and service pricing frameworks for major domestic airline passengers.",
-      "brief": "IndiGo has hiked various passenger add-on fees, significantly increasing costs for infant travel, priority boarding, and excess baggage allowances.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/indigo-revises-add-on-fees-infant-travel-up-50-excess-baggage-now-800-kg-heres-how-much-you-have-to-pay-now-11789655725411.html",
-      "dateLocation": "September 17 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Health Ministry Restricts Unproven Stem Cell Therapies",
+      "whyItMatters": "Protects patients from unverified commercial treatments while formalizing clinical trial standards.",
+      "brief": "India's health ministry has issued an advisory restricting unregulated stem cell treatments, limiting unproven autism therapies strictly to approved clinical trials.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/health-ministry-issues-advisory-against-unregulated-stem-cell-therapies-restricts-autism-treatment-to-approved-clinical-trials/articleshow/134319742.cms",
+      "dateLocation": "2026-09-17 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil India Commits $1.8 Billion to Deepwater Drilling",
-      "whyItMatters": "Expands domestic exploration efforts to secure long-term national energy independence.",
-      "brief": "State-run Oil India has announced a major capital expenditure plan to aggressively pursue deepwater hydrocarbon exploration across multiple offshore wells.",
-      "category": "energy",
+      "headline": "NASA Discovers Massive Lunar Impact Crater",
+      "whyItMatters": "Uncovers a rare deep-space impact event that completely bypassed detection for two years.",
+      "brief": "NASA scientists have identified a newly formed moon crater larger than Rome's Colosseum, resulting from an ultra-rare impact estimated to occur once every 132 years.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/nasa-discovers-moon-crater-bigger-than-romes-colosseum-rare-impact-went-unnoticed-for-2-years-occurs-once-every-132-years/articleshow/134320667.cms",
+      "dateLocation": "2026-09-17 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maratha Quota Agitator Ends Twenty-Day Fast",
+      "whyItMatters": "Temporarily defuses major caste-based political tensions in western India following state assurances.",
+      "brief": "Prominent Maratha quota activist Manoj Jarange Patil ended his grueling 20-day hunger strike after government authorities guaranteed the issuance of Maratha-Kunbi certificates within ninety days.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/manoj-jarange-patil-ends-20-day-fast-after-government-assures-maratha-kunbi-certificates-in-90-days/articleshow/134319118.cms",
+      "dateLocation": "2026-09-17 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
