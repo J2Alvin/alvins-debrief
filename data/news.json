@@ -1,83 +1,119 @@
 {
-  "lastUpdated": "2026-09-16T20:50:34.115Z",
+  "lastUpdated": "2026-09-17T03:18:49.278Z",
   "ticker": [
-    "US Fed Hikes Interest Rates to 3.75-4% Range",
-    "India and Pakistan Summon Diplomats After Naval Collision",
-    "Houthi Drone Intercepted Heading Towards Mecca",
-    "India's UPI Fee Shake-up Sparks Industry-Wide Revenue Boost",
-    "Apple Weighs Nvidia Tech for Potential Server Market Return"
+    "US House passes Russia sanctions bill threatening tariffs on India",
+    "Federal Reserve raises benchmark interest rate for first time since 2023",
+    "India cabinet clears proposal to raise EPF wage ceiling to ₹25,000",
+    "Maratha activist Manoj Jarange calls off fast with 3-month ultimatum",
+    "Madurai Meenakshi Temple holds kumbabishekam ceremony after 17 years"
   ],
   "articles": [
     {
-      "headline": "India Implements Major UPI Fee Shake-Up",
-      "whyItMatters": "Redefines digital payment revenue models and impacts millions of daily transactions across the nation.",
-      "brief": "India's recent UPI fee structure adjustment has sparked significant jumps in payment firm stocks, signaling a shift in monetization for digital wallets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmplVU0tSzN3OXktN2pJZV8yenNyendPSDFaVE5CRmF3NDl5OHU1NGM4VWhwZElDMU5YOEFUUXlNS2h3bFR4TGoxOXpQVDJvS09hQ3BaaTQ1ZDR6akhBTEw2MVNyc1pZYzItc3FEaXlZLWEwQjhoM0ZqM004TWprU0V1R1dDQURYVTA0VGFaVjJycWh4NlROOXRfODR3SlRL?oc=5",
-      "dateLocation": "September 16 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and Pakistan Summon Diplomats After Collision",
-      "whyItMatters": "Heightens geopolitical tensions between the nuclear-armed neighbors following a rare maritime incident.",
-      "brief": "Diplomatic tensions flared after an Indian warship and a Pakistani vessel collided in the North Arabian Sea, causing severe damage.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlYtUV9TbjBCNm1SdkF0c1R1R2F6WGdOSmhMRkNQaWVXWFNpODc1LUZTQ2xhTjRzTFo4dlBIZW11bmh4R09WUUduUHhhQmN5VTRHVG1HbW9OX0VPNDFwbExEMU1tS0VwYU9mMzRGUWpfdnR6bHVOMDVESVNXMUJRUEhHZExoaDkwZmpYa1hndnpQaFJYS1IwTkVyNzBzSkg1OUwzQTMzZVlBTExobUE?oc=5",
-      "dateLocation": "September 16 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Warns US Space Weapons Fuel Arms Race",
-      "whyItMatters": "Escalates concerns over militarization of orbit and worsening superpower security dynamics.",
-      "brief": "Beijing has issued a stern warning that upcoming US space weapon initiatives could dangerously trigger a global arms race.",
+      "headline": "US House Passes Russia Sanctions Bill With Tariffs",
+      "whyItMatters": "Could impose up to 100% tariffs on major Russian oil buyers like India.",
+      "brief": "The US House passed a sweeping Russia sanctions bill empowering the president to levy up to 100% tariffs on top purchasers of Russian energy, raising trade tensions for India.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjRYR1FBVkNoeU9oRzM4dlozU1owdjViN3hjZ1lIR1VfTnZFUDBDUnZ4aDFYelNqeVItcklZZU83WmtUYUtpbk9ndEZ6ejVSQ2JhVkRkRXczM0lyQlNmMzJIQW44cmNsMnNXSy13LVRTQS1CcTJHWXFRUzd3NmNZT0tyMGVXVE1QcWNyMHpZMlZQeG4xLTFyN05xaUxFSWl4V2xVemV3TjZDT1FSWmpiSVpB?oc=5",
-      "dateLocation": "September 16 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-house-passes-russia-sanctions-bill-sending-it-to-trump-what-it-means-for-tariffs-on-india-11789603677327.html",
+      "dateLocation": "2026-09-17 | Washington / Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Apple Considers Nvidia Technology for Server Return",
-      "whyItMatters": "Marks a major strategic shift in Apple's enterprise infrastructure and AI ambitions.",
-      "brief": "Reports indicate Apple is evaluating Nvidia technology as it weighs a potential return to the competitive server market.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5",
-      "dateLocation": "September 16 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Federal Reserve Raises Interest Rates First Time Since 2023",
+      "whyItMatters": "Signals a major shift in monetary policy amid persistent global inflation.",
+      "brief": "The US Federal Reserve increased its benchmark interest rate to combat inflation, drawing immediate criticism from President Trump who demanded sharply lower borrowing costs.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/us-news/another-fed-hike-to-follow-goldman-sachs-says-us-federal-reserve-could-raise-interest-rates-again-in-october-11789612511201.html",
+      "dateLocation": "2026-09-17 | Washington / Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "War-Damaged Gaza Building Collapse Kills Twenty",
-      "whyItMatters": "Highlights ongoing civilian infrastructure crises and rescue challenges within conflict zones.",
-      "brief": "At least 20 people sheltering inside a war-damaged Gaza City building died following its sudden structural collapse.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/war-damaged-gaza-building-collapses-death-toll/article71474151.ece",
-      "dateLocation": "September 16 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Restricts Falsely Quoting Judges Online",
-      "whyItMatters": "Establishes strict legal boundaries for digital media creators reporting on ongoing court proceedings.",
-      "brief": "The Supreme Court ruled that falsely quoting judges in barred online court clips constitutes a criminal offense.",
+      "headline": "India Cabinet Clears EPF Wage Limit Hike",
+      "whyItMatters": "Expands formal social security net coverage for millions of organized workers.",
+      "brief": "The Indian cabinet has cleared a proposal to raise the Employees' Provident Fund wage upper limit to 25,000 rupees, benefiting a broader segment of formal salaried employees.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-says-falsely-quoting-judges-in-barred-online-court-clips-crosses-over-from-contempt-to-crime/article71471708.ece",
-      "dateLocation": "September 16 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHBFS2l6Vm1mUWVXN3RiNUlWeUZsV1pSaHlIbEE1NGtudkhxTS1RbGI1OHpVR0ZCbmdkRmZaYnphcDMySjFRLWJ3Mmk5UVJ3MTJORlU2SVB6ajRUUW9nRXpONmxxSlRTckx4TUlydXRMSktvTlFuNzlnNEpJQmE3dVBxZllkVXZCSE81S1p5Yl9Kd29yR3J5U2liWVZiM3N2bGRwMVNpSHFtNVIzSGxFUnh0aw?oc=5",
+      "dateLocation": "2026-09-17 | New Delhi / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Fed Hikes Interest Rates to 3.75-4% Range",
-      "whyItMatters": "Reverses a multi-year trend and responds to persistently stubborn global inflation pressures.",
-      "brief": "The US Federal Reserve has hiked interest rates for the first time since 2023, citing inflation that remains too high.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms",
-      "dateLocation": "September 16 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Considers Vegetable Oil Import Tax Cuts",
+      "whyItMatters": "Aims to cool down climbing domestic food prices and manage inflation.",
+      "brief": "Amid rising global prices, the Indian government is actively considering cuts to vegetable oil import taxes to provide relief to domestic consumers and stabilize markets.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGZHa2RZMTdnX2NjZkhnXzNFSjN3MXJxWWtxRkZFZ3prdWItTF9aaGcyWFZSMWl5TG9nNkpiUWswRUE0cEdCS3ZZeWV2RzgwWGR2M0wzd2VzcXRyUWxWaFdZd1dWaXA0OWtMdG83ODY5M1NlaDUzZE9kdkZTQTBLVS1YV0FwYnFiMTlBRzNZcGRZOXJSeE1XdHAzS1g1dlFncnRhcEpydnRNLTNhU3lhbg?oc=5",
+      "dateLocation": "2026-09-17 | New Delhi / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Arabia Intercepts Houthi Drone Near Mecca",
-      "whyItMatters": "Threatens regional stability and directly challenges security red lines in the Middle East.",
-      "brief": "Saudi Arabia intercepted a Houthi drone targeting Mecca, escalating regional tensions amidst fierce denials from the militant group.",
+      "headline": "UPI Fee Shake-Up Prompts Cost Reassessment",
+      "whyItMatters": "Restructures merchant onboarding economics and banking returns across digital payments.",
+      "brief": "The recent changes to UPI fee structures and zero-MDR models have forced merchants and digital brands to recalculate processing costs as transaction volumes surge nationwide.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmplVU0tSzN3OXktN2pJZV8yenNyendPSDFaVE5CRmF3NDl5OHU1NGM4VWhwZElDMU5YOEFUUXlNS2h3bFR4TGoxOXpQVDJvS09hQ3BaaTQ1ZDR6akhBTEw2MVNyc1pZYzItc3FEaXlZLWEwQjhoM0ZqM004TWprU0V1R1dDQURYVTA0VGFaVjJycWh4NlROOXRfODR3SlRL?oc=5",
+      "dateLocation": "2026-09-17 | New Delhi / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Australia Bars Foreign Students From Bringing Dependents",
+      "whyItMatters": "Tightens immigration policies significantly, impacting international student enrollment numbers.",
+      "brief": "Australia has introduced strict regulations barring foreign students from bringing partners and children while they pursue their studies, reshaping international education dynamics.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDViRDgzOU9tQ1BaamhJaXduZVlVbko2WlREN0U5ZExnSFJjR1JWTDRHRDlpdmxpLUVURlpST0pLY2xvV3VRdEw4RGdSbk5jSnl2VmI5djlzZWjjODNkTFdERDd1SzhxNUs2MHNNeThGWGdPbmpIMEE3aXdZeU5pYzhKVTdmc1ZWeGUyZmJmU1Fta3M4QW5lQWFwbWtRMTJzcWkzanpQNERkb0M4VEVlT2stVUtXbkxpeWtVV0w4WU51NTRibGp6MVozbTl5Zw?oc=5",
+      "dateLocation": "2026-09-17 | Canberra / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Banks Fund $22 Billion AI Cloud Chip Venture",
+      "whyItMatters": "Demonstrates massive capital mobilization for global artificial intelligence infrastructure expansion.",
+      "brief": "A syndicate of major banks has provided a $22 billion loan to finance a chip and AI cloud computing venture led by Blackstone and Alphabet, sources report.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVBYUDM0azJaTVZjVHAzbUtkOVBWLWpZYnptZFZ4S0x0dHpkS1lXVFM2SnJtX0F0Ull5OXdJUkdiNXdUZTNQamM0S3NoeFRxdTdFVmFWWi00cVJ6YXQxTDFTQlBmc0FsS3l5SHJ5VnZpOVplcllLVk04dy1YS2cwUDdMWEY5RzZWN3JTU2luOXJ4NUt3NzkyREJSUVlMSFJBcFpMcHprUjVsM2J3WGg1NUI5NjZrZDBHUGZiNnJGZUtvZThlTk9jWmRSaVZpUQ?oc=5",
+      "dateLocation": "2026-09-17 | New York / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maratha Activist Manoj Jarange Ends 20-Day Fast",
+      "whyItMatters": "Eases political tensions in Maharashtra by granting a three-month ultimatum.",
+      "brief": "Maratha reservation activist Manoj Jarange called off his 20-day fast after holding discussions with a government delegation, giving authorities a three-month deadline to fulfill demands.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/cities/mumbai/manoj-jarange-calls-off-20-day-fast-gives-three-months-ultimatum-to-government/article71475190.ece",
+      "dateLocation": "2026-09-17 | Beed / The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Arjun Erigaisi Suffers Upset Defeat at Chess Olympiad",
+      "whyItMatters": "Marks a surprising start for India's top-tier players in the international tournament.",
+      "brief": "India's second-ranked chess player Arjun Erigaisi suffered an unexpected Round 1 upset against a lower-rated opponent at the Chess Olympiad, though the wider national team secured wins.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms",
-      "dateLocation": "September 16 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
+      "dateLocation": "2026-09-17 | New Delhi / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Madurai Meenakshi Temple Holds Kumbabishekam After 17 Years",
+      "whyItMatters": "A massive cultural and religious milestone drawing lakhs of devotees to Tamil Nadu.",
+      "brief": "Lakhs of devotees gathered in Madurai to witness the grand consecration ceremony of the historic Meenakshi Sundareswarar temple, held after a gap of 17 years under tight security.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/madurai-meenakshi-temple-kumbabishekam-devotees-gather-in-large-numbers-for-consecration-ceremony-september-17-2026-live-updates/article71475137.ece",
+      "dateLocation": "2026-09-17 | Madurai / The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Officials Meet Iran-Backed Houthis in Oman",
+      "whyItMatters": "Efforts intensify to de-escalate maritime conflicts and secure trade routes in the region.",
+      "brief": "US officials held direct talks over the weekend with Iran-backed Houthi representatives in Oman, running parallel to diplomatic efforts to wind down active conflicts in the Middle East.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/us-officials-met-iran-backed-houthis-in-oman-over-the-weekend-sources-say/articleshow/134297414.cms",
+      "dateLocation": "2026-09-17 | Muscat / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sri Lanka Batter Silva to Miss Asian Games",
+      "whyItMatters": "Weakens Sri Lanka's squad following a strong performance at the Women's Asia Cup.",
+      "brief": "Sri Lanka middle-order batter Silva has been ruled out of the upcoming Asian Games due to a finger injury sustained during their recent tournament run.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/sri-lanka-batter-silva-to-miss-asian-games-with-finger-injury/article71475197.ece",
+      "dateLocation": "2026-09-17 | Colombo / The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
