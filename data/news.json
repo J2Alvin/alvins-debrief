@@ -1,120 +1,120 @@
 {
-  "lastUpdated": "2026-09-17T03:18:49.278Z",
+  "lastUpdated": "2026-09-17T10:55:37.995Z",
   "ticker": [
-    "US House passes Russia sanctions bill threatening tariffs on India",
-    "Federal Reserve raises benchmark interest rate for first time since 2023",
-    "India cabinet clears proposal to raise EPF wage ceiling to ₹25,000",
-    "Maratha activist Manoj Jarange calls off fast with 3-month ultimatum",
-    "Madurai Meenakshi Temple holds kumbabishekam ceremony after 17 years"
+    "NSE India $2.3B IPO opens",
+    "US-India tensions rise over oil tariffs",
+    "UN alleges US and Iran war crimes",
+    "Australia restricts international student visas",
+    "Saudi pipeline shutdown halts oil supplies"
   ],
   "articles": [
     {
-      "headline": "US House Passes Russia Sanctions Bill With Tariffs",
-      "whyItMatters": "Could impose up to 100% tariffs on major Russian oil buyers like India.",
-      "brief": "The US House passed a sweeping Russia sanctions bill empowering the president to levy up to 100% tariffs on top purchasers of Russian energy, raising trade tensions for India.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-house-passes-russia-sanctions-bill-sending-it-to-trump-what-it-means-for-tariffs-on-india-11789603677327.html",
-      "dateLocation": "2026-09-17 | Washington / Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Federal Reserve Raises Interest Rates First Time Since 2023",
-      "whyItMatters": "Signals a major shift in monetary policy amid persistent global inflation.",
-      "brief": "The US Federal Reserve increased its benchmark interest rate to combat inflation, drawing immediate criticism from President Trump who demanded sharply lower borrowing costs.",
+      "headline": "NSE India $2.3 Billion IPO Opens for Subscription",
+      "whyItMatters": "It marks one of the largest public offerings in the region.",
+      "brief": "The National Stock Exchange of India has officially opened its massive $2.3 billion initial public offering for market subscription.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/us-news/another-fed-hike-to-follow-goldman-sachs-says-us-federal-reserve-could-raise-interest-rates-again-in-october-11789612511201.html",
-      "dateLocation": "2026-09-17 | Washington / Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPME1EbktmN3VLZGdidFl4UVl0UURYZXNxQWFySFFZNHVSYU9YX1BrNkRYVUZzSnFLaE1BRGNicG9RbHpvczg5VWdXSnM4NjJWNlZoUkZZamlBakFhaTl3VDlkMkZrdTg3N3IyUTlvTm5vQm5BeXJTWTJ5ZzNZN0xHNF8tLWtTUzV5TFEtNEkyR0lZMFBDUDNjeVpockloajNIN3djRkVuYXB6TUJ6dXZYSlNYVWhQV2NlQlE?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Cabinet Clears EPF Wage Limit Hike",
-      "whyItMatters": "Expands formal social security net coverage for millions of organized workers.",
-      "brief": "The Indian cabinet has cleared a proposal to raise the Employees' Provident Fund wage upper limit to 25,000 rupees, benefiting a broader segment of formal salaried employees.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHBFS2l6Vm1mUWVXN3RiNUlWeUZsV1pSaHlIbEE1NGtudkhxTS1RbGI1OHpVR0ZCbmdkRmZaYnphcDMySjFRLWJ3Mmk5UVJ3MTJORlU2SVB6ajRUUW9nRXpONmxxSlRTckx4TUlydXRMSktvTlFuNzlnNEpJQmE3dVBxZllkVXZCSE81S1p5Yl9Kd29yR3J5U2liWVZiM3N2bGRwMVNpSHFtNVIzSGxFUnh0aw?oc=5",
-      "dateLocation": "2026-09-17 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Warns US Tariffs Over Russian Oil Threaten Ties",
+      "whyItMatters": "Energy security remains a vital point of diplomatic friction.",
+      "brief": "New Delhi has strongly defended its energy procurement policies while cautioning Washington against imposing punitive tariffs on Russian oil trade.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEYxR3ZWQVp2WmNVWFlkTGd2QThGc3VMX2pPd3JSbkR4ekxSZm1WbjdhSU1hZ2JHaHZIZEJRSEEwdUZUOVl4REwxWU9OWUFJcWxaWm9hNk4yeXJJVU5FSUQ4WWZFVTVwQmpaZlFOem5wc1hiNnJJQklmQXo3aWpaOG1tY2tUWm9IalFnSFUzbWFoREwxNHo0RzZrb0RNbHJSa25yMDlidVk5WEt4RkNKRjQwRXpZSWkyYUE?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Considers Vegetable Oil Import Tax Cuts",
-      "whyItMatters": "Aims to cool down climbing domestic food prices and manage inflation.",
-      "brief": "Amid rising global prices, the Indian government is actively considering cuts to vegetable oil import taxes to provide relief to domestic consumers and stabilize markets.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGZHa2RZMTdnX2NjZkhnXzNFSjN3MXJxWWtxRkZFZ3prdWItTF9aaGcyWFZSMWl5TG9nNkpiUWswRUE0cEdCS3ZZeWV2RzgwWGR2M0wzd2VzcXRyUWxWaFdZd1dWaXA0OWtMdG83ODY5M1NlaDUzZE9kdkZTQTBLVS1YV0FwYnFiMTlBRzNZcGRZOXJSeE1XdHAzS1g1dlFncnRhcEpydnRNLTNhU3lhbg?oc=5",
-      "dateLocation": "2026-09-17 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UPI Fee Shake-Up Prompts Cost Reassessment",
-      "whyItMatters": "Restructures merchant onboarding economics and banking returns across digital payments.",
-      "brief": "The recent changes to UPI fee structures and zero-MDR models have forced merchants and digital brands to recalculate processing costs as transaction volumes surge nationwide.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmplVU0tSzN3OXktN2pJZV8yenNyendPSDFaVE5CRmF3NDl5OHU1NGM4VWhwZElDMU5YOEFUUXlNS2h3bFR4TGoxOXpQVDJvS09hQ3BaaTQ1ZDR6akhBTEw2MVNyc1pZYzItc3FEaXlZLWEwQjhoM0ZqM004TWprU0V1R1dDQURYVTA0VGFaVjJycWh4NlROOXRfODR3SlRL?oc=5",
-      "dateLocation": "2026-09-17 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Australia Bars Foreign Students From Bringing Dependents",
-      "whyItMatters": "Tightens immigration policies significantly, impacting international student enrollment numbers.",
-      "brief": "Australia has introduced strict regulations barring foreign students from bringing partners and children while they pursue their studies, reshaping international education dynamics.",
+      "headline": "Australia Implements Major Crackdown on Student Visas",
+      "whyItMatters": "The policy shift directly impacts hundreds of thousands of international students.",
+      "brief": "Australia has enforced strict visa limitations to curb surging net migration, significantly restricting students from bringing family members.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDViRDgzOU9tQ1BaamhJaXduZVlVbko2WlREN0U5ZExnSFJjR1JWTDRHRDlpdmxpLUVURlpST0pLY2xvV3VRdEw4RGdSbk5jSnl2VmI5djlzZWjjODNkTFdERDd1SzhxNUs2MHNNeThGWGdPbmpIMEE3aXdZeU5pYzhKVTdmc1ZWeGUyZmJmU1Fta3M4QW5lQWFwbWtRMTJzcWkzanpQNERkb0M4VEVlT2stVUtXbkxpeWtVV0w4WU51NTRibGp6MVozbTl5Zw?oc=5",
-      "dateLocation": "2026-09-17 | Canberra / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDViRDgzOU9tQ1BaamhJaXduZVlVbko2WlREN0U5ZExnSFJjR1JWTDRHRDlpdmxpLUVURlpST0pLY2xvV3VRdEw4RGdSbk5jSnl2VmI5djlzZWJjODNkTFdERDd1SzhxNUs2MHNNeThGWGdPbmpIMEE3aXdZeU5pYzhKVTdmc1ZWeGUyZmJmU1Fta3M4QW5lQWFwbWtRMTJzcWkzanpQNERkb0M4VEVlT2stVUtXbkxpeWtVV0w4WU51NTRibGp6MVozbTl5Zw?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Banks Fund $22 Billion AI Cloud Chip Venture",
-      "whyItMatters": "Demonstrates massive capital mobilization for global artificial intelligence infrastructure expansion.",
-      "brief": "A syndicate of major banks has provided a $22 billion loan to finance a chip and AI cloud computing venture led by Blackstone and Alphabet, sources report.",
+      "headline": "UN Mission Finds Grounds for US and Iranian War Crimes",
+      "whyItMatters": "International scrutiny intensifies over recent Middle Eastern military escalations.",
+      "brief": "A UN investigative report concluded that the US committed war crimes in deadly strikes, while Tehran faced accusations of crimes against humanity.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJVNS1uc3FDVDUwbUJ5bjJkZzRwbTdzNFZYUW00SEloak4wZl9yeXJhWlQ2bEExbjZBSzh6T2lRVjNjQ2VvR1lNZGNBc3BwLXZ6QXJCTmZ3M3BfQVdURWZaaUVOV2k0VkNOTFMwcnhsdXR1VU5IWFRWYlVYNDgzeGNwTDB6d3FURHV4YnZZdFpibE45Qm1tTVJxMi1QZG9lbFFqVW16M1ZzQzRLQW1PVkhud2RLeWtxUVV6OFJweE0wOXZuVG5RRg?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AI Military Risks Spark Concern at China Security Conference",
+      "whyItMatters": "Autonomous weapons systems pose escalating global security challenges.",
+      "brief": "Delegates at a high-level security conference in China voiced serious concerns regarding the unmitigated risks of military artificial intelligence applications.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVBYUDM0azJaTVZjVHAzbUtkOVBWLWpZYnptZFZ4S0x0dHpkS1lXVFM2SnJtX0F0Ull5OXdJUkdiNXdUZTNQamM0S3NoeFRxdTdFVmFWWi00cVJ6YXQxTDFTQlBmc0FsS3l5SHJ5VnZpOVplcllLVk04dy1YS2cwUDdMWEY5RzZWN3JTU2luOXJ4NUt3NzkyREJSUVlMSFJBcFpMcHprUjVsM2J3WGg1NUI5NjZrZDBHUGZiNnJGZUtvZThlTk9jWmRSaVZpUQ?oc=5",
-      "dateLocation": "2026-09-17 | New York / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2R6ekhkRHVUTU95d042blJ6bWlXZEFxcEhPWTV5S3JtVXI0emlsaVdyb1BURWJzZk5ySWdyVGNKcEJldUg5Q3BaNF9wdUxWVzZyZHA2RWpjVWJVU1hRa2c2dmtMX3FOOGVKWFlBU0dfcjU0R1AtTjFURmpUOHo5LTFVRXBlaWx6OHktNHJiQUZ6a0NOdElKVHNIZnlTVW5hc0RTMTVnSE95NnExaEdJNWplNjdUdjQ?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Maratha Activist Manoj Jarange Ends 20-Day Fast",
-      "whyItMatters": "Eases political tensions in Maharashtra by granting a three-month ultimatum.",
-      "brief": "Maratha reservation activist Manoj Jarange called off his 20-day fast after holding discussions with a government delegation, giving authorities a three-month deadline to fulfill demands.",
+      "headline": "India Cabinet Approves EPF Wage Ceiling Hike to 25,000 Rupees",
+      "whyItMatters": "This reform expands formal social security coverage for the Indian workforce.",
+      "brief": "The Indian cabinet officially cleared a proposal to raise the Employees' Provident Fund wage upper limit to 25,000 rupees.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHBFS2l6Vm1mUWVXN3RiNUlWeUZsV1pSaHlIbEE1NGtudkhxTS1RbGI1OHpVR0ZCbmdkRmZaYnphcDMySjFRLWJ3Mmk5UVJ3MTJORlU2SVB6ajRUUW9nRXpONmxxSlRTckx4TUlydXRMSktvTlFuNzlnNEpJQmE3dVBxZllkVXZCSE81S1p5Yl9Kd29yR3J5U2liWVZiM3N2bGRwMVNpSHFtNVIzSGxFUnh0aw?oc=5",
+      "dateLocation": "2026-09-17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saudi Aramco Halts Crude Supplies Following Pipeline Shutdown",
+      "whyItMatters": "Global oil markets face immediate supply chain disruptions.",
+      "brief": "The closure of Saudi Arabia's East-West pipeline has halted crude deliveries to major Indian refineries, prompting rising energy price concerns.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/eastwest-pipeline-shutdown-saudi-aramco-halts-supplies-to-indian-refiners-11789626993707.html",
+      "dateLocation": "2026-09-17 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Labor Department Ramps Up H-1B Visa Fraud Probes",
+      "whyItMatters": "Foreign worker recruitment practices face intense federal scrutiny.",
+      "brief": "Federal investigators are expanding H-1B visa fraud inspections beyond technology sectors, leveraging whistleblower tips to uncover systemic abuses.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/cities/mumbai/manoj-jarange-calls-off-20-day-fast-gives-three-months-ultimatum-to-government/article71475190.ece",
-      "dateLocation": "2026-09-17 | Beed / The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/us-news/count-your-days-us-labor-department-ramps-up-h-1b-fraud-probe-amid-increased-scrutiny-11789630081342.html",
+      "dateLocation": "2026-09-17 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Arjun Erigaisi Suffers Upset Defeat at Chess Olympiad",
-      "whyItMatters": "Marks a surprising start for India's top-tier players in the international tournament.",
-      "brief": "India's second-ranked chess player Arjun Erigaisi suffered an unexpected Round 1 upset against a lower-rated opponent at the Chess Olympiad, though the wider national team secured wins.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
-      "dateLocation": "2026-09-17 | New Delhi / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Health Ministry Bars Stem Cell Therapy for Autism as Routine",
+      "whyItMatters": "Patients are protected from unproven and potentially harmful medical treatments.",
+      "brief": "India's health ministry has issued a strict directive barring clinics from marketing stem cell therapies as standard treatments for autism.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/health-ministry-bars-stem-cell-therapy-for-autism-as-routine-care-11789622430314.html",
+      "dateLocation": "2026-09-17 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Madurai Meenakshi Temple Holds Kumbabishekam After 17 Years",
-      "whyItMatters": "A massive cultural and religious milestone drawing lakhs of devotees to Tamil Nadu.",
-      "brief": "Lakhs of devotees gathered in Madurai to witness the grand consecration ceremony of the historic Meenakshi Sundareswarar temple, held after a gap of 17 years under tight security.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/madurai-meenakshi-temple-kumbabishekam-devotees-gather-in-large-numbers-for-consecration-ceremony-september-17-2026-live-updates/article71475137.ece",
-      "dateLocation": "2026-09-17 | Madurai / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tata Sons Reappoints N Chandrasekaran as Chairman",
+      "whyItMatters": "Continuity is secured at the helm of India's largest conglomerate.",
+      "brief": "The board of Tata Sons reversed its prior stance, unanimously approving a fresh five-year leadership term for N Chandrasekaran.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-approves-re-appointment-of-n-chandrasekaran-as-chairman-of-tata-group-for-another-5-year-term/articleshow/134307569.cms",
+      "dateLocation": "2026-09-17 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Officials Meet Iran-Backed Houthis in Oman",
-      "whyItMatters": "Efforts intensify to de-escalate maritime conflicts and secure trade routes in the region.",
-      "brief": "US officials held direct talks over the weekend with Iran-backed Houthi representatives in Oman, running parallel to diplomatic efforts to wind down active conflicts in the Middle East.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/us-officials-met-iran-backed-houthis-in-oman-over-the-weekend-sources-say/articleshow/134297414.cms",
-      "dateLocation": "2026-09-17 | Muscat / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Salesforce CEO Urges AI Firms to Adopt Hawaiian Responsibility Concept",
+      "whyItMatters": "Tech leaders debate proactive accountability frameworks for artificial intelligence.",
+      "brief": "Marc Benioff has called on artificial intelligence companies to embrace the Hawaiian concept of kuleana to manage emerging systemic risks.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-made-largest-healthcare-donation-in-hawaiis-history-now-he-wants-ai-companies-to-follow-hawaiian-concept-of-/articleshow/134305244.cms",
+      "dateLocation": "2026-09-17 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Sri Lanka Batter Silva to Miss Asian Games",
-      "whyItMatters": "Weakens Sri Lanka's squad following a strong performance at the Women's Asia Cup.",
-      "brief": "Sri Lanka middle-order batter Silva has been ruled out of the upcoming Asian Games due to a finger injury sustained during their recent tournament run.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/sri-lanka-batter-silva-to-miss-asian-games-with-finger-injury/article71475197.ece",
-      "dateLocation": "2026-09-17 | Colombo / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Mandatory CCTVs Proposed for Indian Medical Stores",
+      "whyItMatters": "Regulatory oversight over prescription drug sales is set to tighten.",
+      "brief": "India is proposing mandatory CCTV surveillance across pharmacies to guarantee transparency and regulate prescription medication supply chains.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/health-ministry-mandatory-cctv-coverage-medical-stores-prescription-drugs-regulation-of-sales-chemists-pharmacies-11789625876785.html",
+      "dateLocation": "2026-09-17 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
