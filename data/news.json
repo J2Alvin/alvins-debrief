@@ -1,83 +1,83 @@
 {
-  "lastUpdated": "2026-09-18T15:46:59.566Z",
+  "lastUpdated": "2026-09-18T20:22:04.623Z",
   "ticker": [
-    "Apple Pay eyes India entry via Axis Bank partnership",
-    "Delhi Metro sets record with 8.24M daily passengers",
-    "Warren Buffett steps down as Berkshire Hathaway chairman",
-    "India rejects Pakistan's claims over Arabian Sea collision",
-    "Putin seizes Nestle and French firm assets in Russia"
+    "Apple Pay eyes India rollout",
+    "Trump bans media from White House",
+    "Tata Group boardroom clash rocks conglomerate",
+    "Disney appoints first tech chief",
+    "Odisha launches major semiconductor hub"
   ],
   "articles": [
     {
-      "headline": "Apple Pay Eyes India Launch with Axis Bank",
-      "whyItMatters": "Expands digital payments competition in the world's fastest-growing fintech market.",
-      "brief": "Apple is preparing to launch Apple Pay in India in partnership with Axis Bank, according to recent sources, marking a major push into the lucrative South Asian digital transactions landscape.",
+      "headline": "Apple Pay Eyes India Launch With Axis Bank",
+      "whyItMatters": "Signals major expansion for Apple's financial services in the world's fastest-growing digital payments market.",
+      "brief": "Apple is reportedly planning to introduce Apple Pay in India in partnership with Axis Bank, marking a significant push into the domestic fintech space dominated by local players.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlZNZXA2ZWxuTURFQS1OV0hSWkNnM2JSUmw4d1pnOTQ5OS1wUU85dVZ1MFgtbkhUeFN5eEdXNk96Rkh4NDNMZ2c3aFBZdlQ2Z054NGlvNUl3QnRkLW00a0psdEJBbnIxQnN4VGZOeTB6MEZPbFVyRHNaeEFnMm4wLVhCLVU1TElwaWcwOGpCN2V4X08yVUJBdWVTbU4wMnQ2M1VQRHZB?oc=5",
-      "dateLocation": "2026-09-18 | Reuters",
+      "dateLocation": "September 18, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China's CXMT Eyes Flash-Memory Expansion",
-      "whyItMatters": "Intensifies global competition in the semiconductor sector against memory giants.",
-      "brief": "Chinese memory chip maker CXMT is expanding its flash-memory production capacity to challenge established industry leaders like Samsung and YMTC amid global component supply shortages.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXhCUnlwalg0dVppb2Y3dDVQNUFsUUlsLTZ2c2NJckZ2UjBxWXE0TC1QdFRSY0Q3VFA4QWctMzZSMHd6NFQ4Q1pDTy1UZTlVNE12ZGlmMGpFdXkzMXMxOWV4UWE0Z1REeHRMNzQ1NkFmd1hmQWc5d3FWdTUzYWM4ejhZc2IwSXprb3gtZzJxWmpTVFA4ZlFTSGhDN3J1ZWl1dWJVNkxVRVVTVkFjTS1LQXg2Y0RJZ1JTSms1VzJ4enppek4xMWFYRUxjMzA3dw?oc=5",
-      "dateLocation": "2026-09-18 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Takes Legal Action Against Nestle Baby Food",
-      "whyItMatters": "Raises crucial food safety and regulatory compliance standards for multinational brands.",
-      "brief": "Indian authorities have taken formal legal action against Nestle after finding local baby food samples to be substandard during routine quality checks.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVY5c0JVeURVNG9wbm95eDNFT2p5Y3BUT1VOakJkbnVZRjJyM3RXTlZrazJCRWYxMkh5X0FORUlBRTMyQURrSjh6d2NtUVZhalR2T2hHVDdGWUkzZnBvUUhjSHZTdzRzQ1ByM2R5eVNvMmRaY1Njem9uemlBWENfb2oycTBXSjE1QjlkRU5yT1o0Si1qaTVlaXVFclJaTnJrcmhrWHN1a3RiZnc?oc=5",
-      "dateLocation": "2026-09-18 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Rejects Pakistan's Naval Collision Allegations",
-      "whyItMatters": "Underscores ongoing maritime tensions between the neighboring South Asian nations.",
-      "brief": "New Delhi firmly rejected Pakistan's allegations regarding a recent maritime collision in the Arabian Sea, stating that PNS Hunain operated in an unacceptable manner.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/india-rejects-pakistans-allegations-over-collision-in-arabian-sea-pns-hunain-conducted-in-unacceptable-manner-11789735316641.html",
-      "dateLocation": "2026-09-18 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Putin Seizes Nestle and French Assets in Russia",
-      "whyItMatters": "Deepens economic fallout and asset seizures over Western support for Ukraine.",
-      "brief": "Russian President Vladimir Putin signed a decree transferring local operations of Nestle and several French firms to new management amid ongoing geopolitical sanctions.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/putin-seizes-nestle-french-firms-russia-assets-over-wests-ukraine-support-how-big-is-nestle-s-business-there-11789736196881.html",
-      "dateLocation": "2026-09-18 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Warren Buffett Steps Down as Berkshire Chairman",
-      "whyItMatters": "Marks the end of an era for one of modern financial history's greatest investors.",
-      "brief": "Billionaire investor Warren Buffett has officially stepped down from his role as chairman of Berkshire Hathaway, transitioning into a chairman emeritus position.",
+      "headline": "Tata Group Boardroom Clash Rocks Conglomerate",
+      "whyItMatters": "Threatens governance stability at India's most historic and influential corporate business house.",
+      "brief": "A high-stakes boardroom conflict has surfaced within the Tata Group, sending shockwaves through India's corporate sector and raising governance concerns among institutional investors.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/warren-buffett-steps-down-as-berkshire-hathaway-chairman-named-chairman-emeritus/articleshow/134332222.cms",
-      "dateLocation": "2026-09-18 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjd0Y1JXQjg3NUNsd2RjUmNMbkZuUlNSb3YxQncwcWtEa0M4X3NHbXd4SzJKUHR0SFB2ZEp2ek5vRVVQcnNKd0tZT0s0NWhtSVg3MS1LTWl4d19IdmtUMm9vM2RoQkk3OVZCTWhRS3VWcV9PQ1lHV2hjcm8yT0V0TEV5eWNILS04YS00NzBnUGdfN2xMVWM0SDZjQ3V3TXZmYUFYTUpDSnBFM3NRa3c0alM4X0k?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Metro Sets Record Passenger Boardings",
-      "whyItMatters": "Highlights urban transit resilience during public transport disruptions and strikes.",
-      "brief": "The Delhi Metro recorded its highest-ever ridership with over 8.24 million passenger boardings amid a citywide transit strike by bus operators.",
+      "headline": "Disney Names Karandeep Anand First Chief Technology Officer",
+      "whyItMatters": "Accelerates Disney's digital transformation and integration of cutting-edge artificial intelligence across platforms.",
+      "brief": "Disney has appointed former Character.AI CEO and Microsoft veteran Karandeep Anand as its inaugural chief technology officer to spearhead advanced technology and AI initiatives.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3dVVjdKajM2eG9NSWR6aTBVR0RXU2RpdjNhR3dWMXBRcHd6OTNLMkc5UG9GUHVjRVhKRmMzeGdnZC1BVVRVTXJKU0NSSUZwcjJlRFlFNldST2MxUF9XTzZSX1NZN3k0elJsSldBTkRmS0VVbzl4TU5uTWFmQ0FlcS1uTUxaLUhjcEtvMTNUYWkzUlU4aTlFWDliZXkxNGh0WG44M2s4Sy01dXVlX0E?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Takes Legal Action Over Substandard Nestle Baby Food",
+      "whyItMatters": "Highlights stricter regulatory enforcement regarding infant nutrition and food safety standards.",
+      "brief": "Indian authorities have initiated legal proceedings against Nestle after testing found a sample of its baby food to be substandard during routine safety inspections.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVY5c0JVeURVNG9wbm95eDNFT2p5Y3BUT1VOakJkbnVZRjJyM3RXTlZrazJCRWYxMkh5X0FORUlBRTMyQURrSjh6d2NtUVZhalR2T2hHVDdGWUkzZnBvUUhjSHZTdzRzQ1ByM2R5eVNvMmRaY1Njem9uemlBWENfb2oycTBXSjE1TjBScTFvMFotQkFu?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New US Sanctions Bill On Russia Puts Modi In Bind",
+      "whyItMatters": "Complicates India's strategic balancing act between Western alliances and traditional ties with Moscow.",
+      "brief": "A newly proposed U.S. sanctions bill targeting Russia places Indian Prime Minister Narendra Modi in a complex diplomatic dilemma regarding bilateral trade and energy policies.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJCNkhGN0UzLTdmV0g4RzdmUmdLZ254c2JTWjB5cXRRZXZfYTZ0eW5YZ0ZyU1oteVIwdjV6V3VENE5VOGdfVnFHSTVBMnlCU3R0VkVWeWxMSnI5eVlvUTFRQmdVdWhISEpMVlFXa0UwNU1mTnVqV1ZoanVEQXoxOXBWZW5qUld0bE9QWUl1NkVTMHZ3VUZwTUItNTdpLWtrSmJJMA?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Bans CNN, MS NOW, Politico From White House",
+      "whyItMatters": "Escalates tensions between the administration and major media organizations over press freedom and reporting.",
+      "brief": "U.S. President Donald Trump has officially banned prominent news outlets CNN, MS NOW, and Politico from White House grounds, labeling their coverage as fake news.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-bans-media-outlets-cnn-ms-now-politico-from-white-house/article71482414.ece",
+      "dateLocation": "September 18, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mamata Moves Supreme Court Against ECI's TMC Symbol Freeze",
+      "whyItMatters": "Challenges the election commission's authority and neutrality ahead of critical regional electoral contests.",
+      "brief": "West Bengal Chief Minister Mamata Banerjee has filed a petition in the Supreme Court challenging the Election Commission's decision to freeze the Trinamool Congress name and symbol.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/delhi-metro-sets-new-record-with-82-44-lakh-passenger-boardings-on-17-sep-amid-dtc-strike-which-line-saw-highest-rush-11789737866470.html",
-      "dateLocation": "2026-09-18 | LiveMint",
+      "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-moves-supreme-court-against-tmc-symbol/article71482413.ece",
+      "dateLocation": "September 18, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Under-19 Beats Australia in Thriller",
-      "whyItMatters": "Showcases rising cricketing talent in high-pressure international youth matchups.",
-      "brief": "India's Under-19 cricket team secured a narrow seven-run victory over Australia in a rain-reduced limited-overs match hosted in Rajkot.",
+      "headline": "TRAI Mandates AI-Based Spam Detection To Curb Robocalls",
+      "whyItMatters": "Provides much-needed consumer relief by leveraging artificial intelligence to eliminate unwanted commercial phone calls.",
+      "brief": "The Telecom Regulatory Authority of India has introduced strict new rules mandating AI-based spam detection systems and imposing new fees on robocalls.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/dravid-sehwag-and-yashbardhan-chauhan-shine-as-india-u-19-edge-australia-by-seven-runs-in-rajkot-youth-odi/articleshow/134337083.cms",
-      "dateLocation": "2026-09-18 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/trai-mandates-ai-based-spam-detection-imposes-charge-on-robocalls-to-curb-unsolicited-calls/articleshow/134342102.cms",
+      "dateLocation": "September 18, 2026 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
