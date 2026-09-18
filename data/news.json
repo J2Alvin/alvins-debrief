@@ -1,102 +1,120 @@
 {
-  "lastUpdated": "2026-09-18T03:05:12.728Z",
+  "lastUpdated": "2026-09-18T10:31:28.137Z",
   "ticker": [
-    "Tata Reappoints Chairman Amid Charity Rift",
-    "US Considers Major Iran War Escalation",
-    "Bank of Japan Set for 31-Year Rate High",
-    "El Niño Threatens India's Monsoon",
-    "Applied Materials Invests $5 Billion in India"
+    "NSE mega IPO crosses full subscription mark",
+    "Blast hits Pakistan mosque killing 16",
+    "Apple Pay eyes India rollout with Axis Bank",
+    "Moody's raises India FY2027 GDP growth to 7%",
+    "China's CXMT eyes flash-memory push amid shortage"
   ],
   "articles": [
     {
-      "headline": "Tata Reappoints Chairman Despite Charity Rift",
-      "whyItMatters": "Highlights governance friction inside India's largest conglomerate over public listings.",
-      "brief": "Tata has reappointed its chairman and backed a public listing, defying pushback from its controlling charity trust, signaling an escalating internal governance dispute.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdGdpQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5",
-      "dateLocation": "18 September 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Apple Pay Eyes India Launch with Axis Bank",
+      "whyItMatters": "Expands digital payments competition in India's massive fintech market.",
+      "brief": "Apple is reportedly planning to launch Apple Pay in India in partnership with Axis Bank, according to recent sources.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlZNZXA2ZWxuTURFQS1OV0hSWkNnM2JSUmw4d1pnOTQ5OS1wUU85dVZ1MFgtbkhUeFN5eEdXNk96Rkh4NDNMZ2c3aFBZdlQ2Z054NGlvNUl3QnRkLW00a0psdEJBbnIxQnN4VGZOeTB6MEZPbFVyRHNaeEFnMm4wLVhCLVU1TElwaWcwOGpCN2V4X08yVUJBdWVTbU4wMnQ2M1VQRHZB?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bank of Japan Ready for Rate Hike",
-      "whyItMatters": "Shifts global liquidity conditions as Japan exits decades of ultra-loose monetary policy.",
-      "brief": "The Bank of Japan is preparing to raise interest rates to a 31-year high, signaling a definitive departure from its long-standing accommodative monetary stance.",
+      "headline": "China's CXMT Enters Flash-Memory Global Race",
+      "whyItMatters": "Alters global memory chip dynamics and challenges established South Korean giants.",
+      "brief": "Chinese semiconductor firm CXMT is pushing into flash-memory manufacturing to take on major rivals like Samsung.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXhCUnlwalg0dVppb2Y3dDVQNUFsUUlsLTZ2c2NJckZ2UjBxWXE0TC1QdFRSY0Q3VFA4QWctMzZSMHd6NFQ4Q1pDTy1UZTlVNE12ZGlmMGpFdXkzMXMxOWV4UWE0Z1REeHRMNzQ1NkFmd1hmQWc5d3FWdTUzYWM4ejhZc2IwSXprb3gtZzJxWmpTVFA4ZlFTSGhDN3J1ZWl1dWJVNkxVRVVTVkFjTS1LQXg2Y0RJZ1JTSms1VzJ4enppek4xMWFYRUxjMzA3dw?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Moody's Raises India's FY2027 GDP Forecast to 7%",
+      "whyItMatters": "Highlights strong economic resilience despite ongoing Middle East geopolitical tensions.",
+      "brief": "Moody's has upgraded India's fiscal 2027 GDP growth forecast to 7%, citing robust resilience amid regional challenges.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
-      "dateLocation": "18 September 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRl91c2w5U2syVzBabHBFa1NUQjJzUmVSWkhNN3JFTjgtUGRxcGxqOG1DbURISVkwMGdlNENnb2VWYjJoUU9pbmdWZW1OVGMyOWstWDdpNjRFa2pla3dUb3BwcW83bkdRWEttTFBjRjdsYUlUN1h1SlZmdGZJSnNRN3FkUmpDeDNzX0NpbUNINVB5UjduOWNzMnFjeURFSUVUc3VfZ2lKUWZ1dHdVLWVWNTBxVlJ5YWt4?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Weighs Major Escalation in Iran",
-      "whyItMatters": "Escalates Middle East geopolitical tensions, directly threatening global energy corridors.",
-      "brief": "US President Trump stated he faces a big decision regarding a major escalation against Iran as regional conflict severely threatens Strait of Hormuz oil routes.",
+      "headline": "NSE's Mega IPO Crosses Full Subscription Mark",
+      "whyItMatters": "Demonstrates strong institutional confidence in India's premier stock exchange offering.",
+      "brief": "The National Stock Exchange of India's major public offering achieved full subscription on day two, driven by strong institutional demand.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nses-mega-rs-22569-crore-ipo-crosses-full-subscription-mark-with-strong-institutional-demand/articleshow/134331709.cms",
+      "dateLocation": "September 18, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Deadly Blast Rips Through Pakistan Mosque",
+      "whyItMatters": "Escalates security concerns and political instability in the region.",
+      "brief": "An explosion during Friday prayers at a mosque in northwest Pakistan left 16 people dead and dozens injured.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/usiran-war-live-updates-trump-big-decision-coming-up-weighs-major-iran-escalation-irgc-strait-of-hormuz-peace-deal-chin-11789694070600.html",
-      "dateLocation": "18 September 2026 | Livemint",
+      "sourceUrl": "https://www.thehindu.com/news/international/blast-rips-through-mosque-during-friday-prayers-in-northwest-pakistan-16-killed-dozens-injured/article71480235.ece",
+      "dateLocation": "September 18, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "El Niño Puts India's Monsoon at Risk",
-      "whyItMatters": "Threatens agricultural yields and exacerbates food inflation pressures across the subcontinent.",
-      "brief": "A strengthening El Niño has put India on track for its driest monsoon in nearly two decades, raising serious alarms over crop yields and rising food inflation.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/food-inflation-faces-fresh-risk-el-nino-puts-india-on-course-for-driest-monsoon-in-17-years-11789693192963.html",
-      "dateLocation": "18 September 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Philippines Reports Chinese Ship Ramming Incident",
+      "whyItMatters": "Heightens territorial friction and maritime disputes in the South China Sea.",
+      "brief": "The Philippine Coast Guard accused a Chinese ship of deliberately ramming a government vessel on a humanitarian mission.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/philippines-says-chinese-ship-rammed-govt-boat-in-south-china-sea-beijing-alleges-violation-of-international-law-11789715500864.html",
+      "dateLocation": "September 18, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Applied Materials Pledges $5B to India",
-      "whyItMatters": "Accelerates India's ambitions to establish a domestic semiconductor manufacturing ecosystem.",
-      "brief": "Applied Materials has announced a massive $5 billion investment in India as Prime Minister Modi's flagship semiconductor event kicks off to attract global tech giants.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3kyeU5pWlZVczhBTGVoMVlLTFZkLS1Tb2J5QkhXdldvNW1fVlVCNTNRMUdiVUNBVGVDaURDb2NFSTZTOG1MR2Q2dWdXdXJDSkJmd0t3NjNncGN6VGdCeDF4T2pGWEQ2OXhNTU5zcEFaa0c2aTJEczgtbE1GeWZ6M0JJb2ZJbWY1TzlIaTYwOHVtWEp0LWtZeW9sNjNmUVE0cHRIaFNnSzZVZ3NmNUZXVW5yamdHODNTVkxXWE5CaHV6Y0V6VzVTd1BJNA?oc=5",
-      "dateLocation": "18 September 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New York Times Accuses OpenAI of Theft",
-      "whyItMatters": "Intensifies legal battles regarding intellectual property rights and AI training data usage.",
-      "brief": "Internal documents revealed by the New York Times allege that major tech firms knowingly utilized copyrighted news content for AI training despite internal acknowledgments of theft.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/new-york-times-alleges-microsoft-openai-knew-using-news-content-was-theft/article71479223.ece",
-      "dateLocation": "18 September 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Bill Targets Russian Oil Importers",
-      "whyItMatters": "Exposes major emerging economies to secondary tariffs and strains bilateral strategic ties.",
-      "brief": "The US House passed a sanctions bill empowering the president to slap secondary tariffs on nations like India and China for importing Russian energy.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india-protect-interests-us-bill-tariff-russian-oil-law-trump-mea-bilateral-ties-west-asia-war-11789652871417.html",
-      "dateLocation": "18 September 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Theranautilus Nanorobots Ready for Trials",
-      "whyItMatters": "Marks a milestone in advanced medical nanotechnology and targeted clinical treatments.",
-      "brief": "Award-winning biotech startup Theranautilus has announced that its revolutionary nanorobots are on schedule to begin human clinical trials by the end of the year.",
+      "headline": "India Takes Legal Action Over Nestle Baby Food",
+      "whyItMatters": "Reinforces regulatory oversight on multinational infant nutrition products in India.",
+      "brief": "Indian authorities initiated legal action after finding a Nestle baby food sample to be substandard during routine testing.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2026-theranautilus-nanorobots-will-be-ready-for-human-trials-by-year-end/articleshow/134316974.cms",
-      "dateLocation": "18 September 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVY5c0JVeURVNG9wbm95eDNFT2p5Y3BUT1VOakJkbnVZRjJyM3RXTlZrazJCRWYxMkh5X0FORUlBRTMyQURrSjh6d2NtUVZhalR2T2hHVDdGWUkzZnBvUUhjSHZTdzRzQ1ByM2R5eVNvMmRaY1Njem9uemlBWENfb2oycTBXSjE1QjlkRU5yT1o0Si1qaTVlaXVFclJaTnJrcmhrWHN1a3RiZnc?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Abhishek Sharma Smashes Record T20 Century",
-      "whyItMatters": "Sets new benchmarks for aggressive batting performances in international cricket tournaments.",
-      "brief": "Indian batsman Abhishek Sharma smashed a breathtaking 30-ball century against Afghanistan, setting a new record for the fastest T20I hundred by a Full Member nation.",
+      "headline": "Walgreens Plans Tech Centre in Chennai",
+      "whyItMatters": "Boosts employment and reinforces Chennai's status as a global capability hub.",
+      "brief": "US pharmacy chain Walgreens announced plans to establish a technology centre in Chennai, creating 250 initial jobs.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaHNHeG8yc0JoWS1sajBFbEl0bENKODdBRzVHMWdKdmZVQXRyZHZMdFZnQjN0bE83U2tZNHJ6TG11VTJuOTdjRnFJMFVURVJ4cDc1OHAzT25xa0FQNF9LX0RSQWFlUUJpMXZudVNhMkNUOHpjZ3Z6Wm9KSkxySTdzMDg4Vk9tZGUza0FEQUpGNlhXWXdQdllNNm9fUWUzSUV0aGxSc1J2ZjY2M1NsT250QVpyeUpmT2xrSC1mV0czMGVqOGpwYXBaREVudy1lbFNzTngyM3RXbjRBeXBVeFhTb2FfQnVDV1k?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Tata Reappoints Chairman Amid Charity Rift",
+      "whyItMatters": "Secures leadership continuity for India's largest conglomerate during governance friction.",
+      "brief": "Tata has reappointed its chairman and backed a public listing despite ongoing disputes with its controlling charitable trusts.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdGdpQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "North Korean Anthem Played for South Korea",
+      "whyItMatters": "Highlights a major protocol blunder at international sporting events.",
+      "brief": "Organisers at the Asian Games mistakenly played the North Korean anthem for a South Korean medal winner.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-vs-vaibhav-sooryavanshi-who-is-winning-the-six-hitting-battle/articleshow/134317246.cms",
-      "dateLocation": "18 September 2026 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-shocker-north-korean-anthem-played-for-south-korea/articleshow/134331649.cms",
+      "dateLocation": "September 18, 2026 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Methanol-Tainted Drink Kills 48 in Nigeria",
-      "whyItMatters": "Highlights dangerous public health hazards from illicit and poorly regulated local alcohol consumption.",
-      "brief": "At least 48 people have died in Nigeria after consuming a locally produced beverage suspected of containing lethal levels of toxic industrial methanol.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/at-least-48-dead-in-nigeria-after-consuming-drink-suspected-to-contain-methanol-authorities-say/articleshow/134323980.cms",
-      "dateLocation": "18 September 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "France Probes Smart Glasses Harassment Misuse",
+      "whyItMatters": "Raises legal and privacy questions regarding wearable tech integration in daily life.",
+      "brief": "French authorities have launched an investigation into the misuse of smart glasses in recent sexual harassment cases.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNektBQWp6ZnpTQ25yWXRMV0ktaXQ1YzBnUktZX0xtSFJzQkZxMVp5QUszNXpvZHRPMlZuN29vUmYzd0JrMHpjbzNFaEI3MjdfbVhSTnV6OU5peFNsZ3pJSjVOQllYTUNSOURWM3pFOURpX0t0NDZRbTN3b0MtcnRMNC1BMEdleGt6RWRUa1Bqb19CS00yOW9GMHQxYlpjYnVrVmo2cThoalpYWUk?oc=5",
+      "dateLocation": "September 18, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court to Inspect NTA Office over NEET",
+      "whyItMatters": "Demonstrates strict judicial oversight regarding competitive exam transparency and reforms.",
+      "brief": "The Supreme Court announced plans to inspect the NTA office while reviewing progress reports from the Nandan Nilekani panel.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/well-come-and-see-on-neet-sc-says-will-inspect-nta-office-seeks-report-on-progress-by-nandan-nilekani-panel-11789723671494.html",
+      "dateLocation": "September 18, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
