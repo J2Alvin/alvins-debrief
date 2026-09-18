@@ -1,147 +1,102 @@
 {
-  "lastUpdated": "2026-09-17T20:55:48.583Z",
+  "lastUpdated": "2026-09-18T03:05:12.728Z",
   "ticker": [
-    "US Passes Russia Sanctions Bill",
-    "Tata Reappoints Executive Chairman",
-    "Pakistan Announces Fuel Austerity",
-    "US Approves Visas For Iran Leaders",
-    "Bank of England Signals Rate Hike"
+    "Tata Reappoints Chairman Amid Charity Rift",
+    "US Considers Major Iran War Escalation",
+    "Bank of Japan Set for 31-Year Rate High",
+    "El Niño Threatens India's Monsoon",
+    "Applied Materials Invests $5 Billion in India"
   ],
   "articles": [
     {
-      "headline": "Tata Reappoints Chairman Amid Charity Dispute",
-      "whyItMatters": "Secures leadership stability for India's largest conglomerate amidst internal governance tensions.",
-      "brief": "Tata Sons has reappointed its executive chairman for a five-year term following majority board support, signaling continuity despite ongoing friction with controlling philanthropic trusts.",
+      "headline": "Tata Reappoints Chairman Despite Charity Rift",
+      "whyItMatters": "Highlights governance friction inside India's largest conglomerate over public listings.",
+      "brief": "Tata has reappointed its chairman and backed a public listing, defying pushback from its controlling charity trust, signaling an escalating internal governance dispute.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdGdpQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
+      "dateLocation": "18 September 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Faces Severe Rice Output Drop",
-      "whyItMatters": "Threatens domestic food pricing, though existing national reserves offer export cushioning.",
-      "brief": "India's rice production is confronting its largest single-year decline in two decades, though abundant national buffer stocks will help cushion immediate export commitments.",
+      "headline": "Bank of Japan Ready for Rate Hike",
+      "whyItMatters": "Shifts global liquidity conditions as Japan exits decades of ultra-loose monetary policy.",
+      "brief": "The Bank of Japan is preparing to raise interest rates to a 31-year high, signaling a definitive departure from its long-standing accommodative monetary stance.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZENVQmY1eVNPd2hpVjdLWGNmQTFPdjYxNC1hbnM4cjJQS1pGVWlYeFhKSjNJMWh3NlpPQUp5ZEpmUmZoYnZPNGNfZDVVZ3pmaUx0enNXajZLaHdKTFdEQU8xbHdXSGluMy05b09rNHpXS01IUE1JWEg5UHBKTHdOemY4eVZnaTh0YkQ5WVE5UEJfbjJMSVZYUWtDWHBldURqVVlQZDhzLU9mRDhQRGxyZWp1cDBweE8zUk1v?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
+      "dateLocation": "18 September 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Resists US Tariffs Over Russian Oil",
-      "whyItMatters": "Exposes potential diplomatic friction between Washington and New Delhi regarding energy procurement autonomy.",
-      "brief": "New Delhi warned that new American secondary tariffs targeting Russian energy purchases risk damaging bilateral ties, reaffirming its absolute commitment to national energy security.",
+      "headline": "Trump Weighs Major Escalation in Iran",
+      "whyItMatters": "Escalates Middle East geopolitical tensions, directly threatening global energy corridors.",
+      "brief": "US President Trump stated he faces a big decision regarding a major escalation against Iran as regional conflict severely threatens Strait of Hormuz oil routes.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEYxR3ZWQVp2WmNVWFlkTGd2QThGc3VMX2pPd3JSbkR4ekxSZm1WbjdhSU1hZ2JHaHZIZEJRSEEwdUZUOVl4REwxWU9OWUFJcWxaWm9hNk4yeXJJVU5FSUQ4WWZFVTVwQmpaZlFOem5wc1hiNnJJQklmQXo3aWpaOG1tY2tUWm9IalFnSFUzbWFoREwxNHo0RzZrb0RNbHJSa25yMDlidVk5WEt4RkNKRjQwRXpZSWkyYUE?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/us-news/usiran-war-live-updates-trump-big-decision-coming-up-weighs-major-iran-escalation-irgc-strait-of-hormuz-peace-deal-chin-11789694070600.html",
+      "dateLocation": "18 September 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Applied Materials Pledges $5B Chip Investment",
-      "whyItMatters": "Accelerates India's ambitions to establish a domestic semiconductor manufacturing and design ecosystem.",
-      "brief": "Applied Materials has announced a massive $5 billion capital investment in India, timed alongside the launch of Prime Minister Modi's flagship semiconductor industry summit.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3kyeU5pWlZVczhBTGVoMVlLTFZkLS1Tb2J5QkhXdldvNW1fVlVCNTNRMUdiVUNBVGVDaURDb2NFSTZTOG1MR2Q2dWdXdXJDSkJmd0t3NjNncGN6VGdCeDF4T2pGWEQ2OXhNTU5zcEFaa0c2aTJEczgtbE1GeWZ6M0JJb2ZJbWY1TzlIaTYwOHVtWEp0LWtZeW9sNjNmUVE0cHRIaFNnSzZVZ3NmNUZXVW5yamdHODNTVkxXWE5CaHV6Y0V6VzVTd1BJNA?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Implements Severe Fuel Austerity Measures",
-      "whyItMatters": "Highlights intense regional economic vulnerability amid compounding Middle Eastern energy supply shocks.",
-      "brief": "Pakistan has enacted emergency austerity protocols, banning official dinners and restricting foreign travel to conserve petroleum reserves as the Gulf conflict intensifies.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0Jyc1lIM3FCbG1acWJJU0xWdUdSUTM2TWloWk9tTDRGaDRyRmhvWUFtQ2k4NE02d25Vb29BYUFqYnFoY014eWpMM2hlaDJ1R0RESE5heGszQ3FiTEUzMGVrZTFvYjNGazZIM1RpTjZUNzNMQ3UwQnE3cG9fOE9FM3MybUo0X05ISnNXOWJZV1h3SE9TRUJ3S2lfejF6UWlPZ3NvT3MtMGNsVjlVeGV1Qkpud0QxMm81NVRSVk91TENhSzlCbnFR?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bank of England Hints at Rate Hikes",
-      "whyItMatters": "Signals a global shift in monetary policy as persistent inflation risks reemerge.",
-      "brief": "The Bank of England has altered its monetary stance toward potential interest rate hikes as domestic inflation figures are projected to climb past the 4% threshold.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5",
-      "dateLocation": "2026-09-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Approves Visas for Iranian Leadership at UN",
-      "whyItMatters": "Represents an unexpected diplomatic opening despite ongoing direct conflict between Washington and Tehran.",
-      "brief": "The United States has unexpectedly approved entry visas for Iran's president and foreign minister to attend high-level UN sessions despite months of active military hostilities.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-approves-visas-for-iran-president-fm-araghchi-to-attend-un-high-level-meeting-even-with-sides-at-war/article71478184.ece",
-      "dateLocation": "2026-09-17 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New Cat Species Discovered in Bolivia",
-      "whyItMatters": "Marks the first identification of a new South American feline species in over a century.",
-      "brief": "Genetic analysis has confirmed the 'Tilcayo' as an entirely new cat species in Bolivia, separating from lineage relatives roughly 1.4 million years ago.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/new-cat-species-identified-in-bolivia-first-in-over-a-century/article71478144.ece",
-      "dateLocation": "2026-09-17 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Canada Advances Bilateral Trade Talks With India",
-      "whyItMatters": "Aims to significantly boost economic integration and double bilateral trade volume by the decade's end.",
-      "brief": "Canada's international trade minister traveled to Mumbai to accelerate negotiations on a comprehensive economic partnership agreement targeted at reaching 70 billion Canadian dollars.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india-canada-trade-deal-cepa-fourth-round-talks-11789665940175.html",
-      "dateLocation": "2026-09-17 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "USCIS Imposes Stricter Green Card Rules",
-      "whyItMatters": "Alters financial evaluation criteria for thousands of prospective employment and family-based immigrants.",
-      "brief": "The USCIS has implemented new public charge regulations enforcing rigorous financial evaluations and expanded definitions of public benefit usage for applicants.",
+      "headline": "El Niño Puts India's Monsoon at Risk",
+      "whyItMatters": "Threatens agricultural yields and exacerbates food inflation pressures across the subcontinent.",
+      "brief": "A strengthening El Niño has put India on track for its driest monsoon in nearly two decades, raising serious alarms over crop yields and rising food inflation.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/starting-september-18-new-green-card-rules-coming-into-effect-full-list-of-categories-that-are-subject-to-the-change-and-those-that-are-not/articleshow/134305577.cms",
-      "dateLocation": "2026-09-17 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/india/food-inflation-faces-fresh-risk-el-nino-puts-india-on-course-for-driest-monsoon-in-17-years-11789693192963.html",
+      "dateLocation": "18 September 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Abhishek Sharma Leads India to T20 Sweep",
-      "whyItMatters": "Solidifies the explosive opener's long-term position in India's primary international squad configuration.",
-      "brief": "Abhishek Sharma scored a record-breaking 30-ball century to power India to a decisive 3-0 T20I series sweep against Afghanistan.",
+      "headline": "Applied Materials Pledges $5B to India",
+      "whyItMatters": "Accelerates India's ambitions to establish a domestic semiconductor manufacturing ecosystem.",
+      "brief": "Applied Materials has announced a massive $5 billion investment in India as Prime Minister Modi's flagship semiconductor event kicks off to attract global tech giants.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3kyeU5pWlZVczhBTGVoMVlLTFZkLS1Tb2J5QkhXdldvNW1fVlVCNTNRMUdiVUNBVGVDaURDb2NFSTZTOG1MR2Q2dWdXdXJDSkJmd0t3NjNncGN6VGdCeDF4T2pGWEQ2OXhNTU5zcEFaa0c2aTJEczgtbE1GeWZ6M0JJb2ZJbWY1TzlIaTYwOHVtWEp0LWtZeW9sNjNmUVE0cHRIaFNnSzZVZ3NmNUZXVW5yamdHODNTVkxXWE5CaHV6Y0V6VzVTd1BJNA?oc=5",
+      "dateLocation": "18 September 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New York Times Accuses OpenAI of Theft",
+      "whyItMatters": "Intensifies legal battles regarding intellectual property rights and AI training data usage.",
+      "brief": "Internal documents revealed by the New York Times allege that major tech firms knowingly utilized copyrighted news content for AI training despite internal acknowledgments of theft.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/new-york-times-alleges-microsoft-openai-knew-using-news-content-was-theft/article71479223.ece",
+      "dateLocation": "18 September 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Bill Targets Russian Oil Importers",
+      "whyItMatters": "Exposes major emerging economies to secondary tariffs and strains bilateral strategic ties.",
+      "brief": "The US House passed a sanctions bill empowering the president to slap secondary tariffs on nations like India and China for importing Russian energy.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india-protect-interests-us-bill-tariff-russian-oil-law-trump-mea-bilateral-ties-west-asia-war-11789652871417.html",
+      "dateLocation": "18 September 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Theranautilus Nanorobots Ready for Trials",
+      "whyItMatters": "Marks a milestone in advanced medical nanotechnology and targeted clinical treatments.",
+      "brief": "Award-winning biotech startup Theranautilus has announced that its revolutionary nanorobots are on schedule to begin human clinical trials by the end of the year.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2026-theranautilus-nanorobots-will-be-ready-for-human-trials-by-year-end/articleshow/134316974.cms",
+      "dateLocation": "18 September 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Abhishek Sharma Smashes Record T20 Century",
+      "whyItMatters": "Sets new benchmarks for aggressive batting performances in international cricket tournaments.",
+      "brief": "Indian batsman Abhishek Sharma smashed a breathtaking 30-ball century against Afghanistan, setting a new record for the fastest T20I hundred by a Full Member nation.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms",
-      "dateLocation": "2026-09-17 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-vs-vaibhav-sooryavanshi-who-is-winning-the-six-hitting-battle/articleshow/134317246.cms",
+      "dateLocation": "18 September 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Eac-Pm Member Advises Ending Population Controls",
-      "whyItMatters": "Reflects shifting national demographic discourse as fertility rates fall below replacement levels.",
-      "brief": "Economic Advisory Council member Sanjeev Sanyal has publicly called for phasing out state population control measures to address emerging demographic deficits.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/eac-pm-member-sanjeev-sanyal-suggests-ending-population-control-policies-amid-falling-fertility/articleshow/134320068.cms",
-      "dateLocation": "2026-09-17 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Health Ministry Restricts Unproven Stem Cell Therapies",
-      "whyItMatters": "Protects patients from unverified commercial treatments while formalizing clinical trial standards.",
-      "brief": "India's health ministry has issued an advisory restricting unregulated stem cell treatments, limiting unproven autism therapies strictly to approved clinical trials.",
+      "headline": "Methanol-Tainted Drink Kills 48 in Nigeria",
+      "whyItMatters": "Highlights dangerous public health hazards from illicit and poorly regulated local alcohol consumption.",
+      "brief": "At least 48 people have died in Nigeria after consuming a locally produced beverage suspected of containing lethal levels of toxic industrial methanol.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/health-ministry-issues-advisory-against-unregulated-stem-cell-therapies-restricts-autism-treatment-to-approved-clinical-trials/articleshow/134319742.cms",
-      "dateLocation": "2026-09-17 | Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/at-least-48-dead-in-nigeria-after-consuming-drink-suspected-to-contain-methanol-authorities-say/articleshow/134323980.cms",
+      "dateLocation": "18 September 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NASA Discovers Massive Lunar Impact Crater",
-      "whyItMatters": "Uncovers a rare deep-space impact event that completely bypassed detection for two years.",
-      "brief": "NASA scientists have identified a newly formed moon crater larger than Rome's Colosseum, resulting from an ultra-rare impact estimated to occur once every 132 years.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/nasa-discovers-moon-crater-bigger-than-romes-colosseum-rare-impact-went-unnoticed-for-2-years-occurs-once-every-132-years/articleshow/134320667.cms",
-      "dateLocation": "2026-09-17 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maratha Quota Agitator Ends Twenty-Day Fast",
-      "whyItMatters": "Temporarily defuses major caste-based political tensions in western India following state assurances.",
-      "brief": "Prominent Maratha quota activist Manoj Jarange Patil ended his grueling 20-day hunger strike after government authorities guaranteed the issuance of Maratha-Kunbi certificates within ninety days.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/manoj-jarange-patil-ends-20-day-fast-after-government-assures-maratha-kunbi-certificates-in-90-days/articleshow/134319118.cms",
-      "dateLocation": "2026-09-17 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
