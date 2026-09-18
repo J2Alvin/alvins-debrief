@@ -1,120 +1,84 @@
 {
-  "lastUpdated": "2026-09-18T10:31:28.137Z",
+  "lastUpdated": "2026-09-18T15:46:59.566Z",
   "ticker": [
-    "NSE mega IPO crosses full subscription mark",
-    "Blast hits Pakistan mosque killing 16",
-    "Apple Pay eyes India rollout with Axis Bank",
-    "Moody's raises India FY2027 GDP growth to 7%",
-    "China's CXMT eyes flash-memory push amid shortage"
+    "Apple Pay eyes India entry via Axis Bank partnership",
+    "Delhi Metro sets record with 8.24M daily passengers",
+    "Warren Buffett steps down as Berkshire Hathaway chairman",
+    "India rejects Pakistan's claims over Arabian Sea collision",
+    "Putin seizes Nestle and French firm assets in Russia"
   ],
   "articles": [
     {
       "headline": "Apple Pay Eyes India Launch with Axis Bank",
-      "whyItMatters": "Expands digital payments competition in India's massive fintech market.",
-      "brief": "Apple is reportedly planning to launch Apple Pay in India in partnership with Axis Bank, according to recent sources.",
-      "category": "technology",
+      "whyItMatters": "Expands digital payments competition in the world's fastest-growing fintech market.",
+      "brief": "Apple is preparing to launch Apple Pay in India in partnership with Axis Bank, according to recent sources, marking a major push into the lucrative South Asian digital transactions landscape.",
+      "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlZNZXA2ZWxuTURFQS1OV0hSWkNnM2JSUmw4d1pnOTQ5OS1wUU85dVZ1MFgtbkhUeFN5eEdXNk96Rkh4NDNMZ2c3aFBZdlQ2Z054NGlvNUl3QnRkLW00a0psdEJBbnIxQnN4VGZOeTB6MEZPbFVyRHNaeEFnMm4wLVhCLVU1TElwaWcwOGpCN2V4X08yVUJBdWVTbU4wMnQ2M1VQRHZB?oc=5",
-      "dateLocation": "September 18, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "2026-09-18 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China's CXMT Enters Flash-Memory Global Race",
-      "whyItMatters": "Alters global memory chip dynamics and challenges established South Korean giants.",
-      "brief": "Chinese semiconductor firm CXMT is pushing into flash-memory manufacturing to take on major rivals like Samsung.",
+      "headline": "China's CXMT Eyes Flash-Memory Expansion",
+      "whyItMatters": "Intensifies global competition in the semiconductor sector against memory giants.",
+      "brief": "Chinese memory chip maker CXMT is expanding its flash-memory production capacity to challenge established industry leaders like Samsung and YMTC amid global component supply shortages.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXhCUnlwalg0dVppb2Y3dDVQNUFsUUlsLTZ2c2NJckZ2UjBxWXE0TC1QdFRSY0Q3VFA4QWctMzZSMHd6NFQ4Q1pDTy1UZTlVNE12ZGlmMGpFdXkzMXMxOWV4UWE0Z1REeHRMNzQ1NkFmd1hmQWc5d3FWdTUzYWM4ejhZc2IwSXprb3gtZzJxWmpTVFA4ZlFTSGhDN3J1ZWl1dWJVNkxVRVVTVkFjTS1LQXg2Y0RJZ1JTSms1VzJ4enppek4xMWFYRUxjMzA3dw?oc=5",
-      "dateLocation": "September 18, 2026 | Reuters",
+      "dateLocation": "2026-09-18 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Moody's Raises India's FY2027 GDP Forecast to 7%",
-      "whyItMatters": "Highlights strong economic resilience despite ongoing Middle East geopolitical tensions.",
-      "brief": "Moody's has upgraded India's fiscal 2027 GDP growth forecast to 7%, citing robust resilience amid regional challenges.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRl91c2w5U2syVzBabHBFa1NUQjJzUmVSWkhNN3JFTjgtUGRxcGxqOG1DbURISVkwMGdlNENnb2VWYjJoUU9pbmdWZW1OVGMyOWstWDdpNjRFa2pla3dUb3BwcW83bkdRWEttTFBjRjdsYUlUN1h1SlZmdGZJSnNRN3FkUmpDeDNzX0NpbUNINVB5UjduOWNzMnFjeURFSUVUc3VfZ2lKUWZ1dHdVLWVWNTBxVlJ5YWt4?oc=5",
-      "dateLocation": "September 18, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NSE's Mega IPO Crosses Full Subscription Mark",
-      "whyItMatters": "Demonstrates strong institutional confidence in India's premier stock exchange offering.",
-      "brief": "The National Stock Exchange of India's major public offering achieved full subscription on day two, driven by strong institutional demand.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nses-mega-rs-22569-crore-ipo-crosses-full-subscription-mark-with-strong-institutional-demand/articleshow/134331709.cms",
-      "dateLocation": "September 18, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Deadly Blast Rips Through Pakistan Mosque",
-      "whyItMatters": "Escalates security concerns and political instability in the region.",
-      "brief": "An explosion during Friday prayers at a mosque in northwest Pakistan left 16 people dead and dozens injured.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/blast-rips-through-mosque-during-friday-prayers-in-northwest-pakistan-16-killed-dozens-injured/article71480235.ece",
-      "dateLocation": "September 18, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Philippines Reports Chinese Ship Ramming Incident",
-      "whyItMatters": "Heightens territorial friction and maritime disputes in the South China Sea.",
-      "brief": "The Philippine Coast Guard accused a Chinese ship of deliberately ramming a government vessel on a humanitarian mission.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/philippines-says-chinese-ship-rammed-govt-boat-in-south-china-sea-beijing-alleges-violation-of-international-law-11789715500864.html",
-      "dateLocation": "September 18, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Takes Legal Action Over Nestle Baby Food",
-      "whyItMatters": "Reinforces regulatory oversight on multinational infant nutrition products in India.",
-      "brief": "Indian authorities initiated legal action after finding a Nestle baby food sample to be substandard during routine testing.",
+      "headline": "India Takes Legal Action Against Nestle Baby Food",
+      "whyItMatters": "Raises crucial food safety and regulatory compliance standards for multinational brands.",
+      "brief": "Indian authorities have taken formal legal action against Nestle after finding local baby food samples to be substandard during routine quality checks.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVY5c0JVeURVNG9wbm95eDNFT2p5Y3BUT1VOakJkbnVZRjJyM3RXTlZrazJCRWYxMkh5X0FORUlBRTMyQURrSjh6d2NtUVZhalR2T2hHVDdGWUkzZnBvUUhjSHZTdzRzQ1ByM2R5eVNvMmRaY1Njem9uemlBWENfb2oycTBXSjE1QjlkRU5yT1o0Si1qaTVlaXVFclJaTnJrcmhrWHN1a3RiZnc?oc=5",
-      "dateLocation": "September 18, 2026 | Reuters",
+      "dateLocation": "2026-09-18 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Walgreens Plans Tech Centre in Chennai",
-      "whyItMatters": "Boosts employment and reinforces Chennai's status as a global capability hub.",
-      "brief": "US pharmacy chain Walgreens announced plans to establish a technology centre in Chennai, creating 250 initial jobs.",
+      "headline": "India Rejects Pakistan's Naval Collision Allegations",
+      "whyItMatters": "Underscores ongoing maritime tensions between the neighboring South Asian nations.",
+      "brief": "New Delhi firmly rejected Pakistan's allegations regarding a recent maritime collision in the Arabian Sea, stating that PNS Hunain operated in an unacceptable manner.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/india-rejects-pakistans-allegations-over-collision-in-arabian-sea-pns-hunain-conducted-in-unacceptable-manner-11789735316641.html",
+      "dateLocation": "2026-09-18 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Putin Seizes Nestle and French Assets in Russia",
+      "whyItMatters": "Deepens economic fallout and asset seizures over Western support for Ukraine.",
+      "brief": "Russian President Vladimir Putin signed a decree transferring local operations of Nestle and several French firms to new management amid ongoing geopolitical sanctions.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/putin-seizes-nestle-french-firms-russia-assets-over-wests-ukraine-support-how-big-is-nestle-s-business-there-11789736196881.html",
+      "dateLocation": "2026-09-18 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Warren Buffett Steps Down as Berkshire Chairman",
+      "whyItMatters": "Marks the end of an era for one of modern financial history's greatest investors.",
+      "brief": "Billionaire investor Warren Buffett has officially stepped down from his role as chairman of Berkshire Hathaway, transitioning into a chairman emeritus position.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaHNHeG8yc0JoWS1sajBFbEl0bENKODdBRzVHMWdKdmZVQXRyZHZMdFZnQjN0bE83U2tZNHJ6TG11VTJuOTdjRnFJMFVURVJ4cDc1OHAzT25xa0FQNF9LX0RSQWFlUUJpMXZudVNhMkNUOHpjZ3Z6Wm9KSkxySTdzMDg4Vk9tZGUza0FEQUpGNlhXWXdQdllNNm9fUWUzSUV0aGxSc1J2ZjY2M1NsT250QVpyeUpmT2xrSC1mV0czMGVqOGpwYXBaREVudy1lbFNzTngyM3RXbjRBeXBVeFhTb2FfQnVDV1k?oc=5",
-      "dateLocation": "September 18, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/warren-buffett-steps-down-as-berkshire-hathaway-chairman-named-chairman-emeritus/articleshow/134332222.cms",
+      "dateLocation": "2026-09-18 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Tata Reappoints Chairman Amid Charity Rift",
-      "whyItMatters": "Secures leadership continuity for India's largest conglomerate during governance friction.",
-      "brief": "Tata has reappointed its chairman and backed a public listing despite ongoing disputes with its controlling charitable trusts.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3FUc19DTEt4cXNLYUh4VW8wOXR4cm4wY3VvaVZlOERqQ1hmajFmSlZBQnIxb1Z0anZRSVpvYzJPd2hJd0J1dUFTSWhFclFxeV9mcVU2NzRITjg0VVBwSGg2dEN5TTNuZ2Jsam9kTFVtU2Q4RENtNzlSa2puY2dnRG56d1pwdGdpQjNmcEpRTkp1dW5mdDZpYTRKVmE3WGd4bm1KUDlod0V5V1JhVzV1eUg1Mlh6V0pjSFVZY1kxTmNWdw?oc=5",
-      "dateLocation": "September 18, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "North Korean Anthem Played for South Korea",
-      "whyItMatters": "Highlights a major protocol blunder at international sporting events.",
-      "brief": "Organisers at the Asian Games mistakenly played the North Korean anthem for a South Korean medal winner.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-shocker-north-korean-anthem-played-for-south-korea/articleshow/134331649.cms",
-      "dateLocation": "September 18, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "France Probes Smart Glasses Harassment Misuse",
-      "whyItMatters": "Raises legal and privacy questions regarding wearable tech integration in daily life.",
-      "brief": "French authorities have launched an investigation into the misuse of smart glasses in recent sexual harassment cases.",
+      "headline": "Delhi Metro Sets Record Passenger Boardings",
+      "whyItMatters": "Highlights urban transit resilience during public transport disruptions and strikes.",
+      "brief": "The Delhi Metro recorded its highest-ever ridership with over 8.24 million passenger boardings amid a citywide transit strike by bus operators.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNektBQWp6ZnpTQ25yWXRMV0ktaXQ1YzBnUktZX0xtSFJzQkZxMVp5QUszNXpvZHRPMlZuN29vUmYzd0JrMHpjbzNFaEI3MjdfbVhSTnV6OU5peFNsZ3pJSjVOQllYTUNSOURWM3pFOURpX0t0NDZRbTN3b0MtcnRMNC1BMEdleGt6RWRUa1Bqb19CS00yOW9GMHQxYlpjYnVrVmo2cThoalpYWUk?oc=5",
-      "dateLocation": "September 18, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-metro-sets-new-record-with-82-44-lakh-passenger-boardings-on-17-sep-amid-dtc-strike-which-line-saw-highest-rush-11789737866470.html",
+      "dateLocation": "2026-09-18 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court to Inspect NTA Office over NEET",
-      "whyItMatters": "Demonstrates strict judicial oversight regarding competitive exam transparency and reforms.",
-      "brief": "The Supreme Court announced plans to inspect the NTA office while reviewing progress reports from the Nandan Nilekani panel.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/well-come-and-see-on-neet-sc-says-will-inspect-nta-office-seeks-report-on-progress-by-nandan-nilekani-panel-11789723671494.html",
-      "dateLocation": "September 18, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Under-19 Beats Australia in Thriller",
+      "whyItMatters": "Showcases rising cricketing talent in high-pressure international youth matchups.",
+      "brief": "India's Under-19 cricket team secured a narrow seven-run victory over Australia in a rain-reduced limited-overs match hosted in Rajkot.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/dravid-sehwag-and-yashbardhan-chauhan-shine-as-india-u-19-edge-australia-by-seven-runs-in-rajkot-youth-odi/articleshow/134337083.cms",
+      "dateLocation": "2026-09-18 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
