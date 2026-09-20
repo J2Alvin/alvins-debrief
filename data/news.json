@@ -1,93 +1,120 @@
 {
-  "lastUpdated": "2026-09-20T10:34:39.222Z",
+  "lastUpdated": "2026-09-20T15:24:09.920Z",
   "ticker": [
-    "World leaders gather at the UN amid escalating geopolitical conflicts.",
-    "US and China to launch critical bilateral talks on AI and trade.",
-    "North Korea launches two ballistic missiles off its eastern coast.",
-    "Iran sets strict preconditions for resuming negotiations with the US.",
-    "India dominates early events at the Asian Games with multiple medals."
+    "World leaders gather at UN amid global conflicts",
+    "US and China to launch strategic trade talks",
+    "Iran warns of unlimited retaliation against US",
+    "Italy bans face coverings in school reforms",
+    "Strait of Hormuz remains closed as tensions rise"
   ],
   "articles": [
     {
       "headline": "World Leaders Convene at UN Amid Global Conflicts",
-      "whyItMatters": "Global diplomatic efforts face immense pressure as leaders address ongoing wars in Ukraine and the Middle East.",
-      "brief": "World leaders have returned to the United Nations headquarters to address mounting geopolitical crises, prominently featuring the ongoing conflicts in Ukraine and the Middle East, amid calls for renewed multilateral diplomacy and immediate de-escalation.",
+      "whyItMatters": "Highlights international diplomacy during ongoing geopolitical crises.",
+      "brief": "Global leaders return to the UN general assembly as wars in the Middle East and Ukraine dominate discussions.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5",
-      "dateLocation": "September 20, 2026 | New York / Reuters",
+      "dateLocation": "September 20, 2026 | New York",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US and China Launch Landmark Talks on AI and Trade",
-      "whyItMatters": "Bilateral negotiations between top economic officials could reshape global technology standards and critical supply chains.",
-      "brief": "US Treasury officials and Chinese counterparts are set to launch high-level talks focusing on artificial intelligence, international trade, and critical minerals security, marking a significant step in managing tech competition between the two superpowers.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
-      "dateLocation": "September 20, 2026 | Washington / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Iran Warns US Over Potential Regional Escalations",
+      "whyItMatters": "Signals heightened threat levels in Middle East security channels.",
+      "brief": "Iran has issued a stern warning against potential US-led escalations, pledging strong retaliation if attacked.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
+      "dateLocation": "September 20, 2026 | Tehran",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "North Korea Fires Two Ballistic Missiles Near East Coast",
-      "whyItMatters": "Renewed missile tests escalate regional security tensions across the Korean Peninsula and surrounding waters.",
-      "brief": "North Korea fired two short-range missiles off its east coast within a three-hour window, prompting swift condemnation and monitoring from regional defense forces in South Korea and Japan.",
-      "category": "security",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
-      "dateLocation": "September 20, 2026 | Seoul / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Sets Strict Conditions to Resume Nuclear Talks",
-      "whyItMatters": "Diplomatic deadlock persists as Tehran issues stringent demands for engaging with Washington.",
-      "brief": "Iranian officials have announced seven strict preconditions for renewing negotiations with the US government, while reaffirming that key regional shipping lanes will remain restricted until demands are met.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/iran-war-tehran-sets-7-terms-to-renew-us-talks-what-are-the-demands-will-us-strike-against-houthis-what-we-know-11789880465957.html",
-      "dateLocation": "September 20, 2026 | Tehran / Mint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Defense Production Reaches Record High",
-      "whyItMatters": "Domestic manufacturing growth signals a major shift toward self-reliance in global defense markets.",
-      "brief": "India's domestic defense production surged to unprecedented levels, driven by structural reforms, private sector participation, and a staggering rise in international military exports to over 80 countries.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/indias-defence-industry-takes-off-the-numbers-explained/articleshow/134365534.cms",
-      "dateLocation": "September 20, 2026 | New Delhi / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Shafali Verma Leads India into Asian Games Cricket Final",
-      "whyItMatters": "Historic individual performances propel the defending champions closer to consecutive gold medals.",
-      "brief": "Shafali Verma scored a historic century to power the Indian women's cricket team to a crushing victory over Bangladesh, securing their spot in the Asian Games gold-medal match against Sri Lanka.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-vermas-century-and-indias-bowling-blitz-crush-bangladesh-as-defending-champions-storm-into-asian-games-final/articleshow/134365242.cms",
-      "dateLocation": "September 20, 2026 | Nagoya / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Keeps Benchmark Lending Rates Unchanged",
-      "whyItMatters": "Monetary policy stability reflects cautious economic management amid ongoing property and growth pressures.",
-      "brief": "The People's Bank of China maintained its benchmark lending rates unchanged for the 16th consecutive month, signaling a steady monetary approach as authorities balance domestic stimulus needs.",
+      "headline": "US and China to Launch Trade and AI Talks",
+      "whyItMatters": "Crucial for global economic stability and tech regulation frameworks.",
+      "brief": "US Treasury officials and Chinese counterparts are set to launch comprehensive talks on artificial intelligence and trade.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5",
-      "dateLocation": "September 20, 2026 | Beijing / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+      "dateLocation": "September 20, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pentagon Seeks Specialized Military AI Tools",
-      "whyItMatters": "Integration of advanced artificial intelligence into defense operations marks a new era in military technology.",
-      "brief": "The US Department of Defense has expressed formal interest in acquiring specialized, secured military adaptations of leading generative AI platforms to enhance operational decision-making.",
-      "category": "innovation",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-wants-to-give-its-men-access-to-military-versions-of-chatgpt-and-grok-heres-what-these-specialised-versions-will-offer/articleshow/134365789.cms",
-      "dateLocation": "September 20, 2026 | Washington / Times of India",
+      "headline": "China Keeps Benchmark Lending Rates Unchanged",
+      "whyItMatters": "Reflects monetary policy stances in the world's second-largest economy.",
+      "brief": "China maintains its benchmark lending rates steady for the sixteenth consecutive month amid economic adjustments.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5",
+      "dateLocation": "September 20, 2026 | Beijing",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China's CXMT Begins Mass Production of Memory Chips",
+      "whyItMatters": "Advances domestic semiconductor capabilities in fierce global competition.",
+      "brief": "Chinese memory chip maker CXMT announces that its new platform has successfully entered mass production.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5",
+      "dateLocation": "September 20, 2026 | Shenzhen",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Italy to Ban Face Coverings in School Overhaul",
+      "whyItMatters": "Sparks intense debate over secularism and immigrant integration in Europe.",
+      "brief": "Prime Minister Giorgia Meloni announces new regulations restricting religious face coverings and limiting foreign student enrollment.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnJxcWRhcWRjZE9vWi1pTnBRdFpkTlE4NUNnekx2WkdBSXNxSjg2SzA1VnZwRDlieXJnTGR1dlB3UWJYbWRaV0dHVG02UW9JbTFpQUtxNHJLQWJuekN4b1FidWVCX0w2a1dZV0hDZnNkU1VXSnJyQnExTG1ZYnoyakg3QVI4NHhiVkE2clRBa21jd3BqN195YXBBUVJiNkpzNVBiSXA4ZS1OdGhOYkI4?oc=5",
+      "dateLocation": "September 20, 2026 | Rome",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Police Arrest Imran Khan's Sister in Lahore",
+      "whyItMatters": "Deepens political instability and crackdown concerns in Pakistan.",
+      "brief": "Law enforcement detains Aleema Khan ahead of a planned opposition protest march organized by PTI.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQnY5clJYNDQyOXpSMHZvay1mcGsteXNBZkd6S3BBNkUxeVRuNnBKT1RtSUk4Qm1WSlZrcE1zeHg3X2JGQTU3Z1F2V1YwbzIzQUlYYUtNZXJ5VmhQM3hDRVRobWNXaXNFVjI5eWZMVlNndkl1LXU1QWExSE1wcXV0bEJUR0lDX21HXy1ZYUVlZU1leDBmbTc2R1hhNC1Ebm1MRkgyTU9HTXU0RzY4X093SFhqVzNSaTB1MkFQeFRNZXBVUlFZS0ZmVkdR?oc=5",
+      "dateLocation": "September 20, 2026 | Lahore",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tata Trusts Challenges Chandrasekaran Reappointment",
+      "whyItMatters": "Highlights high-stakes boardroom governance conflicts within India's top conglomerate.",
+      "brief": "Tata Trusts challenges the leadership resolution, alleging that specific procedural conditions were not met.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/condition-was-not-met-tata-trusts-challenges-chandrasekaran-reappointment-resolution/articleshow/134370043.cms",
+      "dateLocation": "September 20, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Hockey Teams Don Saffron Jerseys at Asian Games",
+      "whyItMatters": "Marks a surprising visual shift from traditional national sports colors.",
+      "brief": "In a departure from their expected kit promises, Indian hockey teams wore saffron jerseys during opening matches.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/hockey-indias-blue-promise-goes-up-in-smoke-as-indian-hockey-teams-wear-saffron-at-asian-games/articleshow/134370060.cms",
+      "dateLocation": "September 20, 2026 | Nagoya",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi Electoral Roll Lists Deceased Economist Bibek Debroy",
+      "whyItMatters": "Raises serious questions about data accuracy in voter verification lists.",
+      "brief": "The Delhi election office issued verification notices to late economist Bibek Debroy, highlighting rolls discrepancies.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/economist-bibek-debroy-died-in-2024-why-did-delhi-s-sir-roll-issue-a-notice-in-his-name-in-2026-11789909393855.html",
+      "dateLocation": "September 20, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Strong Earthquake Strikes Papua New Guinea Region",
-      "whyItMatters": "High-magnitude seismic activity triggers immediate regional monitoring for potential tsunami hazards.",
-      "brief": "A powerful 6.1-magnitude earthquake struck off the coast of Papua New Guinea, with local authorities assessing potential infrastructure impacts and monitoring aftershocks across the archipelago.",
+      "headline": "Digital Healthcare Expansion Raises Accessibility Concerns",
+      "whyItMatters": "Examines the growing digital divide in modern medical access systems.",
+      "brief": "As health services move behind apps, experts warn that digital illiteracy leaves vulnerable patient populations behind.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/strong-6-1-magnitude-earthquake-strikes-papua-new-guinea-region/articleshow/134366256.cms",
-      "dateLocation": "September 20, 2026 | Port Moresby / Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms",
+      "dateLocation": "September 20, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Monsoon Withdrawal Begins From Western Rajasthan",
+      "whyItMatters": "Signals seasonal climatic shifts across the Indian subcontinent.",
+      "brief": "The India Meteorological Department confirms the retreat of the southwest monsoon has officially commenced.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india-monsoon-withdrawal-imd-weather-rainfall-forecast-september2026-11789899868904.html",
+      "dateLocation": "September 20, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
