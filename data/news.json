@@ -1,120 +1,147 @@
 {
-  "lastUpdated": "2026-09-20T15:24:09.920Z",
+  "lastUpdated": "2026-09-20T20:17:53.827Z",
   "ticker": [
-    "World leaders gather at UN amid global conflicts",
-    "US and China to launch strategic trade talks",
-    "Iran warns of unlimited retaliation against US",
-    "Italy bans face coverings in school reforms",
-    "Strait of Hormuz remains closed as tensions rise"
+    "World leaders gather at UN amid escalating conflicts.",
+    "US and China launch high-level talks on AI and trade.",
+    "Trump issues strong warning to Iran over regional tensions.",
+    "Russia concludes first wartime parliamentary elections.",
+    "India and China see surge in bilateral trade."
   ],
   "articles": [
     {
-      "headline": "World Leaders Convene at UN Amid Global Conflicts",
-      "whyItMatters": "Highlights international diplomacy during ongoing geopolitical crises.",
-      "brief": "Global leaders return to the UN general assembly as wars in the Middle East and Ukraine dominate discussions.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5",
-      "dateLocation": "September 20, 2026 | New York",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Warns US Over Potential Regional Escalations",
-      "whyItMatters": "Signals heightened threat levels in Middle East security channels.",
-      "brief": "Iran has issued a stern warning against potential US-led escalations, pledging strong retaliation if attacked.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
-      "dateLocation": "September 20, 2026 | Tehran",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US and China to Launch Trade and AI Talks",
-      "whyItMatters": "Crucial for global economic stability and tech regulation frameworks.",
-      "brief": "US Treasury officials and Chinese counterparts are set to launch comprehensive talks on artificial intelligence and trade.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
-      "dateLocation": "September 20, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Keeps Benchmark Lending Rates Unchanged",
-      "whyItMatters": "Reflects monetary policy stances in the world's second-largest economy.",
-      "brief": "China maintains its benchmark lending rates steady for the sixteenth consecutive month amid economic adjustments.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5",
-      "dateLocation": "September 20, 2026 | Beijing",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China's CXMT Begins Mass Production of Memory Chips",
-      "whyItMatters": "Advances domestic semiconductor capabilities in fierce global competition.",
-      "brief": "Chinese memory chip maker CXMT announces that its new platform has successfully entered mass production.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5",
-      "dateLocation": "September 20, 2026 | Shenzhen",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Italy to Ban Face Coverings in School Overhaul",
-      "whyItMatters": "Sparks intense debate over secularism and immigrant integration in Europe.",
-      "brief": "Prime Minister Giorgia Meloni announces new regulations restricting religious face coverings and limiting foreign student enrollment.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnJxcWRhcWRjZE9vWi1pTnBRdFpkTlE4NUNnekx2WkdBSXNxSjg2SzA1VnZwRDlieXJnTGR1dlB3UWJYbWRaV0dHVG02UW9JbTFpQUtxNHJLQWJuekN4b1FidWVCX0w2a1dZV0hDZnNkU1VXSnJyQnExTG1ZYnoyakg3QVI4NHhiVkE2clRBa21jd3BqN195YXBBUVJiNkpzNVBiSXA4ZS1OdGhOYkI4?oc=5",
-      "dateLocation": "September 20, 2026 | Rome",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Police Arrest Imran Khan's Sister in Lahore",
-      "whyItMatters": "Deepens political instability and crackdown concerns in Pakistan.",
-      "brief": "Law enforcement detains Aleema Khan ahead of a planned opposition protest march organized by PTI.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQnY5clJYNDQyOXpSMHZvay1mcGsteXNBZkd6S3BBNkUxeVRuNnBKT1RtSUk4Qm1WSlZrcE1zeHg3X2JGQTU3Z1F2V1YwbzIzQUlYYUtNZXJ5VmhQM3hDRVRobWNXaXNFVjI5eWZMVlNndkl1LXU1QWExSE1wcXV0bEJUR0lDX21HXy1ZYUVlZU1leDBmbTc2R1hhNC1Ebm1MRkgyTU9HTXU0RzY4X093SFhqVzNSaTB1MkFQeFRNZXBVUlFZS0ZmVkdR?oc=5",
-      "dateLocation": "September 20, 2026 | Lahore",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tata Trusts Challenges Chandrasekaran Reappointment",
-      "whyItMatters": "Highlights high-stakes boardroom governance conflicts within India's top conglomerate.",
-      "brief": "Tata Trusts challenges the leadership resolution, alleging that specific procedural conditions were not met.",
+      "headline": "Volvo Cars Appoints Skoda Chief Klaus Zellmer as CEO",
+      "whyItMatters": "Leadership change at major automaker signals shifting strategies in the global EV transition.",
+      "brief": "Volvo Cars has announced the appointment of Skoda chief Klaus Zellmer as its new Chief Executive Officer, steering the automaker through changing market dynamics.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/condition-was-not-met-tata-trusts-challenges-chandrasekaran-reappointment-resolution/articleshow/134370043.cms",
-      "dateLocation": "September 20, 2026 | Mumbai",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEJfOVNKYWwzX3Z5cXN1bXVFNFBENVpGZ25Md0pGQnB0Y1k0RjQ5b3pXTVl1M2ZXZUg2MU1vY0ZyNW1La2pPMnFPMDJpbHd2REdTeFlvT3lWMzM3bjZCZ193b0duUXBoZ1lnOHRuZzREV2sxa1R3X2g1eFE5UnFGRWNmTDBtaC00YXc?oc=5",
+      "dateLocation": "September 20, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Hockey Teams Don Saffron Jerseys at Asian Games",
-      "whyItMatters": "Marks a surprising visual shift from traditional national sports colors.",
-      "brief": "In a departure from their expected kit promises, Indian hockey teams wore saffron jerseys during opening matches.",
+      "headline": "China's CXMT Enters Mass Production for New Chip Platform",
+      "whyItMatters": "Advances China's domestic semiconductor capabilities amidst ongoing global tech supply chain shifts.",
+      "brief": "Chinese memory chipmaker CXMT has announced that its new memory-chip platform has officially entered mass production, marking a milestone for domestic tech.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5",
+      "dateLocation": "September 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Treasury and China Launch Talks on AI and Trade",
+      "whyItMatters": "Crucial bilateral engagement addressing critical global economic friction points, technology, and rare minerals.",
+      "brief": "US Treasury officials and Chinese counterparts have officially launched high-level discussions focusing on artificial intelligence, international trade, and critical minerals.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+      "dateLocation": "September 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "World Leaders Return to UN Amid Global Conflicts",
+      "whyItMatters": "High-stakes diplomatic assembly addressing ongoing wars in the Middle East and Ukraine.",
+      "brief": "Global leaders are converging at the United Nations headquarters to address mounting geopolitical crises and security challenges in the Middle East and Ukraine.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5",
+      "dateLocation": "September 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Teqball Awards First Medals at Asian Games",
+      "whyItMatters": "Marks a significant step forward for the sport's international recognition and Olympic aspirations.",
+      "brief": "Teqball has officially awarded its first-ever medals at the Asian Games, boosting the sport's global profile and its long-term Olympic ambitions.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/hockey-indias-blue-promise-goes-up-in-smoke-as-indian-hockey-teams-wear-saffron-at-asian-games/articleshow/134370060.cms",
-      "dateLocation": "September 20, 2026 | Nagoya",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOHUzRW1OWkNrZXl4V2pxWkx3WV9ST3M2alh6MC1LanhoelJFNEI3WjFjVXpXU1dZM1E0Q1JLbE53NjRJZ0JMbnEtT1E3c2w0TDZvTGo4aFpWWHk3THRlMU9RMXBmYTJYcUJvZ21pb2EzeVRYWERQMFk5RFdLRjJQa1h4MTlWZTBjQVNsb1I5SFl3aFZIQ2V1VFVOeGVYbUhaQlppNlp2Tmd4LS1KcVJsaE5B?oc=5",
+      "dateLocation": "September 20, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Electoral Roll Lists Deceased Economist Bibek Debroy",
-      "whyItMatters": "Raises serious questions about data accuracy in voter verification lists.",
-      "brief": "The Delhi election office issued verification notices to late economist Bibek Debroy, highlighting rolls discrepancies.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/economist-bibek-debroy-died-in-2024-why-did-delhi-s-sir-roll-issue-a-notice-in-his-name-in-2026-11789909393855.html",
-      "dateLocation": "September 20, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Digital Healthcare Expansion Raises Accessibility Concerns",
-      "whyItMatters": "Examines the growing digital divide in modern medical access systems.",
-      "brief": "As health services move behind apps, experts warn that digital illiteracy leaves vulnerable patient populations behind.",
+      "headline": "Campaign to Reduce Salt Intake Launched for Better Health",
+      "whyItMatters": "Public health initiative aimed at curbing cardiovascular diseases, high blood pressure, and stroke risks.",
+      "brief": "A major public health campaign has been initiated to promote reduced salt intake, emphasizing its role in lowering cardiovascular risks and preventing strokes.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/healthcare-goes-digital-when-doctors-go-behind-the-app-wall-who-gets-left-behind/articleshow/134369357.cms",
-      "dateLocation": "September 20, 2026 | New Delhi",
+      "sourceUrl": "https://www.thehindu.com/opinion/op-ed/campaign-to-reduce-the-intake-of-salt/article71468973.ece",
+      "dateLocation": "September 20, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Monsoon Withdrawal Begins From Western Rajasthan",
-      "whyItMatters": "Signals seasonal climatic shifts across the Indian subcontinent.",
-      "brief": "The India Meteorological Department confirms the retreat of the southwest monsoon has officially commenced.",
+      "headline": "Italy Plans Burqa and Niqab Ban in Schools",
+      "whyItMatters": "Represents a strict policy shift on migration, integration, and cultural expression in European educational institutions.",
+      "brief": "Italian Prime Minister Giorgia Meloni's government has announced plans to ban burqas and niqabs in schools alongside caps on foreign students in classrooms.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/giorgia-meloni-plans-burqa-niqab-ban-in-italian-schools-and-cap-on-foreign-students-in-classrooms-11789925960986.html",
+      "dateLocation": "September 20, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Karnataka FDA Cracks Down on Counterfeit Drug Racket",
+      "whyItMatters": "Protects public health by seizing millions in illegal medications and penalizing violating distributors.",
+      "brief": "The Karnataka FDA suspended numerous licenses and seized over five crore rupees worth of fake medicines in a major crackdown on counterfeit drugs.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india-monsoon-withdrawal-imd-weather-rainfall-forecast-september2026-11789899868904.html",
-      "dateLocation": "September 20, 2026 | New Delhi",
+      "sourceUrl": "https://www.livemint.com/news/india/karnataka-fda-cracks-down-on-fake-drug-racket-24-licences-hit-rs-5-cr-stock-seized-what-did-it-find-during-raid-11789924262491.html",
+      "dateLocation": "September 20, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Issues Warning to Iran Over Regional Escalation",
+      "whyItMatters": "Heightens geopolitical tensions in the Middle East following trade of threats and Houthi attacks.",
+      "brief": "US President Trump warned Iran of severe consequences amid escalating conflicts, while Iran stated any military action would face unlimited retaliation.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/when-do-i-blow-entire-nation-up-trumps-ultimatum-after-iran-warns-of-decisive-war/articleshow/134372224.cms",
+      "dateLocation": "September 20, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Russia Concludes First Wartime Parliamentary Elections",
+      "whyItMatters": "Consolidates Kremlin control amid international condemnation and ongoing conflict in Ukraine.",
+      "brief": "Russia's parliamentary elections have concluded with the ruling party projected to maintain firm control, despite international criticism and contested voting in annexed regions.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/russia-wraps-up-first-wartime-parliamentary-election-kremlin-set-to-retain-control/articleshow/134374935.cms",
+      "dateLocation": "September 20, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "JLR Seeks $1.3 Billion Loan Amid Tata Uncertainty",
+      "whyItMatters": "Demonstrates automotive capital-raising efforts amidst corporate leadership transitions at the parent group level.",
+      "brief": "Jaguar Land Rover has initiated talks with global banks for a massive five-year loan while lenders flag leadership uncertainty at Tata Sons.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/jlr-begins-talks-with-global-banks-for-1-3-billion-five-year-loan-some-lenders-flag-tata-sons-leadership-uncertainty/articleshow/134374169.cms",
+      "dateLocation": "September 20, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Increases Imports from India Amid Rising BRICS Trade",
+      "whyItMatters": "Highlights evolving bilateral trade dynamics and growing economic cooperation within emerging markets.",
+      "brief": "Bilateral trade between India and China has seen a substantial boost as Chinese markets increase purchases of Indian goods under expanding BRICS frameworks.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-goes-shopping-in-india-as-exports-jump-39-and-brics-trade-picks-up/articleshow/134365346.cms",
+      "dateLocation": "September 20, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Eighth-Grader Designs Controlled-Release Antacid System",
+      "whyItMatters": "Showcases youth innovation in medical science and improved treatment methods for acid reflux.",
+      "brief": "A middle school student from Pennsylvania has become a national STEM finalist for creating an innovative controlled-release antacid drug delivery system.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/meet-sai-sri-valli-mogilineedi-the-mechanicsburg-eighth-grader-who-designed-a-controlled-release-antacid-and-became-one-of-30-us-finalists-competing-for-more-than-100000-in-stem-awards/articleshow/134373682.cms",
+      "dateLocation": "September 20, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Border Ruling Permits Unrestricted Cellphone Searches",
+      "whyItMatters": "Impacts digital privacy rights and law enforcement powers for international travelers at borders.",
+      "brief": "A recent court ruling affirms that US border agents possess broad authority to search traveler electronic devices without requiring a warrant.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms",
+      "dateLocation": "September 20, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Shooters Secure Silver Medals at Asian Games",
+      "whyItMatters": "Bolsters India's standing on the continental sports medal table.",
+      "brief": "Indian shooting athletes added multiple silver medals to the national tally during ongoing competitions at the Asian Games in Nagoya.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-medal-tally-live-india-full-winners-list-table-aichi-nagoya-cricket-shooting-badminton-hockey-kabaddi-mma-athletics-tt-complete-medalists/articleshow/134363341.cms",
+      "dateLocation": "September 20, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
