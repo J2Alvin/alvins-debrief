@@ -1,120 +1,138 @@
 {
-  "lastUpdated": "2026-09-21T17:55:56.632Z",
+  "lastUpdated": "2026-09-21T21:42:52.160Z",
   "ticker": [
-    "US media suspends Trump coverage over White House ban",
-    "Global diesel prices hit record highs amid Middle East conflict",
-    "AMD crosses $1 trillion valuation on AI chip demand",
-    "Maldives unveils massive $20 billion UAE investment project",
-    "US sets strict September 23 shutdown deadline for Iran airlines"
+    "Global diesel prices hit record highs",
+    "El Niño ties record intensity at 3.07°C",
+    "Nearly 40% of India's coal plants low on fuel",
+    "New Zealand trade pact takes effect October 20",
+    "US flights grounded following major cable outage"
   ],
   "articles": [
     {
+      "headline": "Google Launches $899 Gemini AI-Powered Laptops",
+      "whyItMatters": "Signals a major push for consumer-grade artificial intelligence hardware integration.",
+      "brief": "Google has opened pre-orders for its new $899 Googlebook laptops, featuring deep native integration with Gemini AI.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWURJSmQxWmF6cVZZRkVpWUFTbXM3WTd0WUQwb3paV2NsQXE5TTlVMmhjb0pQajJDQmpfS2lTa0QxUTBGa0NVcnZIUmJsM2JPeExUQVBfcjdXcWJadzV5MllUUVYxaU4zbHJUd3lybms4bEdoYkdkd3JxOW5QNHBzRjV2UjBOczZ0a0VVT1VMZnpKVjlEN0xGM0ZUU2VlRld4NmtrR1JKU2RhV3pURmFfWEVIdWtra2FfQU56MTNRRGQ2ZERfeFR0SEtn?oc=5",
+      "dateLocation": "2026-09-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
       "headline": "Global Diesel Prices Hit Record Highs",
-      "whyItMatters": "Surging fuel costs threaten global economic stability and escalate transport inflation worldwide.",
-      "brief": "Global diesel prices have reached record highs as ongoing conflicts in the Middle East disrupt supply chains and fuel production, raising concerns about further inflationary pressure on worldwide transportation and commodities.",
+      "whyItMatters": "Accelerates inflationary pressures worldwide and threatens global supply chain stability.",
+      "brief": "Global diesel prices have surged to record highs, with analysts warning of further potential increases amid constrained refining capacity.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTJkVThNdEJxOWJFWkljaTdsVjJZbTJlUXU4M19XSm1fMFVQSUZ1VUxRYjV6dkNaTE5FZnkwWndvX2UzcTlYVU5IV1JEVGUwSXprOTJEMjI3eTlJWkJodFVhWDFsX1N2akxCMm1pQ2hWbVRhR3huTjlPSTg5cGtwMjJpQ2J5RUd0SlZ1RUJWeW1lMXB2VXd0NWdYLWk3bmw1T3ZTclRLazF0RW1MVUFHZThB?oc=5",
       "dateLocation": "2026-09-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AMD Joins $1 Trillion Valuation Club",
-      "whyItMatters": "Highlights the unrelenting market dominance of semiconductor giants driven by artificial intelligence demand.",
-      "brief": "Advanced Micro Devices has surpassed a $1 trillion market valuation as chipmakers rally strongly on sustained, high-growth global demand for artificial intelligence hardware and advanced computing infrastructure.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEJSWFBacFZ6Y2xjRGFmeFBLLS02aTN5LWV1RWpLbWNtSXpQS3dGRF9OZUVYendmWTNxQnJqdHh6dEpIRWcxTnlFY0JXeVM2YXF3cTgwTmFxRjlYWm1oWFN5bFJFM3p2Y2twQ0xvTVFZb2NMQmNtdF9lX3dNNG1nR3l3dXg0OU1XX19pckx1cnBNNXlfeDJfTnVkSVhJbEpyTXY4dVdWalBQVkdSWDhn?oc=5",
+      "headline": "Nearly 40% of Indian Coal Plants Low on Fuel",
+      "whyItMatters": "Threatens massive industrial disruption and rolling blackouts across India's manufacturing sectors.",
+      "brief": "Recent data reveals that nearly 40% of India's coal-fired power plants are running critically low on fuel reserves.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRV9XTHdTWFVjeFQwMWZmVkM5cERPeXViYzlVQU55U0xMNlZMVXllV3ZSSEhJUlgzVVoxTWZMVnN1RktBckhOY2tmamtWaFkzMlV2cC1sSUJZWVkwVEg5YW5oWDczV1MwQXNsNnpkUkw4RUJtTzFxUUFQQ0xTcDhIYkYtUDAyUC12YW5kcTU2eHAxMW84OE1lUDhxcjBQOGpsdklDcHdMSFJwVWNuSUZIWmQ1c2lZdVMtS0M5Skt1SUlGQQ?oc=5",
       "dateLocation": "2026-09-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Media Networks Halt Trump Coverage",
-      "whyItMatters": "A historic clash between the executive branch and major news organizations over press freedom.",
-      "brief": "Major U.S. television networks have suspended coverage of President Donald Trump in revolt over the administration's decision to ban CNN from White House grounds, citing direct violations of free press.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-networks-halt-trump-coverage-in-revolt-over-white-house-ban/article71492960.ece",
-      "dateLocation": "2026-09-21 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Sets Strict Shutdown for Iran Airlines",
-      "whyItMatters": "Intensifies economic pressure and secondary sanction threats on international entities dealing with Iran.",
-      "brief": "The United States has set a September 23 deadline to globally ground Iranian airlines, warning that any non-compliant entities or countries allowing landings will face exclusion from the dollar system.",
+      "headline": "El Niño Ties Record Intensity at 3.07°C",
+      "whyItMatters": "Triggers severe weather anomalies, droughts, and agricultural crises across multiple continents.",
+      "brief": "El Niño has matched its highest recorded intensity with Pacific sea surface temperatures reaching 3.07°C above average.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/us-sets-sept-23-deadline-for-iran-airlines-bessent-warns-non-compliant-entities-will-be-knocked-out-of-dollar-system-11790003521660.html",
+      "sourceUrl": "https://www.livemint.com/news/world/el-nino-ties-record-intensity-what-3-07-c-pacific-warming-means-what-weather-from-central-america-to-indonesia-11790019836871.html",
       "dateLocation": "2026-09-21 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Maldives Unveils Massive UAE Investment",
-      "whyItMatters": "Significant financial injection expected to reshape regional infrastructure and employment opportunities.",
-      "brief": "The Maldives has officially announced a landmark $20 billion investment initiative backed by the UAE, projected to create over 54,000 employment opportunities and transform the island nation's economic landscape.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/maldives-unveils-20-billion-uae-investment/article71492982.ece",
-      "dateLocation": "2026-09-21 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "California Declares Emergency Over Historic El Niño",
+      "whyItMatters": "Directs critical state resources toward protecting infrastructure from impending catastrophic storms.",
+      "brief": "California Governor Gavin Newsom has declared a statewide emergency to prepare for severe El Niño storms and potential flooding.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/el-ni-o-could-become-strongest-on-record-california-governor-gavin-newsom-declares-statewide-emergency-11790012492023.html",
+      "dateLocation": "2026-09-21 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Novo Nordisk Claims Weight Loss Win",
-      "whyItMatters": "Intensifies the high-stakes pharmaceutical race for dominance in lucrative diabetes and obesity treatments.",
-      "brief": "Novo Nordisk announced that its experimental drug CagriSema demonstrated greater weight loss efficacy compared to Eli Lilly's rival treatment in clinical studies involving diabetes patients.",
+      "headline": "Novo Nordisk Claims Greater Weight Loss in Diabetes Drug",
+      "whyItMatters": "Intensifies the multi-billion dollar pharmaceutical rivalry in metabolic and obesity treatments.",
+      "brief": "Novo Nordisk announced that its CagriSema treatment demonstrated superior weight loss compared to a rival Eli Lilly drug.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHlFWGtzanhmbXJ1bnRkWUREdHp5TVZGT3FxMVBTVFRranIyZUhCWWlHa2dmcUxsLTczakxobmtfaHlaZ2UyZFBidEFubjJ5ZkZzdFVwWkxUMEVUdTBQWFdQYmw3bjVaT0RzQXpHTkRNeHhrcTRRV1Flb2V0T2k4bW5rb2RvdW9FdGhPRUdCZElmVU4zQzJLLWRrV1daUjhXQlNzcGx3eGN3dWNCX09pY3JvUC10T2NzMEZqZHkyc042TWtQQTJQcThmemNxQUFRbG1wV3NqcUs?oc=5",
       "dateLocation": "2026-09-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "NHAI Introduces Uniform Highway Design Norms",
-      "whyItMatters": "Standardizes high-speed corridor planning to enhance safety and efficiency across India's road network.",
-      "brief": "The National Highways Authority of India has instituted a unified design framework for high-speed access-controlled national highways to streamline corridor planning as the country expands its road infrastructure.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/nhai-sets-uniform-design-norms-for-high-speed-access-controlled-highways-11789992201331.html",
-      "dateLocation": "2026-09-21 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "New Zealand-India Trade Pact Takes Effect October 20",
+      "whyItMatters": "Opens new bilateral trade corridors and provides duty-free market access across key sectors.",
+      "brief": "The upcoming New Zealand trade agreement is officially set to take effect on October 20, offering streamlined market entry.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/new-zealand-trade-pact-to-take-effect-on-oct-20-to-give-duty-free-access/articleshow/134397576.cms",
+      "dateLocation": "2026-09-21 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "T-Mobile and Jio Achieve 5G Roaming",
-      "whyItMatters": "Marks a major technological milestone for global telecommunications and seamless cross-border network connectivity.",
-      "brief": "T-Mobile and Reliance Jio have successfully implemented the world's first 5G standalone roaming connection in collaboration with Syniverse, paving the way for advanced international mobile data services.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/t-mobile-jio-achieve-worlds-first-5g-standalone-roaming-connection-with-syniverse/articleshow/134393077.cms",
-      "dateLocation": "2026-09-21 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Export Surge to China Accelerates",
-      "whyItMatters": "Reflects shifting trade dynamics driven by specialized electronics, artificial intelligence, and engineering goods.",
-      "brief": "India's export volumes to China have surged past the $3 billion mark, fueled by increasing global demand for advanced electronics, artificial intelligence components, and high-value engineering goods.",
+      "headline": "Lockheed Ready for Super Hercules Technology Transfer",
+      "whyItMatters": "Boosts domestic aerospace manufacturing capabilities under India's defense self-reliance initiative.",
+      "brief": "Lockheed Martin has announced readiness to transfer component technology for the Super Hercules aircraft to Indian partners.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/ai-electronics-and-engineering-goods-fuel-indias-export-surge-into-china/articleshow/134388925.cms",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/ready-for-tech-transfer-of-some-parts-of-super-hercules-to-india-says-lockheed-vp-calls-aircraft-best-option-for-iaf-as-mta-tender-is-out/articleshow/134397508.cms",
       "dateLocation": "2026-09-21 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan PTI Plans Mass Protests",
-      "whyItMatters": "Heightens political instability and civil unrest risks in an already economically strained Pakistan.",
-      "brief": "Pakistan Tehreek-e-Insaf has vowed to proceed with demonstrations across the country on September 27 to demand the release of imprisoned leader Imran Khan, despite strict government warnings and detentions.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-in-crisis-pti-to-hold-sept-27-stir-at-all-costs-imran-khans-sisters-challenge-detention-orders/articleshow/134394418.cms",
-      "dateLocation": "2026-09-21 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Imposes Red Alerts for Heavy Rains",
-      "whyItMatters": "Emergency preparations are underway as severe weather threatens multiple districts in Andhra Pradesh.",
-      "brief": "The India Meteorological Department has issued orange and red alerts for Andhra Pradesh due to an active depression in the Bay of Bengal, warning of heavy to very heavy rainfall over the next three days.",
+      "headline": "Government Urges Bank Employees to Avoid Strikes",
+      "whyItMatters": "Prevents potential disruptions to nationwide banking services and commercial liquidity.",
+      "brief": "Indian authorities have appealed to bank employee unions to call off planned strikes and resolve grievances via dialogue.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/imd-issues-orange-red-alerts-for-ap-as-low-pressure-area-may-bring-heavy-rain-in-next-three-days/article71491915.ece",
-      "dateLocation": "2026-09-21 | The Hindu",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-urges-bank-employees-to-refrain-from-strikes-resolve-issues-through-dialogue/articleshow/134396807.cms",
+      "dateLocation": "2026-09-21 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oilers Linked to Blockbuster Larkin Trade",
-      "whyItMatters": "A potential blockbuster NHL transaction that could drastically alter team rosters ahead of the season.",
-      "brief": "The Edmonton Oilers are reportedly evaluating a major trade proposal involving Detroit Red Wings center Dylan Larkin, though contract complexities and no-trade clauses remain significant obstacles.",
+      "headline": "Pakistan Launches Fresh Airstrikes in Afghanistan",
+      "whyItMatters": "Heightens geopolitical friction and threatens regional security along the contested border.",
+      "brief": "Pakistan conducted fresh airstrikes inside Afghanistan territory, prompting Kabul to issue formal warnings of retaliation.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/pakistan-launches-fresh-airstrikes-in-afghanistan-as-kabul-warns-of-response/articleshow/134396310.cms",
+      "dateLocation": "2026-09-21 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oilers Linked to Potential Blockbuster Dylan Larkin Trade",
+      "whyItMatters": "Could dramatically reshape the competitive landscape and roster strength for NHL contenders.",
+      "brief": "NHL trade rumors connect the Edmonton Oilers to a complex blockbuster package centered around Detroit's Dylan Larkin.",
       "category": "sports",
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/nhl/news/oilers-linked-to-blockbuster-dylan-larkin-trade-as-matthew-savoie-led-package-puts-detroit-in-a-difficult-position/articleshow/134379564.cms",
       "dateLocation": "2026-09-21 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Agrees to Urgent Listing of TMC Plea",
+      "whyItMatters": "Addresses critical political disputes regarding party identity and election symbols ahead of polls.",
+      "brief": "The Supreme Court has agreed to an urgent hearing for Mamata Banerjee's TMC plea challenging ECI actions.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/supreme-court-to-urgently-list-mamata-banerjee-plea-against-eci-freeze-on-tmc-name-symbol/articleshow/134396362.cms",
+      "dateLocation": "2026-09-21 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Air Traffic Control Outage Snarls Major Flights",
+      "whyItMatters": "Disrupts national air transit networks and causes extensive delays for international delegates.",
+      "brief": "A technical glitch at a Philadelphia air traffic facility caused widespread flight delays across major New York airports.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/nyc-airports-face-delays-after-air-traffic-control-outage-11790020581299.html",
+      "dateLocation": "2026-09-21 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NTF Report Flags Competition and Suicides at IITs",
+      "whyItMatters": "Puts institutional mental health support and academic pressures under intense national scrutiny.",
+      "brief": "A national task force report highlights severe academic competition, caste fault lines, and student suicides across IIT campuses.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/iits-suicides-competition-caste-among-campus-fault-lines-ntf-report/articleshow/134396400.cms",
+      "dateLocation": "2026-09-21 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
