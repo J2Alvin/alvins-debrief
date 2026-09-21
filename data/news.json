@@ -1,102 +1,147 @@
 {
-  "lastUpdated": "2026-09-21T03:13:22.771Z",
+  "lastUpdated": "2026-09-21T11:56:32.609Z",
   "ticker": [
-    "Tech shares rise in Asia",
-    "Oil hits one-week low",
-    "Iran blocks Strait of Hormuz",
-    "India wins Asian Games silver",
-    "Germany far-right wins vote"
+    "US coffee chain Starbucks plans global tech centre in India",
+    "SoftBank launches $11 billion bonds to fund OpenAI investment",
+    "Xi Jinping to visit US from Sept 23 to 25",
+    "Bangladesh raises fuel prices as Middle East conflict drives up costs",
+    "Irish privacy regulator fines Google €403 million over location data"
   ],
   "articles": [
     {
-      "headline": "Asian Shares Rise as Tech Leads and Oil Slips",
-      "whyItMatters": "Indicates regional market optimism driven by technology sectors despite commodity price drops.",
-      "brief": "Asian stock markets traded higher, led by technology shares, while oil prices slipped to a multi-week low amid shifting geopolitical and economic expectations.",
+      "headline": "Starbucks plans global tech centre in India",
+      "whyItMatters": "Expands major multinational tech footprints in South Asia.",
+      "brief": "US coffee giant Starbucks is setting up a major global technology centre in India to drive its digital transformation initiatives.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV1Qyd2lOTk5VUDdnRzU2VU1RTEM5SlJ4MHloOGhjRlM2bUtUTkROb0J4V3JvNFA4U3N6VmM5U3laVFJqZUt1Mm9YRnZodWk3WkowOXoxaWk1dlFuWWdXM0h5emxlamItX3hHcTEzNVFKRGNRU1VPN0c1SDJPN1UySWFieDZ3ekxKQ21EQlJkdEVya29reHdLbXZTU3JRMFQtV1huYUxTalkxRkM1eU5MWVQxZmhxVGxnYXJGV3g1UQ?oc=5",
+      "dateLocation": "2026-09-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "SoftBank launches $11 billion bonds for OpenAI",
+      "whyItMatters": "Massive capital injection highlights aggressive global AI investment strategies.",
+      "brief": "SoftBank has launched an $11 billion bond issuance specifically aimed at funding its upcoming strategic investment in OpenAI.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFpJSWkxMGJsX2cyM3pnVGxFdi0yU3BIRHd0RUM0MUZwWE42WTJhVmwwLUNQUkNhakRLQW1xZWlSMTRWZElIZXNQWFZEbWdpX1Z0aXctRzkxT1VvdlhxZFBSclJNQzlFSUM1cXc4by0yOU51bmZDYUxhdi1GS0RLbzB1VUpqMVRoeGpVTkRjSTltcEdtdldZVldpQ1RtcFJmdkl3VGowWll5cmxFSHE4SnVzOGVYWGEzZDhPOTNDSzNUZ2MxeExISmVyS1FwY01pc1dlcDdR?oc=5",
       "dateLocation": "2026-09-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Rules Out Reopening Strait of Hormuz",
-      "whyItMatters": "Threatens global energy supply chains and increases risk of regional military escalation.",
-      "brief": "Tehran has ruled out reopening the critical Strait of Hormuz and returning to U.S. talks until specific preconditions are met, warning of attacks on foreign bases.",
+      "headline": "Irish privacy regulator fines Google €403 million",
+      "whyItMatters": "Reinforces strict European enforcement of digital data protection laws.",
+      "brief": "Ireland's DPC has penalized Google €403 million for violations related to transparency and processing of user location data.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/irish-privacy-regulator-fines-google-403-million-over-location-data-processing/article71491276.ece",
+      "dateLocation": "2026-09-21 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Xi Jinping to visit US from September 23",
+      "whyItMatters": "Crucial diplomatic summit addressing global trade and geopolitical tensions.",
+      "brief": "Chinese President Xi Jinping is scheduled to visit the US to hold high-level discussions with President Trump on major global issues.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-rules-out-reopening-strait-of-hormuz-returning-to-us-talks-until-conditions-met/articleshow/134377764.cms",
-      "dateLocation": "2026-09-21 | Middle East",
+      "sourceUrl": "https://www.livemint.com/news/world/xi-jinping-to-visit-us-from-sept-23-to-25-what-to-expect-tariffs-iran-war-trade-trust-6-points-11789981835962.html",
+      "dateLocation": "2026-09-21 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AfD Wins Another German State Election",
-      "whyItMatters": "Reflects growing voter discontent with mainstream economic and migration policies across Europe.",
-      "brief": "Germany's far-right AfD party secured a major state election victory in Mecklenburg-Western Pomerania, delivering a severe blow to the ruling political coalition.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/afd-tops-another-german-state-poll-merzs-cdu-crashes-to-historic-low/articleshow/134378082.cms",
-      "dateLocation": "2026-09-21 | Germany",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Bangladesh raises fuel prices amid Middle East conflict",
+      "whyItMatters": "Demonstrates cascading global economic impacts from regional Middle Eastern wars.",
+      "brief": "Bangladesh has officially increased local fuel prices following skyrocketing supply costs driven by ongoing conflicts in the Middle East.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUVJYzB5aVJ2VU1DelhrTTlyZ0hoY3NTTllWTlc0TE9JM3dxd0JVZ3NlS2hIUmw4cnN5VDE5STR5UjNpSDhxYWpWQXFuTVk2WS1JMFpoVVhoVlMxbEdNZ3hybnQ1UWkyaUlWQVVxcE1xZ2ZDMk0zQ3lRbndQX2Z2aEVfalJuY1BMbFMxV0gwY2RrZlFTQWV2MThMTWdUeXQ2WXRWREIzcVlOVmU5RFNPZ05RRG1QRXRzWHc?oc=5",
+      "dateLocation": "2026-09-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China's CXMT Mass Produces New Memory-Chip Platform",
-      "whyItMatters": "Highlights China's expanding domestic semiconductor manufacturing capabilities amid global tech competition.",
-      "brief": "Chinese memory maker CXMT announced that its new advanced memory-chip platform has officially entered commercial mass production.",
+      "headline": "China slows humanoid robot IPO rush",
+      "whyItMatters": "Highlights regulatory cooling on over-hyped emerging tech sectors.",
+      "brief": "Chinese regulators are actively slowing down the wave of humanoid robot IPO filings, citing concerns that market hype has far outrun reality.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5",
       "dateLocation": "2026-09-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bangladesh Raises Fuel Prices by Up to 17%",
-      "whyItMatters": "Imposes severe cost-of-living pressures on citizens amid volatile global energy markets.",
-      "brief": "Bangladesh hiked domestic fuel prices by up to 17 percent to cope with prolonged global oil price surges and fiscal strains.",
+      "headline": "CNN, MSNBC, Politico to sue Trump administration",
+      "whyItMatters": "Landmark legal battle protecting freedom of the press and White House access.",
+      "brief": "Major US media outlets are jointly suing the Trump administration over restrictions placed on White House press access and reporting rights.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/cnn-ms-now-politico-to-sue-trump-administration-over-white-house-access/article71491230.ece",
+      "dateLocation": "2026-09-21 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Afghanistan says 3 killed in Pakistani airstrikes",
+      "whyItMatters": "Escalates diplomatic and military hostilities between neighboring South Asian nations.",
+      "brief": "Taliban authorities report that Pakistani airstrikes targeting civilian areas killed three people, prompting severe warnings of potential retaliation.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/afghanistan-says-3-killed-in-pakistani-airstrikes-why-tensions-are-rising-again-11789979936767.html",
+      "dateLocation": "2026-09-21 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ministry of Defence inks Rs 586 cr tank contract",
+      "whyItMatters": "Boosts domestic defense capabilities and armored vehicle readiness.",
+      "brief": "India's Ministry of Defence has signed a contract worth Rs 586 crore to procure auxiliary power units for T-72 and T-90 tanks.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-raises-fuel-prices-by-up-to-17-amid-global-oil-price-surge/articleshow/134378455.cms",
-      "dateLocation": "2026-09-21 | Bangladesh",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/defence-ministry-signs-contract-worth-rs-586-crore-to-procure-auxiliary-power-units-for-t-72-t-90-tanks/articleshow/134388236.cms",
+      "dateLocation": "2026-09-21 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Wins Silver in Men's 10m Air Rifle Team",
-      "whyItMatters": "Marks a strong early-medal showing for India at the international multi-sport competition.",
-      "brief": "Indian marksmen secured a silver medal in the men's 10m air rifle team event at the 2026 Asian Games, finishing behind record-breaking China.",
+      "headline": "India's growth gains context under CEA Nageswaran",
+      "whyItMatters": "Analyzes wealth distribution models amid rapid national economic expansion.",
+      "brief": "Chief Economic Advisor Nageswaran addressed the critical question of how the fruits of India's robust economic growth are distributed across society.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/who-gets-the-fruits-of-indias-economic-growth-cea-nageswaran-has-an-answer/articleshow/134386839.cms",
+      "dateLocation": "2026-09-21 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IIT Bombay student suicide prompts massive campus protests",
+      "whyItMatters": "Sparks urgent institutional reforms and faculty debates over mental health support.",
+      "brief": "Students and faculty at IIT Bombay are protesting following a tragic student suicide, leading the director to review a comprehensive list of demands.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-faculty-protest-in-support-of-prof-doolla-after-deanship-suspension-amid-student-death-row/articleshow/134384685.cms",
+      "dateLocation": "2026-09-21 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Two gold medals at 13 for China's Yu Zidi",
+      "whyItMatters": "Marks an extraordinary breakout performance in international competitive swimming.",
+      "brief": "Thirteen-year-old Chinese swimmer Yu Zidi dominated headlines by claiming two gold medals at the Asian Games amidst intense competition.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-india-wins-silver-in-mens-10m-air-rifle-team/article71489946.ece",
-      "dateLocation": "2026-09-21 | Japan",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/two-gold-at-13-yu-zidis-rise-and-summer-mcintosh-rivalry-dominate-swimming-talk-but-youngest-asian-games-record-remains-unclear/articleshow/134388134.cms",
+      "dateLocation": "2026-09-21 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Administration Prepares Sanctions Against ICC",
-      "whyItMatters": "Could deeply disrupt international judicial operations and oversight mechanisms worldwide.",
-      "brief": "Sources indicate the U.S. is preparing extensive sanctions targeting the International Criminal Court, threatening administrative and investigative workflows.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/trump-administration-prepares-sanctions-against-international-criminal-court-sources-say/article71489890.cms",
-      "dateLocation": "2026-09-21 | United States",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Canada man diagnoses rare disease using Google",
+      "whyItMatters": "Showcases the profound impact of consumer internet tools on modern medicine.",
+      "brief": "A Canadian man solved a 32-year medical mystery regarding his rare symptoms by performing a successful diagnostic search on Google.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/canada-man-spent-32-years-searching-for-answers-when-his-daughter-developed-similar-symptoms-one-google-search-changed-everything/articleshow/134386476.cms",
+      "dateLocation": "2026-09-21 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Anthropic CEO Considers New AI Model Ahead of IPO",
-      "whyItMatters": "Intensifies competition within the frontier generative artificial intelligence market.",
-      "brief": "Anthropic's leadership is reportedly weighing the launch of a new flagship AI model to challenge competitors ahead of a prospective public offering.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-of-which-called-for-slowing-ai-development-may-release-new-model-ahead-of-ipo/articleshow/134378249.cms",
-      "dateLocation": "2026-09-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "NPS Swasthya medical health rules explained",
+      "whyItMatters": "Provides vital updates on retirement healthcare planning and fund management.",
+      "brief": "New guidelines for NPS Swasthya outline contribution requirements, withdrawal protocols, and exit fees for subscribers seeking medical coverage.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/wealth/invest/nps-swasthya-latest-guidelines-how-much-do-you-need-to-contribute-check-fees-withdrawal-and-exit-rules/articleshow/134384455.cms",
+      "dateLocation": "2026-09-21 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bessent Proposes US-China AI Safety Notifications",
-      "whyItMatters": "Establishes a foundational diplomatic framework for managing military and commercial artificial intelligence risks.",
-      "brief": "U.S. officials proposed structured AI safety notification protocols during bilateral high-level talks with Chinese economic leadership.",
+      "headline": "Tata Trusts hires Abhishek Manu Singhvi",
+      "whyItMatters": "Shifts high-profile legal representations within top-tier Indian corporate governance disputes.",
+      "brief": "Senior advocate Abhishek Manu Singhvi has been retained by Tata Trusts to oppose N Chandrasekaran's reappointment and proposed listing.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
-      "dateLocation": "2026-09-21 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/india/who-is-abhishek-manu-singhvi-the-lawyer-who-fought-for-tata-sons-against-mistry-is-now-fighting-against-it-11789970092458.html",
+      "dateLocation": "2026-09-21 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's ISM 2.0 Investments to Start Soon",
-      "whyItMatters": "Accelerates domestic semiconductor manufacturing and technological self-reliance initiatives.",
-      "brief": "Indian tech authorities announced that capital deployment for the second phase of the semiconductor mission will commence within six months.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ism-2-0-draws-12-billion-interest-vohra-says-ai-firms-must-ensure-safety/articleshow/134373689.cms",
-      "dateLocation": "2026-09-21 | India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
