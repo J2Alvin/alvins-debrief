@@ -1,93 +1,147 @@
 {
-  "lastUpdated": "2026-09-22T03:12:16.134Z",
+  "lastUpdated": "2026-09-22T10:56:10.661Z",
   "ticker": [
-    "Oil stays above $100 on Middle East tensions",
-    "US Northeast airports resume flights after outage",
-    "Visegrad Four backs India for UNSC permanent seat",
-    "Supreme Court mandates written grounds for UAPA arrests",
-    "India and Uzbekistan clash at Chess Olympiad"
+    "Gold slips as oil gains and Fed signals rate hikes",
+    "Saudi Arabia restarts East-West oil pipeline exports",
+    "DeepSeek to brief UN Security Council on AI",
+    "India wins first gold in women's cricket at Asian Games",
+    "Paramount completes $110B Warner Bros Discovery acquisition"
   ],
   "articles": [
     {
-      "headline": "Global Diesel Prices Hit Record Highs Amid Supply Pressures",
-      "whyItMatters": "Surging fuel costs threaten global economic recovery and ramp up inflationary pressures worldwide.",
-      "brief": "Global diesel prices have reached record highs with potential for further increases, driven by tight supplies and escalating geopolitical tensions.",
+      "headline": "Gold Slips as Oil Gains and Fed Signals Rate Hikes",
+      "whyItMatters": "Shifts in monetary policy and commodity prices heavily impact global market liquidity and investor behavior.",
+      "brief": "Precious metals retreated as oil prices advanced and Federal Reserve officials hinted at continued interest rate hikes amid persistent inflationary pressures worldwide.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTJkVThNdEJxOWJFWkljaTdsVjJZbTJlUXU4M19XSm1fMFVQSUZ1VUxRYjV6dkNaTE5FZnkwWndvX2UzcTlYVU5IV1JEVGUwSXprOTJEMjI3eTlJWkJodFVhWDFsX1N2akxCMm1pQ2hWbVRhR3huTjlPSTg5cGtwMjJpQ2J5RUd0SlZ1RUJWeW1lMXB2VXd0NWdYLWk3bmw1T3ZTclRLazF0RW1MVUFHZThB?oc=5",
-      "dateLocation": "Sep 22, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5",
+      "dateLocation": "Sept 22, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and New Zealand Free Trade Pact Set for October",
-      "whyItMatters": "The bilateral agreement will significantly boost trade, market access, and economic ties between the nations.",
-      "brief": "The India-New Zealand free trade agreement is officially scheduled to come into force on October 20 following final ratification.",
+      "headline": "Saudi Arabia Restarts East-West Pipeline Exports",
+      "whyItMatters": "Restoring critical energy transit infrastructure stabilizes global petroleum supply chains and dampens price volatility.",
+      "brief": "Saudi Arabia has successfully restarted its primary East-West oil pipeline, enabling the full resumption of petroleum exports from the Yanbu terminal.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWdHekh1aVZPN3FDVEN1aU11amtnXy0yQy1qbU1GSkRDSU9yakdSMVJsb2FBQTB5bzRQaS1NZnptN0FQdVpJMzlvdFg0bGk0blphUldBMGFHT3BlMnUxWEw4cjRnVWQzeldQSldlSXBVQnV5SGp0Q3RpWWtHMDd4X3pOT184LW1LUlp6MHcyU1dNcUZjajh6TWFleWJxSFpZemYwcTlSTmFyMEZf?oc=5",
-      "dateLocation": "Sep 22, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmJidHFzNHlscWlnT2hsWFdKc1hNRFMxOWRnTTRQRHVHbV9tRTJySFJoOGFoZXdNdTIwMngxZlczRmY3dWJxWkNiWTRYclVyT0JoWXQyUHJpNThicmpUNDMwWjNqREdrYmw3Ty1peU9oaEtRdC1GWXE1S0o1eGlrWDZONDhqS0FDbWotZXV1LXBvTEhUWHdlT1BzYU5udjNKTTFXdk1hX0wwVk1yczRTdV94R0p4UUQ1bEViTXJ2S2pEaTVLTFlvdw?oc=5",
+      "dateLocation": "Sept 22, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Google Announces $899 Gemini AI-Powered Laptops",
-      "whyItMatters": "Deep integration of advanced AI into hardware marks a major shift in consumer computing ecosystems.",
-      "brief": "Google has opened pre-orders for its new $899 line of laptops built specifically around Gemini artificial intelligence features.",
+      "headline": "DeepSeek to Brief UN Security Council on AI",
+      "whyItMatters": "Highlights the increasing integration of artificial intelligence governance into international security and diplomatic frameworks.",
+      "brief": "AI firm DeepSeek is scheduled to provide an exclusive briefing to the United Nations Security Council regarding artificial intelligence developments.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWURJSmQxWmF6cVZZRkVpWUFTbXM3WTd0WUQwb3paV2NsQXE5TTlVMmhjb0pQajJDQmpfS2lTa0QxUTBGa0NVcnZIUmJsM2JPeExUQVBfcjdXcWJadzV5MllUUVYxaU4zbHJUd3lybms4bEdoYkdkd3JxOW5QNHBzRjV2UjBOczZ0a0VVT1VMZnpKVjlEN0xGM0ZUU2VlRld4NmtrR1JKU2RhV3pURmFfWEVIdWtra2FfQU56MTNRRGQ2ZERfeFR0SEtn?oc=5",
-      "dateLocation": "Sep 22, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZLc3FkMFBGdGM0Mno4QmV0ZFJtVWZ2X3RyLUp6SmFUX0tQQ0FPRHlLRmdJVmU5dy11SlE3SXFJUVlySDNQOXlmZTFkV3JNc19nSDlyUlhJZzgyMDY1d0VRaV9IT054T2stSTd5VWNOVVJNa0w3VHctTW9GdUJjYkRkQXdmSW1pOWllUVV4OVdOU003ckJBaWloZ0JKUmdtVTFiLVRhajY2N2pKUHhiYXV1Z3Y?oc=5",
+      "dateLocation": "Sept 22, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Google to Report Child Abuse Content Directly to India",
-      "whyItMatters": "Stricter regulatory compliance enforces local accountability for global tech giants regarding online safety.",
-      "brief": "Following pressure from government officials, Google agreed to report child abuse content concerning India directly to local authorities.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/google-to-report-child-abuse-content-directly-to-indian-authorities/article71493973.ece",
-      "dateLocation": "Sep 22, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Wins Historic Gold in Women's Cricket",
+      "whyItMatters": "Marks a major milestone for women's athletics and international multi-sport competition performance standings.",
+      "brief": "India secured its first-ever gold medal in women's cricket at the Asian Games by defeating Sri Lanka in a stellar final performance.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-22-2026/article71492964.ece",
+      "dateLocation": "Sept 22, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "European Nations Back India for Permanent UNSC Seat",
-      "whyItMatters": "Growing international consensus strengthens India's bid for a permanent seat on the UN Security Council.",
-      "brief": "The Visegrad Four nations backed India's permanent UN Security Council seat bid during a historic ministerial meeting in New York.",
+      "headline": "Paramount Completes $110B Warner Bros Merger",
+      "whyItMatters": "This massive media consolidation reshapes Hollywood production output, streaming availability, and global entertainment competition.",
+      "brief": "Paramount Skydance finalized its historic $110 billion acquisition of Warner Bros Discovery after agreeing to strict regulatory oversight and film quotas.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/paramount-just-won-its-110-billion-warner-bros-battle-heres-what-it-had-to-give-up/articleshow/134408107.cms",
+      "dateLocation": "Sept 22, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Bangladesh Appoints New High Commissioner to India",
+      "whyItMatters": "Crucial diplomatic step aimed at resetting strained bilateral ties and preparing for high-level political visits.",
+      "brief": "Bangladesh Foreign Secretary Asad Alam Siam has been approved as the next High Commissioner to India amidst ongoing diplomatic negotiations.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/visegrad-four-backs-india-for-permanent-unsc-seat-jaishankar-calls-first-india-v4-meet-historic/articleshow/134397233.cms",
-      "dateLocation": "Sep 22, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/international/bangladesh-foreign-secretary-asad-alam-siam-to-be-the-next-high-commissioner-to-india/article71495071.ece",
+      "dateLocation": "Sept 22, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Mandates Written Grounds During UAPA Arrests",
-      "whyItMatters": "This ruling strengthens civil liberties and checks state power during stringent anti-terror detentions.",
-      "brief": "The Supreme Court of India ruled that providing written grounds for arrest is mandatory even when detaining individuals under the UAPA.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/grounds-in-writing-a-must-during-arrests-even-in-uapa-supreme-court/articleshow/134399539.cms",
-      "dateLocation": "Sep 22, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Airports Resume Operations After Major Telecom Outage",
-      "whyItMatters": "Critical infrastructure vulnerabilities continue to threaten commercial aviation and passenger safety on a national scale.",
-      "brief": "Major US airports in the Northeast resumed operations after a technical communication line outage disrupted over 1,000 flights nationwide.",
+      "headline": "Telangana Issues Red Alert for Heavy Rainfall",
+      "whyItMatters": "Severe weather alerts require immediate disaster management and public safety precautions across vulnerable districts.",
+      "brief": "The India Meteorological Department has issued red alerts for eight districts in Telangana anticipating heavy to very heavy rainfall over the next 48 hours.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/northeast-us-airports-resume-operations-after-telecom-outage-disrupts-thousands-of-flights/articleshow/134400218.cms",
-      "dateLocation": "Sep 22, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/national/telangana/heavy-rainfall-forecast-in-telangana-on-september-23-and-24-red-alert-in-eight-districts-on-wednesday/article71494976.ece",
+      "dateLocation": "Sept 22, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Understanding Scrub Typhus: Symptoms, Spread, and Risks",
-      "whyItMatters": "Public awareness of vector-borne bacterial infections is vital for timely medical intervention and disease prevention.",
-      "brief": "Health experts explain scrub typhus, a severe bacterial infection spread by chigger mites rather than mosquitoes, highlighting treatment protocols.",
+      "headline": "Delhi HC Rules on Nayara Energy Sanctions Case",
+      "whyItMatters": "Clarifies the limits and enforcement of local contract laws versus international foreign sanctions in commercial disputes.",
+      "brief": "The Delhi High Court ordered SAP India to restore services to Nayara Energy, reinforcing local contract law primacy despite foreign sanctions.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/delhi-high-court-sap-nayara-energy-eu-sanctions-ruling-11790064354381.html",
+      "dateLocation": "Sept 22, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Alibaba Deepens AI Push With New Chip and Model",
+      "whyItMatters": "Intensifies competitive race in Asian technology sectors for domestic semiconductor and foundational AI model dominance.",
+      "brief": "Alibaba shares jumped 5% after unveiling a new proprietary AI chip and a larger, more advanced language model to capture enterprise market share.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5",
+      "dateLocation": "Sept 22, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UK Offers Defensive Support to Saudi Arabia",
+      "whyItMatters": "Indicates changing Western security deployments to protect critical Middle Eastern energy routes from regional attacks.",
+      "brief": "Britain announced limited defensive military assistance, including aerial refueling support, to protect Saudi infrastructure from intensified Houthi missile strikes.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/uk-to-give-defensive-support-to-saudi-arabia-against-houthis-why-britain-is-stepping-in-as-us-holds-back-11790063158483.html",
+      "dateLocation": "Sept 22, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Railways Order Special Safety Checks for LHB Coaches",
+      "whyItMatters": "Addresses structural integrity concerns on high-speed passenger networks to ensure long-term commuter safety.",
+      "brief": "Following concerns over heavy bogie corrosion linked to saline air and cleaning chemicals, railway engineers have mandated rigorous special safety checks.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/heavy-corrosion-in-lhb-train-coach-bogies-despite-improved-materials-worries-railway-engineers-railway-board-orders-special-safety-checks/articleshow/134406709.cms",
+      "dateLocation": "Sept 22, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Finance Minister Urges Shift to 'Imagined in India'",
+      "whyItMatters": "Signals a strategic economic policy evolution prioritizing domestic research, design patents, and intellectual property creation.",
+      "brief": "Nirmala Sitharaman stated that India's next economic growth phase must transition from traditional manufacturing toward innovation, design, and homegrown patents.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/made-in-india-must-give-way-to-imagined-in-india-says-sitharaman-bats-for-design-patents-innovation-11790071266062.html",
+      "dateLocation": "Sept 22, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Chennai Hospital Introduces Low-Dose CT Imaging",
+      "whyItMatters": "Reduces patient health risks associated with radiation exposure during routine early diagnostic cancer screening.",
+      "brief": "A major Chennai hospital deployed advanced low-dose CT imaging technology to significantly reduce radiation exposure while maintaining high diagnostic accuracy.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/what-is-scrub-typhus-explained/article71490796.ece",
-      "dateLocation": "Sep 22, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/cities/chennai/chennai-hospital-introduces-low-dose-ct-imaging-for-early-cancer-heart-disease-detection/article71494846.ece",
+      "dateLocation": "Sept 22, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Suffers Narrow Loss to Uzbekistan at Chess Olympiad",
-      "whyItMatters": "Competitive setbacks shake up tournament standings as top teams battle for international chess supremacy.",
-      "brief": "India suffered a heartbreaking 2.5-1.5 defeat to host nation Uzbekistan in Round 6 of the Chess Olympiad following a crucial blunder.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-6-how-nihal-sarin-blundered-his-queen-and-india-suffered-heartbreaking-loss-to-uzbekistan/articleshow/134400926.cms",
-      "dateLocation": "Sep 22, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Govt Rules Out Festive Airfare Caps",
+      "whyItMatters": "Leaves pricing dynamics to open-market air carriers while placing voluntary pressure on transit costs during peak holidays.",
+      "brief": "The Indian government has officially ruled out imposing strict festive season airfare caps, instead urging airlines to keep ticket pricing reasonable.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/goverment-rules-out-airfare-cap-during-festive-season-urges-airlines-to-keep-prices-reasonable/articleshow/134409611.cms",
+      "dateLocation": "Sept 22, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Andhra Junior Doctors Reject Stipend Hike Order",
+      "whyItMatters": "Highlights ongoing friction between state medical boards and resident practitioners regarding fair compensation structures.",
+      "brief": "The Andhra Pradesh Junior Doctors Association formally rejected a government order fixing annual stipend hikes at 3.5%, calling the decision unilateral.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-fixes-junior-doctors-stipend-hike-at-35-a-year-from-2027-apjuda-rejects-order/article71494587.ece",
+      "dateLocation": "Sept 22, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
