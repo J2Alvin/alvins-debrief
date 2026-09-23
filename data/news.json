@@ -1,146 +1,119 @@
 {
-  "lastUpdated": "2026-09-23T03:12:09.856Z",
+  "lastUpdated": "2026-09-23T10:43:55.261Z",
   "ticker": [
-    "Oil falls on increased Gulf supply and US-Iran talk hopes",
-    "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
-    "NYC Mayor announces $131.5M DoorDash worker settlement",
-    "Trump pledges unmatched military might against drug cartels",
-    "Brahma AI raises $150M at $2B valuation"
+    "OECD Upgrades India's Growth Forecast",
+    "Trump-Xi Summit Begins in Washington",
+    "Supreme Court Refers EC Law to Bench",
+    "OMCs Face ₹530 Crore Daily Losses",
+    "Mirabai Chanu Wins Asian Games Silver"
   ],
   "articles": [
     {
-      "headline": "Oil Falls on Gulf Supply and US-Iran Talks",
-      "whyItMatters": "Shifts global energy markets and impacts economic stability worldwide.",
-      "brief": "Oil prices declined due to increased Gulf supply and growing optimism surrounding potential US-Iran diplomatic discussions.",
+      "headline": "OECD Upgrades India's Economic Growth",
+      "whyItMatters": "Boosts global investor confidence in emerging market resilience amid trade tensions.",
+      "brief": "The OECD has upgraded India's 2026-27 economic expansion forecast to 7.1%, following similar moves by major global rating agencies.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
-      "dateLocation": "September 23, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/oecd-becomes-latest-global-agency-to-upgrade-indias-growth-up-2026-27-expansion-to-71/article71499132.ece",
+      "dateLocation": "September 23, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI Expands GPT-6 Lineup with Sol and Luna",
-      "whyItMatters": "Makes advanced artificial intelligence more accessible to global enterprise users.",
-      "brief": "OpenAI has expanded its GPT-6 offerings by introducing more affordable Sol and Luna models aimed at broad market adoption.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
-      "dateLocation": "September 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AB InBev Adapts Drink Portfolio for Shifting Consumer Tastes",
-      "whyItMatters": "Highlights major strategic shifts in the global beverage and consumer goods sector.",
-      "brief": "AB InBev is restructuring its product lines with smaller packages and higher protein content to meet changing health preferences.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWxLSHRUVi1Ua1A5X29YNk1keENNX0tDcnB2V1BZeFlwYWE3YURrZzdWUFg0c0wwa0FZc1NQZElPMTRENW1DbVNJRzRheGV6Xy1JQU5jNzRSeXNzQUc4S19Melg2Y0F1S0FXTms5UmVUQnpkdVBSaVVMNEtTUkhSNElRb2cxYzJTb0lHQ2NaNWJDS3VCdF9FT2tJVFlhSW50d3ViOVVZRWNwQnM4aFNHXzljWWtTT0U5VlEzSjM1UWlQU09vc3hWSV9WT085aEpyM2c?oc=5",
-      "dateLocation": "September 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Pledges Military Might Against Drug Cartels",
-      "whyItMatters": "Signals potential escalation in US security posture and foreign policy initiatives.",
-      "brief": "US leadership has announced plans to deploy unmatched military resources targeting international drug cartels.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3ZiLV9yeVlIX0gzQ2dPLUp0QVVZMVFhcVJ4Uy16TktGdjBXdDkzQ2RkVDRIVXUwVHE5TE5mTzY0Y3RQU1ZIcEkxSGVjekN3M1RGc1FLRzgyOHRYWW43bVpsX0FzM3gzbDdBREhBQXRSOHdjSnpsd3E1MFItY3JhcTRlRUJaR09ORWZhQ3NnandqNDNSV1hpRFJvbDZuak9vc216VzM3aVJnc2JSUmJhX3l0VjdRZ0FqTERxQlEtVVNySUE?oc=5",
-      "dateLocation": "September 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IDP Spurns Blackstone's Sweetened Acquisition Bid",
-      "whyItMatters": "Demonstrates resilience in the global education testing and private equity market.",
-      "brief": "IELTS co-owner IDP has officially rejected a sweetened acquisition offer put forward by investment firm Blackstone.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXg5RnRaMk1LTEJqZ29tVjlGYV95aEkwMUpDM0JKTHBuRUVuak1NS1RfWk15MHFkeGRmRl9zRWZQcGU2MWZMOTd3SDRUT3Q1WFFHdzljajZIdzVmcXhQX21NWThPSnVQMTZsOUoxaTU5VXlVa2gydnRZV1ZBcHBSeW01SG8xY2R5MEpneFo3T3RxWjFma2l4cG1yLUJfSWMtVmZlc2YxMDB1M1VJTGxhdHZnWTJicW8?oc=5",
-      "dateLocation": "September 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Testing Human Concierge for Personal AI Agent Muse",
-      "whyItMatters": "Blends human oversight with conversational AI to redefine personal technology services.",
-      "brief": "Meta is reportedly testing a human concierge layer to support users interacting with its new AI agent, Muse.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
-      "dateLocation": "September 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK Official Backs Israel While Rejecting Gaza Actions",
-      "whyItMatters": "Reflects complex diplomatic stances among Western leaders regarding Middle East conflicts.",
-      "brief": "British political figures voiced support for Israel against external security threats while simultaneously condemning actions taken in Gaza.",
+      "headline": "Trump-Xi Summit Kicks Off in Washington",
+      "whyItMatters": "Shapes international trade rules, tech decoupling, and regional security dynamics globally.",
+      "brief": "Chinese President Xi Jinping arrived in Washington for high-stakes talks with US counterpart Donald Trump covering trade, AI, and Taiwan.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/videos/shorts/watch-andy-burnham-backs-israel-against-threats-rejects-actions-in-gaza/article71498121.ece",
-      "dateLocation": "September 23, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-xi-summit-washington-visit-2026-key-agenda-itinerary-everything-to-know/article71494934.ece",
+      "dateLocation": "September 23, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global Health Authorities Push for Enhanced Patient Safety Standards",
-      "whyItMatters": "Addresses critical healthcare challenges including spurious drugs and hospital safety protocols.",
-      "brief": "Health regulators are advancing stricter safety regulations both inside and outside clinical environments to protect vulnerable patients.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-enveloping-patients-with-safety-standards/article71494830.ece",
-      "dateLocation": "September 23, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NYC Mayor Announces $131.5 Million DoorDash Settlement",
-      "whyItMatters": "Sets a massive legal precedent for gig worker pay and corporate liability.",
-      "brief": "New York City reached a historic $131.5 million settlement with DoorDash to compensate hundreds of thousands of underpaid couriers.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/nyc-mayor-mamdani-announces-131-5-million-doordash-settlement-over-underpaid-delivery-workers-deal-explained-11790131113113.html",
-      "dateLocation": "September 23, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Brahma AI Raises $150 Million at $2 Billion Valuation",
-      "whyItMatters": "Highlights aggressive venture capital deployment in enterprise AI infrastructure startups.",
-      "brief": "Brahma AI has secured $150 million in a funding round led by Multiples to scale its digital content platform.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/brahma-ai-multiples-prabhu-narasimhan-enterprise-ai-11790118529891.html",
-      "dateLocation": "September 23, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Administration Restarts White South African Refugee Intake",
-      "whyItMatters": "Triggers international debate over immigration priorities and alleged racial persecution claims.",
-      "brief": "The US administration plans to admit thousands of refugees from South Africa, citing targeted persecution against minority groups.",
+      "headline": "Supreme Court Refers EC Appointment Law",
+      "whyItMatters": "Impacts the constitutional autonomy of India's election oversight and democratic integrity.",
+      "brief": "The Supreme Court has officially referred petitions challenging the Chief Election Commissioner appointment law to a five-judge Constitution Bench.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/why-is-trump-administration-accepting-white-south-african-refugees-to-the-us-again-heres-what-we-know-11790128237518.html",
-      "dateLocation": "September 23, 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india/cec-ec-appointment-law-challenged-supreme-court-refers-petitions-to-5-judge-bench-11790156211087.html",
+      "dateLocation": "September 23, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Hurricane Polo Becomes One of Season's Strongest Storms",
-      "whyItMatters": "Poses severe weather risks to coastal communities and marine shipping lanes.",
-      "brief": "Hurricane Polo intensified rapidly off Mexico’s Pacific coast, threatening coastal regions with dangerous winds and heavy rains.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/hurricane-polo-becomes-one-of-2026-s-strongest-storms-off-mexico-11790115282361.html",
-      "dateLocation": "September 23, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Big Tech AI Pivot Threatens IT Outsourcing Revenue",
-      "whyItMatters": "Could disrupt traditional business models for major global software service providers.",
-      "brief": "Industry shifts toward enterprise automation and AI are projected to impact billions in traditional IT outsourcing revenue.",
+      "headline": "OMCs Face Crushing Fuel Price Losses",
+      "whyItMatters": "Threatens state refiner profit margins and increases fiscal subsidies burden.",
+      "brief": "Indian oil marketing companies are facing massive daily fuel losses of Rs 530 crore as international crude prices surge.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/ites/big-techs-ai-switch-may-dent-20-billion-of-it-outsourcing-revenue/articleshow/134424042.cms",
-      "dateLocation": "September 23, 2026 | Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-firms-face-rs-530-crore-daily-fuel-losses-as-crude-surges-icra/articleshow/134431218.cms",
+      "dateLocation": "September 23, 2026 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Manu Bhaker Qualifies for Asian Games Air Pistol Final",
-      "whyItMatters": "Showcases top-tier international athletic performance at major continental competitions.",
-      "brief": "Indian shooter Manu Bhaker successfully secured her spot in the Asian Games 10m air pistol final.",
+      "headline": "Mirabai Chanu Wins Asian Games Silver",
+      "whyItMatters": "Marks a historic resurgence for Indian weightlifting on the international multi-sport stage.",
+      "brief": "Tokyo Olympic silver medallist Mirabai Chanu lifted 198kg to secure silver in the women's 49kg event at the 2026 Asian Games.",
       "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-manu-bhaker-qualifies-for-10m-air-pistol-final-in-third-place/articleshow/134424153.cms",
-      "dateLocation": "September 23, 2026 | Economic Times",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/after-28-years-mirabai-chanu-finally-puts-india-back-on-asian-games-weightlifting-podium/articleshow/134428940.cms",
+      "dateLocation": "September 23, 2026 | Nagoya",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Researchers Fear Loss of Scientific Reasoning Due to AI",
-      "whyItMatters": "Raises fundamental concerns regarding human critical thinking and intellectual dependence on automation.",
-      "brief": "Leading scientists warn that heavy reliance on artificial intelligence tools may degrade core human scientific reasoning skills.",
+      "headline": "Ultra-Processed Foods Linked to Heart Risks",
+      "whyItMatters": "Highlights growing public health crises associated with modern dietary habits.",
+      "brief": "A new study reveals that consuming an extra 100 grams of ultra-processed foods daily raises heart event risks by 14%.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/researchers-losing-the-ability-to-develop-scientific-reasoning-a-big-fear-with-ai-climate-scientist-william-boos/articleshow/134412767.cms",
-      "dateLocation": "September 23, 2026 | Economic Times",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/extra-100-grams-of-ultra-processed-foods-daily-related-with-14-higher-risk-of-heart-event-study/article71499359.ece",
+      "dateLocation": "September 23, 2026 | Geneva",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Surveys Broadcom Switch Usage",
+      "whyItMatters": "Accelerates global technology supply chain decoupling and indigenous hardware shifts.",
+      "brief": "China is reportedly surveying the use of Broadcom network switches within its state data centers as part of domestic tech substitution.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3ZtVXNDVWtQdDE4MHk0cVkwbXY1ZU1BTUJpcTZ4RTFOZTU0RjJoQ3oyWUxsMGJGcmZLQ19yeXFqd3VhbWFKOHVfV3ZwbzJYcVpKQ3lkOEJhYUxkV2RTUlNxMGMzbjNpcFdQZUNOTlU3QUZwdENIcERqN2ctS2JlRkk1U1BtTm1RRXluOEQ2b1lNUGJvNXhWMmdkRUh2UFFNVUpvdjEyaGpkTXhLZGNKQg?oc=5",
+      "dateLocation": "September 23, 2026 | Beijing",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Probes Samsung and LG Over Tariffs",
+      "whyItMatters": "Signals stricter custom enforcement on electronic component imports and manufacturer compliance.",
+      "brief": "India has launched an investigation into major electronics giants Samsung and LG over alleged tariff evasion on imported OLED TV parts.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-probes-lg-samsung-over-alleged-tariff-evasion-on-imported-oled-tv-parts/articleshow/134431170.cms",
+      "dateLocation": "September 23, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India-Middle East Corridor Gains Backing",
+      "whyItMatters": "Redraws regional trade architecture and bypasses traditional supply chain chokepoints.",
+      "brief": "US President Trump has thrown renewed political weight behind the stalled India-Middle East-Europe Economic Corridor project.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/trump-throws-weight-behind-imec-what-is-india-middle-east-europe-corridor-and-where-does-it-stand-11790150112015.html",
+      "dateLocation": "September 23, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Banks to Open Sunday Ahead of Strike",
+      "whyItMatters": "Seeks to mitigate severe nationwide public inconvenience during major union actions.",
+      "brief": "Public sector banks will remain open on Sunday to clear transactions ahead of an upcoming three-day nationwide union strike.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/to-safeguard-banking-needs-of-citizens-banks-to-remain-open-on-sunday-ahead-of-three-day-strike-sept-27/articleshow/134428877.cms",
+      "dateLocation": "September 23, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Apple Shifts to In-House Custom Silicon",
+      "whyItMatters": "Reduces dependency on external component manufacturers while optimizing device performance.",
+      "brief": "Apple executives highlighted a profound 20-year strategic shift toward proprietary custom silicon and in-house technology development.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/apple-ceo-john-ternus-on-the-most-profound-change-at-iphone-maker-over-the-last-20-years-top-of-the-list-of-course/articleshow/134431143.cms",
+      "dateLocation": "September 23, 2026 | Cupertino",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Measles Outbreaks Spark US Health Alarms",
+      "whyItMatters": "Raises international concerns regarding declining vaccination coverage and disease resurgences.",
+      "brief": "A sharp surge in highly contagious measles cases has triggered localized outbreaks across major US transport hubs and regions.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-measles-outbreak-worlds-most-contagious-virus-hits-major-us-airport-inphiladelphiaand-wisconsin-with-hundreds-of-cases-reported-in-pennsylvania/articleshow/134431719.cms",
+      "dateLocation": "September 23, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
