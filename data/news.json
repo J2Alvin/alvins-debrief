@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-09-22T20:51:24.397Z",
+  "lastUpdated": "2026-09-23T03:12:09.856Z",
   "ticker": [
-    "Trump repeats India-Pakistan ceasefire claim at UN",
-    "Gold surges 60% in a year to Rs 1.57L",
-    "OpenAI expands GPT-6 lineup with Sol and Luna",
-    "Binance faces US criminal probe over Iran sanctions",
-    "Saudi Arabia restarts key East-West oil pipeline"
+    "Oil falls on increased Gulf supply and US-Iran talk hopes",
+    "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
+    "NYC Mayor announces $131.5M DoorDash worker settlement",
+    "Trump pledges unmatched military might against drug cartels",
+    "Brahma AI raises $150M at $2B valuation"
   ],
   "articles": [
     {
-      "headline": "SpiceJet Placed Under Heavy Regulatory Scrutiny",
-      "whyItMatters": "Financial and operational audits threaten the stability of a major regional carrier.",
-      "brief": "India's aviation regulator has subjected SpiceJet to intensive operational and financial scrutiny due to mounting industry pressures and performance concerns.",
+      "headline": "Oil Falls on Gulf Supply and US-Iran Talks",
+      "whyItMatters": "Shifts global energy markets and impacts economic stability worldwide.",
+      "brief": "Oil prices declined due to increased Gulf supply and growing optimism surrounding potential US-Iran diplomatic discussions.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5",
+      "dateLocation": "September 23, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Expands GPT-6 Lineup with Sol and Luna",
+      "whyItMatters": "Makes advanced artificial intelligence more accessible to global enterprise users.",
+      "brief": "OpenAI has expanded its GPT-6 offerings by introducing more affordable Sol and Luna models aimed at broad market adoption.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
+      "dateLocation": "September 23, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AB InBev Adapts Drink Portfolio for Shifting Consumer Tastes",
+      "whyItMatters": "Highlights major strategic shifts in the global beverage and consumer goods sector.",
+      "brief": "AB InBev is restructuring its product lines with smaller packages and higher protein content to meet changing health preferences.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkg5OGNDOFdHb3RydVRDdk9yQ0tpWkQ2TnZxUkx6R3N0NDN0ZC1ma3ljQ0RFWGRCNkU5VTNSZVoyd05EQV9TYkF4TEp2TW9CQXM1bnlfSHJZVDhKTzNWU2l2UThCX3F6V3dTWW1rLUFwUmRwQUtBZkhtZkhUd2phYU5MM21oSldzNnRKT3N3eXcwV0RubEpvUE1xOF9zZmNPXzlkaUUtTElZaFBCRGNVakowcXM4YTNremRoaDJpX1dsZmdy?oc=5",
-      "dateLocation": "September 22, 2026 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWxLSHRUVi1Ua1A5X29YNk1keENNX0tDcnB2V1BZeFlwYWE3YURrZzdWUFg0c0wwa0FZc1NQZElPMTRENW1DbVNJRzRheGV6Xy1JQU5jNzRSeXNzQUc4S19Melg2Y0F1S0FXTms5UmVUQnpkdVBSaVVMNEtTUkhSNElRb2cxYzJTb0lHQ2NaNWJDS3VCdF9FT2tJVFlhSW50d3ViOVVZRWNwQnM4aFNHXzljWWtTT0U5VlEzSjM1UWlQU09vc3hWSV9WT085aEpyM2c?oc=5",
+      "dateLocation": "September 23, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Dassault Tests AI Algorithms on Rafale Fighter",
-      "whyItMatters": "Integration of artificial intelligence marks a major milestone for military aviation.",
-      "brief": "Dassault Aviation has successfully commenced testing advanced AI algorithms on its Rafale fighter jets, enhancing autonomous tactical capabilities.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUxwak1sd0hYUGdPdW16RUxHRkR0eXg1MmVmUzBLSkJVRWptcUUxUHRmX0Z6d3BFUmNTM3c0TmNKNXp2eWVYNmlvZlNsVkpQektGcG15cExLOHhibmNkVldkODhNWmdOQ0lsUHdNRXM0WWsyTUl0dFVqbUx4YXhKNWhteDNTVU9lUEMzeUR3ZDBCVWR6cG1RYkRZV2FXRkVBN2ZzX1d5MGo1aVdrcnc0VTFCVmdwQlZBcEEw?oc=5",
-      "dateLocation": "September 22, 2026 | Paris, France",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Expands GPT-6 With Affordable Models",
-      "whyItMatters": "Cheaper models broaden enterprise adoption and democratize high-end AI capabilities.",
-      "brief": "OpenAI has officially expanded its GPT-6 lineup by introducing budget-friendly Sol and Luna models designed for cost-efficient scaling.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
-      "dateLocation": "September 22, 2026 | San Francisco, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Trump Pledges Military Might Against Drug Cartels",
+      "whyItMatters": "Signals potential escalation in US security posture and foreign policy initiatives.",
+      "brief": "US leadership has announced plans to deploy unmatched military resources targeting international drug cartels.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3ZiLV9yeVlIX0gzQ2dPLUp0QVVZMVFhcVJ4Uy16TktGdjBXdDkzQ2RkVDRIVXUwVHE5TE5mTzY0Y3RQU1ZIcEkxSGVjekN3M1RGc1FLRzgyOHRYWW43bVpsX0FzM3gzbDdBREhBQXRSOHdjSnpsd3E1MFItY3JhcTRlRUJaR09ORWZhQ3NnandqNDNSV1hpRFJvbDZuak9vc216VzM3aVJnc2JSUmJhX3l0VjdRZ0FqTERxQlEtVVNySUE?oc=5",
+      "dateLocation": "September 23, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "IDP Spurns Blackstone's Sweetened Acquisition Bid",
-      "whyItMatters": "Defends educational assessment ownership against massive private equity consolidation.",
-      "brief": "IELTS co-owner IDP Education has formally rejected Blackstone's sweetened takeover offer, signaling confidence in its independent market trajectory.",
-      "category": "business",
+      "whyItMatters": "Demonstrates resilience in the global education testing and private equity market.",
+      "brief": "IELTS co-owner IDP has officially rejected a sweetened acquisition offer put forward by investment firm Blackstone.",
+      "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXg5RnRaMk1LTEJqZ29tVjlGYV95aEkwMUpDM0JKTHBuRUVuak1NS1RfWk15MHFkeGRmRl9zRWZQcGU2MWZMOTd3SDRUT3Q1WFFHdzljajZIdzVmcXhQX21NWThPSnVQMTZsOUoxaTU5VXlVa2gydnRZV1ZBcHBSeW01SG8xY2R5MEpneFo3T3RxWjFma2l4cG1yLUJfSWMtVmZlc2YxMDB1M1VJTGxhdHZnWTJicW8?oc=5",
-      "dateLocation": "September 22, 2026 | Melbourne, Australia",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Kremlin Urges UN Security Council Reform",
-      "whyItMatters": "Challenges western dominance in global governance while preserving veto power status.",
-      "brief": "The Kremlin stated the UN Security Council must include new permanent members while retaining traditional veto powers.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzF5dU5XaXgyekJyZTA2NUwxNVdtQVhQeGJFaEN0RjFiT2k2NzZob3ItUUxPWVZKSTJCX3pwOEttVWJndHVyN1FTbDVNQS1aNElPTzJQQXo2MjhYWkhMMzR2U2tJb25BUkdyY3FrNXQ0VHU3d2dhRHFUWm5qMGFYSFhCWGdxVjY5VDdPQTkzQlBuWnJtNTlhdF95Mml6c3FsaHNOMVR6UHZmbVhxT2UyUGw0NWdCd3FaUGhSZDh2VVI?oc=5",
-      "dateLocation": "September 22, 2026 | Moscow, Russia",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Saudi Arabia Restarts Major Oil Pipeline",
-      "whyItMatters": "Restores critical energy transport infrastructure to stabilize international crude supplies.",
-      "brief": "Saudi Arabia has successfully restarted its primary East-West oil pipeline following maintenance operations, according to industry sources.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmJidHFzNHlscWlnT2hsWFdKc1hNRFMxOWRnTTRQRHVHbV9tRTJySFJoOGFoZXdNdTIwMngxZlczRmY3dWJxWkNiWTRYclVyT0JoWXQyUHJpNThicmpUNDMwWjNqREdrYmw3Ty1peU9oaEtRdC1GWXE1S0o1eGlrWDZONDhqS0FDbWotZXV1LXBvTEhUWHdlT1BzYU5udjNKTTFXdk1hX0wwVk1yczRTdV94R0p4UUQ1bEViTXJ2S2pEaTVLTFlvdw?oc=5",
-      "dateLocation": "September 22, 2026 | Riyadh, Saudi Arabia",
+      "dateLocation": "September 23, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Roche Obesity Drug Shows 15.5% Weight Loss",
-      "whyItMatters": "Intensifies competition in the lucrative global metabolic disorder and weight loss pharmaceutical market.",
-      "brief": "Roche's mid-stage clinical trial for a novel obesity drug demonstrated significant weight loss and improved blood sugar control.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeUx3UTJqdzlXSGRtb2xZSzBseG9NaVJtdmk4ZnRhai1oNmxUYWpTeUpwUU1TYm1keGVhZ2RrNENvX0ZmV0U2UVY5cHRObGRVd2NWOXlIZ2EyWWxKZkV1Nkc5cDNWRXh1UzVBR0J3Ymdzeml1U0I3bC1kWHlpWjBXVXl2cmRzZEV2TjFBSTlkb0Y1QkEwcWtyblduajRJV0RORGpqVG9iWmI1NjZRUmtkSGZvNjZ1T3gtYThqTVV3V2toOGx4VUUtU0dZUzN5eDNaS1JJSWR5R3VIWFhhcTZXRlJ3VkFaZw?oc=5",
-      "dateLocation": "September 22, 2026 | Basel, Switzerland",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Reasserts Ceasefire Claim at UNGA",
-      "whyItMatters": "Continues contentious diplomatic narratives regarding South Asian bilateral state relations.",
-      "brief": "U.S. President Donald Trump repeated his claim of mediating an India-Pakistan ceasefire during his United Nations General Assembly address.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2xoNlhIRmM0OGlDbzZXSF9uQ2Z2N3NHTVNtOFQyNDZPcHJlYjd3S0hZYm5WWF91U2xyLURzeUJmMVNpb2dsNExRNDdwV19pcE1UOG5TUEIzbmlWT3hacXVxSi1CYkVycm9SR3ZzX3hXc2laUFpIQnR0bGdsQ3RsUGQ4Tm9PZEFyMllSZWYzVVZQdFhqMVdfUlJ3VnBfSnA2MW9xSG8tYXgwTGNMTV9EZFB3UXhIMjliWkE?oc=5",
-      "dateLocation": "September 22, 2026 | New York, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Binance Faces Fresh US Criminal Probe",
-      "whyItMatters": "Heightens regulatory scrutiny on crypto compliance regarding international sanction laws.",
-      "brief": "US prosecutors have launched a criminal probe into Binance regarding potential violations of Iranian economic sanctions.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/binance-faces-us-criminal-probe-over-iran-sanctions-violations-what-we-know-11790095881342.html",
-      "dateLocation": "September 22, 2026 | Washington D.C., USA",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hurricane Polo Reaches Category 5 Intensity",
-      "whyItMatters": "Severe weather threat requires urgent disaster response and evacuation preparations.",
-      "brief": "Hurricane Polo rapidly escalated to a catastrophic Category 5 storm with sustained winds of 160 mph.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/hurricane-polo-reaches-category-5-strength-when-it-is-likely-to-make-landfall-and-which-areas-to-be-worst-affected-11790098503867.html",
-      "dateLocation": "September 22, 2026 | Miami, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Administration Cuts 750,000 Obamacare Rolls",
-      "whyItMatters": "Drastic policy shift impacts subsidized healthcare access for millions of Americans.",
-      "brief": "The Trump administration initiated a major crackdown, removing hundreds of thousands from health insurance rolls over improper enrollment allegations.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/obamacare-crackdown-why-trump-administration-is-removing-750-000-people-from-health-insurance-rolls-11790096669647.html",
-      "dateLocation": "September 22, 2026 | Washington D.C., USA",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "MediaTek Launches World's First 2nm Chip",
-      "whyItMatters": "Challenges Qualcomm's dominance in high-end mobile processors with advanced chip architecture.",
-      "brief": "MediaTek unveiled the Dimensity 9600 Pro, becoming the first manufacturer to utilize TSMC's 2nm process for flagship smartphones.",
+      "headline": "Meta Testing Human Concierge for Personal AI Agent Muse",
+      "whyItMatters": "Blends human oversight with conversational AI to redefine personal technology services.",
+      "brief": "Meta is reportedly testing a human concierge layer to support users interacting with its new AI agent, Muse.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mediatek-seems-ready-to-storm-into-qualcomms-biggest-fortress-and-with-a-weapon-that-american-chip-maker-still-has-no-answer-to/articleshow/134412852.cms",
-      "dateLocation": "September 22, 2026 | Taipei, Taiwan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
+      "dateLocation": "September 23, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Prices Surge 60% to Rs 1.57 Lakh",
-      "whyItMatters": "Record bullion prices significantly alter consumer buying patterns during festive seasons.",
-      "brief": "Spot gold prices in Mumbai jumped 60% year-on-year to reach Rs 1.57 lakh per 10 grams, impacting retail jewelry sales.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-surge-60-from-rs-98000-to-rs-1-57-lakh-per-10-grams-in-a-year-ganesh-chaturthi-sales-fall-15-as-buyers-switch-to-lighter-jewellery-also-buy-coins/articleshow/134405905.cms",
-      "dateLocation": "September 22, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "UK Official Backs Israel While Rejecting Gaza Actions",
+      "whyItMatters": "Reflects complex diplomatic stances among Western leaders regarding Middle East conflicts.",
+      "brief": "British political figures voiced support for Israel against external security threats while simultaneously condemning actions taken in Gaza.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/videos/shorts/watch-andy-burnham-backs-israel-against-threats-rejects-actions-in-gaza/article71498121.ece",
+      "dateLocation": "September 23, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Maharashtra Drought Deepens Agricultural Crisis",
-      "whyItMatters": "Severe dry spells threaten regional crop yields and agrarian economic stability.",
-      "brief": "Worsening drought conditions across Maharashtra have severely impacted agricultural output, prompting rising distress calls from farmers.",
+      "headline": "Global Health Authorities Push for Enhanced Patient Safety Standards",
+      "whyItMatters": "Addresses critical healthcare challenges including spurious drugs and hospital safety protocols.",
+      "brief": "Health regulators are advancing stricter safety regulations both inside and outside clinical environments to protect vulnerable patients.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/maharashtra-drought-deepens-crop-output-crisis-mounts/articleshow/134419296.cms",
-      "dateLocation": "September 22, 2026 | Mumbai, India",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-enveloping-patients-with-safety-standards/article71494830.ece",
+      "dateLocation": "September 23, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "CSK's Vansh Bedi Denies Sting Operation Rumors",
-      "whyItMatters": "Addresses match-fixing allegations to protect professional reputation and sports integrity.",
-      "brief": "Cricketer Vansh Bedi publicly denied involvement in a recent sting operation controversy, calling false reports defamatory.",
+      "headline": "NYC Mayor Announces $131.5 Million DoorDash Settlement",
+      "whyItMatters": "Sets a massive legal precedent for gig worker pay and corporate liability.",
+      "brief": "New York City reached a historic $131.5 million settlement with DoorDash to compensate hundreds of thousands of underpaid couriers.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/nyc-mayor-mamdani-announces-131-5-million-doordash-settlement-over-underpaid-delivery-workers-deal-explained-11790131113113.html",
+      "dateLocation": "September 23, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Brahma AI Raises $150 Million at $2 Billion Valuation",
+      "whyItMatters": "Highlights aggressive venture capital deployment in enterprise AI infrastructure startups.",
+      "brief": "Brahma AI has secured $150 million in a funding round led by Multiples to scale its digital content platform.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/brahma-ai-multiples-prabhu-narasimhan-enterprise-ai-11790118529891.html",
+      "dateLocation": "September 23, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Administration Restarts White South African Refugee Intake",
+      "whyItMatters": "Triggers international debate over immigration priorities and alleged racial persecution claims.",
+      "brief": "The US administration plans to admit thousands of refugees from South Africa, citing targeted persecution against minority groups.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/why-is-trump-administration-accepting-white-south-african-refugees-to-the-us-again-heres-what-we-know-11790128237518.html",
+      "dateLocation": "September 23, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hurricane Polo Becomes One of Season's Strongest Storms",
+      "whyItMatters": "Poses severe weather risks to coastal communities and marine shipping lanes.",
+      "brief": "Hurricane Polo intensified rapidly off Mexico’s Pacific coast, threatening coastal regions with dangerous winds and heavy rains.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/hurricane-polo-becomes-one-of-2026-s-strongest-storms-off-mexico-11790115282361.html",
+      "dateLocation": "September 23, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Big Tech AI Pivot Threatens IT Outsourcing Revenue",
+      "whyItMatters": "Could disrupt traditional business models for major global software service providers.",
+      "brief": "Industry shifts toward enterprise automation and AI are projected to impact billions in traditional IT outsourcing revenue.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/ites/big-techs-ai-switch-may-dent-20-billion-of-it-outsourcing-revenue/articleshow/134424042.cms",
+      "dateLocation": "September 23, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Manu Bhaker Qualifies for Asian Games Air Pistol Final",
+      "whyItMatters": "Showcases top-tier international athletic performance at major continental competitions.",
+      "brief": "Indian shooter Manu Bhaker successfully secured her spot in the Asian Games 10m air pistol final.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/false-and-defamatory-csks-vansh-bedi-says-he-is-not-the-unnamed-player-in-sting-operation-controversy/articleshow/134416107.cms",
-      "dateLocation": "September 22, 2026 | New Delhi, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-manu-bhaker-qualifies-for-10m-air-pistol-final-in-third-place/articleshow/134424153.cms",
+      "dateLocation": "September 23, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Researchers Fear Loss of Scientific Reasoning Due to AI",
+      "whyItMatters": "Raises fundamental concerns regarding human critical thinking and intellectual dependence on automation.",
+      "brief": "Leading scientists warn that heavy reliance on artificial intelligence tools may degrade core human scientific reasoning skills.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/researchers-losing-the-ability-to-develop-scientific-reasoning-a-big-fear-with-ai-climate-scientist-william-boos/articleshow/134412767.cms",
+      "dateLocation": "September 23, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
