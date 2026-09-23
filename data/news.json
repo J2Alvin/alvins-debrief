@@ -1,147 +1,129 @@
 {
-  "lastUpdated": "2026-09-23T16:02:59.659Z",
+  "lastUpdated": "2026-09-23T21:02:45.497Z",
   "ticker": [
-    "Iran President addresses UN General Assembly",
-    "US invites Putin to G20 summit",
-    "India, US hold high-level diplomatic talks",
-    "Global economic growth forecasts revised",
-    "China military purges raise security questions"
+    "India cuts edible oil import duty ahead of festivals",
+    "US business activity hits a five-year high",
+    "Cyclone alert issued for Andhra-Odisha coast",
+    "Trump and Xi prepare for high-stakes US summit",
+    "FSSAI initiates action against major e-grocery platforms"
   ],
   "articles": [
     {
-      "headline": "LG and Samsung face India tariff probe",
-      "whyItMatters": "Major electronics firms face potential tax liabilities in a critical consumer market.",
-      "brief": "Authorities in India have launched an investigation into major technology brands LG and Samsung over alleged tariff evasion concerning imported OLED TV parts.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWZySUc1VVpNVFZwNjJZLXJxTG5WTGVvVlB2dHpkbXJGYjROUjBwLTdIMkNoM2h6WDE4ekJFZHlqYzNKNUxYR0ZydzJMRDFFMENSQk1Hdi05R0sxamttMmVKbGR1ejhCR1ZoT0RRQ2pveG5pNFlRLVQyUDlWNERRaHllcy12Y0pUOWFsemx5ZHdVR2E4YzZJX1JUMWZuYnlWVFA3UTUydWdYdlBRR1JaN05GUXVzV1VYeHh4Snc1U2N5Uy0zMExz?oc=5",
-      "dateLocation": "2026-09-23 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Amazon launches agentic AI for sellers",
-      "whyItMatters": "E-commerce operations are shifting toward autonomous AI-driven management.",
-      "brief": "Amazon has introduced a new suite of agentic artificial intelligence tools designed to assist third-party sellers with inventory and operational workflows.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5",
-      "dateLocation": "2026-09-23 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Global rating agencies raise India GDP outlook",
-      "whyItMatters": "Strong macroeconomic indicators highlight India's resilience amid global slowdowns.",
-      "brief": "Major financial institutions including S&P, Fitch, and Moody's have upgraded India's growth forecasts for the upcoming fiscal period.",
+      "headline": "India Cuts Edible Oil Import Duty",
+      "whyItMatters": "Lowers festival prices for consumers amid shifting global trade dynamics.",
+      "brief": "India has reduced its edible oil import duties to cool down domestic prices ahead of the festive season.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/india-gdp-growth-2026-fy27-7-8-percent-fitch-sp-moodys-growth-forecast-gdp-debate-new-series-world-raises-toast/articleshow/134428887.cms",
-      "dateLocation": "2026-09-23 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold drops as rate hike bets strengthen dollar",
-      "whyItMatters": "Shifting monetary policy expectations directly impact safe-haven asset valuations.",
-      "brief": "Gold prices declined globally as increased expectations of upcoming interest rate hikes bolstered the US dollar.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGROaTNUbzBNRWdvU1J1SVRKaURrN0FDVHMteG50VExEUUhKN3UyQ0pMZ3F0ZUtXRHoyc2c2aDgzRkFrTFhHR01OdVROSVBWVnRLWmhqSjNDdW5FVjdHeEptYW5fUFg1VFVnX0xXZURtemZqOVNqNmRqc19yVjdYX3BwM1I1T0M4VUIwdDNqdmxFcnlXX2pKS3VCNllNbEJTQkZxZTJkd1NpNDZwOGpBSw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVVRjViazBlTGt2c1RDV2M2UVhGajQ3S2w4eTJBNHNtNllBWUNMYUtVdlEwZS1EbDJQMmxxYkV4TklIanpCZldKcXhrU042U1NqblFvcW11U0xUVzJPdDExV0xadThIVzM5VHMtMEcydTlvSy1OdHEyQWF6aUR5MzB1Vng4Yk1VTGxIRTI3clppMVF2d2hqaDhNZTBlSXJ2OWc?oc=5",
       "dateLocation": "2026-09-23 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Election Commission rejects dissent claims",
-      "whyItMatters": "Institutional integrity remains a critical focal point in national democratic processes.",
-      "brief": "The Election Commission of India dismissed reports of internal friction regarding electoral rolls, maintaining that major decisions were unanimous.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/election-commission-pushes-back-on-dissent-reports-says-all-sir-decisions-were-unanimous/articleshow/134429865.cms",
-      "dateLocation": "2026-09-23 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Opposition demands action following poll disputes",
-      "whyItMatters": "Political tensions are escalating over administrative management of regional elections.",
-      "brief": "Indian opposition leaders have called for rigorous administrative reviews and accountability following internal reports concerning voter list management.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bihar-maharashtra-delhi-haryana-west-bengal-oppn-seeks-fresh-polls-after-ec-dissent-report/articleshow/134436699.cms",
-      "dateLocation": "2026-09-23 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran President delivers wartime UNGA address",
-      "whyItMatters": "Geopolitical friction intensifies as regional leaders address international bodies.",
-      "brief": "Iranian President Masoud Pezeshkian told the UN General Assembly that his nation views itself as a victim of terrorism rather than an aggressor.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/iran-president-masoud-pezeshkian-un-general-assembly-wartime-speech-us-israel/article71500620.ece",
-      "dateLocation": "2026-09-23 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US invites Vladimir Putin to G20 summit",
-      "whyItMatters": "Direct diplomatic engagement could reshape international approaches to the Ukraine conflict.",
-      "brief": "US Secretary of State Marco Rubio confirmed that Russian President Vladimir Putin has been invited to attend the December G20 summit.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/another-donald-trump-putin-meeting-soon-us-invites-russian-president-to-g20-summit-in-december/articleshow/134441760.cms",
-      "dateLocation": "2026-09-23 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI cracks down on e-commerce platforms",
-      "whyItMatters": "Regulatory oversight is tightening on digital retail and food delivery networks.",
-      "brief": "India's food safety authority initiated penal actions against major e-commerce platforms including Amazon and Zepto for regulatory compliance issues.",
+      "headline": "LG and Samsung Face Tariff Probe",
+      "whyItMatters": "Threatens major electronics supply chains and manufacturing investments in India.",
+      "brief": "LG and Samsung are facing an intensive tariff evasion investigation in India concerning imported OLED TV components.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/fssai-initiates-penal-action-against-amazon-zepto-bigbasket-others/articleshow/134440487.cms",
-      "dateLocation": "2026-09-23 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWZySUc1VVpNVFZwNjJZLXJxTG5WTGVvVlB2dHpkbXJGYjROUjBwLTdIMkNoM2h6WDE4ekJFZHlqYzNKNUxYR0ZydzJMRDFFMENSQk1Hdi05R0sxamttMmVKbGR1ejhCR1ZoT0RRQ2pveG5pNFlRLVQyUDlXNERRaHllcy12Y0pUOWFsemx5ZHdVR2E4YzZJX1JUMWZuYnlWVFA3UTUydWdYdlBRR1JSN05GUXVzV1VYeHh4Snc1U2N5Uy0zMExz?oc=5",
+      "dateLocation": "2026-09-23 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "DoorDash agrees to $131.5m worker settlement",
-      "whyItMatters": "Gig economy labor practices face increasing legal and financial scrutiny.",
-      "brief": "DoorDash has agreed to pay $131.5 million to resolve allegations of underpaying and delayed payments to over 200,000 New York City workers.",
-      "category": "business",
+      "headline": "Geely Unleashes 4-Minute EV Charging",
+      "whyItMatters": "Intensifies the technological arms race in the global electric vehicle market.",
+      "brief": "Automaker Geely has introduced ultra-fast four-minute EV charging and advanced AI systems to counter BYD.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUY1bFM0SUViWjFuZmJsbFMyeDJTOWdnMEg1dTMzMWg4TjEzOHJlRUZHWUtHY2RTTHRoT2g2ajBoaHA2VE5JSDBELU4wYkNtYXRMeFB6M2RiYTRGUTk1QzBVNzFSYjVISE5xSW1rX3hQSXBCaFNnS21kSHJYUkNiZ2MxdC1LX1U5Y3lrWE5McmstbERpem5qTkRRQno1VkNjMmRDTE1RVjVhQQ?oc=5",
+      "dateLocation": "2026-09-23 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Business Activity Hits 5-Year High",
+      "whyItMatters": "Signals economic resilience while stoking stubborn inflationary pressures nationwide.",
+      "brief": "US business activity surged to a five-year high, though building inflation pressures complicate monetary outlooks.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc19nQ3NuN0drQVpfdkdyMmt3UjJSQ0xHODV5UFdYSjlvUXpNdFI0eHo5MEpMemJuUHBCaU9yQ09qVXlka0RxeEF5WW05MmhNYzVZTmM4ZXVrTVJTTmJ2Z3gxZE9BcWcwM2cyWXlZMVNtTlM3YzBTWTJzMGJZcjgwbWJ3bzlZVFktSnNGeEdGNGxETDVZVUgwVml0S2M3M3QtSHp4UTJYV1dnOXd0ZkNWRTV2bnY4YklOM2FJ?oc=5",
+      "dateLocation": "2026-09-23 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Military Purges Raise Concerns",
+      "whyItMatters": "Raises critical questions regarding Beijing's strategic military readiness and leadership stability.",
+      "brief": "Recent high-level purges of Chinese military commanders are fueling global debate over the nation's war-waging capabilities.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGdEYlV3dUljYzl4TGkwYXJ4elVTYjlKV0Vydm1SSHJydTdPT0N5OWd4c3AwTks1bF9SakVHcXdmclFkWXhkZTVyUnZ6cnZIMTQ4WDd1RzBUY080UTV1YUN6OEx5WlJRTFNOUFBiWENlZFJROVFiVlFxaWhlcG9FZ2F1Ylc3VURrOFdMU2tkS0lmY1BUYU5hNjhPNjN2bUhYQ2dpWnVJQVpoNjFNY3UwZ1pHc3JIVHV0Uk1zUi1SbVhlQ1VpYW1VNWV5cUhfZm1aM0hJTmVkRQ?oc=5",
+      "dateLocation": "2026-09-23 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DoorDash Settles NYC Wage Dispute",
+      "whyItMatters": "Highlights tightening regulatory enforcement on gig-economy payment practices and worker compensation.",
+      "brief": "DoorDash agreed to pay $131.5 million to resolve a major probe into underpaid New York City workers.",
+      "category": "technology",
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms",
       "dateLocation": "2026-09-23 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "FSSAI Targets Amazon and Swiggy",
+      "whyItMatters": "Cracks down on online retail compliance and food safety standards across platforms.",
+      "brief": "Food safety regulators initiated strict enforcement actions against major quick-commerce and e-commerce platforms.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-initiates-action-against-amazon-swiggy-instamart-bigbasket-flipkart-india-over-alleged-violations/articleshow/134444985.cms",
+      "dateLocation": "2026-09-23 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian men's badminton team wins bronze",
-      "whyItMatters": "International sporting achievements boost national representation on global competitive stages.",
-      "brief": "The Indian men's badminton team secured a bronze medal after a hard-fought match against China at the Asian Games.",
+      "headline": "Cyclone Red Alert Issued for Coast",
+      "whyItMatters": "Threatens regional safety, infrastructure, and harvests across eastern coastal districts.",
+      "brief": "A deep depression nearing the Andhra-Odisha coast has prompted red alerts and extensive school closures.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/cyclone-live-tracking-deep-depression-near-andhra-odisha-coast-imd-issues-red-alert-is-there-a-holiday-tomorrow-11790182953250.html",
+      "dateLocation": "2026-09-23 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jaishankar Raises US Russia Sanctions",
+      "whyItMatters": "Navigates critical diplomatic friction over secondary sanctions impacting energy trade.",
+      "brief": "External Affairs Minister Jaishankar raised India's concerns regarding US secondary Russia sanctions during UNGA talks.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/jaishankar-raises-india-s-concerns-over-us-russia-sanctions-law-with-rubio-at-unga-11790183917138.html",
+      "dateLocation": "2026-09-23 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IPL 2027 Auction Scheduled in Goa",
+      "whyItMatters": "Sets the strategic timeline for team building ahead of the upcoming cricket season.",
+      "brief": "The IPL 2027 player auction is officially scheduled to take place in Goa in mid-December.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-23-2026/article71496842.ece",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/ipl-2027-auction-in-goa-in-mid-december/article71501519.ece",
       "dateLocation": "2026-09-23 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IPL 2027 auction scheduled for Goa",
-      "whyItMatters": "Major cricket league planning moves forward with high economic implications.",
-      "brief": "The Board of Control for Cricket in India announced that the IPL 2027 player auction will take place in Goa in December.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-auction-to-be-held-in-goa-in-december-bcci-secretary/articleshow/134440035.cms",
-      "dateLocation": "2026-09-23 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India tightens proposed food warning labels",
-      "whyItMatters": "Stricter consumer health packaging mandates impact packaged food manufacturers.",
-      "brief": "Regulatory bodies in India have introduced stricter guidelines for nutritional warning labels on food products, posing compliance challenges for the industry.",
+      "headline": "CDC Confirms Measles-Related Death",
+      "whyItMatters": "Underscores ongoing public health risks surrounding vaccine-preventable outbreaks.",
+      "brief": "Federal health officials have confirmed a fatality linked to measles following an outbreak in Pennsylvania.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWgzcDN4NlZZQkJUM21LanZtUzMwMVU2ODlnVGZPa3otTlJiYm01N0RwQThXOWpqMVZrR0I0bGZDdkQybUJsQmJBdDc3TXM1cWxmUVAyT2ZDOXR0ZW5QUDlWekxrbnREVnROUUtPZGtXVHNKWnowOHJSUnlBelQ5YlYzLTI3Ykt2dlE4QzZKeHNsckRLZmttazlXb2ljWUdXcmxaTUxOLWdjUHQ3YnVmc1Rn?oc=5",
-      "dateLocation": "2026-09-23 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/us-news/cdc-recognizes-measles-death-after-pennsylvania-conflict-11790192578526.html",
+      "dateLocation": "2026-09-23 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Andhra Pradesh prioritizes student mental health",
-      "whyItMatters": "Institutional mental health support systems are expanding across educational frameworks.",
-      "brief": "Education authorities in Andhra Pradesh have mandated mission-mode mental health support and wellness programs across schools to assist students.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/nara-lokesh-calls-for-mission-mode-mental-health-support-for-ap-students/article71500986.ece",
-      "dateLocation": "2026-09-23 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Trump-Xi Summit Schedule Unveiled",
+      "whyItMatters": "Crucial meeting expected to shape global trade relations, tariffs, and technology policies.",
+      "brief": "Chinese President Xi Jinping's upcoming three-day US state visit will feature high-level discussions with Donald Trump.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trumpxi-summit-itinerary-full-schedule-of-chinese-president-s-3-day-us-state-visit-from-sept-2325-11790186865493.html",
+      "dateLocation": "2026-09-23 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Railway safety checks confirm clean water",
-      "whyItMatters": "Public transit hygiene standards remain vital for passenger health and safety.",
-      "brief": "Southern Western Railway reported that quality checks across water supply samples confirmed safe drinking standards for passengers and staff.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/no-unfit-drinking-water-samples-says-swr-after-quality-checks/article71501066.ece",
+      "headline": "Judicial Split Over ECI Selection Panel",
+      "whyItMatters": "Sparks intense debate regarding institutional independence and constitutional appointment frameworks.",
+      "brief": "A Supreme Court split verdict highlighted growing institutional concerns over ministerial inclusion in election commissioner panels.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece",
       "dateLocation": "2026-09-23 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
