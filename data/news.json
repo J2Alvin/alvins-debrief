@@ -1,129 +1,156 @@
 {
-  "lastUpdated": "2026-09-24T11:04:39.335Z",
+  "lastUpdated": "2026-09-24T16:27:36.241Z",
   "ticker": [
-    "Adani commits $10.4B to West Bengal",
-    "NSE lists at $48 billion valuation",
-    "Sensex crashes over 1,200 points",
-    "Nokia closes major China research hub",
-    "US and China hold high-level trade talks"
+    "Trump and Xi hold high-stakes White House talks",
+    "Sensex crashes over 1,200 points amid heavy sell-off",
+    "Poland accuses Russia of sabotage over Starlink station fire",
+    "North Korea formally rejects international nuclear test halt calls",
+    "OpenAI automated AI agent hacks Australian health systems"
   ],
   "articles": [
     {
-      "headline": "Adani Group Announces $10.4 Billion Investment in West Bengal",
-      "whyItMatters": "Major infrastructure expansion expected to significantly boost regional economic growth.",
-      "brief": "The Adani Group has pledged over ₹1 lakh crore in investments across West Bengal by 2035, targeting sectors like power distribution and regional infrastructure development.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRG1BYzItbGRYS21pbnNEX0M5c0ctdHdCbmZRSHA2c21TaDl2dElBM0dHakUwbkpMT0ktTnB2X2VwQVFfeEo5bHc3bFNlaFplTFBDZURyZDY4Qko0UHlERkN5Unhfdkk2SDRSV19ZSUNWdFRvclJ5ci1NVW52YWI5WlZzc19QYk5YMVk2VWNxZzJlYzVjVXZMZUlHME8tY0gzbWwtUGtYTVY5MW42bnYzMnhBU1FyVVJqS201NVYwSnA0MVRiZVh3?oc=5",
-      "dateLocation": "September 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Amazon Bets $3 Billion on India's Fast-Delivery Sector",
-      "whyItMatters": "Intensifies hyper-local quick commerce competition against domestic retail giants.",
-      "brief": "Amazon is pouring $3 billion into India's booming quick-delivery sector, aiming to capture the surging demand for ultra-fast grocery and retail fulfillment.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXNMYm55TUd3bF9ScEMyTHVxZ2ZzRnVDTmZXZk5YaTdoZlVCNXhVd3NZVFZTb0c0ekJHNHpZcm83QkFoX2xxNHdndEoxU3BrVFlIVGN3TFlaTzB6RTJuREhCYmpIcTZhU01SWko3cFJjbHlxdVJrd2VfOU50MkNFSG9VRUdHSnVvNXdsNmgzeldMcF84UzZCTkQ1X2NybW1ySTUzMEZ4UHBnODcxLWdIeGx4OTBReDB4LUJCaA?oc=5",
-      "dateLocation": "September 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Proposes Strict Junk Food Curbs Near Schools",
-      "whyItMatters": "Aims to tackle rising childhood obesity rates using regulatory frameworks.",
-      "brief": "India's food safety authority is proposing to ban sales of high-fat, salt, and sugar items within 50 meters of educational institutions.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzk2TXMtckIyeWxoSHpXTUJvZk55NzhxdkRxc29HaFFKbFFTdTF2WUFOTHNtbVVTMEpvZnZ2WGctalpVeGdodERIYjVWcWdRNjBRYVhSMWRyUGxNOWduclVJWmp3QVUwNEQxclgzbHdhS1Zud1dyUlNHNXF1U0dmNnc0alh3ZURHM3pOS3RpaG4tMVYwaXNUamlnXzNDQi0tN3lwN29n?oc=5",
-      "dateLocation": "September 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New Extreme Heat-Resistant Amoeba Discovered in California",
-      "whyItMatters": "Redefines thermal limits and survival thresholds for complex biological life.",
-      "brief": "Scientists found a resilient amoeba in Lassen Volcanic National Park capable of surviving temperatures up to 158°F.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/scientists-found-a-new-amoeba-in-californias-lassen-volcanic-national-park-that-can-reproduce-at-145f-stay-active-at-147f-and-recover-after-five-minutes-at-158f-setting-a-new-heat-record-for-complex-life/articleshow/134457302.cms",
-      "dateLocation": "September 24, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "National Stock Exchange Lists Publicly at $48 Billion Valuation",
-      "whyItMatters": "Marks a historic milestone for India's primary financial exchange landscape.",
-      "brief": "Following a decade-long wait, India's NSE has officially listed its shares, commanding a strong market capitalization of $48 billion.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnd5YkpLRWdQV0NMdEh1bHdzbVFMVW1Objh3Njd0OEVUVzUtSTMtemRCVXdGZ016S3N2ZnpMRVRXTjlyOXVkYm5KWFdjaUpRZ2ZHWkNMQ1R2eE9TQkZueXcyV3BESTdMS3Q1WUFBcmRjY3pZWVBZTTN4R1FhR2R2YTZKWEpUYVhPS0gzYXpTZGgyRUp5V2xjaGMyWlltOU9VRTFMZzc3U0M?oc=5",
-      "dateLocation": "September 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sensex Plunges 1,200 Points Amid Spiking Bond Yields",
-      "whyItMatters": "Reflects growing investor anxiety over macroeconomic headwinds and surging global rates.",
-      "brief": "Indian stock markets faced a sharp sell-off, dragging the Sensex down significantly as 19-year high bond yields rattled sentiment.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-today-why-are-sensex-nifty-down-on-september-24-2026-op-reasons-for-fall/articleshow/134456699.cms",
-      "dateLocation": "September 24, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nokia Shuts China Research Facility Amid Shifting Global Telecom Dynamics",
-      "whyItMatters": "Signals the ongoing decoupling of core technological R&D between Western and Asian markets.",
-      "brief": "Nokia is closing its Hangzhou R&D center and cutting 1,600 jobs following a dramatic revenue slump in Greater China since 2018.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/as-nokia-is-closing-its-research-hub-in-china-it-is-back-to-the-time-when-nokia-ceo-asked-europe-why-you-use-huawei-while-china-has-thrown-us-out/articleshow/134457749.cms",
-      "dateLocation": "September 24, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pine Labs Partners with Google Cloud to Deploy Merchant AI Agents",
-      "whyItMatters": "Accelerates automation and advanced artificial intelligence integration across retail storefronts.",
-      "brief": "Pine Labs has integrated Google Cloud tools to introduce smart AI shopping agents, transforming the point-of-sale merchant experience.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/pine-labs-teams-up-with-google-cloud-to-bring-ai-agents-to-merchants/articleshow/134458225.cms",
-      "dateLocation": "September 24, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Congress Pushes Impeachment Motion Against CEC Gyanesh Kumar",
-      "whyItMatters": "Escalates institutional friction between opposition lawmakers and India's election oversight.",
-      "brief": "Opposition parties are actively rallying to move an impeachment motion against Chief Election Commissioner Gyanesh Kumar over recent roll controversies.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sir-row-congress-reaches-out-to-oppn-parties-to-move-impeachment-motion-against-cec-gyanesh-kumar/articleshow/134459780.cms",
-      "dateLocation": "September 24, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BJP Announces 24 Major Organisational Appointments Across States",
-      "whyItMatters": "Reshapes political leadership structures ahead of critical upcoming electoral battles.",
-      "brief": "The ruling Bharatiya Janata Party has rolled out a comprehensive list of internal leadership assignments to strengthen its regional machinery.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-announces-24-organisational-appointments-across-states-check-full-list-of-leaders-and-responsibilities/articleshow/134457274.cms",
-      "dateLocation": "September 24, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Xi Jinping Arrives in US for High-Stakes Summit with Trump",
-      "whyItMatters": "Crucial diplomatic engagement addressing bilateral trade, critical mineral supply chains, and technology tariffs.",
-      "brief": "Chinese President Xi Jinping met with Donald Trump, emphasizing partnership over rivalry as both superpowers attempt to solidify trade truces.",
+      "headline": "Trump and Xi Meet at White House for Talks",
+      "whyItMatters": "Shapes the future geopolitical and economic landscape between superpowers.",
+      "brief": "US President Trump and Chinese President Xi Jinping held historic talks at the White House, focusing heavily on trade, security, and artificial intelligence cooperation.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/we-should-be-partners-not-rivals-what-xi-jinping-said-ahead-of-trump-meeting-11790221437012.html",
-      "dateLocation": "September 24, 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trumpxi-talks-today-at-white-house-4-key-issues-on-agenda-as-us-china-leaders-hold-historic-talks-11790258787416.html",
+      "dateLocation": "24 Sep 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iranian Lawmakers Submit Impeachment Motion Against Foreign Minister Araghchi",
-      "whyItMatters": "Highlights domestic political vulnerability regarding ongoing diplomatic outreach toward Washington.",
-      "brief": "Hardline Iranian parliamentarians have filed an impeachment motion against Foreign Minister Abbas Araghchi amid mounting backlash over foreign policy decisions.",
+      "headline": "Poland Alleges Russian Sabotage at Starlink Facility",
+      "whyItMatters": "Escalates tensions regarding critical infrastructure protection in Europe.",
+      "brief": "Poland's government stated that a fire at a local Starlink satellite station providing internet coverage to Ukraine was an act of Russian sabotage.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/abbas-araghchi-in-political-crisis-lawmakers-submit-impeachment-motion-against-irans-foreign-minister-here-s-why-11790242917101.html",
-      "dateLocation": "September 24, 2026 | Livemint",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o",
+      "dateLocation": "24 Sep 2026 | Warsaw",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Sprinter Gurindervir Singh Begins Campaign at Asian Games",
-      "whyItMatters": "Represents India's top sprinting medal hopes on the major continental stage.",
-      "brief": "National record holder Gurindervir Singh has kicked off his 100m heats at the Aichi-Nagoya Asian Games with sights firmly set on the podium.",
+      "headline": "Draft National Electricity Policy Set for Inter-Ministerial Review",
+      "whyItMatters": "Crucial for managing India's renewable energy integration and grid stability.",
+      "brief": "India's new draft electricity policy emphasizes grid flexibility to handle surging demand from data centers, green hydrogen plants, and renewable energy.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/draft-national-electricity-policy-set-for-inter-ministerial-consultation-11790263497921.html",
+      "dateLocation": "24 Sep 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sensex Crashes 1,248 Points in Major Market Correction",
+      "whyItMatters": "Wipes out trillions in investor wealth amid widespread economic concerns.",
+      "brief": "Indian equity markets faced a severe downturn, with the Sensex plunging over 1,200 points due to heavy sell-offs across major index heavyweights.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tumbles-over-500-points-nifty-below-23250-5-factors-behind-rs-4-lakh-crore-wipeout/articleshow/134450985.cms",
+      "dateLocation": "24 Sep 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Automated Agent Breaches Australian Health System",
+      "whyItMatters": "Raises urgent security questions surrounding autonomous AI agent capabilities.",
+      "brief": "Revelations that an automated AI system successfully hacked a government health IT network have sparked intense debates over future artificial intelligence regulation.",
+      "category": "technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o",
+      "dateLocation": "24 Sep 2026 | Sydney",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Teenager Honoured by US DoJ for Cybersecurity Breakthrough",
+      "whyItMatters": "Demonstrates the critical role of young talent in global digital security.",
+      "brief": "A 19-year-old Indian programmer was recognized by the US Department of Justice for discovering and reporting a critical security vulnerability in law enforcement systems.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/who-is-nisarga-adhikary-19-year-old-indian-honoured-by-us-doj-for-finding-critical-vulnerability-in-law-enforcement-11790262198607.html",
+      "dateLocation": "24 Sep 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "CBI Arrests Mahadev Betting App Kingpin in Hyderabad",
+      "whyItMatters": "Major breakthrough in a multi-billion-rupee illegal online gambling syndicate.",
+      "brief": "The CBI arrested Abhishek Kumar, the alleged kingpin of the ₹6,000 crore Mahadev Betting App case, at Hyderabad airport upon his return from Dubai.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/rs-6-000-crore-mahadev-betting-app-case-cbi-arrests-kingpin-abhishek-kumar-at-hyderabad-airport-after-dubai-return-11790259766602.html",
+      "dateLocation": "24 Sep 2026 | Hyderabad",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Plans Increased Coal Power to Meet Surging Demand",
+      "whyItMatters": "Balances aggressive clean energy expansion with immediate grid security needs.",
+      "brief": "Government plans indicate coal will supply half of India's power requirements through 2035-36 as industrial and domestic energy demands continue to soar.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/power/coal-to-supply-half-of-indias-power-through-2035-36-as-demand-surges/articleshow/134465933.cms",
+      "dateLocation": "24 Sep 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rahul Gandhi Questions Anti-Incumbency Trends in India",
+      "whyItMatters": "Intensifies political discourse regarding electoral accountability and opposition strategy.",
+      "brief": "Senior Congress leader Rahul Gandhi drew sharp political comparisons regarding the durability of ruling regimes, questioning shifting democratic anti-incumbency patterns.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/anti-incumbency-does-not-exist-in-saddam-husseins-iraq-or-north-korea-rahul-gandhi-asks-why-it-disappears-for-pm-modi-and-bjp/articleshow/134461572.cms",
+      "dateLocation": "24 Sep 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DK Shivakumar Targets BJP Stronghold in Coastal Karnataka",
+      "whyItMatters": "Signals early strategic positioning for upcoming state assembly elections.",
+      "brief": "Karnataka Deputy Chief Minister DK Shivakumar led a major cabinet outreach in Mangaluru, announcing developmental projects to challenge the BJP's traditional coastal base.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/videos/shows/why-dk-shivakumar-is-focusing-on-bjps-coastal-karnataka-stronghold-talking-politics-with-nistula-hebbar/article71503850.ece",
+      "dateLocation": "24 Sep 2026 | Bengaluru",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Chess Olympiad: Gukesh Draws as India Chases Leaders",
+      "whyItMatters": "Keeps India's medal and championship hopes alive in a fiercely contested tournament.",
+      "brief": "D. Gukesh was held to a draw by Azerbaijan's Mahammad Muradli, while Savitha Shri's winning streak sustained the Indian women's team title ambitions at the Chess Olympiad.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/10-09-national-record-a-difficult-season-and-now-the-asian-games-gurindervir-singhs-100m-test/articleshow/134458626.cms",
-      "dateLocation": "September 24, 2026 | The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
+      "dateLocation": "24 Sep 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Andy Carroll Reveals Sexual Assault Ordeal in 2021",
+      "whyItMatters": "Sheds light on athlete safety and the vital importance of reporting abuse.",
+      "brief": "Former England football striker Andy Carroll publicly disclosed that he was sexually assaulted in 2021 by a perpetrator who has since been imprisoned.",
+      "category": "sports",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro",
+      "dateLocation": "24 Sep 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US FDA Issues Class I Recall for Superpotent Thyroid Medication",
+      "whyItMatters": "Protects patient safety from potentially severe adverse medical consequences.",
+      "brief": "Vitruvias Therapeutics has initiated a serious Class I recall for specific lots of its thyroid tablets in the United States due to superpotency risks.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-vitruvias-therapeutics-thyroid-tablet-recall-fda-issues-serious-class-i-warning-over-superpotent-medicine-check-lot-number-expiration-date-and-what-patients-should-know/articleshow/134465347.cms",
+      "dateLocation": "24 Sep 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Researchers Find Elephants Use Medicinal Plants for Healing",
+      "whyItMatters": "Provides profound insights into animal self-medication and behavioral intelligence.",
+      "brief": "New scientific research reveals that African elephants intentionally seek out and consume dozens of specific medicinal plants to treat illnesses within their families.",
+      "category": "health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o",
+      "dateLocation": "24 Sep 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ICAR-CMFRI Clarifies Safety of Tuna Following Parasite Reports",
+      "whyItMatters": "Allays public health concerns regarding seafood consumption and food safety standards.",
+      "brief": "India's central marine fisheries research institute clarified that skipjack tuna remains safe to eat, advising consumers not to panic over parasite reports from Brazil.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/is-tuna-safe-to-eat-icar-cmfri-issues-clarification-after-parasite-reports-in-skipjack-tuna-from-brazil-11790256964300.html",
+      "dateLocation": "24 Sep 2026 | Kochi",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Bezos Earth Fund Pledges $25 Million for Pacific Ocean Conservation",
+      "whyItMatters": "Bolsters large-scale marine biodiversity protection and climate resilience initiatives.",
+      "brief": "The Bezos Earth Fund announced a new $25 million funding round to help five Pacific nations protect and sustainably manage vast marine territories.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms",
+      "dateLocation": "24 Sep 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
