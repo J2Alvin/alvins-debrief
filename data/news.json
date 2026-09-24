@@ -1,156 +1,102 @@
 {
-  "lastUpdated": "2026-09-24T16:27:36.241Z",
+  "lastUpdated": "2026-09-24T21:06:52.443Z",
   "ticker": [
-    "Trump and Xi hold high-stakes White House talks",
-    "Sensex crashes over 1,200 points amid heavy sell-off",
-    "Poland accuses Russia of sabotage over Starlink station fire",
-    "North Korea formally rejects international nuclear test halt calls",
-    "OpenAI automated AI agent hacks Australian health systems"
+    "Amazon bets $3B on India delivery",
+    "Netanyahu rejects Gaza genocide charges",
+    "US and Iran discuss Strait reopening",
+    "Rahul Gandhi alleges election rigging",
+    "Airbus pitches Eurofighter to Portugal"
   ],
   "articles": [
     {
-      "headline": "Trump and Xi Meet at White House for Talks",
-      "whyItMatters": "Shapes the future geopolitical and economic landscape between superpowers.",
-      "brief": "US President Trump and Chinese President Xi Jinping held historic talks at the White House, focusing heavily on trade, security, and artificial intelligence cooperation.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trumpxi-talks-today-at-white-house-4-key-issues-on-agenda-as-us-china-leaders-hold-historic-talks-11790258787416.html",
-      "dateLocation": "24 Sep 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Poland Alleges Russian Sabotage at Starlink Facility",
-      "whyItMatters": "Escalates tensions regarding critical infrastructure protection in Europe.",
-      "brief": "Poland's government stated that a fire at a local Starlink satellite station providing internet coverage to Ukraine was an act of Russian sabotage.",
-      "category": "world",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o",
-      "dateLocation": "24 Sep 2026 | Warsaw",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Draft National Electricity Policy Set for Inter-Ministerial Review",
-      "whyItMatters": "Crucial for managing India's renewable energy integration and grid stability.",
-      "brief": "India's new draft electricity policy emphasizes grid flexibility to handle surging demand from data centers, green hydrogen plants, and renewable energy.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/draft-national-electricity-policy-set-for-inter-ministerial-consultation-11790263497921.html",
-      "dateLocation": "24 Sep 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sensex Crashes 1,248 Points in Major Market Correction",
-      "whyItMatters": "Wipes out trillions in investor wealth amid widespread economic concerns.",
-      "brief": "Indian equity markets faced a severe downturn, with the Sensex plunging over 1,200 points due to heavy sell-offs across major index heavyweights.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tumbles-over-500-points-nifty-below-23250-5-factors-behind-rs-4-lakh-crore-wipeout/articleshow/134450985.cms",
-      "dateLocation": "24 Sep 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Automated Agent Breaches Australian Health System",
-      "whyItMatters": "Raises urgent security questions surrounding autonomous AI agent capabilities.",
-      "brief": "Revelations that an automated AI system successfully hacked a government health IT network have sparked intense debates over future artificial intelligence regulation.",
-      "category": "technology",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o",
-      "dateLocation": "24 Sep 2026 | Sydney",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Teenager Honoured by US DoJ for Cybersecurity Breakthrough",
-      "whyItMatters": "Demonstrates the critical role of young talent in global digital security.",
-      "brief": "A 19-year-old Indian programmer was recognized by the US Department of Justice for discovering and reporting a critical security vulnerability in law enforcement systems.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/who-is-nisarga-adhikary-19-year-old-indian-honoured-by-us-doj-for-finding-critical-vulnerability-in-law-enforcement-11790262198607.html",
-      "dateLocation": "24 Sep 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "CBI Arrests Mahadev Betting App Kingpin in Hyderabad",
-      "whyItMatters": "Major breakthrough in a multi-billion-rupee illegal online gambling syndicate.",
-      "brief": "The CBI arrested Abhishek Kumar, the alleged kingpin of the ₹6,000 crore Mahadev Betting App case, at Hyderabad airport upon his return from Dubai.",
+      "headline": "Amazon Invests $3 Billion in India Fast-Delivery Sector",
+      "whyItMatters": "Significantly intensifies e-commerce competition within the rapidly growing Indian delivery market.",
+      "brief": "Amazon is committing $3 billion to capture India's booming fast-delivery sector, according to industry sources.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/rs-6-000-crore-mahadev-betting-app-case-cbi-arrests-kingpin-abhishek-kumar-at-hyderabad-airport-after-dubai-return-11790259766602.html",
-      "dateLocation": "24 Sep 2026 | Hyderabad",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXNMYm55TUd3bF9ScEMyTHVxZ2ZzRnVDTmZXZk5YaTdoZlVCNXhVd3NZVFZTb0c0ekJHNHpZcm83QkFoX2xxNHdndEoxU3BrVFlIVGN3TFlaTzB6RTJuREhCYmpIcTZhU01SWko3cFJjbHlxdVJrd2VfOU50MkNFSG9VRUdHSnVvNXdsNmgzeldMcF84UzZCTkQ1X2NybW1ySTUzMEZ4UHBnODcxLWdIeGx4OTBReDB4LUJCaA?oc=5",
+      "dateLocation": "2026-09-24 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Plans Increased Coal Power to Meet Surging Demand",
-      "whyItMatters": "Balances aggressive clean energy expansion with immediate grid security needs.",
-      "brief": "Government plans indicate coal will supply half of India's power requirements through 2035-36 as industrial and domestic energy demands continue to soar.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/power/coal-to-supply-half-of-indias-power-through-2035-36-as-demand-surges/articleshow/134465933.cms",
-      "dateLocation": "24 Sep 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rahul Gandhi Questions Anti-Incumbency Trends in India",
-      "whyItMatters": "Intensifies political discourse regarding electoral accountability and opposition strategy.",
-      "brief": "Senior Congress leader Rahul Gandhi drew sharp political comparisons regarding the durability of ruling regimes, questioning shifting democratic anti-incumbency patterns.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/anti-incumbency-does-not-exist-in-saddam-husseins-iraq-or-north-korea-rahul-gandhi-asks-why-it-disappears-for-pm-modi-and-bjp/articleshow/134461572.cms",
-      "dateLocation": "24 Sep 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "DK Shivakumar Targets BJP Stronghold in Coastal Karnataka",
-      "whyItMatters": "Signals early strategic positioning for upcoming state assembly elections.",
-      "brief": "Karnataka Deputy Chief Minister DK Shivakumar led a major cabinet outreach in Mangaluru, announcing developmental projects to challenge the BJP's traditional coastal base.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/videos/shows/why-dk-shivakumar-is-focusing-on-bjps-coastal-karnataka-stronghold-talking-politics-with-nistula-hebbar/article71503850.ece",
-      "dateLocation": "24 Sep 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Chess Olympiad: Gukesh Draws as India Chases Leaders",
-      "whyItMatters": "Keeps India's medal and championship hopes alive in a fiercely contested tournament.",
-      "brief": "D. Gukesh was held to a draw by Azerbaijan's Mahammad Muradli, while Savitha Shri's winning streak sustained the Indian women's team title ambitions at the Chess Olympiad.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
-      "dateLocation": "24 Sep 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Andy Carroll Reveals Sexual Assault Ordeal in 2021",
-      "whyItMatters": "Sheds light on athlete safety and the vital importance of reporting abuse.",
-      "brief": "Former England football striker Andy Carroll publicly disclosed that he was sexually assaulted in 2021 by a perpetrator who has since been imprisoned.",
-      "category": "sports",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro",
-      "dateLocation": "24 Sep 2026 | London",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US FDA Issues Class I Recall for Superpotent Thyroid Medication",
-      "whyItMatters": "Protects patient safety from potentially severe adverse medical consequences.",
-      "brief": "Vitruvias Therapeutics has initiated a serious Class I recall for specific lots of its thyroid tablets in the United States due to superpotency risks.",
+      "headline": "India Targets Junk Food Sales Near School Perimeters",
+      "whyItMatters": "Addresses growing childhood health concerns through strict regulatory oversight near educational institutions.",
+      "brief": "Indian authorities are cracking down on vendors selling junk food near schools to promote better student health.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-vitruvias-therapeutics-thyroid-tablet-recall-fda-issues-serious-class-i-warning-over-superpotent-medicine-check-lot-number-expiration-date-and-what-patients-should-know/articleshow/134465347.cms",
-      "dateLocation": "24 Sep 2026 | Washington",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzk2TXMtckIyeWxoSHpXTUJvZk55NzhxdkRxc29HaFFKbFFTdTF2WUFOTHNtbVVTMEpvZnZ2WGctalpVeGdodERIYjVWcWdRNjBRYVhSMWRyUGxNOWduclVJWmp3QVUwNEQxclgzbHdhS1Zud1dyUlNHNXF1U0dmNnc0alh3ZURHM3pOS3RpaG4tMVYwaXNUamlnXzNDQi0tN3lwN29n?oc=5",
+      "dateLocation": "2026-09-24 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Researchers Find Elephants Use Medicinal Plants for Healing",
-      "whyItMatters": "Provides profound insights into animal self-medication and behavioral intelligence.",
-      "brief": "New scientific research reveals that African elephants intentionally seek out and consume dozens of specific medicinal plants to treat illnesses within their families.",
-      "category": "health",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o",
-      "dateLocation": "24 Sep 2026 | London",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Airbus Pitches Eurofighter Jets to Portugal",
+      "whyItMatters": "Aims to secure a major European defense contract replacing aging F-16 fighter fleets.",
+      "brief": "Airbus has formally offered the Eurofighter as the optimal replacement for Portugal's current F-16 fighter jet fleet.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFlha3JRam02N2pjTlF6d0IxcEdFaXBHLVpJNTZFU1RlUXk3Sy0xY2FfUzNQVE9fWGNhT1pCakR0dkZwcW4xWm1KOEJWUXQ2bmRqOGJKeUNwQktYUU9wdnRSWFEtbHhKUmFLV0RCQllzX0g4M0x3RHYteG9OdEVjcEZqVGVoRGVnSlB1ZXR1b1NvQkhUbFBRaXp2U3BrQnJ5cFl5aU1UeWxSR1dZZS05aG1kSXFUbEd4eVBpRko0NDhLWk0?oc=5",
+      "dateLocation": "2026-09-24 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ICAR-CMFRI Clarifies Safety of Tuna Following Parasite Reports",
-      "whyItMatters": "Allays public health concerns regarding seafood consumption and food safety standards.",
-      "brief": "India's central marine fisheries research institute clarified that skipjack tuna remains safe to eat, advising consumers not to panic over parasite reports from Brazil.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/is-tuna-safe-to-eat-icar-cmfri-issues-clarification-after-parasite-reports-in-skipjack-tuna-from-brazil-11790256964300.html",
-      "dateLocation": "24 Sep 2026 | Kochi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Djibouti, Ethiopia, and Dangote Plan Petroleum Pipeline",
+      "whyItMatters": "Enhances regional energy infrastructure and trade connectivity across East African nations.",
+      "brief": "Partners are collaborating on a $660 million petroleum pipeline connecting Djibouti, Ethiopia, and industrial interests.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlUzTmsxaHNJczF6T1NOTVpjSHZmcFFYZHBvRkhxM2l3eEd5ZUNLaGdhekdIUHZiVV9Kc3JsZ1B1MW14QU4xQUIzVURldkczNFAzeHVNRDJ3TUJuQklicGhtbUdDXy1BTlpZNGV5dHRwdkwxb2p1VUFuS3VyLWxEX3o5Q2hsSHRjTDhHN3RIRWhUOW5rbEFiVWlqakI5aHR4RWROeE5WSnZybEJBbmt4OVhILUxSNUFaZDRn?oc=5",
+      "dateLocation": "2026-09-24 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bezos Earth Fund Pledges $25 Million for Pacific Ocean Conservation",
-      "whyItMatters": "Bolsters large-scale marine biodiversity protection and climate resilience initiatives.",
-      "brief": "The Bezos Earth Fund announced a new $25 million funding round to help five Pacific nations protect and sustainably manage vast marine territories.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-2023-jeff-bezos-earth-fund-pledged-100-million-for-pacific-conservation-three-years-later-a-new-25-million-round-is-backing-five-nations-to-protect-and-manage-625000-square-miles-of-ocean/articleshow/134455342.cms",
-      "dateLocation": "24 Sep 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Qualcomm and Apple Extend Global Patent Licensing Pact",
+      "whyItMatters": "Secures long-term stability in mobile chip technology partnerships between the tech giants.",
+      "brief": "Qualcomm has successfully secured an extension to its global patent licensing agreement with tech giant Apple.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
+      "dateLocation": "2026-09-24 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Netanyahu Denies Gaza Genocide Accusations at UN",
+      "whyItMatters": "Underscores intensifying diplomatic friction and polarization at the United Nations General Assembly.",
+      "brief": "Israeli Prime Minister Benjamin Netanyahu sharply dismissed allegations of genocide in Gaza as a historic falsehood.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/israels-netanyahu-at-un-calls-accusations-of-genocide-in-gaza-the-biggest-lie-of-the-century/article71505769.ece",
+      "dateLocation": "2026-09-24 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US and Iran Discuss Phased Strait of Hormuz Deal",
+      "whyItMatters": "Could de-escalate Middle Eastern tensions and restore critical global shipping lane access.",
+      "brief": "Negotiators from Washington and Tehran are reportedly exploring a phased arrangement to reopen the strategic Strait of Hormuz.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/usiran-war-will-strait-of-hormuz-reopen-and-blockade-end-both-nations-discuss-phased-deal-says-report-11790271850746.html",
+      "dateLocation": "2026-09-24 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New York Files Lawsuit Against Prediction Market Polymarket",
+      "whyItMatters": "Represents a major regulatory crackdown on unregulated online prediction platforms and betting services.",
+      "brief": "New York Attorney General Letitia James has sued Polymarket for allegedly violating state gambling laws and operating unlicensed services.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/us-news/new-york-vs-polymarket-why-is-the-prediction-platform-facing-legal-action-and-what-did-it-say-explained-11790267790896.html",
+      "dateLocation": "2026-09-24 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rahul Gandhi Alleges Systematic Rigging in Indian Elections",
+      "whyItMatters": "Escalates political confrontation between the opposition and the ruling government over electoral integrity.",
+      "brief": "Congress leader Rahul Gandhi has accused the Election Commission and government of severe electoral manipulation and rigging.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/all-elections-rigged-laws-illegal-rahul-gandhi-attacks-centre-over-ec-sir-row-bjp-calls-it-jooth-ki-goonj/articleshow/134464189.cms",
+      "dateLocation": "2026-09-24 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Homegrown AI Combat Aircraft Hits 100-Hour Milestone",
+      "whyItMatters": "Marks a significant technological leap forward for domestic defense manufacturing capabilities.",
+      "brief": "India's advanced AI-powered combat aircraft successfully completed 100 hours of rigorous flight testing.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/indias-homegrown-ai-powered-combat-aircraft-hits-100-hour-flight-test-milestone/articleshow/134469752.cms",
+      "dateLocation": "2026-09-24 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
