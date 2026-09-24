@@ -1,129 +1,129 @@
 {
-  "lastUpdated": "2026-09-23T21:02:45.497Z",
+  "lastUpdated": "2026-09-24T03:02:38.162Z",
   "ticker": [
-    "India cuts edible oil import duty ahead of festivals",
-    "US business activity hits a five-year high",
-    "Cyclone alert issued for Andhra-Odisha coast",
-    "Trump and Xi prepare for high-stakes US summit",
-    "FSSAI initiates action against major e-grocery platforms"
+    "US and China extend Busan agreement through January",
+    "Iran signals openness to diplomacy amid ongoing conflict",
+    "At least nine killed in Yamuna Expressway bus fire",
+    "Pakistan strikes ten sites inside Afghanistan",
+    "India proposes sweeping insurance reforms to cut costs"
   ],
   "articles": [
     {
-      "headline": "India Cuts Edible Oil Import Duty",
-      "whyItMatters": "Lowers festival prices for consumers amid shifting global trade dynamics.",
-      "brief": "India has reduced its edible oil import duties to cool down domestic prices ahead of the festive season.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUVVRjViazBlTGt2c1RDV2M2UVhGajQ3S2w4eTJBNHNtNllBWUNMYUtVdlEwZS1EbDJQMmxxYkV4TklIanpCZldKcXhrU042U1NqblFvcW11U0xUVzJPdDExV0xadThIVzM5VHMtMEcydTlvSy1OdHEyQWF6aUR5MzB1Vng4Yk1VTGxIRTI3clppMVF2d2hqaDhNZTBlSXJ2OWc?oc=5",
-      "dateLocation": "2026-09-23 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "US and China Extend Trade Agreement",
+      "whyItMatters": "Prevents immediate escalation in bilateral trade frictions.",
+      "brief": "The United States and China have officially agreed to extend the Busan agreement through January following high-level diplomatic engagements in Washington.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU2llUUdOb0lDeW5MNDVtS01Tc3FqUXh5ZjhQTDZjbnU4Y3R2Umg3OTFSRlI0dUczV2swYkUtbVVISzM2a2I0cFhVdmMtTDlCMVVtdE1GVUFLdlppaU5rMHVIT2pZb3JUNTNDbTJDUWlvUXhkdGt6SGZfaElISXp2UDJXdHF2bVBtaFpMNDI0eURDNkNybUUyN29uN0thTmp2eXZ4VEpnT3M4cXh6ekRMc0h5VVZHQ1E?oc=5",
+      "dateLocation": "September 24, 2026 | Washington / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "LG and Samsung Face Tariff Probe",
-      "whyItMatters": "Threatens major electronics supply chains and manufacturing investments in India.",
-      "brief": "LG and Samsung are facing an intensive tariff evasion investigation in India concerning imported OLED TV components.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeWZySUc1VVpNVFZwNjJZLXJxTG5WTGVvVlB2dHpkbXJGYjROUjBwLTdIMkNoM2h6WDE4ekJFZHlqYzNKNUxYR0ZydzJMRDFFMENSQk1Hdi05R0sxamttMmVKbGR1ejhCR1ZoT0RRQ2pveG5pNFlRLVQyUDlXNERRaHllcy12Y0pUOWFsemx5ZHdVR2E4YzZJX1JUMWZuYnlWVFA3UTUydWdYdlBRR1JSN05GUXVzV1VYeHh4Snc1U2N5Uy0zMExz?oc=5",
-      "dateLocation": "2026-09-23 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Geely Unleashes 4-Minute EV Charging",
-      "whyItMatters": "Intensifies the technological arms race in the global electric vehicle market.",
-      "brief": "Automaker Geely has introduced ultra-fast four-minute EV charging and advanced AI systems to counter BYD.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUY1bFM0SUViWjFuZmJsbFMyeDJTOWdnMEg1dTMzMWg4TjEzOHJlRUZHWUtHY2RTTHRoT2g2ajBoaHA2VE5JSDBELU4wYkNtYXRMeFB6M2RiYTRGUTk1QzBVNzFSYjVISE5xSW1rX3hQSXBCaFNnS21kSHJYUkNiZ2MxdC1LX1U5Y3lrWE5McmstbERpem5qTkRRQno1VkNjMmRDTE1RVjVhQQ?oc=5",
-      "dateLocation": "2026-09-23 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Business Activity Hits 5-Year High",
-      "whyItMatters": "Signals economic resilience while stoking stubborn inflationary pressures nationwide.",
-      "brief": "US business activity surged to a five-year high, though building inflation pressures complicate monetary outlooks.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc19nQ3NuN0drQVpfdkdyMmt3UjJSQ0xHODV5UFdYSjlvUXpNdFI0eHo5MEpMemJuUHBCaU9yQ09qVXlka0RxeEF5WW05MmhNYzVZTmM4ZXVrTVJTTmJ2Z3gxZE9BcWcwM2cyWXlZMVNtTlM3YzBTWTJzMGJZcjgwbWJ3bzlZVFktSnNGeEdGNGxETDVZVUgwVml0S2M3M3QtSHp4UTJYV1dnOXd0ZkNWRTV2bnY4YklOM2FJ?oc=5",
-      "dateLocation": "2026-09-23 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Military Purges Raise Concerns",
-      "whyItMatters": "Raises critical questions regarding Beijing's strategic military readiness and leadership stability.",
-      "brief": "Recent high-level purges of Chinese military commanders are fueling global debate over the nation's war-waging capabilities.",
+      "headline": "Iran Open to Diplomacy to End War",
+      "whyItMatters": "Signals a potential diplomatic breakthrough in Middle Eastern stability.",
+      "brief": "Oil prices dipped slightly as Iran indicated willingness to explore diplomatic channels and presented a roadmap for a phased resolution.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGdEYlV3dUljYzl4TGkwYXJ4elVTYjlKV0Vydm1SSHJydTdPT0N5OWd4c3AwTks1bF9SakVHcXdmclFkWXhkZTVyUnZ6cnZIMTQ4WDd1RzBUY080UTV1YUN6OEx5WlJRTFNOUFBiWENlZFJROVFiVlFxaWhlcG9FZ2F1Ylc3VURrOFdMU2tkS0lmY1BUYU5hNjhPNjN2bUhYQ2dpWnVJQVpoNjFNY3UwZ1pHc3JIVHV0Uk1zUi1SbVhlQ1VpYW1VNWV5cUhfZm1aM0hJTmVkRQ?oc=5",
-      "dateLocation": "2026-09-23 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5",
+      "dateLocation": "September 24, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "DoorDash Settles NYC Wage Dispute",
-      "whyItMatters": "Highlights tightening regulatory enforcement on gig-economy payment practices and worker compensation.",
-      "brief": "DoorDash agreed to pay $131.5 million to resolve a major probe into underpaid New York City workers.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/americas-largest-food-delivery-company-doordash-admits-it-underpaid-or-paid-late-to-200000-plus-workers-in-new-york-city-for-over-three-years-will-pay-131-5-million-in-settlement-and-apologises/articleshow/134439134.cms",
-      "dateLocation": "2026-09-23 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Proposes Sweeping Insurance Reforms",
+      "whyItMatters": "Aims to significantly lower insurance costs for consumers nationwide.",
+      "brief": "The Indian government has introduced a wide-ranging set of insurance reforms designed to reduce regulatory burdens and lower costs.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkQ1ejVKcm1UZ2ZjSDR0ZFRYcFJ5RWZxUGR4eVFOcU5wVTFucjUzUzBtQlh6STNpaWRPQ21wdzhaQzB4Y2wzeC1DWW15LWUzeTRpR3Y5RGxQRzBFT1hramNOb3NHeGtPZnl4OW1GbmRJdnZjRWJKNG43TlZpSzJPN2ZTYzBrbElwSGk5WnhnRGttY0xCcGdlYnVUeHdnUU1kd0FRUi1KWHZtN0MtYkJEZ1BJdm5iZw?oc=5",
+      "dateLocation": "September 24, 2026 | New Delhi / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "FSSAI Targets Amazon and Swiggy",
-      "whyItMatters": "Cracks down on online retail compliance and food safety standards across platforms.",
-      "brief": "Food safety regulators initiated strict enforcement actions against major quick-commerce and e-commerce platforms.",
+      "headline": "World's Largest Copper Mine Halts Operations",
+      "whyItMatters": "Threatens global copper supply chains following a fatal workplace incident.",
+      "brief": "Operations at the world's largest copper mine have been completely suspended following the tragic death of a worker on site.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/fssai-initiates-action-against-amazon-swiggy-instamart-bigbasket-flipkart-india-over-alleged-violations/articleshow/134444985.cms",
-      "dateLocation": "2026-09-23 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzZxbW8tVVUwZUp4SDI3elhNeEJWUGNvV09EaldxRDl0VzRFRFFNUk5JVWdCZkpraW50QmNlRTFEbDl2VGY4MGszZXdRM2UxcFNiekNycHB2WEMzYzAxc3JCZG1KUk5MRF9SSnZwRzZ5ZW1Icm5hbzZKdW45MF9Xcmk3VWNrNXhWb3NKY0wxb0haaE0?oc=5",
+      "dateLocation": "September 24, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cyclone Red Alert Issued for Coast",
-      "whyItMatters": "Threatens regional safety, infrastructure, and harvests across eastern coastal districts.",
-      "brief": "A deep depression nearing the Andhra-Odisha coast has prompted red alerts and extensive school closures.",
+      "headline": "US Business Activity Hits Five-Year High",
+      "whyItMatters": "Highlights economic resilience while stoking concerns over building inflation pressures.",
+      "brief": "Domestic business activity in the United States reached a more than five-year high, though data shows growing inflationary risks.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc19nQ3NuN0drQVpfdkdyMmt3UjJSQ0xHODV5UFdYSjlvUXpNdFI0eHo5MEpMemJuUHBCaU9yQ09qVXlka0RxeEF5WW05MmhNYzVZTmM4ZXVrTVJTTmJ2Z3gxZE9BcWcwM2cyWXlZMVNtTlM3YzBTWTJzMGJZcjgwbWJ3bzlZVFktSnNGeEdGNGxETDVZVUgwVml0S2M3M3QtSHp4UTJYV1dnOXd0ZkNWRTV2bnY4YklOM2FJ?oc=5",
+      "dateLocation": "September 24, 2026 | Washington / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nine Killed in Expressway Bus Fire",
+      "whyItMatters": "Highlights critical highway safety and vehicle regulatory enforcement issues in India.",
+      "brief": "At least nine passengers died when a double-decker sleeper bus caught fire on the Yamuna Expressway near Noida late at night.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/cyclone-live-tracking-deep-depression-near-andhra-odisha-coast-imd-issues-red-alert-is-there-a-holiday-tomorrow-11790182953250.html",
-      "dateLocation": "2026-09-23 | LiveMint",
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/noida-bus-fire-accident-death-toll-updates/article71502592.ece",
+      "dateLocation": "September 24, 2026 | Noida, India / The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Jaishankar Raises US Russia Sanctions",
-      "whyItMatters": "Navigates critical diplomatic friction over secondary sanctions impacting energy trade.",
-      "brief": "External Affairs Minister Jaishankar raised India's concerns regarding US secondary Russia sanctions during UNGA talks.",
+      "headline": "Election Commission Faces Severe Opposition Flak",
+      "whyItMatters": "Deepens political polarization over the integrity of national democratic institutions.",
+      "brief": "Opposition parties have demanded the removal of the Chief Election Commissioner following reports of widespread internal dissent among commissioners.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/jaishankar-raises-india-s-concerns-over-us-russia-sanctions-law-with-rubio-at-unga-11790183917138.html",
-      "dateLocation": "2026-09-23 | LiveMint",
+      "sourceUrl": "https://www.thehindu.com/news/national/election-commission-dissent-sparks-opposition-call-for-cec-gyanesh-kumars-removal/article71498434.ece",
+      "dateLocation": "September 24, 2026 | New Delhi / The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IPL 2027 Auction Scheduled in Goa",
-      "whyItMatters": "Sets the strategic timeline for team building ahead of the upcoming cricket season.",
-      "brief": "The IPL 2027 player auction is officially scheduled to take place in Goa in mid-December.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/ipl-2027-auction-in-goa-in-mid-december/article71501519.ece",
-      "dateLocation": "2026-09-23 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "CDC Confirms Measles-Related Death",
-      "whyItMatters": "Underscores ongoing public health risks surrounding vaccine-preventable outbreaks.",
-      "brief": "Federal health officials have confirmed a fatality linked to measles following an outbreak in Pennsylvania.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/cdc-recognizes-measles-death-after-pennsylvania-conflict-11790192578526.html",
-      "dateLocation": "2026-09-23 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump-Xi Summit Schedule Unveiled",
-      "whyItMatters": "Crucial meeting expected to shape global trade relations, tariffs, and technology policies.",
-      "brief": "Chinese President Xi Jinping's upcoming three-day US state visit will feature high-level discussions with Donald Trump.",
+      "headline": "Ukraine Transfers North Korean Prisoners",
+      "whyItMatters": "Complicates geopolitical dynamics involving Korean Peninsula actors in the European conflict.",
+      "brief": "Ukrainian President Zelenskyy confirmed that two captured North Korean soldiers have been transferred directly to South Korea.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trumpxi-summit-itinerary-full-schedule-of-chinese-president-s-3-day-us-state-visit-from-sept-2325-11790186865493.html",
-      "dateLocation": "2026-09-23 | LiveMint",
+      "sourceUrl": "https://www.thehindu.com/news/international/ukraine-sent-two-captured-north-korean-soldiers-to-south-korea-zelenskyy-says/article71502551.ece",
+      "dateLocation": "September 24, 2026 | Kyiv / The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Judicial Split Over ECI Selection Panel",
-      "whyItMatters": "Sparks intense debate regarding institutional independence and constitutional appointment frameworks.",
-      "brief": "A Supreme Court split verdict highlighted growing institutional concerns over ministerial inclusion in election commissioner panels.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/minister-in-cec-ec-selection-panel-fails-perception-test-says-justice-datta-in-split-verdict/article71499280.ece",
-      "dateLocation": "2026-09-23 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Apple Opens Massive Siri Settlement Claims",
+      "whyItMatters": "Impacts millions of iPhone users seeking compensation for delayed features.",
+      "brief": "Apple has launched a claims process for its $250 million settlement over delayed Apple Intelligence rollouts, offering payouts up to $95.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/apple-siri-settlement-iphone-15-pro-iphone-16-owners-can-now-claim-up-to-95-heres-how-to-file/articleshow/134449291.cms",
+      "dateLocation": "September 24, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "GCCs to Trim Routine Roles for Tech Shifts",
+      "whyItMatters": "Reflects the shifting nature of tech employment in global capability centers.",
+      "brief": "Global capability centers in India are projected to cut thousands of routine roles while massively scaling up specialized tech positions.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/gccs-may-trim-30000-routine-roles-to-fire-up-1-5-lakh-tech-role-explosion/articleshow/134442927.cms",
+      "dateLocation": "September 24, 2026 | Bangalore / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Strikes Ten Sites in Afghanistan",
+      "whyItMatters": "Heightens cross-border tensions between neighboring South Asian states.",
+      "brief": "Pakistan military forces launched airstrikes targeting ten separate sites inside Afghanistan allegedly linked to recent cross-border drone incursions.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-says-it-struck-10-sites-in-afghanistan-linked-to-drone-incursions/articleshow/134449196.cms",
+      "dateLocation": "September 24, 2026 | Islamabad / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Open Chess Team Eyes Medals",
+      "whyItMatters": "Highlights India's continuing dominance in global competitive chess tournaments.",
+      "brief": "India's open chess team secured a crucial victory against England to stay firmly in contention for a Chess Olympiad medal.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-7-indias-chances-of-gold-get-bleaker-despite-win-in-open-women-still-in-hunt/articleshow/134449255.cms",
+      "dateLocation": "September 24, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Geely Launches Rapid EV Charging Tech",
+      "whyItMatters": "Intensifies technological competition within the global electric vehicle market.",
+      "brief": "Chinese automaker Geely has unveiled four-minute EV charging capabilities and advanced AI integration to counter rivals like BYD.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUY1bFM0SUViWjFuZmJsbFMyeDJTOWdnMEg1dTMzMWg4TjEzOHJlRUZHWUtHY2RTTHRoT2g2ajBoaHA2VE5JSDBELU4wYkNtYXRMeFB6M2RiYTRGUTk1QzBVNzFSYjVISE5xSW1rX3hQSXBCaFNnS21kSHJYUkNiZ2MxdC1LX1U5Y3lrWE5McmstbERpem5qTkRRQno1VkNjMmRDTE1RVjVhQQ?oc=5",
+      "dateLocation": "September 24, 2026 | Beijing / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
