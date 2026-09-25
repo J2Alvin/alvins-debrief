@@ -1,147 +1,138 @@
 {
-  "lastUpdated": "2026-09-25T11:05:09.571Z",
+  "lastUpdated": "2026-09-25T16:28:35.205Z",
   "ticker": [
-    "Akamai signs $11.6B cloud deal with Anthropic",
-    "Amazon bets $3B on India delivery boom",
-    "Nepal seeks grants over loans for glacier floods",
-    "Pakistan thwarts border attack, Taliban casualties reported",
-    "US weighs 90-day diesel export ban"
+    "India cracks down on nicotine pouches over health risks",
+    "US proposes new trilateral peace talks with Russia and Ukraine in UAE",
+    "Mumbai prime home prices surge into global top 10",
+    "MHA declares majority of Manipur as disturbed area under AFSPA",
+    "Tata dispute triggers urgent push to bolster shareholder rights"
   ],
   "articles": [
     {
-      "headline": "Nepal Demands Grants Over Loans for Flood Recovery",
-      "whyItMatters": "Highlights developing nations' debt distress during climate disasters.",
-      "brief": "Following a deadly glacier disaster, Nepal is urging international partners to provide grants rather than loans to fund its extensive flood recovery efforts, aiming to avoid compounding national debt.",
+      "headline": "Tata Dispute Forces Scramble for Shareholder Rights",
+      "whyItMatters": "Protects investor interests and reshapes corporate governance standards across India Inc.",
+      "brief": "The ongoing Tata dispute has prompted Indian companies to urgently shore up shareholder protections and governance rules.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUJuanJnZG52NkJSMkVyRFZWQXJqX2JsSlZpMENIdFdlVEdYZlZrNGVzcVJvcWNKR0ZDcnExM3BvdjRQSHdEcVNDTDFxc0hPQ1JRWHdnY2dkZXdZOTFCVEFQVnYzX0hQaGtMQ01CXzJNT2ZxcVhwb042bjZhRWJkdy05bjdZZGZiWGo4RWxScGJsMDRnS3E0ZWNjaUFzQ0Jlek9LV01nQkU5T0h3T0otRFZscFNoZw?oc=5",
+      "dateLocation": "2026-09-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Orders Crackdown on Nicotine Pouches",
+      "brief": "Citing severe health risks, Indian authorities have initiated a major crackdown on nicotine pouch products.",
+      "whyItMatters": "Signals stricter regulatory enforcement on emerging tobacco-free nicotine alternatives nationwide.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGNCOFNpMU5yN2RXc3pvU1BjbE1OUTVGQlB1bE9mVmRhZEFTV0YyRXY0VnhELVFGWTRiV1d3Y2NOMDVKU0N6Nk1jVHRtV3BnVDVRdHRtWjJCdHd3MzZVUGs1djRfOTdBRFlVZ3hZSWZUeVg2YUhTM3VLSzdqX2ZSclJRYUpkVjB2eE1TdFppRkZuaU1uMEFfZGNRa0ZsQWd3LVNTdldnd182N1pWXy1mTS12MmNUN1d2dW5kMmprRy1raUhOb0pTZG1XUWYybVZwUHpDdm5yektCT0tH?oc=5",
+      "dateLocation": "2026-09-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Considers Mandatory Imported Coal Blending",
+      "brief": "Sources reveal India is weighing mandatory blending requirements for imported coal at domestic power plants.",
+      "whyItMatters": "Aims to stabilize domestic power generation and manage growing energy supply demands.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ01yWDh2Z2lHU1ZKSF96WFcwSXpGV3hUWmRaa1R2OTdvZ1RYY2ZqUk1TSFNlbm45MTI3b0N6ZWdHTl9vU1lkbENUTzZhZXhEYUFXT2lvVmg0WnRDczBTQkVOZXdwNkFOMzBxZE0tRUJqWUlwM1QwM0VyS25HeVJqVG9hNHJmV0pjUmw5aS1kU1BkZ3RtZVBqYWtmdDJfYzZ2MHplUW5WSU14MzQ3OWpSX2hQaDRTWVBtX0QtSUJrYw?oc=5",
+      "dateLocation": "2026-09-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal Seeks Grants Following Deadly Glacier Disaster",
+      "brief": "Following devastating floods from a glacier disaster, Nepal is appealing for direct grants instead of loans.",
+      "whyItMatters": "Highlights vulnerable nation debt burdens during climate-induced natural catastrophes.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHE1NGJaNTRyMGRVX2FzbU53SVBlU0pmaUc5ZWFLQmI5d0hWa1NwNm4wOVNOaWxDVDZfbW56Vi1wb2xHbnRtaE9GRXJ1Nm9SeUs1QmFGSUxqTk1jSGs3Y3g1MUYxemtzdWRFT1dNSjJiNnRqVk85U3YtWGFoYmFVTmxYQVBCVjFndk5LUEFYWGpFeHRuUGIwWFFjNTFSSFVBS0NWNkVQWllWNmdhdTdzYVhsZTBpWlozVDBObmlSb0Y5Ql8xTXBySEtn?oc=5",
       "dateLocation": "2026-09-25 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Allies Back Saudi Arabia Amid Escalating Houthi Attacks",
-      "whyItMatters": "Underscores regional security alliances and Middle East stability risks.",
-      "brief": "International allies have rallied behind Saudi Arabia following an intensification of Houthi attacks, with senior religious figures urging military readiness to protect national sovereignty.",
+      "headline": "US Proposes Trilateral Peace Talks in UAE",
+      "brief": "Ukrainian President Zelenskyy confirmed US proposals for new trilateral peace negotiations with Russia in the UAE.",
+      "whyItMatters": "Represents a fresh international diplomatic push to restart stalled conflict resolution dialogues.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSktoVFV5TmFoZFFlNGJOdHNQbl9ZNWVfOFVvRTN2UXpLMlBhSnZ6ZVZLdFNlRU5CR3RjaHYxWDJRclcyb1lrVzh1WG83MWtmcjRyVnpRdTZIcTdtY01WRlFaVXZ5aWFBSXgzdk9LdzZNdmlQWHJlUmJuci1TSFI1bWRtYXJwYWdEYjBVMHJlVnpYbndpR1lQbllKNkphM0t1SmhXaXNYQmVncDFVOHFJ?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/world/us-proposes-new-trilateral-peace-talks-with-russia-and-ukraine-in-uae-zelensky-11790345229479.html",
+      "dateLocation": "2026-09-25 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Amazon Invests $3 Billion in India Delivery Expansion",
-      "whyItMatters": "Signals major retail competition and logistics growth in South Asia.",
-      "brief": "Amazon is committing $3 billion to capture India's booming fast-delivery market, aggressively scaling up its infrastructure to outpace regional competitors.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXNMYm55TUd3bF9ScEMyTHVxZ2ZzRnVDTmZXZk5YaTdoZlVCNXhVd3NZVFZTb0c0ekJHNHpZcm83QkFoX2xxNHdndEoxU3BrVFlIVGN3TFlaTzB6RTJuREhCYmpIcTZhU01SWko3cFJjbHlxdVJrd2VfOU50MkNFSG9VRUdHSnVvNXdsNmgzeldMcF84UzZCTkQ1X2NybW1ySTUzMEZ4UHBnODcxLWdIeGx4OTBReDB4LUJCaA?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Akamai Partners With Anthropic in $11.6B Cloud Deal",
-      "whyItMatters": "Represents one of the largest infrastructure commitments in AI expansion.",
-      "brief": "Akamai has secured an $11.6 billion cloud agreement with Anthropic, which includes granting warrants for up to a 5% stake in the cloud provider.",
+      "headline": "Gartner Predicts 10 Billion AI Agents by 2030",
+      "brief": "A new Gartner report projects over 10 billion autonomous AI agents redefining public services by 2030.",
+      "whyItMatters": "Marks a massive structural shift toward automation and embodied physical AI systems globally.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/business/over-10-bn-autonomous-agents-to-clog-public-services-by-2030-gartner/article71508999.ece",
+      "dateLocation": "2026-09-25 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Evaluates 90-Day Diesel Export Ban Amid Tight Supply",
-      "whyItMatters": "Could disrupt global fuel markets and increase domestic inventory pressure.",
-      "brief": "The United States is considering a temporary ban on diesel exports to lower domestic prices as global supply chains face strains from reduced Russian shipments.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/world/us-weighs-diesel-export-ban-india-ramps-up-shipments-as-russia-supply-falters-can-it-sustain-this-11790312619286.html",
+      "headline": "Manipur Declared Disturbed Area Under AFSPA",
+      "brief": "The Ministry of Home Affairs has classified the majority of Manipur as a disturbed area under AFSPA.",
+      "whyItMatters": "Extends special military powers and armed forces oversight across the volatile region.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/manipur-mha-declares-majority-of-state-as-disturbed-area-under-afspa-for-6-month-from-october-1-what-does-it-mean-11790341459663.html",
       "dateLocation": "2026-09-25 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi HC Orders Removal of AI-Morphed Images",
+      "brief": "The Delhi High Court directed Meta to remove AI-doctored images of a woman with the Prime Minister.",
+      "whyItMatters": "Addresses growing judicial concerns regarding deepfakes and rapid dissemination of manipulated media.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-hc-issues-notices-to-cjp-activists-over-ai-morphed-images-of-woman-with-pm-orders-meta-to-remove-them-in-24-hours-11790339236599.html",
+      "dateLocation": "2026-09-25 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Protests Spread Across India Against Election Commission",
+      "brief": "Opposition parties launched widespread protests demanding accountability and resignations over election commission rows.",
+      "whyItMatters": "Escalates political friction between opposition groups and electoral oversight authorities.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/gyanesh-kumar-cec-controversy-sir-congress-protests-against-eci-spread-across-india-marches-in-delhi-chandigarh-lucknow-guwahati-rahul-gandhi-cjp/articleshow/134478607.cms",
+      "dateLocation": "2026-09-25 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mumbai Prime Home Prices Enter Global Top 10",
+      "brief": "Mumbai luxury residential prices surged 6.2%, securing the eighth spot in global prime property markets.",
+      "whyItMatters": "Reflects strong high-end domestic demand and resilience in India's top real estate sector.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/real-estate/news/mumbai-prime-home-prices-rise-6-2-enter-global-top-10/articleshow/134487236.cms",
+      "dateLocation": "2026-09-25 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Supreme Court Rules on Michigan Property Tax Case",
+      "brief": "The Supreme Court ruled that tax sale compensations must reflect fair market auction prices.",
+      "whyItMatters": "Strengthens constitutional property protections for citizens facing extreme local tax foreclosures.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/a-michigan-family-lost-a-home-assessed-at-194400-over-a-disputed-2242-property-tax-bill-the-county-sold-it-for-76008-the-buyer-resold-it-for-195000-and-the-supreme-court-vacated-the-lower-ruling-in-2026/articleshow/134487034.cms",
+      "dateLocation": "2026-09-25 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PB Fintech Faces Major Risk Under IRDAI Proposals",
+      "brief": "New regulatory proposals from IRDAI threaten massive financial headwinds for insurance aggregator PB Fintech.",
+      "whyItMatters": "Could disrupt online insurance distribution models and compliance structures across India.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/insure/pb-fintech-a-record-debut-in-2021-a-record-31400-crore-wipeout-and-now-the-biggest-storm-the-gurugram-co-can-face-after-irdai-rules-proposal/articleshow/134478983.cms",
+      "dateLocation": "2026-09-25 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Heads for Weekly Loss on Rate Hike Expectations",
-      "whyItMatters": "Reflects shifting macroeconomic sentiment surrounding central bank policies.",
-      "brief": "Gold prices are tracking toward a weekly decline as growing expectations of further Federal Reserve interest rate hikes dampen safe-haven demand.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Government Disburses Rs 36,754 Cr Under PLI Schemes",
-      "whyItMatters": "Demonstrates state backing for domestic manufacturing and industrial growth.",
-      "brief": "India has disbursed nearly Rs 37,000 crore under various Production Linked Incentive schemes to boost domestic manufacturing capacity and exports.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/govt-disburses-rs-36754-cr-under-pli-schemes-as-on-june-30/articleshow/134481741.cms",
-      "dateLocation": "2026-09-25 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Contemplates Mandatory Blending of Imported Coal",
-      "whyItMatters": "Aims to stabilize power generation fuel stocks amidst domestic shortages.",
-      "brief": "Indian authorities are evaluating proposals to mandate power plants to blend a specific proportion of imported coal to maintain reliable electricity generation.",
+      "headline": "IMD Issues Red Alerts for Heavy Uttarakhand Rains",
+      "brief": "The Meteorological Department issued red and orange rainfall alerts across multiple Uttarakhand districts.",
+      "whyItMatters": "Prompts emergency disaster preparedness ahead of predicted severe landslides and floods.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ01yWDh2Z2lHU1ZKSF96WFcwSXpGV3hUWmRaa1R2OTdvZ1RYY2ZqUk1TSFNlbm45MTI3b0N6ZWdHTl9vU1lkbENUTzZhZXhEYUFXT2lvVmg0WnRDczBTQkVOZXdwNkFOMzBxZE0tRUJqWUlwM1QwM0VyS25HeVJqVG9hNHjV0lkbENUTzZhZXhEYUFXT2lvVmg0WnRDczBTQkVOZXdwNkFOMzBxZE0tRUJqWUlwM1QwM0VyS25HeVJqVG9hNHJVbjpYQmVncDFVOHFJ?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/india/uttarakhand-weather-forecast-imd-issues-red-orange-yellow-alerts-across-13-districts-on-sep-26-27-cm-dhami-rea-11790347136838.html",
+      "dateLocation": "2026-09-25 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Researchers Document First Caspian Cobra Deaths in India",
-      "whyItMatters": "Highlights emerging epidemiological threats and rare wildlife encounters.",
-      "brief": "Medical researchers in Himachal Pradesh have documented the first confirmed human fatalities caused by the Central Asian cobra within India.",
+      "headline": "Nor'easter Threatens US East Coast With 60 MPH Winds",
+      "brief": "A powerful Nor'easter storm is bearing down on the US East Coast, threatening coastal flooding and outages.",
+      "whyItMatters": "Disrupts regional transport infrastructure and heightens coastal storm surge alerts from Boston to New York.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/himachal-pradesh/researchers-document-first-human-deaths-by-caspian-cobra-in-india/article71508064.ece",
-      "dateLocation": "2026-09-25 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/us-news/noreaster-to-hit-us-east-coast-with-60-mph-winds-flooding-rain-boston-new-york-on-alert-11790341524745.html",
+      "dateLocation": "2026-09-25 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Authorities Uncover $500M Fake Covid Testing Fraud",
-      "whyItMatters": "Exposes large-scale exploitation of pandemic-era healthcare programs.",
-      "brief": "Prosecutors revealed that insurance data from free online COVID-19 tests was fraudulently used to bill government-backed healthcare programs for over half a billion dollars.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/americans-ordered-what-were-advertised-as-no-cost-covid-tests-online-prosecutors-say-their-insurance-information-was-then-used-to-bill-more-than-500-million-for-services-that-were-never-provided/articleshow/134480199.cms",
-      "dateLocation": "2026-09-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Opposition Protests Erupt Over Election Commission Row",
-      "whyItMatters": "Deepens political polarization and questions institutional credibility.",
-      "brief": "Protests broke out across multiple cities as opposition leaders demanded the removal of the Chief Election Commissioner following allegations of internal dissent.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/election-commission-row-live-ec-faces-fresh-credibility-crisis-amid-new-allegations-against-cec/article71507022.ece",
-      "dateLocation": "2026-09-25 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "J&K Assembly Sinks Into Chaos Over Statehood Resolution",
-      "whyItMatters": "Illustrates ongoing legislative friction regarding regional autonomy and status.",
-      "brief": "BJP lawmakers tore up a statehood resolution moved by Chief Minister Omar Abdullah, triggering intense disruptions within the Jammu and Kashmir assembly.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-never-tolerate-bjp-rejects-omars-jk-statehood-resolution-flags-article-370/articleshow/134482183.cms",
-      "dateLocation": "2026-09-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Joshna Chinappa Secures Historic Sixth Asian Games Medal",
-      "whyItMatters": "Cements her legacy as one of India's most decorated squash players.",
-      "brief": "Squash veteran Joshna Chinappa secured her sixth Asian Games medal alongside teammate Velavan Senthilkumar, advancing to the mixed doubles semifinals.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-joshna-chinappa-makes-history-with-sixth-medal-anahat-abhay-storm-into-semis-as-india-assure-three-squash-medals/articleshow/134478695.cms",
-      "dateLocation": "2026-09-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Scaloni Reflects on Efforts to Bring Messi Back",
-      "whyItMatters": "Captures the end of an era for Argentine international football.",
-      "brief": "Manager Lionel Scaloni admitted he exhausted all diplomatic options trying to convince Lionel Messi to play one final farewell match for Argentina.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1hsUzlVdy1FMDJsNk9sVDFxcURxT2ZSc2ZWZWNuQVh1eG1Bc3o5d282Z3NzbWhRZEVpOGVOTUNaNE1jUk5YN1gxc2VMNDJrakEtYU4xeG1WUDY2dGo2cXF4REFTV0hZd3BocldFNjJxRzlnVlN5MWRZWW1OME5qb1pPTHhSblMyTnR6dU5VYk9SNXMycEE3b3pkQUw5T0JoWjdEMk45anFRV285RzI4UnFIZGgtUkdxWnVF?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "14 Kazakh Service Members Die in Naval Exercise",
-      "whyItMatters": "Tragic loss of military personnel sparks official negligence investigations.",
-      "brief": "Fourteen military personnel died during severe weather conditions in a naval exercise in Kazakhstan, prompting the detention of five defense officers for alleged negligence.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/14-kazakh-military-personnel-killed-during-naval-exercise-five-naval-officers-detained-over-negligence-suspicion/articleshow/134481976.cms",
-      "dateLocation": "2026-09-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
