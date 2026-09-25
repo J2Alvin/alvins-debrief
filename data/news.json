@@ -1,102 +1,138 @@
 {
-  "lastUpdated": "2026-09-24T21:06:52.443Z",
+  "lastUpdated": "2026-09-25T03:19:45.660Z",
   "ticker": [
-    "Amazon bets $3B on India delivery",
-    "Netanyahu rejects Gaza genocide charges",
-    "US and Iran discuss Strait reopening",
-    "Rahul Gandhi alleges election rigging",
-    "Airbus pitches Eurofighter to Portugal"
+    "Trump and Xi hold high-stakes White House summit",
+    "Iran offers to open nuclear program to inspectors",
+    "Cyclone Arnab triggers mass evacuations in Odisha",
+    "Amazon bets $3 billion on India's delivery boom",
+    "Akamai signs massive $11.6 billion cloud deal"
   ],
   "articles": [
     {
-      "headline": "Amazon Invests $3 Billion in India Fast-Delivery Sector",
-      "whyItMatters": "Significantly intensifies e-commerce competition within the rapidly growing Indian delivery market.",
-      "brief": "Amazon is committing $3 billion to capture India's booming fast-delivery sector, according to industry sources.",
+      "headline": "Trump and Xi hold White House summit on trade",
+      "whyItMatters": "Shapes global economic stability and superpower trade relations.",
+      "brief": "US President Donald Trump and Chinese leader Xi Jinping met at the White House, discussing key geopolitical disputes, artificial intelligence safety, and extending their trade truce by two months.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/lets-race-not-wrestle-5-takeaways-as-trump-xi-navigate-trade-taiwan-and-ai/articleshow/134473480.cms",
+      "dateLocation": "September 25, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran offers nuclear openness to avert US conflict",
+      "whyItMatters": "Could dramatically de-escalate major Middle East military tensions.",
+      "brief": "Iranian President Masoud Pezeshkian expressed willingness to revive a ceasefire and open his country's nuclear program to international inspectors, denying any ambitions to build a nuclear bomb.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/we-are-ready-iran-s-pezeshkian-challenges-trump-with-offer-to-open-nuclear-programme-to-inspectors-us-iran-war-11790299209910.html",
+      "dateLocation": "September 25, 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cyclone Arnab brings heavy rain and evacuations to Odisha",
+      "whyItMatters": "Threatens human life and critical infrastructure along India's eastern coastline.",
+      "brief": "Heavy rains lashed Odisha and Andhra Pradesh as Cyclone Arnab approached, prompting authorities to evacuate over 8,000 residents and issue red alerts due to severe gales.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/cyclone-arnab-heavy-rain-lashes-odisha-andhra-pradesh-red-alert-weather-live-updates-september-25-2026/article71506926.ece",
+      "dateLocation": "September 25, 2026 | Bhubaneswar",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Amazon invests $3 billion in Indian fast-delivery sector",
+      "whyItMatters": "Intensifies hyper-competitive e-commerce logistics and quick-commerce market battles in South Asia.",
+      "brief": "E-commerce giant Amazon is reportedly committing $3 billion to capture India's exploding fast-delivery boom, aiming to dominate rapid urban fulfillment networks.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXNMYm55TUd3bF9ScEMyTHVxZ2ZzRnVDTmZXZk5YaTdoZlVCNXhVd3NZVFZTb0c0ekJHNHpZcm83QkFoX2xxNHdndEoxU3BrVFlIVGN3TFlaTzB6RTJuREhCYmpIcTZhU01SWko3cFJjbHlxdVJrd2VfOU50MkNFSG9VRUdHSnVvNXdsNmgzeldMcF84UzZCTkQ1X2NybW1ySTUzMEZ4UHBnODcxLWdIeGx4OTBReDB4LUJCaA?oc=5",
-      "dateLocation": "2026-09-24 | Reuters",
+      "dateLocation": "September 25, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Targets Junk Food Sales Near School Perimeters",
-      "whyItMatters": "Addresses growing childhood health concerns through strict regulatory oversight near educational institutions.",
-      "brief": "Indian authorities are cracking down on vendors selling junk food near schools to promote better student health.",
+      "headline": "Akamai signs $11.6 billion cloud deal with Anthropic",
+      "whyItMatters": "Marks one of the largest infrastructure commitments supporting next-generation AI platforms.",
+      "brief": "Akamai has entered an $11.6 billion cloud infrastructure partnership with AI developer Anthropic, which includes issuing a warrant for up to a 5% corporate stake.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5",
+      "dateLocation": "September 25, 2026 | Boston",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India cracks down on junk food vendors near schools",
+      "whyItMatters": "Seeks to curb childhood obesity and improve public health standards nationwide.",
+      "brief": "Regulatory bodies in India have launched an aggressive campaign to restrict the sale of unhealthy junk food items at shops located in close proximity to schools.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzk2TXMtckIyeWxoSHpXTUJvZk55NzhxdkRxc29HaFFKbFFTdTF2WUFOTHNtbVVTMEpvZnZ2WGctalpVeGdodERIYjVWcWdRNjBRYVhSMWRyUGxNOWduclVJWmp3QVUwNEQxclgzbHdhS1Zud1dyUlNHNXF1U0dmNnc0alh3ZURHM3pOS3RpaG4tMVYwaXNUamlnXzNDQi0tN3lwN29n?oc=5",
-      "dateLocation": "2026-09-24 | Reuters",
+      "dateLocation": "September 25, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Airbus Pitches Eurofighter Jets to Portugal",
-      "whyItMatters": "Aims to secure a major European defense contract replacing aging F-16 fighter fleets.",
-      "brief": "Airbus has formally offered the Eurofighter as the optimal replacement for Portugal's current F-16 fighter jet fleet.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFlha3JRam02N2pjTlF6d0IxcEdFaXBHLVpJNTZFU1RlUXk3Sy0xY2FfUzNQVE9fWGNhT1pCakR0dkZwcW4xWm1KOEJWUXQ2bmRqOGJKeUNwQktYUU9wdnRSWFEtbHhKUmFLV0RCQllzX0g4M0x3RHYteG9OdEVjcEZqVGVoRGVnSlB1ZXR1b1NvQkhUbFBRaXp2U3BrQnJ5cFl5aU1UeWxSR1dZZS05aG1kSXFUbEd4eVBpRko0NDhLWk0?oc=5",
-      "dateLocation": "2026-09-24 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Djibouti, Ethiopia, and Dangote Plan Petroleum Pipeline",
-      "whyItMatters": "Enhances regional energy infrastructure and trade connectivity across East African nations.",
-      "brief": "Partners are collaborating on a $660 million petroleum pipeline connecting Djibouti, Ethiopia, and industrial interests.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlUzTmsxaHNJczF6T1NOTVpjSHZmcFFYZHBvRkhxM2l3eEd5ZUNLaGdhekdIUHZiVV9Kc3JsZ1B1MW14QU4xQUIzVURldkczNFAzeHVNRDJ3TUJuQklicGhtbUdDXy1BTlpZNGV5dHRwdkwxb2p1VUFuS3VyLWxEX3o5Q2hsSHRjTDhHN3RIRWhUOW5rbEFiVWlqakI5aHR4RWROeE5WSnZybEJBbmt4OVhILUxSNUFaZDRn?oc=5",
-      "dateLocation": "2026-09-24 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Qualcomm and Apple Extend Global Patent Licensing Pact",
-      "whyItMatters": "Secures long-term stability in mobile chip technology partnerships between the tech giants.",
-      "brief": "Qualcomm has successfully secured an extension to its global patent licensing agreement with tech giant Apple.",
+      "headline": "Oracle triggers force majeure over data center power delays",
+      "whyItMatters": "Highlights emerging power grid bottlenecks threatening global data center expansion.",
+      "brief": "Oracle has invoked force majeure on a major data center development project due to unexpected regional electrical power delivery delays from utility providers.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
-      "dateLocation": "2026-09-24 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWZqSDVjdjZZaURFZ3VZNzlrRzdIZzE1MDRPNkNlQjRsbmlzLWdzUTRqTEFVdnNCS1czRkNrbVZTbzFHa1B2Nm51ZWRKSUUxMm41M05DWWw5WlQwZWhsR0duLVMzS1lXekZ1enFyS0VpcHRUTTduUVZtVnhXRDZRTVpHN0ZfUnhjUVVCbkNMeTAtZHdmOVpwUXpyZDNDY00zRVVyM1dyVG5fMTJ6RzE5XzBFTHU2YTNtMDdmdjh3?oc=5",
+      "dateLocation": "September 25, 2026 | Austin",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Netanyahu Denies Gaza Genocide Accusations at UN",
-      "whyItMatters": "Underscores intensifying diplomatic friction and polarization at the United Nations General Assembly.",
-      "brief": "Israeli Prime Minister Benjamin Netanyahu sharply dismissed allegations of genocide in Gaza as a historic falsehood.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/israels-netanyahu-at-un-calls-accusations-of-genocide-in-gaza-the-biggest-lie-of-the-century/article71505769.ece",
-      "dateLocation": "2026-09-24 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US and Iran Discuss Phased Strait of Hormuz Deal",
-      "whyItMatters": "Could de-escalate Middle Eastern tensions and restore critical global shipping lane access.",
-      "brief": "Negotiators from Washington and Tehran are reportedly exploring a phased arrangement to reopen the strategic Strait of Hormuz.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/usiran-war-will-strait-of-hormuz-reopen-and-blockade-end-both-nations-discuss-phased-deal-says-report-11790271850746.html",
-      "dateLocation": "2026-09-24 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New York Files Lawsuit Against Prediction Market Polymarket",
-      "whyItMatters": "Represents a major regulatory crackdown on unregulated online prediction platforms and betting services.",
-      "brief": "New York Attorney General Letitia James has sued Polymarket for allegedly violating state gambling laws and operating unlicensed services.",
+      "headline": "Reliance to raise Rs 10,000 crore amid surplus liquidity",
+      "whyItMatters": "Reflects heavy corporate capital raising strategies capitalizing on domestic banking liquidity.",
+      "brief": "Conglomerate Reliance Industries is moving forward to raise Rs 10,000 crore next week as major Indian corporations leverage high surplus banking liquidity.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/us-news/new-york-vs-polymarket-why-is-the-prediction-platform-facing-legal-action-and-what-did-it-say-explained-11790267790896.html",
-      "dateLocation": "2026-09-24 | LiveMint",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/reliance-to-raise-rs-10000-crore-next-week-as-companies-rush-to-tap-surplus-bank-liquidity/articleshow/134468414.cms",
+      "dateLocation": "September 25, 2026 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rahul Gandhi Alleges Systematic Rigging in Indian Elections",
-      "whyItMatters": "Escalates political confrontation between the opposition and the ruling government over electoral integrity.",
-      "brief": "Congress leader Rahul Gandhi has accused the Election Commission and government of severe electoral manipulation and rigging.",
+      "headline": "IRDAI commission overhaul threatens insurtech business models",
+      "whyItMatters": "Restructures compensation dynamics for modern tech-driven insurance platforms and banks.",
+      "brief": "Recent regulatory changes to insurance commissions by IRDAI are projected to exert considerable pressure on the operating economics of new-age insurtech startups and financial distributors.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/irdais-commission-reset-may-pressure-economics-for-new-age-insurers-banks-nbfcs/articleshow/134467143.cms",
+      "dateLocation": "September 25, 2026 | Bengaluru",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian kabaddi teams eye final berths at Asian Games",
+      "whyItMatters": "Highlights national athletic ambitions in prestigious international multi-sport competitions.",
+      "brief": "India's men's and women's kabaddi teams advanced deep into the Asian Games tournament, preparing for crucial matches against Thailand and Nepal to secure gold-medal game berths.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-25-2026/article71505977.ece",
+      "dateLocation": "September 25, 2026 | Nagoya",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian election panel faces ultimatums amid political protests",
+      "whyItMatters": "Tests the institutional autonomy and stability of vital democratic election watchdogs.",
+      "brief": "A political faction in India has threatened widespread street protests if the chief of the election panel does not resign within a 48-hour window.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/all-elections-rigged-laws-illegal-rahul-gandhi-attacks-centre-over-ec-sir-row-bjp-calls-it-jooth-ki-goonj/articleshow/134464189.cms",
-      "dateLocation": "2026-09-24 | Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVZzUi1NT0tFZTZsVFVNTUFBalB6RUNHWS1uYmNKRGVua3ZCbUVFS0kybUdXSlhsZlIxMkNOV0w2eEZlY29BMHNfV2RVUHV2ZHhZc2dJMmpQWnZaeU9oQlV2ZGIybmgwQ1RrT0E2dGVfdHFLR0ZGbHROQ0MzMHJDSUR4dVhKUDMzZjlmZzVDZ20zZHNzQUhLN0ZMcUJUUUN1U3JUbFVRSXFKVU96dHdib3VqajB3UFM4RUstejh2Tm5qak0?oc=5",
+      "dateLocation": "September 25, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Homegrown AI Combat Aircraft Hits 100-Hour Milestone",
-      "whyItMatters": "Marks a significant technological leap forward for domestic defense manufacturing capabilities.",
-      "brief": "India's advanced AI-powered combat aircraft successfully completed 100 hours of rigorous flight testing.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/indias-homegrown-ai-powered-combat-aircraft-hits-100-hour-flight-test-milestone/articleshow/134469752.cms",
-      "dateLocation": "2026-09-24 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Government plans Rs 20,000 crore fund for frontier AI",
+      "whyItMatters": "Aims to establish national sovereign compute capacity and advance domestic artificial intelligence.",
+      "brief": "The Indian government is formulating a Rs 20,000 crore funding initiative designed to bolster local frontier AI research, compute infrastructure, and startup ecosystems.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/govt-eyes-rs-20000-crore-fund-to-power-up-frontier-ai-and-compute-ecosystem/articleshow/134466929.cms",
+      "dateLocation": "September 25, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global oil prices slip on hopes of Middle East truce",
+      "whyItMatters": "Fluctuates international energy markets and impacts worldwide inflationary pressures.",
+      "brief": "Crude oil benchmarks retreated by roughly 1% as traders weighed potential diplomatic ceasefires against recent militant attacks targeting key Saudi Arabian energy pipelines.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-1-as-traders-hope-for-us-iran-truce-amid-fresh-attacks-on-saudi-pipeline/articleshow/134472895.cms",
+      "dateLocation": "September 25, 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "CBI arrests key accused in Mahadev betting app scam",
+      "whyItMatters": "Brings high-profile cybercrime fugitives back to face trial for massive financial fraud.",
+      "brief": "Following a deportation from the United Arab Emirates, the Central Bureau of Investigation arrested a key mastermind linked to the massive Rs 94,000 crore Mahadev betting scam.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dubai-based-scammers-looted-rs-94000cr-cbi-arrests-mahadev-app-key-accused-deported-from-uae/articleshow/134471944.cms",
+      "dateLocation": "September 25, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
