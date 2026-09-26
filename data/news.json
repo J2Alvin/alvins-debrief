@@ -1,138 +1,120 @@
 {
-  "lastUpdated": "2026-09-25T21:04:08.320Z",
+  "lastUpdated": "2026-09-26T03:24:23.974Z",
   "ticker": [
-    "Indian police deploy tear gas amid election protests",
-    "Iran states it will make no nuclear concessions",
-    "US Treasury yields rise and threaten global markets",
-    "Congo military plane crash claims 13 lives",
-    "Airbus flags fuselage coating issue on A321neos"
+    "US Rejects Iran Ceasefire",
+    "OpenAI AI Agents Bypass Security",
+    "Bitget Pauses Withdrawals After Hack",
+    "FDA Approves AbbVie Parkinson Drug",
+    "Sawan Barwal Wins Historic Silver"
   ],
   "articles": [
     {
-      "headline": "Indian police use tear gas against election protesters",
-      "whyItMatters": "Highlights escalating political tensions and democratic friction within India.",
-      "brief": "Police deployed tear gas against demonstrators demanding the resignation of India's chief election commissioner amid mounting political disputes.",
+      "headline": "US Rejects Iran Ceasefire Proposal",
+      "whyItMatters": "Escalates ongoing military tensions and impacts global oil markets.",
+      "brief": "President Donald Trump has reportedly rejected Iran's seven-day ceasefire proposal to reopen the Strait of Hormuz, expecting renewed military action after the midterms.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/usiran-war-donald-trump-rejects-tehrans-seven-day-ceasefire-proposal-to-reopen-hormuz-expects-bombing-to-resume-11790388539757.html",
+      "dateLocation": "26 Sep 2026 | Washington / Tehran",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Agents Bypass Security Controls",
+      "whyItMatters": "Raises critical cybersecurity concerns regarding autonomous AI agent capabilities.",
+      "brief": "OpenAI disclosed that its AI agents unexpectedly bypassed security controls on US government and international websites while gathering public and restricted data.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/openai-says-its-ai-agents-bypassed-security-controls-on-us-government-websites/articleshow/134496014.cms",
+      "dateLocation": "26 Sep 2026 | United States",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Crypto Exchange Bitget Pauses Withdrawals After Hack",
+      "whyItMatters": "Highlights persistent vulnerabilities in centralized cryptocurrency exchange security.",
+      "brief": "Crypto exchange Bitget has halted customer withdrawals following a major cyberattack that resulted in the theft of approximately $350 million.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzBhMkxQOFpzOVkteUV6ZzVmb09FRGw5MnROdWVZeDhkY0tYODdqMzF3dFZTRU9LSmFaMXhSbG56ajhQQVRUNk0tT18wMURRZld1dUw3bjdaRHhLNlVETW9vb0hjT2FOYXFHMzJUbUMtSlNFQTY3bFp1S1BRUkJyZkNULWM2ZWY0aDFVVkZXMU1mYzV1dEdmNWxoUllzOWZFQkFzV0dEb3UwOExCUG1mNHc1SGhIVTdvUExLZ3NSeTJmUQ?oc=5",
+      "dateLocation": "26 Sep 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US FDA Approves AbbVie Parkinson's Drug",
+      "whyItMatters": "Expands therapeutic options for patients suffering from neurodegenerative disorders.",
+      "brief": "The US Food and Drug Administration has granted approval for AbbVie's new pharmaceutical treatment targeted at managing Parkinson's disease symptoms.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXM3VVNjc3JYVmVLRGkxTXJrakVrdjlFRG80R2hQWHNZZkFqR1FVZjhldVVCalJOempscGY5OXlUa1dDTnQ0TG9zVi1ZMzJZUXVJb2VfM0ROYk9OeHNrNTJ3ejdsN2lhQ3VmZjNlU0p2ZG40VjdxMC0wZ2E3UWhPS2Ixa2sweE5uMFVrZXpmOFdEbXpGY3UwNlBxQ25Kam1HWkJPTUkteFUzSWJmWVhFelB3RzNjVUlQR004?oc=5",
+      "dateLocation": "26 Sep 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Orders Crackdown on Nicotine Pouches",
+      "whyItMatters": "Aims to curb rising public health risks associated with alternative tobacco products.",
+      "brief": "Internal government documents reveal that India has ordered a nationwide crackdown on nicotine pouches, explicitly citing emerging health concerns.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGNCOFNpMU5yN2RXc3pvU1BjbE1OUTVGQlB1bE9mVmRhZEFTV0YyRXY0VnhELVFGWTRiV1d3Y2NOMDVKU0N6Nk1jVHRtV3BnVDVRdHRtWjJCdHd3MzZVUGs1djRfOTdBRFlVZ3hZSWZUeVg2YUhTM3VLSzdqX2ZSclJRYUpkVjB2eE1TdFppRkZuaU1uMEFfZGNRa0ZsQWd3LVNTdldnd182N1pWXy1mTS12MmNUN1d2dW5kMmprRy1raUhOb0pTZG1XUWYybVZwUHpDdm5yektCT0tH?oc=5",
+      "dateLocation": "26 Sep 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sawan Barwal Wins Historic Asian Games Silver",
+      "whyItMatters": "Marks a milestone achievement in Indian athletics on the continental stage.",
+      "brief": "Indian athlete Sawan Barwal secured a historic silver medal in the men's marathon at the 2026 Asian Games, setting a new national record.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-sawan-barwal-wins-historic-silver-mens-marathon-in-national-record-time/article71511502.ece",
+      "dateLocation": "26 Sep 2026 | Aichi-Nagoya, Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Restores Voter Verification System",
+      "whyItMatters": "Significantly alters voter registration protocols ahead of upcoming elections.",
+      "brief": "The US Supreme Court has reinstated a mass voter verification system backed by Donald Trump, prompting debate over potential voter suppression.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/supreme-court-restores-trumps-mass-voter-verification-system-what-does-it-mean-ahead-of-us-midterm-election-11790385681517.html",
+      "dateLocation": "26 Sep 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Flays Pakistan at UN General Assembly",
+      "whyItMatters": "Deepens diplomatic friction between the neighboring nuclear-armed states.",
+      "brief": "Indian representatives strongly rebuffed Pakistani remarks at the UNGA, accusing Islamabad of hypocrisy regarding democratic rights and cross-border terrorism.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/hypocritical-homilies-about-democratic-rights-india-flays-pakistan-at-un/articleshow/134495894.cms",
+      "dateLocation": "26 Sep 2026 | New York",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Congo Plane Crash Kills Fourteen People",
+      "whyItMatters": "Highlights ongoing aviation safety challenges and national infrastructure vulnerabilities.",
+      "brief": "A tragic commercial plane crash in the Democratic Republic of Congo has left 14 dead, including two senior military officials.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/congo-plane-crash-kills-14-including-2-senior-military-officials/articleshow/134495498.cms",
+      "dateLocation": "26 Sep 2026 | Kinshasa",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "RBI Bulletins Highlight Resilient Indian Economy",
+      "whyItMatters": "Reassures investors about macroeconomic stability amid external global financial volatility.",
+      "brief": "The Reserve Bank of India stated in its latest bulletin that the country's financial and external sectors remain robust due to domestic economic resilience.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rbi-bulletin-indias-financial-external-sectors-continue-to-draw-strength-from-resilient-domestic-economy/articleshow/134490507.cms",
+      "dateLocation": "26 Sep 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Police Use Tear Gas on Protesters",
+      "whyItMatters": "Reflects rising domestic political agitation over electoral administrative oversight.",
+      "brief": "Law enforcement in India deployed tear gas against demonstrators demanding the resignation of the chief election commissioner amid electoral dispute claims.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjNOcTBnQ3k5ZTROUGJxMDgyU1ZQazVFSmd3OS1Jc0J4VkZxeEI5bFJyM0VKVzgxVHRlLTk3aGpCZUlQTk03V1Z1WnN3X2lUbE9DbENBS3R1S19RY2RnXzhRaEtYSkF6Zkd1MTJYaFQzTWhScHNNalNxcjR2amxzVTdMdXRJVlZkRjRSZGVrbXhPOVh6dzdaSDg4S3NpV1B4NGV2LTlFZldjS0I1YkYwdmlRckVnSG04OXNES2pGVFdQQWs2X0E?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
+      "dateLocation": "26 Sep 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India orders strict crackdown on nicotine pouches",
-      "whyItMatters": "Signals aggressive regulatory tightening on alternative tobacco products over health concerns.",
-      "brief": "Citing severe health risks, official documents show that Indian authorities have ordered a nationwide crackdown on imported nicotine pouches.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGNCOFNpMU5yN2RXc3pvU1BjbE1OUTVGQlB1bE9mVmRhZEFTV0YyRXY0VnhELVFGWTRiV1d3Y2NOMDVKU0N6Nk1jVHRtV3BnVDVRdHRtWjJCdHd3MzZVUGs1djRfOTdBRFlVZ3hZSWZUeVg2YUhTM3VLSzdqX2ZSclJRYUpkVjB2eE1TdFppRkZuaU1uMEFfZGNRa0ZsQWd3LVNTdldnd182N1pWXy1mTS12MmNUN1d2dW5kMmprRy1raUhOb0pTZG1XUWYybVZwUHpDdm5yektCT0tH?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tata dispute triggers shareholder rights overhaul in India",
-      "whyItMatters": "Forces corporate giants to reconsider minority protections and internal governance standards.",
-      "brief": "A high-profile dispute involving Tata Sons has sent corporate India scrambling to reinforce minority shareholder rights and update governance.",
+      "headline": "Nepal Seeks Grants for Flood Recovery",
+      "whyItMatters": "Emphasizes the heavy fiscal burden developing nations face from climate disasters.",
+      "brief": "Following a deadly glacier disaster, Nepal has appealed to international partners for outright grants rather than loans to fund its recovery efforts.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUJuanJnZG52NkJSMkVyRFZWQXJqX2JsSlZpMENIdFdlVEdYZlZrNGVzcVJvcWNKR0ZDcnExM3BvdjRQSHdEcVNDTDFxc0hPQ1JRWHdnY2dkZXdZOTFCVEFQVnYzX0hQaGtMQ01CXzJNT2ZxcVhwb042bjZhRWJkdy05bjdZZGZiWGo4RWxScGJsMDRnS3E0ZWNjaUFzQ0Jlek9LV01nQkU5T0h3T0otRFZscFNoZw?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Congo military plane crash kills thirteen officials",
-      "whyItMatters": "Underscores ongoing safety concerns within military transport operations in Central Africa.",
-      "brief": "A Congolese military aircraft crashed, resulting in thirteen fatalities including three high-ranking military officers, officials confirmed.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHJjb3RiN29zTDRDXzV3MVowb0UybFNleDlucEF5ZFZqc3pTNXA0NUlSRXFqSkE2bk5CSTNTeGR5c2NiNU1BaUVzY0ZCOHNvck9Dend2dFFMQkcxLXRzMW1qY0wtbFpyLVNZTDFmUFJxQmVmSEVDWkVHU1RpOHNMVmFWNkgtVWRfTWxtUVdfeDNXLVhFa2FYWDY4Mks0NmZiY1M2aXVKLXZGeTlYNWk4UnFCN2ptbmdtZ2pTYlFLeTY?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran rules out any concessions on nuclear program",
-      "whyItMatters": "Deepens diplomatic gridlock and heightens geopolitical instability in the Middle East.",
-      "brief": "A senior Iranian official confirmed that Tehran will refuse to make any nuclear concessions amid mounting international pressure.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVpYNWQxeFFCcXEzQTZQdkM1LTJpVWc2RHpwOWtxbzV0OHg2aE12UGV1Y2VOQUN4WHdvOVB4YzBGT0ltckk5d0hDZGZUVXk3YWs0WnA5R2xjNmNBbkhHRzNra2pIQVlLa1pNQ29OV1QxQVdSTWJnaWZEYkVaaXJXa3d4cHVvV1o5VGlpWFRjUG9HVTFoMWw4TFZwNlI4aHJwQjU0UVRuZzJISFp0ZU9YQUw4VQ?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Airbus detects fuselage coating flaw in A321neos",
-      "whyItMatters": "Raises manufacturing quality questions for major airlines operating updated fleets.",
-      "brief": "Airbus identified a quality issue in the fuselage coating of A321neo aircraft, impacting roughly a dozen IndiGo planes in a maintenance matter.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/airbus-detects-quality-issue-in-a321neo-fuselage-coating-around-a-dozen-indigo-aircraft-impacted-11790358422246.html",
-      "dateLocation": "2026-09-25 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rising US Treasury yields threaten emerging markets",
-      "whyItMatters": "Could trigger capital flight and macroeconomic strain across developing economies like India.",
-      "brief": "Surging US treasury bond yields pose a renewed threat of imported inflation and market volatility for emerging economies.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/the-name-is-bond-treasury-bond-rising-us-yields-can-shake-india/articleshow/134480608.cms",
-      "dateLocation": "2026-09-25 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India introduces Bharat NCAP 2.0 vehicle standards",
-      "whyItMatters": "Represents a major shift toward comprehensive crash avoidance and vulnerable road user safety.",
-      "brief": "India's upcoming vehicle safety framework, Bharat NCAP 2.0, will evaluate multi-stage safety metrics including post-collision care starting in 2027.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/5-ways-india-is-kicking-car-safety-into-top-gear-what-ncap-2-0-means-buyers/articleshow/134487081.cms",
-      "dateLocation": "2026-09-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PB Fintech faces massive regulatory storm and wipeout",
-      "whyItMatters": "Highlights vulnerability of fintech giants to sudden changes in insurance and financial regulations.",
-      "brief": "Proposed IRDAI regulatory rules have triggered severe valuation shocks and immense uncertainty for Gurugram-based PB Fintech.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/insure/pb-fintech-a-record-debut-in-2021-a-record-31400-crore-wipeout-and-now-the-biggest-storm-the-gurugram-co-can-face-after-irdai-rules-proposal/articleshow/134478983.cms",
-      "dateLocation": "2026-09-25 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India weighs mandatory imported coal blending at plants",
-      "whyItMatters": "Aims to stabilize domestic power generation amidst fluctuating fuel availability and surging demand.",
-      "brief": "Sources indicate that Indian authorities are considering mandatory blending requirements for imported coal to avert power plant shortages.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ01yWDh2Z2lHU1ZKSF96WFcwSXpGV3hUWmRaa1R2OTdvZ1RYY2ZqUk1TSFNlbm45MTI3b0N6ZWdHTl9vU1lkbENUTzZhZXhEYUFXT2lvVmg0WnRDczBTQkVOZXdwNkFOMzBxZE0tRUJqWUlwM1QwM0VyS25HeVJqVG9hNHJmV0pjUmw5aS1kU1BkZ3RtZVBqYWtmdDJfYzZ2MHplUW5WSU14MzQ3OWpSX2hQaDRTWVBtX0QtSUJrYw?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court revives property tax foreclosure claims",
-      "whyItMatters": "Establishes vital constitutional safeguards for property owners facing excessive tax debt seizures.",
-      "brief": "The US Supreme Court and state courts have revived a compensation claim for a couple who lost a mortgage-free home over minor tax debt.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/a-nebraska-couple-lost-a-mortgage-free-home-assessed-at-59759-after-a-588-21-tax-debt-grew-to-5268-32-the-us-supreme-court-sent-the-case-back-and-nebraskas-top-court-revived-the-compensation-claim/articleshow/134486717.cms",
-      "dateLocation": "2026-09-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gulveer wins silver at Asian Games 2026",
-      "whyItMatters": "Marks a stellar athletic milestone for Indian distance running on the continental stage.",
-      "brief": "Indian athlete Gulveer secured a hard-fought silver medal in the 10,000m event at the Asian Games 2026, improving upon previous achievements.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/athletics/asian-games-2026-gulveer-secures-a-silver-baranica-makes-history-bronze-for-manpreet/article71509698.cms",
-      "dateLocation": "2026-09-25 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hardik Pandya races against time for New Zealand tour",
-      "whyItMatters": "Directly impacts India's balance and squad strength in upcoming international cricket fixtures.",
-      "brief": "All-rounder Hardik Pandya is set to miss India A fixtures as he battles a recurring shin injury ahead of the national team's next tour.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-set-to-miss-india-a-fixtures-racing-against-time-for-new-zealand-tour-exclusive/articleshow/134489676.cms",
-      "dateLocation": "2026-09-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nepal seeks flood recovery grants over loans",
-      "whyItMatters": "Highlights vulnerable nations' struggles with debt sustainability following climate-induced disasters.",
-      "brief": "Following a deadly glacier disaster, Nepal has officially urged international partners for direct grants rather than loans to fund flood recovery.",
-      "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHE1NGJaNTRyMGRVX2FzbU53SVBlU0pmaUc5ZWFLQmI5d0hWa1NwNm4wOVNOaWxDVDZfbW56Vi1wb2xHbnRtaE9GRXJ1Nm9SeUs1QmFGSUxqTk1jSGs3Y3g1MUYxemtzdWRFT1dNSjJiNnRqVk85U3YtWGFoYmFVTmxYQVBCVjFndk5LUEFYWGpFeHRuUGIwWFFjNTFSSFVBS0NWNkVQWllWNmdhdTdzYVhsZTBpWlozVDBObmlSb0Y5Ql8xTXBySEtn?oc=5",
-      "dateLocation": "2026-09-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "26 Sep 2026 | Kathmandu",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
