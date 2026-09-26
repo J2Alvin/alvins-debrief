@@ -1,147 +1,102 @@
 {
-  "lastUpdated": "2026-09-26T10:46:37.217Z",
+  "lastUpdated": "2026-09-26T15:43:20.286Z",
   "ticker": [
-    "China, US agree to $30 billion tariff cut and AI dialogue",
-    "Thai capital Bangkok declared disaster zone amid severe flooding",
-    "US FDA approves AbbVie's new drug for Parkinson's disease",
-    "Iran states it will make no nuclear concessions to US",
-    "India rallies to defeat Iran for gold in men's kabaddi"
+    "US and China Agree to $30 Billion Tariff Cuts",
+    "Pakistan Suicide Blast Kills 12 in Dera Ismail Khan",
+    "Election Commission Defends Electoral Roll Revision Amid Row",
+    "Denmark Warns Russia May Intensify Hybrid Warfare Against NATO",
+    "India Wins Ninth Asian Games Gold in Men's Kabaddi"
   ],
   "articles": [
     {
       "headline": "US and China Agree to $30 Billion Tariff Cuts",
-      "whyItMatters": "Major breakthrough in global trade tensions and tech policy cooperation.",
-      "brief": "During Xi's visit, China and the US agreed to a $30 billion tariff cut and launched a Super Intelligence Dialogue to address AI safety risks.",
-      "category": "politics",
+      "whyItMatters": "Eases trade tensions between the world's two largest economies.",
+      "brief": "During President Xi's visit to Washington, the US and China agreed to a $30 billion tariff cut and initiated a dialogue on artificial intelligence risks and cooperation.",
+      "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
-      "dateLocation": "September 26, 2026 | Reuters",
+      "dateLocation": "September 26, 2026 | Washington / Beijing",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Suicide Blast Kills 12 at Police Checkpoint",
+      "whyItMatters": "Highlights escalating militant violence and security challenges in Pakistan.",
+      "brief": "A suicide bomber attacked a police checkpoint in Dera Ismail Khan, killing 12 people and injuring 30. The Tehreek-e-Taliban Pakistan claimed responsibility for the attack.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2VpYXF0ZEV6dllNZzA4dnNzZ08zaVo1ckJFdHVGUG9YX2VFTGU4dzZ1c0dJTVpsSWVNRjN0eHZXdXoxWjVMcXdMa281TjBIeXZVRnJ6ZzlCTGhuSmx2ekNmWjhiNTlRWE9QN29NYWRqbE1ydWl0TUpWQ0pEcEtaZ3A2YmFxSzJNZWQyLTk5bkZNdHhQN1BIWFhpVklZSlhfTXBuaWZrcFMwZnc?oc=5",
+      "dateLocation": "September 26, 2026 | Dera Ismail Khan, Pakistan",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ShinyHunters Hackers Expand Attacks on Oracle PeopleSoft",
+      "whyItMatters": "Poses severe cybersecurity risks to enterprises relying on enterprise software.",
+      "brief": "Google reports that the notorious ShinyHunters hacking group has expanded their cyber attacks targeting Oracle's PeopleSoft framework, threatening sensitive organizational data.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0kwNk9oLVg5bWdrdkJfUXVSNkFYT2o5ODZpU3RaMjJpM0pKb19QTnM0Zlk4d2xURlJZZVF6blp1ZEk5T1ZnMEM3RmN1STc1RnFTZXpDSGRuWWpBY2NwZGZUVzJET29UY0lLYzFxU0NOQjNTV25lRUpkSzRPQTgtQlVkMVRSLWJ1TkROb0ZqaU9sa0ZtSGJ4ZWNtak9pQTQ3dUtmZXdXdWpFSGZHNlpJdGQ4QU1SNm9mYlhwd2t3?oc=5",
+      "dateLocation": "September 26, 2026 | Global",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Investigates Agent Activity Amid User Data Leak",
+      "whyItMatters": "Raises urgent data privacy and AI safety concerns globally.",
+      "brief": "OpenAI is working to understand the full scope of autonomous agent activity following the emergence of a notable user data leak involving AI systems.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+      "dateLocation": "September 26, 2026 | San Francisco",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Denmark Warns Russia May Intensify Hybrid Warfare Against NATO",
+      "whyItMatters": "Highlights growing geopolitical instability and security threats across Europe.",
+      "brief": "Danish security assessments indicate Russia may ramp up hybrid warfare tactics against NATO in coming months, though a full-scale military attack remains highly unlikely.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/russia-may-intensify-hybrid-warfare-against-nato-in-coming-months-denmark-warns-putin-rejects-claims-11790433168029.html",
+      "dateLocation": "September 26, 2026 | Copenhagen",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Election Commission Defends Electoral Roll Revision Amid Row",
+      "whyItMatters": "Addresses massive political controversy over deleted voter names and electoral transparency.",
+      "brief": "The Election Commission clarified that recent decisions on electoral roll revisions were unanimous, detailing new home-visit verification protocols to ease public concerns.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/sir-orders-unanimous-form-6-changes-upheld-by-sc-amid-dissent-row-11790425858077.html",
+      "dateLocation": "September 26, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bangkok Declared Disaster Zone Amid Severe Flooding",
-      "whyItMatters": "Highlights escalating urban climate vulnerabilities in Southeast Asia.",
-      "brief": "Authorities in Thailand have officially declared the capital city of Bangkok a disaster zone following relentless and catastrophic flooding.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRhalF6S2pIWVFyVjA1b3hpS1EtVVJ5Z1Y4R2dHbDJNVjdzTDYxMkJzeS0wNnRNQmpXNWgzZDBlUHZwa2s4cmhxM2hqR2l6NzU3a2NORUJmQVZTcEY1YWE1UE1CVWlOLWVicVBFWU1HVTRwOU5ablJFelpoNi1Vd0JTV0F2X0lwRURlSDFIdS1aWkxfS3BrSmk5c1RlZlI2T1ZMT1I0b2xRU0JWeWFtZldzNlQ?oc=5",
-      "dateLocation": "September 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Congress Demands Pause on SIR, Accuses EC of Manipulation",
+      "whyItMatters": "Deepens the political standoff between the opposition and election authorities.",
+      "brief": "Opposition leaders slammed the Election Commission's clarification note, accusing authorities of targeting young voters and demanding an immediate halt to the voter roll revision process.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/avoids-issue-of-gen-z-voters-congress-attacks-ecs-wishy-washy-press-note-seeks-pause-in-sir/articleshow/134506010.cms",
+      "dateLocation": "September 26, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US FDA Approves New AbbVie Parkinson's Drug",
-      "whyItMatters": "Expands critical treatment options for neurological disorders globally.",
-      "brief": "The US Food and Drug Administration has granted official approval for AbbVie's innovative medication targeted at treating Parkinson's disease.",
+      "headline": "FDA Approves AbbVie Drug for Parkinson's Disease Treatment",
+      "whyItMatters": "Provides a critical new therapeutic option for movement disorders.",
+      "brief": "The US FDA has officially approved AbbVie's new pharmaceutical treatment aimed at improving the quality of life for patients suffering from Parkinson's disease.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXM3VVNjc3JYVmVLRGkxTXJrakVrdjlFRG80R2hQWHNZZkFqR1FVZjhldVVCalJOempscGY5OXlUa1dDTnQ0TG9zVi1ZMzJZUXVJb2VfM0ROYk9OeHNrNTJ3ejdsN2lhQ3VmZjNlU0p2ZG40VjdxMC0wZ2E3UWhPS2Ixa2sweE5uMFVrZXpmOFdEbXpGY3UwNlBxQ25Kam1HWkJPTUkteFUzSWJmWVhFelB3RzNjVUlQR004?oc=5",
-      "dateLocation": "September 26, 2026 | Reuters",
+      "dateLocation": "September 26, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ShinyHunters Hackers Expand Attacks on Oracle's PeopleSoft",
-      "whyItMatters": "Underscores severe and ongoing cybersecurity threats to enterprise infrastructure.",
-      "brief": "Google has issued warnings that the ShinyHunters hacking group has significantly expanded their malicious cyberattacks targeting Oracle's PeopleSoft platform.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0kwNk9oLVg5bWdrdkJfUXVSNkFYT2o5ODZpU3RaMjJpM0pKb19QTnM0Zlk4d2xURlJZZVF6blp1ZEk5T1ZnMEM3RmN1STc1RnFTZXpDSGRuWWpBY2NwZGZUVzJET29UY0lLYzFxU0NOQjNTV25lRUpkSzRPQTgtQlVkMVRSLWJ1TkROb0ZqaU9sa0ZtSGJ4ZWNtak9pQTQ3dUtmZXdXdWpFSGZHNlpJdGQ4QU1SNm9mYlhwd2t3?oc=5",
-      "dateLocation": "September 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Investigating User Data Leak After Agent Activity",
-      "whyItMatters": "Raises crucial privacy and security concerns surrounding autonomous AI agents.",
-      "brief": "OpenAI is actively working to understand the full scope of autonomous agent activity following the emergence of a sudden user data leak.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
-      "dateLocation": "September 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Rejects Nuclear Concessions Amid US Tensions",
-      "whyItMatters": "Heightens geopolitical risk and stalls international diplomatic efforts in the Middle East.",
-      "brief": "A senior Iranian official declared that Tehran will make zero nuclear concessions, signaling a firm red line against ongoing US peace talks.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVpYNWQxeFFCcXEzQTZQdkM1LTJpVWc2RHpwOWtxbzV0OHg2aE12UGV1Y2VOQUN4WHdvOVB4YzBGT0ltckk5d0hDZGZUVXk3YWs0WnA5R2xjNmNBbkhHRzNra2pIQVlLa1pNQ29OV1QxQVdSTWJnaWZEYkVaaXJXa3d4cHVvV1o5VGlpWFRjUG9HVTFoMWw4TFZwNlI4aHJwQjU0UVRuZzJISFp0ZU9YQUw4VQ?oc=5",
-      "dateLocation": "September 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bangladesh and US Sign Civil Nuclear MoU",
-      "whyItMatters": "Marks a strategic shift in South Asian energy partnerships and diplomacy.",
-      "brief": "Bangladesh and the United States signed a strategic civil nuclear MoU in New York to diversify long-term national energy sources.",
+      "headline": "IIT-Madras Deep Tech Fund Achieves ₹450 Crore Close",
+      "whyItMatters": "Boosts India's deep-tech startup ecosystem through alumni and institutional backing.",
+      "brief": "The IIT-Madras deep tech fund secured a ₹450-crore first close, backed by prominent alumni, family offices, and institutional investors to foster advanced technological innovation.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/bangladesh-us-sign-mou-on-strategic-civil-nuclear-cooperation/article71512317.ece",
-      "dateLocation": "September 26, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-deep-tech-fund-achieves-450-crore-first-close/article71513438.ece",
+      "dateLocation": "September 26, 2026 | Chennai",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Wins Kabaddi Gold at Asian Games 2026",
-      "whyItMatters": "Solidifies regional athletic dominance in a traditional contact sport.",
-      "brief": "The Indian men's kabaddi team staged a brilliant comeback to defeat Iran and secure the gold medal at the Asian Games 2026.",
+      "headline": "India Unbeaten Campaign Secures Ninth Asian Games Kabaddi Gold",
+      "whyItMatters": "Celebrates a historic continental triumph for Indian sports excellence.",
+      "brief": "Displaying brilliant tactical mastery in the final against Iran, the Indian men's kabaddi team completed an unbeaten run to claim their ninth Asian Games gold medal.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece",
-      "dateLocation": "September 26, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/khali-pet-gold-jita-hai-why-indias-kabaddi-team-did-not-eat-before-asian-games-final/articleshow/134506545.cms",
+      "dateLocation": "September 26, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Char Dham Yatra Suspended Due to Extreme Weather",
-      "whyItMatters": "Ensures traveler safety amid heavy monsoon rains and red alerts.",
-      "brief": "Uttarakhand authorities suspended the annual Char Dham pilgrimage for two days following an IMD red alert for heavy rains and storms.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/uttarakhand/char-dham-yatra-suspended-for-september-26-27-due-to-bad-weather/article71512419.ece",
-      "dateLocation": "September 26, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "JSW One Platforms Files Draft Papers for IPO",
-      "whyItMatters": "Reflects robust capital market activity in India's digital business sector.",
-      "brief": "JSW One Platforms has officially filed draft papers to raise Rs 3,054 crore through an upcoming initial public offering.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/ipos/fpos/jsw-one-platforms-files-draft-papers-for-rs-3054-crore-ipo/articleshow/134498412.cms",
-      "dateLocation": "September 26, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Treasury Yields Reach Multi-Decade Highs",
-      "whyItMatters": "Impacts global borrowing costs and signals persistent economic inflation anxieties.",
-      "brief": "The yield on US government 30-year debt climbed to 5.5%, marking a fresh high not seen since 2004 amid strong consumer sentiment.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/us-news/at-5-5-treasury-yield-on-us-govt-30-year-debt-reaches-fresh-high-since-2004-11790405437754.html",
-      "dateLocation": "September 26, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Men's Hockey Team Advances to Asian Games Semis",
-      "whyItMatters": "Keeps India on track for a potential gold medal finish.",
-      "brief": "India defeated Japan 2-0 to comfortably seal their semifinal berth in the men's hockey tournament at the 2026 Asian Games.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/hockey/india-beats-japan-2-0-to-seal-semifinal-berth-mens-hockey/article71512426.ece",
-      "dateLocation": "September 26, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Issues Strict Crackdown on Nicotine Pouches",
-      "whyItMatters": "Addresses growing public health concerns surrounding modern tobacco alternatives.",
-      "brief": "Citing severe health risks, Indian authorities have ordered an immediate nationwide crackdown on the distribution and sale of nicotine pouches.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGNCOFNpMU5yN2RXc3pvU1BjbE1OUTVGQlB1bE9mVmRhZEFTV0YyRXY0VnhELVFGWTRiV1d3Y2NOMDVKU0N6Nk1jVHRtV3BnVDVRdHRtWjJCdHd3MzZVUGs1djRfOTdBRFlVZ3hZSWZUeVg2YUhTM3VLSzdqX2ZSclJRYUpkVjB2eE1TdFppRkZuaU1uMEFfZGNRa0ZsQWd3LVNTdldnd182N1pWXy1mTS12MmNUN1d2dW5kMmprRy1raUhOb0pTZG1XUWYybVZwUHpDdm5yektCT0tH?oc=5",
-      "dateLocation": "September 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russian Businesses Lease Air Defense Against Drones",
-      "whyItMatters": "Demonstrates the direct economic toll of the Ukraine war on domestic commerce.",
-      "brief": "A new Moscow decree forces private businesses to lease or build their own air-defense systems to protect facilities from Ukrainian drone strikes.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/world/russiaukraine-war-moscows-decree-forces-pvt-businesses-to-opt-for-air-defense-systems-to-defend-against-drone-attacks-11790412042560.html",
-      "dateLocation": "September 26, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Police Use Tear Gas on Election Protesters",
-      "whyItMatters": "Reflects deep political unrest regarding national electoral integrity.",
-      "brief": "Police in India deployed tear gas against protesters demanding the immediate resignation of the chief election commissioner over alleged malpractices.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjNOcTBnQ3k5ZTROUGJxMDgyU1ZQazVFSmd3OS1Jc0J4VkZxeEI5bFJyM0VKVzgxVHRlLTk3aGpCZUlQTk03V1Z1WnN3X2lUbE9DbENBS3R1S19RY2RnXzhRaEtYSkF6Zkd1MTJYaFQzTWhScHNNalNxcjR2amxzVTdMdXRJVlZkRjRSZGVrbXhPOVh6dzdaSDg4S3NpV1B4NGV2LTlFZldjS0I1YkYwdmlRckVnSG04OXNES2pGVFdQQWs2X0E?oc=5",
-      "dateLocation": "September 26, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
