@@ -1,120 +1,84 @@
 {
-  "lastUpdated": "2026-09-26T20:37:28.925Z",
+  "lastUpdated": "2026-09-27T03:32:48.037Z",
   "ticker": [
-    "Apple hit with $5.7B patent verdict",
-    "Jaishankar slams Pakistan at UNGA",
-    "US and China strike tariff deal",
-    "India election commission reviews voter rolls",
-    "Russia backs India for UNSC"
+    "Trump rejects Iran's Strait of Hormuz ceasefire proposal",
+    "US finalizes sharply lower vehicle fuel economy standards",
+    "Russia backs India for permanent UN Security Council seat",
+    "FBI confirms cybersecurity breach impacting employee database portal",
+    "US jury orders Apple to pay record $5.7B patent fee"
   ],
   "articles": [
     {
-      "headline": "India's Election Commission Reviews Voter Roll Changes Amid Row",
-      "whyItMatters": "Voter roll integrity directly impacts the democratic legitimacy of upcoming Indian elections.",
-      "brief": "The Election Commission of India has ordered a comprehensive review of voter-roll modifications following severe pushback and allegations of discrepancies from opposition parties.",
+      "headline": "Trump Rejects Iran's Strait of Hormuz Ceasefire Proposal",
+      "whyItMatters": "Escalates tensions and prolongs geopolitical risks impacting global oil supply chains.",
+      "brief": "US President Donald Trump has rejected Tehran's proposed seven-day ceasefire and reopening of the Strait of Hormuz, maintaining heavy pressure as Iran insists on diplomacy.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5",
+      "dateLocation": "September 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Finalizes Lower Vehicle Fuel Economy Standards",
+      "whyItMatters": "Overhauls federal regulatory guidelines for the automotive industry and environment.",
+      "brief": "The Trump administration has finalized sharply lower vehicle fuel economy standards, officially rolling back previous electric vehicle regulations and efficiency targets.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUThFdWt2TU8zOHVxdTZVTXRDVENOd3VienVZUG1WckRCeUQ4bGlJRmF5R1hlN01JLVMzVmc0cksxSFNGMUlEemlOam1fd09vU09sbTdhcjFtZTlBdmxRN2VLekpsMDUycWZxUGs3anRNSFJkRi1wNU5mZ2taQThqaDhEejJJT1NCX0F3aHV6d3llN2Jfd3hoZzBpdnlFb2ZjUXVwZ092QXIteVU?oc=5",
-      "dateLocation": "26 September 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5",
+      "dateLocation": "September 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Jury Orders Apple to Pay $5.7 Billion in Patent Case",
-      "whyItMatters": "This stands as one of the largest intellectual property judgments against a major tech giant.",
-      "brief": "A US jury has ruled that Apple owes a record $5.7 billion in damages following a severe legal defeat regarding haptic technology patents.",
+      "headline": "China and US Agree to AI Dialogue and Tariff Cuts",
+      "whyItMatters": "Eases bilateral trade friction and fosters technological cooperation between superpowers.",
+      "brief": "During President Xi's visit, China and the US agreed to initiate structured AI dialogues alongside implementing targeted tariff cuts on $30 billion worth of goods.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
+      "dateLocation": "September 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Jury Says Apple Owes $5.7 Billion in Patent Case",
+      "whyItMatters": "Imposes one of the largest intellectual property damages payouts in tech history.",
+      "brief": "A US jury has ordered Apple to pay a record $5.7 billion following a major legal defeat in a haptic technology patent infringement trial.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5",
-      "dateLocation": "26 September 2026 | Reuters",
+      "dateLocation": "September 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US and China Agree on AI Dialogue and Tariff Cuts",
-      "whyItMatters": "Eases geopolitical tech tensions and reduces trade barriers on billions of dollars in goods.",
-      "brief": "During President Xi's visit, the US and China agreed to open formal AI safety dialogues alongside tariff cuts on $30 billion worth of traded goods.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
-      "dateLocation": "26 September 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Boeing Flags 737 MAX Software Glitch Affecting Navigation",
-      "whyItMatters": "Safety concerns continue to loom over Boeing's flagship aircraft line.",
-      "brief": "Boeing has issued warnings regarding a 737 MAX software glitch that impacts critical landing navigation features, triggering heightened regulatory scrutiny.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5",
-      "dateLocation": "26 September 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US FDA Approves AbbVie's New Parkinson's Disease Treatment",
-      "whyItMatters": "Offers significant therapeutic advances for patients suffering from neurodegenerative disorders.",
-      "brief": "The US Food and Drug Administration has granted approval for AbbVie's innovative medication targeted at managing symptoms of Parkinson's disease.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXM3VVNjc3JYVmVLRGkxTXJrakVrdjlFRG80R2hQWHNZZkFqR1FVZjhldVVCalJOempscGY5OXlUa1dDTnQ0TG9zVi1ZMzJZUXVJb2VfM0ROYk9OeHNrNTJ3ejdsN2lhQ3VmZjNlU0p2ZG40VjdxMC0wZ2E3UWhPS2Ixa2sweE5uMFVrZXpmOFdEbXpGY3UwNlBxQ25Kam1HWkJPTUkteFUzSWJmWVhFelB3RzNjVUlQR004?oc=5",
-      "dateLocation": "26 September 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bangkok Declared Disaster Zone Amid Severe Flooding",
-      "whyItMatters": "Widespread flooding threatens urban infrastructure and regional economic stability in Thailand.",
-      "brief": "Thai authorities have officially declared Bangkok a disaster zone as relentless seasonal downpours and rising river levels trigger catastrophic urban flooding.",
+      "headline": "Russia Backs India's Claim to UNSC Permanent Seat",
+      "whyItMatters": "Shifts geopolitical dynamics regarding the expansion and restructuring of the UN Security Council.",
+      "brief": "Russian Foreign Minister Sergei Lavrov strongly endorsed India and Brazil for permanent UN Security Council membership while rejecting inclusion for Germany and Japan.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRhalF6S2pIWVFyVjA1b3hpS1EtVVJ5Z1Y4R2dHbDJNVjdzTDYxMkJzeS0wNnRNQmpXNWgzZDBlUHZwa2s4cmhxM2hqR2l6NzU3a2NORUJmQVZTcEY1YWE1UE1CVWlOLWVicVBFWU1HVTRwOU5ablJFelpoNi1Vd0JTV0F2X0lwRURlSDFIdS1aWkxfS3BrSmk5c1RlZlI2T1ZMT1I0b2xRU0JWeWFtZldzNlQ?oc=5",
-      "dateLocation": "26 September 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Investigates Agent Activity Following User Data Leak",
-      "whyItMatters": "Highlights vulnerabilities in emerging AI agent architectures regarding user privacy.",
-      "brief": "OpenAI is urgently working to determine the full scope of automated agent operations after a notable user data leak exposed internal vulnerabilities.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
-      "dateLocation": "26 September 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jaishankar Slams Pakistan at UNGA Over Terrorism",
-      "whyItMatters": "Deepens diplomatic friction between nuclear-armed neighbors on the global stage.",
-      "brief": "At the United Nations General Assembly, External Affairs Minister S Jaishankar strongly rebuked Pakistan, labeling it a serial practitioner of terrorism.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/arguments-by-serial-practitioner-of-terrorism-will-not-stand-eam-jaishankar-slams-pakistan-at-unga/article71514019.ece",
-      "dateLocation": "26 September 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russia Backs India's Permanent UNSC Seat Bid",
-      "whyItMatters": "Shifts geopolitical alignments regarding United Nations Security Council expansion.",
-      "brief": "Russian Foreign Minister Sergei Lavrov firmly endorsed India and Brazil for permanent UNSC seats while dismissing bids from Germany and Japan.",
-      "category": "politics",
       "sourceUrl": "https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms",
-      "dateLocation": "26 September 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "September 27, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "High Gold Prices Offer Silver Lining for Jewelers",
-      "whyItMatters": "Shifts consumer spending patterns within the domestic precious metals market.",
-      "brief": "Surging gold prices have inadvertently boosted silver sales as festive season buyers seek alternative precious metal investments.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/high-gold-prices-offer-silver-lining-this-festive-season/articleshow/134508782.cms",
-      "dateLocation": "26 September 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Florida Deploys Solar Robot Rabbits to Hunt Pythons",
-      "whyItMatters": "Demonstrates innovative technological intervention in ecological conservation efforts.",
-      "brief": "South Florida officials are testing solar-powered robotic decoys equipped with AI cameras to track and eradicate invasive Burmese pythons in the Everglades.",
+      "headline": "FBI Confirms Cybersecurity Incident Compromised Employee Info",
+      "whyItMatters": "Exposes critical vulnerabilities in federal law enforcement data security infrastructure.",
+      "brief": "The FBI confirmed a breach on its portal after cybercrime group ShinyHunters claimed possession of sensitive employee personal information, sparking a high-level federal investigation.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms",
-      "dateLocation": "26 September 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/fbi-confirms-cybersecurity-incident-after-reported-hack-compromised-employee-info/articleshow/134513551.cms",
+      "dateLocation": "September 27, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "North India Braces for Very Heavy Rain and Snowfall",
-      "whyItMatters": "Severe weather disruptions threaten regional transit and agricultural output.",
-      "brief": "Meteorological departments have issued heavy rainfall warnings for Uttarakhand and Himachal Pradesh alongside expected high-altitude snowfall.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/weather-tomorrow-27-september-very-heavy-rain-in-uttarakhand-himachal-snowfall-likely-check-delhi-up-mp-and-more-11790446844966.html",
-      "dateLocation": "26 September 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India's Election Commission Orders Voter-Roll Review",
+      "whyItMatters": "Ensures transparency and accountability in upcoming democratic electoral processes.",
+      "brief": "The Election Commission of India has officially ordered a comprehensive independent review and audit of recent voter-roll changes following public access complaints.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUThFdWt2TU8zOHVxdTZVTXRDVENOd3VienVZUG1WckRCeUQ4bGlJRmF5R1hlN01JLVMzVmc0cksxSFNGMUlEemlOam1fd09vU09sbTdhcjFtZTlBdmxRN2VLekpsMDUycWZxUGs3anRNSFJkRi1wNU5mZ2taQThqaDhEejJJT1NCX0F3aHV6d3llN2Jfd3hoZzBpdnlFb2ZjUXVwZ092QXIteVU?oc=5",
+      "dateLocation": "September 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Asian Games 2026: Indian Compound Archery Teams Advance",
+      "whyItMatters": "Bolsters India's medal standing and competitive momentum at the major international tournament.",
+      "brief": "Both the Indian men's and women's compound archery teams successfully advanced to the tournament semifinals at the Asian Games 2026.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-27-2026/article71513950.ece",
+      "dateLocation": "September 27, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
