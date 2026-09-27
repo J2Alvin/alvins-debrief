@@ -1,147 +1,138 @@
 {
-  "lastUpdated": "2026-09-27T11:21:34.464Z",
+  "lastUpdated": "2026-09-27T16:21:21.198Z",
   "ticker": [
-    "Floods and landslides kill 70 across India and Nepal",
-    "US jury orders Apple to pay $5.7B in patent case",
-    "Afghanistan reports 28 fighters killed after border clash",
-    "India's election commission orders review of voter-rolls",
-    "Russian strikes hit Ukraine and damage Kyiv data center"
+    "Thailand declares civil service flood holiday",
+    "Russia strikes Ukraine mobile and data infrastructure",
+    "India and Canada plan to elevate bilateral ties",
+    "Virat Kohli hits historic 15,000 ODI runs",
+    "Embraer picks Mahindra for IAF transport plane tender"
   ],
   "articles": [
     {
-      "headline": "Floods and Landslides Kill 70 in India and Nepal",
-      "whyItMatters": "Extreme weather events continue to cause massive loss of life and displacement across South Asia.",
-      "brief": "Severe floods and landslides have resulted in 56 deaths in India and 14 in Nepal, triggering emergency response efforts and highlighting growing regional climate vulnerabilities.",
+      "headline": "Thailand Declares Two-Day Civil Service Holiday Due to Floods",
+      "whyItMatters": "Severe weather disruptions impact government operations and public safety in Thailand.",
+      "brief": "The Thai government has declared a two-day civil service holiday as severe floods continue to affect parts of the country, disrupting normal administrative functions.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM?oc=5",
+      "dateLocation": "September 27, 2026 | Bangkok, Thailand",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Floods and Landslides Kill 70 Across India and Nepal",
+      "whyItMatters": "Monsoon extremes continue to cause devastating loss of life across South Asia.",
+      "brief": "Torrential rains, severe floods, and devastating landslides have claimed 56 lives in India and 14 in Nepal, prompting emergency rescue operations.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
-      "dateLocation": "September 27, 2026 | Reuters",
+      "dateLocation": "September 27, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Apple Owed Record $5.7 Billion in Haptic Patent Case",
-      "whyItMatters": "This represents one of the largest patent infringement verdicts against a major tech giant in US history.",
-      "brief": "A US jury has ruled that Apple must pay a record $5.7 billion following a high-stakes legal battle centered on haptic technology patent infringements.",
+      "headline": "Russia Strikes Ukraine's Largest Mobile Provider and Data Centres",
+      "whyItMatters": "Targeting critical digital and telecommunications infrastructure severely disrupts wartime civilian communications.",
+      "brief": "Russian airstrikes have hit Ukraine's largest mobile provider and critical data centres, causing widespread telecommunication outages and infrastructure damage.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5",
-      "dateLocation": "September 27, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNYXzZmVUxfWFM4bHFTcUpnN0VKSDFxX3RtdmN6RzlSMXJOX04yQWxjOXByaGNTMmdPYnhpRGhKbEhIWGp5X0UzeFZKWnZ0S0dLVVdWTkJiX0doUkNEbjQxelIweHBIOEJmRU50TVRWLTludHN5RHh3U3Vhd1JucjNCWkZWZ0dkMEo3ZEpuLTVvdG9RdGl5MnE3T0lEaEVha1JfeGoyYU1sXzVYeml6QU11RnZ6Qnpla3NJYlhGTEpndTdnMFpB?oc=5",
+      "dateLocation": "September 27, 2026 | Kyiv, Ukraine",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Finalizes Sharply Lower Vehicle Fuel Economy Standards",
-      "whyItMatters": "The regulatory rollback significantly impacts automotive manufacturing emissions compliance and environmental targets.",
-      "brief": "The United States government is set to finalize significantly lower vehicle fuel economy standards, easing compliance burdens for automakers but drawing criticism from environmental advocates.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5",
-      "dateLocation": "September 27, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mass Shootings in South Africa Leave 27 Dead",
-      "whyItMatters": "A sudden surge in violent crime underscores severe ongoing public safety challenges in local townships.",
-      "brief": "Separate mass shootings across multiple townships in South Africa have left at least 27 people dead, prompting urgent investigations and calls for enhanced security measures.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/separate-mass-shootings-in-south-africa-townships-leave-at-least-27-people-dead/articleshow/134517084.cms",
-      "dateLocation": "September 27, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Launches First LNG-Powered Train in Gujarat",
-      "whyItMatters": "This marks a major milestone in India's transition toward cleaner, alternative railway fuels and green transportation.",
-      "brief": "Union Minister Amit Shah inaugurated India's first Liquefied Natural Gas-powered train in Gujarat, a strategic step aimed at reducing carbon emissions and modernizing the national railway network.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/india-gets-first-lng-powered-train-in-gujarat-amit-shah-check-details-route-and-more/articleshow/134516646.cms",
-      "dateLocation": "September 27, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Squash Stars Anahat and Abhay Clinch Asian Games Silver",
-      "whyItMatters": "Strong performances in racquet sports elevate India's standing on the continental multi-sport medal table.",
-      "brief": "Indian squash stars Anahat Singh and Abhay Kuruvilla secured a hard-fought silver medal for India at the ongoing Aichi-Nagoya Asian Games.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-27-2026/article71513950.ece",
-      "dateLocation": "September 27, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's Space Sector Undergoes Historic Strategic Revision",
-      "whyItMatters": "Privatization and structural shifts redefine India's space economy, positioning commercial firms for major rocket operations.",
-      "brief": "India's space sector is experiencing its biggest operational revision, empowering private enterprises to handle heavy rockets while ISRO redirects focus toward deep space missions and space stations.",
+      "headline": "Boeing Flags 737 MAX Software Glitch Affecting Landing Navigation",
+      "whyItMatters": "Software reliability issues in commercial aviation pose critical flight safety concerns.",
+      "brief": "Boeing has warned airlines about a 737 MAX software glitch affecting a landing navigation feature, prompting regulatory scrutiny and technical reviews.",
       "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/science/orbital-shiftindias-space-sector-transformation-pvt-firms-handle-rockets-isro-focus-on-indian-space-station-venus-mission-gaganyaan-chandrayaan-4-vikram/articleshow/134515279.cms",
-      "dateLocation": "September 27, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5",
+      "dateLocation": "September 27, 2026 | Washington, USA",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Odisha Vigilance Unearths ₹9.24 Crore Government Fund Embezzlement",
-      "whyItMatters": "Large-scale financial fraud within clerical departments highlights systemic vulnerabilities in institutional fund management.",
-      "brief": "An Odisha vigilance probe discovered that clerical staff siphoned off ₹9.24 crore in government funds by routing false gratuity and leave salary claims into 77 fraudulent bank accounts.",
-      "category": "finance",
-      "sourceUrl": "https://www.thehindu.com/news/national/odisha/odisha-vigilance-unearths-govt-fund-of-924-crore-siphoned-off-by-clerical-staff/article71515634.ece",
-      "dateLocation": "September 27, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi High Court Rules on Muslim Marriage and Minor Protection",
-      "whyItMatters": "The ruling reinforces the supremacy of child protection laws over conflicting personal law marriage traditions.",
-      "brief": "The Delhi High Court declared that a Muslim marriage certificate does not remove the criminality of physical relations with a minor under the stringent POCSO legal framework.",
+      "headline": "India's Election Commission Orders Review of Voter-Roll Changes",
+      "whyItMatters": "Electoral list integrity is vital for democratic governance and fair political representation.",
+      "brief": "Following mounting political opposition, India's Election Commission has ordered a comprehensive nationwide review of recent changes made to electoral voter rolls.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/muslim-marriage-doesnt-remove-criminality-of-physical-relations-with-minor-delhi-hc/article71515753.ece",
-      "dateLocation": "September 27, 2026 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUThFdWt2TU8zOHVxdTZVTXRDVENOd3VienVZUG1WckRCeUQ4bGlJRmF5R1hlN01JLVMzVmc0cksxSFNGMUlEemlOam1fd09vU09sbTdhcjFtZTlBdmxRN2VLekpsMDUycWZxUGs3anRNSFJkRi1wNU5mZ2taQThqaDhEejJJT1NCX0F3aHV6d3llN2Jfd3hoZzBpdnlFb2ZjUXVwZ092WXIteVU?oc=5",
+      "dateLocation": "September 27, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Unprecedented Dissent Rocks Election Commission of India",
-      "whyItMatters": "Internal rifts among top election commissioners pose critical questions regarding institutional neutrality and electoral governance.",
-      "brief": "An internal administrative rift has surfaced within the Election Commission as two commissioners reportedly raised formal objections multiple times regarding voter-roll changes and database centralization.",
+      "headline": "Tamil Nadu Withdraws RTI Exemption for Law and Order Department",
+      "whyItMatters": "Transparency in state law enforcement agencies ensures government accountability and public trust.",
+      "brief": "The Tamil Nadu government has officially withdrawn its controversial RTI exemption for the Law and Order Department following intense public and political pressure.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/videos/who-are-sukhbir-singh-sandhu-vivek-joshi-the-2-election-commissioners-behind-the-eci-dissent/article71515825.ece",
-      "dateLocation": "September 27, 2026 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/india/tamil-nadu-government-withdraws-rti-exemption-for-law-and-order-department-amid-criticism-11790510226916.html",
+      "dateLocation": "September 27, 2026 | Chennai, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Russian Airstrikes Kill Four and Damage Kyiv Data Center",
-      "whyItMatters": "Targeting critical digital and municipal infrastructure highlights ongoing escalation in the ongoing conflict.",
-      "brief": "Overnight Russian airstrikes across Ukraine resulted in at least four fatalities and caused significant structural damage to a vital data center facility located in Kyiv.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/russian-strikes-kill-four-in-ukraine-damage-kyiv-data-center-11790504414709.html",
-      "dateLocation": "September 27, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Karnataka Health Minister Reports Massive Overpricing of Critical Drugs",
+      "whyItMatters": "Exorbitant markups on life-saving medications severely burden patients suffering from major illnesses.",
+      "brief": "Karnataka's Health Minister revealed that cancer, kidney, and AIDS drugs are being sold at up to 70 times their procurement cost.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/cancer-kidney-aids-drugs-sold-at-up-to-70-times-procurement-cost-karnataka-health-minister/article71516820.ece",
+      "dateLocation": "September 27, 2026 | Bengaluru, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Harita Bhadra Wins Bronze in Women's 200m at Asian Games",
-      "whyItMatters": "A thrilling photo-finish secures another crucial medal for India's athletics contingent in international competition.",
-      "brief": "Indian sprinter Harita Bhadra clinched a bronze medal in the women's 200m race at the Aichi-Nagoya Asian Games with a stellar timing of 23.20 seconds.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-harita-bhadra-bags-200m-bronze-as-indias-athletics-medal-tally-reaches-nine/articleshow/134518609.cms",
-      "dateLocation": "September 27, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Haryana's Village Health Centres Expand Tele-ECG Cardiac Screening",
+      "whyItMatters": "Remote diagnostic initiatives improve rural healthcare access and early cardiac emergency response.",
+      "brief": "A successful tele-ECG partnership project in Haryana is helping screen rural heart patients and save lives by enabling swift specialist referrals.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/how-haryanas-village-health-centres-are-screening-heart-patients-and-helping-save-lives/article71490263.ece",
+      "dateLocation": "September 27, 2026 | Chandigarh, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "New US Green Card Rules Take Effect with Financial Mandates",
-      "whyItMatters": "Stricter financial requirements directly reshape immigration pathways for families and professionals seeking legal residency.",
-      "brief": "USCIS introduced new regulations requiring Green Card applicants to explicitly demonstrate financial self-sufficiency, placing heavier emphasis on verifiable income affidavits across most categories.",
+      "headline": "Embraer Selects Mahindra for Indian Air Force Transport Tender",
+      "whyItMatters": "Major defense manufacturing partnerships drive India's domestic aerospace and military modernization goals.",
+      "brief": "Brazilian aerospace giant Embraer has announced Mahindra as its strategic partner for the Indian Air Force's 60 transport aircraft tender.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-that-are-not-impacted/articleshow/134515826.cms",
-      "dateLocation": "September 27, 2026 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/embraer-says-mahindra-will-be-its-partner-for-iafs-60-transport-plane-tender-to-partner-with-adani-for-commercial-planes/articleshow/134519248.cms",
+      "dateLocation": "September 27, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Researchers Discover New Begonia Species in Western Ghats",
-      "whyItMatters": "Botanical discoveries in biodiversity hotspots emphasize the critical importance of regional ecological conservation.",
-      "brief": "Scientists in Kerala have successfully identified and described a brand-new plant species of the genus Begonia within the Western Ghats, naming it Begonia rajvikramanii.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/keralam-researchers-discover-a-new-species-of-genus-begonia-in-western-ghats/article71513107.ece",
-      "dateLocation": "September 27, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Appliance Makers Plan October Price Hikes Ahead of Diwali",
+      "whyItMatters": "Consumer electronics price adjustments impact household festive shopping budgets across the country.",
+      "brief": "Major consumer durables brands including Blue Star and Godrej Appliances have announced price hikes starting October 1 due to rising input costs.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/durables/ac-tv-price-hike-october-1-blue-star-godrej-appliances-haier-daikin-super-plastronics-panasonic-lg-bosch-home-comfort-hitachi-thomson-kodak-blaupunkt-lg-electronics-diwali-sale/articleshow/134514891.cms",
+      "dateLocation": "September 27, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Veterinarians Trained in Advanced Canine Tracheal Stenting",
-      "whyItMatters": "New medical techniques improve survival and quality of life for brachycephalic dog breeds prone to respiratory failure.",
-      "brief": "Veterinary surgeons across India participated in specialized hands-on workshops in Chennai to master fluoroscopy-guided tracheal stenting procedures for dogs suffering from severe breathing disorders.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tracheal-stents-offer-relief-to-dog-breeds-prone-to-breathing-problems-veterinarians-trained-in-chennai/article71515750.ece",
-      "dateLocation": "September 27, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "India's Public Sector Banks Face Potential Disruptions From Strike",
+      "whyItMatters": "A three-day bank strike risks delaying salary distributions and financial transactions nationwide.",
+      "brief": "A planned three-day bank strike from September 28 to 30 could delay monthly salary disbursements, with public sector operations facing potential disruptions.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/3day-bank-strike-will-your-september-salary-be-delayed-here-s-all-to-know-11790524877346.html",
+      "dateLocation": "September 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mobile Retailers Call 'No UPI Day' Protest Over Proposed MDR",
+      "whyItMatters": "Changes to merchant discount rates threaten the widespread adoption of zero-cost digital payments.",
+      "brief": "AIMRA has announced a nationwide 'No UPI Day' protest for October 2 to oppose the proposed 0.4% merchant discount rate on payments.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/no-upi-day-on-october-2-mobile-retailers-protest-proposed-0-4-mdr-on-payments-11790513884544.html",
+      "dateLocation": "September 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Virat Kohli Reaches Milestone of 15,000 ODI Runs",
+      "whyItMatters": "Milestone achievements by legendary athletes define modern cricketing history and global sports records.",
+      "brief": "Star batsman Virat Kohli has joined Sachin Tendulkar in the ODI record book by surpassing 15,000 runs in One Day Internationals.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohli-becomes-only-the-second-batter-after-sachin-tendulkar-to-reach-this-milestone/articleshow/134522424.cms",
+      "dateLocation": "September 27, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Badminton Medallist Criticizes Aichi-Nagoya Asiad Conditions",
+      "whyItMatters": "Athlete welfare concerns highlight logistical challenges in major international sporting events.",
+      "brief": "An Indian badminton medallist has spoken out, stating that the organization of the upcoming Aichi-Nagoya Asian Games is proving difficult and 'sad' for athletes.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEFtN1VWdGpKZVNKUjYyeFU0QWJwa3dWdFg1MFhBNXMxS1QxOTgtRUdBeGZ4QTU0Z1pvQXdsMUE3RzRmM25lZ0c5SlZNanR3Z1NCR3hnNXlQd1B1RTNZOUFTYXZqY21ON3VtMXhaU3JudWpoaW5UZVlwM05LY0xDYXhwWjI4NkplQTYzbUtJZmpOZ01oZGRqXzBBaVVobFh4bnJ4Q01GV18?oc=5",
+      "dateLocation": "September 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
