@@ -1,84 +1,147 @@
 {
-  "lastUpdated": "2026-09-27T03:32:48.037Z",
+  "lastUpdated": "2026-09-27T11:21:34.464Z",
   "ticker": [
-    "Trump rejects Iran's Strait of Hormuz ceasefire proposal",
-    "US finalizes sharply lower vehicle fuel economy standards",
-    "Russia backs India for permanent UN Security Council seat",
-    "FBI confirms cybersecurity breach impacting employee database portal",
-    "US jury orders Apple to pay record $5.7B patent fee"
+    "Floods and landslides kill 70 across India and Nepal",
+    "US jury orders Apple to pay $5.7B in patent case",
+    "Afghanistan reports 28 fighters killed after border clash",
+    "India's election commission orders review of voter-rolls",
+    "Russian strikes hit Ukraine and damage Kyiv data center"
   ],
   "articles": [
     {
-      "headline": "Trump Rejects Iran's Strait of Hormuz Ceasefire Proposal",
-      "whyItMatters": "Escalates tensions and prolongs geopolitical risks impacting global oil supply chains.",
-      "brief": "US President Donald Trump has rejected Tehran's proposed seven-day ceasefire and reopening of the Strait of Hormuz, maintaining heavy pressure as Iran insists on diplomacy.",
+      "headline": "Floods and Landslides Kill 70 in India and Nepal",
+      "whyItMatters": "Extreme weather events continue to cause massive loss of life and displacement across South Asia.",
+      "brief": "Severe floods and landslides have resulted in 56 deaths in India and 14 in Nepal, triggering emergency response efforts and highlighting growing regional climate vulnerabilities.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVF9ZM3dkR3ZQUWpnUVNzR0lsd0tkTTZkZ1AwN1RnZzVzQXo3WjZWY0VTNVo4dU9PM3ZfUnBKWUZuTWtRa01jNUxtVHhyZW1TakhIWlhCdl9UV0gxc3BWMUdTZ2x2Z2czNEVNV3JVYkJGOEYzSU5MREtHYldqdXZDXy1jdWlsTVZKR3pZTy1qS01IT1FpZDlkZVBLUHEzTXVDSDFlRWhva1Vsdld3cVhnUXZiYnNxTUhtb2c?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
       "dateLocation": "September 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Finalizes Lower Vehicle Fuel Economy Standards",
-      "whyItMatters": "Overhauls federal regulatory guidelines for the automotive industry and environment.",
-      "brief": "The Trump administration has finalized sharply lower vehicle fuel economy standards, officially rolling back previous electric vehicle regulations and efficiency targets.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5",
-      "dateLocation": "September 27, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China and US Agree to AI Dialogue and Tariff Cuts",
-      "whyItMatters": "Eases bilateral trade friction and fosters technological cooperation between superpowers.",
-      "brief": "During President Xi's visit, China and the US agreed to initiate structured AI dialogues alongside implementing targeted tariff cuts on $30 billion worth of goods.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
-      "dateLocation": "September 27, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Jury Says Apple Owes $5.7 Billion in Patent Case",
-      "whyItMatters": "Imposes one of the largest intellectual property damages payouts in tech history.",
-      "brief": "A US jury has ordered Apple to pay a record $5.7 billion following a major legal defeat in a haptic technology patent infringement trial.",
+      "headline": "Apple Owed Record $5.7 Billion in Haptic Patent Case",
+      "whyItMatters": "This represents one of the largest patent infringement verdicts against a major tech giant in US history.",
+      "brief": "A US jury has ruled that Apple must pay a record $5.7 billion following a high-stakes legal battle centered on haptic technology patent infringements.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5",
       "dateLocation": "September 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Russia Backs India's Claim to UNSC Permanent Seat",
-      "whyItMatters": "Shifts geopolitical dynamics regarding the expansion and restructuring of the UN Security Council.",
-      "brief": "Russian Foreign Minister Sergei Lavrov strongly endorsed India and Brazil for permanent UN Security Council membership while rejecting inclusion for Germany and Japan.",
+      "headline": "US Finalizes Sharply Lower Vehicle Fuel Economy Standards",
+      "whyItMatters": "The regulatory rollback significantly impacts automotive manufacturing emissions compliance and environmental targets.",
+      "brief": "The United States government is set to finalize significantly lower vehicle fuel economy standards, easing compliance burdens for automakers but drawing criticism from environmental advocates.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVBRNVl3X3FfSjZmOTlqUEZsS0RlN2ZkQnU3cF9oSVA3SVhaUFVKdC1saW1UQ3hKQk5FUHpfUjE2MERFLXVyQU8zRktURUxjVnVzMHk4a3RlV2FKaUNITWxBWmsxdUxTd2VyNngtZzZHeWpfNGd1OXVldFhwMlRRbkFOOEJFSnBYbkZpV1BJUk05N0ZRUzdVYzMtVHBTbUxtbnNrYWJxcXBqY1h1QmgzWg?oc=5",
+      "dateLocation": "September 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mass Shootings in South Africa Leave 27 Dead",
+      "whyItMatters": "A sudden surge in violent crime underscores severe ongoing public safety challenges in local townships.",
+      "brief": "Separate mass shootings across multiple townships in South Africa have left at least 27 people dead, prompting urgent investigations and calls for enhanced security measures.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/russia-backs-indias-claim-to-unsc-seat-firmly-shuts-door-on-germany-japan/articleshow/134508102.cms",
-      "dateLocation": "September 27, 2026 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/separate-mass-shootings-in-south-africa-townships-leave-at-least-27-people-dead/articleshow/134517084.cms",
+      "dateLocation": "September 27, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "FBI Confirms Cybersecurity Incident Compromised Employee Info",
-      "whyItMatters": "Exposes critical vulnerabilities in federal law enforcement data security infrastructure.",
-      "brief": "The FBI confirmed a breach on its portal after cybercrime group ShinyHunters claimed possession of sensitive employee personal information, sparking a high-level federal investigation.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/fbi-confirms-cybersecurity-incident-after-reported-hack-compromised-employee-info/articleshow/134513551.cms",
-      "dateLocation": "September 27, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's Election Commission Orders Voter-Roll Review",
-      "whyItMatters": "Ensures transparency and accountability in upcoming democratic electoral processes.",
-      "brief": "The Election Commission of India has officially ordered a comprehensive independent review and audit of recent voter-roll changes following public access complaints.",
+      "headline": "India Launches First LNG-Powered Train in Gujarat",
+      "whyItMatters": "This marks a major milestone in India's transition toward cleaner, alternative railway fuels and green transportation.",
+      "brief": "Union Minister Amit Shah inaugurated India's first Liquefied Natural Gas-powered train in Gujarat, a strategic step aimed at reducing carbon emissions and modernizing the national railway network.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUThFdWt2TU8zOHVxdTZVTXRDVENOd3VienVZUG1WckRCeUQ4bGlJRmF5R1hlN01JLVMzVmc0cksxSFNGMUlEemlOam1fd09vU09sbTdhcjFtZTlBdmxRN2VLekpsMDUycWZxUGs3anRNSFJkRi1wNU5mZ2taQThqaDhEejJJT1NCX0F3aHV6d3llN2Jfd3hoZzBpdnlFb2ZjUXVwZ092QXIteVU?oc=5",
-      "dateLocation": "September 27, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/india-gets-first-lng-powered-train-in-gujarat-amit-shah-check-details-route-and-more/articleshow/134516646.cms",
+      "dateLocation": "September 27, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Asian Games 2026: Indian Compound Archery Teams Advance",
-      "whyItMatters": "Bolsters India's medal standing and competitive momentum at the major international tournament.",
-      "brief": "Both the Indian men's and women's compound archery teams successfully advanced to the tournament semifinals at the Asian Games 2026.",
+      "headline": "Squash Stars Anahat and Abhay Clinch Asian Games Silver",
+      "whyItMatters": "Strong performances in racquet sports elevate India's standing on the continental multi-sport medal table.",
+      "brief": "Indian squash stars Anahat Singh and Abhay Kuruvilla secured a hard-fought silver medal for India at the ongoing Aichi-Nagoya Asian Games.",
       "category": "sports",
       "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-27-2026/article71513950.ece",
       "dateLocation": "September 27, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Space Sector Undergoes Historic Strategic Revision",
+      "whyItMatters": "Privatization and structural shifts redefine India's space economy, positioning commercial firms for major rocket operations.",
+      "brief": "India's space sector is experiencing its biggest operational revision, empowering private enterprises to handle heavy rockets while ISRO redirects focus toward deep space missions and space stations.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/science/orbital-shiftindias-space-sector-transformation-pvt-firms-handle-rockets-isro-focus-on-indian-space-station-venus-mission-gaganyaan-chandrayaan-4-vikram/articleshow/134515279.cms",
+      "dateLocation": "September 27, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Odisha Vigilance Unearths ₹9.24 Crore Government Fund Embezzlement",
+      "whyItMatters": "Large-scale financial fraud within clerical departments highlights systemic vulnerabilities in institutional fund management.",
+      "brief": "An Odisha vigilance probe discovered that clerical staff siphoned off ₹9.24 crore in government funds by routing false gratuity and leave salary claims into 77 fraudulent bank accounts.",
+      "category": "finance",
+      "sourceUrl": "https://www.thehindu.com/news/national/odisha/odisha-vigilance-unearths-govt-fund-of-924-crore-siphoned-off-by-clerical-staff/article71515634.ece",
+      "dateLocation": "September 27, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi High Court Rules on Muslim Marriage and Minor Protection",
+      "whyItMatters": "The ruling reinforces the supremacy of child protection laws over conflicting personal law marriage traditions.",
+      "brief": "The Delhi High Court declared that a Muslim marriage certificate does not remove the criminality of physical relations with a minor under the stringent POCSO legal framework.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/muslim-marriage-doesnt-remove-criminality-of-physical-relations-with-minor-delhi-hc/article71515753.ece",
+      "dateLocation": "September 27, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Unprecedented Dissent Rocks Election Commission of India",
+      "whyItMatters": "Internal rifts among top election commissioners pose critical questions regarding institutional neutrality and electoral governance.",
+      "brief": "An internal administrative rift has surfaced within the Election Commission as two commissioners reportedly raised formal objections multiple times regarding voter-roll changes and database centralization.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/videos/who-are-sukhbir-singh-sandhu-vivek-joshi-the-2-election-commissioners-behind-the-eci-dissent/article71515825.ece",
+      "dateLocation": "September 27, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Russian Airstrikes Kill Four and Damage Kyiv Data Center",
+      "whyItMatters": "Targeting critical digital and municipal infrastructure highlights ongoing escalation in the ongoing conflict.",
+      "brief": "Overnight Russian airstrikes across Ukraine resulted in at least four fatalities and caused significant structural damage to a vital data center facility located in Kyiv.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/russian-strikes-kill-four-in-ukraine-damage-kyiv-data-center-11790504414709.html",
+      "dateLocation": "September 27, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Harita Bhadra Wins Bronze in Women's 200m at Asian Games",
+      "whyItMatters": "A thrilling photo-finish secures another crucial medal for India's athletics contingent in international competition.",
+      "brief": "Indian sprinter Harita Bhadra clinched a bronze medal in the women's 200m race at the Aichi-Nagoya Asian Games with a stellar timing of 23.20 seconds.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-harita-bhadra-bags-200m-bronze-as-indias-athletics-medal-tally-reaches-nine/articleshow/134518609.cms",
+      "dateLocation": "September 27, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New US Green Card Rules Take Effect with Financial Mandates",
+      "whyItMatters": "Stricter financial requirements directly reshape immigration pathways for families and professionals seeking legal residency.",
+      "brief": "USCIS introduced new regulations requiring Green Card applicants to explicitly demonstrate financial self-sufficiency, placing heavier emphasis on verifiable income affidavits across most categories.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-that-are-not-impacted/articleshow/134515826.cms",
+      "dateLocation": "September 27, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Researchers Discover New Begonia Species in Western Ghats",
+      "whyItMatters": "Botanical discoveries in biodiversity hotspots emphasize the critical importance of regional ecological conservation.",
+      "brief": "Scientists in Kerala have successfully identified and described a brand-new plant species of the genus Begonia within the Western Ghats, naming it Begonia rajvikramanii.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/keralam-researchers-discover-a-new-species-of-genus-begonia-in-western-ghats/article71513107.ece",
+      "dateLocation": "September 27, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Veterinarians Trained in Advanced Canine Tracheal Stenting",
+      "whyItMatters": "New medical techniques improve survival and quality of life for brachycephalic dog breeds prone to respiratory failure.",
+      "brief": "Veterinary surgeons across India participated in specialized hands-on workshops in Chennai to master fluoroscopy-guided tracheal stenting procedures for dogs suffering from severe breathing disorders.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tracheal-stents-offer-relief-to-dog-breeds-prone-to-breathing-problems-veterinarians-trained-in-chennai/article71515750.ece",
+      "dateLocation": "September 27, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
