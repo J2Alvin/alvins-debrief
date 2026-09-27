@@ -1,138 +1,147 @@
 {
-  "lastUpdated": "2026-09-27T16:21:21.198Z",
+  "lastUpdated": "2026-09-27T20:50:25.571Z",
   "ticker": [
-    "Thailand declares civil service flood holiday",
-    "Russia strikes Ukraine mobile and data infrastructure",
-    "India and Canada plan to elevate bilateral ties",
-    "Virat Kohli hits historic 15,000 ODI runs",
-    "Embraer picks Mahindra for IAF transport plane tender"
+    "Thailand declares civil service holiday over floods",
+    "Floods and landslides kill 70 in India and Nepal",
+    "China considers allowing Nvidia chip sales",
+    "Russia strikes Ukraine's largest mobile provider",
+    "Category 3 Hurricane Polo threatens Mexico coast"
   ],
   "articles": [
     {
-      "headline": "Thailand Declares Two-Day Civil Service Holiday Due to Floods",
-      "whyItMatters": "Severe weather disruptions impact government operations and public safety in Thailand.",
-      "brief": "The Thai government has declared a two-day civil service holiday as severe floods continue to affect parts of the country, disrupting normal administrative functions.",
+      "headline": "Thailand Declares Civil Service Holiday Due to Severe Floods",
+      "whyItMatters": "Highlights escalating climate disruptions impacting national infrastructure and government services.",
+      "brief": "The Thai government has declared a two-day civil service holiday as widespread floods continue to disrupt regions, causing major infrastructure challenges and operational halts.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM?oc=5",
-      "dateLocation": "September 27, 2026 | Bangkok, Thailand",
+      "dateLocation": "September 27, 2026 | Thailand",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Floods and Landslides Kill 70 Across India and Nepal",
-      "whyItMatters": "Monsoon extremes continue to cause devastating loss of life across South Asia.",
-      "brief": "Torrential rains, severe floods, and devastating landslides have claimed 56 lives in India and 14 in Nepal, prompting emergency rescue operations.",
+      "whyItMatters": "Demonstrates severe regional weather impacts causing widespread fatalities and humanitarian crises.",
+      "brief": "Devastating floods and landslides have left at least 56 people dead in India and 14 in Nepal, triggering urgent rescue operations and widespread displacement.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
-      "dateLocation": "September 27, 2026 | New Delhi, India",
+      "dateLocation": "September 27, 2026 | New Delhi/Kathmandu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Russia Strikes Ukraine's Largest Mobile Provider and Data Centres",
-      "whyItMatters": "Targeting critical digital and telecommunications infrastructure severely disrupts wartime civilian communications.",
-      "brief": "Russian airstrikes have hit Ukraine's largest mobile provider and critical data centres, causing widespread telecommunication outages and infrastructure damage.",
+      "headline": "China Weighs Allowing Tech Giants to Buy New Nvidia Chips",
+      "whyItMatters": "Signals potential shifts in global semiconductor supply chains and US-China tech restrictions.",
+      "brief": "Beijing is reportedly considering permitting companies like ByteDance and Alibaba to purchase advanced Nvidia chips, balancing technological needs against strategic controls.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNYXzZmVUxfWFM4bHFTcUpnN0VKSDFxX3RtdmN6RzlSMXJOX04yQWxjOXByaGNTMmdPYnhpRGhKbEhIWGp5X0UzeFZKWnZ0S0dLVVdWTkJiX0doUkNEbjQxelIweHBIOEJmRU50TVRWLTludHN5RHh3U3Vhd1JucjNCWkZWZ0dkMEo3ZEpuLTVvdG9RdGl5MnE3T0lEaEVha1JfeGoyYU1sXzVYeml6QU11RnZ6Qnpla3NJYlhGTEpndTdnMFpB?oc=5",
-      "dateLocation": "September 27, 2026 | Kyiv, Ukraine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5",
+      "dateLocation": "September 27, 2026 | Beijing",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Russia Strikes Ukraine's Largest Mobile Provider and Data Centres",
+      "whyItMatters": "Intensifies cyber and telecommunications warfare targeting critical civilian infrastructure.",
+      "brief": "Russian military strikes hit Ukraine's largest mobile network operator and crucial data centers, aiming to disrupt communications and digital infrastructure nationwide.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNYXzZmVUxfWFM4bHFTcUpnN0VKSDFxX3RtdmN6RzlSMXJOX04yQWxjOXByaGNTMmdPYnhpRGhKbEhIWGp5X0UzeFZKWnZ0S0dLVVdWTkJiX0doUkNEbjQxelIweHBIOEJmRU50TVRWLTludHN5RHh3U3Vhd1JucjNCWkZWZ0dkMEo3ZEpuLTVvdG9RdGl5MnE3T0lEaEVha1JfeGoyYU1sXzVYeml6QU11RnZ6Qnpla3NJYlhGTEpndTdnMFpB?oc=5",
+      "dateLocation": "September 27, 2026 | Kyiv",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Category 3 Hurricane Polo Threatens Mexican Pacific Coast",
+      "whyItMatters": "Poses immediate severe weather threats to coastal settlements and regional disaster response.",
+      "brief": "Hurricane Polo has intensified to a Category 3 storm, tracking toward Mexico's Pacific coast with expected landfall bringing destructive winds and heavy rains.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUY3Q0FpQVhiM3FLSTNKZlJ0TVZqSkE1ZUlKZG9LeERqTThoRTRZbVliaG5OTzZ0QnMwNkN3eTY4UmhFWXUtM3RBaFV3X3BWTjRTcWJMMWVSRGdlRFFTZ0RoLUpVSl9wWjhKVklRNEQ1WWJxYkxlR1lUWDFXdXBPQlFqbUxjemdZSGNjbU5aeTN6ZzYzQ2RxdEgydDRBd25oTFZyb3kwclBNejVrclhpM2ZQT3YxUDR5YldpRUJWX0hjSHR6c1VmWExjdw?oc=5",
+      "dateLocation": "September 27, 2026 | Mexico City",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Boeing Flags 737 MAX Software Glitch Affecting Landing Navigation",
-      "whyItMatters": "Software reliability issues in commercial aviation pose critical flight safety concerns.",
-      "brief": "Boeing has warned airlines about a 737 MAX software glitch affecting a landing navigation feature, prompting regulatory scrutiny and technical reviews.",
-      "category": "technology",
+      "whyItMatters": "Raises fresh aviation safety concerns regarding critical flight control systems.",
+      "brief": "Boeing has warned airlines of a software glitch in 737 MAX aircraft affecting landing navigation features, prompting close scrutiny from aviation regulators.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5",
-      "dateLocation": "September 27, 2026 | Washington, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's Election Commission Orders Review of Voter-Roll Changes",
-      "whyItMatters": "Electoral list integrity is vital for democratic governance and fair political representation.",
-      "brief": "Following mounting political opposition, India's Election Commission has ordered a comprehensive nationwide review of recent changes made to electoral voter rolls.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUThFdWt2TU8zOHVxdTZVTXRDVENOd3VienVZUG1WckRCeUQ4bGlJRmF5R1hlN01JLVMzVmc0cksxSFNGMUlEemlOam1fd09vU09sbTdhcjFtZTlBdmxRN2VLekpsMDUycWZxUGs3anRNSFJkRi1wNU5mZ2taQThqaDhEejJJT1NCX0F3aHV6d3llN2Jfd3hoZzBpdnlFb2ZjUXVwZ092WXIteVU?oc=5",
-      "dateLocation": "September 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tamil Nadu Withdraws RTI Exemption for Law and Order Department",
-      "whyItMatters": "Transparency in state law enforcement agencies ensures government accountability and public trust.",
-      "brief": "The Tamil Nadu government has officially withdrawn its controversial RTI exemption for the Law and Order Department following intense public and political pressure.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/tamil-nadu-government-withdraws-rti-exemption-for-law-and-order-department-amid-criticism-11790510226916.html",
-      "dateLocation": "September 27, 2026 | Chennai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Karnataka Health Minister Reports Massive Overpricing of Critical Drugs",
-      "whyItMatters": "Exorbitant markups on life-saving medications severely burden patients suffering from major illnesses.",
-      "brief": "Karnataka's Health Minister revealed that cancer, kidney, and AIDS drugs are being sold at up to 70 times their procurement cost.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/cancer-kidney-aids-drugs-sold-at-up-to-70-times-procurement-cost-karnataka-health-minister/article71516820.ece",
-      "dateLocation": "September 27, 2026 | Bengaluru, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Haryana's Village Health Centres Expand Tele-ECG Cardiac Screening",
-      "whyItMatters": "Remote diagnostic initiatives improve rural healthcare access and early cardiac emergency response.",
-      "brief": "A successful tele-ECG partnership project in Haryana is helping screen rural heart patients and save lives by enabling swift specialist referrals.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/how-haryanas-village-health-centres-are-screening-heart-patients-and-helping-save-lives/article71490263.ece",
-      "dateLocation": "September 27, 2026 | Chandigarh, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Embraer Selects Mahindra for Indian Air Force Transport Tender",
-      "whyItMatters": "Major defense manufacturing partnerships drive India's domestic aerospace and military modernization goals.",
-      "brief": "Brazilian aerospace giant Embraer has announced Mahindra as its strategic partner for the Indian Air Force's 60 transport aircraft tender.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/embraer-says-mahindra-will-be-its-partner-for-iafs-60-transport-plane-tender-to-partner-with-adani-for-commercial-planes/articleshow/134519248.cms",
-      "dateLocation": "September 27, 2026 | New Delhi, India",
+      "dateLocation": "September 27, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Appliance Makers Plan October Price Hikes Ahead of Diwali",
-      "whyItMatters": "Consumer electronics price adjustments impact household festive shopping budgets across the country.",
-      "brief": "Major consumer durables brands including Blue Star and Godrej Appliances have announced price hikes starting October 1 due to rising input costs.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/durables/ac-tv-price-hike-october-1-blue-star-godrej-appliances-haier-daikin-super-plastronics-panasonic-lg-bosch-home-comfort-hitachi-thomson-kodak-blaupunkt-lg-electronics-diwali-sale/articleshow/134514891.cms",
-      "dateLocation": "September 27, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "UK Police Arrest Five Over Suspected Terrorist Plot Near Air Base",
+      "whyItMatters": "Highlights ongoing security threats targeting sensitive military facilities used by allied forces.",
+      "brief": "Counter-terrorism police in the UK have arrested five individuals preparing a suspected attack near RAF Fairford, prompting evacuations and bomb squad deployments.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/uk-london-fairford-air-base-bomb-threat/article71515604.ece",
+      "dateLocation": "September 27, 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Public Sector Banks Face Potential Disruptions From Strike",
-      "whyItMatters": "A three-day bank strike risks delaying salary distributions and financial transactions nationwide.",
-      "brief": "A planned three-day bank strike from September 28 to 30 could delay monthly salary disbursements, with public sector operations facing potential disruptions.",
+      "headline": "Proposed Three-Day Nationwide Bank Strike in India Deferred",
+      "whyItMatters": "Averts major disruptions to commercial banking operations and customer financial transactions.",
+      "brief": "Following late-night negotiations between bank unions and authorities, the planned three-day nationwide strike has been called off, ensuring normal operations.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/3day-bank-strike-will-your-september-salary-be-delayed-here-s-all-to-know-11790524877346.html",
-      "dateLocation": "September 27, 2026 | New Delhi, India",
+      "sourceUrl": "https://www.livemint.com/news/india/bank-strike-on-28-29-30-september-deferred-salaried-individuals-to-get-money-in-account-as-usual-11790534456293.html",
+      "dateLocation": "September 27, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Mobile Retailers Call 'No UPI Day' Protest Over Proposed MDR",
-      "whyItMatters": "Changes to merchant discount rates threaten the widespread adoption of zero-cost digital payments.",
-      "brief": "AIMRA has announced a nationwide 'No UPI Day' protest for October 2 to oppose the proposed 0.4% merchant discount rate on payments.",
+      "headline": "New US Green Card Rules Take Effect Highlighting Financial Self-Sufficiency",
+      "whyItMatters": "Directly impacts immigration applicants by tightening financial scrutiny and support requirements.",
+      "brief": "USCIS has implemented stricter Green Card regulations requiring most applicants to thoroughly prove financial independence, while exempting specific humanitarian categories.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms",
+      "dateLocation": "September 27, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Insurance Regulator Raises Concerns Over Mis-Selling Due to Commissions",
+      "whyItMatters": "Aims to protect retail consumers from aggressive and misleading financial product sales.",
+      "brief": "The insurance regulator has warned that excessive upfront commissions are driving a surge in policy mis-selling, signaling upcoming stringent compliance reforms.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/no-upi-day-on-october-2-mobile-retailers-protest-proposed-0-4-mdr-on-payments-11790513884544.html",
-      "dateLocation": "September 27, 2026 | New Delhi, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/insure/insurance-mis-selling-is-arising-because-upfront-commissions-are-too-high-ajay-seth-chairman-irdai/articleshow/134525727.cms",
+      "dateLocation": "September 27, 2026 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Virat Kohli Reaches Milestone of 15,000 ODI Runs",
-      "whyItMatters": "Milestone achievements by legendary athletes define modern cricketing history and global sports records.",
-      "brief": "Star batsman Virat Kohli has joined Sachin Tendulkar in the ODI record book by surpassing 15,000 runs in One Day Internationals.",
+      "headline": "Indian Women's Hockey Team Beats Singapore 7-0 in Asiad",
+      "whyItMatters": "Showcases top-tier athletic dominance and advances national medal hopes in international sports.",
+      "brief": "The Indian women's hockey team secured a decisive 7-0 victory over Singapore to finish their group stage unbeaten, advancing confidently to the tournament semifinals.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/hockey/asiad-hockey-indian-women-beat-singapore-7-0-to-finish-unbeaten-to-play-korea-in-semifinals/article71517296.ece",
+      "dateLocation": "September 27, 2026 | Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Virat Kohli Joins Sachin Tendulkar Reaching 15,000 ODI Runs",
+      "whyItMatters": "Marks a historic milestone in international cricket history achieved by very few players.",
+      "brief": "Star batter Virat Kohli became only the second player in cricket history to cross the 15,000-run milestone in One Day International matches.",
       "category": "sports",
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohli-becomes-only-the-second-batter-after-sachin-tendulkar-to-reach-this-milestone/articleshow/134522424.cms",
-      "dateLocation": "September 27, 2026 | Mumbai, India",
+      "dateLocation": "September 27, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Badminton Medallist Criticizes Aichi-Nagoya Asiad Conditions",
-      "whyItMatters": "Athlete welfare concerns highlight logistical challenges in major international sporting events.",
-      "brief": "An Indian badminton medallist has spoken out, stating that the organization of the upcoming Aichi-Nagoya Asian Games is proving difficult and 'sad' for athletes.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEFtN1VWdGpKZVNKUjYyeFU0QWJwa3dWdFg1MFhBNXMxS1QxOTgtRUdBeGZ4QTU0Z1pvQXdsMUE3RzRmM25lZ0c5SlZNanR3Z1NCR3hnNXlQd1B1RTNZOUFTYXZqY21ON3VtMXhaU3JudWpoaW5UZVlwM05LY0xDYXhwWjI4NkplQTYzbUtJZmpOZ01oZGRqXzBBaVVobFh4bnJ4Q01GV18?oc=5",
-      "dateLocation": "September 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "CDSCO Steps Up Scrutiny on Pharma Drugs With Narcotic Substances",
+      "whyItMatters": "Crackdown curbs illegal drug diversion and strengthens pharmaceutical supply chain accountability.",
+      "brief": "India's drug regulator has launched strict enforcement actions against pharmaceutical companies engaging in illegal detours of medicinal drugs containing narcotic ingredients.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cdsco-steps-up-scrutiny-of-pharma-drugs-containing-narcotic-substances/articleshow/134525250.cms",
+      "dateLocation": "September 27, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "FSSAI Crackdown Prompts Hiring Surge in Food Safety Compliance",
+      "whyItMatters": "Reshapes corporate hiring trends and underscores mandatory regulatory adherence across food industries.",
+      "brief": "Recent regulatory crackdowns by the FSSAI have triggered an immediate hiring spike for food safety and compliance professionals across consumer goods sectors.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/fssai-crackdown-sparks-hiring-surge-in-food-safety-and-compliance/articleshow/134525246.cms",
+      "dateLocation": "September 27, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "South Korea and UN Command Investigate DMZ Explosion Incident",
+      "whyItMatters": "Tests inter-Korean border stability and triggers international security protocols.",
+      "brief": "The South Korean military alongside the UN Command has launched a formal investigation into a mysterious explosion reported near the heavily fortified Demilitarized Zone.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWl2MjlNSFpiVWhIX21aZVAxdW5oVzh6V0xfVDZlcU9TX0IzZTRWcG5Uek1hYXl5WWY0NG8zWThRclJmZW9WNnktYS1aUVNUZmVJeFlwVUVUWXBVQ1RwWDcwV0pabldidDVQWGt2QkJWWGpJZWh5d29LRVJNN1BUUHktaE1sdEhLdW96NDN3WGwxcWN3Q1dBQ2p5eE9JTW1PbFRYRDd2ZWs2bEJnbmozaDB4aF9Wc0cxTXlqdm1fUXNWUVhfTnc?oc=5",
+      "dateLocation": "September 27, 2026 | Seoul",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
