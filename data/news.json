@@ -1,147 +1,138 @@
 {
-  "lastUpdated": "2026-09-27T20:50:25.571Z",
+  "lastUpdated": "2026-09-28T03:30:53.358Z",
   "ticker": [
-    "Thailand declares civil service holiday over floods",
-    "Floods and landslides kill 70 in India and Nepal",
-    "China considers allowing Nvidia chip sales",
-    "Russia strikes Ukraine's largest mobile provider",
-    "Category 3 Hurricane Polo threatens Mexico coast"
+    "Gold Drops Over 1% on Rate-Hike Bets",
+    "Oil Surges as US-Iran Peace Talks Stall",
+    "Uttar Pradesh Rain Death Toll Hits 81",
+    "India-US Trade Discussions Impact Whey",
+    "SpaceX Targets Orbital Flight for Starship"
   ],
   "articles": [
     {
-      "headline": "Thailand Declares Civil Service Holiday Due to Severe Floods",
-      "whyItMatters": "Highlights escalating climate disruptions impacting national infrastructure and government services.",
-      "brief": "The Thai government has declared a two-day civil service holiday as widespread floods continue to disrupt regions, causing major infrastructure challenges and operational halts.",
+      "headline": "Gold drops more than 1% on US rate-hike bets",
+      "whyItMatters": "Shifts in Federal Reserve expectations heavily influence global bullion valuations.",
+      "brief": "Gold prices fell over 1 percent as traders priced in aggressive US interest rate hikes.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhoveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+      "dateLocation": "28 Sept 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mideast oil exports rebound as Saudi shipments increase",
+      "whyItMatters": "Higher regional output directly impacts global energy supplies and crude prices.",
+      "brief": "Middle Eastern oil exports rebounded in September as Saudi Arabia successfully boosted shipments.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHV0WUlQdWJ2UVdjY2FzaFliQU1TaEEtYmJQUzVUbjUwcWJkNkhZSXYwV1BwbkFqY3Z6MVRkT21jbWhCUEg0eGY0TnFnY25XVjFiQzBMbE5yOXJlbzZVYVZ3UTJMc1BjLUFtb0FVaDRWVW9jRVFUZDQ0N2hGX19NREk0MHhZZVNSekNVb01JLWVPR0gzdm9fQ1ZTbFlHa2hYSDFBY2JpdkpmeDRFM0dpU0VmdHluNzZGbkpZ?oc=5",
+      "dateLocation": "28 Sept 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Thailand declares civil service holiday due to severe floods",
+      "whyItMatters": "Government disruptions indicate the severity of regional weather extremes.",
+      "brief": "Thailand declared a two-day holiday for civil services as catastrophic floods disrupted administrative operations.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM?oc=5",
-      "dateLocation": "September 27, 2026 | Thailand",
+      "dateLocation": "28 Sept 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Floods and Landslides Kill 70 Across India and Nepal",
-      "whyItMatters": "Demonstrates severe regional weather impacts causing widespread fatalities and humanitarian crises.",
-      "brief": "Devastating floods and landslides have left at least 56 people dead in India and 14 in Nepal, triggering urgent rescue operations and widespread displacement.",
+      "headline": "Floods and landslides kill 70 across India and Nepal",
+      "whyItMatters": "Mass casualties underscore the growing severity of monsoon disasters in South Asia.",
+      "brief": "Continuous torrential rains triggered devastating landslides and floods, killing 56 in India and 14 in Nepal.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5",
-      "dateLocation": "September 27, 2026 | New Delhi/Kathmandu",
+      "dateLocation": "28 Sept 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Weighs Allowing Tech Giants to Buy New Nvidia Chips",
-      "whyItMatters": "Signals potential shifts in global semiconductor supply chains and US-China tech restrictions.",
-      "brief": "Beijing is reportedly considering permitting companies like ByteDance and Alibaba to purchase advanced Nvidia chips, balancing technological needs against strategic controls.",
+      "headline": "China weighs allowing ByteDance and Alibaba to buy Nvidia chips",
+      "whyItMatters": "Easing hardware restrictions could reshape AI competition between US and Chinese tech giants.",
+      "brief": "Beijing is reportedly considering permissions for domestic firms to acquire new Nvidia AI chips.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5",
-      "dateLocation": "September 27, 2026 | Beijing",
+      "dateLocation": "28 Sept 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Russia Strikes Ukraine's Largest Mobile Provider and Data Centres",
-      "whyItMatters": "Intensifies cyber and telecommunications warfare targeting critical civilian infrastructure.",
-      "brief": "Russian military strikes hit Ukraine's largest mobile network operator and crucial data centers, aiming to disrupt communications and digital infrastructure nationwide.",
+      "headline": "South Korea demands apology from Ukraine over POW disclosure",
+      "whyItMatters": "Diplomatic friction grows as sensitive military information leaks regarding North Korean combatants.",
+      "brief": "Seoul demanded an official apology after Ukraine disclosed confidential details about North Korean prisoners of war.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNYXzZmVUxfWFM4bHFTcUpnN0VKSDFxX3RtdmN6RzlSMXJOX04yQWxjOXByaGNTMmdPYnhpRGhKbEhIWGp5X0UzeFZKWnZ0S0dLVVdWTkJiX0doUkNEbjQxelIweHBIOEJmRU50TVRWLTludHN5RHh3U3Vhd1JucjNCWkZWZ0dkMEo3ZEpuLTVvdG9RdGl5MnE3T0lEaEVha1JfeGoyYU1sXzVYeml6QU11RnZ6Qnpla3NJYlhGTEpndTdnMFpB?oc=5",
-      "dateLocation": "September 27, 2026 | Kyiv",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHdqdnFfTEZYT1kxVWlSSlZRRnRseEw0RzAzbERrM2d0S2ZVSHhtb3Uzb3lwNi13cnNHV2ZobHVnclhfRzFxR2VPWEUzMGFFQ2hEa0Rvb1oyOXgybW9wejZsSVZZTVZ5OVdjZWhOVW5xVTNfTUtrbkRKUksxNW1hZXN1VWlvOGloRjRyV1BTTG1jdGJKMUxYV1RJWXdlNDF3aWpLbzl1N2g3Zl9XUWd5WXFuSmlXWEJXUFVTSktBV29CUnd6WEJuejE5VQ?oc=5",
+      "dateLocation": "28 Sept 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Category 3 Hurricane Polo Threatens Mexican Pacific Coast",
-      "whyItMatters": "Poses immediate severe weather threats to coastal settlements and regional disaster response.",
-      "brief": "Hurricane Polo has intensified to a Category 3 storm, tracking toward Mexico's Pacific coast with expected landfall bringing destructive winds and heavy rains.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUY3Q0FpQVhiM3FLSTNKZlJ0TVZqSkE1ZUlKZG9LeERqTThoRTRZbVliaG5OTzZ0QnMwNkN3eTY4UmhFWXUtM3RBaFV3X3BWTjRTcWJMMWVSRGdlRFFTZ0RoLUpVSl9wWjhKVklRNEQ1WWJxYkxlR1lUWDFXdXBPQlFqbUxjemdZSGNjbU5aeTN6ZzYzQ2RxdEgydDRBd25oTFZyb3kwclBNejVrclhpM2ZQT3YxUDR5YldpRUJWX0hjSHR6c1VmWExjdw?oc=5",
-      "dateLocation": "September 27, 2026 | Mexico City",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Boeing Flags 737 MAX Software Glitch Affecting Landing Navigation",
-      "whyItMatters": "Raises fresh aviation safety concerns regarding critical flight control systems.",
-      "brief": "Boeing has warned airlines of a software glitch in 737 MAX aircraft affecting landing navigation features, prompting close scrutiny from aviation regulators.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5",
-      "dateLocation": "September 27, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK Police Arrest Five Over Suspected Terrorist Plot Near Air Base",
-      "whyItMatters": "Highlights ongoing security threats targeting sensitive military facilities used by allied forces.",
-      "brief": "Counter-terrorism police in the UK have arrested five individuals preparing a suspected attack near RAF Fairford, prompting evacuations and bomb squad deployments.",
+      "headline": "Omar Abdullah moves resolution on J&K statehood restoration",
+      "whyItMatters": "A pivotal political move addressing the constitutional status and autonomy of Jammu and Kashmir.",
+      "brief": "Chief Minister Omar Abdullah moved a formal assembly resolution seeking the restoration of statehood for J&K.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/uk-london-fairford-air-base-bomb-threat/article71515604.ece",
-      "dateLocation": "September 27, 2026 | London",
+      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-resolution-on-statehood-debate-in-jammu-kashmir-assembly/article71518226.ece",
+      "dateLocation": "28 Sept 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Proposed Three-Day Nationwide Bank Strike in India Deferred",
-      "whyItMatters": "Averts major disruptions to commercial banking operations and customer financial transactions.",
-      "brief": "Following late-night negotiations between bank unions and authorities, the planned three-day nationwide strike has been called off, ensuring normal operations.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/bank-strike-on-28-29-30-september-deferred-salaried-individuals-to-get-money-in-account-as-usual-11790534456293.html",
-      "dateLocation": "September 27, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New US Green Card Rules Take Effect Highlighting Financial Self-Sufficiency",
-      "whyItMatters": "Directly impacts immigration applicants by tightening financial scrutiny and support requirements.",
-      "brief": "USCIS has implemented stricter Green Card regulations requiring most applicants to thoroughly prove financial independence, while exempting specific humanitarian categories.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/new-green-card-rules-that-came-into-effect-starting-this-september-list-of-categories-subject-to-the-changes-and-those-that-are-not-impacted/articleshow/134515826.cms",
-      "dateLocation": "September 27, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Insurance Regulator Raises Concerns Over Mis-Selling Due to Commissions",
-      "whyItMatters": "Aims to protect retail consumers from aggressive and misleading financial product sales.",
-      "brief": "The insurance regulator has warned that excessive upfront commissions are driving a surge in policy mis-selling, signaling upcoming stringent compliance reforms.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/insure/insurance-mis-selling-is-arising-because-upfront-commissions-are-too-high-ajay-seth-chairman-irdai/articleshow/134525727.cms",
-      "dateLocation": "September 27, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Women's Hockey Team Beats Singapore 7-0 in Asiad",
-      "whyItMatters": "Showcases top-tier athletic dominance and advances national medal hopes in international sports.",
-      "brief": "The Indian women's hockey team secured a decisive 7-0 victory over Singapore to finish their group stage unbeaten, advancing confidently to the tournament semifinals.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/hockey/asiad-hockey-indian-women-beat-singapore-7-0-to-finish-unbeaten-to-play-korea-in-semifinals/article71517296.ece",
-      "dateLocation": "September 27, 2026 | Asia",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Virat Kohli Joins Sachin Tendulkar Reaching 15,000 ODI Runs",
-      "whyItMatters": "Marks a historic milestone in international cricket history achieved by very few players.",
-      "brief": "Star batter Virat Kohli became only the second player in cricket history to cross the 15,000-run milestone in One Day International matches.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohli-becomes-only-the-second-batter-after-sachin-tendulkar-to-reach-this-milestone/articleshow/134522424.cms",
-      "dateLocation": "September 27, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "CDSCO Steps Up Scrutiny on Pharma Drugs With Narcotic Substances",
-      "whyItMatters": "Crackdown curbs illegal drug diversion and strengthens pharmaceutical supply chain accountability.",
-      "brief": "India's drug regulator has launched strict enforcement actions against pharmaceutical companies engaging in illegal detours of medicinal drugs containing narcotic ingredients.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cdsco-steps-up-scrutiny-of-pharma-drugs-containing-narcotic-substances/articleshow/134525250.cms",
-      "dateLocation": "September 27, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI Crackdown Prompts Hiring Surge in Food Safety Compliance",
-      "whyItMatters": "Reshapes corporate hiring trends and underscores mandatory regulatory adherence across food industries.",
-      "brief": "Recent regulatory crackdowns by the FSSAI have triggered an immediate hiring spike for food safety and compliance professionals across consumer goods sectors.",
+      "headline": "India bank unions defer nationwide three-day strike",
+      "whyItMatters": "Averting the strike prevents severe disruptions to commercial banking and retail services nationwide.",
+      "brief": "Bank unions called off their planned three-day strike following constructive discussions with authorities.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/fssai-crackdown-sparks-hiring-surge-in-food-safety-and-compliance/articleshow/134525246.cms",
-      "dateLocation": "September 27, 2026 | New Delhi",
+      "sourceUrl": "https://www.livemint.com/news/india/good-news-no-bank-strike-today-after-9-30-meeting-yesterday-top-4-takeaways-from-aiba-ufbu-discussion-full-details-11790562625344.html",
+      "dateLocation": "28 Sept 2026 | Mint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "South Korea and UN Command Investigate DMZ Explosion Incident",
-      "whyItMatters": "Tests inter-Korean border stability and triggers international security protocols.",
-      "brief": "The South Korean military alongside the UN Command has launched a formal investigation into a mysterious explosion reported near the heavily fortified Demilitarized Zone.",
+      "headline": "US-Canada trade tensions put whey protein imports at risk",
+      "whyItMatters": "Tariff escalation threatens supply chains for health supplements and agricultural manufacturers.",
+      "brief": "The ongoing US-Canada trade dispute has introduced tariffs and supply restrictions on imported whey protein.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/could-your-protein-powder-cost-more-the-us-canada-trade-war-is-putting-whey-at-risk-11790545872835.html",
+      "dateLocation": "28 Sept 2026 | Mint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Netanyahu reportedly made secret visit to UAE",
+      "whyItMatters": "Deepens diplomatic intrigue surrounding Middle Eastern security and regional political alliances.",
+      "brief": "An Israeli official confirmed that Benjamin Netanyahu made a secret visit to meet Emirati leaders in Abu Dhabi.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-secretly-visited-uae-met-emirati-leader-in-abu-dhabi-israeli-official/articleshow/134529916.cms",
+      "dateLocation": "28 Sept 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Uttar Pradesh excess rainfall death toll climbs to 81",
+      "whyItMatters": "Unprecedented weather patterns cause widespread fatalities and agricultural collapse across northern India.",
+      "brief": "A retreating monsoon dumped massive rainfall over Uttar Pradesh, surging the death toll to 81 people.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/toll-rises-to-81-over-2254-houses-damaged-as-retreating-monsoon-ravages-up/articleshow/134525984.cms",
+      "dateLocation": "28 Sept 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Linde deepens India semiconductor footprint with Sanand land",
+      "whyItMatters": "Strengthens India's domestic electronic manufacturing and semiconductor supply ecosystem.",
+      "brief": "Industrial gas leader Linde secured a land parcel in Sanand to expand its local semiconductor support footprint.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWl2MjlNSFpiVWhIX21aZVAxdW5oVzh6V0xfVDZlcU9TX0IzZTRWcG5Uek1hYXl5WWY0NG8zWThRclJmZW9WNnktYS1aUVNUZmVJeFlwVUVUWXBVQ1RwWDcwV0pabldidDVQWGt2QkJWWGpJZWh5d29LRVJNN1BUUHktaE1sdEhLdW96NDN3WGwxcWN3Q1dBQ2p5eE9JTW1PbFRYRDd2ZWs2bEJnbmozaDB4aF9Wc0cxTXlqdm1fUXNWUVhfTnc?oc=5",
-      "dateLocation": "September 27, 2026 | Seoul",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/linde-deepens-its-india-semiconductor-footprint-locks-in-sanand-land-parcel/articleshow/134524508.cms",
+      "dateLocation": "28 Sept 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "SpaceX Starship targets maiden orbital test flight",
+      "whyItMatters": "A crucial milestone for commercial space exploration and heavy-payload lunar transport initiatives.",
+      "brief": "SpaceX is preparing its Starship rocket for its biggest test yet, aiming for a full orbital flight.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/spacex-starship-targets-first-orbital-flight-as-musk-pushes-rocket-towards-moon-mars/articleshow/134529566.cms",
+      "dateLocation": "28 Sept 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Asian Games 2026 medal contenders lead Indian hopes",
+      "whyItMatters": "Highlights elite international sports competition and national standing in multi-discipline events.",
+      "brief": "Top Indian athletes like Sable and Lovlina prepare for a packed medal-contending schedule at the Asian Games.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-28-2026/article71517841.ece",
+      "dateLocation": "28 Sept 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
