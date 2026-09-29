@@ -1,138 +1,147 @@
 {
-  "lastUpdated": "2026-09-28T22:55:04.714Z",
+  "lastUpdated": "2026-09-29T04:06:26.754Z",
   "ticker": [
-    "AMD acquires World Labs in $8.2B AI deal",
-    "US Labor Department hints at H-1B visa overhaul",
-    "UAE signals $25 billion investment push in India",
-    "Gold hits seven-week low on rate hike bets",
-    "India central bank completes 1 trillion rupee debt sale"
+    "Oil prices climb amid Middle East supply concerns",
+    "Anthropic eyes $2 trillion valuation in major IPO",
+    "SpaceX Starship reaches orbit before early descent",
+    "Supreme Court criticizes Delhi public safety measures",
+    "Essar Group to invest $18B in US steel plant"
   ],
   "articles": [
     {
-      "headline": "AMD Acquires World Labs for $8.2 Billion",
-      "whyItMatters": "Significantly strengthens AMD's enterprise AI systems strategy and market position.",
-      "brief": "AMD has acquired World Labs in an $8.2 billion transaction aimed at heavily bolstering its competitive positioning in artificial intelligence systems and enterprise deployment.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpLOGExLXd6b0dKeXJadmdubW9zdWZzTDB6eVhLb0RSN3RSQTYyenBJdTVRdmR6Vm5jRnp4VHVQQ1NEbGFQb1J0V08xcThIRUs1aG5NQ0piLXhEQTRhcXZQNEZkMUVuaHVyLTRNVjhjbDEtZmxuTGpuR2d1ZDU2b1pGdkxqS1o2TUNDcUMyaFUzRVdmUUpPQndkdEZMZw?oc=5",
-      "dateLocation": "September 29, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Hires MongoDB CEO to Lead Enterprise AI",
-      "whyItMatters": "Signals Meta's aggressive push into monetization and enterprise AI infrastructure.",
-      "brief": "Meta has tapped MongoDB CEO Desai to spearhead its expanding enterprise artificial intelligence push as tech giants vie for corporate dominance.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEtXZ3gxSXRQejgzMEFqZFdudGYwSWdvUDB5cGVmckloeG9OLWR0Ml8xbWVmLTZjSmI0TWw5QnQ4WGY5cVppYjVDbUhZYUpTSVhFUFFtbjExeUEwRTBVSVUxRTRxRFU3M0hvUXdKcWpVRndxSjJuNEZXc0VtRnhfa1ZiLThJSWdIcFlZbjBLTFlJZHc0RE5QVFIzUkE1SkZyQTFXT1RxMWlWZw?oc=5",
-      "dateLocation": "September 29, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Central Bank Completes Record Debt Sale",
-      "whyItMatters": "Marks a historic monetary maneuver impacting domestic liquidity and banking yields.",
-      "brief": "The Reserve Bank of India has successfully completed a 1 trillion rupee net debt sale for the first time in a decade.",
+      "headline": "Oil Prices Rise on Middle East Supply Worries",
+      "whyItMatters": "Escalating tensions threaten global energy stability and drive broader inflation.",
+      "brief": "Oil prices climbed for a second consecutive session as persistent concerns over the US-Iran conflict threaten regional crude supplies.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3NWWTdwOGpQeTBLTDE0dnVZOW40RjZ1aExzNEVXckZMaVhKNG1oRTdNM3o0NnZWa2E3MEFETzZQY1FyNnAwX01HRDFCamFfQzBPWVNkVGJEV1Q3SFZnMjVfWERBd19VNDluQkM4ZDE1VGJxMlRWa0dCZVdVUm1GeFdkUGozdFIzcWZ4amJLNjFrZjJ0ZGxMRnpTaWZyMUgyNnptN3dweWR1TU9PdTVEUGJrNW11NjRmUG5mYmJOZjVTelk?oc=5",
-      "dateLocation": "September 29, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
+      "dateLocation": "29 Sep 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Hits Seven-Week Low on Rate Hike Bets",
-      "whyItMatters": "Reflects broader macroeconomic shifts as surging treasury yields alter investor sentiment.",
-      "brief": "Precious metal prices slipped to a seven-week low as surging Treasury yields and oil prices prompted markets to bet heavily on higher Federal Reserve interest rates.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
-      "dateLocation": "September 29, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Anthropic Targets Massive Valuation in Upcoming IPO",
+      "whyItMatters": "It marks a watershed moment for artificial intelligence sector financing and valuations.",
+      "brief": "AI giant Anthropic is eyeing a valuation above $2 trillion in its highly anticipated initial public offering.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/anthropic-targets-more-than-2-trillion-valuation-in-closely-watched-ipo-despite-42-billion-2025-loss/articleshow/134554478.cms",
+      "dateLocation": "29 Sep 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UAE Pledges $25 Billion Investment in India",
-      "whyItMatters": "Deepens bilateral economic ties, targeting critical infrastructure sectors like ports and energy.",
-      "brief": "The UAE has signaled an additional $25 billion investment in India, focusing heavily on ports, energy, and space sectors to achieve a $200 billion trade target.",
+      "headline": "SpaceX Starship Reaches Orbit in Historic Milestone",
+      "whyItMatters": "Advances deep-space transport capabilities and future NASA lunar landing timelines.",
+      "brief": "SpaceX's Starship successfully reached orbit and deployed satellites before an engine malfunction forced an early return.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/us-news/video-spacexs-starship-reaches-orbit-in-historic-first-but-flight-ends-early-6-things-to-know-11790644936579.html",
+      "dateLocation": "29 Sep 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Rejects Report of Iran Sanctions Relief Offer",
+      "whyItMatters": "Clarifies US stance on diplomatic negotiations amid ongoing geopolitical conflict.",
+      "brief": "US President Donald Trump dismissed media reports claiming he offered Iran sanctions relief and frozen fund releases.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/iran-war-live-news-latest-updates-donald-trump-abbas-araghchi-ceasefire-peace-talks-strait-of-hormuz-oil-prices-11790645895271.html",
+      "dateLocation": "29 Sep 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi Announces Strict Winter Pollution Control Measures",
+      "whyItMatters": "Aggressive mitigation policies aim to curb severe seasonal health and environmental hazards.",
+      "brief": "Delhi authorities introduced vehicle curbs, remote work recommendations, and construction bans effective from November.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-announces-vehicle-curbs-work-from-home-construction-bans-for-winter-pollution/article71519626.ece",
+      "dateLocation": "29 Sep 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian IT Firms Slash H-1B Visa Filings",
+      "whyItMatters": "Signals a fundamental shift in traditional offshore outsourcing and talent deployment models.",
+      "brief": "Major Indian IT companies have dramatically reduced their reliance on US H-1B visas, with FY27 filings plunging 92%.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/uae-signals-another-25-billion-investment-in-india-eyes-ports-energy-and-space-sectors-goyal/article71520349.ece",
-      "dateLocation": "September 29, 2026 | The Hindu",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/indian-it-sheds-h-1b-habit-fy27-filings-plunge-92/articleshow/134548579.cms",
+      "dateLocation": "29 Sep 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tata Submits Revamp Plan to RBI to Avert Listing",
-      "whyItMatters": "Prevents mandatory public listing requirements for one of India's most powerful conglomerates.",
-      "brief": "Noel Tata has submitted a formal restructuring plan for Tata Sons to the Reserve Bank of India in a strategic move to avert mandatory stock exchange listing.",
+      "headline": "Essar Group to Invest $18 Billion in US Steel Plant",
+      "whyItMatters": "Represents one of the largest cross-border industrial manufacturing investments by an Indian firm.",
+      "brief": "India's Essar Group announced plans to build the largest US steel plant, backed by a massive $18 billion capital outlay.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/to-avert-listing-noel-submits-tata-sons-revamp-plan-to-rbi/articleshow/134550157.cms",
-      "dateLocation": "September 29, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/indias-essar-group-to-invest-18-billion-in-largest-us-steel-plant-trump-announces/articleshow/134553656.cms",
+      "dateLocation": "29 Sep 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Court Rebukes Government on Food Labels",
-      "whyItMatters": "Accelerates regulatory compliance and consumer safety protocols across the food manufacturing sector.",
-      "brief": "India's top court has strongly rebuked the government over the prolonged timeline for implementing clear nutritional and warning labels on packaged food items.",
+      "headline": "India Secures Silver in Women's Trap Team Event",
+      "whyItMatters": "Bolsters India's competitive standing at the international multi-sport continental showcase.",
+      "brief": "The Indian women's trap shooting team delivered a strong performance to claim the silver medal at the Asian Games.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-29-2026/article71521586.ece",
+      "dateLocation": "29 Sep 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Condemns Delhi Public Safety Failures",
+      "whyItMatters": "Increases judicial accountability pressure on law enforcement and administrative bodies.",
+      "brief": "The Supreme Court strongly criticized local police and government entities for failing to guarantee adequate public safety in Delhi.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-cops-government-have-failed-to-ensure-public-safety-in-delhi/articleshow/134553894.cms",
+      "dateLocation": "29 Sep 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rare-Disease Drugs Emerging as New Pharma Frontier in India",
+      "whyItMatters": "Positions domestic manufacturers to address high-value, unmet global medical needs cost-effectively.",
+      "brief": "With established expertise in affordable medicine, India is poised to build a globally competitive rare-disease pharmaceutical sector.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+      "dateLocation": "29 Sep 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Rebukes Government on Food Warning Timeline",
+      "whyItMatters": "Accelerates regulatory compliance and consumer transparency standards across packaged goods.",
+      "brief": "India's top court criticized the government's lax timeline regarding the implementation of mandatory health warning labels on food items.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzdWWmp0YW5lV0ExdDcxZ0t1MFZxMlB1UkZ5Qk9VMGhyVnlaLTZKYU5aRDlYYUxQaXIwc2stQ2NKdmRPSVhmSDU2Y0o0Y0ZkU0RnVkotZnZ0ZUJBWmJqX2hhc2RFeDBkN1NiMVNpbzZNcXlOMFZjbXlKTDFhNzk5X05qREhHc3htaXR5TW05WGdjeWN2UDVOSW1nS21RRmxuR1NyRXV4UlZuaFA4WFFB?oc=5",
-      "dateLocation": "September 29, 2026 | Reuters",
+      "dateLocation": "29 Sep 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Labor Department Hints at H-1B Visa Overhaul",
-      "whyItMatters": "Could disrupt foreign recruitment and tech staffing models across the United States.",
-      "brief": "A top Labor Department official hinted at a massive regulatory shutdown or major overhaul of the H-1B visa program amid fraud investigations.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/department-of-labor-ig-anthony-desposito-hints-at-total-shutdown-of-h-1b-via-program-says-365-days-from-now-/articleshow/134532030.cms",
-      "dateLocation": "September 29, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Predicts Fast Victory in Middle East Conflict",
-      "whyItMatters": "Shifts geopolitical expectations and promises dramatic impacts on global energy markets.",
-      "brief": "Donald Trump has predicted a quick U.S. victory in the ongoing conflict involving Iran, claiming domestic gas prices will tumble significantly as a result.",
+      "headline": "Europe's Top Chipmaker Reports Zero Domestic Customers",
+      "whyItMatters": "Highlights critical vulnerabilities in the European Union's technological sovereignty and semiconductor strategy.",
+      "brief": "ASML executives revealed the company sells no chipmaking machines within Europe due to insufficient local investments and factories.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms",
-      "dateLocation": "September 29, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/europes-biggest-chip-company-has-zero-customers-at-home-asml-exec says-were-not-selling-anything-at-all-in-europe-thats-because-/articleshow/134553990.cms",
+      "dateLocation": "29 Sep 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Massive Blaze at Russian Fireworks Factory Kills 14",
-      "whyItMatters": "Highlights recurring industrial safety violations and infrastructure vulnerabilities in Russia.",
-      "brief": "A devastating fire tore through a Russian fireworks facility, resulting in 14 confirmed fatalities and sparking local emergency investigations.",
+      "headline": "Gold Prices Hit Seven-Week Low Amid Rate Hike Bets",
+      "whyItMatters": "Reflects shifting macroeconomic sentiment as rising Treasury yields dampen safe-haven demand.",
+      "brief": "Gold prices fell to a seven-week low as surging Treasury yields and oil-fueled inflation expectations reinforced bets on higher Federal Reserve rates.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtRjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+      "dateLocation": "29 Sep 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "South Korea Blames North Korean Mines for DMZ Blasts",
+      "whyItMatters": "Escalates cross-border security friction and raises the risk of military retaliation.",
+      "brief": "Seoul's military concluded that recent landmine explosions injuring three soldiers inside the Demilitarized Zone were likely orchestrated by Pyongyang.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms",
-      "dateLocation": "September 29, 2026 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/world/seoul-says-north-korea-s-mines-likely-behind-dmz-explosions-11790651183835.html",
+      "dateLocation": "29 Sep 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Kerala High Court Warns on Exorbitant Drug Prices",
-      "whyItMatters": "Empowers state intervention to control life-saving medicine costs and protect consumer rights.",
-      "brief": "The Kerala High Court ruled that exorbitant pricing on patented medicines can legitimately trigger direct government intervention to safeguard public health access.",
+      "headline": "Maharashtra FDA Suspends License of Historic Kyani Cafe",
+      "whyItMatters": "Demonstrates tightening food safety enforcement across legacy dining establishments.",
+      "brief": "State health inspectors suspended the operational license of Mumbai's 122-year-old Kyani & Co following severe hygiene violations.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/kerala-hc-says-exorbitant-drug-prices-can-trigger-government-intervention-in-patented-medicines/articleshow/134549723.cms",
-      "dateLocation": "September 29, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI Energy Drink Crackdown Stirs Industry Panic",
-      "whyItMatters": "Threatens core labeling and marketing strategies for multi-billion-dollar beverage brands in India.",
-      "brief": "Beverage giants like Red Bull are suing Indian regulators over a strict mandate banning the 'energy drink' label for high-caffeine products, warning of commercial disruption.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/fssais-energy-drink-crackdown-red-bull-sues-regulator-says-label-ban-could-bring-business-to-standstill-11790612215109.html",
-      "dateLocation": "September 29, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FBI Adds Gangster Goldy Brar to Most Wanted List",
-      "whyItMatters": "Intifies international law enforcement cooperation against transnational organized crime syndicates.",
-      "brief": "The FBI has officially added notorious fugitive Goldy Brar to its top ten most wanted list, offering a $1 million reward for information.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms",
-      "dateLocation": "September 29, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maharashtra FDA Suspends Licence of Iconic Kyani Cafe",
-      "whyItMatters": "Demonstrates aggressive state-level enforcement of food safety standards across historic eateries.",
-      "brief": "Under aggressive inspections led by Tukaram Mundhe, the Maharashtra FDA suspended the license of the 122-year-old Kyani & Co cafe over hygiene violations.",
-      "category": "general",
       "sourceUrl": "https://www.livemint.com/news/india/tukaram-mundhes-maharashtra-fda-suspends-licence-of-122-year-old-kyani-cafe-in-mumbai-heres-what-inspection-found-11790613345327.html",
-      "dateLocation": "September 29, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "29 Sep 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
