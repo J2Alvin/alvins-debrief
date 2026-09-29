@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-09-29T04:06:26.754Z",
+  "lastUpdated": "2026-09-29T12:05:11.346Z",
   "ticker": [
-    "Oil prices climb amid Middle East supply concerns",
-    "Anthropic eyes $2 trillion valuation in major IPO",
-    "SpaceX Starship reaches orbit before early descent",
-    "Supreme Court criticizes Delhi public safety measures",
-    "Essar Group to invest $18B in US steel plant"
+    "Indian shares extend losing run on elevated oil and yields",
+    "Meta enters enterprise AI market to challenge major tech giants",
+    "Congress demands CEC resignation over voter deletion row",
+    "US-Canada trade tensions escalate as alcohol ban takes effect",
+    "Pakistan blocks airspace for Russian uranium flight to Bangladesh"
   ],
   "articles": [
     {
-      "headline": "Oil Prices Rise on Middle East Supply Worries",
-      "whyItMatters": "Escalating tensions threaten global energy stability and drive broader inflation.",
-      "brief": "Oil prices climbed for a second consecutive session as persistent concerns over the US-Iran conflict threaten regional crude supplies.",
+      "headline": "Indian shares extend losing streak",
+      "whyItMatters": "Highlights growing economic pressure from elevated global oil prices and bond yields.",
+      "brief": "Indian equities continued their downward trend as rising oil prices and surging bond yields weighed heavily on investor sentiment across key sectors.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
-      "dateLocation": "29 Sep 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5lWllfVDNRcEhXRTZMSTB4QnRraHlSN2NUaUJxMWN3dVlIeDJRbEx2aWVSa3JibXB6MVE1NVZPbGJTdkpBcnpzUHN2bjhMVTRPWFE1WGNuT25ESUNhYTNZRVpFZzhSQ2xnbUt5ZktKZWFSNWpjNG51NXNRWHNlM1dRNTZkUmZ2cC1hdDJYQjdIQ25keWstWGJ5T0VyUVpNNzBvQQ?oc=5",
+      "dateLocation": "Sept 29, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Anthropic Targets Massive Valuation in Upcoming IPO",
-      "whyItMatters": "It marks a watershed moment for artificial intelligence sector financing and valuations.",
-      "brief": "AI giant Anthropic is eyeing a valuation above $2 trillion in its highly anticipated initial public offering.",
+      "headline": "Rupee drops to two-month low",
+      "whyItMatters": "Signals mounting strain on India's currency amid escalating global energy concerns.",
+      "brief": "The Indian rupee breached key psychological barriers to hit a two-month low against the US dollar as deepening oil worries pressured emerging market currencies.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHNTZW52Uy1FNUw2R1RIaEFLa2RMZ25fLUNZMHluYUVBbW9WbTFIV1oxUE82WmtKSnNBN2pDSEI5cnF5Q0d5bWgyeHViT0VaV1dXNzBKbVhDLUhWMmRmQURUdEZua2E5eEZiNDJEVkUyamphM1pfRHVOa1NFSFpTazMzNWlQeVBKazNwWTFCNkpOMFBDYTZSaFhOb29LY1F5VmhGYUNxR19VV1VGVHhBdUc1UXUyLVh2LXp6bzNQWQ?oc=5",
+      "dateLocation": "Sept 29, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Google challenges EU AI orders",
+      "whyItMatters": "Sets a major legal precedent for big tech regulation and AI market competition in Europe.",
+      "brief": "Google has formally challenged European Union directives requiring the tech giant to open up its core search engine and AI offerings to regional competitors.",
       "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/anthropic-targets-more-than-2-trillion-valuation-in-closely-watched-ipo-despite-42-billion-2025-loss/articleshow/134554478.cms",
-      "dateLocation": "29 Sep 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWtfaTdEQks3cVluODNBeTVxRVQwOVNSSjdjMUZZV1I3eG1vSERQcjlLdGdNZ04wX0NaQTVxWTFfUUdQSG9pR0JJa2lGMW0yS3YybnBzVW0xQk9Zdm9XNTM1OWNNMjItbUhEUXc1NnhCVmY1Z0ZVRUx5SklwUlhsWDhndFM2N2VjNXBDQmdEbTNrXzhuaWdFbFp6Wkk2azF6Y3BOVXAyUQ?oc=5",
+      "dateLocation": "Sept 29, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "SpaceX Starship Reaches Orbit in Historic Milestone",
-      "whyItMatters": "Advances deep-space transport capabilities and future NASA lunar landing timelines.",
-      "brief": "SpaceX's Starship successfully reached orbit and deployed satellites before an engine malfunction forced an early return.",
+      "headline": "Meta launches enterprise AI platform",
+      "whyItMatters": "Intensifies corporate competition in the enterprise artificial intelligence software market against rivals.",
+      "brief": "Meta has introduced a comprehensive enterprise platform to sell AI models and tools to businesses, challenging Microsoft, Google, and OpenAI directly.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/video-spacexs-starship-reaches-orbit-in-historic-first-but-flight-ends-early-6-things-to-know-11790644936579.html",
-      "dateLocation": "29 Sep 2026 | Livemint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meta-enters-new-business-focused-on-selling-ai-tools-to-enterprise-customers-takes-on-google-microsoft-and-openai-mark-zuckerberg-says-we-believe-superintelligence-will-/articleshow/134562465.cms",
+      "dateLocation": "Sept 29, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Rejects Report of Iran Sanctions Relief Offer",
-      "whyItMatters": "Clarifies US stance on diplomatic negotiations amid ongoing geopolitical conflict.",
-      "brief": "US President Donald Trump dismissed media reports claiming he offered Iran sanctions relief and frozen fund releases.",
+      "headline": "Congress demands CEC resignation",
+      "whyItMatters": "Escalates political friction between major opposition parties and election oversight bodies in India.",
+      "brief": "The Congress Working Committee passed a formal resolution demanding the resignation of the Chief Election Commissioner over allegations of voter roll tampering.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/cec-election-commission-row-gyanesh-kumar-live-updates-september-29-2026/article71522496.ece",
+      "dateLocation": "Sept 29, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Telangana BJP targets CM Reddy",
+      "whyItMatters": "Deepens localized political hostility and sectarian rhetoric within state governance debates.",
+      "brief": "The Telangana BJP chief has publicly demanded an apology from Chief Minister Revanth Reddy over controversial remarks concerning religious figures.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/revanth-reddy-has-converted-himself-into-revanthuddin-telangana-bjp-chief-demands-apology-over-cms-ram-shiva-remarks/articleshow/134564159.cms",
+      "dateLocation": "Sept 29, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US-Canada trade war deepens",
+      "whyItMatters": "Demonstrates escalating economic protectionism and cross-border trade friction between North American allies.",
+      "brief": "President Trump’s ban on Canadian alcoholic beverages has officially taken effect, though specific exemptions remain for bulk whisky shipments.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/iran-war-live-news-latest-updates-donald-trump-abbas-araghchi-ceasefire-peace-talks-strait-of-hormuz-oil-prices-11790645895271.html",
-      "dateLocation": "29 Sep 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/us-news/uscanada-trade-war-deepens-trumps-ban-on-canadian-alcoholic-beverage-in-effect-but-bulk-whisky-exempted-heres-why-11790663954429.html",
+      "dateLocation": "Sept 29, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Announces Strict Winter Pollution Control Measures",
-      "whyItMatters": "Aggressive mitigation policies aim to curb severe seasonal health and environmental hazards.",
-      "brief": "Delhi authorities introduced vehicle curbs, remote work recommendations, and construction bans effective from November.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-announces-vehicle-curbs-work-from-home-construction-bans-for-winter-pollution/article71519626.ece",
-      "dateLocation": "29 Sep 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Pakistan blocks Russian uranium flight",
+      "whyItMatters": "Highlights geopolitical transport restrictions impacting regional nuclear energy supply chains.",
+      "brief": "Pakistan reportedly blocked its airspace for a Russian cargo flight carrying essential uranium fuel intended for a Bangladeshi nuclear power plant.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/technical-issue-pakistan-blocks-airspace-for-russian-flight-carrying-uranium-for-bangladesh-nuclear-plant/articleshow/134565076.cms",
+      "dateLocation": "Sept 29, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian IT Firms Slash H-1B Visa Filings",
-      "whyItMatters": "Signals a fundamental shift in traditional offshore outsourcing and talent deployment models.",
-      "brief": "Major Indian IT companies have dramatically reduced their reliance on US H-1B visas, with FY27 filings plunging 92%.",
+      "headline": "AI chip demand drives import costs",
+      "whyItMatters": "Connects global high-tech supply chain trends to domestic inflation pressures in emerging economies.",
+      "brief": "Surging international costs for memory chips are driving up India's tech import bill and raising retail prices for smartphones and laptops.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/indian-it-sheds-h-1b-habit-fy27-filings-plunge-92/articleshow/134548579.cms",
-      "dateLocation": "29 Sep 2026 | Economic Times",
+      "sourceUrl": "https://www.livemint.com/news/ai-memory-chips-chipflation-india-inflation-import-bill-smartphones-laptops-pen-drives-11790658517340.html",
+      "dateLocation": "Sept 29, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Essar Group to Invest $18 Billion in US Steel Plant",
-      "whyItMatters": "Represents one of the largest cross-border industrial manufacturing investments by an Indian firm.",
-      "brief": "India's Essar Group announced plans to build the largest US steel plant, backed by a massive $18 billion capital outlay.",
+      "headline": "Military-grade drones seized in Delhi",
+      "whyItMatters": "Exposes serious security vulnerabilities and illegal smuggling networks operating through major aviation hubs.",
+      "brief": "Customs authorities at Delhi airport seized ten military-grade drones from three incoming international passengers during routine screening.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/indias-essar-group-to-invest-18-billion-in-largest-us-steel-plant-trump-announces/articleshow/134553656.cms",
-      "dateLocation": "29 Sep 2026 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/10-military-grade-drones-seized-from-three-indian-passengers-at-delhi-airport/articleshow/134561709.cms",
+      "dateLocation": "Sept 29, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Secures Silver in Women's Trap Team Event",
-      "whyItMatters": "Bolsters India's competitive standing at the international multi-sport continental showcase.",
-      "brief": "The Indian women's trap shooting team delivered a strong performance to claim the silver medal at the Asian Games.",
+      "headline": "Kazakh athlete stripped of gold",
+      "whyItMatters": "Emphasizes strict regulatory enforcement of athletic equipment guidelines in international sporting events.",
+      "brief": "A Kazakh race walker had her Asian Games gold medal revoked following a rule violation concerning authorized footwear specifications.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-29-2026/article71521586.ece",
-      "dateLocation": "29 Sep 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sport/kazakh-race-walkers-gold-medal-stripped-at-asian-games-for-footwear-breach/article71521424.ece",
+      "dateLocation": "Sept 29, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Condemns Delhi Public Safety Failures",
-      "whyItMatters": "Increases judicial accountability pressure on law enforcement and administrative bodies.",
-      "brief": "The Supreme Court strongly criticized local police and government entities for failing to guarantee adequate public safety in Delhi.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-cops-government-have-failed-to-ensure-public-safety-in-delhi/articleshow/134553894.cms",
-      "dateLocation": "29 Sep 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rare-Disease Drugs Emerging as New Pharma Frontier in India",
-      "whyItMatters": "Positions domestic manufacturers to address high-value, unmet global medical needs cost-effectively.",
-      "brief": "With established expertise in affordable medicine, India is poised to build a globally competitive rare-disease pharmaceutical sector.",
+      "headline": "Health risks of single cigarettes",
+      "whyItMatters": "Reiterates scientific consensus on cardiovascular dangers associated with even minimal tobacco consumption.",
+      "brief": "Recent health studies indicate that smoking even a single cigarette daily poses significant and persistent risks to overall cardiovascular health.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
-      "dateLocation": "29 Sep 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/health/smoking-just-1-cigarette-a-day-is-there-a-safe-number-for-your-heart/articleshow/134546227.cms",
+      "dateLocation": "Sept 29, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Rebukes Government on Food Warning Timeline",
-      "whyItMatters": "Accelerates regulatory compliance and consumer transparency standards across packaged goods.",
-      "brief": "India's top court criticized the government's lax timeline regarding the implementation of mandatory health warning labels on food items.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzdWWmp0YW5lV0ExdDcxZ0t1MFZxMlB1UkZ5Qk9VMGhyVnlaLTZKYU5aRDlYYUxQaXIwc2stQ2NKdmRPSVhmSDU2Y0o0Y0ZkU0RnVkotZnZ0ZUJBWmJqX2hhc2RFeDBkN1NiMVNpbzZNcXlOMFZjbXlKTDFhNzk5X05qREhHc3htaXR5TW05WGdjeWN2UDVOSW1nS21RRmxuR1NyRXV4UlZuaFA4WFFB?oc=5",
-      "dateLocation": "29 Sep 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Europe's Top Chipmaker Reports Zero Domestic Customers",
-      "whyItMatters": "Highlights critical vulnerabilities in the European Union's technological sovereignty and semiconductor strategy.",
-      "brief": "ASML executives revealed the company sells no chipmaking machines within Europe due to insufficient local investments and factories.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/europes-biggest-chip-company-has-zero-customers-at-home-asml-exec says-were-not-selling-anything-at-all-in-europe-thats-because-/articleshow/134553990.cms",
-      "dateLocation": "29 Sep 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Prices Hit Seven-Week Low Amid Rate Hike Bets",
-      "whyItMatters": "Reflects shifting macroeconomic sentiment as rising Treasury yields dampen safe-haven demand.",
-      "brief": "Gold prices fell to a seven-week low as surging Treasury yields and oil-fueled inflation expectations reinforced bets on higher Federal Reserve rates.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtRjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
-      "dateLocation": "29 Sep 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "South Korea Blames North Korean Mines for DMZ Blasts",
-      "whyItMatters": "Escalates cross-border security friction and raises the risk of military retaliation.",
-      "brief": "Seoul's military concluded that recent landmine explosions injuring three soldiers inside the Demilitarized Zone were likely orchestrated by Pyongyang.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/seoul-says-north-korea-s-mines-likely-behind-dmz-explosions-11790651183835.html",
-      "dateLocation": "29 Sep 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maharashtra FDA Suspends License of Historic Kyani Cafe",
-      "whyItMatters": "Demonstrates tightening food safety enforcement across legacy dining establishments.",
-      "brief": "State health inspectors suspended the operational license of Mumbai's 122-year-old Kyani & Co following severe hygiene violations.",
+      "headline": "Allahabad HC bans restaurant hookahs",
+      "whyItMatters": "Enforces strict public health regulations under national anti-tobacco legislation across commercial dining establishments.",
+      "brief": "The Allahabad High Court prohibited restaurants in Uttar Pradesh from operating hookah bars or providing tobacco services, citing direct COTPA violations.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/tukaram-mundhes-maharashtra-fda-suspends-licence-of-122-year-old-kyani-cafe-in-mumbai-heres-what-inspection-found-11790613345327.html",
-      "dateLocation": "29 Sep 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india/allahabad-hc-bars-sale-of-hookah-in-restaurants-operation-of-hookah-bars-in-up-cites-violation-under-cotpa-11790671256540.html",
+      "dateLocation": "Sept 29, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "SIT probes Bengaluru fake drugs",
+      "whyItMatters": "Uncovers widespread distribution networks of counterfeit medical products within regulated hospital supply chains.",
+      "brief": "A Special Investigation Team in Bengaluru is probing various hospitals that allegedly procured and utilized fake medicines from accused suppliers.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-fake-drug-racket-sit-probes-hospitals-that-purchased-medicines-from-accused-examines-compliance/article71522970.ece",
+      "dateLocation": "Sept 29, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi HC rules on property rights",
+      "whyItMatters": "Clarifies legal boundaries regarding familial habitation rights within a parent's private residential property.",
+      "brief": "The Delhi High Court ruled that adult children cannot legally occupy a mother's residential home against her explicit personal wishes.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/wealth/legal/will/mother-wins-property-battle-against-son-and-daughter-in-law-delhi-hc-orders-them-to-vacate-her-house/articleshow/134561533.cms",
+      "dateLocation": "Sept 29, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
