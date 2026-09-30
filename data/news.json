@@ -1,147 +1,138 @@
 {
-  "lastUpdated": "2026-09-30T03:52:42.075Z",
+  "lastUpdated": "2026-09-30T11:53:06.517Z",
   "ticker": [
-    "Trump rejects Iran sanction relief",
-    "Pentagon awards Boeing $20bn contract",
-    "Apple Pay launches in India",
-    "Anthropic IPO details Big Tech ties",
-    "Chinese factory activity rebounds"
+    "US-led anti-ISIS mission ends in Iraq after 12 years",
+    "Police seek charges over 2017 Grenfell Tower fire",
+    "Flydubai flight diverted to Saudi Arabia following cockpit altercation",
+    "India cabinet clears major Rabi MSP hikes and green corridor",
+    "Bank of England governor questions early AI regulation"
   ],
   "articles": [
     {
-      "headline": "Chinese Factory Activity Returns to Growth",
-      "whyItMatters": "Signals stabilization in the world's second-largest economy amid tech booms.",
-      "brief": "Chinese factory activity has officially returned to expansion territory in September, propelled heavily by the ongoing artificial intelligence infrastructure boom.",
+      "headline": "US-Led Coalition Concludes 12-Year Iraq Military Mission",
+      "whyItMatters": "Marks a significant geopolitical shift in Middle Eastern security and regional military deployments.",
+      "brief": "The US-led coalition has formally ended its 12-year military mission in Iraq following the defeat of ISIS as an organized force, with remaining international troops completing their withdrawal.",
+      "category": "world",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo",
+      "dateLocation": "Today | Baghdad",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Police Seek Charges Against 20 Firms Over Grenfell Fire",
+      "whyItMatters": "Presents a massive accountability milestone for the tragic 2017 London high-rise disaster.",
+      "brief": "British police are seeking criminal charges against 54 individuals and 20 corporate entities following a comprehensive investigation into the 2017 Grenfell Tower fire that claimed 72 lives.",
+      "category": "world",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo",
+      "dateLocation": "Today | London",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Flydubai Flight Diverted to Saudi Arabia After Cockpit Dispute",
+      "whyItMatters": "Highlights critical aviation safety concerns regarding in-flight altercations and sudden emergency diversions.",
+      "brief": "A commercial Flydubai flight from Dubai to Tel Aviv was forced to make an emergency landing in Saudi Arabia following a violent altercation between the pilots onboard.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/world/flydubai-flight-from-dubai-to-tel-aviv-diverted-to-saudi-arabia-after-altercation-between-pilots-what-we-know-11790752866600.html",
+      "dateLocation": "Today | Tabuk",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Cabinet Clears Major Rabi MSP Hikes and Green Corridor",
+      "whyItMatters": "Directly impacts agricultural incomes and accelerates national renewable energy transmission infrastructure.",
+      "brief": "The Indian Union Cabinet has sanctioned increased Minimum Support Prices for Rabi crops and approved a massive financial boost for the Green Energy Corridor-III scheme.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2hBclpDSnZBY0I0SjlMLVdOb3psd0dpV3NpNERFTTB5TkE1eXEzNm43TXVHV1BqMGZIZXYyZXJ3WVFBa0lXYXc4aWxsbXItUGtkQUdzUVMzQ2lMQmtxNTJRYUROYlBZbGlPVGJJclI0YlpMcEdJVXpWakRjU3QzeFM5Sm4tNnh5VVd4MnREbHN0VkIxOG51bjNnUUI5aHJGQmdLLXZnYnBld0N1Ym84?oc=5",
-      "dateLocation": "September 30, 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rabi-msp-rs-1-86-lakh-crore-green-corridor-delhi-ai-traffic-system-cabinet-clears-3-key-measures/articleshow/134590128.cms",
+      "dateLocation": "Today | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Lilly's Experimental Drug Cuts Weight by 21%",
-      "whyItMatters": "Advances pharmaceutical treatments for diabetes and obesity markets.",
-      "brief": "Eli Lilly's newest experimental drug demonstrated a 21% weight reduction in recent diabetes clinical trials, showcasing major therapeutic promise.",
+      "headline": "SEBI Fines Shares Bazaar Over Assured Return Schemes",
+      "whyItMatters": "Reinforces regulatory crackdowns on fraudulent financial platforms misleading retail investors.",
+      "brief": "SEBI has levied a ₹20 lakh fine on Shares Bazaar and four others for running illegal investment schemes promising exorbitant assured returns while falsely claiming market backing.",
+      "category": "finance",
+      "sourceUrl": "https://www.thehindu.com/business/sebi-levies-20-lakh-fine-on-shares-bazaar-four-others-for-violating-market-norms/article71528131.ece",
+      "dateLocation": "Today | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Greggs to Close Four Factories and Cut 740 Jobs",
+      "whyItMatters": "Demonstrates ongoing industrial restructuring amid changing consumer demands and rising operational pressures.",
+      "brief": "British bakery chain Greggs announced plans to shutter four manufacturing plants and eliminate 740 jobs as part of a broader corporate evolution strategy.",
+      "category": "business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm7802ylq973o",
+      "dateLocation": "Today | London",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Progresses Toward 100% Ethanol Flex-Fuel Engines",
+      "whyItMatters": "A pivotal step toward reducing heavy national reliance on expensive petroleum imports.",
+      "brief": "Union Minister Nitin Gadkari announced that India is actively developing flex-fuel engines capable of running entirely on 100% ethanol to curb crude oil import dependency.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-says-flex-fuel-engines-capable-of-running-on-100-ethanol-are-being-developed-vehicles-using-the-technology-will-be-introduced-as-india-pushes-alternative-fuels/articleshow/134585484.cms",
+      "dateLocation": "Today | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Bank of England Governor Cautions Against Premature AI Regulation",
+      "whyItMatters": "Shapes the future trajectory of global financial technology governance and risk containment.",
+      "brief": "Bank of England Governor Andrew Bailey has stated that heavy-handed regulation is not the right place to start with AI, emphasizing rigorous testing and safeguards instead.",
+      "category": "technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o",
+      "dateLocation": "Today | London",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Army Expands Use of AI and Digital Engineering",
+      "whyItMatters": "Signals a technological modernization wave in national defense preparedness and data autonomy.",
+      "brief": "The Indian Army is scaling up its adoption of artificial intelligence and digital engineering to streamline data processing, tactical training sets, and virtual defense equipment testing.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/army-has-moved-into-ai-maj-gen-anand-on-india-s-defence-tech-data-and-self-reliance-exclusive-11790742811939.html",
+      "dateLocation": "Today | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "INDIA Bloc Announces Nationwide 'Save Democracy March'",
+      "whyItMatters": "Intensifies political friction and opposition alignment ahead of key electoral showdowns.",
+      "brief": "The opposition INDIA bloc has announced a major unity march scheduled for October 2, targeting central government policies and projecting a united political front.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/save-democracy-march-announced-india-bloc-projects-unity-amid-sir-row-targets-pm-modi-amit-shah/articleshow/134588801.cms",
+      "dateLocation": "Today | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Targets US Voters in Open Letter Ahead of Midterms",
+      "whyItMatters": "Reflects continuing foreign interference efforts targeting domestic American political processes.",
+      "brief": "Iran's Islamic Revolutionary Guard Corps has issued a 25-page open letter urging US voters to reject political figures associated with past foreign wars and tensions.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/remove-evil-deceitful-politicians-iran-woos-us-voters-ahead-of-midterms-in-25-page-letter-what-is-inside-11790759519783.html",
+      "dateLocation": "Today | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Favors Conditional Relaxation for Green Crackers",
+      "whyItMatters": "Balances traditional festive celebrations with environmental pollution mitigation efforts.",
+      "brief": "The Supreme Court indicated support for conditional relaxation on new-generation joined green crackers after scientific reports confirmed lower noise and emission levels.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmJvRVgxMnhYOXRRX3pwUGtKYXZic2pPbnhZTGp5SzVHbDR3M1ZQdlRkTFc2eW1NNnh3bkduWTh1MExJTXB6dTRidXNjdVBCVHJZT3lsWXJ2TWluQ2h6Rm5kTUxadFB4RzB3cUUxWFNzVmlkcmp4WXdEb2RWYy1TZkJQOFVHbGY2RnJHOHhPbjBvdmNqeFNWYmFLVkM0SzFySmo4ZTRfZ1NvN0NzRVZlMENDNlNRSlF3Y0RiREo3MzBFSGxBdDRNaA?oc=5",
-      "dateLocation": "September 30, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-weighs-in-favour-of-conditional-relaxation-on-next-gen-joined-green-crackers-ahead-of-festive-season/article71527624.ece",
+      "dateLocation": "Today | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Climbs as Trump Denies Iran Sanction Easing",
-      "whyItMatters": "Directly impacts global energy prices and geopolitical stability.",
-      "brief": "Crude oil prices moved upward following President Trump's public denial that his administration is willing to ease ongoing sanctions against Iran.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aM03Zw?oc=5",
-      "dateLocation": "September 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "FSSAI Shuts Down Delhi Hotel Operations Over Hygiene Violations",
+      "whyItMatters": "Emphasizes strict enforcement of commercial food safety standards to protect public health.",
+      "brief": "The FSSAI suspended the license of Seven Seas Hospitality in Delhi and destroyed 74 kg of non-compliant food after discovering rotten items, cockroaches, and degraded oil.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/fssai-action-at-seven-seas-hotel-rotten-food-blackened-oil-cockroaches-found-74-kg-of-food-items-destroyed-onsite-11790764257510.html",
+      "dateLocation": "Today | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Anthropic IPO Prospectus Exposes Big Tech Reliance",
-      "whyItMatters": "Highlights structural vulnerabilities and market interdependencies in the AI sector.",
-      "brief": "Anthropic's newly filed initial public offering prospectus lays bare the AI startup's deep-rooted financial dependence on massive Big Tech partners.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1Q4X3lqOUdZYllBZFVuZFBIWGt6dmdua2JoVnZ0aVVnWnd0M2lscWd0UFB6c3QxRmNJdXJ2T3ppbXR5TW8wZ2lzQU5obDR2U2t0WldJUWx4MEo2V29HVldhSEtVUWVPdkdIQ1dVSUtkcG5hTE5UWDVKek9hTjhkNGU4eGNKcmRPY1JjWmRaTXJVblBoWldzNU1PalhocDRfRHdPRnhxVEV5ckRsenJZ?oc=5",
-      "dateLocation": "September 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Launches Autonomous Agent System",
-      "whyItMatters": "Intensifies competition with Meta in the enterprise autonomous workflows space.",
-      "brief": "OpenAI has officially unveiled its new autonomous agent system to challenge Meta's dominance in the rapidly growing automated tools sector.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
-      "dateLocation": "September 30, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Seizes ₹3,000 Crore Drugs in Arabian Sea",
-      "whyItMatters": "Demonstrates major international maritime counter-narcotics enforcement success.",
-      "brief": "The Indian Coast Guard intercepted an Iranian boat in the Arabian Sea, seizing high-grade narcotics worth ₹3,000 crore and detaining five Pakistani nationals.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/3000-crore-drugs-seized-from-iranian-boat-in-arabian-sea-5-pakistan-nationals-detained/article71526673.ece",
-      "dateLocation": "September 30, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pentagon Awards Boeing $20 Billion Fighter Contract",
-      "whyItMatters": "Secures long-term military aerospace manufacturing and strategic defense capabilities.",
-      "brief": "The Pentagon has awarded Boeing a massive $20 billion contract to design and construct the U.S. Navy's next-generation fighter jets.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/pentagon-awards-boeing-20-billion-contract-for-us-navys-next-generation-fighter-jets-heres-what-we-know-11790729503162.html",
-      "dateLocation": "September 30, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Boosts Exporter Tax Refund Outlays",
-      "whyItMatters": "Aims to enhance global trade competitiveness and liquidity amidst challenges.",
-      "brief": "The Indian government plans to ramp up tax refund schemes for domestic exporters to nearly ₹2 trillion over a five-year period.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/govt-outlay-hike-two-tax-refund-schemes-exporters-2-trillion-five-years-11790680288540.html",
-      "dateLocation": "September 30, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump and Tech CEOs Sign AI Safety Pact",
-      "whyItMatters": "Establishes unprecedented federal guidelines for domestic artificial intelligence deployment.",
-      "brief": "U.S. President Donald Trump and major tech industry chief executives have signed a landmark agreement described as a constitution for AI safety.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/almost-like-a-constitution-trump-top-us-tech-ceos-sign-ai-safety-pact/articleshow/134577581.cms",
-      "dateLocation": "September 30, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Rules Out AI Cooperation With China",
-      "whyItMatters": "Deepens technological decoupling between the world's leading economic powers.",
-      "brief": "The U.S. government has officially dismissed the possibility of working alongside China on artificial intelligence governance, citing severe strategic leverage concerns.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/less-than-a-week-after-chinese-president-xi-jinpings-visit-the-us-government-rules-out-working-with-china-on-ai-the-american-president-says-do-not-want-/articleshow/134577499.cms",
-      "dateLocation": "September 30, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple Pay Officially Launches in India",
-      "whyItMatters": "Expands mobile payment ecosystems for major domestic financial institutions.",
-      "brief": "Apple Pay has officially arrived in the Indian market, rolling out initial support for Visa and Mastercard credit cards via Axis Bank.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/apple-pay-comes-to-india-with-axis-bank-visa-mastercard-credit-cards/articleshow/134578396.cms",
-      "dateLocation": "September 30, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Notifies CAFE III Fuel Efficiency Norms",
-      "whyItMatters": "Pushes automotive industries toward aggressive fleet electrification targets.",
-      "brief": "The Indian government has officially notified the CAFE III fuel efficiency regulations for cars, offering triple credits for battery EVs.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/cafe-3-fuel-efficiency-norms-notified-for-cars-3x-credit-for-battery-evs-no-special-benefit-for-small-cars/articleshow/134579490.cms",
-      "dateLocation": "September 30, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Secure Medals at Asian Games 2026",
-      "whyItMatters": "Bolsters national standing in elite international athletic competitions.",
-      "brief": "Indian athletes continued their stellar performance at the Asian Games, securing gold in the women's compound archery event and advancing further.",
+      "headline": "Avener and Rampage Impress in Latest Equestrian Track Trials",
+      "whyItMatters": "Provides vital form updates for turf enthusiasts and racing competitors ahead of major events.",
+      "brief": "Racehorses Avener, Rampage, and Credence delivered standout performances during morning track trials, catching the eye of observers ahead of upcoming race fixtures.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71525800.ece",
-      "dateLocation": "September 30, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sport/races/avener-rampage-and-credence-catch-the-eye/article71528376.ece",
+      "dateLocation": "Today | Chennai",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Akash Reflects on Recovery and Fitness",
-      "whyItMatters": "Outlines professional athlete preparation strategies following extended injuries.",
-      "brief": "Indian cricketer Akash discussed how his recent injury layoff allowed him to better understand his physical limits and improve performance.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/used-the-injury-layoff-to-understand-my-body-akash/article71524423.ece",
-      "dateLocation": "September 30, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Former TV Anchor Crowned King in Uganda",
-      "whyItMatters": "Marks a rare cultural transition of media personalities into traditional monarchies.",
-      "brief": "Former television broadcaster Edward Rukidi Kijanangoma has been officially crowned king in Uganda following a career spanning over twenty years.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/from-newsroom-to-throne-who-is-edward-rukidi-kijanangoma-former-tv-anchor-crowned-king-in-uganda-11790734373749.html",
-      "dateLocation": "September 30, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
