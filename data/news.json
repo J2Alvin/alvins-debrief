@@ -1,138 +1,120 @@
 {
-  "lastUpdated": "2026-09-30T11:53:06.517Z",
+  "lastUpdated": "2026-09-30T17:34:30.499Z",
   "ticker": [
-    "US-led anti-ISIS mission ends in Iraq after 12 years",
-    "Police seek charges over 2017 Grenfell Tower fire",
-    "Flydubai flight diverted to Saudi Arabia following cockpit altercation",
-    "India cabinet clears major Rabi MSP hikes and green corridor",
-    "Bank of England governor questions early AI regulation"
+    "Flydubai Flight Mid-Air Cockpit Clashes Trigger Emergency Landing",
+    "PM Modi and Trump Review Trade and Defense ties",
+    "Crisil and S&P Upgrade India FY27 Growth Forecasts to 7%",
+    "India Records Fourth-Lowest Monsoon Rainfall Since 2001",
+    "UK Prime Minister Suspects Iranian Role in Airbase Incident"
   ],
   "articles": [
     {
-      "headline": "US-Led Coalition Concludes 12-Year Iraq Military Mission",
-      "whyItMatters": "Marks a significant geopolitical shift in Middle Eastern security and regional military deployments.",
-      "brief": "The US-led coalition has formally ended its 12-year military mission in Iraq following the defeat of ISIS as an organized force, with remaining international troops completing their withdrawal.",
-      "category": "world",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo",
-      "dateLocation": "Today | Baghdad",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "State Bank of India Buys Reliance Debt",
+      "whyItMatters": "Demonstrates strong domestic institutional appetite for large corporate debt issuances in India.",
+      "brief": "State Bank of India has acquired nearly 40% of Reliance's massive $1.35 billion debt sale, reflecting robust market confidence.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVlmdFkzNUtMX0J0RElReHdjc19wZldJVEh6d0Z0UTU1OXpFdDcxdzllX1dEWW5hS2FRY1F6VDloMS13R09yQVlpRXlPUEJFSzBTWC1iNXFGcUZGbjVNaWlNcTU5TW1GNE05NmZUT2c5UmNONnlIWUhlTHhJMzBBZzJpdF9vRm91M245bnRndnBKLWYzeHVtdmZlbzlvUHd2cXY4dWN6UVl4c0dzODNWTQ?oc=5",
+      "dateLocation": "September 30, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Police Seek Charges Against 20 Firms Over Grenfell Fire",
-      "whyItMatters": "Presents a massive accountability milestone for the tragic 2017 London high-rise disaster.",
-      "brief": "British police are seeking criminal charges against 54 individuals and 20 corporate entities following a comprehensive investigation into the 2017 Grenfell Tower fire that claimed 72 lives.",
-      "category": "world",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo",
-      "dateLocation": "Today | London",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Apple Pay Launches in India with Axis Bank",
+      "whyItMatters": "Marks Apple Pay's official entry into the world's fastest-growing digital payments market.",
+      "brief": "Apple Pay has officially launched in India through a strategic partnership with Axis Bank, expanding its global fintech footprint.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbV82WU9ndWVwV0VIZVk4SDJSc2N3enRva3g4dDI3VGxYRnFTUjZ2TVFpcURJa053VjZQRzc0ZlptRW1RTkVkaGxnYzZRejBfSEppdWhnVG5pdHo5ZnU4UWZpcmcwYWhaMFZ0a2hlX1ZhdmZwLTdpa2JUYTE2TXh1bUV2RGltRF9DOGlhX2E0eHRRUDZQR0VIM0pxcEs1VTdy?oc=5",
+      "dateLocation": "September 30, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Flydubai Flight Diverted to Saudi Arabia After Cockpit Dispute",
-      "whyItMatters": "Highlights critical aviation safety concerns regarding in-flight altercations and sudden emergency diversions.",
-      "brief": "A commercial Flydubai flight from Dubai to Tel Aviv was forced to make an emergency landing in Saudi Arabia following a violent altercation between the pilots onboard.",
+      "headline": "India Approves $19 Billion Renewable Energy Push",
+      "whyItMatters": "Accelerates India's ambitious transition toward clean energy targets and emission reduction goals.",
+      "brief": "The Indian government has approved a significant $19 billion funding package to massively scale up its national renewable energy programs.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnR0ejFqdHRnUWFvaGlsRjlpeU0tamNTTU9hdkxTQklFMWNnUzJFcFRtYkxUTjA0SUJhMG94YmJieFQ4SjZQS1NXZnRHVHJ1Z2UzdjJGNHp1SkZwN29JUWlncEpBaWZNd3g5WHYyWUFUb0lEcmctaVk3ZVd5T2hnSXNheGllOU04VV83RUVGSHNRVlRKMTZqaEtYT2NLMGlVOWIwbVZGTV9oQQ?oc=5",
+      "dateLocation": "September 30, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Records Fourth-Lowest Monsoon Rainfall Since 2001",
+      "whyItMatters": "Raises severe concerns regarding agricultural yields, rural inflation, and overall economic water security.",
+      "brief": "The India Meteorological Department reported that southwest monsoon rainfall dropped to 87% of the long-period average, ranking as the fourth lowest since 2001.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/flydubai-flight-from-dubai-to-tel-aviv-diverted-to-saudi-arabia-after-altercation-between-pilots-what-we-know-11790752866600.html",
-      "dateLocation": "Today | Tabuk",
+      "sourceUrl": "https://www.livemint.com/news/india/monsoon-rainfall-in-2026-fourth-lowest-since-2001-says-imd-11790769632110.html",
+      "dateLocation": "September 30, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Cabinet Clears Major Rabi MSP Hikes and Green Corridor",
-      "whyItMatters": "Directly impacts agricultural incomes and accelerates national renewable energy transmission infrastructure.",
-      "brief": "The Indian Union Cabinet has sanctioned increased Minimum Support Prices for Rabi crops and approved a massive financial boost for the Green Energy Corridor-III scheme.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rabi-msp-rs-1-86-lakh-crore-green-corridor-delhi-ai-traffic-system-cabinet-clears-3-key-measures/articleshow/134590128.cms",
-      "dateLocation": "Today | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SEBI Fines Shares Bazaar Over Assured Return Schemes",
-      "whyItMatters": "Reinforces regulatory crackdowns on fraudulent financial platforms misleading retail investors.",
-      "brief": "SEBI has levied a ₹20 lakh fine on Shares Bazaar and four others for running illegal investment schemes promising exorbitant assured returns while falsely claiming market backing.",
-      "category": "finance",
-      "sourceUrl": "https://www.thehindu.com/business/sebi-levies-20-lakh-fine-on-shares-bazaar-four-others-for-violating-market-norms/article71528131.ece",
-      "dateLocation": "Today | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Greggs to Close Four Factories and Cut 740 Jobs",
-      "whyItMatters": "Demonstrates ongoing industrial restructuring amid changing consumer demands and rising operational pressures.",
-      "brief": "British bakery chain Greggs announced plans to shutter four manufacturing plants and eliminate 740 jobs as part of a broader corporate evolution strategy.",
+      "headline": "DoorDash to Create 3,000 Jobs in India Tech Hub",
+      "whyItMatters": "Expands global tech operations into South Asia, tapping into deep regional engineering talent.",
+      "brief": "DoorDash announced plans to establish a major global tech centre in India, creating 3,000 high-skilled technical and engineering jobs.",
       "category": "business",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm7802ylq973o",
-      "dateLocation": "Today | London",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkJXV3FXOEJSb1RaNWFZbnJnMHdJc1gzeFg3U0ptZU9GR1Z6RTlXQ0xBbHpBSlRjWkNmX1ExQk9HN3lpYkNBWjNKdnNiUFFKR3g1UTNIQk82RXFYTE40RHFzZ2ozTkF1OWU3RGVhaUM5RHFpbzE1ZzM3UUFMbHFleVNqN3ZYNWpVNEFnOFNwdERiSmdFOE1qZkgtQjFQN3ZVOHNrMVRZLVZ6emNUbUE?oc=5",
+      "dateLocation": "September 30, 2026 | Bengaluru, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Progresses Toward 100% Ethanol Flex-Fuel Engines",
-      "whyItMatters": "A pivotal step toward reducing heavy national reliance on expensive petroleum imports.",
-      "brief": "Union Minister Nitin Gadkari announced that India is actively developing flex-fuel engines capable of running entirely on 100% ethanol to curb crude oil import dependency.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-says-flex-fuel-engines-capable-of-running-on-100-ethanol-are-being-developed-vehicles-using-the-technology-will-be-introduced-as-india-pushes-alternative-fuels/articleshow/134585484.cms",
-      "dateLocation": "Today | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Flydubai Flight Diverted After Mid-Air Cockpit Clash",
+      "whyItMatters": "Highlights critical aviation security risks and prompts multi-national international investigations into cockpit protocols.",
+      "brief": "A Flydubai flight made an emergency landing in Saudi Arabia after a violent cockpit altercation involving an alleged stabbing attempt by the co-pilot.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/who-is-smit-machchhar-the-indian-flydubai-captain-stabbed-during-mid-air-cockpit-clash-11790778919838.html",
+      "dateLocation": "September 30, 2026 | Dubai, UAE",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bank of England Governor Cautions Against Premature AI Regulation",
-      "whyItMatters": "Shapes the future trajectory of global financial technology governance and risk containment.",
-      "brief": "Bank of England Governor Andrew Bailey has stated that heavy-handed regulation is not the right place to start with AI, emphasizing rigorous testing and safeguards instead.",
-      "category": "technology",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o",
-      "dateLocation": "Today | London",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Army Expands Use of AI and Digital Engineering",
-      "whyItMatters": "Signals a technological modernization wave in national defense preparedness and data autonomy.",
-      "brief": "The Indian Army is scaling up its adoption of artificial intelligence and digital engineering to streamline data processing, tactical training sets, and virtual defense equipment testing.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/army-has-moved-into-ai-maj-gen-anand-on-india-s-defence-tech-data-and-self-reliance-exclusive-11790742811939.html",
-      "dateLocation": "Today | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "INDIA Bloc Announces Nationwide 'Save Democracy March'",
-      "whyItMatters": "Intensifies political friction and opposition alignment ahead of key electoral showdowns.",
-      "brief": "The opposition INDIA bloc has announced a major unity march scheduled for October 2, targeting central government policies and projecting a united political front.",
+      "headline": "PM Modi and Trump Review Comprehensive Strategic Partnership",
+      "whyItMatters": "Strengthens geopolitical and economic cooperation between the United States and India across critical sectors.",
+      "brief": "Prime Minister Narendra Modi held a phone discussion with Donald Trump to review bilateral trade, defense, energy, and critical technology collaboration.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/save-democracy-march-announced-india-bloc-projects-unity-amid-sir-row-targets-pm-modi-amit-shah/articleshow/134588801.cms",
-      "dateLocation": "Today | New Delhi",
+      "sourceUrl": "https://www.livemint.com/news/india/pm-modi-speaks-with-donald-trump-india-us-trade-defence-energy-and-critical-tech-cooperation-reviewed-11790777684387.html",
+      "dateLocation": "September 30, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Targets US Voters in Open Letter Ahead of Midterms",
-      "whyItMatters": "Reflects continuing foreign interference efforts targeting domestic American political processes.",
-      "brief": "Iran's Islamic Revolutionary Guard Corps has issued a 25-page open letter urging US voters to reject political figures associated with past foreign wars and tensions.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/remove-evil-deceitful-politicians-iran-woos-us-voters-ahead-of-midterms-in-25-page-letter-what-is-inside-11790759519783.html",
-      "dateLocation": "Today | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Crisil and S&P Upgrade India Growth Forecast to 7%",
+      "whyItMatters": "Validates strong macroeconomic momentum and resilient domestic demand despite global headwinds.",
+      "brief": "Major rating agencies Crisil and S&P upgraded India's fiscal growth forecast to 7% for the year, supported by robust first-half economic performance.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/crisil-lifts-india-fy27-growth-forecast-to-7-on-strong-h1-momentum/articleshow/134597446.cms",
+      "dateLocation": "September 30, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Favors Conditional Relaxation for Green Crackers",
-      "whyItMatters": "Balances traditional festive celebrations with environmental pollution mitigation efforts.",
-      "brief": "The Supreme Court indicated support for conditional relaxation on new-generation joined green crackers after scientific reports confirmed lower noise and emission levels.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-weighs-in-favour-of-conditional-relaxation-on-next-gen-joined-green-crackers-ahead-of-festive-season/article71527624.ece",
-      "dateLocation": "Today | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI Shuts Down Delhi Hotel Operations Over Hygiene Violations",
-      "whyItMatters": "Emphasizes strict enforcement of commercial food safety standards to protect public health.",
-      "brief": "The FSSAI suspended the license of Seven Seas Hospitality in Delhi and destroyed 74 kg of non-compliant food after discovering rotten items, cockroaches, and degraded oil.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/fssai-action-at-seven-seas-hotel-rotten-food-blackened-oil-cockroaches-found-74-kg-of-food-items-destroyed-onsite-11790764257510.html",
-      "dateLocation": "Today | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Avener and Rampage Impress in Latest Equestrian Track Trials",
-      "whyItMatters": "Provides vital form updates for turf enthusiasts and racing competitors ahead of major events.",
-      "brief": "Racehorses Avener, Rampage, and Credence delivered standout performances during morning track trials, catching the eye of observers ahead of upcoming race fixtures.",
+      "headline": "Shubman Gill Scores Historic Multiple Double Centuries",
+      "whyItMatters": "Cements his elite status in international cricket history alongside captain Rohit Sharma.",
+      "brief": "Indian captain Shubman Gill became only the second batter in ODI history to score multiple double centuries during a match against West Indies.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/races/avener-rampage-and-credence-catch-the-eye/article71528376.ece",
-      "dateLocation": "Today | Chennai",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/200-for-shubman-gill-india-captain-becomes-only-second-batter-after-rohit-sharma-with-multiple-odi-double-centuries/articleshow/134598114.cms",
+      "dateLocation": "September 30, 2026 | Guwahati, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UK Prime Minister Alleges Iranian Link to Airbase Incident",
+      "whyItMatters": "Escalates geopolitical tensions between Western nations and Iran concerning national security infrastructure.",
+      "brief": "British authorities reported strong indications of Iranian involvement in a suspicious security incident near the RAF Fairford airbase.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/strong-indications-uk-pm-says-iran-may-have-played-part-in-suspicious-incident-near-raf-fairford/articleshow/134599686.cms",
+      "dateLocation": "September 30, 2026 | London, UK",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Neurologist Warns Against Over-Reliance on AI Tools",
+      "whyItMatters": "Raises vital public health questions regarding cognitive degradation and memory retention in modern society.",
+      "brief": "Medical experts have issued warnings regarding the potential negative impact of excessive daily reliance on artificial intelligence tools on human memory and language skills.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/trends/can-ai-dull-human-brain-doctor-warns-of-impact-on-memory-language-and-recall-11790782106622.html",
+      "dateLocation": "September 30, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Opposition INDIA Bloc Plans Major Rallies Against Election Commission",
+      "whyItMatters": "Sets the stage for intense political friction over electoral transparency and democratic institutions in India.",
+      "brief": "Led by the Congress party, the INDIA opposition bloc is organizing nationwide campaigns and a 'Save Democracy March' to demand key electoral reforms.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/protests-against-sir-cec-is-it-time-for-congress-and-india-bloc-to-take-a-leaf-out-of-cjps-playbook/articleshow/134597912.cms",
+      "dateLocation": "September 30, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
