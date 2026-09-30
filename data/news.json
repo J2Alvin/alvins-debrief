@@ -1,156 +1,147 @@
 {
-  "lastUpdated": "2026-09-29T21:49:36.156Z",
+  "lastUpdated": "2026-09-30T03:52:42.075Z",
   "ticker": [
-    "US Consumer Confidence Hits 12-Year Low Amid Economic Anxiety",
-    "SpaceX Starship Engine Failure Threatens NASA Moon Mission",
-    "OpenAI Launches Dots Agent to Expand Enterprise AI Push",
-    "India Shares Extend Losing Streak on Oil and Bond Yields",
-    "Supreme Court Seeks 16% MRP Cap on Essential Medicines"
+    "Trump rejects Iran sanction relief",
+    "Pentagon awards Boeing $20bn contract",
+    "Apple Pay launches in India",
+    "Anthropic IPO details Big Tech ties",
+    "Chinese factory activity rebounds"
   ],
   "articles": [
     {
-      "headline": "US Consumer Confidence Plunges to 12-Year Low",
-      "whyItMatters": "Signals growing household anxiety over job security and the broader economic outlook.",
-      "brief": "US consumer confidence has plummeted to a 12-year low as households increasingly fear weaker job markets and persistent economic headwinds, signaling potential caution in future spending.",
+      "headline": "Chinese Factory Activity Returns to Growth",
+      "whyItMatters": "Signals stabilization in the world's second-largest economy amid tech booms.",
+      "brief": "Chinese factory activity has officially returned to expansion territory in September, propelled heavily by the ongoing artificial intelligence infrastructure boom.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-consumer-confidence-plunges-to-12-year-low-as-households-fear-weaker-jobs-economy/articleshow/134569742.cms",
-      "dateLocation": "29 Sep 2026 | Washington, US",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2hBclpDSnZBY0I0SjlMLVdOb3psd0dpV3NpNERFTTB5TkE1eXEzNm43TXVHV1BqMGZIZXYyZXJ3WVFBa0lXYXc4aWxsbXItUGtkQUdzUVMzQ2lMQmtxNTJRYUROYlBZbGlPVGJJclI0YlpMcEdJVXpWakRjU3QzeFM5Sm4tNnh5VVd4MnREbHN0VkIxOG51bjNnUUI5aHJGQmdLLXZnYnBld0N1Ym84?oc=5",
+      "dateLocation": "September 30, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Shares Extend Losing Streak Amid Rising Yields",
-      "whyItMatters": "Highlights ongoing market pressures from elevated global oil prices and bond yields.",
-      "brief": "Indian equities extended their losing streak as elevated crude oil prices and rising domestic bond yields weighed heavily on investor sentiment across major sectors.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5lWllfVDNRcEhXRTZMSTB4QnRraHlSN2NUaUJxMWN3dVlIeDJRbEx2aWVSa3JibXB6MVE1NVZPbGJTdkpBcnpzUHN2bjhMVTRPWFE1WGNuT25ESUNhYTNZRVpFZzhSQ2xnbUt5ZktKZWFSNWpjNG51NXNRWHNlM1dRNTZkUmZ2cC1hdDJYQjdIQ25keWstWGJ5T0VyUVpNNzBvQQ?oc=5",
-      "dateLocation": "29 Sep 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Lilly's Experimental Drug Cuts Weight by 21%",
+      "whyItMatters": "Advances pharmaceutical treatments for diabetes and obesity markets.",
+      "brief": "Eli Lilly's newest experimental drug demonstrated a 21% weight reduction in recent diabetes clinical trials, showcasing major therapeutic promise.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmJvRVgxMnhYOXRRX3pwUGtKYXZic2pPbnhZTGp5SzVHbDR3M1ZQdlRkTFc2eW1NNnh3bkduWTh1MExJTXB6dTRidXNjdVBCVHJZT3lsWXJ2TWluQ2h6Rm5kTUxadFB4RzB3cUUxWFNzVmlkcmp4WXdEb2RWYy1TZkJQOFVHbGY2RnJHOHhPbjBvdmNqeFNWYmFLVkM0SzFySmo4ZTRfZ1NvN0NzRVZlMENDNlNRSlF3Y0RiREo3MzBFSGxBdDRNaA?oc=5",
+      "dateLocation": "September 30, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI Launches Dots Agent for Enterprise AI",
-      "whyItMatters": "Intensifies corporate competition in the rapidly expanding enterprise artificial intelligence sector.",
-      "brief": "OpenAI has introduced the dots agent, directly challenging Meta and other tech giants in a major new push to capture enterprise artificial intelligence market share.",
+      "headline": "Oil Climbs as Trump Denies Iran Sanction Easing",
+      "whyItMatters": "Directly impacts global energy prices and geopolitical stability.",
+      "brief": "Crude oil prices moved upward following President Trump's public denial that his administration is willing to ease ongoing sanctions against Iran.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aM03Zw?oc=5",
+      "dateLocation": "September 30, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Anthropic IPO Prospectus Exposes Big Tech Reliance",
+      "whyItMatters": "Highlights structural vulnerabilities and market interdependencies in the AI sector.",
+      "brief": "Anthropic's newly filed initial public offering prospectus lays bare the AI startup's deep-rooted financial dependence on massive Big Tech partners.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1Q4X3lqOUdZYllBZFVuZFBIWGt6dmdua2JoVnZ0aVVnWnd0M2lscWd0UFB6c3QxRmNJdXJ2T3ppbXR5TW8wZ2lzQU5obDR2U2t0WldJUWx4MEo2V29HVldhSEtVUWVPdkdIQ1dVSUtkcG5hTE5UWDVKek9hTjhkNGU4eGNKcmRPY1JjWmRaTXJVblBoWldzNU1PalhocDRfRHdPRnhxVEV5ckRsenJZ?oc=5",
+      "dateLocation": "September 30, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Launches Autonomous Agent System",
+      "whyItMatters": "Intensifies competition with Meta in the enterprise autonomous workflows space.",
+      "brief": "OpenAI has officially unveiled its new autonomous agent system to challenge Meta's dominance in the rapidly growing automated tools sector.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
-      "dateLocation": "29 Sep 2026 | San Francisco, US",
+      "dateLocation": "September 30, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Google Challenges EU Orders on AI and Search",
-      "whyItMatters": "Sets a critical legal precedent for Big Tech regulation and competition enforcement in Europe.",
-      "brief": "Google has formally challenged European Union regulatory orders requiring the tech giant to open its search engine and AI platforms to external competitors.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWtfaTdEQks3cVluODNBeTVxRVQwOVNSSjdjMUZZV1I3eG1vSERQcjlLdGdNZ04wX0NaQTVxWTFfUUdQSG9pR0JJa2lGMW0yT3YybnBzVW0xQk9Zdm9XNTM1OWNNMjItbUhEUXc1NnhCVmY1Z0ZVRUx5SklwUlhsWDhndFM2N2VjNXBDQmdEbTNrXzhuaWdFbFp6Wkk2azF6Y3BOVXAyUQ?oc=5",
-      "dateLocation": "29 Sep 2026 | Brussels, Belgium",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Supreme Court Allows Quick Deportations to Resume",
-      "whyItMatters": "Impacts federal immigration enforcement policy amid a sweeping administration crackdown.",
-      "brief": "The US Supreme Court has permitted the resumption of quick deportations to third countries for now, supporting the administration's ongoing immigration enforcement initiatives.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-supreme-court-lets-quick-deportations-to-third-countries-resume-for-now/article71525652.ece",
-      "dateLocation": "29 Sep 2026 | Washington, US",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BJP Opposes Jammu and Kashmir Statehood Resolution",
-      "whyItMatters": "Deepens political friction between regional parties and central authorities over governance.",
-      "brief": "The Bharatiya Janata Party has urged the chief secretary to reject the recent statehood resolution, warning it could severely strain ties between the Centre and Jammu and Kashmir.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bjp-asks-chief-secy-to-throw-away-statehood-resolution-says-it-will-strain-centre-jk-ties/articleshow/134573733.cms",
-      "dateLocation": "29 Sep 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SpaceX Starship Engine Failure Threatens NASA Goals",
-      "whyItMatters": "Could delay critical lunar exploration timelines and commercial spaceflight milestones.",
-      "brief": "Recent engine failures during SpaceX Starship testing may introduce schedule risks and impact NASA's upcoming moon mission objectives and exploratory milestones.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5vYVlQYmlYam04bTNfSlhBTW1fLVBOVXkwXzBIS3BCYXRBUnZOM05NUVE5dk1aU2tQYmNnTkZWa2l1U0dNNVBINGF1NkpTQjBfQzVseDRCakFkeGs5XzYtMVFtMzFZZXFESmtZR0F3dDN3VTJZNEE0aHAwOWpUVUlqZEMzQ2packNhMkFMNTJEYnJNZ2pfNWszOWw3NFBhSDM1STZOQ1NuY2g5bGhxM3BwTW1BT0dGY1c2dkw5a1ZxVEdickVlU2ZfMmtRUQ?oc=5",
-      "dateLocation": "29 Sep 2026 | Cape Canaveral, US",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Morocco Appoints First Woman Prime Minister",
-      "whyItMatters": "Represents a historic leadership milestone in North African political representation.",
-      "brief": "Following recent legislative elections, Morocco's king has appointed the nation's first woman prime minister, marking a significant step forward for gender parity in government.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW1pZ1hkUzRiU3k3UTFjenJBS1FDSHhDV21HbUJKc1dHVjJaeEFKT3d0SEI4VGtxVVVma2gzbkgtRFdtRnRtLWZGdUs2LS12X1JWQ0lpUTBuVXhYbDdNS3hpWTFfZzJXdnl6d2RObXRfS0JLb2t5T3p5RGNCZ212OUg0bUZWYnBvVVh2bF9XZkJkcWRVTXRxN1hZa3RPenNwWmQ0R19CUDlaVFBfMXFmamVWNA?oc=5",
-      "dateLocation": "29 Sep 2026 | Rabat, Morocco",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Reliance Proceeds With ₹12,000 Crore Bond Issue",
-      "whyItMatters": "Demonstrates aggressive corporate fundraising strategies despite elevated borrowing costs.",
-      "brief": "Reliance Industries is moving forward with a substantial ₹12,000 crore bond issuance to fund corporate expansion despite prevailing high interest rate environments.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/reliance-goes-ahead-with-12000-crore-bond-issue-amid-rising-borrowing-costs/articleshow/134573526.cms",
-      "dateLocation": "29 Sep 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK Trade Pact Lowers Scotch Prices in India",
-      "whyItMatters": "Provides significant tariff relief for international beverage giants entering the Indian consumer market.",
-      "brief": "The newly finalized UK free trade agreement has successfully reduced import tariffs on Scotch whisky, leading to immediate price adjustments across India.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/liquor/happy-hours-uk-trade-pact-brings-scotch-prices-down-in-india/articleshow/134573685.cms",
-      "dateLocation": "29 Sep 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Seeks 16% MRP Cap on Medicines",
-      "whyItMatters": "Aims to curb excessive pricing markups on essential lifesaving therapeutics.",
-      "brief": "The Supreme Court has requested a 16% MRP cap on medicines, expressing serious concern over exorbitant markups on cancer drugs and essential therapeutics.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/sc-seeks-16-mrp-cap-on-medicines-flags-huge-cancer-drug-markups/articleshow/134573710.cms",
-      "dateLocation": "29 Sep 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's Ageing Population Set to Reshape Economy",
-      "whyItMatters": "Warns of long-term macroeconomic structural shifts as fertility rates decline.",
-      "brief": "Moody's reports that India's fertility rate has fallen below replacement levels, setting the stage for an aging demographic structure that will reshape the national economy.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/indias-ageing-population-set-to-reshape-economy-as-fertility-falls-below-replacement-moodys-11790700668004.html",
-      "dateLocation": "29 Sep 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sree Charani Sets New ICC T20I Bowling Record",
-      "whyItMatters": "Marks a historic milestone in international women's cricket performance ratings.",
-      "brief": "Left-arm spinner Sree Charani has established a new record ICC women's T20I bowling rating of 817 points, surpassing Megan Schutt's previous benchmark.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/sree-charani-sets-new-icc-womens-t20i-bowling-record/article71525662.ece",
-      "dateLocation": "29 Sep 2026 | Dubai, UAE",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Defeats Qatar in Asian Games Volleyball",
-      "whyItMatters": "Advances the national team into the prestigious quarterfinals of the continental tournament.",
-      "brief": "The Indian men's volleyball team secured a hard-fought 3-2 victory over Qatar, successfully advancing to the quarterfinals at the Asian Games.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/india-beat-qatar-3-2-to-enter-quarterfinals-of-mens-volleyball-in-asian-games/article71525658.ece",
-      "dateLocation": "29 Sep 2026 | Nagoya, Japan",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NCR Panel Tightens Winter Air Pollution Curbs",
-      "whyItMatters": "Imposes stricter environmental regulations to mitigate severe seasonal smog in northern India.",
-      "brief": "The Commission for Air Quality Management has modified GRAP rules and tightened winter pollution curbs, expanding vehicle restrictions and construction norms across the Delhi-NCR region.",
+      "headline": "India Seizes ₹3,000 Crore Drugs in Arabian Sea",
+      "whyItMatters": "Demonstrates major international maritime counter-narcotics enforcement success.",
+      "brief": "The Indian Coast Guard intercepted an Iranian boat in the Arabian Sea, seizing high-grade narcotics worth ₹3,000 crore and detaining five Pakistani nationals.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/caqm-modifies-grap-rules-here-s-what-you-need-to-know-about-new-delhi-ncr-restrictions-11790700338936.html",
-      "dateLocation": "29 Sep 2026 | New Delhi, India",
+      "sourceUrl": "https://www.thehindu.com/news/national/3000-crore-drugs-seized-from-iranian-boat-in-arabian-sea-5-pakistan-nationals-detained/article71526673.ece",
+      "dateLocation": "September 30, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rajasthan Completes Digital Farmer Identification",
-      "whyItMatters": "Streamlines agricultural welfare distribution and sets a governance precedent for northern states.",
-      "brief": "Rajasthan has become the first state in northern India to successfully complete the comprehensive digital identification and registry of all agricultural farmers.",
+      "headline": "Pentagon Awards Boeing $20 Billion Fighter Contract",
+      "whyItMatters": "Secures long-term military aerospace manufacturing and strategic defense capabilities.",
+      "brief": "The Pentagon has awarded Boeing a massive $20 billion contract to design and construct the U.S. Navy's next-generation fighter jets.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/pentagon-awards-boeing-20-billion-contract-for-us-navys-next-generation-fighter-jets-heres-what-we-know-11790729503162.html",
+      "dateLocation": "September 30, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Boosts Exporter Tax Refund Outlays",
+      "whyItMatters": "Aims to enhance global trade competitiveness and liquidity amidst challenges.",
+      "brief": "The Indian government plans to ramp up tax refund schemes for domestic exporters to nearly ₹2 trillion over a five-year period.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/govt-outlay-hike-two-tax-refund-schemes-exporters-2-trillion-five-years-11790680288540.html",
+      "dateLocation": "September 30, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump and Tech CEOs Sign AI Safety Pact",
+      "whyItMatters": "Establishes unprecedented federal guidelines for domestic artificial intelligence deployment.",
+      "brief": "U.S. President Donald Trump and major tech industry chief executives have signed a landmark agreement described as a constitution for AI safety.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/almost-like-a-constitution-trump-top-us-tech-ceos-sign-ai-safety-pact/articleshow/134577581.cms",
+      "dateLocation": "September 30, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Rules Out AI Cooperation With China",
+      "whyItMatters": "Deepens technological decoupling between the world's leading economic powers.",
+      "brief": "The U.S. government has officially dismissed the possibility of working alongside China on artificial intelligence governance, citing severe strategic leverage concerns.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/less-than-a-week-after-chinese-president-xi-jinpings-visit-the-us-government-rules-out-working-with-china-on-ai-the-american-president-says-do-not-want-/articleshow/134577499.cms",
+      "dateLocation": "September 30, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Apple Pay Officially Launches in India",
+      "whyItMatters": "Expands mobile payment ecosystems for major domestic financial institutions.",
+      "brief": "Apple Pay has officially arrived in the Indian market, rolling out initial support for Visa and Mastercard credit cards via Axis Bank.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/apple-pay-comes-to-india-with-axis-bank-visa-mastercard-credit-cards/articleshow/134578396.cms",
+      "dateLocation": "September 30, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Notifies CAFE III Fuel Efficiency Norms",
+      "whyItMatters": "Pushes automotive industries toward aggressive fleet electrification targets.",
+      "brief": "The Indian government has officially notified the CAFE III fuel efficiency regulations for cars, offering triple credits for battery EVs.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/rajasthan-first-state-in-northern-india-to-complete-digital-identification-of-farmers/article71524561.ece",
-      "dateLocation": "29 Sep 2026 | Jaipur, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/cafe-3-fuel-efficiency-norms-notified-for-cars-3x-credit-for-battery-evs-no-special-benefit-for-small-cars/articleshow/134579490.cms",
+      "dateLocation": "September 30, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Secure Medals at Asian Games 2026",
+      "whyItMatters": "Bolsters national standing in elite international athletic competitions.",
+      "brief": "Indian athletes continued their stellar performance at the Asian Games, securing gold in the women's compound archery event and advancing further.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71525800.ece",
+      "dateLocation": "September 30, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Akash Reflects on Recovery and Fitness",
+      "whyItMatters": "Outlines professional athlete preparation strategies following extended injuries.",
+      "brief": "Indian cricketer Akash discussed how his recent injury layoff allowed him to better understand his physical limits and improve performance.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/used-the-injury-layoff-to-understand-my-body-akash/article71524423.ece",
+      "dateLocation": "September 30, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Former TV Anchor Crowned King in Uganda",
+      "whyItMatters": "Marks a rare cultural transition of media personalities into traditional monarchies.",
+      "brief": "Former television broadcaster Edward Rukidi Kijanangoma has been officially crowned king in Uganda following a career spanning over twenty years.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/from-newsroom-to-throne-who-is-edward-rukidi-kijanangoma-former-tv-anchor-crowned-king-in-uganda-11790734373749.html",
+      "dateLocation": "September 30, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
