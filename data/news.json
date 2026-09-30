@@ -1,120 +1,138 @@
 {
-  "lastUpdated": "2026-09-30T17:34:30.499Z",
+  "lastUpdated": "2026-09-30T21:50:47.246Z",
   "ticker": [
-    "Flydubai Flight Mid-Air Cockpit Clashes Trigger Emergency Landing",
-    "PM Modi and Trump Review Trade and Defense ties",
-    "Crisil and S&P Upgrade India FY27 Growth Forecasts to 7%",
-    "India Records Fourth-Lowest Monsoon Rainfall Since 2001",
-    "UK Prime Minister Suspects Iranian Role in Airbase Incident"
+    "Modi and Trump Discuss Interim Trade Deal",
+    "Flydubai Pilot Thwarts Alleged Hijacking Plot",
+    "Google Announces Gemini 4 Flagship AI Model",
+    "US Military Ends Longstanding Mission in Iraq",
+    "India Approves $19 Billion Renewable Energy Program"
   ],
   "articles": [
     {
-      "headline": "State Bank of India Buys Reliance Debt",
-      "whyItMatters": "Demonstrates strong domestic institutional appetite for large corporate debt issuances in India.",
-      "brief": "State Bank of India has acquired nearly 40% of Reliance's massive $1.35 billion debt sale, reflecting robust market confidence.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVlmdFkzNUtMX0J0RElReHdjc19wZldJVEh6d0Z0UTU1OXpFdDcxdzllX1dEWW5hS2FRY1F6VDloMS13R09yQVlpRXlPUEJFSzBTWC1iNXFGcUZGbjVNaWlNcTU5TW1GNE05NmZUT2c5UmNONnlIWUhlTHhJMzBBZzJpdF9vRm91M245bnRndnBKLWYzeHVtdmZlbzlvUHd2cXY4dWN6UVl4c0dzODNWTQ?oc=5",
-      "dateLocation": "September 30, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple Pay Launches in India with Axis Bank",
-      "whyItMatters": "Marks Apple Pay's official entry into the world's fastest-growing digital payments market.",
-      "brief": "Apple Pay has officially launched in India through a strategic partnership with Axis Bank, expanding its global fintech footprint.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbV82WU9ndWVwV0VIZVk4SDJSc2N3enRva3g4dDI3VGxYRnFTUjZ2TVFpcURJa053VjZQRzc0ZlptRW1RTkVkaGxnYzZRejBfSEppdWhnVG5pdHo5ZnU4UWZpcmcwYWhaMFZ0a2hlX1ZhdmZwLTdpa2JUYTE2TXh1bUV2RGltRF9DOGlhX2E0eHRRUDZQR0VIM0pxcEs1VTdy?oc=5",
-      "dateLocation": "September 30, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Modi and Trump Discuss Trade and Bilateral Ties",
+      "whyItMatters": "Shapes future US-India economic agreements and strategic cooperation amidst evolving geopolitical landscapes.",
+      "brief": "Prime Minister Modi spoke with US President Trump to advance discussions on an interim trade deal and address policy concerns.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkltRW1oaVRyakdseXZiMWxVNGkwYU9MTmEtTXBCTzZvZ2N2eU1oSU1ZLVdDY1JwbVloUkc2SFp2cXpMWl9TQnpWRFVFYy04cnVQcFdySzZkLXl3Tk5Od1VrMVM0WHA5YTk4ZWhBd3dBYkRhcnhHSl9pdlBLWXAyMzZXMTl4WTlIQkItS1k4VHM0V1o1MTIzd1I3b0kzNkF4d3FiUm1n?oc=5",
+      "dateLocation": "October 1, 2026 | Washington/New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "India Approves $19 Billion Renewable Energy Push",
-      "whyItMatters": "Accelerates India's ambitious transition toward clean energy targets and emission reduction goals.",
-      "brief": "The Indian government has approved a significant $19 billion funding package to massively scale up its national renewable energy programs.",
+      "whyItMatters": "Massive capital injection accelerates India's green transition and commitments to cutting carbon emissions.",
+      "brief": "The Indian government has greenlit a significant $19 billion funding package to massively expand domestic renewable energy infrastructure.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnR0ejFqdHRnUWFvaGlsRjlpeU0tamNTTU9hdkxTQklFMWNnUzJFcFRtYkxUTjA0SUJhMG94YmJieFQ4SjZQS1NXZnRHVHJ1Z2UzdjJGNHp1SkZwN29JUWlncEpBaWZNd3g5WHYyWUFUb0lEcmctaVk3ZVd5T2hnSXNheGllOU04VV83RUVGSHNRVlRKMTZqaEtYT2NLMGlVOWIwbVZGTV9oQQ?oc=5",
-      "dateLocation": "September 30, 2026 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnR0ejFqdHRnUWFvaGlsRjlpeU0tamNTTU9hdkxTQklFMWNnUzJFcFRtYkxUTjA0SUJhMG94YmJieFQ4HjZQS1NXZnRHVHJ1Z2UzdjJGNHp1SkZwN29JUWlncEpBaWZNd3g5WHYyWUFUb0lEcmctaVk3ZVd5T2hnSXNheGllOU04VV83RUVGSHNRVlRKMTZqaEtYT2NLMGlVOWIwbVZGTV9oQQ?oc=5",
+      "dateLocation": "October 1, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Records Fourth-Lowest Monsoon Rainfall Since 2001",
-      "whyItMatters": "Raises severe concerns regarding agricultural yields, rural inflation, and overall economic water security.",
-      "brief": "The India Meteorological Department reported that southwest monsoon rainfall dropped to 87% of the long-period average, ranking as the fourth lowest since 2001.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/monsoon-rainfall-in-2026-fourth-lowest-since-2001-says-imd-11790769632110.html",
-      "dateLocation": "September 30, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Google Announces Gemini 4 Flagship AI Model",
+      "whyItMatters": "Sets a new competitive benchmark in the global artificial intelligence race after months of strategic delays.",
+      "brief": "Google has officially taken the wraps off its Gemini 4 flagship AI model, aiming to outpace major industry competitors.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5",
+      "dateLocation": "October 1, 2026 | Mountain View",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "DoorDash to Create 3,000 Jobs in India Tech Hub",
-      "whyItMatters": "Expands global tech operations into South Asia, tapping into deep regional engineering talent.",
-      "brief": "DoorDash announced plans to establish a major global tech centre in India, creating 3,000 high-skilled technical and engineering jobs.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkJXV3FXOEJSb1RaNWFZbnJnMHdJc1gzeFg3U0ptZU9GR1Z6RTlXQ0xBbHpBSlRjWkNmX1ExQk9HN3lpYkNBWjNKdnNiUFFKR3g1UTNIQk82RXFYTE40RHFzZ2ozTkF1OWU3RGVhaUM5RHFpbzE1ZzM3UUFMbHFleVNqN3ZYNWpVNEFnOFNwdERiSmdFOE1qZkgtQjFQN3ZVOHNrMVRZLVZ6emNUbUE?oc=5",
-      "dateLocation": "September 30, 2026 | Bengaluru, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Flydubai Flight Diverted After Mid-Air Cockpit Clash",
-      "whyItMatters": "Highlights critical aviation security risks and prompts multi-national international investigations into cockpit protocols.",
-      "brief": "A Flydubai flight made an emergency landing in Saudi Arabia after a violent cockpit altercation involving an alleged stabbing attempt by the co-pilot.",
+      "headline": "US Concludes Military Mission and Exits Iraq",
+      "whyItMatters": "Marks a profound shift in Middle Eastern security dynamics and shifts regional defense responsibilities to Baghdad.",
+      "brief": "The United States has formally concluded its prolonged military mission in Iraq, ending a major chapter of its post-9/11 regional footprint.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/who-is-smit-machchhar-the-indian-flydubai-captain-stabbed-during-mid-air-cockpit-clash-11790778919838.html",
-      "dateLocation": "September 30, 2026 | Dubai, UAE",
+      "sourceUrl": "https://www.livemint.com/news/world/trump-calls-iraq-exit-a-victory-over-isis-why-june-2027-is-now-crucial-for-baghdad-11790796345462.html",
+      "dateLocation": "October 1, 2026 | Baghdad",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "PM Modi and Trump Review Comprehensive Strategic Partnership",
-      "whyItMatters": "Strengthens geopolitical and economic cooperation between the United States and India across critical sectors.",
-      "brief": "Prime Minister Narendra Modi held a phone discussion with Donald Trump to review bilateral trade, defense, energy, and critical technology collaboration.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/pm-modi-speaks-with-donald-trump-india-us-trade-defence-energy-and-critical-tech-cooperation-reviewed-11790777684387.html",
-      "dateLocation": "September 30, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Crisil and S&P Upgrade India Growth Forecast to 7%",
-      "whyItMatters": "Validates strong macroeconomic momentum and resilient domestic demand despite global headwinds.",
-      "brief": "Major rating agencies Crisil and S&P upgraded India's fiscal growth forecast to 7% for the year, supported by robust first-half economic performance.",
+      "headline": "Indian Pilot Hailed for Stopping Flight Hijacking",
+      "whyItMatters": "Swift heroic intervention prevented a catastrophic aviation disaster aboard an international commercial flight.",
+      "brief": "Indian pilot Smit Machchhar successfully intervened and thwarted an onboard cockpit altercation, saving a Tel Aviv-bound flight.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/crisil-lifts-india-fy27-growth-forecast-to-7-on-strong-h1-momentum/articleshow/134597446.cms",
-      "dateLocation": "September 30, 2026 | Mumbai, India",
+      "sourceUrl": "https://www.thehindu.com/news/international/israeli-pm-hails-indian-pilot-wounded-in-diverted-flydubai-flight/article71530244.ece",
+      "dateLocation": "October 1, 2026 | Middle East",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Shubman Gill Scores Historic Multiple Double Centuries",
-      "whyItMatters": "Cements his elite status in international cricket history alongside captain Rohit Sharma.",
-      "brief": "Indian captain Shubman Gill became only the second batter in ODI history to score multiple double centuries during a match against West Indies.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/200-for-shubman-gill-india-captain-becomes-only-second-batter-after-rohit-sharma-with-multiple-odi-double-centuries/articleshow/134598114.cms",
-      "dateLocation": "September 30, 2026 | Guwahati, India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "State Bank of India Buys Reliance Debt Sale",
+      "whyItMatters": "Demonstrates robust domestic financial backing for massive infrastructure and corporate debt obligations in India.",
+      "brief": "State Bank of India has acquired nearly 40% of Reliance's massive $1.35 billion corporate debt issuance.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVlmdFkzNUtMX0J0RElReHdjc19wZldJVEh6d0Z0UTU1OXpFdDcxdzllX1dEWW5hS2FRY1F6VDloMS13R09yQVlpRXlPUEJFSzBTWC1iNXFGcUZGbjVNaWlNcTU5TW1GNE05NmZUT2c5UmNONnlIWUhlTHhJMzBBZzJpdF9vRm91M245bnRndnBKLWYzeHVtdmZlbzlvUHd2cXY4dWN6UVl4c0dzODNWTQ?oc=5",
+      "dateLocation": "October 1, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UK Prime Minister Alleges Iranian Link to Airbase Incident",
-      "whyItMatters": "Escalates geopolitical tensions between Western nations and Iran concerning national security infrastructure.",
-      "brief": "British authorities reported strong indications of Iranian involvement in a suspicious security incident near the RAF Fairford airbase.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/strong-indications-uk-pm-says-iran-may-have-played-part-in-suspicious-incident-near-raf-fairford/articleshow/134599686.cms",
-      "dateLocation": "September 30, 2026 | London, UK",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "FTC Launches Antitrust Probe into Rogue AI Agents",
+      "whyItMatters": "Establishes stricter regulatory oversight on rapidly advancing autonomous artificial intelligence technologies.",
+      "brief": "The Federal Trade Commission has initiated an official inquiry into major AI developers over safety standards and autonomous agent behavior.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/us-news/ftc-launches-probe-into-openai-anthropic-over-rogue-ai-agents-safety-11790791553143.html",
+      "dateLocation": "October 1, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Neurologist Warns Against Over-Reliance on AI Tools",
-      "whyItMatters": "Raises vital public health questions regarding cognitive degradation and memory retention in modern society.",
-      "brief": "Medical experts have issued warnings regarding the potential negative impact of excessive daily reliance on artificial intelligence tools on human memory and language skills.",
+      "headline": "Pennsylvania Reports Fifth Measles Death in Outbreak",
+      "whyItMatters": "Highlights public health vulnerabilities and the urgent necessity of maintaining robust immunization protocols.",
+      "brief": "Pennsylvania health authorities confirm a fifth measles-linked fatality amidst the worst nationwide outbreak recorded in decades.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/trends/can-ai-dull-human-brain-doctor-warns-of-impact-on-memory-language-and-recall-11790782106622.html",
-      "dateLocation": "September 30, 2026 | New Delhi, India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/pennsylvania-reports-fifth-measles-death-in-widening-crisis-11790790726509.html",
+      "dateLocation": "October 1, 2026 | Pennsylvania",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Opposition INDIA Bloc Plans Major Rallies Against Election Commission",
-      "whyItMatters": "Sets the stage for intense political friction over electoral transparency and democratic institutions in India.",
-      "brief": "Led by the Congress party, the INDIA opposition bloc is organizing nationwide campaigns and a 'Save Democracy March' to demand key electoral reforms.",
+      "headline": "India Lowers Windfall Tax on Diesel and ATF",
+      "whyItMatters": "Adjusts domestic energy fiscal policies to help refiners cope with global market volatility driven by West Asian tensions.",
+      "brief": "The central government has officially cut the special additional excise duty on the export of diesel and aviation turbine fuel.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/govt-lowers-windfall-tax-on-diesel-atf-exports-amid-west-asia-tensions-11790792346575.html",
+      "dateLocation": "October 1, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Analysts Raise 2026 Oil Forecasts Amid Gulf Disruption",
+      "whyItMatters": "Signals sustained energy price pressures that could impact global inflation and macroeconomic stability.",
+      "brief": "Following protracted disruptions in the Persian Gulf region, polling analysts have upwardly revised crude oil price projections for 2026.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1lVNHRnWlpZc2Q4anY4a2dCTndQN3JKSWdTSkVkRGNfdWxra2xlVDAtUGJqOGVBUURGZjh0YUxaSzNpZktWTkFoSG1EUV84SkI5WF9nWVRZXzRNd3pxZWZJOFIwNU5veE9naWlaMGhMV3Vjclc3c3Uzc1pxXzhCaTl4OTktdzVONHlNMTBpYTBBUVRrT3VMeWdyUW1UWUtycWlWa1BtUjdWNjdiV0cxdQ?oc=5",
+      "dateLocation": "October 1, 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "RSS Leader Calls for Scrutiny of Population Policies",
+      "whyItMatters": "Sparks intense national debate regarding demographic shifts and legislative approaches to population management.",
+      "brief": "RSS leader Sunil Ambekar has urged policymakers to closely examine demographic imbalances without secular or communal biases.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/protests-against-sir-cec-is-it-time-for-congress-and-india-bloc-to-take-a-leaf-out-of-cjps-playbook/articleshow/134597912.cms",
-      "dateLocation": "September 30, 2026 | New Delhi, India",
+      "sourceUrl": "https://www.thehindu.com/news/national/rss-leader-sunil-ambekar-flags-demographic-changes-calls-for-scrutiny-of-population-policies/article71529130.ece",
+      "dateLocation": "October 1, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DoorDash to Build Major Tech Hub in India",
+      "whyItMatters": "Expands foreign tech investment in India, creating thousands of specialized engineering and corporate roles.",
+      "brief": "DoorDash has announced plans to establish a new global tech centre in India, slated to generate 3,000 professional jobs.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkJXV3FXOEJSb1RaNWFZbnJnMHdJc1gzeFg3U0ptZU9GR1Z6RTlXQ0xBbHpBSlRjWkNmX1ExQk9HN3lpYkNBWjNKdnNiUFFKR3g1UTNIQk82RXFYTE40RHFzZ2ozTkF1OWU3RGVhaUM5RHFpbzE1ZzM3UUFMbHFleVNqN3ZYNWpVNEFnOFNwdERiSmdFOE1qZkgtQjFQN3ZVOHNrMVRZLVZ6emNUbUE?oc=5",
+      "dateLocation": "October 1, 2026 | Bengaluru",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Inflation Rises Below Expectations in August",
+      "whyItMatters": "Alleviates immediate pressure on the Federal Reserve regarding aggressive monetary policy tightening and interest rate hikes.",
+      "brief": "Consumer price inflation in the US rose softer than expected in August despite energy price pressures linked to geopolitical conflicts.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-inflation-comes-in-below-expectations-in-august-amid-high-energy-prices-linked-to-iran-war-11790790972922.html",
+      "dateLocation": "October 1, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Middle East Security Shifts Amid American Withdrawal",
+      "whyItMatters": "Forces regional powers to build independent security alliances and completely rethink long-term geopolitical strategies.",
+      "brief": "With US troops exiting Iraq and regional threats advancing, Middle Eastern states are pivoting toward localized security pacts.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/us-leaves-iraq-houthis-advance-challenges-for-the-middle-east-as-it-prepares-for-a-post-american-security-era-11790791027390.html",
+      "dateLocation": "October 1, 2026 | Dubai",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
