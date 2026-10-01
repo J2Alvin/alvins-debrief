@@ -1,84 +1,138 @@
 {
-  "lastUpdated": "2026-10-01T04:01:17.913Z",
+  "lastUpdated": "2026-10-01T12:23:44.151Z",
   "ticker": [
-    "Indian pilot hailed as hero after flydubai cockpit attack averted.",
-    "US and India push forward on interim trade deal discussions.",
-    "Asian factory activity expands strongly driven by global AI boom.",
-    "US-Iran tensions mount as Trump hints at fresh military strikes.",
-    "India records lowest monsoon rainfall levels in over a decade."
+    "Flydubai pilot hailed a hero after cockpit attack thwarted",
+    "Three oil tankers hit by projectiles in Hormuz Strait",
+    "US 10-year Treasury yield hits highest level since 2002",
+    "China's Tencent leases 100,000 chips from Oracle for AI push",
+    "ICC introduces sweeping new cricket rules across formats"
   ],
   "articles": [
     {
-      "headline": "Indian Pilot Hailed as Hero After Cockpit Stabbing Incident",
-      "whyItMatters": "Aviation security averted a major international catastrophe following a rogue co-pilot's attack.",
-      "brief": "PM Modi and global leaders praised Indian captain Smit Machchhar for extraordinary bravery after he and a passenger staved off a sudden mid-air cockpit attack on a Tel Aviv-bound flydubai flight, forcing an emergency landing in Saudi Arabia.",
+      "headline": "Indian Pilot Hailed as Hero in Flydubai Cockpit Drama",
+      "whyItMatters": "Prevented a catastrophic crash and saved 174 passengers from an airborne emergency.",
+      "brief": "Captain Smit Machchhar thwarted an alleged cockpit attack by his co-pilot on a Flydubai flight, successfully bringing the aircraft under control with passenger help before being hospitalized.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/flydubai-pilot-a-hero-plumber-steadied-plunging-aircraft-trump/article71530421.ece",
-      "dateLocation": "Oct 01, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZExkMVFSOVJSbl9XQTVRNU54VEFkckstWlBXVlZIbzNsNDdhS0NvcmVXa05lQktuWFpCdWVLZlZ3MEthLVgzeUlycFJHRzJWWVBCOFB3cUYwZFlIMldxYlNhZV9MMkt6WnlaaHVyZjUzMHpiSEZWRkl3X1U3Smt5a1dxZ0FfS2ZIWU1BTmxPYk5zZEVnNmNWbUxRbF9ZUjQzZkoxN1VnMG9GQkZrejE5NFlKLUxlQlI2VkwwcA?oc=5",
+      "dateLocation": "October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Modi and Trump Discuss Interim Trade Agreement",
-      "whyItMatters": "Bilateral trade relations between the US and India enter a critical negotiation phase.",
-      "brief": "Prime Minister Narendra Modi spoke with US President Donald Trump as both nations actively seek to finalize a fast-tracked interim trade deal, building on ongoing high-level dialogues between trade officials.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkltRW1oaVRyakdseXZiMWxVNGkwYU9MTmEtTXBCTzZvZ2N2eU1oSU1ZLVdDY1JwbVloUkc2SFp2cXpMWl9TQnpWRFVFYy04cnVQcFdySzZkLXl3Tk5Od1VrMVM0WHA5YTk4ZWhBd3dBYkRhcnhHSl9pdlBLWXAyMzZXMTl4WTlIQkItS1k4VHM0V1o1MTIzd1I3b0kzNkF4d3FiUm1n?oc=5",
-      "dateLocation": "Oct 01, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Three Oil Tankers Hit by Projectiles in Hormuz Strait",
+      "whyItMatters": "Escalates geopolitical risks and threatens vital global energy supply routes.",
+      "brief": "Three oil tankers were struck by projectiles in the strategic Hormuz Strait on Tuesday, raising immediate concerns over maritime security and regional conflict escalation.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGxqUHRGWUpFZWo3eVZkQ1NnR2NZM05rLWhoWHNOOE5IaGhwSjk4QlNXRi16Q1BGYVlMc2VPWUh6dm55bHluMjg5WGxvY0dfcmdNcDJIaGc5UjFwaXVpZlFTd21VZDU5dkdpZUtteEtQVll0M09hVHRPMG4wZU56UlNMMjIxREx3dmJZOVNFZjE3R0ZrQ3Q0R0VaazBjWk9LcS1UOWR2S1BfRmc2M1FIeU1Qa3liNHZRcFJINWtYQ1c?oc=5",
+      "dateLocation": "October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Asian Factory Activity Expands on Global AI Boom",
-      "whyItMatters": "Artificial intelligence demand is providing a vital structural boost to regional manufacturing.",
-      "brief": "Manufacturing sectors across major Asian economies saw notable expansion supported by surging worldwide demand for artificial intelligence hardware and technological components.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemVNRUxKT1NZNGNMa05HVHkwM0dEWmUwU2xvOEFncHFrRW51QlFjeDc2WGpUMlFsMGdsWlpWMTEzeVBoVS1OWjhtREdKSlZKQy01SXNFbXBCVnpWMWVHQ0hZZzB5MXQ4aWlSMXhCaXpnZEVFcTlZaFdVVk5rcHd6aUV2NEdpdGFUUGtQQ0ZpREYxOVlobGZ0dE5zbnetSnFoT3NZZWhKSWhUVGl5ekJmSERDc2FhUQ?oc=5",
-      "dateLocation": "Oct 01, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Approves $19 Billion Renewable Energy Programme",
-      "whyItMatters": "A massive fiscal push accelerates national green transition and clean infrastructure targets.",
-      "brief": "The Indian government has officially greenlit a substantial $19 billion funding package aimed at expanding renewable energy capacity and accelerating nationwide sustainability initiatives.",
+      "headline": "Indian Benchmark Shares Post Longest Weekly Losing Streak",
+      "whyItMatters": "Reflects deep market corrections and sustained investor caution in emerging economies.",
+      "brief": "Indian benchmark stock indices recorded their longest weekly losing run in 25 years, driven by persistent foreign outflows and shifting macroeconomic fundamentals.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnR0ejFqdHRnUWFvaGlsRjlpeU0tamNTTU9hdkxTQklFMWNnUzJFcFRtYkxUTjA0SUJhMG94YmJieFQ4SjZQS1NXZnRHVHJ1Z2UzdjJGNHp1SkZwN29JUWlncEpBaWZNd3g5WHYyWUFUb0lEcmctaVk3ZVd5T2hnSXNheGllOU04VV83RUVGSHNRVlRKMTZqaEtYT2NLMGlVOWIwbVZGTV9oQQ?oc=5",
-      "dateLocation": "Oct 01, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
+      "dateLocation": "October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Records Lowest Monsoon Rainfall in Over a Decade",
-      "whyItMatters": "Severe precipitation deficits threaten agricultural output and groundwater reserves nationwide.",
-      "brief": "Weather data reveals India experienced its weakest monsoon rainfall season in more than ten years, raising substantial concerns over rural economic stability and crop yields.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWxnbG1YOTlMdDJOOWJRdzZIeE5SaWc3WVRxN2xtRWkzRExTQUFkVU9kWHA5aUtXMVktWTJqeXNlYmlhTVdvM1hXOGxjQ1hFS2lua2kzdXVOQTJ6VXpxT3Rjb1lxaGFIajNDb3QxbjV3emh4RmVZbHR0VHh5dmpEREtQWm96Q3U4UXYtUVAwaHVuV1VwRXVfODZNTGdhaTgwZDNQYk13YWFQdmY0ekpRNA?oc=5",
-      "dateLocation": "Oct 01, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "US 10-Year Treasury Yield Hits Highest Level Since 2002",
+      "whyItMatters": "Drives global borrowing costs higher and impacts international asset pricing.",
+      "brief": "The yield on benchmark 10-year US Treasuries climbed to its highest point since 2002, pressured by shifting inflation expectations and fiscal concerns.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXI1RW1CX1BMdXF0WjVYS1hvd3VuOVBzZm9SZXRXZmVESE54QkFQTmxuMDRCeTdyTGdScnB4MnRnQ3dlMEpRVEJkd1otRHY0VUxQUFAzSjBINzFmN2d2UGNyUkoyWnpOT1owWmQxWktQd2ZSNjlYSC0yNzhOaklITTVVYUpHZ2ctbG10MDVUdTVLZGZ1Y0E?oc=5",
+      "dateLocation": "October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Sweeps Compound Archery at Asian Games 2026",
-      "whyItMatters": "Strong medal performances elevate India's standing in continental sports competitions.",
-      "brief": "India climbed to eighth place in the medal standings at the 2026 Asian Games in Aichi-Nagoya following an impressive golden sweep in compound archery events.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71530982.ece",
-      "dateLocation": "Oct 01, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pentagon Overhauls Command Structure and Generates Drone Unit",
-      "whyItMatters": "Major military restructuring aims to adapt US defense capabilities for future warfare.",
-      "brief": "US defense officials announced sweeping cuts to general ranks and established a dedicated new drone command, enlisting external advisors to study modern combat trends.",
+      "headline": "Tencent Leases 100,000 Chips from Oracle for AI Push",
+      "whyItMatters": "Highlights intense international competition and infrastructure scaling for advanced AI capabilities.",
+      "brief": "Chinese tech giant Tencent has reportedly leased 100,000 specialized chips from Oracle to accelerate its domestic artificial intelligence development amid US export restrictions.",
       "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/news/international/hegseth-announces-new-drone-command-cuts-to-20-of-generals-in-state-of-the-force-speech/article71531255.ece",
-      "dateLocation": "Oct 01, 2026 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3F1ZTMtVFZsOVNXOEU4X09jTTI0RDVYNUJmQUNVVUhJQkV6YlRmdldFaWwyVzU1UnZLQl9Ia0tqTHlBZ09SUXZ6VC1kcEx6bjQyQlgxXzI1YVpwYldSV3NwNXZRRkFPSWQzclhFbE04anBtbnRZV2FwRUlIMmU2eVV3M0VscEE1Znd5bU5rNEhwWVVXdlR0c2tIbnlnald3VVBJdVFiTDZMUmhqV0x1bE1jVVR2STZ5bHdF?oc=5",
+      "dateLocation": "October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "New Money Rule Changes Kick In Across India This October",
-      "whyItMatters": "Updated financial regulations impact credit card, banking, and subsidy authentication protocols.",
-      "brief": "A series of critical financial rules takes effect, including mandatory Aadhaar authentication for LPG subsidies, revised commercial cylinder rates, and updated ATM transaction limits.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms",
-      "dateLocation": "Oct 01, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Global Factory Activity Boosted by AI Spending Boom",
+      "whyItMatters": "Demonstrates the tangible industrial and manufacturing spillover effects of the artificial intelligence boom.",
+      "brief": "Manufacturing sectors globally are experiencing a notable production lift, directly supported by soaring capital expenditures and hardware demands driven by artificial intelligence investments.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemVNRUxKT1NZNGNMa05HVHkwM0dEWmUwU2xvOEFncHFrRW51QlFjeDc2WGpUMlFsMGdsWlpWMTEzeVBoVS1OWjhtREdKSlZKQy01SXNFbXBCVnpWMWVHQ0hZZzB5MXQ4aWlSMXhCaXpnZEVFcTlZaFdVVk5rcHd6aUV2NEdpdGFUUGtQQ0ZpREYxOVlobGZ0dE5zbnotSnFoT3NZZWhKSWhUVGl5ekJmSERDc2FhUQ?oc=5",
+      "dateLocation": "October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ICC Brings Major Changes to Cricket Rules Across Formats",
+      "whyItMatters": "Restructures match regulations to improve pace of play and officiating clarity worldwide.",
+      "brief": "The International Cricket Council unveiled sweeping playing-condition updates across all formats, implementing strict time-wasting penalties, standardized balls, and fielding clarifications.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/icc-brings-major-changes-to-cricket-rules-across-all-formats/article71532626.ece",
+      "dateLocation": "October 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Chinese Refiners Suspend October Fuel Exports to Stockpile",
+      "whyItMatters": "Tightens regional petroleum supplies and impacts global energy pricing dynamics.",
+      "brief": "Major Chinese refiners have suspended gasoline and jet fuel exports planned for October to shore up domestic inventories amid rising geopolitical supply anxieties.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1hVSHNzaElkOXlpSnE5VW5DTEx5a2Z4WWt3NDFHVTd6TEhKQ3JHeFJhZDBsZXBkYy1MV29ZNjdPTGtHNlpwUEVLNEpBMUowZEItTjBraElOaGQ1U3U4NUxvWnNNM0JWeUlMVllMZkF1aHNKanVkVElwcmctX003R2dja0RsTkNXcEtZaVk5WmYzWW5KWEZpODdwUWxWOWdYYTBqVUF4SUg4ZVduWV9YdFN1RlNyZVExTWV1SGlpTE5nZnpxS3d3SmNIWVE?oc=5",
+      "dateLocation": "October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ICICI Bank Receives Rs 229 Crore GST Demand Notice",
+      "whyItMatters": "Highlights stringent regulatory tax enforcement on minimum balance service charges.",
+      "brief": "ICICI Bank has been served a Goods and Services Tax demand order amounting to Rs 229 crore related to minimum balance banking services.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/icici-bank-recieves-rs-229-crore-gst-demand-over-minimum-balance-services/articleshow/134617764.cms",
+      "dateLocation": "October 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Medical Helicopter Crashes Off California's Catalina Island",
+      "whyItMatters": "Tragic aviation incident involving emergency medical services results in casualties.",
+      "brief": "A medical transport helicopter crashed off the coast of California's Catalina Island, resulting in two fatalities and leaving one person missing.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/medical-helicopter-crashes-off-californias-catalina-island-2-killed-and-1-missing/articleshow/134617189.cms",
+      "dateLocation": "October 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Paul Allen’s Ebola Project Aided Covid Medical Evacuations",
+      "whyItMatters": "Shows how philanthropic investments in biotech create long-term pandemic response tools.",
+      "brief": "A $5 million medical containment initiative funded by the late Microsoft co-founder Paul Allen successfully enabled safe biocontainment transport during global health emergencies.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-co-founder-paul-allen-backed-a-5-million-medical-evacuation-project-after-ebola-in-2020-its-technology-helped-bring-14-americans-with-coronavirus-home-from-a-cruise-ship-in-japan/articleshow/134615016.cms",
+      "dateLocation": "October 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Congress Sacks Punjab Party Chief Amid Internal Revolt",
+      "whyItMatters": "Signals major political realignments and leadership restructuring ahead of regional elections.",
+      "brief": "The Congress party dismissed its Punjab unit chief Raja Warring following an internal revolt, with several senior leaders emerging as frontrunners for the state presidency.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/punjab/punjab-congress-chief-resignation/article71531181.ece",
+      "dateLocation": "October 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "INDIA Bloc Accuses Election Commission of Compromised Credibility",
+      "whyItMatters": "Intensifies friction between the national opposition and constitutional electoral authorities.",
+      "brief": "Congress leaders criticized the Election Commission's recent administrative decisions, claiming the institution has lost its gold-standard status and failed to protect democratic integrity.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/citizens-wont-tolerate-vote-chori-india-bloc-committed-to-protecting-democracy-congress/article71532784.ece",
+      "dateLocation": "October 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Judoka Inungambi Loses Bronze Medal Bout at Championship",
+      "whyItMatters": "Highlights competitive performances of Indian athletes on the international martial arts stage.",
+      "brief": "Indian judoka Inungambi Takhellambam narrowly missed out on a podium finish after conceding a Waza-ari victory to Mongolia's Anujin Uran-Ulzii in a tightly contested match.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/indian-judoka-inungambi-loses-bronze-medal-bout/article71532599.ece",
+      "dateLocation": "October 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
