@@ -1,137 +1,137 @@
 {
-  "lastUpdated": "2026-10-01T12:23:44.151Z",
+  "lastUpdated": "2026-10-01T22:19:14.423Z",
   "ticker": [
-    "Flydubai pilot hailed a hero after cockpit attack thwarted",
-    "Three oil tankers hit by projectiles in Hormuz Strait",
-    "US 10-year Treasury yield hits highest level since 2002",
-    "China's Tencent leases 100,000 chips from Oracle for AI push",
-    "ICC introduces sweeping new cricket rules across formats"
+    "HDFC Bank names Anup Bagchi as CEO",
+    "Google unveils Gemini 4 Argon AI model",
+    "Ukraine deploys FP-7 tactical ballistic missile",
+    "Supreme Court strictly penalizes unpaid e-challans",
+    "Trump warns Iran over Flydubai plane attack"
   ],
   "articles": [
     {
-      "headline": "Indian Pilot Hailed as Hero in Flydubai Cockpit Drama",
-      "whyItMatters": "Prevented a catastrophic crash and saved 174 passengers from an airborne emergency.",
-      "brief": "Captain Smit Machchhar thwarted an alleged cockpit attack by his co-pilot on a Flydubai flight, successfully bringing the aircraft under control with passenger help before being hospitalized.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZExkMVFSOVJSbl9XQTVRNU54VEFkckstWlBXVlZIbzNsNDdhS0NvcmVXa05lQktuWFpCdWVLZlZ3MEthLVgzeUlycFJHRzJWWVBCOFB3cUYwZFlIMldxYlNhZV9MMkt6WnlaaHVyZjUzMHpiSEZWRkl3X1U3Smt5a1dxZ0FfS2ZIWU1BTmxPYk5zZEVnNmNWbUxRbF9ZUjQzZkoxN1VnMG9GQkZrejE5NFlKLUxlQlI2VkwwcA?oc=5",
-      "dateLocation": "October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "HDFC Bank Appoints ICICI Veteran Anup Bagchi as CEO",
+      "whyItMatters": "Signals a major leadership shift for India's largest private sector bank.",
+      "brief": "HDFC Bank has appointed outsider and banking veteran Anup Bagchi as its new Managing Director and CEO, marking a significant transition in leadership for the institution.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-names-icici-veteran-anup-bagchi-as-md-ceo/articleshow/134619874.cms",
+      "dateLocation": "01 Oct 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Three Oil Tankers Hit by Projectiles in Hormuz Strait",
-      "whyItMatters": "Escalates geopolitical risks and threatens vital global energy supply routes.",
-      "brief": "Three oil tankers were struck by projectiles in the strategic Hormuz Strait on Tuesday, raising immediate concerns over maritime security and regional conflict escalation.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGxqUHRGWUpFZWo3eVZkQ1NnR2NZM05rLWhoWHNOOE5IaGhwSjk4QlNXRi16Q1BGYVlMc2VPWUh6dm55bHluMjg5WGxvY0dfcmdNcDJIaGc5UjFwaXVpZlFTd21VZDU5dkdpZUtteEtQVll0M09hVHRPMG4wZU56UlNMMjIxREx3dmJZOVNFZjE3R0ZrQ3Q0R0VaazBjWk9LcS1UOWR2S1BfRmc2M1FIeU1Qa3liNHZRcFJINWtYQ1c?oc=5",
-      "dateLocation": "October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Benchmark Shares Post Longest Weekly Losing Streak",
-      "whyItMatters": "Reflects deep market corrections and sustained investor caution in emerging economies.",
-      "brief": "Indian benchmark stock indices recorded their longest weekly losing run in 25 years, driven by persistent foreign outflows and shifting macroeconomic fundamentals.",
+      "headline": "India's Benchmark Shares Record Longest Weekly Losing Streak",
+      "whyItMatters": "Reflects deep market corrections and sustained investor caution over macroeconomic pressures.",
+      "brief": "Indian benchmark shares have posted their longest weekly losing run in 25 years, highlighting persistent economic headwinds despite record half-year equity fundraisings.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
-      "dateLocation": "October 2026 | Reuters",
+      "dateLocation": "01 Oct 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US 10-Year Treasury Yield Hits Highest Level Since 2002",
-      "whyItMatters": "Drives global borrowing costs higher and impacts international asset pricing.",
-      "brief": "The yield on benchmark 10-year US Treasuries climbed to its highest point since 2002, pressured by shifting inflation expectations and fiscal concerns.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXI1RW1CX1BMdXF0WjVYS1hvd3VuOVBzZm9SZXRXZmVESE54QkFQTmxuMDRCeTdyTGdScnB4MnRnQ3dlMEpRVEJkd1otRHY0VUxQUFAzSjBINzFmN2d2UGNyUkoyWnpOT1owWmQxWktQd2ZSNjlYSC0yNzhOaklITTVVYUpHZ2ctbG10MDVUdTVLZGZ1Y0E?oc=5",
-      "dateLocation": "October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tencent Leases 100,000 Chips from Oracle for AI Push",
-      "whyItMatters": "Highlights intense international competition and infrastructure scaling for advanced AI capabilities.",
-      "brief": "Chinese tech giant Tencent has reportedly leased 100,000 specialized chips from Oracle to accelerate its domestic artificial intelligence development amid US export restrictions.",
+      "headline": "Google Launches Gemini 4 Argon AI Model",
+      "whyItMatters": "Intensifies enterprise AI competition by outperforming major rival models on key benchmarks.",
+      "brief": "Google has announced Gemini 4 Argon, its most powerful AI model to date, targeting advanced coding, financial, and cybersecurity applications with high benchmark success rates.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3F1ZTMtVFZsOVNXOEU4X09jTTI0RDVYNUJmQUNVVUhJQkV6YlRmdldFaWwyVzU1UnZLQl9Ia0tqTHlBZ09SUXZ6VC1kcEx6bjQyQlgxXzI1YVpwYldSV3NwNXZRRkFPSWQzclhFbE04anBtbnRZV2FwRUlIMmU2eVV3M0VscEE1Znd5bU5rNEhwWVVXdlR0c2tIbnlnald3VVBJdVFiTDZMUmhqV0x1bE1jVVR2STZ5bHdF?oc=5",
-      "dateLocation": "October 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms",
+      "dateLocation": "01 Oct 2026 | Mountain View, USA",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global Factory Activity Boosted by AI Spending Boom",
-      "whyItMatters": "Demonstrates the tangible industrial and manufacturing spillover effects of the artificial intelligence boom.",
-      "brief": "Manufacturing sectors globally are experiencing a notable production lift, directly supported by soaring capital expenditures and hardware demands driven by artificial intelligence investments.",
+      "headline": "Volantis Secures $88 Million for AI Memory Tech",
+      "whyItMatters": "Bolsters infrastructure crucial for bridging the growing gap between AI and memory processing.",
+      "brief": "Semiconductor startup Volantis has raised $88 million in funding to develop specialized technologies connecting advanced artificial intelligence workloads with high-speed memory chips.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemVNRUxKT1NZNGNMa05HVHkwM0dEWmUwU2xvOEFncHFrRW51QlFjeDc2WGpUMlFsMGdsWlpWMTEzeVBoVS1OWjhtREdKSlZKQy01SXNFbXBCVnpWMWVHQ0hZZzB5MXQ4aWlSMXhCaXpnZEVFcTlZaFdVVk5rcHd6aUV2NEdpdGFUUGtQQ0ZpREYxOVlobGZ0dE5zbnotSnFoT3NZZWhKSWhUVGl5ekJmSERDc2FhUQ?oc=5",
-      "dateLocation": "October 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHlSZllQWEVWaXhOYldwTmpIY3lyRWZGSThIZC1Sd3VzeXVmOXdvTC1pTHhKWEx3WHhPelhBTW9jSmFtaUUzTWVFc1ZQTWtlbzJfc3YtcUZzSFB5T1FmWVl0Z3dtRzZlUjNBQTNRMVh4eWFteHZJTm9tam5nVm5QQ2pUTy1tSjR1ZHRtUUZ4QUc3T2o5aDNRUVExN01BQkJWY0E?oc=5",
+      "dateLocation": "01 Oct 2026 | San Francisco, USA",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ICC Brings Major Changes to Cricket Rules Across Formats",
-      "whyItMatters": "Restructures match regulations to improve pace of play and officiating clarity worldwide.",
-      "brief": "The International Cricket Council unveiled sweeping playing-condition updates across all formats, implementing strict time-wasting penalties, standardized balls, and fielding clarifications.",
+      "headline": "Ukraine Deploys FP-7 Tactical Ballistic Missile in Combat",
+      "whyItMatters": "Introduces newly developed domestic missile capabilities directly into ongoing military engagements.",
+      "brief": "Ukrainian President Volodymyr Zelenskiy confirmed that the country's defense forces have deployed the FP-7 tactical ballistic missile in combat operations for the very first time.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkJyb2N6RXY0YjRPVTVPTDd4OFVicGhMdWRkN3dGWFZRNEF5UHZCb25YY2hMQnJWdkYtYVFsSHRKU0MyUXpQaXVxS3dwdXdCMUpFdVVlaVhYbzV4NjRZbGF6RjVnM3Fwb2dJSVVIQTBmMGl4bjZRYUpLdEZDRzBaZElaSEZ4OGZQenZEQy1xbmN2aEhXVFRoRVJqNGNRd3oyRlg2QnFwT2IybE9CT0dIa3YwN1Y0bVlDdUVpdUFrSllCWDlFeFY0YWNJbDNxdG8yajM2UHJRRHFUdTA?oc=5",
+      "dateLocation": "01 Oct 2026 | Kyiv, Ukraine",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Warns Iran Over Alleged Links to Flydubai Attack",
+      "whyItMatters": "Escalates geopolitical tensions in the Middle East following a major aviation security breach.",
+      "brief": "US President Donald Trump issued a stern warning that Iran will face severe retaliation if investigators confirm any state linkage to the recent Flydubai flight hijacking incident.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trumps-warning-to-iran-they-ll-be-hit-very-hard-if-linked-to-flydubai-plane-attack-11790888235545.html",
+      "dateLocation": "01 Oct 2026 | Washington D.C., USA",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Imposes Strict Penalties for Unpaid E-Challans",
+      "whyItMatters": "Cracks down on widespread traffic fine evasion by targeting vehicle registration and renewals.",
+      "brief": "The Supreme Court of India ordered authorities to seize vehicles and halt registration and PUC renewals for motorists with accumulated unpaid e-challans across the country.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/supreme-court-says-seize-vehicle-stop-rc-puc-renewal-if-e-challans-not-paid/articleshow/134627354.cms",
+      "dateLocation": "01 Oct 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and US Stalled on Interim Trade Deal",
+      "whyItMatters": "Highlights persistent trade policy differences between Washington and New Delhi.",
+      "brief": "Despite high-level push from Indian trade officials for an early interim pact, US trade representatives stated that significant sticking points remain unresolved in negotiations.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/indiaus-trade-deal-goyal-seeks-early-conclusion-of-interim-deal-in-talks-with-us-trade-chief-11790883712986.html",
+      "dateLocation": "01 Oct 2026 | Washington D.C., USA",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Vedanta Announces $200 Million Rajasthan Oil Investment",
+      "whyItMatters": "Aims to boost domestic crude oil production to support energy security goals.",
+      "brief": "Vedanta has unveiled a $200 million capital expenditure push aimed at ramping up oil extraction and output capabilities across its operational fields in Rajasthan.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/vedanta-plans-200-million-push-to-lift-rajasthan-oil-output/articleshow/134626265.cms",
+      "dateLocation": "01 Oct 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Cuts Sugar Holding Period to Curb Hoarding",
+      "whyItMatters": "Seeks to stabilize commodity prices and ensure fair availability during festival seasons.",
+      "brief": "The Indian government has reduced the stock holding period for sugar dealers to 15 days to prevent speculative hoarding and manage market supply ahead of upcoming festivals.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/india-cuts-sugar-stock-holding-period-for-dealers-to-15-days-to-curb-hoarding-ahead-of-festivals/articleshow/134612594.cms",
+      "dateLocation": "01 Oct 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Avalanche Kills 15 Nepali Workers in Himalayan Camp",
+      "whyItMatters": "Underscores the extreme physical dangers faced by mountain guides and workers ahead of climbing season.",
+      "brief": "An avalanche struck a Himalayan basecamp, killing 15 Nepali workers who were preparing routes and facilities for upcoming high-altitude mountaineering expeditions.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGZlbkRaLTZDYjR2X0pTS1haTjdXYTZmTmdUbUNKLU5rekF5VHQwaEJRcF9lT3NVcVlPNDhpaTc1TDRaYXJQSklxeThrYm1EWkR0bFFNWFo0c3Bfa2dzdTVBWGItRjI0TnBhOW0wSktUZEJTTERJcnpNMjNQdUpVeDQteHRXbFd2OGk4V0lXODNQczRibFJHNS1IT1ozWU9OalFsamRMVENfakFDTXpwNUhGM3FCbUdZcGktNlNfQTh4N0hBckxZT0E3UQ?oc=5",
+      "dateLocation": "01 Oct 2026 | Kathmandu, Nepal",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "SpaceX Launches 13th Long-Duration Crew to ISS",
+      "whyItMatters": "Maintains continuous international astronaut rotation and scientific operations aboard the orbital station.",
+      "brief": "SpaceX successfully launched its 13th routine long-duration astronaut crew toward the International Space Station, ensuring ongoing staffing for orbital research projects.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1U5NmdOVDhlV0hFbkZoeWNxalV3RnplOTRsUXhrcGM0WEhMXzZINy15ZUt5TDEyOUp4NENJVzNfR2xmejF2VkVsMEdkMUpSeHFmNW1EbHBYMm9ocjVJVDJjdmxBLXhjdC1nZ0dSM2Y5X181RTZyaWRDbzhIOVdXYjE2Uk1lNno2a25MbTNiek1Za0htSGpHV1RGYUZWOE13b2pMSEtfOHVYcUYyRUJ6TmFqT3FNUUVmZHRiNmJKc2VKbW5rWjNNUnU1UjVSdzhQNVE?oc=5",
+      "dateLocation": "01 Oct 2026 | Cape Canaveral, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India In Twin Medal Hunt at International Golf Event",
+      "whyItMatters": "Highlights rising competitive prowess of Indian golfers on the regional and global stage.",
+      "brief": "Strong performances led by Pranavi position Indian contenders firmly in contention for dual medals heading into the closing rounds of the tournament.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/icc-brings-major-changes-to-cricket-rules-across-all-formats/article71532626.ece",
-      "dateLocation": "October 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sport/second-placed-pranavis-63-puts-india-in-twin-medal-hunt-talwar-slips-to-7th/article71534695.ece",
+      "dateLocation": "01 Oct 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Chinese Refiners Suspend October Fuel Exports to Stockpile",
-      "whyItMatters": "Tightens regional petroleum supplies and impacts global energy pricing dynamics.",
-      "brief": "Major Chinese refiners have suspended gasoline and jet fuel exports planned for October to shore up domestic inventories amid rising geopolitical supply anxieties.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1hVSHNzaElkOXlpSnE5VW5DTEx5a2Z4WWt3NDFHVTd6TEhKQ3JHeFJhZDBsZXBkYy1MV29ZNjdPTGtHNlpwUEVLNEpBMUowZEItTjBraElOaGQ1U3U4NUxvWnNNM0JWeUlMVllMZkF1aHNKanVkVElwcmctX003R2dja0RsTkNXcEtZaVk5WmYzWW5KWEZpODdwUWxWOWdYYTBqVUF4SUg4ZVduWV9YdFN1RlNyZVExTWV1SGlpTE5nZnpxS3d3SmNIWVE?oc=5",
-      "dateLocation": "October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ICICI Bank Receives Rs 229 Crore GST Demand Notice",
-      "whyItMatters": "Highlights stringent regulatory tax enforcement on minimum balance service charges.",
-      "brief": "ICICI Bank has been served a Goods and Services Tax demand order amounting to Rs 229 crore related to minimum balance banking services.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/icici-bank-recieves-rs-229-crore-gst-demand-over-minimum-balance-services/articleshow/134617764.cms",
-      "dateLocation": "October 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Medical Helicopter Crashes Off California's Catalina Island",
-      "whyItMatters": "Tragic aviation incident involving emergency medical services results in casualties.",
-      "brief": "A medical transport helicopter crashed off the coast of California's Catalina Island, resulting in two fatalities and leaving one person missing.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/medical-helicopter-crashes-off-californias-catalina-island-2-killed-and-1-missing/articleshow/134617189.cms",
-      "dateLocation": "October 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Paul Allen’s Ebola Project Aided Covid Medical Evacuations",
-      "whyItMatters": "Shows how philanthropic investments in biotech create long-term pandemic response tools.",
-      "brief": "A $5 million medical containment initiative funded by the late Microsoft co-founder Paul Allen successfully enabled safe biocontainment transport during global health emergencies.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-co-founder-paul-allen-backed-a-5-million-medical-evacuation-project-after-ebola-in-2020-its-technology-helped-bring-14-americans-with-coronavirus-home-from-a-cruise-ship-in-japan/articleshow/134615016.cms",
-      "dateLocation": "October 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Congress Sacks Punjab Party Chief Amid Internal Revolt",
-      "whyItMatters": "Signals major political realignments and leadership restructuring ahead of regional elections.",
-      "brief": "The Congress party dismissed its Punjab unit chief Raja Warring following an internal revolt, with several senior leaders emerging as frontrunners for the state presidency.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/punjab/punjab-congress-chief-resignation/article71531181.ece",
-      "dateLocation": "October 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "INDIA Bloc Accuses Election Commission of Compromised Credibility",
-      "whyItMatters": "Intensifies friction between the national opposition and constitutional electoral authorities.",
-      "brief": "Congress leaders criticized the Election Commission's recent administrative decisions, claiming the institution has lost its gold-standard status and failed to protect democratic integrity.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/citizens-wont-tolerate-vote-chori-india-bloc-committed-to-protecting-democracy-congress/article71532784.ece",
-      "dateLocation": "October 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Judoka Inungambi Loses Bronze Medal Bout at Championship",
-      "whyItMatters": "Highlights competitive performances of Indian athletes on the international martial arts stage.",
-      "brief": "Indian judoka Inungambi Takhellambam narrowly missed out on a podium finish after conceding a Waza-ari victory to Mongolia's Anujin Uran-Ulzii in a tightly contested match.",
+      "headline": "Srinagar Cricket Ground Hosts Historic Irani Cup Match",
+      "whyItMatters": "Revives premier domestic cricket in Kashmir under strict management and security protocols.",
+      "brief": "The Srinagar cricket ground successfully hosted a major domestic fixture, overcoming historical logistical hurdles to stage a milestone event for local sports fans.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/indian-judoka-inungambi-loses-bronze-medal-bout/article71532599.ece",
-      "dateLocation": "October 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/irani-cup-2026-srinagar-cricket-ground-rewrites-history-to-outpace-memories-of-1983-india-west-india-fiasco/article71534400.ece",
+      "dateLocation": "01 Oct 2026 | Srinagar, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
