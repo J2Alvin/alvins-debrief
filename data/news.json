@@ -1,147 +1,120 @@
 {
-  "lastUpdated": "2026-10-02T17:24:47.337Z",
+  "lastUpdated": "2026-10-02T21:47:41.947Z",
   "ticker": [
-    "US Job Growth Slows Sharply",
-    "India Wins Women's Hockey Gold",
-    "G7 to Release Diesel Reserves",
-    "Zelensky Reports New War Order",
-    "CEC Faces Massive Protests in India"
+    "G7 to release 100 million barrels of diesel",
+    "Hackers breach propulsion of US-bound oil tanker",
+    "Indian border forces kill two Pakistani civilians",
+    "Piyush Goyal rejects conditional MFN at G20",
+    "Putin warns Russia will use all weapons against NATO"
   ],
   "articles": [
     {
-      "headline": "US Job Growth Slows Sharply in September",
-      "whyItMatters": "Indicates a cooling labor market, shifting Federal Reserve rate expectations.",
-      "brief": "US job growth slowed sharply in September as hiring dropped significantly and the unemployment rate rose to 4.2%, according to the Labor Department.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
-      "dateLocation": "2026-10-02 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "G7 to Release 100 Million Barrels of Reserves",
-      "whyItMatters": "Aims to stabilize soaring global diesel and energy prices amid supply crunches.",
-      "brief": "The G7 nations agreed to release 100 million barrels of diesel and other petroleum reserves through the International Energy Agency to combat skyrocketing fuel costs.",
+      "headline": "G7 to Release 100 Million Barrels of Diesel",
+      "whyItMatters": "Stabilizes global fuel supplies amid escalating international trade and energy disruptions.",
+      "brief": "The G7 has agreed to release 100 million barrels of diesel and other strategic reserves through the International Energy Agency to combat sudden supply shocks.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19pQnVCc2dwWWN3NlFDRl9LSTJvQVRYQlpDNDRxM2lhcm9kQzNkOGE5Y1c4eGFQcEFaSHZfUTlydnhfZ25hbFdWSUlBMy1IMVM1S1hOYnA1SEJWby0tZnNzY25jek44MGY1UGprN2lHT25qN3hqLTMxazdES2s0QUczSTBzcUVpTmRRc0pqcG1wd19yR1FidVJka3otVWx5SkF1dm9TaHdzN2hzLW92M1lLdVlqSVk?oc=5",
       "dateLocation": "2026-10-02 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Claims Historic Asian Games Women's Hockey Gold",
-      "whyItMatters": "Secures direct Olympic berth and marks a monumental milestone for Indian sports.",
-      "brief": "The Indian women's hockey team defeated China 1-0 to claim their first Asian Games gold medal in 44 years, securing a direct qualification berth for the Los Angeles Olympics.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/hockey/asian-games-2026-india-beat-china-1-0-to-win-womens-hockey-gold-secure-la-olympics-berth/articleshow/134639828.cms",
-      "dateLocation": "2026-10-02 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Zelensky Exposes New Russian War Directives",
-      "whyItMatters": "Signals a severe escalation in targeted urban and infrastructure destruction.",
-      "brief": "Ukrainian President Volodymyr Zelensky revealed that Russian leadership has issued a new war order eliminating rules of engagement, as aerial strikes heavily damage Kyiv infrastructure.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/there-are-no-rules-now-zelensky-reveals-putin-s-alleged-new-war-order-11790956664852.html",
-      "dateLocation": "2026-10-02 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Massive Protests Demand Indian CEC's Resignation",
-      "whyItMatters": "Heightens political friction over voter roll integrity and election commission independence.",
-      "brief": "Thousands of protesters and opposition leaders rallied in Delhi and Mumbai to demand the resignation of Chief Election Commissioner Gyanesh Kumar over alleged electoral roll irregularities.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/rahul-gandhi-demands-cec-gyanesh-kumars-resignation-as-protests-erupt-in-delhi-mumbai/articleshow/134643388.cms",
-      "dateLocation": "2026-10-02 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Anthropic Engages Religious Scholars to Guide AI",
-      "whyItMatters": "Pioneers novel ethical and philosophical frameworks for artificial intelligence alignment.",
-      "brief": "Anthropic has collaborated with various religious scholars and philosophers, including monks, to explore ethical frameworks and moral dimensions for advanced AI models like Claude.",
+      "headline": "Hackers Breach Propulsion System of US-Bound Oil Tanker",
+      "whyItMatters": "Exposes critical vulnerabilities in global maritime infrastructure and critical supply chains.",
+      "brief": "FBI and US Coast Guard investigators discovered that hackers successfully accessed the propulsion system of an oil supertanker near the Texas coast.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/ai-and-the-monk-anthropic-goes-for-swami-and-friends-to-tame-claude/articleshow/134643599.cms",
-      "dateLocation": "2026-10-02 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/hackers-breached-propulsion-system-of-us-bound-oil-tanker-11790969309910.html",
+      "dateLocation": "2026-10-02 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Piyush Goyal Urges WTO-Compliant Trade Measures",
-      "whyItMatters": "Addresses growing global trade distortions and unilateral supply chain diversification tactics.",
-      "brief": "At a G20 meeting, Indian Commerce Minister Piyush Goyal called for multilateral, WTO-compliant measures to address global trade distortions and prevent protectionist policies under supply chain pretexts.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/piyush-goyal-calls-for-wto-compliant-measures-to-address-global-trade-distortions-at-g20-meet-11790939847724.html",
-      "dateLocation": "2026-10-02 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI Directive on Energy Drink Labels Challenged",
-      "whyItMatters": "Carries massive commercial consequences for major beverage brands operating in India.",
-      "brief": "PepsiCo and Monster Energy have filed legal challenges against FSSAI's directive banning the term 'energy drink' on product labels, citing severe commercial disruptions.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/explainer-pepsico-monster-challenge-order-against-use-of-energy-drink-labels-but-why-fssai-calls-them-misleading-11790954364839.html",
-      "dateLocation": "2026-10-02 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Argentina Launches Citizenship-by-Investment Program",
-      "whyItMatters": "Offers a new economic pathway to attract foreign capital and global investors.",
-      "brief": "Argentina has officially announced a new citizenship-by-investment program aimed at attracting foreign capital, boosting economic development, and encouraging residency.",
+      "headline": "Indian Border Forces Kill Two Pakistani Civilians",
+      "whyItMatters": "Heightens geopolitical tensions along the contested border between nuclear-armed neighbors.",
+      "brief": "Pakistani security sources report that Indian border forces killed two Pakistani civilians and wounded one during a cross-border incident.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb243dkFXUFRfeDBROHdUbVdxNTJranlUNUdoRkhwNlI5WWFPSG11dzlvWm55cnl5TW5Gay10bVptbUhSWWxQcThfMTBkMWtFdGliUTlZTkpQN2RKSDFNeVdrblc0cjdOWmFOOEZxYkpYd2g5Qy1DQ2owU1lCME1scS1ldWUyekhLdEFTQU9pTmozamE3YVJTTFdZM1NLUGpTNzFGVGUzYw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXNKbTZJNmdRWUVFcHpiWWVYWVdNQXhTc2VUd0lyZElUS1dDWGVzcmdmVlpkRU9EaDNETFdqZ3J6Y2pmZXZtVEoyTmV5dUxRdm44UUZ3UDFKemIxUEZkR0FFcC1fSl9IRWd5V3JlRFhkejEyMTVPOE82elNydUc1SDVlc0oxV0hMdkFGOGdmeHZJT0lfWkxiTDJfRTdGVXl1RlkySVdCQmpXNWluODVHLTZ1WEgtNW1VSGNHVDhlTEphZ2FhLWo2V0tQbEppZw?oc=5",
       "dateLocation": "2026-10-02 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cat Food Contaminants Uncovered in New Testing",
-      "whyItMatters": "Raises critical consumer safety awareness regarding pet health and regulatory oversight.",
-      "brief": "A comprehensive new study testing commercial cat food formulations revealed over 122 contaminants, including significantly elevated mercury levels in certain popular brands.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-does-your-cat-eat-the-same-food-every-day-new-test-finds-122-contaminants-nearly-28-times-more-mercury-in-some/articleshow/134642949.cms",
-      "dateLocation": "2026-10-02 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Piyush Goyal Rejects Conditional MFN Treatment at G20",
+      "whyItMatters": "Defends developing nation trade autonomy against restrictive multilateral trade conditions.",
+      "brief": "Union Commerce Minister Piyush Goyal stated India firmly opposes linking Most-Favoured-Nation status to voluntary or selective WTO rules at the G20 meeting.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/smallest-trader-receives-what-piyush-goyal-said-as-he-rejects-conditional-mfn-treatment-at-g20-meet-11790963413503.html",
+      "dateLocation": "2026-10-02 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Maharashtra FDA Cancels Cipla Warehouse Licences",
-      "whyItMatters": "Impacts major pharmaceutical supply chains and triggers strict regulatory compliance checks.",
-      "brief": "The Maharashtra Food and Drug Administration canceled pharmaceutical major Cipla's warehouse licences following severe violations discovered during drug safety inspections.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/maharashtra-fda-cancels-cipla-warehouse-licences-over-drug-violations/articleshow/134641214.cms",
-      "dateLocation": "2026-10-02 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "France High Schools Close Amid Nationwide Protests",
-      "whyItMatters": "Reflects deep systemic public sector strain over infrastructure and staffing deficits.",
-      "brief": "Around 400 French high schools were closed as student protests over teacher shortages, overcrowding, and inadequate facilities spread nationwide, prompting government security interventions.",
+      "headline": "Putin Warns Russia Will Use All Weapons Against NATO",
+      "whyItMatters": "Escalates direct nuclear and conventional threats amid ongoing European security standoffs.",
+      "brief": "Russian President Vladimir Putin issued a stark warning regarding NATO aggression, highlighting Kaliningrad as a dangerous flashpoint for potential conflict.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/why-are-french-students-taking-to-the-streets-around-400-schools-shut-as-protests-spread-across-the-country-11790945864117.html",
+      "sourceUrl": "https://www.livemint.com/news/world/putin-warns-russia-will-use-all-weapons-against-nato-aggression-why-kaliningrad-is-latest-flashpoint-11790961804871.html",
       "dateLocation": "2026-10-02 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudis Plan Red Sea Operation Against Houthis",
-      "whyItMatters": "Seeks to restore maritime security and unblock vital global shipping chokepoints.",
-      "brief": "Saudi Arabia is reportedly planning a strategic military assault against Houthi positions to break the ongoing Red Sea chokehold and protect international commercial shipping lanes.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJialJyWHg0VzlHXzBiaTU3elZhbWEtQzd0TjhNOGNsWFFZNTYyMGFqODJGcVc3aVBaYVY3QkRzWWpEZDlQNEpJeVp6ZjMxYkZKYi1nZ0FUenFUSFRFRTNCb3NaTmdCaTJ1WWV1RmlqcmhSZGtsZWZobE5jSHp3RkJiVXpueWdVOHJmbDhzUEEzVXB6OF9jYkJHcnpfQklTNDVHZ20yS1J6QQ?oc=5",
-      "dateLocation": "2026-10-02 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Supreme Court Rules on Anti-Slaughter Law and Cattle Transport",
+      "whyItMatters": "Provides crucial judicial clarity on the limits of state-level cattle slaughter legislation.",
+      "brief": "The Supreme Court of India ruled that anti-slaughter laws cannot be invoked in cases involving mere illegal cattle transportation without further proof.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cant-invoke-anti-slaughter-law-in-case-of-mere-illegal-cattle-transportation-sc/articleshow/134646602.cms",
+      "dateLocation": "2026-10-02 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Archery Team Wins Historic Gold",
-      "whyItMatters": "Continues India's stellar medal-winning dominance at the international multi-sport event.",
-      "brief": "The Indian women's recurve archery team clinched a historic gold medal at the 2026 Asian Games, outperforming rival competitors in a tense final showdown.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-october-2-2026/article71535569.ece",
+      "headline": "Election Commission Orders Special Drive for Left-Out Electors",
+      "whyItMatters": "Addresses widespread voter disenfranchisement concerns following intensive electoral roll revisions.",
+      "brief": "Under intense public fire, the Election Commission ordered a special drive allowing booth-level officers to visit homes and enrol genuine electors left out.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms",
+      "dateLocation": "2026-10-02 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ICICI Life Insurance Appoints Sidharatha Mishra as MD and CEO",
+      "whyItMatters": "Shuffles leadership at a major financial institution following high-profile executive transitions.",
+      "brief": "ICICI Life Insurance has appointed banking veteran Sidharatha Mishra as its new Managing Director and Chief Executive Officer.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnpldjJfejdWMksydnpPU1VJZDExQU9uV0hTUkFfRWpOX2tneUtuT2M4UTNxU09obHR3VzZkQVdlc2tQNmZ5dHdxaWJmR2N1OG1tODI5SE5ZRWktMHVPY0ttNmM3U3pJLUlzMEhLaVI0bFQ3dTNkV25ET0g4T0RNcE5XSXA0T1p0R2RBVVZDckdESXdZTzNhX1RjeUNUeFhINmkyTEp1bjl3V3JxQl9vQnJCQQ?oc=5",
+      "dateLocation": "2026-10-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Apple Pay Officially Launches in India with Overseas Support",
+      "whyItMatters": "Expands digital payment ecosystems and global financial interoperability for Indian consumers.",
+      "brief": "Apple Pay has officially rolled out in India, enabling users to leverage the contactless platform domestically and during international travel.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/nri/invest/apple-pay-is-finally-in-india-can-you-use-it-on-your-next-trip-abroad/articleshow/134632735.cms",
+      "dateLocation": "2026-10-02 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Reliance Plans Rs 1 Lakh Crore Investment in Andhra Pradesh",
+      "whyItMatters": "Serves as a massive economic booster for regional industrial growth and energy infrastructure.",
+      "brief": "Anant Ambani announced that Reliance is preparing a massive Rs 1 lakh crore investment plan targeting various industrial and energy sectors in Andhra Pradesh.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/reliance-plans-rs-1-lakh-crore-investment-in-andhra-pradesh-says-anant-ambani/articleshow/134639970.cms",
+      "dateLocation": "2026-10-02 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tennessee Execution Survivor Christa Pike on Ventilator",
+      "whyItMatters": "Sparks intense legal and ethical debates regarding capital punishment protocols and botched executions.",
+      "brief": "Attorneys report that Christa Pike remains unconscious on a ventilator in critical condition after surviving a botched lethal injection attempt in Tennessee.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/tennessee-execution-survivor-christa-pike-on-ventilator-attorneys-say/articleshow/134638490.cms",
       "dateLocation": "2026-10-02 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nikhil Kamath Urges Startups to Build Cash Buffers",
-      "whyItMatters": "Provides crucial financial survival advice to tech startups ahead of predicted funding winters.",
-      "brief": "Zerodha co-founder Nikhil Kamath backed a viral message urging early-stage startups to secure sufficient funding to maintain operational comfort for up to two years.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/nikhil-kamath-has-a-100-funding-message-for-startups-zerodha-co-founder-backs-post-urging-startups-to-raise-enough-money-to-stay-comfortable-for-a-year-or-two-as-next-year-could-be-bad/articleshow/134643244.cms",
-      "dateLocation": "2026-10-02 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "South Africa Records Spike in Mass Shootings With 46 Dead",
+      "whyItMatters": "Highlights systemic challenges in curbing illegal firearms, organized crime, and violent community crime.",
+      "brief": "South Africa recorded at least 46 deaths across five separate mass shootings in less than a week, renewing national security concerns.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/world/south-africa-mass-shootings-what-s-behind-the-sudden-spike-in-gun-crime-46-dead-in-a-week-in-5-incidents-11790968979697.html",
+      "dateLocation": "2026-10-02 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
