@@ -1,129 +1,147 @@
 {
-  "lastUpdated": "2026-10-02T11:50:38.192Z",
+  "lastUpdated": "2026-10-02T17:24:47.337Z",
   "ticker": [
-    "Flydubai pilot hails bravery after cockpit attack",
-    "India maps Ladakh locations amid border tensions",
-    "Euro zone inflation surges past expectations",
-    "G7 leaders discuss emergency oil stock releases",
-    "China fuel export suspension shakes Asian markets"
+    "US Job Growth Slows Sharply",
+    "India Wins Women's Hockey Gold",
+    "G7 to Release Diesel Reserves",
+    "Zelensky Reports New War Order",
+    "CEC Faces Massive Protests in India"
   ],
   "articles": [
     {
-      "headline": "Flydubai Cockpit Attack Terminated as Terrorist Act",
-      "whyItMatters": "Highlights critical vulnerabilities in international aviation security and cockpit protocols.",
-      "brief": "The UAE officially designated the mid-air flydubai incident a terrorist act after an alert Indian captain thwarted his co-pilot's attempt to crash the aircraft.",
+      "headline": "US Job Growth Slows Sharply in September",
+      "whyItMatters": "Indicates a cooling labor market, shifting Federal Reserve rate expectations.",
+      "brief": "US job growth slowed sharply in September as hiring dropped significantly and the unemployment rate rose to 4.2%, according to the Labor Department.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
+      "dateLocation": "2026-10-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "G7 to Release 100 Million Barrels of Reserves",
+      "whyItMatters": "Aims to stabilize soaring global diesel and energy prices amid supply crunches.",
+      "brief": "The G7 nations agreed to release 100 million barrels of diesel and other petroleum reserves through the International Energy Agency to combat skyrocketing fuel costs.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19pQnVCc2dwWWN3NlFDRl9LSTJvQVRYQlpDNDRxM2lhcm9kQzNkOGE5Y1c4eGFQcEFaSHZfUTlydnhfZ25hbFdWSUlBMy1IMVM1S1hOYnA1SEJWby0tZnNzY25jek44MGY1UGprN2lHT25qN3hqLTMxazdES2s0QUczSTBzcUVpTmRRc0pqcG1wd19yR1FidVJka3otVWx5SkF1dm9TaHdzN2hzLW92M1lLdVlqSVk?oc=5",
+      "dateLocation": "2026-10-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Claims Historic Asian Games Women's Hockey Gold",
+      "whyItMatters": "Secures direct Olympic berth and marks a monumental milestone for Indian sports.",
+      "brief": "The Indian women's hockey team defeated China 1-0 to claim their first Asian Games gold medal in 44 years, securing a direct qualification berth for the Los Angeles Olympics.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/hockey/asian-games-2026-india-beat-china-1-0-to-win-womens-hockey-gold-secure-la-olympics-berth/articleshow/134639828.cms",
+      "dateLocation": "2026-10-02 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Zelensky Exposes New Russian War Directives",
+      "whyItMatters": "Signals a severe escalation in targeted urban and infrastructure destruction.",
+      "brief": "Ukrainian President Volodymyr Zelensky revealed that Russian leadership has issued a new war order eliminating rules of engagement, as aerial strikes heavily damage Kyiv infrastructure.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/uae-terms-flydubai-flight-incident-a-terrorist-act-praises-pilot-smit-machchhar-11790939811980.html",
-      "dateLocation": "Oct 2, 2026 | UAE",
+      "sourceUrl": "https://www.livemint.com/news/world/there-are-no-rules-now-zelensky-reveals-putin-s-alleged-new-war-order-11790956664852.html",
+      "dateLocation": "2026-10-02 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Maps 28 Ladakh Features Amid China Tensions",
-      "whyItMatters": "Asserts territorial sovereignty through official cartography amidst ongoing regional disputes.",
-      "brief": "India formally named and mapped 28 places and geographical features in Ladakh on official Survey of India maps following similar moves in Arunachal Pradesh.",
+      "headline": "Massive Protests Demand Indian CEC's Resignation",
+      "whyItMatters": "Heightens political friction over voter roll integrity and election commission independence.",
+      "brief": "Thousands of protesters and opposition leaders rallied in Delhi and Mumbai to demand the resignation of Chief Election Commissioner Gyanesh Kumar over alleged electoral roll irregularities.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india-formally-names-28-places-and-features-in-ladakh-on-official-map-amid-china-s-push-why-it-matters-11790930338366.html",
-      "dateLocation": "Oct 2, 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/rahul-gandhi-demands-cec-gyanesh-kumars-resignation-as-protests-erupt-in-delhi-mumbai/articleshow/134643388.cms",
+      "dateLocation": "2026-10-02 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Euro Zone Inflation Surges Past Expectations",
-      "whyItMatters": "Places renewed pressure on the European Central Bank to consider aggressive rate hikes.",
-      "brief": "Euro zone inflation surged higher than expected in the latest reading, intensifying economic strain and keeping pressure firmly on central bankers.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjBZN3Zra1B6VVdIMFBGalpKbDVTYW9ZZjR2UFJDRC10V25XZHBRQndua3Brc1BVbWxPT2pZTWcwZzBYSFNIREFlX2FvLVNVOENURWZJckwyRmwyakp3X0tQd0Z5MVJVOVlrYmdxZlJ1azdLTjRvNW9WdzlJcjhYRE1YcVlYTk44V1hMSV9KZk1YdVpQdmRMTUN5bjI1QQ?oc=5",
-      "dateLocation": "Oct 2, 2026 | Frankfurt",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Anthropic Engages Religious Scholars to Guide AI",
+      "whyItMatters": "Pioneers novel ethical and philosophical frameworks for artificial intelligence alignment.",
+      "brief": "Anthropic has collaborated with various religious scholars and philosophers, including monks, to explore ethical frameworks and moral dimensions for advanced AI models like Claude.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/ai-and-the-monk-anthropic-goes-for-swami-and-friends-to-tame-claude/articleshow/134643599.cms",
+      "dateLocation": "2026-10-02 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "G7 Leaders Discuss Emergency Oil Stock Releases",
-      "whyItMatters": "Aims to stabilize volatile global energy markets amid supply chain shocks.",
-      "brief": "The French President is holding a call with G7 leaders to discuss potential stock releases following export suspensions and supply constraints.",
+      "headline": "Piyush Goyal Urges WTO-Compliant Trade Measures",
+      "whyItMatters": "Addresses growing global trade distortions and unilateral supply chain diversification tactics.",
+      "brief": "At a G20 meeting, Indian Commerce Minister Piyush Goyal called for multilateral, WTO-compliant measures to address global trade distortions and prevent protectionist policies under supply chain pretexts.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2gyOWlGajNUWGdfUVhLbTIwR2N5QURDU2V1YkRUcmFxcEtfUDY2c3pZd3B1eC1sSkZ5VlBiNmVrdnlLNTB2THRGeHY4S2I5MG94V3IzWk5fOVVWWHVUQUIzbHd2NWlocEtkMVJRSEpLS0FLWUt2R2lZZEV6X3lWYWtiRXBRc1VxWlJCTWZ0Tk5pRnQtYlVBeUkyU3RrZGlNTFJWTGNTSTh4V1lTc1p5Q3lmQ0FLQ3RU?oc=5",
-      "dateLocation": "Oct 2, 2026 | Paris",
+      "sourceUrl": "https://www.livemint.com/news/piyush-goyal-calls-for-wto-compliant-measures-to-address-global-trade-distortions-at-g20-meet-11790939847724.html",
+      "dateLocation": "2026-10-02 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Fuel Export Ban Threatens Asian Supplies",
-      "whyItMatters": "Exacerbates regional energy scarcity and drives up refining margins across Asia.",
-      "brief": "China's unexpected fuel export suspension is projected to heavily choke petroleum product supplies throughout the broader Asian market.",
+      "headline": "FSSAI Directive on Energy Drink Labels Challenged",
+      "whyItMatters": "Carries massive commercial consequences for major beverage brands operating in India.",
+      "brief": "PepsiCo and Monster Energy have filed legal challenges against FSSAI's directive banning the term 'energy drink' on product labels, citing severe commercial disruptions.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUhwdVdmMXBLa0luaVJZbnBYaC1EZk82SUhhbFVYbFpUM3p4c3lOM2VxZWlJUmlNc2RtVTZnTmM0TmktVVBsN1B4UGNJaEM3bnc2OWYxVk9jVHBCSjlycEgzdF9rZDZ5SjNsV0F0QXc3QjltVVdyMmNEQmw5N3JOaGNya1VIRkJUcFRGdy1ibEhsaDdTeWxyS1hNUDJFbG9wMXc?oc=5",
-      "dateLocation": "Oct 2, 2026 | Beijing",
+      "sourceUrl": "https://www.livemint.com/news/india/explainer-pepsico-monster-challenge-order-against-use-of-energy-drink-labels-but-why-fssai-calls-them-misleading-11790954364839.html",
+      "dateLocation": "2026-10-02 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Hundreds Detained in Delhi Protests Against CEC",
-      "whyItMatters": "Reflects escalating political friction regarding election administration transparency in India.",
-      "brief": "Delhi Police detained hundreds of protesters near Jantar Mantar as student and political groups demanded the resignation of Chief Election Commissioner Gyanesh Kumar.",
+      "headline": "Argentina Launches Citizenship-by-Investment Program",
+      "whyItMatters": "Offers a new economic pathway to attract foreign capital and global investors.",
+      "brief": "Argentina has officially announced a new citizenship-by-investment program aimed at attracting foreign capital, boosting economic development, and encouraging residency.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb243dkFXUFRfeDBROHdUbVdxNTJranlUNUdoRkhwNlI5WWFPSG11dzlvWm55cnl5TW5Gay10bVptbUhSWWxQcThfMTBkMWtFdGliUTlZTkpQN2RKSDFNeVdrblc0cjdOWmFOOEZxYkpYd2g5Qy1DQ2owU1lCME1scS1ldWUyekhLdEFTQU9pTmozamE3YVJTTFdZM1NLUGpTNzFGVGUzYw?oc=5",
+      "dateLocation": "2026-10-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cat Food Contaminants Uncovered in New Testing",
+      "whyItMatters": "Raises critical consumer safety awareness regarding pet health and regulatory oversight.",
+      "brief": "A comprehensive new study testing commercial cat food formulations revealed over 122 contaminants, including significantly elevated mercury levels in certain popular brands.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-does-your-cat-eat-the-same-food-every-day-new-test-finds-122-contaminants-nearly-28-times-more-mercury-in-some/articleshow/134642949.cms",
+      "dateLocation": "2026-10-02 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maharashtra FDA Cancels Cipla Warehouse Licences",
+      "whyItMatters": "Impacts major pharmaceutical supply chains and triggers strict regulatory compliance checks.",
+      "brief": "The Maharashtra Food and Drug Administration canceled pharmaceutical major Cipla's warehouse licences following severe violations discovered during drug safety inspections.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/maharashtra-fda-cancels-cipla-warehouse-licences-over-drug-violations/articleshow/134641214.cms",
+      "dateLocation": "2026-10-02 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "France High Schools Close Amid Nationwide Protests",
+      "whyItMatters": "Reflects deep systemic public sector strain over infrastructure and staffing deficits.",
+      "brief": "Around 400 French high schools were closed as student protests over teacher shortages, overcrowding, and inadequate facilities spread nationwide, prompting government security interventions.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-row-cjp-opposition-parties-to-organise-separate-protests-live-updates-october-2-2026/article71535655.ece",
-      "dateLocation": "Oct 2, 2026 | New Delhi",
+      "sourceUrl": "https://www.livemint.com/news/world/why-are-french-students-taking-to-the-streets-around-400-schools-shut-as-protests-spread-across-the-country-11790945864117.html",
+      "dateLocation": "2026-10-02 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Defence Exports to Cross $600 Million",
-      "whyItMatters": "Demonstrates the expanding global footprint of India's indigenous military hardware manufacturing.",
-      "brief": "Defence Secretary Rajesh Kumar Singh announced that missile systems like BrahMos are driving India's surging military hardware export story past $600 million.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/whos-buying-brahmos-from-india-and-why-defence-secretary-says-exports-to-cross-600-million-china-indo-pacific-11790927821258.html",
-      "dateLocation": "Oct 2, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Saudis Plan Red Sea Operation Against Houthis",
+      "whyItMatters": "Seeks to restore maritime security and unblock vital global shipping chokepoints.",
+      "brief": "Saudi Arabia is reportedly planning a strategic military assault against Houthi positions to break the ongoing Red Sea chokehold and protect international commercial shipping lanes.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJialJyWHg0VzlHXzBiaTU3elZhbWEtQzd0TjhNOGNsWFFZNTYyMGFqODJGcVc3aVBaYVY3QkRzWWpEZDlQNEpJeVp6ZjMxYkZKYi1nZ0FUenFUSFRFRTNCb3NaTmdCaTJ1WWV1RmlqcmhSZGtsZWZobE5jSHp3RkJiVXpueWdVOHJmbDhzUEEzVXB6OF9jYkJHcnpfQklTNDVHZ20yS1J6QQ?oc=5",
+      "dateLocation": "2026-10-02 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Parveen Hooda Wins Gold at Asian Games 2026",
-      "whyItMatters": "Adds a prestigious international boxing medal to India's tally in Aichi-Nagoya.",
-      "brief": "Parveen Hooda clinched the gold medal in the women's 65kg boxing event at the 2026 Asian Games by defeating Chinese Taipei's Nien-Chin Chen 3-2.",
+      "headline": "India's Archery Team Wins Historic Gold",
+      "whyItMatters": "Continues India's stellar medal-winning dominance at the international multi-sport event.",
+      "brief": "The Indian women's recurve archery team clinched a historic gold medal at the 2026 Asian Games, outperforming rival competitors in a tense final showdown.",
       "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-parveen-hooda-strikes-gold-in-womens-65kg-boxing-beats-chinese-taipeis-nien-chin-chen-3-2-in-final/articleshow/134636126.cms",
-      "dateLocation": "Oct 2, 2026 | Nagoya",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-october-2-2026/article71535569.ece",
+      "dateLocation": "2026-10-02 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Melting Norway Ice Yields 6,000-Year-Old Prehistoric Artifacts",
-      "whyItMatters": "Unlocks critical archaeological insights into ancient human activity driven by climate change.",
-      "brief": "Rapidly melting ice patches in Norway's Jotunheimen region have exposed 48 prehistoric arrows, with the oldest dating back up to 6,000 years.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/norways-rapidly-melting-jotunheimen-ice-has-revealed-48-prehistoric-arrows-the-oldest-are-5000-6000-years-old-as-archaeologists-race-to-recover-them-before-exposure-destroys-them/articleshow/134635749.cms",
-      "dateLocation": "Oct 2, 2026 | Oslo",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jamie Dimon Warns Europe Over Economic Competitiveness",
-      "whyItMatters": "Prompts strategic transatlantic discussions on regulatory and military reforms for Western unity.",
-      "brief": "JPMorgan Chase CEO Jamie Dimon warned European leaders of falling behind economically, advocating for a robust free-trade agreement with the United States.",
+      "headline": "Nikhil Kamath Urges Startups to Build Cash Buffers",
+      "whyItMatters": "Provides crucial financial survival advice to tech startups ahead of predicted funding winters.",
+      "brief": "Zerodha co-founder Nikhil Kamath backed a viral message urging early-stage startups to secure sufficient funding to maintain operational comfort for up to two years.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jpmorgan-chase-ceo-jamie-dimon-once-again-warns-europe-you-may-by-losing-offers-big-beautiful-solution/articleshow/134635263.cms",
-      "dateLocation": "Oct 2, 2026 | New York",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/nikhil-kamath-has-a-100-funding-message-for-startups-zerodha-co-founder-backs-post-urging-startups-to-raise-enough-money-to-stay-comfortable-for-a-year-or-two-as-next-year-could-be-bad/articleshow/134643244.cms",
+      "dateLocation": "2026-10-02 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Airports to Mandate Facial Scans Following Cockpit Fight",
-      "whyItMatters": "Significantly alters aviation security protocols for airline crew worldwide.",
-      "brief": "Following the flydubai security breach, Indian aviation authorities are moving to mandate facial scans for all airport staff and fast-track full-body scanners.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/india-to-mandate-facial-scans-for-airport-staff-fast-track-full-body-scanners-after-flydubai-incident/articleshow/134626796.cms",
-      "dateLocation": "Oct 2, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Man City to Appeal £900m Premier League Ruling",
-      "whyItMatters": "Sets a monumental legal precedent for football governance and financial regulation compliance.",
-      "brief": "Manchester City is preparing to formally appeal recent Premier League findings and rulings regarding massive alleged financial breaches.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/football/manchester-city-set-to-appeal-premier-league-findings-over-900m-financial-breaches/articleshow/134635354.cms",
-      "dateLocation": "Oct 2, 2026 | London",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Andhra Dismisses 70 Absent Government Doctors",
-      "whyItMatters": "Tackles systemic absenteeism to improve public healthcare delivery in regional districts.",
-      "brief": "The Andhra Pradesh government dismissed 70 state doctors absent without leave for over a year, while initiating disciplinary action against nearly 200 more.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-dismisses-70-government-doctors-absent-without-leave-for-over-a-year-193-more-face-action/article71536639.cms",
-      "dateLocation": "Oct 2, 2026 | Amaravati",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
