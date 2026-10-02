@@ -1,138 +1,147 @@
 {
-  "lastUpdated": "2026-10-01T22:19:14.423Z",
+  "lastUpdated": "2026-10-02T03:57:15.427Z",
   "ticker": [
-    "HDFC Bank names Anup Bagchi as CEO",
-    "Google unveils Gemini 4 Argon AI model",
-    "Ukraine deploys FP-7 tactical ballistic missile",
-    "Supreme Court strictly penalizes unpaid e-challans",
-    "Trump warns Iran over Flydubai plane attack"
+    "US deploys additional troops and carrier to Middle East",
+    "Indian benchmark shares post longest weekly losing run in 25 years",
+    "Ukraine deploys FP-7 tactical ballistic missile in combat",
+    "White House AI accord receives backing from top tech executives",
+    "Flydubai cockpit attack under intense international investigation"
   ],
   "articles": [
     {
-      "headline": "HDFC Bank Appoints ICICI Veteran Anup Bagchi as CEO",
-      "whyItMatters": "Signals a major leadership shift for India's largest private sector bank.",
-      "brief": "HDFC Bank has appointed outsider and banking veteran Anup Bagchi as its new Managing Director and CEO, marking a significant transition in leadership for the institution.",
+      "headline": "HDFC Bank Appoints Anup Bagchi as New CEO",
+      "whyItMatters": "Leadership change at India's top private lender impacts broader regional banking sector strategies.",
+      "brief": "India's HDFC Bank has appointed industry outsider Anup Bagchi as its new Chief Executive Officer, marking a major leadership transition for the prominent financial institution.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-names-icici-veteran-anup-bagchi-as-md-ceo/articleshow/134619874.cms",
-      "dateLocation": "01 Oct 2026 | Mumbai, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkxTZWNtQXFucmJXdmRxR01taG5SOEVfT1RYSm9JelhiWWNqRl9BLTRDa0p0R0hqbXRkTm41bGhzT0hiSkdoTVppVkZzSlp6aDNBdXZ5a2NlWG80M21yWFNheHF0MjZqQlNWempyNG5qRHhlbmoxQ3ltVFBXLVVxYkw3UkQ4eVdfejdYNDJkLW1Famc?oc=5",
+      "dateLocation": "Oct 2, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Benchmark Shares Record Longest Weekly Losing Streak",
-      "whyItMatters": "Reflects deep market corrections and sustained investor caution over macroeconomic pressures.",
-      "brief": "Indian benchmark shares have posted their longest weekly losing run in 25 years, highlighting persistent economic headwinds despite record half-year equity fundraisings.",
+      "headline": "Indian Benchmark Shares Face Historic Losing Streak",
+      "whyItMatters": "Signals profound macroeconomic headwinds and sustained foreign institutional capital outflow from South Asia.",
+      "brief": "Indian benchmark stock indices have recorded their longest continuous weekly losing streak in 25 years, driven by widespread market corrections and global economic pressures.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
-      "dateLocation": "01 Oct 2026 | New Delhi, India",
+      "dateLocation": "Oct 2, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Google Launches Gemini 4 Argon AI Model",
-      "whyItMatters": "Intensifies enterprise AI competition by outperforming major rival models on key benchmarks.",
-      "brief": "Google has announced Gemini 4 Argon, its most powerful AI model to date, targeting advanced coding, financial, and cybersecurity applications with high benchmark success rates.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-unveils-gemini-4-argon-its-most-powerful-ai-model-yet-ceo-sundar-pichai-says-were-going-to-make-it-available-as-soon-as-we-can-and-as-/articleshow/134608054.cms",
-      "dateLocation": "01 Oct 2026 | Mountain View, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Volantis Secures $88 Million for AI Memory Tech",
-      "whyItMatters": "Bolsters infrastructure crucial for bridging the growing gap between AI and memory processing.",
-      "brief": "Semiconductor startup Volantis has raised $88 million in funding to develop specialized technologies connecting advanced artificial intelligence workloads with high-speed memory chips.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHlSZllQWEVWaXhOYldwTmpIY3lyRWZGSThIZC1Sd3VzeXVmOXdvTC1pTHhKWEx3WHhPelhBTW9jSmFtaUUzTWVFc1ZQTWtlbzJfc3YtcUZzSFB5T1FmWVl0Z3dtRzZlUjNBQTNRMVh4eWFteHZJTm9tam5nVm5QQ2pUTy1tSjR1ZHRtUUZ4QUc3T2o5aDNRUVExN01BQkJWY0E?oc=5",
-      "dateLocation": "01 Oct 2026 | San Francisco, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ukraine Deploys FP-7 Tactical Ballistic Missile in Combat",
-      "whyItMatters": "Introduces newly developed domestic missile capabilities directly into ongoing military engagements.",
-      "brief": "Ukrainian President Volodymyr Zelenskiy confirmed that the country's defense forces have deployed the FP-7 tactical ballistic missile in combat operations for the very first time.",
+      "headline": "Ukraine Deploys FP-7 Tactical Ballistic Missile",
+      "whyItMatters": "Marks a significant escalation in domestic tactical weaponry capabilities on the active frontlines.",
+      "brief": "Ukrainian President Volodymyr Zelenskiy confirmed that the military has deployed the FP-7 tactical ballistic missile in active combat operations for the very first time.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkJyb2N6RXY0YjRPVTVPTDd4OFVicGhMdWRkN3dGWFZRNEF5UHZCb25YY2hMQnJWdkYtYVFsSHRKU0MyUXpQaXVxS3dwdXdCMUpFdVVlaVhYbzV4NjRZbGF6RjVnM3Fwb2dJSVVIQTBmMGl4bjZRYUpLdEZDRzBaZElaSEZ4OGZQenZEQy1xbmN2aEhXVFRoRVJqNGNRd3oyRlg2QnFwT2IybE9CT0dIa3YwN1Y0bVlDdUVpdUFrSllCWDlFeFY0YWNJbDNxdG8yajM2UHJRRHFUdTA?oc=5",
-      "dateLocation": "01 Oct 2026 | Kyiv, Ukraine",
+      "dateLocation": "Oct 2, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Warns Iran Over Alleged Links to Flydubai Attack",
-      "whyItMatters": "Escalates geopolitical tensions in the Middle East following a major aviation security breach.",
-      "brief": "US President Donald Trump issued a stern warning that Iran will face severe retaliation if investigators confirm any state linkage to the recent Flydubai flight hijacking incident.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trumps-warning-to-iran-they-ll-be-hit-very-hard-if-linked-to-flydubai-plane-attack-11790888235545.html",
-      "dateLocation": "01 Oct 2026 | Washington D.C., USA",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Imposes Strict Penalties for Unpaid E-Challans",
-      "whyItMatters": "Cracks down on widespread traffic fine evasion by targeting vehicle registration and renewals.",
-      "brief": "The Supreme Court of India ordered authorities to seize vehicles and halt registration and PUC renewals for motorists with accumulated unpaid e-challans across the country.",
+      "headline": "US Deploys Additional Troops and Carrier to Middle East",
+      "whyItMatters": "Heightens geopolitical standoff and militarization across vital global shipping and energy chokepoints.",
+      "brief": "The United States is deploying thousands of additional troops alongside the USS Theodore Roosevelt carrier group to the Middle East amid soaring regional tensions with Iran.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/supreme-court-says-seize-vehicle-stop-rc-puc-renewal-if-e-challans-not-paid/articleshow/134627354.cms",
-      "dateLocation": "01 Oct 2026 | New Delhi, India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/iran-war-news-live-updates-us-sends-thousands-troops-uss-theodore-roosevelt-carrier-middle-east-strait-of-hormuz-attack-11790902747157.html",
+      "dateLocation": "Oct 2, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and US Stalled on Interim Trade Deal",
-      "whyItMatters": "Highlights persistent trade policy differences between Washington and New Delhi.",
-      "brief": "Despite high-level push from Indian trade officials for an early interim pact, US trade representatives stated that significant sticking points remain unresolved in negotiations.",
+      "headline": "White House AI Accord Receives Tech Industry Backing",
+      "whyItMatters": "Establishes a critical foundational framework for self-regulation and voluntary oversight of frontier artificial intelligence models.",
+      "brief": "Major technology leaders have praised a newly forged White House agreement on artificial intelligence safety, which features stringent internal controls and independent auditing measures.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/white-house-accord-on-super-intelligence-that-silicon-valleys-top-executives-hailed-as-historic-concord-may-have-mark-zuckerbergs-stamp/articleshow/134630813.cms",
+      "dateLocation": "Oct 2, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Flydubai Cockpit Attack Triggers International Investigation",
+      "whyItMatters": "Raises critical questions regarding commercial airline cockpit security and international jurisdictional handovers.",
+      "brief": "Saudi authorities have handed over an Omani pilot to UAE officials following a violent mid-air cockpit altercation that required extreme intervention by the flight crew.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-saudi-hands-omani-co-pilot-to-uae-as-investigators-probe-bid-to-crash-plane/articleshow/134626863.cms",
+      "dateLocation": "Oct 2, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Wins Historic Recurve Gold at Asian Games",
+      "whyItMatters": "Solidifies India's rising athletic dominance and competitive breakthrough on the continental sporting stage.",
+      "brief": "The Indian women's archery team delivered a stunning upset by defeating world champions South Korea to secure a maiden recurve gold medal at the Asian Games.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/india-beat-world-champions-south-korea-to-win-maiden-asian-games-recurve-gold/articleshow/134630209.cms",
+      "dateLocation": "Oct 2, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Doctors Without Borders Worker Contracts Ebola in Congo",
+      "whyItMatters": "Highlights ongoing severe public health risks and logistical challenges in containing regional viral outbreaks.",
+      "brief": "An aid worker with Doctors Without Borders contracted Ebola while assisting with the Democratic Republic of Congo's largest outbreak and has been evacuated to the Netherlands.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/doctors-without-borders-worker-contracts-ebola-in-congo-evacuated-to-netherlands-11790901774807.html",
+      "dateLocation": "Oct 2, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PepsiCo and Monster Challenge India Energy Drink Ban",
+      "whyItMatters": "Tests regulatory boundaries for beverage labeling compliance and corporate market access in South Asia.",
+      "brief": "Beverage giants PepsiCo and Monster Energy are legally challenging India's recent energy drink label ban, citing severe operational disruption and negative business impacts.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/indiaus-trade-deal-goyal-seeks-early-conclusion-of-interim-deal-in-talks-with-us-trade-chief-11790883712986.html",
-      "dateLocation": "01 Oct 2026 | Washington D.C., USA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU03Q3M4M0NNaWtkMzdIdE1tMENDTjR0eUU5LTNqNU5uN0dBTEZ3MUxmdXVEZ1lja1FZVGFEX2lUdkxQUXlYZlJSanpnTk9VRGp3ZVZoczl1TXFUQkVISWZJQktORXN1ZUpmMnBzVmdueVJXYkloUW1ZY0xQeXBFNk5DVnFxdkdQR0JxcUZqWEVvM28xVkJIX25SMkx5eDRReHdTX19VWE1CN1JTSTNCVzl5a0s0b0RscVI0?oc=5",
+      "dateLocation": "Oct 2, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Vedanta Announces $200 Million Rajasthan Oil Investment",
-      "whyItMatters": "Aims to boost domestic crude oil production to support energy security goals.",
-      "brief": "Vedanta has unveiled a $200 million capital expenditure push aimed at ramping up oil extraction and output capabilities across its operational fields in Rajasthan.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/vedanta-plans-200-million-push-to-lift-rajasthan-oil-output/articleshow/134626265.cms",
-      "dateLocation": "01 Oct 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Cuts Sugar Holding Period to Curb Hoarding",
-      "whyItMatters": "Seeks to stabilize commodity prices and ensure fair availability during festival seasons.",
-      "brief": "The Indian government has reduced the stock holding period for sugar dealers to 15 days to prevent speculative hoarding and manage market supply ahead of upcoming festivals.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/india-cuts-sugar-stock-holding-period-for-dealers-to-15-days-to-curb-hoarding-ahead-of-festivals/articleshow/134612594.cms",
-      "dateLocation": "01 Oct 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Avalanche Kills 15 Nepali Workers in Himalayan Camp",
-      "whyItMatters": "Underscores the extreme physical dangers faced by mountain guides and workers ahead of climbing season.",
-      "brief": "An avalanche struck a Himalayan basecamp, killing 15 Nepali workers who were preparing routes and facilities for upcoming high-altitude mountaineering expeditions.",
+      "headline": "Avalanche Kills 15 Nepali Workers on Himalayan Peak",
+      "whyItMatters": "Underscores the extreme vocational hazards faced by local mountain guides in the commercial climbing industry.",
+      "brief": "A devastating avalanche in the Himalayas has killed 15 Nepali workers who were busy preparing climbing routes and establishing high-altitude base camps for international mountaineers.",
       "category": "general",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGZlbkRaLTZDYjR2X0pTS1haTjdXYTZmTmdUbUNKLU5rekF5VHQwaEJRcF9lT3NVcVlPNDhpaTc1TDRaYXJQSklxeThrYm1EWkR0bFFNWFo0c3Bfa2dzdTVBWGItRjI0TnBhOW0wSktUZEJTTERJcnpNMjNQdUpVeDQteHRXbFd2OGk4V0lXODNQczRibFJHNS1IT1ozWU9OalFsamRMVENfakFDTXpwNUhGM3FCbUdZcGktNlNfQTh4N0hBckxZT0E3UQ?oc=5",
-      "dateLocation": "01 Oct 2026 | Kathmandu, Nepal",
+      "dateLocation": "Oct 2, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "SpaceX Launches 13th Long-Duration Crew to ISS",
-      "whyItMatters": "Maintains continuous international astronaut rotation and scientific operations aboard the orbital station.",
-      "brief": "SpaceX successfully launched its 13th routine long-duration astronaut crew toward the International Space Station, ensuring ongoing staffing for orbital research projects.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1U5NmdOVDhlV0hFbkZoeWNxalV3RnplOTRsUXhrcGM0WEhMXzZINy15ZUt5TDEyOUp4NENJVzNfR2xmejF2VkVsMEdkMUpSeHFmNW1EbHBYMm9ocjVJVDJjdmxBLXhjdC1nZ0dSM2Y5X181RTZyaWRDbzhIOVdXYjE2Uk1lNno2a25MbTNiek1Za0htSGpHV1RGYUZWOE13b2pMSEtfOHVYcUYyRUJ6TmFqT3FNUUVmZHRiNmJKc2VKbW5rWjNNUnU1UjVSdzhQNVE?oc=5",
-      "dateLocation": "01 Oct 2026 | Cape Canaveral, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Counterfeit Pharmaceutical Network Busted Across India",
+      "whyItMatters": "Exposes dangerous illegal supply chains compromising critical live-saving medicines, vaccines, and cancer treatments.",
+      "brief": "Law enforcement agencies have successfully busted a major illicit network distributing counterfeit and adulterated pharmaceuticals, including critical cancer treatments and antibiotics.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/breaking-the-blister-pack-counterfeit-adulterated-medicines-network-busted/article71527877.ece",
+      "dateLocation": "Oct 2, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India In Twin Medal Hunt at International Golf Event",
-      "whyItMatters": "Highlights rising competitive prowess of Indian golfers on the regional and global stage.",
-      "brief": "Strong performances led by Pranavi position Indian contenders firmly in contention for dual medals heading into the closing rounds of the tournament.",
+      "headline": "Amazon and Flipkart Review Unlicensed Camera Listings",
+      "whyItMatters": "Drives tighter e-commerce platform liability and regulatory enforcement regarding domestic security hardware sales.",
+      "brief": "Major e-commerce platforms Amazon and Flipkart have initiated a comprehensive internal review to remove unauthorized and unlicensed security camera listings from their Indian marketplaces.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWExCdV9BRjVQVHNwb0QyU2F3cE5aNEhsMGR4R3VLLUJ0djVhREUweEk4NnRBMllZSmVjeVp5QThGNFE4VVRJZWk4UHlBMkxMeFloNVU2Z1FMZUxCRHctZ2lXZS0tTFFEREFwUlNLek9QZGhxbnZ2aEd6Z0Fvb0NSRFpCakx0VnY0S1JEWkN6NmlFS3BRdFNBdDdiS2M1ZktHUGtrQ0FtanR2ano0aFNYVWpHVHZDZkYtQ3BPakl4NA?oc=5",
+      "dateLocation": "Oct 2, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and US Continue Consultations on Comprehensive Trade Deal",
+      "whyItMatters": "Signals sustained bilateral diplomatic engagement toward long-term economic partnership agreements.",
+      "brief": "US trade representatives indicate that a broad trade pact with India is not immediately imminent, though ministerial talks and leadership calls continue to iron out residual differences.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-not-imminent-pm-modi-trump-may-hold-another-call-soon-us-trade-representative/articleshow/134630697.cms",
+      "dateLocation": "Oct 2, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New Car Regulations Favoring Aggressive Drivers Introduced",
+      "whyItMatters": "Could fundamentally alter vehicle handling characteristics and professional racing dynamics under upcoming regulatory frameworks.",
+      "brief": "Motorsport analysts report that newly proposed car regulations are tailored to reward highly aggressive driving styles, sparking debates among teams and drivers alike.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/second-placed-pranavis-63-puts-india-in-twin-medal-hunt-talwar-slips-to-7th/article71534695.ece",
-      "dateLocation": "01 Oct 2026 | New Delhi, India",
+      "sourceUrl": "https://www.thehindu.com/sport/motorsport/new-car-regulations-favouring-aggressive-drivers-albon/article71535730.ece",
+      "dateLocation": "Oct 2, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Srinagar Cricket Ground Hosts Historic Irani Cup Match",
-      "whyItMatters": "Revives premier domestic cricket in Kashmir under strict management and security protocols.",
-      "brief": "The Srinagar cricket ground successfully hosted a major domestic fixture, overcoming historical logistical hurdles to stage a milestone event for local sports fans.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/irani-cup-2026-srinagar-cricket-ground-rewrites-history-to-outpace-memories-of-1983-india-west-india-fiasco/article71534400.ece",
-      "dateLocation": "01 Oct 2026 | Srinagar, India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Global Technology Firms Face Looming Regulatory Shifts",
+      "whyItMatters": "Highlights the growing convergence between private sector AI development and anticipated federal mandates.",
+      "brief": "Recent high-level technology accords point toward potential future legislative frameworks aimed at establishing federal compliance benchmarks for advanced machine learning models.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/white-house-accord-on-super-intelligence-that-silicon-valleys-top-executives-hailed-as-historic-concord-may-have-mark-zuckerbergs-stamp/articleshow/134630813.cms",
+      "dateLocation": "Oct 2, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
