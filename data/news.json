@@ -1,147 +1,129 @@
 {
-  "lastUpdated": "2026-10-02T03:57:15.427Z",
+  "lastUpdated": "2026-10-02T11:50:38.192Z",
   "ticker": [
-    "US deploys additional troops and carrier to Middle East",
-    "Indian benchmark shares post longest weekly losing run in 25 years",
-    "Ukraine deploys FP-7 tactical ballistic missile in combat",
-    "White House AI accord receives backing from top tech executives",
-    "Flydubai cockpit attack under intense international investigation"
+    "Flydubai pilot hails bravery after cockpit attack",
+    "India maps Ladakh locations amid border tensions",
+    "Euro zone inflation surges past expectations",
+    "G7 leaders discuss emergency oil stock releases",
+    "China fuel export suspension shakes Asian markets"
   ],
   "articles": [
     {
-      "headline": "HDFC Bank Appoints Anup Bagchi as New CEO",
-      "whyItMatters": "Leadership change at India's top private lender impacts broader regional banking sector strategies.",
-      "brief": "India's HDFC Bank has appointed industry outsider Anup Bagchi as its new Chief Executive Officer, marking a major leadership transition for the prominent financial institution.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkxTZWNtQXFucmJXdmRxR01taG5SOEVfT1RYSm9JelhiWWNqRl9BLTRDa0p0R0hqbXRkTm41bGhzT0hiSkdoTVppVkZzSlp6aDNBdXZ5a2NlWG80M21yWFNheHF0MjZqQlNWempyNG5qRHhlbmoxQ3ltVFBXLVVxYkw3UkQ4eVdfejdYNDJkLW1Famc?oc=5",
-      "dateLocation": "Oct 2, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Benchmark Shares Face Historic Losing Streak",
-      "whyItMatters": "Signals profound macroeconomic headwinds and sustained foreign institutional capital outflow from South Asia.",
-      "brief": "Indian benchmark stock indices have recorded their longest continuous weekly losing streak in 25 years, driven by widespread market corrections and global economic pressures.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
-      "dateLocation": "Oct 2, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ukraine Deploys FP-7 Tactical Ballistic Missile",
-      "whyItMatters": "Marks a significant escalation in domestic tactical weaponry capabilities on the active frontlines.",
-      "brief": "Ukrainian President Volodymyr Zelenskiy confirmed that the military has deployed the FP-7 tactical ballistic missile in active combat operations for the very first time.",
+      "headline": "Flydubai Cockpit Attack Terminated as Terrorist Act",
+      "whyItMatters": "Highlights critical vulnerabilities in international aviation security and cockpit protocols.",
+      "brief": "The UAE officially designated the mid-air flydubai incident a terrorist act after an alert Indian captain thwarted his co-pilot's attempt to crash the aircraft.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkJyb2N6RXY0YjRPVTVPTDd4OFVicGhMdWRkN3dGWFZRNEF5UHZCb25YY2hMQnJWdkYtYVFsSHRKU0MyUXpQaXVxS3dwdXdCMUpFdVVlaVhYbzV4NjRZbGF6RjVnM3Fwb2dJSVVIQTBmMGl4bjZRYUpLdEZDRzBaZElaSEZ4OGZQenZEQy1xbmN2aEhXVFRoRVJqNGNRd3oyRlg2QnFwT2IybE9CT0dIa3YwN1Y0bVlDdUVpdUFrSllCWDlFeFY0YWNJbDNxdG8yajM2UHJRRHFUdTA?oc=5",
-      "dateLocation": "Oct 2, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/world/uae-terms-flydubai-flight-incident-a-terrorist-act-praises-pilot-smit-machchhar-11790939811980.html",
+      "dateLocation": "Oct 2, 2026 | UAE",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Deploys Additional Troops and Carrier to Middle East",
-      "whyItMatters": "Heightens geopolitical standoff and militarization across vital global shipping and energy chokepoints.",
-      "brief": "The United States is deploying thousands of additional troops alongside the USS Theodore Roosevelt carrier group to the Middle East amid soaring regional tensions with Iran.",
+      "headline": "India Maps 28 Ladakh Features Amid China Tensions",
+      "whyItMatters": "Asserts territorial sovereignty through official cartography amidst ongoing regional disputes.",
+      "brief": "India formally named and mapped 28 places and geographical features in Ladakh on official Survey of India maps following similar moves in Arunachal Pradesh.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/iran-war-news-live-updates-us-sends-thousands-troops-uss-theodore-roosevelt-carrier-middle-east-strait-of-hormuz-attack-11790902747157.html",
-      "dateLocation": "Oct 2, 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india-formally-names-28-places-and-features-in-ladakh-on-official-map-amid-china-s-push-why-it-matters-11790930338366.html",
+      "dateLocation": "Oct 2, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "White House AI Accord Receives Tech Industry Backing",
-      "whyItMatters": "Establishes a critical foundational framework for self-regulation and voluntary oversight of frontier artificial intelligence models.",
-      "brief": "Major technology leaders have praised a newly forged White House agreement on artificial intelligence safety, which features stringent internal controls and independent auditing measures.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/white-house-accord-on-super-intelligence-that-silicon-valleys-top-executives-hailed-as-historic-concord-may-have-mark-zuckerbergs-stamp/articleshow/134630813.cms",
-      "dateLocation": "Oct 2, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Euro Zone Inflation Surges Past Expectations",
+      "whyItMatters": "Places renewed pressure on the European Central Bank to consider aggressive rate hikes.",
+      "brief": "Euro zone inflation surged higher than expected in the latest reading, intensifying economic strain and keeping pressure firmly on central bankers.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjBZN3Zra1B6VVdIMFBGalpKbDVTYW9ZZjR2UFJDRC10V25XZHBRQndua3Brc1BVbWxPT2pZTWcwZzBYSFNIREFlX2FvLVNVOENURWZJckwyRmwyakp3X0tQd0Z5MVJVOVlrYmdxZlJ1azdLTjRvNW9WdzlJcjhYRE1YcVlYTk44V1hMSV9KZk1YdVpQdmRMTUN5bjI1QQ?oc=5",
+      "dateLocation": "Oct 2, 2026 | Frankfurt",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Flydubai Cockpit Attack Triggers International Investigation",
-      "whyItMatters": "Raises critical questions regarding commercial airline cockpit security and international jurisdictional handovers.",
-      "brief": "Saudi authorities have handed over an Omani pilot to UAE officials following a violent mid-air cockpit altercation that required extreme intervention by the flight crew.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-saudi-hands-omani-co-pilot-to-uae-as-investigators-probe-bid-to-crash-plane/articleshow/134626863.cms",
-      "dateLocation": "Oct 2, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Wins Historic Recurve Gold at Asian Games",
-      "whyItMatters": "Solidifies India's rising athletic dominance and competitive breakthrough on the continental sporting stage.",
-      "brief": "The Indian women's archery team delivered a stunning upset by defeating world champions South Korea to secure a maiden recurve gold medal at the Asian Games.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/india-beat-world-champions-south-korea-to-win-maiden-asian-games-recurve-gold/articleshow/134630209.cms",
-      "dateLocation": "Oct 2, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Doctors Without Borders Worker Contracts Ebola in Congo",
-      "whyItMatters": "Highlights ongoing severe public health risks and logistical challenges in containing regional viral outbreaks.",
-      "brief": "An aid worker with Doctors Without Borders contracted Ebola while assisting with the Democratic Republic of Congo's largest outbreak and has been evacuated to the Netherlands.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/doctors-without-borders-worker-contracts-ebola-in-congo-evacuated-to-netherlands-11790901774807.html",
-      "dateLocation": "Oct 2, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PepsiCo and Monster Challenge India Energy Drink Ban",
-      "whyItMatters": "Tests regulatory boundaries for beverage labeling compliance and corporate market access in South Asia.",
-      "brief": "Beverage giants PepsiCo and Monster Energy are legally challenging India's recent energy drink label ban, citing severe operational disruption and negative business impacts.",
+      "headline": "G7 Leaders Discuss Emergency Oil Stock Releases",
+      "whyItMatters": "Aims to stabilize volatile global energy markets amid supply chain shocks.",
+      "brief": "The French President is holding a call with G7 leaders to discuss potential stock releases following export suspensions and supply constraints.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVU03Q3M4M0NNaWtkMzdIdE1tMENDTjR0eUU5LTNqNU5uN0dBTEZ3MUxmdXVEZ1lja1FZVGFEX2lUdkxQUXlYZlJSanpnTk9VRGp3ZVZoczl1TXFUQkVISWZJQktORXN1ZUpmMnBzVmdueVJXYkloUW1ZY0xQeXBFNk5DVnFxdkdQR0JxcUZqWEVvM28xVkJIX25SMkx5eDRReHdTX19VWE1CN1JTSTNCVzl5a0s0b0RscVI0?oc=5",
-      "dateLocation": "Oct 2, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2gyOWlGajNUWGdfUVhLbTIwR2N5QURDU2V1YkRUcmFxcEtfUDY2c3pZd3B1eC1sSkZ5VlBiNmVrdnlLNTB2THRGeHY4S2I5MG94V3IzWk5fOVVWWHVUQUIzbHd2NWlocEtkMVJRSEpLS0FLWUt2R2lZZEV6X3lWYWtiRXBRc1VxWlJCTWZ0Tk5pRnQtYlVBeUkyU3RrZGlNTFJWTGNTSTh4V1lTc1p5Q3lmQ0FLQ3RU?oc=5",
+      "dateLocation": "Oct 2, 2026 | Paris",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Avalanche Kills 15 Nepali Workers on Himalayan Peak",
-      "whyItMatters": "Underscores the extreme vocational hazards faced by local mountain guides in the commercial climbing industry.",
-      "brief": "A devastating avalanche in the Himalayas has killed 15 Nepali workers who were busy preparing climbing routes and establishing high-altitude base camps for international mountaineers.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGZlbkRaLTZDYjR2X0pTS1haTjdXYTZmTmdUbUNKLU5rekF5VHQwaEJRcF9lT3NVcVlPNDhpaTc1TDRaYXJQSklxeThrYm1EWkR0bFFNWFo0c3Bfa2dzdTVBWGItRjI0TnBhOW0wSktUZEJTTERJcnpNMjNQdUpVeDQteHRXbFd2OGk4V0lXODNQczRibFJHNS1IT1ozWU9OalFsamRMVENfakFDTXpwNUhGM3FCbUdZcGktNlNfQTh4N0hBckxZT0E3UQ?oc=5",
-      "dateLocation": "Oct 2, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Counterfeit Pharmaceutical Network Busted Across India",
-      "whyItMatters": "Exposes dangerous illegal supply chains compromising critical live-saving medicines, vaccines, and cancer treatments.",
-      "brief": "Law enforcement agencies have successfully busted a major illicit network distributing counterfeit and adulterated pharmaceuticals, including critical cancer treatments and antibiotics.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/breaking-the-blister-pack-counterfeit-adulterated-medicines-network-busted/article71527877.ece",
-      "dateLocation": "Oct 2, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Amazon and Flipkart Review Unlicensed Camera Listings",
-      "whyItMatters": "Drives tighter e-commerce platform liability and regulatory enforcement regarding domestic security hardware sales.",
-      "brief": "Major e-commerce platforms Amazon and Flipkart have initiated a comprehensive internal review to remove unauthorized and unlicensed security camera listings from their Indian marketplaces.",
+      "headline": "China Fuel Export Ban Threatens Asian Supplies",
+      "whyItMatters": "Exacerbates regional energy scarcity and drives up refining margins across Asia.",
+      "brief": "China's unexpected fuel export suspension is projected to heavily choke petroleum product supplies throughout the broader Asian market.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWExCdV9BRjVQVHNwb0QyU2F3cE5aNEhsMGR4R3VLLUJ0djVhREUweEk4NnRBMllZSmVjeVp5QThGNFE4VVRJZWk4UHlBMkxMeFloNVU2Z1FMZUxCRHctZ2lXZS0tTFFEREFwUlNLek9QZGhxbnZ2aEd6Z0Fvb0NSRFpCakx0VnY0S1JEWkN6NmlFS3BRdFNBdDdiS2M1ZktHUGtrQ0FtanR2ano0aFNYVWpHVHZDZkYtQ3BPakl4NA?oc=5",
-      "dateLocation": "Oct 2, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUhwdVdmMXBLa0luaVJZbnBYaC1EZk82SUhhbFVYbFpUM3p4c3lOM2VxZWlJUmlNc2RtVTZnTmM0TmktVVBsN1B4UGNJaEM3bnc2OWYxVk9jVHBCSjlycEgzdF9rZDZ5SjNsV0F0QXc3QjltVVdyMmNEQmw5N3JOaGNya1VIRkJUcFRGdy1ibEhsaDdTeWxyS1hNUDJFbG9wMXc?oc=5",
+      "dateLocation": "Oct 2, 2026 | Beijing",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and US Continue Consultations on Comprehensive Trade Deal",
-      "whyItMatters": "Signals sustained bilateral diplomatic engagement toward long-term economic partnership agreements.",
-      "brief": "US trade representatives indicate that a broad trade pact with India is not immediately imminent, though ministerial talks and leadership calls continue to iron out residual differences.",
+      "headline": "Hundreds Detained in Delhi Protests Against CEC",
+      "whyItMatters": "Reflects escalating political friction regarding election administration transparency in India.",
+      "brief": "Delhi Police detained hundreds of protesters near Jantar Mantar as student and political groups demanded the resignation of Chief Election Commissioner Gyanesh Kumar.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-not-imminent-pm-modi-trump-may-hold-another-call-soon-us-trade-representative/articleshow/134630697.cms",
-      "dateLocation": "Oct 2, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-row-cjp-opposition-parties-to-organise-separate-protests-live-updates-october-2-2026/article71535655.ece",
+      "dateLocation": "Oct 2, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "New Car Regulations Favoring Aggressive Drivers Introduced",
-      "whyItMatters": "Could fundamentally alter vehicle handling characteristics and professional racing dynamics under upcoming regulatory frameworks.",
-      "brief": "Motorsport analysts report that newly proposed car regulations are tailored to reward highly aggressive driving styles, sparking debates among teams and drivers alike.",
+      "headline": "India's Defence Exports to Cross $600 Million",
+      "whyItMatters": "Demonstrates the expanding global footprint of India's indigenous military hardware manufacturing.",
+      "brief": "Defence Secretary Rajesh Kumar Singh announced that missile systems like BrahMos are driving India's surging military hardware export story past $600 million.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/whos-buying-brahmos-from-india-and-why-defence-secretary-says-exports-to-cross-600-million-china-indo-pacific-11790927821258.html",
+      "dateLocation": "Oct 2, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Parveen Hooda Wins Gold at Asian Games 2026",
+      "whyItMatters": "Adds a prestigious international boxing medal to India's tally in Aichi-Nagoya.",
+      "brief": "Parveen Hooda clinched the gold medal in the women's 65kg boxing event at the 2026 Asian Games by defeating Chinese Taipei's Nien-Chin Chen 3-2.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/motorsport/new-car-regulations-favouring-aggressive-drivers-albon/article71535730.ece",
-      "dateLocation": "Oct 2, 2026 | The Hindu",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-parveen-hooda-strikes-gold-in-womens-65kg-boxing-beats-chinese-taipeis-nien-chin-chen-3-2-in-final/articleshow/134636126.cms",
+      "dateLocation": "Oct 2, 2026 | Nagoya",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global Technology Firms Face Looming Regulatory Shifts",
-      "whyItMatters": "Highlights the growing convergence between private sector AI development and anticipated federal mandates.",
-      "brief": "Recent high-level technology accords point toward potential future legislative frameworks aimed at establishing federal compliance benchmarks for advanced machine learning models.",
+      "headline": "Melting Norway Ice Yields 6,000-Year-Old Prehistoric Artifacts",
+      "whyItMatters": "Unlocks critical archaeological insights into ancient human activity driven by climate change.",
+      "brief": "Rapidly melting ice patches in Norway's Jotunheimen region have exposed 48 prehistoric arrows, with the oldest dating back up to 6,000 years.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/norways-rapidly-melting-jotunheimen-ice-has-revealed-48-prehistoric-arrows-the-oldest-are-5000-6000-years-old-as-archaeologists-race-to-recover-them-before-exposure-destroys-them/articleshow/134635749.cms",
+      "dateLocation": "Oct 2, 2026 | Oslo",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jamie Dimon Warns Europe Over Economic Competitiveness",
+      "whyItMatters": "Prompts strategic transatlantic discussions on regulatory and military reforms for Western unity.",
+      "brief": "JPMorgan Chase CEO Jamie Dimon warned European leaders of falling behind economically, advocating for a robust free-trade agreement with the United States.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/white-house-accord-on-super-intelligence-that-silicon-valleys-top-executives-hailed-as-historic-concord-may-have-mark-zuckerbergs-stamp/articleshow/134630813.cms",
-      "dateLocation": "Oct 2, 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jpmorgan-chase-ceo-jamie-dimon-once-again-warns-europe-you-may-by-losing-offers-big-beautiful-solution/articleshow/134635263.cms",
+      "dateLocation": "Oct 2, 2026 | New York",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Airports to Mandate Facial Scans Following Cockpit Fight",
+      "whyItMatters": "Significantly alters aviation security protocols for airline crew worldwide.",
+      "brief": "Following the flydubai security breach, Indian aviation authorities are moving to mandate facial scans for all airport staff and fast-track full-body scanners.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/india-to-mandate-facial-scans-for-airport-staff-fast-track-full-body-scanners-after-flydubai-incident/articleshow/134626796.cms",
+      "dateLocation": "Oct 2, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Man City to Appeal £900m Premier League Ruling",
+      "whyItMatters": "Sets a monumental legal precedent for football governance and financial regulation compliance.",
+      "brief": "Manchester City is preparing to formally appeal recent Premier League findings and rulings regarding massive alleged financial breaches.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/football/manchester-city-set-to-appeal-premier-league-findings-over-900m-financial-breaches/articleshow/134635354.cms",
+      "dateLocation": "Oct 2, 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Andhra Dismisses 70 Absent Government Doctors",
+      "whyItMatters": "Tackles systemic absenteeism to improve public healthcare delivery in regional districts.",
+      "brief": "The Andhra Pradesh government dismissed 70 state doctors absent without leave for over a year, while initiating disciplinary action against nearly 200 more.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-dismisses-70-government-doctors-absent-without-leave-for-over-a-year-193-more-face-action/article71536639.cms",
+      "dateLocation": "Oct 2, 2026 | Amaravati",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
