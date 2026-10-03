@@ -1,138 +1,120 @@
 {
-  "lastUpdated": "2026-10-03T03:42:21.752Z",
+  "lastUpdated": "2026-10-03T11:03:51.136Z",
   "ticker": [
-    "Tanker struck by projectile off Oman coast",
-    "G7 to release 100M barrels of reserves",
-    "Saudi Arabia plans major offensive on Houthis",
-    "Indian border forces kill two Pakistani civilians",
-    "Flydubai co-pilot identified in cockpit attack"
+    "India beats Pakistan in Asian Games cricket final",
+    "Crude oil tanker struck off Oman coast",
+    "Flydubai co-pilot attacks pilot in cockpit",
+    "Eric Schmidt highlights rapid AI programming shifts",
+    "India discharges 140 soldiers from Russian army"
   ],
   "articles": [
     {
-      "headline": "Crude Oil Tanker Struck Off Oman Coast",
-      "whyItMatters": "Threatens vital maritime trade routes and international energy supplies in the Middle East.",
-      "brief": "A crude oil tanker was struck by an unknown projectile off the coast of Oman, raising immediate concerns over security in the Strait of Hormuz.",
+      "headline": "India Defeats Pakistan to Win Asian Games Cricket Gold",
+      "whyItMatters": "Highlights intense regional sports rivalry and dominant cricketing performances on the international stage.",
+      "brief": "India secured a stellar victory against Pakistan in the Asian Games cricket final, completing a remarkable sporting double.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGttSVZyLXZzODJjZjA1c25YYjNDRkN6WTZLMFpESXdZd0RKRFRKTDF3ejliQWRBc2h6YmF0clktMjU4T083Q0RxNm1rMlE3YWpIeUFudTZWR2VJbU5YNWx1NWlZVXR0YjROd1JNQXN6VU9ieXZGMzN2aElXREZIVUtQNmFUWWtuQURUMlBNWTFaMzA2LUZVVzBOV1ZZTEE2?oc=5",
+      "dateLocation": "Oct 3, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Flydubai Co-Pilot Attacks Pilot in Attempted Terrorist Incident",
+      "whyItMatters": "Raises critical questions about cockpit security, mental health screening, and international aviation safety standards.",
+      "brief": "UAE authorities confirmed a Flydubai co-pilot launched an axe attack on the pilot mid-flight in an attempted terrorist incident.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
+      "dateLocation": "Oct 3, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Crude Oil Tanker Struck by Projectile Off Oman",
+      "whyItMatters": "Threatens vital global maritime trade routes and heightens energy supply security concerns in West Asia.",
+      "brief": "A crude oil tanker was struck by an unknown projectile off the coast of Oman, prompting urgent security investigations.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5",
-      "dateLocation": "Oct 3, 2026 | Oman / UKMTO",
+      "dateLocation": "Oct 3, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Border Forces Kill Two Pakistani Civilians",
-      "whyItMatters": "Heightens geopolitical tensions between nuclear-armed neighbors India and Pakistan.",
-      "brief": "Pakistani security sources report that Indian border forces killed two Pakistani civilians and wounded another along the contested border.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXNKbTZJNmdRWUVFcHpiWWVYWVdNQXhTc2VUd0lyZElUS1dDWGVzcmdmVlpkRU9EaDNETFdqZ3J6Y2pmZXZtVEoyTmV5dUxRdm44UUZ3UDFKemIxUEZkR0FFcC1fSl9IRWd5V3JlRFhkejEyMTVPOE82elNydUc1SDVlc0oxV0hMdkFGOGdmeHZJT0lfWkxiTDJfRTdGVXl1RlkySVdCQmpXNWluODVHLTZ1WEgtNW1VSGNHVDhlTEphZ2FhLWo2V0tQbEppZw?oc=5",
-      "dateLocation": "Oct 3, 2026 | Pakistan-India Border",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "G7 to Release 100 Million Barrels of Oil",
-      "whyItMatters": "Aims to stabilize global energy markets and curb price surges amid ongoing conflict.",
-      "brief": "G7 nations agreed to release 100 million barrels of diesel and crude oil reserves through the IEA to ease supply concerns.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19pQnVCc2dwWWN3NlFDRl9LSTJvQVRYQlpDNDRxM2lhcm9kQzNkOGE5Y1c4eGFQcEFaSHZfUTlydnhfZ25hbFdWSUlBMy1IMVM1S1hOYnA1SEJWby0tZnNzY25jek44MGY1UGprN2lHT25qN3hqLTMxazdES2s0QUczSTBzcUVpTmRRc0pqcG1wd19yR1FidVJka3otVWx5SkF1dm9TaHdzN2hzLW92M1lLdVlqSVk?oc=5",
-      "dateLocation": "Oct 3, 2026 | Global / IEA",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Saudi Arabia Plans Assault to Break Houthi Chokehold",
-      "whyItMatters": "Could reshape the security landscape of the Red Sea and restore commercial shipping lanes.",
-      "brief": "Saudi Arabia is preparing a major military offensive with thousands of Yemeni troops to break the Houthi Red Sea chokehold.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJialJyWHg0VzlHXzBiaTU3elZhbWEtQzd0TjhNOGNsWFFZNTYyMGFqODJGcVc3aVBaYVY3QkRzWWpEZDlQNEpJeVp6ZjMxYkZKYi1nZ0FUenFUSFRFRTNCb3NaTmdCaTJ1WWV1RmlqcmhSZGtsZWZobE5jSHp3RkJiVXpueWdVOHJmbDhzUEEzVXB6OF9jYkJHcnpfQklTNDVHZ20yS1J6QQ?oc=5",
-      "dateLocation": "Oct 3, 2026 | Riyadh / Yemen",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Job Growth Slows Down in September",
-      "whyItMatters": "Provides crucial economic data influencing upcoming Federal Reserve interest rate decisions.",
-      "brief": "US job growth missed expectations in September, though unemployment indicators suggest the broader labor market remains stable.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5",
-      "dateLocation": "Oct 3, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Kumkum Mohod Wins Historic Archery Gold",
-      "whyItMatters": "Marks a milestone for Indian archery and secures a direct quota for the Olympic Games.",
-      "brief": "Seventeen-year-old Kumkum Mohod secured India's first individual recurve gold at the Asian Games, earning a quota for the LA Olympics.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-medal-tally-live-india-full-winners-list-table-aichi-nagoya/article71484008.ece",
-      "dateLocation": "Oct 3, 2026 | Nagoya, Japan",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Microsoft Executive Ryan Roslansky Departs Company",
-      "whyItMatters": "Significant tech leadership shuffle affecting one of the world's largest professional networking platforms.",
-      "brief": "Microsoft executive and longtime LinkedIn CEO Ryan Roslansky is leaving the company at the end of 2026.",
+      "headline": "AI Revolution Faces Financial Realities and Funding Pressures",
+      "whyItMatters": "Examines the sustainability of massive capital expenditures driving current global artificial intelligence advancements.",
+      "brief": "The global AI industry is racing to transform economic landscapes before high financial investments and capital reserves run dry.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-executive-ryan-roslansky-who-served-as-linkedin-chief-is-leaving-company-read-ceo-satya-nadellas-memo/articleshow/134651275.cms",
-      "dateLocation": "Oct 3, 2026 | Redmond, USA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
+      "dateLocation": "Oct 3, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Two Iranian Nationals Charged Over UK Terror Plot",
-      "whyItMatters": "Escalates diplomatic tensions between Britain and Iran regarding domestic security threats.",
-      "brief": "Two Iranian nationals who entered the UK on small boats have been formally charged with plotting to target the British Jewish community.",
+      "headline": "Former Google CEO Says AI Completely Transforms Programming",
+      "whyItMatters": "Signals a fundamental shift in software development workflows, technical labor markets, and engineering roles.",
+      "brief": "Eric Schmidt noted that tasks requiring teams of engineers six months now happen overnight with advanced AI execution.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-ex-ceo-eric-schmidt-best-programmers-dont-write-code-anymore-they-/articleshow/134653776.cms",
+      "dateLocation": "Oct 3, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Widens Crude Oil Sourcing Across 43 Countries",
+      "whyItMatters": "Demonstrates proactive geopolitical risk management to safeguard domestic energy security against regional supply shocks.",
+      "brief": "Senior officials noted India is reducing excessive import dependencies by strategically diversifying crude oil sourcing to 43 nations.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/india-widens-crude-sourcing-to-43-countries-to-boost-energy-security-says-top-government-official-11791012578261.html",
+      "dateLocation": "Oct 3, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rate Hikes Unlikely to Trigger Broad NBFC Asset Stress",
+      "whyItMatters": "Assures financial market stability regarding non-banking financial companies despite lingering macroeconomic uncertainties.",
+      "brief": "Institutional reports indicate recent RBI rate adjustments may impact select segments but will not cause widespread asset quality deterioration.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rate-hike-may-hurt-select-nbfc-segments-but-broad-asset-stress-unlikely-report/articleshow/134656727.cms",
+      "dateLocation": "Oct 3, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Congress President Demands Dissolution of Parliament and Assemblies",
+      "whyItMatters": "Escalates political tensions and challenges the constitutional legitimacy of current governing bodies across India.",
+      "brief": "Mallikarjun Kharge labeled national elections illegal and demanded immediate dissolution of the Lok Sabha and state assemblies.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/two-iranian-men-charged-over-plot-targeting-uk-jewish-community-11790984085296.html",
-      "dateLocation": "Oct 3, 2026 | London",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/congress-president-kharge-calls-all-elections-illegal-demands-dissolution-of-lok-sabha-state-assemblies/articleshow/1346540311.ece",
+      "dateLocation": "Oct 3, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Car Drives Into Crowd in New South Wales",
-      "whyItMatters": "Raises immediate local and national safety concerns following a violent incident involving pedestrians.",
-      "brief": "A vehicle drove into a crowd north of Sydney, injuring multiple people before the driver was apprehended by local authorities.",
+      "headline": "India Secures Discharge of 140 Citizens from Russian Army",
+      "whyItMatters": "Resolves a sensitive diplomatic issue concerning foreign recruitment of Indian nationals into active military conflict zones.",
+      "brief": "India successfully repatriated 140 citizens from the Russian army while actively seeking updates on remaining enlisted personnel.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/140-indians-discharged-from-russian-army-govt-seeks-moscow-update-on-55-balanced-trade-push-11791022101263.html",
+      "dateLocation": "Oct 3, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New US Visa Bond Rules Target Selected Foreign Nationals",
+      "whyItMatters": "Imposes strict financial barriers for travelers and immigration applicants seeking entry into the United States.",
+      "brief": "The United States introduced visa bonds ranging from $10,000 to $20,000 for foreign nationals from designated countries.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/us-news/20000-us-visa-bond-rule-should-indians-be-worried-check-the-complete-list-of-affected-countries-11791022971829.html",
+      "dateLocation": "Oct 3, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "High School Protests Spark National Demonstrations in France",
+      "whyItMatters": "Reflects deep-seated socio-economic grievances and youth mobilization within suburban communities across France.",
+      "brief": "Students from deprived Parisian suburbs sparked a sweeping national protest movement drawing widespread public attention.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/car-drives-into-a-crowd-near-newcastle-north-of-sydney-australia/article71539520.ece",
-      "dateLocation": "Oct 3, 2026 | New South Wales, Australia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1lRUU9NNzVFRk5EbFFHVnJPa25fVVZIMTFVWl9uYUpheXM5d01fWURkazFTU0RHVFc5a3otcFZHazJDQXBSNkNEemdpMVVjOXk1MHZURndvSTU4YTVPdW5sN0ZfNGJLbDBmOWQwX3NfZWktS0tBNEFOUE9hZ2JHMHhoWEhWUmt5dnFkeGQzWEhLQUJMTWNFVzd1UHRxZHJaOHctaFdZand1MnlYMGEzMDYtZFpCakM4?oc=5",
+      "dateLocation": "Oct 3, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Kurash Player Fails Doping Test",
-      "whyItMatters": "Highlights ongoing anti-doping compliance challenges for athletes competing at international sporting events.",
-      "brief": "Indian kurash athlete Yash Kumar Chauhan failed a doping test at the Asian Games after samples contained multiple banned steroid metabolites.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-indian-kurash-player-yash-kumar-chauhan-fails-dope-test/article71539556.ece",
-      "dateLocation": "Oct 3, 2026 | Nagoya, Japan",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "GSTAT Opens Online Route for GST Disputes",
-      "whyItMatters": "Streamlines tax compliance litigation and reduces administrative backlogs for businesses across India.",
-      "brief": "The Goods and Services Tax Appellate Tribunal launched an online system to club identical tax disputes and streamline appeals.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/gstat-opens-online-route-to-club-identical-gst-disputes-11790941955968.html",
-      "dateLocation": "Oct 3, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ICICI Prudential Life Appoints New CEO",
-      "whyItMatters": "Shifts key leadership roles within India's prominent insurance and banking financial sectors.",
-      "brief": "ICICI Prudential Life Insurance appointed Sidharatha Mishra as its new MD and CEO following high-profile executive movements.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/insure/icici-life-insurance-appoints-sidharatha-mishra-as-md-ceo-as-anup-bagchi-joins-hdfc-bank/articleshow/134638583.cms",
-      "dateLocation": "Oct 3, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cornell University Rape Case Sparks Scrutiny",
-      "whyItMatters": "Puts institutional handling of campus sexual assault under intense legal and public microscope.",
-      "brief": "New York Governor Kathy Hochul appointed a special prosecutor to review Cornell University's handling of an alleged 2024 fraternity house rape.",
+      "headline": "Argentina Launches New Citizenship-by-Investment Program",
+      "whyItMatters": "Aims to attract foreign capital and stimulate economic growth through targeted investor immigration incentives.",
+      "brief": "The Argentine government officially announced a new citizenship-by-investment program designed to draw international entrepreneurs.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/new-york-gov-hochul-says-former-cornell-university-student-allegedly-raped-denied-justice-top-updates-11790997660029.html",
-      "dateLocation": "Oct 3, 2026 | New York",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb243dkFXUFRfeDBROHdUbVdxNTJranlUNUdoRkhwNlI5WWFPSG11dzlvWm55cnl5TW5Gay10bVptbUhSWWxQcThfMTBkMWtFdGliUTlZTkpQN2RKSDFNeVdrblc0cjdOWmFOOEZxYkpYd2g5Qy1DQ2owU1lCME1scS1ldWUyekhLdEFTQU9pTmozamE3YVJTTFdZM1NLUGpTNzFGVGUzYw?oc=5",
+      "dateLocation": "Oct 3, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Flydubai Co-Pilot Identified in Cockpit Attack",
-      "whyItMatters": "Raises profound aviation safety questions concerning pilot vetting protocols and cockpit security.",
-      "brief": "Investigators identified the co-pilot accused of attacking the captain on a Flydubai flight as Hamam al-Hamami, who allegedly held extremist views.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/flydubai-attack-suspect-identified-as-hamam-alhamami-was-barred-from-oman-air-over-extremist-concerns/articleshow/134650245.cms",
-      "dateLocation": "Oct 3, 2026 | Dubai / Middle East",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
