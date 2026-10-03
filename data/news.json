@@ -1,147 +1,138 @@
 {
-  "lastUpdated": "2026-10-04T00:00:00.000Z",
+  "lastUpdated": "2026-10-03T20:34:18.549Z",
   "ticker": [
-    "India beats Pakistan to secure cricket double",
-    "Ukraine confirms India's mediation role in Black Sea energy truce",
-    "North Korea confirms intermediate-range missile test",
-    "Flydubai co-pilot attacks pilot in mid-air",
-    "US-Russia talks involve multi-billion dollar oil deal"
+    "Zelenskiy vows retaliation against Russian oil refineries",
+    "India retains Asian Games cricket and hockey titles",
+    "Nestle low-fat dairy whitener deemed unsafe in India",
+    "Flydubai co-pilot attacks pilot in mid-air cockpit incident",
+    "California tech CEO charged in $300M Nvidia GPU smuggling case"
   ],
   "articles": [
     {
-      "headline": "India defeats Pakistan in cricket double",
-      "whyItMatters": "Highlights intense geopolitical sporting rivalry with major regional interest.",
-      "brief": "Abhishek and Varma shine as India beat Pakistan to complete a major cricket double.",
+      "headline": "Ukraine to Target Russian Refineries in Retaliation",
+      "whyItMatters": "Signals an escalation in energy infrastructure attacks amidst ongoing regional conflict.",
+      "brief": "Ukrainian President Zelenskiy announced plans to strike Russian refineries in response to Moscow's new doctrine of heavy airstrikes.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0JETXJlUlJGblZwbTljbXFFb0JkS2REVzBWUVdPUE5uN0xSRGpVZVBpS3B3Qnh1VkFWQjdYUzdOWnFFZkd4aVRFQmViaEJkVkVzTUxUMDJKdWh5UWJfaExXMi1UbTlLd1AxVnJ2UF9BUUZFc2g0ZEFTOWJGTi1WS3h0YlNtYzFRY0FTam5WbllJVXdGbUp1S0tQcGgtdmppSHpIMGg5dUtuLVN3SjJFME9MYTNSci1maHptc3RVVVk5d3k4NmgwS0oxZUZ5alpUNmYzR09R?oc=5",
+      "dateLocation": "October 3, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Flydubai Co-Pilot Arrested Following Mid-Air Attack",
+      "whyItMatters": "Highlights critical aviation security vulnerabilities and crew safety protocols.",
+      "brief": "UAE authorities reported an attempted terrorist attack after a Flydubai co-pilot attacked the pilot with an axe mid-flight. Leaders praised the Indian pilot for maintaining control.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzVjozVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
+      "dateLocation": "October 3, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Defends Hockey and Cricket Asiad Titles",
+      "whyItMatters": "Reinforces regional sporting dominance and secures qualification spots for upcoming global events.",
+      "brief": "India successfully retained both their Asian Games men's hockey and cricket titles, capping off a remarkable medal campaign in Aichi-Nagoya.",
       "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGttSVZyLXZzODJjZjA1c25YYjNDRkN6WTZLMFpESXdZd0RKRFRKTDF3ejliQWRBc2h6YmF0clktMjU4T083Q0RxNm1rMlE3YWpIeUFudTZWR2VJbU5YNWx1NWlZVXR0YjROd1JNQXN6VU9ieXZGMzN2aElXREZIVUtQNmFUWWtuQURUMlBNWTFaMzA2LUZVVzBOV1ZZTEE2?oc=5",
-      "dateLocation": "Oct 4 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEpPbnVmTHBEaS1sckNtNUJPT1pkT1ZFRkFXb0xzVlQ3TnltS25HYkRUTkdwaVdKUTJNcERUamM2TUJvdm10SFZRc2N1amwwQmFWM0szZE5ZNTNON05yS19kamdOMUE5UDg3LUFHMFhrS0MtS18wZU5RNjJYZ052VTlPaDk0cGZaVzRzQ1BOaTcwVHdibXFCQi1vbllUSTdiaGNCcG1zeFc4YUU4SnlKT3FYZFlXbHB1bVc3YTVETVVBb1FO?oc=5",
+      "dateLocation": "October 3, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan summons Indian diplomat over border deaths",
-      "whyItMatters": "Escalates diplomatic tensions between the nuclear-armed neighbors following border clashes.",
-      "brief": "Pakistan summoned an Indian diplomat after border forces allegedly killed two civilians, raising regional stakes.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVJSWG1vUUp0VkdDV01LbGliTWFEQXlrLUxSbGNzSmh5Slc3VV96cjlKSmhNR3FRWXFRbWFZU25BWFJhcmhybWxocXNCRS1ZVGh1ZDJrQW93NVhrMmdha2lVMlIzQVU2SXc1ZlFLWDQ5TXhSZzBDejhfa28xa3EwMUlxRENrYjZnYkJveGR3UXJSSDhXb0JMenl0UFlsQnZKZ1hONjBtNFZfN0JCOVhRclZNSWU?oc=5",
-      "dateLocation": "Oct 4 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "West Indies Stuns India in Thrilling ODI Chase",
+      "whyItMatters": "Exposes bowling vulnerabilities and shifts competitive momentum in international cricket series.",
+      "brief": "Shai Hope battled cramps to score a brilliant century, leading West Indies to a five-wicket victory over India after successfully chasing 352.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shai-hope-battles-cramps-as-west-indies-chase-down-352-to-register-five-wicket-win-over-india-in-third-odi/articleshow/134664126.cms",
+      "dateLocation": "October 3, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Flydubai co-pilot attacks pilot in terror attempt",
-      "whyItMatters": "Raises serious questions about airline cockpit security and crew vetting globally.",
-      "brief": "UAE authorities reveal a Flydubai co-pilot attacked the pilot with an axe in a foiled terrorist incident.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
-      "dateLocation": "Oct 4 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nestle Low-Fat Dairy Whitener Sample Declared Unsafe",
+      "whyItMatters": "Raises food safety and quality control concerns for major consumer brands.",
+      "brief": "Indian food regulators have flagged a sample of Nestle's low-fat dairy whitener as 'unsafe', triggering further scrutiny on packaged dairy goods.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWdCNVhKclljQnl4eG5rV1Q0a3RaZW9qQTE5M2dSd1ZOWTZMMXkyMFBVVVJXVkszUDZoNlhfMGhiVWd3NGFydlFtWGNMUzJxUmlZNTdZcXR2eGJPTG1zeXdZeXNBWkhuclFZLUR5cWliekd6M1Z5aHFQYWd5NzZWaS1JWUJ5c09QbXktRG5pZ1JJUHNQc1FzNlBMa2pQYjczTjVxeWUtcDRYcThsdG1haUlmU215eUE?oc=5",
+      "dateLocation": "October 3, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "North Korea confirms intermediate-range missile test",
-      "whyItMatters": "Signals continued provocation and defiance of international security norms in East Asia.",
-      "brief": "Pyongyang official Kim Yo Jong confirmed that North Korea successfully conducted an intermediate-range missile test.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDhZV3ZlNnY5c1FBQThfWXpEdWpHaEROXzlWQVNSdnVVZE9iN29HTEZIeFFWT1VXRDNVNXpGWFZwTGZ5RFYyNXJobFpkY1NOOHY5SlpQUzhpbXpmSGJ3WnNJNHJ1Z3VJM29tQ2lXRFJoRThxQWRZMkIxWjlCTDJOQU1iRTItRzdtX3dleDFtMklWendLSkVfRExodTdZN1ZPNnp4N0swdXc0RmZaU29YMWVtTmJDTGpiMGVPWjJtRGZDZmxmVEdzNVJR?oc=5",
-      "dateLocation": "Oct 4 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Airlines Reject 33% International Slot Cuts in Mumbai",
+      "whyItMatters": "Threatens major disruptions to air travel schedules and operational capacities at major hubs.",
+      "brief": "Carriers have formally rejected Mumbai airport's proposed 33% reduction in international slots ahead of terminal redevelopment works, seeking government intervention.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/airlines-reject-33-cut-in-international-slots-at-mumbai-airport-t2-from-oct-25-report-11791044348402.html",
+      "dateLocation": "October 3, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Fire reported near Aramco facility in Riyadh",
-      "whyItMatters": "Threatens global energy supply stability if critical infrastructure is targeted.",
-      "brief": "Witnesses reported fire and smoke near a major Saudi Aramco oil facility located in Riyadh.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1?oc=5",
-      "dateLocation": "Oct 4 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AI race faces financial and scaling hurdles",
-      "whyItMatters": "Questions the long-term economic sustainability of the ongoing global generative AI boom.",
-      "brief": "Experts examine whether artificial intelligence can truly transform industries before heavy investment capital runs out.",
+      "headline": "AI's Race Against Capital Constraints Highlighted",
+      "whyItMatters": "Emphasizes the heavy financial pressures and burn rates driving current artificial intelligence developments.",
+      "brief": "Industry reports examine the intense rush to commercialize generative AI technology and transform global industries before current funding reservoirs dry up.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
-      "dateLocation": "Oct 4 | Reuters",
+      "dateLocation": "October 3, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US-Russia talks feature multi-billion dollar oil deal",
-      "whyItMatters": "Could signal a major diplomatic shift or economic compromise regarding the Ukraine war.",
-      "brief": "Recent US-Russia negotiations over Ukraine reportedly center around a multi-billion dollar oil agreement.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhjX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM?oc=5",
-      "dateLocation": "Oct 4 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India retains men's Asian Games hockey gold",
-      "whyItMatters": "Secures direct Olympic qualification and cements regional dominance in field hockey.",
-      "brief": "India defended its men's hockey title at the Asian Games, earning a historic berth for Los Angeles.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/hockey/asian-games-2026-india-make-history-beat-malaysia-5-1-to-defend-mens-hockey-gold/articleshow/134658697.cms",
-      "dateLocation": "Oct 4 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ukraine confirms India's role in Black Sea truce",
-      "whyItMatters": "Elevates India's diplomatic standing as a trusted global mediator in major European conflicts.",
-      "brief": "Kyiv expressed readiness to explore India's comprehensive proposal for a limited ceasefire over Black Sea shipping.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/most-comprehensive-plan-ukraine-confirms-india-playing-role-in-mediating-energy-truce-in-black-sea/articleshow/134659507.cms",
-      "dateLocation": "Oct 4 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Google ex-CEO says AI changes programming forever",
-      "whyItMatters": "Highlights how rapidly generative AI is replacing traditional software development labor workflows.",
-      "brief": "Eric Schmidt noted that advanced AI allows developers to run projects overnight without writing raw code.",
+      "headline": "California Tech CEO Charged in $300M Nvidia GPU Scheme",
+      "whyItMatters": "Demonstrates strict enforcement of export controls on advanced artificial intelligence hardware.",
+      "brief": "US Department of Justice charged a California tech CEO with orchestrating a $300 million scheme to illegally smuggle Nvidia AI chips to China via Malaysia and Singapore.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-ex-ceo-eric-schmidt-best-programmers-dont-write-code-anymore-they-/articleshow/134653776.cms",
-      "dateLocation": "Oct 4 | The Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-greg-lui-doj-charges-california-tech-ceo-linked-to-300-million-nvidia-gpu-scheme-allegedly-routed-through-malaysia-and-singapore-to-china/articleshow/134662982.cms",
+      "dateLocation": "October 3, 2026 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "RBI Governor warns against external financial headwinds",
-      "whyItMatters": "Highlights vulnerability to global debt spikes, high valuations, and cyber threats.",
-      "brief": "The RBI Governor cautioned against complacency, pointing out global debt, AI valuations, and leverage risks.",
+      "headline": "India GDP Growth Forecast Maintained at 7%",
+      "whyItMatters": "Provides macroeconomic stability signals amidst global economic uncertainties.",
+      "brief": "Niti Aayog's Arvind Virmani stated that India's GDP growth forecast remains steady at 7%, though a wide uncertainty range continues to persist.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/rbi-governor-warns-against-complacency-amid-external-headwinds-11791020910405.html",
-      "dateLocation": "Oct 4 | LiveMint",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/india-gdp-forecast-stays-at-7-uncertainty-range-remains-wide-niti-aayogs-arvind-virmani/articleshow/134661857.cms",
+      "dateLocation": "October 3, 2026 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "FSSAI bans Nestle Low Fat Dairy Whitener",
-      "whyItMatters": "Emphasizes strict food safety regulations and regulatory crackdowns on major consumer brands.",
-      "brief": "FSSAI ordered an immediate ban after laboratory tests flagged a Nestle dairy whitener sample as unsafe.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/nestle-low-fat-dairy-whitener-sale-banned-why-fssai-called-it-unsafe-substandard-11791025488232.html",
-      "dateLocation": "Oct 4 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "ITAT Rules on Tax Relief for Demonetization Cash Deposits",
+      "whyItMatters": "Sets a legal precedent regarding the admissibility of prior disclosed rental incomes during tax audits.",
+      "brief": "The Bangalore ITAT bench deleted an unexplained money tax addition, ruling that rental income previously disclosed can account for subsequent cash deposits.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/he-deposited-rs-14-96-lakh-cash-during-demonetisation-landlord-faced-unexplained-money-tax-notice-under-section-69a-but-itat-bangalore-deletes-addition-on-account-of-rental-income/articleshow/134661840.cms",
+      "dateLocation": "October 3, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI safety employee quits over nuclear concerns",
-      "whyItMatters": "Underscores internal ethical divisions and mounting pressure for robust AI deployment safeguards.",
-      "brief": "An OpenAI safety researcher resigned, publicly urging firms to implement nuclear-level safeguards before releasing models.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-safety-employee-quits-calls-for-nuclear-level-safeguards/articleshow/134661414.cms",
-      "dateLocation": "Oct 4 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "George Soros family pushes $102M for midterms",
-      "whyItMatters": "Directs enormous financial muscle into shaping the upcoming US congressional elections.",
-      "brief": "The Soros family launched a massive $102 million Democratic funding initiative ahead of the 2026 US midterms.",
+      "headline": "India and Pakistan Clash Over Punjab Border Deaths",
+      "whyItMatters": "Exacerbates bilateral tensions along the heavily militarized international frontier.",
+      "brief": "New Delhi summoned Pakistan's Chargé d’Affaires over alleged cross-border infiltration following BSF firing incidents, while Islamabad condemned the killing of civilians.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/george-soros-family-s-102-million-democratic-funding-push-ahead-of-2026-us-midterms-details-here-11791034007451.html",
-      "dateLocation": "Oct 4 | LiveMint",
+      "sourceUrl": "https://www.livemint.com/news/india/indiapakistan-face-off-over-punjab-border-deaths-delhi-alleges-infiltration-islamabad-calls-victims-civilians-11791046703443.html",
+      "dateLocation": "October 3, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Panagariya defends benefits of currency depreciation",
-      "whyItMatters": "Challenges conventional monetary orthodoxy regarding currency strength versus export competitiveness.",
-      "brief": "16th Finance Commission chairman Arvind Panagariya noted that a weaker rupee can actively boost domestic exports.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/we-seem-to-be-learning-that-currency-depreciation-is-not-always-bad-panagariya/articleshow/134662013.cms",
-      "dateLocation": "Oct 4 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Clarifies Stance on Sheikh Hasina's Repatriation",
+      "whyItMatters": "Reflects the delicate diplomatic balancing act in regional foreign policy.",
+      "brief": "The Indian High Commissioner in Bangladesh stated that no deadline exists for former leader Sheikh Hasina's return as extradition requests remain under legal review.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/no-deadline-for-sheikh-hasinas-return-says-indian-high-commissioner-in-bangladesh/articleshow/134661882.cms",
+      "dateLocation": "October 3, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Road Injuries Ranked 10th Leading Cause of Death in India",
+      "whyItMatters": "Draws critical public health attention to systemic transportation safety deficits.",
+      "brief": "A comprehensive World Health Organization report highlights that road traffic injuries have become the tenth leading cause of death across both sexes in India.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/road-injuries-10th-leading-cause-for-deaths-of-both-sexes-in-india-who-report/articleshow/134665189.cms",
+      "dateLocation": "October 3, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Drug Addicts Shift to Painkillers Amid J&K Crackdown",
+      "whyItMatters": "Uncovers unintended consequences and adaptation loops in aggressive substance control policies.",
+      "brief": "Intensified law enforcement actions against drug networks in Jammu and Kashmir have inadvertently pushed addicts toward dangerous over-the-counter painkillers.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/drug-addicts-turn-to-painkillers-amid-nasha-mukt-crackdown-in-jk/articleshow/134665415.cms",
+      "dateLocation": "October 3, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
