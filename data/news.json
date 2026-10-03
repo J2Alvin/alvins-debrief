@@ -1,120 +1,147 @@
 {
-  "lastUpdated": "2026-10-03T11:03:51.136Z",
+  "lastUpdated": "2026-10-04T00:00:00.000Z",
   "ticker": [
-    "India beats Pakistan in Asian Games cricket final",
-    "Crude oil tanker struck off Oman coast",
-    "Flydubai co-pilot attacks pilot in cockpit",
-    "Eric Schmidt highlights rapid AI programming shifts",
-    "India discharges 140 soldiers from Russian army"
+    "India beats Pakistan to secure cricket double",
+    "Ukraine confirms India's mediation role in Black Sea energy truce",
+    "North Korea confirms intermediate-range missile test",
+    "Flydubai co-pilot attacks pilot in mid-air",
+    "US-Russia talks involve multi-billion dollar oil deal"
   ],
   "articles": [
     {
-      "headline": "India Defeats Pakistan to Win Asian Games Cricket Gold",
-      "whyItMatters": "Highlights intense regional sports rivalry and dominant cricketing performances on the international stage.",
-      "brief": "India secured a stellar victory against Pakistan in the Asian Games cricket final, completing a remarkable sporting double.",
+      "headline": "India defeats Pakistan in cricket double",
+      "whyItMatters": "Highlights intense geopolitical sporting rivalry with major regional interest.",
+      "brief": "Abhishek and Varma shine as India beat Pakistan to complete a major cricket double.",
       "category": "sports",
       "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGttSVZyLXZzODJjZjA1c25YYjNDRkN6WTZLMFpESXdZd0RKRFRKTDF3ejliQWRBc2h6YmF0clktMjU4T083Q0RxNm1rMlE3YWpIeUFudTZWR2VJbU5YNWx1NWlZVXR0YjROd1JNQXN6VU9ieXZGMzN2aElXREZIVUtQNmFUWWtuQURUMlBNWTFaMzA2LUZVVzBOV1ZZTEE2?oc=5",
-      "dateLocation": "Oct 3, 2026 | Reuters",
+      "dateLocation": "Oct 4 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Flydubai Co-Pilot Attacks Pilot in Attempted Terrorist Incident",
-      "whyItMatters": "Raises critical questions about cockpit security, mental health screening, and international aviation safety standards.",
-      "brief": "UAE authorities confirmed a Flydubai co-pilot launched an axe attack on the pilot mid-flight in an attempted terrorist incident.",
+      "headline": "Pakistan summons Indian diplomat over border deaths",
+      "whyItMatters": "Escalates diplomatic tensions between the nuclear-armed neighbors following border clashes.",
+      "brief": "Pakistan summoned an Indian diplomat after border forces allegedly killed two civilians, raising regional stakes.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVJSWG1vUUp0VkdDV01LbGliTWFEQXlrLUxSbGNzSmh5Slc3VV96cjlKSmhNR3FRWXFRbWFZU25BWFJhcmhybWxocXNCRS1ZVGh1ZDJrQW93NVhrMmdha2lVMlIzQVU2SXc1ZlFLWDQ5TXhSZzBDejhfa28xa3EwMUlxRENrYjZnYkJveGR3UXJSSDhXb0JMenl0UFlsQnZKZ1hONjBtNFZfN0JCOVhRclZNSWU?oc=5",
+      "dateLocation": "Oct 4 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Flydubai co-pilot attacks pilot in terror attempt",
+      "whyItMatters": "Raises serious questions about airline cockpit security and crew vetting globally.",
+      "brief": "UAE authorities reveal a Flydubai co-pilot attacked the pilot with an axe in a foiled terrorist incident.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
-      "dateLocation": "Oct 3, 2026 | Reuters",
+      "dateLocation": "Oct 4 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Crude Oil Tanker Struck by Projectile Off Oman",
-      "whyItMatters": "Threatens vital global maritime trade routes and heightens energy supply security concerns in West Asia.",
-      "brief": "A crude oil tanker was struck by an unknown projectile off the coast of Oman, prompting urgent security investigations.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmh6LU5XZFg0NGU2MUxjNUVHc3lBd0lYMy1LNW81NU9TY0pQM051NVdWX1otZ181NDZYSWtXb2txc2RVbmVIMC1wTTFLVWVYN0ZZUGY1VmdRSFBNZDlGZ2NyeExDSEhWaEVsSHRtY0tGQWxrU1NXay1GS3ZxUExLWlRCRUMxNGx0NHhJbTBwOTRJaUx1amQxVXFqWEtETTF5eVNGZ2xHSWt6aUdycTJ5YjJQanA3bjBU?oc=5",
-      "dateLocation": "Oct 3, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "North Korea confirms intermediate-range missile test",
+      "whyItMatters": "Signals continued provocation and defiance of international security norms in East Asia.",
+      "brief": "Pyongyang official Kim Yo Jong confirmed that North Korea successfully conducted an intermediate-range missile test.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDhZV3ZlNnY5c1FBQThfWXpEdWpHaEROXzlWQVNSdnVVZE9iN29HTEZIeFFWT1VXRDNVNXpGWFZwTGZ5RFYyNXJobFpkY1NOOHY5SlpQUzhpbXpmSGJ3WnNJNHJ1Z3VJM29tQ2lXRFJoRThxQWRZMkIxWjlCTDJOQU1iRTItRzdtX3dleDFtMklWendLSkVfRExodTdZN1ZPNnp4N0swdXc0RmZaU29YMWVtTmJDTGpiMGVPWjJtRGZDZmxmVEdzNVJR?oc=5",
+      "dateLocation": "Oct 4 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Revolution Faces Financial Realities and Funding Pressures",
-      "whyItMatters": "Examines the sustainability of massive capital expenditures driving current global artificial intelligence advancements.",
-      "brief": "The global AI industry is racing to transform economic landscapes before high financial investments and capital reserves run dry.",
+      "headline": "Fire reported near Aramco facility in Riyadh",
+      "whyItMatters": "Threatens global energy supply stability if critical infrastructure is targeted.",
+      "brief": "Witnesses reported fire and smoke near a major Saudi Aramco oil facility located in Riyadh.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1?oc=5",
+      "dateLocation": "Oct 4 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AI race faces financial and scaling hurdles",
+      "whyItMatters": "Questions the long-term economic sustainability of the ongoing global generative AI boom.",
+      "brief": "Experts examine whether artificial intelligence can truly transform industries before heavy investment capital runs out.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
-      "dateLocation": "Oct 3, 2026 | Reuters",
+      "dateLocation": "Oct 4 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Former Google CEO Says AI Completely Transforms Programming",
-      "whyItMatters": "Signals a fundamental shift in software development workflows, technical labor markets, and engineering roles.",
-      "brief": "Eric Schmidt noted that tasks requiring teams of engineers six months now happen overnight with advanced AI execution.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-ex-ceo-eric-schmidt-best-programmers-dont-write-code-anymore-they-/articleshow/134653776.cms",
-      "dateLocation": "Oct 3, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Widens Crude Oil Sourcing Across 43 Countries",
-      "whyItMatters": "Demonstrates proactive geopolitical risk management to safeguard domestic energy security against regional supply shocks.",
-      "brief": "Senior officials noted India is reducing excessive import dependencies by strategically diversifying crude oil sourcing to 43 nations.",
+      "headline": "US-Russia talks feature multi-billion dollar oil deal",
+      "whyItMatters": "Could signal a major diplomatic shift or economic compromise regarding the Ukraine war.",
+      "brief": "Recent US-Russia negotiations over Ukraine reportedly center around a multi-billion dollar oil agreement.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/india-widens-crude-sourcing-to-43-countries-to-boost-energy-security-says-top-government-official-11791012578261.html",
-      "dateLocation": "Oct 3, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhjX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM?oc=5",
+      "dateLocation": "Oct 4 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rate Hikes Unlikely to Trigger Broad NBFC Asset Stress",
-      "whyItMatters": "Assures financial market stability regarding non-banking financial companies despite lingering macroeconomic uncertainties.",
-      "brief": "Institutional reports indicate recent RBI rate adjustments may impact select segments but will not cause widespread asset quality deterioration.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rate-hike-may-hurt-select-nbfc-segments-but-broad-asset-stress-unlikely-report/articleshow/134656727.cms",
-      "dateLocation": "Oct 3, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India retains men's Asian Games hockey gold",
+      "whyItMatters": "Secures direct Olympic qualification and cements regional dominance in field hockey.",
+      "brief": "India defended its men's hockey title at the Asian Games, earning a historic berth for Los Angeles.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/hockey/asian-games-2026-india-make-history-beat-malaysia-5-1-to-defend-mens-hockey-gold/articleshow/134658697.cms",
+      "dateLocation": "Oct 4 | The Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Congress President Demands Dissolution of Parliament and Assemblies",
-      "whyItMatters": "Escalates political tensions and challenges the constitutional legitimacy of current governing bodies across India.",
-      "brief": "Mallikarjun Kharge labeled national elections illegal and demanded immediate dissolution of the Lok Sabha and state assemblies.",
+      "headline": "Ukraine confirms India's role in Black Sea truce",
+      "whyItMatters": "Elevates India's diplomatic standing as a trusted global mediator in major European conflicts.",
+      "brief": "Kyiv expressed readiness to explore India's comprehensive proposal for a limited ceasefire over Black Sea shipping.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/congress-president-kharge-calls-all-elections-illegal-demands-dissolution-of-lok-sabha-state-assemblies/articleshow/1346540311.ece",
-      "dateLocation": "Oct 3, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/most-comprehensive-plan-ukraine-confirms-india-playing-role-in-mediating-energy-truce-in-black-sea/articleshow/134659507.cms",
+      "dateLocation": "Oct 4 | The Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Secures Discharge of 140 Citizens from Russian Army",
-      "whyItMatters": "Resolves a sensitive diplomatic issue concerning foreign recruitment of Indian nationals into active military conflict zones.",
-      "brief": "India successfully repatriated 140 citizens from the Russian army while actively seeking updates on remaining enlisted personnel.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/140-indians-discharged-from-russian-army-govt-seeks-moscow-update-on-55-balanced-trade-push-11791022101263.html",
-      "dateLocation": "Oct 3, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Google ex-CEO says AI changes programming forever",
+      "whyItMatters": "Highlights how rapidly generative AI is replacing traditional software development labor workflows.",
+      "brief": "Eric Schmidt noted that advanced AI allows developers to run projects overnight without writing raw code.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-ex-ceo-eric-schmidt-best-programmers-dont-write-code-anymore-they-/articleshow/134653776.cms",
+      "dateLocation": "Oct 4 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "New US Visa Bond Rules Target Selected Foreign Nationals",
-      "whyItMatters": "Imposes strict financial barriers for travelers and immigration applicants seeking entry into the United States.",
-      "brief": "The United States introduced visa bonds ranging from $10,000 to $20,000 for foreign nationals from designated countries.",
+      "headline": "RBI Governor warns against external financial headwinds",
+      "whyItMatters": "Highlights vulnerability to global debt spikes, high valuations, and cyber threats.",
+      "brief": "The RBI Governor cautioned against complacency, pointing out global debt, AI valuations, and leverage risks.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/us-news/20000-us-visa-bond-rule-should-indians-be-worried-check-the-complete-list-of-affected-countries-11791022971829.html",
-      "dateLocation": "Oct 3, 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india/rbi-governor-warns-against-complacency-amid-external-headwinds-11791020910405.html",
+      "dateLocation": "Oct 4 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "High School Protests Spark National Demonstrations in France",
-      "whyItMatters": "Reflects deep-seated socio-economic grievances and youth mobilization within suburban communities across France.",
-      "brief": "Students from deprived Parisian suburbs sparked a sweeping national protest movement drawing widespread public attention.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1lRUU9NNzVFRk5EbFFHVnJPa25fVVZIMTFVWl9uYUpheXM5d01fWURkazFTU0RHVFc5a3otcFZHazJDQXBSNkNEemdpMVVjOXk1MHZURndvSTU4YTVPdW5sN0ZfNGJLbDBmOWQwX3NfZWktS0tBNEFOUE9hZ2JHMHhoWEhWUmt5dnFkeGQzWEhLQUJMTWNFVzd1UHRxZHJaOHctaFdZand1MnlYMGEzMDYtZFpCakM4?oc=5",
-      "dateLocation": "Oct 3, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "FSSAI bans Nestle Low Fat Dairy Whitener",
+      "whyItMatters": "Emphasizes strict food safety regulations and regulatory crackdowns on major consumer brands.",
+      "brief": "FSSAI ordered an immediate ban after laboratory tests flagged a Nestle dairy whitener sample as unsafe.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/nestle-low-fat-dairy-whitener-sale-banned-why-fssai-called-it-unsafe-substandard-11791025488232.html",
+      "dateLocation": "Oct 4 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Argentina Launches New Citizenship-by-Investment Program",
-      "whyItMatters": "Aims to attract foreign capital and stimulate economic growth through targeted investor immigration incentives.",
-      "brief": "The Argentine government officially announced a new citizenship-by-investment program designed to draw international entrepreneurs.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb243dkFXUFRfeDBROHdUbVdxNTJranlUNUdoRkhwNlI5WWFPSG11dzlvWm55cnl5TW5Gay10bVptbUhSWWxQcThfMTBkMWtFdGliUTlZTkpQN2RKSDFNeVdrblc0cjdOWmFOOEZxYkpYd2g5Qy1DQ2owU1lCME1scS1ldWUyekhLdEFTQU9pTmozamE3YVJTTFdZM1NLUGpTNzFGVGUzYw?oc=5",
-      "dateLocation": "Oct 3, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "OpenAI safety employee quits over nuclear concerns",
+      "whyItMatters": "Underscores internal ethical divisions and mounting pressure for robust AI deployment safeguards.",
+      "brief": "An OpenAI safety researcher resigned, publicly urging firms to implement nuclear-level safeguards before releasing models.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-safety-employee-quits-calls-for-nuclear-level-safeguards/articleshow/134661414.cms",
+      "dateLocation": "Oct 4 | The Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "George Soros family pushes $102M for midterms",
+      "whyItMatters": "Directs enormous financial muscle into shaping the upcoming US congressional elections.",
+      "brief": "The Soros family launched a massive $102 million Democratic funding initiative ahead of the 2026 US midterms.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/george-soros-family-s-102-million-democratic-funding-push-ahead-of-2026-us-midterms-details-here-11791034007451.html",
+      "dateLocation": "Oct 4 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Panagariya defends benefits of currency depreciation",
+      "whyItMatters": "Challenges conventional monetary orthodoxy regarding currency strength versus export competitiveness.",
+      "brief": "16th Finance Commission chairman Arvind Panagariya noted that a weaker rupee can actively boost domestic exports.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/we-seem-to-be-learning-that-currency-depreciation-is-not-always-bad-panagariya/articleshow/134662013.cms",
+      "dateLocation": "Oct 4 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
