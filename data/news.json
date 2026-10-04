@@ -1,138 +1,102 @@
 {
-  "lastUpdated": "2026-10-04T11:45:21.833Z",
+  "lastUpdated": "2026-10-04T16:24:01.034Z",
   "ticker": [
-    "Iran links Strait of Hormuz reopening to conditions",
-    "Zelenskiy vows Russian refinery strikes",
-    "Flydubai co-pilot in axe terror attack",
-    "ShinyHunters hacker detained in Jordan",
-    "India beats Pakistan in cricket double"
+    "OPEC+ keeps oil output steady",
+    "Ethiopian forces seize Tigray capital",
+    "Brazil heads to polarized polls",
+    "Russia plans intensified Ukraine strikes",
+    "Houthis claim Aramco strikes"
   ],
   "articles": [
     {
-      "headline": "Iran Declares Strait of Hormuz Closed Until Conditions Met",
-      "whyItMatters": "Critical chokepoint closure threatens global energy supplies and maritime trade stability.",
-      "brief": "Iran has announced that the strategic Strait of Hormuz will remain closed until specific conditions are satisfied, impacting international oil transit.",
+      "headline": "OPEC+ Keeps November Oil Output Targets Steady",
+      "whyItMatters": "Controls global energy supply pressures and inflation trajectories.",
+      "brief": "OPEC+ has officially agreed to maintain its current November oil output targets, steadying global crude supply amidst fluctuating international market demand and ongoing geopolitical supply chain concerns.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
+      "dateLocation": "2026-10-04 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Two Dead in Severe Spanish Catalonia Flooding",
+      "whyItMatters": "Highlights escalating severe weather risks across Southern Europe.",
+      "brief": "Flash floods hitting Spain's Catalonia region have resulted in at least two fatalities, forcing emergency response teams to rescue stranded residents and manage widespread infrastructure damage.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnh1WE5wbUJ2RE1EWWUtVmlITlNLSGJXZVdBYWFpYnVSWFdVVjlCeC1EYkVjcFBVbk1zak01NTB1eVBwMmZjNFo5NlhiMmxLbWh3dE53V0JCbHFYTEs2Vk54dlhHeDBHVzJSdndFRDVuZnFEOWVvR1hmSDdVVzJFOWNNXzlETUVXOGhpREl6cXY3aEhSWEVuOENuQnBOTjg?oc=5",
+      "dateLocation": "2026-10-04 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Says Strait of Hormuz Remains Closed",
+      "whyItMatters": "Threatens critical global oil transit routes and maritime security.",
+      "brief": "Iranian officials stated that the vital Strait of Hormuz will not reopen until specific security and political conditions are successfully met, raising concerns over international shipping disruptions.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
       "dateLocation": "2026-10-04 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ukraine to Hit Russian Refineries After Airstrike Doctrine",
-      "whyItMatters": "Escalation in energy infrastructure targeting could severely disrupt Russian fuel production.",
-      "brief": "President Zelenskiy stated Ukraine will retaliate against Moscow's new airstrike doctrine by launching direct strikes on Russian oil refineries.",
+      "headline": "Saudi Arabia Shelves NEOM Stadium Project",
+      "whyItMatters": "Signals potential scaling back of ambitious Vision 2030 megaprojects.",
+      "brief": "Reports indicate Saudi Arabia has quietly shelved plans to build the NEOM Stadium, a flagship venue originally intended to host matches for the 2034 FIFA World Cup.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pRTER4OGtQS01WaGYxMkVLOWVnRVNlTGFKb1ZuQjVFT296TUhVSkNsSV9BTXItRVhlQUNUZG56OC1KS3B5WUVIWVIzZG1EUEUwbkt3Tm80NEc4dVloT0RLMkVZZlQ0WlFTRGVGeW1Va2NxdThBY1hSeHM2Wkg0S0hNcjFaa0ZBVm9QMVhodGxSRHVGVjduVmliTlhQQ3VLY2xWVnNLVnlZVzlKS0J2YXVRRWZIa3hIUWc?oc=5",
+      "dateLocation": "2026-10-04 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ethiopian Government Forces Seize Tigray Capital",
+      "whyItMatters": "Could reignite major instability in the fragile Horn of Africa region.",
+      "brief": "Government military forces have successfully seized control of Mekelle, the capital of Ethiopia's northern Tigray region, following intense clashes with local rebel factions.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0JETXJlUlJGblZwbTljbXFFb0JkS2REVzBWUVdPUE5uN0xSRGpVZVBpS3B3Qnh1VkFWQjdYUzdOWnFFZkd4aVRFQmViaEJkVkVzTUxUMDJKdWh5UWJfaExXMi1UbTlLd1AxVnJ2UF9BUUZFc2g0ZEFTOWJGTi1WS3h0YlNtYzFRY0FTam5WbllJVXdGbUp1S0tQcGgtdmppSHpIMGg5dUtuLVN3SjJFME9MYTNSci1maHptc3RVVVk5d3k4NmgwS0oxZUZ5alpUNmYzR09R?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXVqai1NbFo5LVhWcnM3RElRUWVwa21sQ3p6dVhFXzBwQVBtN3BGR09DOGZhaXV5Z09BQ0RXN0JfODgtS2VoeUVqV3I0OFd3cVFjMzNLSGV3QnBidDY4eTVIUzc4YThTalE0b3JNRndHbHhQdW43S3MxN25NOWRnckZKUDU2MGl3V1YtZUVaRG5IMF9PUTVWMVM3NUptZGdkaUlYSDdLcTQxMlVxMWlkcg?oc=5",
       "dateLocation": "2026-10-04 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Flydubai Co-Pilot Arrested Following Mid-Flight Axe Attack",
-      "whyItMatters": "Raises urgent questions regarding commercial aviation security protocols and crew vetting.",
-      "brief": "UAE authorities confirmed a Flydubai co-pilot attacked the pilot with an axe in an attempted terrorist incident, thwarted by passengers.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ShinyHunters Hacker Detained in Jordan and Cooperating",
-      "whyItMatters": "Major breakthrough for international cybersecurity enforcement against prolific data theft rings.",
-      "brief": "A key hacker involved in high-profile FBI data thefts has been detained in Jordan and is actively cooperating with authorities.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXNlVHhZWTVReFNDOHNlRXNkaW5fZ0N5dm1rNkhuelNRVGZJU2NvWFFtNjk5b29WU1lweFpudnAwa2lJdV9mT0VEbGNKWklHR2ZrcGh2b1Z1eWhSU24tdGR3YXpxWWZ4alhrSDQweW91dlpFeGxncHc1QVZHaWpfTXJtRnRjMzZxdVRta0w4MWNaYWdLdE1iYlZDN0dENHF5ZkxaX2g0WG82UWpmVmxQbXpaUTFmbUpYNy1QVw?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Revolut Reaches $115 Billion Valuation as Major Bank Rival",
-      "whyItMatters": "Highlights the aggressive fintech disruption of traditional European banking landscapes.",
-      "brief": "Digital banking giant Revolut has surged in valuation to $115 billion, positioning itself as a dominant competitor to traditional European financial institutions.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItTGVwQXNKbXpZVG9G?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AI Industry Races to Transform World Before Funding Runs Out",
-      "whyItMatters": "Determines whether current generative AI momentum can sustain massive infrastructure capital requirements.",
-      "brief": "Artificial intelligence developers are accelerating deployment timelines to achieve commercial viability and systemic transformation before investment capital depletes.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Triumphs Over Pakistan to Complete Cricket Double",
-      "whyItMatters": "Intensifies athletic rivalries and marks a historic milestone in regional cricket dominance.",
-      "brief": "Stellar performances by Abhishek and Varma powered India to a comprehensive victory over Pakistan, securing a resounding cricket series double.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGttSVZyLXZzODJjZjA1c25YYjNDRkN6WTZLMFpESXdZd0RKRFRKTDF3ejliQWRBc2h6YmF0clktMjU4T083Q0RxNm1rMlE3YWpIeUFudTZWR2VJbU5YNWx1NWlZVXR0YjROd1JNQXN6VU9ieXZGMzN2aElXREZIVUtQNmFUWWtuQURUMlBNWTFaMzA2LUZVVzBOV1ZZTEE2?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Paris Police Chief Calls Student Protest Movement Out of Control",
-      "whyItMatters": "Escalating civil unrest poses serious public safety and governance challenges in the French capital.",
-      "brief": "The Paris police chief warned that ongoing student protests have become unmanageable and urged demonstrators to return to peaceful actions.",
+      "headline": "Brazilians Head to Polls in Polarized Election",
+      "whyItMatters": "Shapes democratic stability and economic policy across Latin America.",
+      "brief": "Voters across Brazil have headed to the polls in a high-stakes, deeply polarized national election that will determine the country's political and economic trajectory for years.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzl3THIzM09pS2xTbFBMNF9YZmhqTUVNd19nX05MMHZZbEVTVmVuMjltS3ZhVGNxQ0cyN0kwUktxdmd5UkRtZ2lzOXhMWW9DX0VmOG9hb2dVOEZmWWpKWWZQNExLaS0tdUduYi1wNVBUMVNka2tWTHVoSkM3MUlSOEd5TEt0dF85THJVcENFMFBCdG5Gb1A1ZVdhS0NOa2laWXhVNEpXWkdjQm1LU2Vwb19DS1Z4S04w?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
       "dateLocation": "2026-10-04 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and Canada Accelerate CEPA Trade Talks",
-      "whyItMatters": "Strengthens bilateral economic frameworks and expands commercial market access between nations.",
-      "brief": "India and Canada are commencing the fifth round of Comprehensive Economic Partnership Agreement talks to boost bilateral trade.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-and-canada-accelerate-cepa-talks-key-round-begins-on-october-5/articleshow/134672509.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "DLF Sells Out Entire Senior Living Project for Rs 1,985 Cr",
-      "whyItMatters": "Reflects booming demand and evolving real estate preferences within India's luxury housing sector.",
-      "brief": "Real estate developer DLF has successfully sold out its massive senior living residential project in Gurugram for Rs 1,985 crore.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/dlf-sells-entire-172-senior-living-homes-in-new-project-at-gurugram-for-rs-1985-cr/articleshow/134673652.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sergey Brin Donates Millions to Fight Wealth Tax Initiative",
-      "whyItMatters": "Highlights intense political and financial mobilization by tech billionaires against state wealth taxes.",
-      "brief": "Google co-founder Sergey Brin has made massive contributions to oppose California's proposed billionaire wealth tax legislation.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/us-news/sergey-brin-may-be-asked-to-pay-13-billion-wealth-tax-google-co-founder-spends-102-million-to-avoid-paying-it-11791110149596.html",
-      "dateLocation": "2026-10-04 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Uddhav Thackeray Slams Election Commission Over SIR Process",
-      "whyItMatters": "Deepens political friction regarding electoral roll integrity and administrative oversight in Maharashtra.",
-      "brief": "Opposition leaders condemned Chief Election Commissioner Gyanesh Kumar and demanded immediate cancellation of the electoral voter revision process.",
+      "headline": "Services Suggest Overhaul for India's Agniveer Scheme",
+      "whyItMatters": "Directly impacts military readiness, recruitment models, and youth employment.",
+      "brief": "Following the completion of the first batch's term, the Army, Navy, and Air Force have submitted comprehensive recommendations to refine and improve the Agniveer military recruitment scheme.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/protest-against-cec-gyanesh-kumar-october-4-2026/article71542893.ece",
+      "sourceUrl": "https://www.thehindu.com/news/national/as-first-agniveer-batch-complete-term-services-suggest-improvements-to-scheme/article71543930.ece",
       "dateLocation": "2026-10-04 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Uttarakhand Hikes Monthly Stipend for Resident Doctors",
-      "whyItMatters": "Improves healthcare working conditions and addresses long-standing compensation demands in public medical institutions.",
-      "brief": "The Uttarakhand government announced a significant hike in the monthly stipend for senior and junior resident doctors to Rs 1 lakh.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/monthly-stipend-for-senior-junior-resident-doctors-to-increase-from-rs-75000-to-rs-1-lakh-uttarakhand-cm-dhami/articleshow/134672672.cms",
+      "headline": "India-EU FTA Will Be a Game Changer",
+      "whyItMatters": "Expands trade corridors and boosts manufacturing competitiveness globally.",
+      "brief": "External Affairs Minister S. Jaishankar emphasized that the ongoing negotiations for the India-Europe Free Trade Agreement will serve as a massive economic catalyst for bilateral relations.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/jaishankar-says-india-eu-fta-will-be-a-real-game-changer-for-ties/articleshow/134675520.cms",
       "dateLocation": "2026-10-04 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Teenage Sensation Yu Zidi and Puripol Boonson Named MVPs",
-      "whyItMatters": "Showcases the rise of exceptional young sporting talent shaping the future of international athletics.",
-      "brief": "Chinese swimmer Yu Zidi and Thai sprinter Puripol Boonson were crowned MVPs following stellar record-breaking performances at the Asian Games.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-mvps-meet-teenage-sensation-yu-zidi-and-sprint-king-puripol-boonson/articleshow/134673707.cms",
-      "dateLocation": "2026-10-04 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tamil Nadu Cancels Parandur Greenfield Airport Plan",
+      "whyItMatters": "Alters major aviation infrastructure expansion strategies in South India.",
+      "brief": "The Tamil Nadu government has officially scrapped its contentious Rs 27,400 crore greenfield airport project planned in Parandur, sparking new debates over regional development and transport logistics.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/tamil-nadu-scraps-plans-for-greenfield-airport-in-parandur-risks-falling-a-decade-behind-rival-aviation-hubs/articleshow/134668702.cms",
+      "dateLocation": "2026-10-04 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global Authorities Probe Co-Pilot After Cockpit Attack",
+      "whyItMatters": "Raises urgent security questions surrounding commercial aviation vetting protocols.",
+      "brief": "International aviation authorities are thoroughly investigating the background of a co-pilot accused of attacking a captain with an axe mid-flight on a Flydubai passenger service.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/flydubai-incident-multiple-countries-probe-co-pilots-background-after-cockpit-attack-reports/articleshow/134674328.cms",
+      "dateLocation": "2026-10-04 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
