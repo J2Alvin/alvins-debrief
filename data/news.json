@@ -1,101 +1,83 @@
 {
-  "lastUpdated": "2026-10-04T16:24:01.034Z",
+  "lastUpdated": "2026-10-04T20:50:43.349Z",
   "ticker": [
-    "OPEC+ keeps oil output steady",
-    "Ethiopian forces seize Tigray capital",
-    "Brazil heads to polarized polls",
-    "Russia plans intensified Ukraine strikes",
-    "Houthis claim Aramco strikes"
+    "OPEC+ holds output",
+    "Zelenskyy accuses Russia",
+    "GST 2.0 reforms planned",
+    "CEC protests intensify",
+    "Strait of Hormuz closed"
   ],
   "articles": [
     {
-      "headline": "OPEC+ Keeps November Oil Output Targets Steady",
-      "whyItMatters": "Controls global energy supply pressures and inflation trajectories.",
-      "brief": "OPEC+ has officially agreed to maintain its current November oil output targets, steadying global crude supply amidst fluctuating international market demand and ongoing geopolitical supply chain concerns.",
+      "headline": "OPEC+ Agrees to Keep November Oil Output Targets Steady",
+      "whyItMatters": "Maintains current crude supply levels globally.",
+      "brief": "OPEC+ has decided to maintain its current oil production targets for November, keeping global supply levels steady amidst ongoing market volatility and shifting economic demands.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
+      "dateLocation": "October 4, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Two Dead in Severe Spanish Catalonia Flooding",
-      "whyItMatters": "Highlights escalating severe weather risks across Southern Europe.",
-      "brief": "Flash floods hitting Spain's Catalonia region have resulted in at least two fatalities, forcing emergency response teams to rescue stranded residents and manage widespread infrastructure damage.",
+      "headline": "Ukraine Claims Russia Shared Jet-Drone Tech with North Korea",
+      "whyItMatters": "Highlights deepening military ties between adversaries.",
+      "brief": "President Zelenskiy stated that Ukraine believes Russia has transferred advanced jet-drone technology to North Korea, raising serious international security concerns regarding cross-border military cooperation.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnh1WE5wbUJ2RE1EWWUtVmlITlNLSGJXZVdBYWFpYnVSWFdVVjlCeC1EYkVjcFBVbk1zak01NTB1eVBwMmZjNFo5NlhiMmxLbWh3dE53V0JCbHFYTEs2Vk54dlhHeDBHVzJSdndFRDVuZnFEOWVvR1hmSDdVVzJFOWNNXzlETUVXOGhpREl6cXY3aEhSWEVuOENuQnBOTjg?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
+      "dateLocation": "October 4, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Says Strait of Hormuz Remains Closed",
-      "whyItMatters": "Threatens critical global oil transit routes and maritime security.",
-      "brief": "Iranian officials stated that the vital Strait of Hormuz will not reopen until specific security and political conditions are successfully met, raising concerns over international shipping disruptions.",
+      "headline": "Djokovic Rallies Past Zverev to Reach China Open Semis",
+      "whyItMatters": "Demonstrates veteran endurance in major tennis tournaments.",
+      "brief": "Novak Djokovic staged an impressive comeback against Alexander Zverev in a thrilling match to secure his spot in the semi-finals of the China Open.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlJYeWtFV2kwSF9SMUJTS0h5ODZ0YnhEYTc1NFZoZHpZUlBZd0NheGhJOGs3M3JzM1JGcTVBRjRtYVRsOGcwcmlnajVabkNnVzBaNUhYeU5Tb2FGa3d3bjBlLWdJWU1xTzNJSTZwZk51WUE5WVhSaENzckQwTGNTOFgzeHNHdlNBSVhqWmh1eXd2NTVkYkppTVJ5WWdFVjVFY19MYVBOSzFsWjg?oc=5",
+      "dateLocation": "October 4, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran States Strait of Hormuz Will Not Reopen Yet",
+      "whyItMatters": "Threatens international shipping lanes and energy supply.",
+      "brief": "Iranian authorities announced that the critical Strait of Hormuz will remain closed until specific conditions are met, impacting global maritime trade and petroleum transport.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl_GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
+      "dateLocation": "October 4, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Arabia Shelves NEOM Stadium Project",
-      "whyItMatters": "Signals potential scaling back of ambitious Vision 2030 megaprojects.",
-      "brief": "Reports indicate Saudi Arabia has quietly shelved plans to build the NEOM Stadium, a flagship venue originally intended to host matches for the 2034 FIFA World Cup.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pRTER4OGtQS01WaGYxMkVLOWVnRVNlTGFKb1ZuQjVFT296TUhVSkNsSV9BTXItRVhlQUNUZG56OC1KS3B5WUVIWVIzZG1EUEUwbkt3Tm80NEc4dVloT0RLMkVZZlQ0WlFTRGVGeW1Va2NxdThBY1hSeHM2Wkg0S0hNcjFaa0ZBVm9QMVhodGxSRHVGVjduVmliTlhQQ3VLY2xWVnNLVnlZVzlKS0J2YXVRRWZIa3hIUWc?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ethiopian Government Forces Seize Tigray Capital",
-      "whyItMatters": "Could reignite major instability in the fragile Horn of Africa region.",
-      "brief": "Government military forces have successfully seized control of Mekelle, the capital of Ethiopia's northern Tigray region, following intense clashes with local rebel factions.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXVqai1NbFo5LVhWcnM3RElRUWVwa21sQ3p6dVhFXzBwQVBtN3BGR09DOGZhaXV5Z09BQ0RXN0JfODgtS2VoeUVqV3I0OFd3cVFjMzNLSGV3QnBidDY4eTVIUzc4YThTalE0b3JNRndHbHhQdW43S3MxN25NOWRnckZKUDU2MGl3V1YtZUVaRG5IMF9PUTVWMVM3NUptZGdkaUlYSDdLcTQxMlVxMWlkcg?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Brazilians Head to Polls in Polarized Election",
-      "whyItMatters": "Shapes democratic stability and economic policy across Latin America.",
-      "brief": "Voters across Brazil have headed to the polls in a high-stakes, deeply polarized national election that will determine the country's political and economic trajectory for years.",
+      "headline": "Protests Intensify in India Over Election Chief Demands",
+      "whyItMatters": "Reflects deep political friction regarding electoral oversight.",
+      "brief": "Demonstrations escalated across parts of India as opposition groups intensified demands for the election chief to step down, citing concerns over institutional independence.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzYxcENTQ3M0VnFWR3h0cVF2TkRtc2Rlci13bDE5dnZXMENGLWVPTzdKX3RpRXBvZGJFcEo3d2tmelg2QmN4Q1lkNGhnN1luQ3FCdnRMeUxlTHlTeGswVzNjWVBzdVI2ZWttdm5HR3REQ3lSd3JqSUltVTRuTTY2dWdVTFVsRUNyZGVTVDBkY2E1M3poNG8tNktZMjNtNWliR2dlRkxR?oc=5",
-      "dateLocation": "2026-10-04 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5",
+      "dateLocation": "October 4, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Services Suggest Overhaul for India's Agniveer Scheme",
-      "whyItMatters": "Directly impacts military readiness, recruitment models, and youth employment.",
-      "brief": "Following the completion of the first batch's term, the Army, Navy, and Air Force have submitted comprehensive recommendations to refine and improve the Agniveer military recruitment scheme.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/as-first-agniveer-batch-complete-term-services-suggest-improvements-to-scheme/article71543930.ece",
-      "dateLocation": "2026-10-04 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India-EU FTA Will Be a Game Changer",
-      "whyItMatters": "Expands trade corridors and boosts manufacturing competitiveness globally.",
-      "brief": "External Affairs Minister S. Jaishankar emphasized that the ongoing negotiations for the India-Europe Free Trade Agreement will serve as a massive economic catalyst for bilateral relations.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/jaishankar-says-india-eu-fta-will-be-a-real-game-changer-for-ties/articleshow/134675520.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tamil Nadu Cancels Parandur Greenfield Airport Plan",
-      "whyItMatters": "Alters major aviation infrastructure expansion strategies in South India.",
-      "brief": "The Tamil Nadu government has officially scrapped its contentious Rs 27,400 crore greenfield airport project planned in Parandur, sparking new debates over regional development and transport logistics.",
+      "headline": "GST Council Weighs Ending Officials' Arrest Powers",
+      "whyItMatters": "Aims to ease compliance burdens for growing businesses.",
+      "brief": "The GST Council is considering sweeping structural reforms under GST 2.0, which include removing official arrest powers for minor offenses and lifting prosecution thresholds to improve ease of doing business.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/tamil-nadu-scraps-plans-for-greenfield-airport-in-parandur-risks-falling-a-decade-behind-rival-aviation-hubs/articleshow/134668702.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/gst-shake-up-council-weighs-ending-officials-arrest-powers-start-rs-5-crore-prosecution-threshold/articleshow/134675993.cms",
+      "dateLocation": "October 4, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global Authorities Probe Co-Pilot After Cockpit Attack",
-      "whyItMatters": "Raises urgent security questions surrounding commercial aviation vetting protocols.",
-      "brief": "International aviation authorities are thoroughly investigating the background of a co-pilot accused of attacking a captain with an axe mid-flight on a Flydubai passenger service.",
+      "headline": "FSSAI Flags Everest Cumin Powder As Unsafe",
+      "whyItMatters": "Ensures consumer safety through strict regulatory enforcement.",
+      "brief": "The Food Safety and Standards Authority of India has ordered an immediate market recall of Everest pre-packed cumin powder following alarming findings in an analytical report.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html",
+      "dateLocation": "October 4, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Musk Announces Plan to Rename SpaceXAI to SpaceXSI",
+      "whyItMatters": "Signals shifts in corporate branding strategy.",
+      "brief": "Tech billionaire Elon Musk has revealed plans to rebrand SpaceXAI as SpaceXSI, prompting widespread speculation across tech industry observers.",
       "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/flydubai-incident-multiple-countries-probe-co-pilots-background-after-cockpit-attack-reports/articleshow/134674328.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1lwRkt2ZlBuMTlqLVZCbk5ZVExzN0JMd0FnT0F5SllkSGdCU2xkNUlsSHVKZTRuNklIYlY5VTU5QmpqeUdWOXpJWEdhWGhaSE11dmRpQ0taekpfUllyay16MDg3VERqRm5WSjY3bGhKSGZVcnJWOFBod1FsQzBIdjVVN1U0b0xfT3VoZDNJdFZpVDJyN1Q0NlpjeUUtM2hFbUxF?oc=5",
+      "dateLocation": "October 4, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
