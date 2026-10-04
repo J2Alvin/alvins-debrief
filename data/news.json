@@ -1,120 +1,138 @@
 {
-  "lastUpdated": "2026-10-04T04:12:06.051Z",
+  "lastUpdated": "2026-10-04T11:45:21.833Z",
   "ticker": [
-    "Ukraine vows refinery strikes over Russian doctrine",
-    "Netanyahu hails FlyDubai pilot as global hero",
-    "Lockheed Martin eyes $10.5bn military aircraft bid",
-    "India finishes fourth with 85 medals at Asian Games",
-    "US says Maduro not immune in narco-terror case"
+    "Iran links Strait of Hormuz reopening to conditions",
+    "Zelenskiy vows Russian refinery strikes",
+    "Flydubai co-pilot in axe terror attack",
+    "ShinyHunters hacker detained in Jordan",
+    "India beats Pakistan in cricket double"
   ],
   "articles": [
     {
-      "headline": "Ukraine Vows Strikes on Russian Refineries",
-      "whyItMatters": "Escalates the energy infrastructure war between Kyiv and Moscow significantly.",
-      "brief": "President Zelenskiy announced that Ukraine will target Russian refineries in retaliation against Moscow's new doctrine of heavy airstrikes.",
+      "headline": "Iran Declares Strait of Hormuz Closed Until Conditions Met",
+      "whyItMatters": "Critical chokepoint closure threatens global energy supplies and maritime trade stability.",
+      "brief": "Iran has announced that the strategic Strait of Hormuz will remain closed until specific conditions are satisfied, impacting international oil transit.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl9GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
+      "dateLocation": "2026-10-04 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ukraine to Hit Russian Refineries After Airstrike Doctrine",
+      "whyItMatters": "Escalation in energy infrastructure targeting could severely disrupt Russian fuel production.",
+      "brief": "President Zelenskiy stated Ukraine will retaliate against Moscow's new airstrike doctrine by launching direct strikes on Russian oil refineries.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0JETXJlUlJGblZwbTljbXFFb0JkS2REVzBWUVdPUE5uN0xSRGpVZVBpS3B3Qnh1VkFWQjdYUzdOWnFFZkd4aVRFQmViaEJkVkVzTUxUMDJKdWh5UWJfaExXMi1UbTlLd1AxVnJ2UF9BUUZFc2g0ZEFTOWJGTi1WS3h0YlNtYzFRY0FTam5WbllJVXdGbUp1S0tQcGgtdmppSHpIMGg5dUtuLVN3SjJFME9MYTNSci1maHptc3RVVVk5d3k4NmgwS0oxZUZ5alpUNmYzR09R?oc=5",
       "dateLocation": "2026-10-04 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Flydubai Co-Pilot Arrested for Terrorist Attack",
-      "whyItMatters": "Raises serious security concerns regarding commercial aviation protocols and vetting.",
-      "brief": "A Flydubai co-pilot attacked the captain with an axe in an attempted terrorist attack on a Dubai-Tel Aviv flight.",
-      "category": "world",
+      "headline": "Flydubai Co-Pilot Arrested Following Mid-Flight Axe Attack",
+      "whyItMatters": "Raises urgent questions regarding commercial aviation security protocols and crew vetting.",
+      "brief": "UAE authorities confirmed a Flydubai co-pilot attacked the pilot with an axe in an attempted terrorist incident, thwarted by passengers.",
+      "category": "general",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
       "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Lockheed Martin Bids for Indian Aircraft Contract",
-      "whyItMatters": "Strengthens defense manufacturing ties between the US and India.",
-      "brief": "Lockheed Martin plans to expand its production footprint in India if it wins a major $10.5 billion military transport aircraft bid.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/lockheed-martin-eyes-bigger-india-footprint-with-10-5bn-military-aircraft-bid/articleshow/134669326.cms",
-      "dateLocation": "2026-10-04 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "ShinyHunters Hacker Detained in Jordan and Cooperating",
+      "whyItMatters": "Major breakthrough for international cybersecurity enforcement against prolific data theft rings.",
+      "brief": "A key hacker involved in high-profile FBI data thefts has been detained in Jordan and is actively cooperating with authorities.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXNlVHhZWTVReFNDOHNlRXNkaW5fZ0N5dm1rNkhuelNRVGZJU2NvWFFtNjk5b29WU1lweFpudnAwa2lJdV9mT0VEbGNKWklHR2ZrcGh2b1Z1eWhSU24tdGR3YXpxWWZ4alhrSDQweW91dlpFeGxncHc1QVZHaWpfTXJtRnRjMzZxdVRta0w4MWNaYWdLdE1iYlZDN0dENHF5ZkxaX2g0WG82UWpmVmxQbXpaUTFmbUpYNy1QVw?oc=5",
+      "dateLocation": "2026-10-04 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Ranks Fourth at Asian Games",
-      "whyItMatters": "Highlights emerging athletic dominance across multiple disciplines in Asia.",
-      "brief": "India finished its Asian Games campaign in fourth place with 85 medals, bolstered by a late gold rush in cricket and hockey.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/india-finishes-fourth-with-85-medals-at-asian-games-late-gold-rush-sells-campaign/article71542871.ece",
-      "dateLocation": "2026-10-04 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Revolut Reaches $115 Billion Valuation as Major Bank Rival",
+      "whyItMatters": "Highlights the aggressive fintech disruption of traditional European banking landscapes.",
+      "brief": "Digital banking giant Revolut has surged in valuation to $115 billion, positioning itself as a dominant competitor to traditional European financial institutions.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItTGVwQXNKbXpZVG9G?oc=5",
+      "dateLocation": "2026-10-04 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Race Faces Funding and Speed Pressures",
-      "whyItMatters": "Determines the commercial viability and future trajectory of generative AI development.",
-      "brief": "The artificial intelligence sector races against time to completely transform global industries before current capital reserves run dry.",
+      "headline": "AI Industry Races to Transform World Before Funding Runs Out",
+      "whyItMatters": "Determines whether current generative AI momentum can sustain massive infrastructure capital requirements.",
+      "brief": "Artificial intelligence developers are accelerating deployment timelines to achieve commercial viability and systemic transformation before investment capital depletes.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
       "dateLocation": "2026-10-04 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI Safety Employee Resigns Over Safeguards",
-      "whyItMatters": "Underscores ongoing internal tensions regarding ethical bounds in AI research.",
-      "brief": "An OpenAI safety employee has quit, openly calling for nuclear-level safeguards to properly manage advanced artificial intelligence development risks.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-safety-employee-quits-calls-for-nuclear-level-safeguards/articleshow/134661414.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Prosecutors Deny Maduro Immunity Claim",
-      "whyItMatters": "Reinforces international legal accountability standards for former heads of state.",
-      "brief": "US prosecutors stated that Nicolás Maduro is not entitled to immunity from criminal charges in an ongoing narco-terrorism case.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/maduro-not-immune-to-prosecution-in-narco-terror-case-us-says-11791061733010.html",
-      "dateLocation": "2026-10-04 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Summons Pakistan Envoy Over Infiltration",
-      "whyItMatters": "Heightens geopolitical tensions between the two nuclear-armed neighbors.",
-      "brief": "New Delhi officially summoned the Pakistan envoy to lodge a strong protest regarding recent cross-border infiltration claims.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/india-summons-pakistan-envoy-over-alleged-cross-border-infiltration-rejects-ferozepur-claims/articleshow/134663046.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IT Sector Faces Muted Earnings Quarter",
-      "whyItMatters": "Signals ongoing cautious corporate tech spending amid global economic headwinds.",
-      "brief": "Indian IT companies are bracing for another subdued quarter due to intense pricing pressure and broader macroeconomic uncertainty.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/it-sector-faces-another-muted-quarter-as-pricing-pressure-geopolitics-weigh-on-growth-report/articleshow/134669163.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Average NCR Home Prices Surge by 12%",
-      "whyItMatters": "Reflects continuing strong demand and inflationary pressures in India's real estate sector.",
-      "brief": "Anarock report highlights that average home prices in the Delhi-NCR region rose by a maximum of 12 percent annually.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/average-home-prices-in-delhi-ncr-rise-maximum-at-12-pc-annually-in-jul-sep-anarock/articleshow/134658001.cms",
-      "dateLocation": "2026-10-04 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Medical Jet Vanishes Over Atlantic Ocean",
-      "whyItMatters": "Triggers urgent multi-agency search and rescue operations in international waters.",
-      "brief": "A medical evacuation jet traveling from Bermuda to Boston vanished from radar after signaling an emergency over the Atlantic.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/youre-coming-in-blind-chilling-audio-before-medical-jet-carrying-6-vanished-over-atlantic/articleshow/134669054.cms",
-      "dateLocation": "2026-10-04 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ShinyHunters Hacker Detained in Jordan",
-      "whyItMatters": "Marks a significant milestone in international cybersecurity enforcement cooperation.",
-      "brief": "A hacker linked to the massive FBI data theft associated with ShinyHunters was detained in Jordan and is cooperating.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXNlVHhZWTVReFNDOHNlRXNkaW5fZ0N5dm1rNkhuelNRVGZJU2NvWFFtNjk5b29WU1lweFpudnAwa2lJdV9mT0VEbGNKWklHR2ZrcGh2b1Z1eWhSU24tdGR3YXpxWWZ4alhrSDQweW91dlpFeGxncHc1QVZHaWpfTXJtRnRjMzZxdVRta0w4MWNaYWdLdE1iYlZDN0dENHF5ZkxaX2g0WG82UWpmVmxQbXpaUTFmbUpYNy1QVw?oc=5",
+      "headline": "India Triumphs Over Pakistan to Complete Cricket Double",
+      "whyItMatters": "Intensifies athletic rivalries and marks a historic milestone in regional cricket dominance.",
+      "brief": "Stellar performances by Abhishek and Varma powered India to a comprehensive victory over Pakistan, securing a resounding cricket series double.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGttSVZyLXZzODJjZjA1c25YYjNDRkN6WTZLMFpESXdZd0RKRFRKTDF3ejliQWRBc2h6YmF0clktMjU4T083Q0RxNm1rMlE3YWpIeUFudTZWR2VJbU5YNWx1NWlZVXR0YjROd1JNQXN6VU9ieXZGMzN2aElXREZIVUtQNmFUWWtuQURUMlBNWTFaMzA2LUZVVzBOV1ZZTEE2?oc=5",
       "dateLocation": "2026-10-04 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Paris Police Chief Calls Student Protest Movement Out of Control",
+      "whyItMatters": "Escalating civil unrest poses serious public safety and governance challenges in the French capital.",
+      "brief": "The Paris police chief warned that ongoing student protests have become unmanageable and urged demonstrators to return to peaceful actions.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzl3THIzM09pS2xTbFBMNF9YZmhqTUVNd19nX05MMHZZbEVTVmVuMjltS3ZhVGNxQ0cyN0kwUktxdmd5UkRtZ2lzOXhMWW9DX0VmOG9hb2dVOEZmWWpKWWZQNExLaS0tdUduYi1wNVBUMVNka2tWTHVoSkM3MUlSOEd5TEt0dF85THJVcENFMFBCdG5Gb1A1ZVdhS0NOa2laWXhVNEpXWkdjQm1LU2Vwb19DS1Z4S04w?oc=5",
+      "dateLocation": "2026-10-04 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Canada Accelerate CEPA Trade Talks",
+      "whyItMatters": "Strengthens bilateral economic frameworks and expands commercial market access between nations.",
+      "brief": "India and Canada are commencing the fifth round of Comprehensive Economic Partnership Agreement talks to boost bilateral trade.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-and-canada-accelerate-cepa-talks-key-round-begins-on-october-5/articleshow/134672509.cms",
+      "dateLocation": "2026-10-04 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DLF Sells Out Entire Senior Living Project for Rs 1,985 Cr",
+      "whyItMatters": "Reflects booming demand and evolving real estate preferences within India's luxury housing sector.",
+      "brief": "Real estate developer DLF has successfully sold out its massive senior living residential project in Gurugram for Rs 1,985 crore.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/dlf-sells-entire-172-senior-living-homes-in-new-project-at-gurugram-for-rs-1985-cr/articleshow/134673652.cms",
+      "dateLocation": "2026-10-04 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sergey Brin Donates Millions to Fight Wealth Tax Initiative",
+      "whyItMatters": "Highlights intense political and financial mobilization by tech billionaires against state wealth taxes.",
+      "brief": "Google co-founder Sergey Brin has made massive contributions to oppose California's proposed billionaire wealth tax legislation.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/us-news/sergey-brin-may-be-asked-to-pay-13-billion-wealth-tax-google-co-founder-spends-102-million-to-avoid-paying-it-11791110149596.html",
+      "dateLocation": "2026-10-04 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Uddhav Thackeray Slams Election Commission Over SIR Process",
+      "whyItMatters": "Deepens political friction regarding electoral roll integrity and administrative oversight in Maharashtra.",
+      "brief": "Opposition leaders condemned Chief Election Commissioner Gyanesh Kumar and demanded immediate cancellation of the electoral voter revision process.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/protest-against-cec-gyanesh-kumar-october-4-2026/article71542893.ece",
+      "dateLocation": "2026-10-04 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Uttarakhand Hikes Monthly Stipend for Resident Doctors",
+      "whyItMatters": "Improves healthcare working conditions and addresses long-standing compensation demands in public medical institutions.",
+      "brief": "The Uttarakhand government announced a significant hike in the monthly stipend for senior and junior resident doctors to Rs 1 lakh.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/monthly-stipend-for-senior-junior-resident-doctors-to-increase-from-rs-75000-to-rs-1-lakh-uttarakhand-cm-dhami/articleshow/134672672.cms",
+      "dateLocation": "2026-10-04 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Teenage Sensation Yu Zidi and Puripol Boonson Named MVPs",
+      "whyItMatters": "Showcases the rise of exceptional young sporting talent shaping the future of international athletics.",
+      "brief": "Chinese swimmer Yu Zidi and Thai sprinter Puripol Boonson were crowned MVPs following stellar record-breaking performances at the Asian Games.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-mvps-meet-teenage-sensation-yu-zidi-and-sprint-king-puripol-boonson/articleshow/134673707.cms",
+      "dateLocation": "2026-10-04 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
