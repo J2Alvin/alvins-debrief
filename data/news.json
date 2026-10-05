@@ -1,111 +1,147 @@
 {
-  "lastUpdated": "2026-10-05T13:32:25.241Z",
+  "lastUpdated": "2026-10-05T23:42:11.592Z",
   "ticker": [
-    "India regulator reverses derivative rules",
-    "Supreme Court seeks response on CEC",
-    "Saudi-led coalition joins Red Sea fight",
-    "Spain PM calls snap November election",
-    "Meta parts ways with Virtue AI founders"
+    "India eases derivative settlement rules after industry pushback",
+    "Yemen forces retake Mocha as Bab el-Mandeb battle looms",
+    "Nepal concludes major flood search with thousands still missing",
+    "Pakistan, Saudi, Turkiye activate Mecca defence pact",
+    "US services sector cools in September amid rising prices"
   ],
   "articles": [
     {
-      "headline": "India Markets Regulator Reverses Derivative Settlement Rules",
-      "whyItMatters": "Eases market pressure following heavy industry pushback against previous regulations.",
-      "brief": "The Indian markets regulator is set to partly reverse its derivative settlement rules following significant pushback from market participants, sources reveal.",
+      "headline": "India Markets Regulator to Reverse Derivative Rules",
+      "whyItMatters": "Alters compliance and trading dynamics for institutional and retail investors across Indian capital markets.",
+      "brief": "Following significant industry pushback, the Indian markets regulator is set to partly reverse recent derivative settlement rules.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNkZnRTSmgzdlNhUVVQUU4yV3J6S3E1Y1FtSEV1UHVkZW9VeldUbURyaXQ4MHplQWl3SlM5QlF0TXdPU3lwWmZSbDdJRXJGS29QNU9ib1lEMS05QUgzNVV2VFU0RUZzc216X2FKSDlzX2p5V3o4QnJLU3JpNEw5QjFKLXVBSXEyeUwtWXRlMDB3X0RRa3dTVWNyRmhqNFV6N1ZuSFBDNjVSM1RTaHVDUVhuWHE?oc=5",
-      "dateLocation": "2026-10-05 | Reuters",
+      "dateLocation": "October 5, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India-US Trade Talks Reach a Plateau",
-      "whyItMatters": "Tariffs are heavily narrowing the window for achieving a comprehensive bilateral trade deal.",
-      "brief": "The Indian finance minister stated that trade negotiations with the United States have hit a plateau as prevailing tariffs limit room for a deal.",
+      "headline": "India Probes Soybean Imports Over Suspected Tax Evasion",
+      "whyItMatters": "Directly impacts agricultural trade routes, tax compliance, and bilateral relations between nations.",
+      "brief": "Indian authorities have launched an exclusive probe into soybean imports to determine whether shipments originated from Niger or Nigeria to evade taxes.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1J5UEt2X3M2VGctS2FVQnMtVkJoOEwzdUZ4SENyTzNJRUZkUmJBYjBjWkVCbkVUNG9ITHRueUJONGpBUHVpZ3VaajhUNGY3SThiYTJHQVB3U2l0MXlaaGNKY1NLbWZ6TXNYV3FmNm9BVjJ0Mktod2d3SWV6TWRjUDNkanRCVHdpRU9oZFgtc2RGbUx1TUwyMU0weVM2Ry0wOGJMN0VMZGM5VGhUdDJ5bWNjYWh0WHhWQlE?oc=5",
-      "dateLocation": "2026-10-05 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWlhJN0dRRDhxVVdMRU16SHdycVMtVnp4MlBib0p1aGVZM1FhR0wtdEhhRXV1X3YtNkxQbDdYcjFhNHpTdTloSG9MQ05ISDhycFRhb0E3eDB1a1JWLU9IQ0ZSS1JfSzJnd2R6dGp2VGRENjBOU2JmZnd2UVpQRklJOXNhOWlBS2gyZVNHdjF2cTZPTll0YS1ldlNIRFRkcWRUdVZ1VGlybTdYVGE2RGxFWEt3aldzaTItckFOUWpMcC1LT2tyWGRZ?oc=5",
+      "dateLocation": "October 5, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Issues Notice on CEC Decisions",
-      "whyItMatters": "Questions the legal validity of electoral roll modifications and poll body actions.",
-      "brief": "The Supreme Court declined to suspend CEC Gyanesh Kumar but issued notices regarding controversial electoral list modifications linked to the SIR process.",
+      "headline": "India-US Trade Talks Hit Plateau Over Tariffs",
+      "whyItMatters": "Stalls crucial bilateral economic agreements and impacts export-driven market sectors in both countries.",
+      "brief": "India's finance minister announced that trade talks with the US have plateaued as strict tariffs continue to narrow the room for a comprehensive deal.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1J5UEt2X3M2VGctS2FVQnMtVkJoOEwzdUZ4SENyTzNJRUZkUmJBYjBjWkVCbkVUNG9ITHRueUJONGpBUHVpZ3VaajhUNGY3SThiYTJHQVB3U2l0MXlaaGNKY1NLbWZ6TXNYV3FmNm9BVjJ0Mktod2d3SWV6TWRjUDNkanRCVHdpRU9oZFgtc2RGbUx1TUwyMU0weVM2Ry0wOGJMN0VMZGM5VGhUdDJ5bWNjYWh0WHhWQlE?oc=5",
+      "dateLocation": "October 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal Ends Flood Search, Shifts to Rehabilitation",
+      "whyItMatters": "Marks a critical transition from emergency disaster rescue to long-term humanitarian and economic recovery in South Asia.",
+      "brief": "Nepal has officially suspended non-essential search and rescue operations after devastating floods, shifting its complete focus toward reconstruction and rehabilitation.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3pSVUE5ZzNFSDhTS0ZjVDhPOF9NcHFBdmlNUHR1SzdaSldQOEdvaVdOZWViVGpFMVFVa2FPTjVEWG5ZXzgwN3V4RERnRjVfQzl5bXBoQjgwQTdrVW1rSkY5RXpCdjNxR2pnc0laWWpqX3E2SVJpczczMnNWQjBOUGdVUEJUTFR3akJKWVpzS3AwdkFSRThnajNTSjR1OWdOeURoSTRXQjIwN1E?oc=5",
+      "dateLocation": "October 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Services Sector Cools as Price Pressures Rise",
+      "whyItMatters": "Signals ongoing inflation challenges that heavily influence upcoming Federal Reserve monetary policy decisions.",
+      "brief": "Data shows the US services sector slowed down in September while underlying price pressures continued to build across industries.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR?oc=5",
+      "dateLocation": "October 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Qualcomm and Arm Kick Off High-Stakes Trial",
+      "whyItMatters": "Determines major intellectual property rights and massive financial damages across the global semiconductor industry.",
+      "brief": "Qualcomm and Arm have officially started their high-stakes legal trial, with potential for massive damages hanging in the balance.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1VVb0RTQ1NhSkFHMXd2RENIQ0xsSjVyTkFKYlVSUmRrOXdCRjVwR0psNEdzdjdEa1Y2bkNDcW9WUkIxampaT3JFSm9NaWJBcXF0ZkFsOUtjcjRfWmNZOU8zaXBQWDdlS2U3c1FyQklSM2NVN3N5Z1BxMjRJVjczcGE3MzdjbmtIMWk1S0s5aXE1c0xrVm5wN2FpY25laTlvSGhsbHdRM1FvODB5ZW52YjZtcjgzM3pj?oc=5",
+      "dateLocation": "October 5, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court to Review Election Commission Orders",
+      "whyItMatters": "Upholds constitutional checks and balances over key electoral oversight bodies and administrative decisions.",
+      "brief": "The Supreme Court stated it will annul any Election Commission orders that are found not to be in keeping with the law.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/cec-gyanesh-kumar-sir-voter-list-india-supreme-court-order-on-cec-11791189277401.html",
-      "dateLocation": "2026-10-05 | LiveMint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sir-row-will-annul-election-commission-orders-not-in-keeping-with-law-says-supreme-court/articleshow/134716812.cms",
+      "dateLocation": "October 5, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Coalition Launches Red Sea Offensive",
-      "whyItMatters": "Major escalation aiming to secure vital global shipping lanes against Houthi threats.",
-      "brief": "A Saudi-led coalition deploying around 100 fighter jets has joined forces to wrest control of the strategic Bab el-Mandeb Strait from Houthi control.",
+      "headline": "Yemen Retakes Mocha Ahead of Bab el-Mandeb Battle",
+      "whyItMatters": "Redraws strategic military control over vital Red Sea shipping lanes and international oil transit routes.",
+      "brief": "Yemen's armed forces have wrested control of Mocha following intense battles, moving closer to the vital Bab el-Mandeb Strait.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/operation-yemen-dawn-saudi-led-coalition-joins-fight-to-wrest-red-sea-from-houthis/articleshow/134700138.cms",
-      "dateLocation": "2026-10-05 | Times of India",
+      "sourceUrl": "https://www.livemint.com/news/yemen-says-it-s-retaken-mocha-as-battle-for-bab-el-mandeb-looms-11791233947899.html",
+      "dateLocation": "October 5, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Spain Prime Minister Calls Snap Election",
-      "whyItMatters": "Political stability hangs in the balance following a major parliamentary housing defeat.",
-      "brief": "Spanish Prime Minister Pedro Sánchez called a snap general election for November 29 after suffering a parliamentary setback over housing measures.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/spain-pm-pedro-s-nchez-calls-snap-election-for-november-29-after-housing-setback-what-s-at-stake-11791189832546.html",
-      "dateLocation": "2026-10-05 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Pakistan, Saudi Arabia, and Turkiye Activate Defense Pact",
+      "whyItMatters": "Deepens cross-regional military alliances to counter escalating security threats and Houthi attacks in the Middle East.",
+      "brief": "Following an emergency meeting in Riyadh, Pakistan, Saudi Arabia, and Turkiye have activated collective deterrence measures under the Mecca Defence Alliance.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/pakistan-saudi-arabia-turkiye-activate-mecca-defence-pact-amid-houthi-attacks/articleshow/134716048.cms",
+      "dateLocation": "October 5, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Meta Departs Ways With Virtue AI Founders",
-      "whyItMatters": "Highlights ongoing internal management challenges in scaling high-profile artificial intelligence initiatives.",
-      "brief": "Meta parted ways with co-founders and employees of the recently acquired startup Virtue AI just four months after hiring them due to working differences.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meta-lets-go-co-founders-and-employees-of-ai-startup-virtue-ai-four-months-after-the-company-hired-them-andy-stone-admits-differences-over-style-of-working/articleshow/134685788.cms",
-      "dateLocation": "2026-10-05 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Norway Proposes Temporary Ban on AI Glasses",
-      "whyItMatters": "Sets a stringent regulatory precedent for emerging wearable technology and privacy concerns.",
-      "brief": "Norway is planning to propose a temporary ban on the use of AI-enabled glasses in specific public places to protect personal privacy.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk?oc=5",
-      "dateLocation": "2026-10-05 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nobel Prize Awarded for Optogenetics Work",
-      "whyItMatters": "Recognizes groundbreaking neuroscientific discoveries involving light-gated ion channels.",
-      "brief": "The 2026 Nobel Prize in Medicine was awarded to Karl Deisseroth, Peter Hegemann, and Georg Nagel for pioneering optogenetics research.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/nobel-prize-physiology-medicine-2026-winner/article71545941.ece",
-      "dateLocation": "2026-10-05 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Airfares Surge as Domestic Flights Decline",
-      "whyItMatters": "Travelers face higher costs due to capacity cuts and increased fuel surcharges.",
-      "brief": "Domestic flight fares have surged across major routes as airlines schedule fewer services for the upcoming quarter while managing higher fuel costs.",
+      "headline": "India and Switzerland Sign Bilateral Trade Agreements",
+      "whyItMatters": "Expands market access for exports and strengthens technological and professional mobility partnerships between nations.",
+      "brief": "India and Switzerland have signed five new agreements to deepen economic cooperation, investment opportunities, and talent mobility.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/flight-fares-soar-delhi-hyderabad-up-68-mumbai-kolkata-51-as-fewer-services-and-higher-fuel-costs-squeeze-travellers-indigo-raises-fuel-surcharge-by-up-to-rs-350/articleshow/134703030.cms",
-      "dateLocation": "2026-10-05 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-switzerland-eye-deeper-ties-in-trade-investment-tech/articleshow/134716858.cms",
+      "dateLocation": "October 5, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Baloda Stars as Australia Struggles in Youth Test",
-      "whyItMatters": "Strong bowling performance shifts momentum heavily in favor of the hosts.",
-      "brief": "Baloda's impressive six-wicket haul bowled Australia out for 174, leaving the visitors struggling on the opening day of the Youth Test.",
+      "headline": "Medvedev Disqualified from China Open After Incident",
+      "whyItMatters": "Highlights strict tournament conduct codes and player safety enforcement during premier international tennis events.",
+      "brief": "Daniil Medvedev was disqualified from the China Open semi-finals after accidentally injuring a spectator with a tennis ball.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/youth-test-balodas-six-for-leaves-the-aussies-in-a-bind/article71547511.ece",
-      "dateLocation": "2026-10-05 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW5aZkNweUtjN2VZa3pzdXhBRldhZ2xZZDJBLUxGUjBDQjRfeFNTclVhNVhMM0FsUDIyT3RZMmVPU25wVzJTdDJkUjVnc1VKTmlNTk5pb2c2a0FMT1FpYkNaUnNLSkVza0RJeTFzTzZMSVNvQ09FcDNaY2p4alZtWUNtbXFuTk9jaEoyZUk1OE5jUzgzZEtJdDczWXVMcDNqaDZCYkI1VlN3RXBHaVMwN1h1UjNHTFlS?oc=5",
+      "dateLocation": "October 5, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BJP Drops All Eight UP Rajya Sabha Members",
-      "whyItMatters": "Signals a massive internal reshuffle and strategic positioning ahead of upcoming legislative battles.",
-      "brief": "The BJP released its list of candidates for Uttar Pradesh Rajya Sabha elections, dropping all eight incumbent members, including Union Ministers.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/up-rajya-sabha-bjp-candidates-hardeep-puri-dropped-11791197357242.html",
-      "dateLocation": "2026-10-05 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Messi Set for Farewell Match with Argentina",
+      "whyItMatters": "Marks the end of an era for international football as one of its greatest legends plays his final game.",
+      "brief": "Lionel Messi is scheduled to make his final appearance for Argentina in a friendly match against Benin in Buenos Aires.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/football/messi-set-for-emotional-argentina-farewell-in-buenos-aires-friendly-vs-benin/article71548905.ece",
+      "dateLocation": "October 5, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Siberian Illness Sparks Global Bubonic Plague Concerns",
+      "whyItMatters": "Raises international public health vigilance regarding ancient bacterial strains and potential epidemiological risks.",
+      "brief": "Medical authorities are closely monitoring a mysterious illness in Siberia linked to the bubonic plague to assess global risks.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/siberias-mysterious-illness-all-about-bubonic-plague-how-it-spreads-and-whether-the-world-should-worry/articleshow/134715893.cms",
+      "dateLocation": "October 5, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Doctor Shares Mental Health Warnings on Excessive AI Use",
+      "whyItMatters": "Addresses modern psychological implications and dependency risks tied to the rapid proliferation of artificial intelligence.",
+      "brief": "A medical professional outlines five critical mental health warning signs associated with over-reliance on artificial intelligence tools.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/trends/using-ai-too-much-doctor-shares-5-warning-signs-to-watch-out-for-before-it-takes-a-toll-on-your-mental-health-11791222133383.html",
+      "dateLocation": "October 5, 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Google Alum's Research Vessel Maps Millions of Seafloor",
+      "whyItMatters": "Advances global oceanography, marine conservation efforts, and open-access bathymetric mapping across uncharted waters.",
+      "brief": "A former fisheries ship acquired by Eric Schmidt has successfully mapped over 1.3 million square kilometers of the ocean seafloor.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/in-2009-googles-eric-schmidt-and-wife-wendy-bought-a-former-fisheries-ship-by-2022-the-vessel-offered-free-research-access-and-had-mapped-over-1-3-million-square-kilometres-of-seafloor/articleshow/134712878.cms",
+      "dateLocation": "October 5, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
