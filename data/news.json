@@ -1,84 +1,111 @@
 {
-  "lastUpdated": "2026-10-04T20:50:43.349Z",
+  "lastUpdated": "2026-10-05T03:56:24.474Z",
   "ticker": [
-    "OPEC+ holds output",
-    "Zelenskyy accuses Russia",
-    "GST 2.0 reforms planned",
-    "CEC protests intensify",
-    "Strait of Hormuz closed"
+    "Markets price in RBI rate hikes amid rising inflation",
+    "EU and China set for high-stakes trade talks in Beijing",
+    "OPEC+ holds November output targets steady despite oil dips",
+    "Nikkei surges past 70,000 on strong global AI stock rally",
+    "Ukraine accuses Russia of sharing jet-drone tech with N. Korea"
   ],
   "articles": [
     {
-      "headline": "OPEC+ Agrees to Keep November Oil Output Targets Steady",
-      "whyItMatters": "Maintains current crude supply levels globally.",
-      "brief": "OPEC+ has decided to maintain its current oil production targets for November, keeping global supply levels steady amidst ongoing market volatility and shifting economic demands.",
+      "headline": "Markets Bet on RBI Rate Hike as Inflation Builds",
+      "whyItMatters": "Signals potential monetary tightening in India to curb accelerating inflation pressures.",
+      "brief": "Financial markets are pricing in an upcoming interest rate hike by the Reserve Bank of India as persistent inflation pressures continue to build across the domestic economy.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
-      "dateLocation": "October 4, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2ZLWG5udy12czJna0lwTVJkMDRYRktHekNjMmFyTlN3OXI2SVBFNXMyc2VTTUJ5SDU3QzUzOWVVamVYTjBmc3E4UUtCMHhMM18wTVJFak8xMG1fMUJfaDlBbVAycXMtd0xjbFB5YTltMUNKQ1BjY0pnR0lab2ZteHFTaVlqOHpBSmstZVpxWjdlS1F3UG1RTHI3ZEtvNmZG?oc=5",
+      "dateLocation": "Oct 5 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ukraine Claims Russia Shared Jet-Drone Tech with North Korea",
-      "whyItMatters": "Highlights deepening military ties between adversaries.",
-      "brief": "President Zelenskiy stated that Ukraine believes Russia has transferred advanced jet-drone technology to North Korea, raising serious international security concerns regarding cross-border military cooperation.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
-      "dateLocation": "October 4, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "OPEC+ Agrees to Keep November Oil Output Steady",
+      "whyItMatters": "Maintains current crude supply levels globally despite ongoing market price fluctuations.",
+      "brief": "OPEC+ has officially agreed to maintain its current November oil output targets steady, choosing not to alter production levels despite recent downward slips in global crude prices.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
+      "dateLocation": "Oct 5 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Djokovic Rallies Past Zverev to Reach China Open Semis",
-      "whyItMatters": "Demonstrates veteran endurance in major tennis tournaments.",
-      "brief": "Novak Djokovic staged an impressive comeback against Alexander Zverev in a thrilling match to secure his spot in the semi-finals of the China Open.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlJYeWtFV2kwSF9SMUJTS0h5ODZ0YnhEYTc1NFZoZHpZUlBZd0NheGhJOGs3M3JzM1JGcTVBRjRtYVRsOGcwcmlnajVabkNnVzBaNUhYeU5Tb2FGa3d3bjBlLWdJWU1xTzNJSTZwZk51WUE5WVhSaENzckQwTGNTOFgzeHNHdlNBSVhqWmh1eXd2NTVkYkppTVJ5WWdFVjVFY19MYVBOSzFsWjg?oc=5",
-      "dateLocation": "October 4, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "OpenAI Safety Employee Quits Over Reckless Culture",
+      "whyItMatters": "Highlights growing internal ethical concerns regarding safety oversight in frontier AI labs.",
+      "brief": "A prominent OpenAI safety employee has resigned, publicly stating that the company's culture is broken and that the technology sector is no longer being careful enough with AI risks.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/openai-safety-employee-quits-says-time-for-trial-and-error-is-over/article71545744.ece",
+      "dateLocation": "Oct 5 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran States Strait of Hormuz Will Not Reopen Yet",
-      "whyItMatters": "Threatens international shipping lanes and energy supply.",
-      "brief": "Iranian authorities announced that the critical Strait of Hormuz will remain closed until specific conditions are met, impacting global maritime trade and petroleum transport.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEhSM2E2MkI0TDU0LXVLZl_GLWY5d3FoTU1PdS1ON0xUV1NNQ3FnUlZGRFhOYkVHTVp5RDFaN3pxZ1pVeVNJdTdhemxsNkdRaHJBTWNtRDEwWjg2cnlKb3F5VmpEN25tTHNmV2hLTnFkc1IxSEhLVGplNTJJSnBXMDFmOUN1V3NpRmxoVnJkcmRxd1hmbzBRTHZjd05rWlhUbDBfQmFCZWRkS0pHUTJNa041QlRtSkd5YUE?oc=5",
-      "dateLocation": "October 4, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "California Man Arrested for Smuggling Nvidia Chips",
+      "whyItMatters": "Exposes illicit supply chains bypassing US export controls on advanced AI hardware.",
+      "brief": "A California business owner has been arrested and charged with smuggling export-controlled Nvidia AI servers to China through routing channels in Malaysia and Singapore.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/california-man-arrested-on-charges-of-smuggling-banned-nvidia-chips-to-china-follows-arrest-of-super-micro-computer-founder-may-face-20-years-in-jail/articleshow/134684341.cms",
+      "dateLocation": "Oct 5 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Protests Intensify in India Over Election Chief Demands",
-      "whyItMatters": "Reflects deep political friction regarding electoral oversight.",
-      "brief": "Demonstrations escalated across parts of India as opposition groups intensified demands for the election chief to step down, citing concerns over institutional independence.",
+      "whyItMatters": "Escalates political friction regarding constitutional bodies and electoral oversight integrity.",
+      "brief": "Political protests across India are intensifying following legal developments and widespread opposition demands for the Chief Election Commissioner to step down from office.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5",
-      "dateLocation": "October 4, 2026 | Reuters",
+      "dateLocation": "Oct 5 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "GST Council Weighs Ending Officials' Arrest Powers",
-      "whyItMatters": "Aims to ease compliance burdens for growing businesses.",
-      "brief": "The GST Council is considering sweeping structural reforms under GST 2.0, which include removing official arrest powers for minor offenses and lifting prosecution thresholds to improve ease of doing business.",
+      "headline": "Supreme Court Judge Condemns Electoral Roll Revisions",
+      "whyItMatters": "Addresses core constitutional concerns regarding voter disenfranchisement during intensive revisions.",
+      "brief": "A sitting Supreme Court judge sharply criticized special intensive voter roll revisions, warning that extensive deletion of voter names strikes directly at the heart of the Indian Constitution.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms",
+      "dateLocation": "Oct 5 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AkzoNobel Sells SE Asia Paint Business for $1.35B",
+      "whyItMatters": "Redraws regional market dynamics in the coatings and manufacturing sector.",
+      "brief": "AkzoNobel has agreed to sell its Southeast Asia paints division to Nippon Paint in a major strategic transaction valued at $1.35 billion.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/gst-shake-up-council-weighs-ending-officials-arrest-powers-start-rs-5-crore-prosecution-threshold/articleshow/134675993.cms",
-      "dateLocation": "October 4, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkc3YlZHTHhpcnlWODR2SG9hUnMtRGQwakl3c3F5c1hTS2pMZFVDR3VpZDFJdTJhc3NBWjRhSE16UzBNb2FoWkJXNDRqQ3paek13NEUzb0Mwb29fR1YwNGlCTFhxd295RVVyU0txejZwQS0zUzg0QXhCZWt4bi1kQkh0VFAyVWRlekZQbzFlTkVBRWNKYTJSTWI3SkJIZkRoc3hiUnoxTlV3UVZ0ZUdld2RzTGllSE1DX2lF?oc=5",
+      "dateLocation": "Oct 5 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "FSSAI Flags Everest Cumin Powder As Unsafe",
-      "whyItMatters": "Ensures consumer safety through strict regulatory enforcement.",
-      "brief": "The Food Safety and Standards Authority of India has ordered an immediate market recall of Everest pre-packed cumin powder following alarming findings in an analytical report.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html",
-      "dateLocation": "October 4, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nikkei Jumps 2.5% to Three-Month High on AI Stocks",
+      "whyItMatters": "Reflects broader Asian market optimism driven by global semiconductor demand.",
+      "brief": "Japan's Nikkei index climbed past the 70,000 threshold to a three-month high, powered by a robust rally among major domestic chip manufacturers and supportive Wall Street trends.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/japans-nikkei-jumps-2-5-above-70000-to-three-month-high-as-ai-stocks-rally/articleshow/134684890.cms",
+      "dateLocation": "Oct 5 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Musk Announces Plan to Rename SpaceXAI to SpaceXSI",
-      "whyItMatters": "Signals shifts in corporate branding strategy.",
-      "brief": "Tech billionaire Elon Musk has revealed plans to rebrand SpaceXAI as SpaceXSI, prompting widespread speculation across tech industry observers.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1lwRkt2ZlBuMTlqLVZCbk5ZVExzN0JMd0FnT0F5SllkSGdCU2xkNUlsSHVKZTRuNklIYlY5VTU5QmpqeUdWOXpJWEdhWGhaSE11dmRpQ0taekpfUllyay16MDg3VERqRm5WSjY3bGhKSGZVcnJWOFBod1FsQzBIdjVVN1U0b0xfT3VoZDNJdFZpVDJyN1Q0NlpjeUUtM2hFbUxF?oc=5",
-      "dateLocation": "October 4, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "EU and China to Hold Beijing Talks to Avert Trade War",
+      "whyItMatters": "Crucial diplomatic engagement aimed at stabilizing bilateral economic and tariff tensions.",
+      "brief": "European Union and Chinese officials are scheduled to convene in Beijing this week for high-level trade discussions designed to prevent an escalating economic and industrial trade war.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/eu-china-to-hold-beijing-talks-this-week-to-avert-trade-war/articleshow/134683979.cms",
+      "dateLocation": "Oct 5 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ukraine Warns Russia Shared Drone Tech With N. Korea",
+      "whyItMatters": "Signals deepening strategic military alignment between Moscow and Pyongyang.",
+      "brief": "Ukrainian leadership stated that intelligence indicates Russia has transferred advanced jet-drone technology to North Korea in exchange for military support in the ongoing conflict.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
+      "dateLocation": "Oct 5 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Researcher Dies at Russian Lab Amid Quarantine Measures",
+      "whyItMatters": "Triggers immediate biosecurity concerns and investigations into high-containment facility protocols.",
+      "brief": "A researcher at a Russian anti-plague laboratory died from severe pneumonia, prompting immediate quarantine protocols for over 200 individuals and an official safety investigation.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/world/researcher-dies-of-unknown-infection-at-russias-plague-lab-at-least-200-quarantined-heres-what-we-know-so-far-11791171253311.html",
+      "dateLocation": "Oct 5 | Mint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
