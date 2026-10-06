@@ -1,138 +1,147 @@
 {
-  "lastUpdated": "2026-10-06T04:45:17.048Z",
+  "lastUpdated": "2026-10-06T12:42:42.554Z",
   "ticker": [
-    "White House monitors suspected plague case in Russia",
-    "INDIA bloc marches to ECI headquarters over voter rolls",
-    "Oil gains as traders weigh Gulf tensions and exports",
-    "US and German scientists win Nobel medicine prize",
-    "Parti Québécois wins Quebec election putting independence back"
+    "Francis Halzen wins 2026 Nobel Physics Prize",
+    "India opposition leaders detained during poll protest",
+    "India officially bids to host 2036 Olympics",
+    "Crew missing after Black Sea drone attack",
+    "US-Iran talks continue via mediators in Qatar"
   ],
   "articles": [
     {
-      "headline": "US and German Scientists Win Nobel Medicine Prize",
-      "whyItMatters": "Honors breakthrough neuroscientific discoveries regarding light and brain mechanics.",
-      "brief": "US and German researchers have been awarded the Nobel medicine prize for their pioneering work on light and brain function.",
+      "headline": "India detains opposition leaders over election chief protest",
+      "whyItMatters": "Highlights escalating political tensions and democratic friction in India.",
+      "brief": "Indian police detained prominent opposition lawmakers, including Rahul Gandhi, during a high-profile march to the Election Commission demanding the chief's resignation.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnBoQ1pjcUc4eEozNUo4MFFXcGxRT0dHSzhrMEJTVWVCOWt6dFFxY0hyczlHME9pVk1lR2pxNVllczZRMXEtT2VDbzRYdHBZRGl6SzF4ai1SR2Z1RmNBOXctZGtxWGh4eXF2YlljbkNWV29CMFlNN1pIZVlDbG10ejFkdU50ZGxCcm5XczVWblE1cEk4UXlFN2lfdDRPaGszSFlsRU9wbFFuR05HTjdIZ3RQejQwcVp3R3RXbQ?oc=5",
+      "dateLocation": "2026-10-06 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Francis Halzen wins 2026 Nobel Physics Prize",
+      "whyItMatters": "Advances humanity's fundamental understanding of high-energy cosmic phenomena.",
+      "brief": "Francis Halzen has been awarded the Nobel Prize in Physics for his groundbreaking research with the IceCube Neutrino Observatory detecting cosmic 'ghost particles'.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXo2cFZNQjV2OVJOVnRDUlIzR0VJazh3WWt0MXlQXzBkWXlPRG1RVzZtVWlvbmdZMXFBM08xQzR0ZVlVdGtYVm5Dd2ptcHVhZmp1RDFxQkkxUzV4V2FLWWtaNlRWY25MbDVJSGsxNlA0LUdfNkVBOXdDTUdrNDdSR2lNSHc2c2VBMW1iejZWZ0tNN1hiVjBTdC1xcWR1SnA0cTFlVVF0RFA1SGhLWHZzR0QwbWkzYWRiM2U5dmpHdnJ3UnJV?oc=5",
-      "dateLocation": "October 6, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0hVTTdSN0xhUUhTTVlvRE5ndVE5eE5jUF9rek9ldjVvendOOVNBWnkzNVFueEEwdUxBeS1TX19SeklDYWVURWZ5QW9ZWnVhdXZQNGRJMC1HMWFDY3owd0Z0bmFSUl9OcDlXdGdmQTJ0WlZpQVZrYTdQZmRBTDV0Ymw5MEVfRDE1NVlxVW9xQ0V0UQ?oc=5",
+      "dateLocation": "2026-10-06 | Stockholm, Sweden",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "White House Monitors Suspected Plague Case in Russia",
-      "whyItMatters": "Raises international bio-security concerns following a laboratory worker's death in Siberia.",
-      "brief": "The White House is monitoring a suspected plague case in Russia's Irkutsk region following a laboratory worker's death, offering assistance.",
+      "headline": "Secretive military base spotted in China-Laos satellite imagery",
+      "whyItMatters": "Signals expanding regional security footprint and geopolitical shifts in Southeast Asia.",
+      "brief": "New satellite imagery reveals attack aircraft and military vehicles at an undisclosed military base near the China-Laos border, raising strategic security concerns.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/white-house-monitors-suspected-plague-case-in-russia-11791258745947.html",
-      "dateLocation": "October 6, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2s5NXhEaktubHFvamZHMVhEVEc5cFRIUUUwVzZtMGs5VWlXWlRXRWRfakNuMXozeWZsSUx3QzkxWi01aDJGcjVTaG5CN1Uxd2hTcmhRSHhVV1g1Q3VwZDFpb1JJVUU0LWJVU1JPYjVHeDg3dWhiaGtTN3kwLUIyMjlxanbuX0tDZEdLNFhiZ3Y4VzFtNXFkb3dsMWtzOWM2TTJ5aC1nbmwwbXFRSTFwMWpOZE1ic2QydVlMWmo4b3Bva2dTVzEwYnpVWWU2dw?oc=5",
+      "dateLocation": "2026-10-06 | Southeast Asia",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Prices Gain Amid Gulf Tensions",
-      "whyItMatters": "Geopolitical friction in the Middle East continues to heavily influence global energy markets.",
-      "brief": "Oil prices edged higher as traders carefully weighed escalating Gulf tensions against strong Mideast crude exports and strategic reserves.",
+      "headline": "Crew missing after drone strike sinks vessel in Black Sea",
+      "whyItMatters": "Demonstrates ongoing maritime security threats stemming from regional conflicts.",
+      "brief": "Bulgarian officials confirmed that a cargo vessel sank following a drone strike in the Black Sea zone, leaving its entire crew missing and prompting international condemnation.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5",
+      "dateLocation": "2026-10-06 | Sofia, Bulgaria",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Centre proposes five-pronged reform plan for GST Council",
+      "whyItMatters": "Aims to streamline tax structures and improve ease of doing business nationwide.",
+      "brief": "The Indian Finance Ministry plans to introduce a comprehensive reform initiative covering process changes, structural updates, and e-commerce regulations at the upcoming GST meeting.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnscV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
-      "dateLocation": "October 6, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
+      "dateLocation": "2026-10-06 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India-US Trade Talks Hit Plateau Over Tariffs",
-      "whyItMatters": "Stall in bilateral trade negotiations impacts broader economic partnerships and market access.",
-      "brief": "India's finance minister noted that trade talks with the United States have plateaued as strict tariffs severely narrow the room for a deal.",
+      "headline": "India officially enters race to host 2036 Olympic Games",
+      "whyItMatters": "Marks a major milestone in India's global sporting ambitions and infrastructure development.",
+      "brief": "India has confirmed its formal bid to host the 2036 Olympics, anchoring its proposal around Ahmedabad and leveraging past major multi-sport event experiences.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-qatar-among-seven-bidders-as-race-to-host-2036-olympics-takes-shape/articleshow/134738663.cms",
+      "dateLocation": "2026-10-06 | Lausanne, Switzerland",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nvidia operates increasingly like a modern family business",
+      "whyItMatters": "Sheds light on internal governance structures of the world's most valuable tech firm.",
+      "brief": "Recent reports indicate that Nvidia's leadership team heavily incorporates close family members managing high-stakes partnerships and strategy sectors, sparking corporate culture discussions.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/worlds-most-valuable-company-nvidia-now-runs-much-more-like-a-family-business-meet-jensen-huangs-son-in-law-and-children-who-may-lead-it-next/articleshow/134738017.cms",
+      "dateLocation": "2026-10-06 | Santa Clara, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian rupee hits two-month low amid capital outflows",
+      "whyItMatters": "Reflects investor caution and macroeconomic pressures ahead of central bank decisions.",
+      "brief": "The Indian currency weakened to a two-month low due to persistent foreign capital outflows while investors anxiously awaited the upcoming Reserve Bank of India policy rate outcome.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1J5UEt2X3M2VGctS2FVQnMtVkJoOEwzdUZ4SENyTzNJRUZkUmJBYjBjWkVCbkVUNG9ITHRueUJONGpBUHVpZ3VaajhUNGY3SThiYTJHQVB3U2l0MXlaaGNKY1NLbWZ6TXNYV3FmNm9BVjJ0Mktod2d3SWV6TWRjUDNkanRCVHdpRU9oZFgtc2RGbUx1TUwyMU0weVM2Ry0wOGJMN0VMZGM5VGhUdDJ5bWNjYWh0WHhWQlE?oc=5",
-      "dateLocation": "October 6, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUlsSHkxcnpDbnA5WEwxYmhPSm5tMlBIRFJPS29xUUo3TkdWVF9qTFBaSGFQVFFvYlV5SDY5WnMwQklfTnlyQkxjeU9GcWZfeTNnejBBNWVkMUNfVElidVNTZnUyd09OM0NvMUMwT21LTUViOEFtLUtiZ3pCS21mY2gydGxvRndQRHZxNmJ4VC1uczcxSWltSlV6UVpBNXYwaFUzaXZCOF9fOGpNdklWQzZYdjlTRm5F?oc=5",
+      "dateLocation": "2026-10-06 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Anthropic Open to AI Hack Reporting Laws in Australia",
-      "whyItMatters": "Sets a critical regulatory precedent for mandatory transparency regarding enterprise-level AI security breaches.",
-      "brief": "Anthropic informed Australian regulators that it remains completely open to new legislative frameworks requiring mandatory reporting of AI agent security hacks.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/anthropic-tells-australia-its-open-to-laws-requiring-reporting-of-ai-agent-hacks/article71549877.ece",
-      "dateLocation": "October 6, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Cabinet approves Rs 10,000 crore SME growth fund",
+      "whyItMatters": "Provides crucial financial backing to accelerate technological upgrades for small enterprises.",
+      "brief": "The Union Cabinet cleared a major Rs 10,000 crore SME Growth Fund alongside new transport infrastructure strategies designed to streamline nationwide logistics operations.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/cabinet-clears-rs-10000-crore-sme-fund-new-transport-authority-hails-pm-modis-25-years-in-public-life/articleshow/134738385.cms",
+      "dateLocation": "2026-10-06 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AWS Executive Highlights Shift in Enterprise AI Priorities",
-      "whyItMatters": "Demonstrates market maturation where corporate buyers focus on operational security over basic utility.",
-      "brief": "Amazon Web Services executives note that corporate CEOs have moved past questioning AI value, focusing instead on agent security and policy alignment.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-web-services-swami-sivasubramanian-says-that-ceos-are-no-longer-worried-if-ai-will-add-value-to-their-businesses-now-they-have-a-new-fear/articleshow/134721758.cms",
-      "dateLocation": "October 6, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Probes Suspected Soybean Import Tax Evasion",
-      "whyItMatters": "Crackdown on fraudulent import sourcing protects domestic agricultural markets and state revenues.",
-      "brief": "Indian authorities have launched a formal investigation into soybean imports originating from African nations over suspected systematic tax evasion.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWlhJN0dRRDhxVVdMRU16SHdycVMtVnp4MlBib0p1aGVZM1FhR0wtdEhhRXV1X3YtNkxQbDdYcjFhNHpTdTloSG9MQ05ISDhycFRhb0E3eDB1a1JWLU9IQ0ZSS1JfSzJnd2R6dGp2VGRENjBOU2JmZnd2UVpQRklJOXNhOWlBS2gyZVNHdjF2cTZPTll0YS1ldlNIRFRkcWRUdVZ1VGlybTdYVGE2RGxFWEt3aldzaTItckFOUWpMcC1LT2tyWGRZ?oc=5",
-      "dateLocation": "October 6, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "INDIA Bloc Marches to ECI Over Voter Roll Controversy",
-      "whyItMatters": "Intensifies political friction over electoral integrity and administrative neutrality ahead of polls.",
-      "brief": "Opposition parties in India are holding a massive protest march toward the Election Commission headquarters alleging irregularities in voter registration lists.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/cec-row-protest-against-gyanesh-kumar-india-bloc-march-election-commission-sir-issue-live-updates-october-6-2026/article71549790.ece",
-      "dateLocation": "October 6, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Quebec Separatist Victory Puts Independence Back on Agenda",
-      "whyItMatters": "Reshapes Canadian federal dynamics with renewed debates over provincial sovereignty.",
-      "brief": "The separatist Parti Québécois won the provincial election in Quebec, immediately placing the debate over regional independence back onto the political agenda.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/separatist-parti-quebecois-wins-quebec-election-puts-independence-back-on-agenda/articleshow/134721347.cms",
-      "dateLocation": "October 6, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US and Allies Condemn Iran Over Regional Activities",
-      "whyItMatters": "Deepens diplomatic isolation of Tehran amid ongoing Middle Eastern military flare-ups.",
-      "brief": "The US, Canada, and several Latin American nations issued a joint declaration accusing Iran and its regional proxies of conducting terrorist operations.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-iran-war-news-latest-live-updates-donald-trump-hormuz-abbas-araghchi-flydubai-attack-jd-vance-ghalibaf-11791249835663.html",
-      "dateLocation": "October 6, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Medvedev Disqualified From China Open Semi-Final",
-      "whyItMatters": "Rare on-court disqualification highlights strict tournament safety enforcement protocols.",
-      "brief": "Daniil Medvedev was disqualified from the China Open semi-finals after accidentally striking a spectator with a tennis ball during a match.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW5aZkNweUtjN2VZa3pzdXhBRldhZ2xZZDJBLUxGUjBDQjRfeFNTclVhNVhMM0FsUDIyT3RZMmVPU25wVzJTdDJkUjVnc1VKTmlNTk5pb2c2a0FMT1FpYkNaUnNLSkVza0RJeTFzTzZMSVNvQ09FcDNaY2p4alZtWUNtbXFuTk9jaEoyZUk1OE5jUzgzZEtJdDczWXVMcDNqaDZCYkI1VlN3RXBHaVMwN1h1UjNHTFlS?oc=5",
-      "dateLocation": "October 6, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Koneru Humpy Overcomes Illness to Win Chess Medals",
-      "whyItMatters": "Demonstrates elite athletic endurance and mental toughness under severe physical duress.",
-      "brief": "Veteran chess star Koneru Humpy revealed how she battled severe illness and stomach pain daily to secure two medals at the Chess Olympiad.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/taking-medicines-and-playing-every-day-how-koneru-humpy-battled-diarrhoea-to-win-two-medals-at-chess-olympiad-exclusive/articleshow/134721640.cms",
-      "dateLocation": "October 6, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jaishankar Calls for Radical UN Structural Reforms",
-      "whyItMatters": "Reflects the global South's growing frustration with multilateral governance institutions.",
-      "brief": "India's External Affairs Minister asserted that the United Nations remains largely irrelevant to major current conflicts, calling for structural reforms.",
+      "headline": "Naval personnel arrested over intelligence leaks to Pakistan",
+      "whyItMatters": "Highlights critical national security vulnerabilities within core defense establishments.",
+      "brief": "Andhra Pradesh police arrested a naval staff member and a civilian driver among several individuals under scanner for leaking sensitive operational secrets to Pakistan intelligence.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/un-largely-irrelevant-to-major-global-conflicts-jaishankar-says-calls-for-reform/articleshow/134721912.cms",
-      "dateLocation": "October 6, 2026 | The Economic Times",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/two-arrested-13-navy-personnel-among-18-under-scanner-for-allerg-leaks-to-pakistan-intelligence-operatives/article71551131.ece",
+      "dateLocation": "2026-10-06 | Visakhapatnam, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Shifting Focus to Integrated Renewable Power",
-      "whyItMatters": "Marks a strategic evolution in the nation's green energy transition beyond simple turbine installations.",
-      "brief": "Industry experts highlight that India's next major renewable power shift must integrate advanced wind, solar, and battery storage solutions seamlessly.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/renewables/indias-wind-industry-must-move-beyond-turbines-to-integrated-power-solutions-gwec/articleshow/134722086.cms",
-      "dateLocation": "October 6, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "West Bengal receives major UDAN aviation infrastructure boost",
+      "whyItMatters": "Expands regional connectivity and economic growth across underserved eastern sectors.",
+      "brief": "The central government announced a Rs 29,000 crore UDAN investment package for West Bengal, featuring four new airports and stronger international flight integration.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/west-bengal-gets-rs-29-000-crore-udan-boost-4-new-airports-in-2-years-planned-naidu-backs-second-kolkata-hub-11791279999853.html",
+      "dateLocation": "2026-10-06 | Kolkata, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ancient DNA reveals extinct relative of modern yaks",
+      "whyItMatters": "Expands evolutionary biology insights through genetic discoveries in Siberian remains.",
+      "brief": "Scientists analyzing ancient Siberian bone fragments successfully sequenced DNA to identify a previously unknown extinct bovine species that evolved independently for centuries.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/scientists-studying-ancient-siberian-bone-fragments-used-dna-to-identify-a-previously-unknown-extinct-bovine-related-to-modern-yaks-that-followed-its-own-evolutionary-path-for-hundreds-of-thousands-of-years/articleshow/134738756.cms",
+      "dateLocation": "2026-10-06 | Siberia, Russia",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US-Iran diplomatic talks proceed via Qatari intermediaries",
+      "whyItMatters": "Maintains critical dialogue channels despite deadlock over strategic maritime choke points.",
+      "brief": "Indirect negotiations between the US and Iran aimed at resolving regional conflicts continue through Qatari mediators despite ongoing deadlocks over Strait of Hormuz access.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/qatar-says-us-iran-talks-to-end-middle-east-war-continue-via-mediators-despite-deadlock-over-strait-of-hormuz/articleshow/134739883.cms",
+      "dateLocation": "2026-10-06 | Doha, Qatar",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Quebec separatism re-emerges following political shifts",
+      "whyItMatters": "Poses fresh challenges for Canadian national unity and federal leadership.",
+      "brief": "Quebec independence sentiment has returned to focus after political electoral gains by separatist parties, presenting a new constitutional test for Prime Minister Mark Carney.",
+      "category": "sports",
+      "sourceUrl": "https://www.livemint.com/news/world/why-quebec-separatism-is-back-in-focus-after-pq-election-win-and-what-it-means-for-mark-carney-11791276352405.html",
+      "dateLocation": "2026-10-06 | Quebec, Canada",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi Police deploy bodycams amid protest security overhaul",
+      "whyItMatters": "Enhances transparency and accountability during high-intensity public crowd control operations.",
+      "brief": "Following widespread political demonstrations and allegations of misconduct, Delhi Police has rolled out body-worn cameras for all frontline personnel deployed in sensitive zones.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-rolls-out-bodycams-amid-protest-related-allegations-pil-seeks-mandatory-use-for-crowd-control/articleshow/134734209.cms",
+      "dateLocation": "2026-10-06 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
