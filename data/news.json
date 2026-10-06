@@ -1,147 +1,147 @@
 {
-  "lastUpdated": "2026-10-06T12:42:42.554Z",
+  "lastUpdated": "2026-10-06T22:17:22.299Z",
   "ticker": [
-    "Francis Halzen wins 2026 Nobel Physics Prize",
-    "India opposition leaders detained during poll protest",
-    "India officially bids to host 2036 Olympics",
-    "Crew missing after Black Sea drone attack",
-    "US-Iran talks continue via mediators in Qatar"
+    "Earthquake hits Uttarakhand, tremors in Delhi",
+    "Elon Musk returns to trillionaire status",
+    "France warns on Hormuz crisis and IMEC corridor",
+    "US trade deficit widens to record highs",
+    "Zelenskyy warns of massive impending Russian attacks"
   ],
   "articles": [
     {
-      "headline": "India detains opposition leaders over election chief protest",
-      "whyItMatters": "Highlights escalating political tensions and democratic friction in India.",
-      "brief": "Indian police detained prominent opposition lawmakers, including Rahul Gandhi, during a high-profile march to the Election Commission demanding the chief's resignation.",
+      "headline": "Magnitude 5.1 Earthquake Strikes Uttarakhand",
+      "whyItMatters": "Assesses seismic stability and infrastructure vulnerability across northern India.",
+      "brief": "A 5.1 magnitude earthquake struck Uttarakhand, sending tremors across northern regions including Delhi-NCR. No immediate casualties or major infrastructural damages were reported.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDFObEFLTkJBZk8xV0tGTTktcTVCMS15bVliWEJsWjFxandGWmJQVTBwbzVMbEFoRUhPcTF1aExUTjRBa3laa0pqUW5NWDR5Q2VYdGVVU1pibDRKS0JLTUhhSXdZUVhjc3l0ZktveUp5dlIyUU5xTFE4SlhPZENMcEFicFJfVjZXeU5pa3V5SzVWa05kai1reXFEN3dtdjdtbzRUeGZzZnROc0JHTFZPYmFNeEJRRnZqWjNaLXk5dw?oc=5",
+      "dateLocation": "2026-10-06 | Uttarakhand, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Attack on Oil Tanker Leaves 12 Injured",
+      "whyItMatters": "Highlights escalating maritime security threats impacting global energy transit routes.",
+      "brief": "An oil tanker attack injured 12 crew members, prompting urgent intervention from the Indian ministry as regional security tensions grow around key shipping lanes.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0xLQ09DRmI3QkxnRG5ZSlNHNk03ZHRlMlRJc25oUm9IR0FDOTdzOURDa1hYaVgtNWVOQTB4Y2pObks2MzhRdVVXWldNOWE4ZFV2TUw1dzdXVDB4a3NSanBwOUlVSks0QlNiUmZiUVlqT0hPOEVPMk9haHFBTzZmdTk5NTl4ZFYxdHFFZF92dFBabWtTWURjMkZ2TnZrb3duUW9jT1hkOA?oc=5",
+      "dateLocation": "2026-10-06 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global Oil Stockpile Buffers Depleted",
+      "whyItMatters": "Signals heightened vulnerability to geopolitical shocks and sudden supply disruptions.",
+      "brief": "Energy executives warn that the world has nearly exhausted its strategic oil stockpile buffers, elevating risks of severe market volatility amid ongoing Middle East crises.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXpPa01RZzZ1ZlNmZS1XU1FlVnlKbTNhblkyVFU1dkttNzY2WllwRXNVdHVSNlBkV21wQi05d3NQdTFQcjQ1Vm5CcG1XQ1gtaDdZUmZiZXZaVVA1ZXBIcEpoOHBIZ0k1RnpKWXpsOVBjWWhrQzlWNW53SFM2dm5LeWJFVThkLUNHMzY2VFN1cFl0QXpqc2U5T2FvM1M1TmQyRjUwTDBBTFJ3NkRLS0ZENmY4cDNPam13OG9pRUFZUGw?oc=5",
+      "dateLocation": "2026-10-06 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nvidia-Backed Lambda Targets $4B Raise",
+      "whyItMatters": "Reflects the massive capital inflows driving artificial intelligence infrastructure expansion.",
+      "brief": "Nvidia-backed cloud provider Lambda is targeting a $4 billion funding raise ahead of a planned initial public offering, according to reports.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3dfcjJxclVWTV9faDZyaUpIZ3F3cl95X2dFdzRaN0IxTWFuX0VwdWFBeEFtdjdqNVlKRHVCNVUzZF9paU9Cb0F3Y1NLR1l1UnNMVXNudDVYTEg4SVlVSHl2b1QwWjR6WV92ZV92MEUzRnozaEx4cHF6ZURxdUY2VDNlWWZSaGIxX3hsWEsxalhvZjhpSk85dWEwNWN6U0ZKeUNPdklHYnZpQjlORGpKemZOY0NfWkZFWHdvUkd3?oc=5",
+      "dateLocation": "2026-10-06 | Wall Street Journal",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Trade Deficit Widens on Record Imports",
+      "whyItMatters": "Demonstrates persistent trade imbalances despite the implementation of aggressive tariff policies.",
+      "brief": "The US trade balance sank deeper into deficit territory as imports hit all-time record highs, undercutting the intended protective impact of new tariffs.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1IxdUZmenNPcXZRSTEwWDdEUVJNdjBnSEFlYm5JLWRsZm1EaE9iVmV1bGhZLU5Pb3BlRVQwbFZHT2dDbEppNkN6REZZd0JkeXFUbEt4Ync5RW5qREFscFZNVHA1RjdKVjRRcmZPb1ZyaDFhdnVKM2prcHRYd0NUQVVYdHRMdU9lakVQc0NocERlU0JRMDU1V19oMA?oc=5",
+      "dateLocation": "2026-10-06 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Police Break Up Indian Opposition Protest",
+      "whyItMatters": "Highlights rising political friction between the ruling coalition and opposition parties.",
+      "brief": "Indian police forcibly dispersed an opposition protest march demanding the resignation of the election chief, escalating tensions between the government and the INDIA bloc.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnBoQ1pjcUc4eEozNUo4MFFXcGxRT0dHSzhrMEJTVWVCOWt6dFFxY0hyczlHME9pVk1lR2pxNVllczZRMXEtT2VDbzRYdHBZRGl6SzF4ai1SR2Z1RmNBOXctZGtxWGh4eXF2YlljbkNWV29CMFlNN1pIZVlDbG10ejFkdU50ZGxCcm5XczVWblE1cEk4UXlFN2lfdDRPaGszSFlsRU9wbFFuR05HTjdIZ3RQejQwcVp3R3RXbQ?oc=5",
-      "dateLocation": "2026-10-06 | New Delhi, India",
+      "dateLocation": "2026-10-06 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Francis Halzen wins 2026 Nobel Physics Prize",
-      "whyItMatters": "Advances humanity's fundamental understanding of high-energy cosmic phenomena.",
-      "brief": "Francis Halzen has been awarded the Nobel Prize in Physics for his groundbreaking research with the IceCube Neutrino Observatory detecting cosmic 'ghost particles'.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0hVTTdSN0xhUUhTTVlvRE5ndVE5eE5jUF9rek9ldjVvendOOVNBWnkzNVFueEEwdUxBeS1TX19SeklDYWVURWZ5QW9ZWnVhdXZQNGRJMC1HMWFDY3owd0Z0bmFSUl9OcDlXdGdmQTJ0WlZpQVZrYTdQZmRBTDV0Ymw5MEVfRDE1NVlxVW9xQ0V0UQ?oc=5",
-      "dateLocation": "2026-10-06 | Stockholm, Sweden",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Secretive military base spotted in China-Laos satellite imagery",
-      "whyItMatters": "Signals expanding regional security footprint and geopolitical shifts in Southeast Asia.",
-      "brief": "New satellite imagery reveals attack aircraft and military vehicles at an undisclosed military base near the China-Laos border, raising strategic security concerns.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2s5NXhEaktubHFvamZHMVhEVEc5cFRIUUUwVzZtMGs5VWlXWlRXRWRfakNuMXozeWZsSUx3QzkxWi01aDJGcjVTaG5CN1Uxd2hTcmhRSHhVV1g1Q3VwZDFpb1JJVUU0LWJVU1JPYjVHeDg3dWhiaGtTN3kwLUIyMjlxanbuX0tDZEdLNFhiZ3Y4VzFtNXFkb3dsMWtzOWM2TTJ5aC1nbmwwbXFRSTFwMWpOZE1ic2QydVlMWmo4b3Bva2dTVzEwYnpVWWU2dw?oc=5",
-      "dateLocation": "2026-10-06 | Southeast Asia",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Crew missing after drone strike sinks vessel in Black Sea",
-      "whyItMatters": "Demonstrates ongoing maritime security threats stemming from regional conflicts.",
-      "brief": "Bulgarian officials confirmed that a cargo vessel sank following a drone strike in the Black Sea zone, leaving its entire crew missing and prompting international condemnation.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5",
-      "dateLocation": "2026-10-06 | Sofia, Bulgaria",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre proposes five-pronged reform plan for GST Council",
-      "whyItMatters": "Aims to streamline tax structures and improve ease of doing business nationwide.",
-      "brief": "The Indian Finance Ministry plans to introduce a comprehensive reform initiative covering process changes, structural updates, and e-commerce regulations at the upcoming GST meeting.",
+      "headline": "PepsiCo and Monster Win Energy Drink Relief",
+      "whyItMatters": "Provides regulatory clarity for beverage giants navigating food safety and labeling laws in India.",
+      "brief": "PepsiCo, Monster, and Reliance secured a partial reprieve in India regarding stricter 'energy drink' labeling bans, easing compliance burdens for major beverage brands.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
-      "dateLocation": "2026-10-06 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUG9vblhKbHo0cy1ocWtwU24wdHItTXpZeWNJRmRDdGUyZEdVZlVwU3N5RzJWbDJQMmNrTVlTTFBaWG83dW52TnBGd09yTUczYWVGWUxwRW1PUUpQR0VPZklNQUs5T0NPTFNyeWlEYmkzS3JBV040RHpUeEprOXNUYjh6QzBtanhrUmFYUW5mSTBKU2hkX2h2TzMtSlRCelFZb2pnQjZSR1FnelYxRENhRFRabElRNkdSWlY0NENtUjI5UGFyYzZ1emhOUEk3N2c?oc=5",
+      "dateLocation": "2026-10-06 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India officially enters race to host 2036 Olympic Games",
-      "whyItMatters": "Marks a major milestone in India's global sporting ambitions and infrastructure development.",
-      "brief": "India has confirmed its formal bid to host the 2036 Olympics, anchoring its proposal around Ahmedabad and leveraging past major multi-sport event experiences.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-qatar-among-seven-bidders-as-race-to-host-2036-olympics-takes-shape/articleshow/134738663.cms",
-      "dateLocation": "2026-10-06 | Lausanne, Switzerland",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Ukraine Warns of Massive Russian Attack",
+      "whyItMatters": "Emphasizes the urgent need for continuous military aid as winter conflict intensifies.",
+      "brief": "Ukrainian President Zelenskyy stated that intelligence reports indicate Russia is preparing a massive new offensive, urging allies to immediately boost weaponry supplies.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/ukraines-zelenskyy-says-intelligence-shows-russia-is-preparing-massive-attack/article71553096.ece",
+      "dateLocation": "2026-10-06 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nvidia operates increasingly like a modern family business",
-      "whyItMatters": "Sheds light on internal governance structures of the world's most valuable tech firm.",
-      "brief": "Recent reports indicate that Nvidia's leadership team heavily incorporates close family members managing high-stakes partnerships and strategy sectors, sparking corporate culture discussions.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/worlds-most-valuable-company-nvidia-now-runs-much-more-like-a-family-business-meet-jensen-huangs-son-in-law-and-children-who-may-lead-it-next/articleshow/134738017.cms",
-      "dateLocation": "2026-10-06 | Santa Clara, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian rupee hits two-month low amid capital outflows",
-      "whyItMatters": "Reflects investor caution and macroeconomic pressures ahead of central bank decisions.",
-      "brief": "The Indian currency weakened to a two-month low due to persistent foreign capital outflows while investors anxiously awaited the upcoming Reserve Bank of India policy rate outcome.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUlsSHkxcnpDbnA5WEwxYmhPSm5tMlBIRFJPS29xUUo3TkdWVF9qTFBaSGFQVFFvYlV5SDY5WnMwQklfTnlyQkxjeU9GcWZfeTNnejBBNWVkMUNfVElidVNTZnUyd09OM0NvMUMwT21LTUViOEFtLUtiZ3pCS21mY2gydGxvRndQRHZxNmJ4VC1uczcxSWltSlV6UVpBNXYwaFUzaXZCOF9fOGpNdklWQzZYdjlTRm5F?oc=5",
-      "dateLocation": "2026-10-06 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cabinet approves Rs 10,000 crore SME growth fund",
-      "whyItMatters": "Provides crucial financial backing to accelerate technological upgrades for small enterprises.",
-      "brief": "The Union Cabinet cleared a major Rs 10,000 crore SME Growth Fund alongside new transport infrastructure strategies designed to streamline nationwide logistics operations.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/cabinet-clears-rs-10000-crore-sme-fund-new-transport-authority-hails-pm-modis-25-years-in-public-life/articleshow/134738385.cms",
-      "dateLocation": "2026-10-06 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Naval personnel arrested over intelligence leaks to Pakistan",
-      "whyItMatters": "Highlights critical national security vulnerabilities within core defense establishments.",
-      "brief": "Andhra Pradesh police arrested a naval staff member and a civilian driver among several individuals under scanner for leaking sensitive operational secrets to Pakistan intelligence.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/two-arrested-13-navy-personnel-among-18-under-scanner-for-allerg-leaks-to-pakistan-intelligence-operatives/article71551131.ece",
-      "dateLocation": "2026-10-06 | Visakhapatnam, India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "West Bengal receives major UDAN aviation infrastructure boost",
-      "whyItMatters": "Expands regional connectivity and economic growth across underserved eastern sectors.",
-      "brief": "The central government announced a Rs 29,000 crore UDAN investment package for West Bengal, featuring four new airports and stronger international flight integration.",
+      "headline": "Elon Musk Returns to Trillionaire Status",
+      "whyItMatters": "Illustrates the massive wealth concentration driven by valuations in the space and EV sectors.",
+      "brief": "Following a steep market rally led by surging SpaceX shares and Tesla contributions, Elon Musk has officially returned to trillionaire net worth status.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/west-bengal-gets-rs-29-000-crore-udan-boost-4-new-airports-in-2-years-planned-naidu-backs-second-kolkata-hub-11791279999853.html",
-      "dateLocation": "2026-10-06 | Kolkata, India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/elon-musk-net-worth-how-spacex-and-tesla-helped-musk-become-a-trillionaire-again-after-market-rally-11791320544773.html",
+      "dateLocation": "2026-10-06 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ancient DNA reveals extinct relative of modern yaks",
-      "whyItMatters": "Expands evolutionary biology insights through genetic discoveries in Siberian remains.",
-      "brief": "Scientists analyzing ancient Siberian bone fragments successfully sequenced DNA to identify a previously unknown extinct bovine species that evolved independently for centuries.",
+      "headline": "France Stresses Necessity of IMEC Corridor",
+      "whyItMatters": "Redefines international trade architecture in response to persistent Middle East security chokepoints.",
+      "brief": "A senior French envoy stated that Gaza, Iran tensions, and Strait of Hormuz risks make the India-Middle East-Europe Economic Corridor increasingly vital for global trade resilience.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/scientists-studying-ancient-siberian-bone-fragments-used-dna-to-identify-a-previously-unknown-extinct-bovine-related-to-modern-yaks-that-followed-its-own-evolutionary-path-for-hundreds-of-thousands-of-years/articleshow/134738756.cms",
-      "dateLocation": "2026-10-06 | Siberia, Russia",
+      "sourceUrl": "https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html",
+      "dateLocation": "2026-10-06 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US-Iran diplomatic talks proceed via Qatari intermediaries",
-      "whyItMatters": "Maintains critical dialogue channels despite deadlock over strategic maritime choke points.",
-      "brief": "Indirect negotiations between the US and Iran aimed at resolving regional conflicts continue through Qatari mediators despite ongoing deadlocks over Strait of Hormuz access.",
+      "headline": "Punjab Govt Moves SC Against CBI Probe",
+      "whyItMatters": "Tests federal governance boundaries and investigative authority between states and central agencies.",
+      "brief": "The Punjab government has approached the Supreme Court to challenge a High Court order mandating a Central Bureau of Investigation probe into a bribery syndicate.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/punjab-government-moves-supreme-court-against-cbi-probe-into-bribe-syndicate-linked-to-cm-bhagwant-manns-osd/articleshow/134749970.cms",
+      "dateLocation": "2026-10-06 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Launches First Fleet Support Ship",
+      "whyItMatters": "Substantially boosts the Indian Navy's blue-water projection and logistical self-reliance.",
+      "brief": "Defence Minister Rajnath Singh launched 'Surya', India's first indigenously built fleet support ship in Visakhapatnam, marking a major milestone in defense manufacturing.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/qatar-says-us-iran-talks-to-end-middle-east-war-continue-via-mediators-despite-deadlock-over-strait-of-hormuz/articleshow/134739883.cms",
-      "dateLocation": "2026-10-06 | Doha, Qatar",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/rajnath-launches-indias-first-fleet-support-ship-surya-at-visakhapatnam-witnesses-delivery-of-2000th-aero-engine-in-koraput/articleshow/134749942.cms",
+      "dateLocation": "2026-10-06 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Quebec separatism re-emerges following political shifts",
-      "whyItMatters": "Poses fresh challenges for Canadian national unity and federal leadership.",
-      "brief": "Quebec independence sentiment has returned to focus after political electoral gains by separatist parties, presenting a new constitutional test for Prime Minister Mark Carney.",
+      "headline": "Smriti Mandhana Appointed India Cricket Captain",
+      "whyItMatters": "Marks a generational leadership transition in Indian women's national cricket setup.",
+      "brief": "Star batter Smriti Mandhana has officially replaced Harmanpreet Kaur as the captain of the Indian women's cricket team across formats.",
       "category": "sports",
-      "sourceUrl": "https://www.livemint.com/news/world/why-quebec-separatism-is-back-in-focus-after-pq-election-win-and-what-it-means-for-mark-carney-11791276352405.html",
-      "dateLocation": "2026-10-06 | Quebec, Canada",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/smriti-mandhana-appointed-indian-womens-cricket-team-captain-succeeding-harmanpreet-kaur/articleshow/134744631.cms",
+      "dateLocation": "2026-10-06 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi Police deploy bodycams amid protest security overhaul",
-      "whyItMatters": "Enhances transparency and accountability during high-intensity public crowd control operations.",
-      "brief": "Following widespread political demonstrations and allegations of misconduct, Delhi Police has rolled out body-worn cameras for all frontline personnel deployed in sensitive zones.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-rolls-out-bodycams-amid-protest-related-allegations-pil-seeks-mandatory-use-for-crowd-control/articleshow/134734209.cms",
-      "dateLocation": "2026-10-06 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Government Intervenes in Adani Airport Standoff",
+      "whyItMatters": "Addresses operational disruptions and airline cost pressures at major aviation hubs.",
+      "brief": "The central government has intervened in the standoff between Adani Airports and airlines, asking operators to defer mandatory international flight shifts to Navi Mumbai.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/adani-asked-to-defer-mumbai-airports-international-flight-shift-to-navi-mumbai/articleshow/134749613.cms",
+      "dateLocation": "2026-10-06 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Test-Fires Extended Fatah-4 Missile",
+      "whyItMatters": "Underscores ongoing regional missile proliferation and strategic deterrence developments.",
+      "brief": "Pakistan successfully test-fired an extended-range version of its Fatah-4 cruise missile system, bolstering its tactical strike capabilities.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/pakistan-successfully-test-fires-extended-version-of-fatah-4-cruise-missile/articleshow/134748350.cms",
+      "dateLocation": "2026-10-06 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
