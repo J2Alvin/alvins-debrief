@@ -1,147 +1,156 @@
 {
-  "lastUpdated": "2026-10-07T12:36:32.059Z",
+  "lastUpdated": "2026-10-07T22:39:17.845Z",
   "ticker": [
-    "India announces first rate hike in four years",
-    "Four-storey building collapse in Delhi leaves several trapped",
-    "IMF warns of growing debt and AI risks",
-    "India unveils official bid vision for 2036 Olympics",
-    "Opposition MPs lead fresh protests against CEC"
+    "RBI hikes repo rate by 25 bps",
+    "Trump administration proposes $70k OPT fee",
+    "India and Canada back CEPA talks",
+    "Iran uranium enrichment focus intensifies",
+    "Global rate-tightening wave expands"
   ],
   "articles": [
     {
-      "headline": "India Joins Global Rate Hike After Four Years",
-      "whyItMatters": "Signals a tighter monetary policy stance impacting borrowing costs nationwide.",
-      "brief": "The Reserve Bank of India has raised the repo rate in its first hike in nearly four years, triggering reactions across Indian financial markets and increasing loan EMIs for consumers.",
+      "headline": "India Joins Global Rate-Tightening Wave With First Hike",
+      "whyItMatters": "Higher borrowing costs will impact consumer EMIs and economic growth.",
+      "brief": "The Reserve Bank of India raised the repo rate by 25 basis points to 5.5% amid rising inflation pressures, marking its first hike in nearly four years and increasing loan costs.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlZCVTJBN0oxSFUtU3pHLXZBVzVpQVJfMXRkVnRMMWFXeUhrczVkVmRkelVJckVZOGc4QVZkVDBlSDRCVE1XMEJEUXBmWlVGaklQcDRxUTlFNVl0a3h6TlhqWmpVT1gyMmR4VTZtdmRWSTU3SUtPeGZPYndYdjlaVEsxWUdJU2U1RjhaS3Z2YU8xZ3lHbXVsaklld1hCTkRzS0lpTGJzcnJNX01TallDRQ?oc=5",
-      "dateLocation": "Oct 7, 2026 | Reuters",
+      "dateLocation": "October 7, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IMF Chief Warns Against Rising Debt and AI Risks",
-      "whyItMatters": "Global financial stability is threatened by structural energy and technological pressures.",
-      "brief": "The Managing Director of the IMF warned that energy shocks, escalating global debt, and AI-related financial risks pose serious threats to worldwide economic growth and stability.",
+      "headline": "Trump Administration Proposes Massive $70,000 OPT Fee",
+      "whyItMatters": "The steep cost threatens international student work opportunities in the US.",
+      "brief": "The Trump administration has proposed charging international students holding F-1 visas $70,000 for on-the-job training through Optional Practical Training to curb fraud.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-administration-plans-to-charge-international-students-70000-for-work-authorisation/article71557192.ece",
+      "dateLocation": "October 7, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Canada Advance Comprehensive Economic Partnership",
+      "whyItMatters": "Bilateral trade aims to hit CAD 70 billion by 2030.",
+      "brief": "Ahead of a planned prime ministerial visit, India and Canada are progressing through talks for a Comprehensive Economic Partnership Agreement to boost economic ties.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/with-pm-modi-set-to-visit-ottawa-india-canada-back-cepa/articleshow/134774751.cms",
+      "dateLocation": "October 7, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Scientists Create World's First Nuclear Clocks",
+      "whyItMatters": "Nuclear clocks offer unprecedented precision compared to atomic clocks.",
+      "brief": "Researchers in Vienna and Beijing have successfully developed the world's first nuclear clocks, a breakthrough that could revolutionize navigation, telecommunications, and fundamental physics research.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1FTSUp2ZFNWd1NVMW5pandncUJNOHFyajhrbmJ1Sm0zdl8xMG5Xemo1TFlLUHl2clVVb2hfQm42OTBMTDNjQWZUem95SFpMQ2kwalZZU29oN3JFcFE5R0Z2aHlKMldBZkFRQ3VKcUgxREk1eTM5STEtekhPUXBUT1JVcnJydFF5Yks4NkJCN2NmaUlMUV9Wb1puYlZaS1IzNU1VbDVBUQ?oc=5",
+      "dateLocation": "October 7, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Google Ordered to Suspend Finnish Data Center Work",
+      "whyItMatters": "Environmental compliance halts major tech infrastructure projects.",
+      "brief": "The Finnish Licensing and Supervision Agency ordered Google to halt construction on data center projects in Muhos and Kajaani until environmental impact assessments are satisfied.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-told-to-suspend-work-at-its-data-centers-in-texas-of-europe-company-admits-concerns-to-advance-biodiversity-plans-including-tree-plantings/articleshow/134769708.cms",
+      "dateLocation": "October 7, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India-Bound Sunflower Oil Cargoes Face Disruptions",
+      "whyItMatters": "Supply chain shocks threaten commodity availability and pricing.",
+      "brief": "India-bound sunflower oil shipments are confronting cancellations and severe delays as the ongoing war severely disrupts maritime and overland Russian export routes.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUIxOHZVSmFUOE1qbW90UWd4aHMzX0R4NFR3bUFqNVlfZTNtSGpJS3ByaGNoRmloQWFDUE9wSVpVV1pZTFktN2JIR0c3Z3l4aGx4aXZNVGx1cjlyOTJ2a3NDeEhRbHZKN0ZVaENSQ2tDbkx0NXlzNS1LbnVKRjRUcFBMVnkzQXJSQzQ5TjE5S08wMktGcXdmQjR0UXh4dmFlX0pnRDFEOGVRMHd3aFhMYmZiTmdIYU8wQkFBNTNFYnVDZ2NZamVqX3dyMA?oc=5",
+      "dateLocation": "October 7, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Federal Reserve Minutes Reveal Internal Policy Divisions",
+      "whyItMatters": "Uncertainty over monetary easing influences global financial markets.",
+      "brief": "Newly released Federal Reserve minutes show policymakers were deeply divided over the logic behind recent rate-hike decisions, reflecting ongoing ambiguity in future US monetary policy paths.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWc5YTdRc1hIb1hBUXdiRFY1YlZVQ2lOYTN1RVFIMUhBNDh3Q3M4NnJoRWI1Tzhxc255OHpHeS1TcjJSX1ZoTnNaWEo5VTBNQlJ5Q1pEWnFkSnhWSTlnYUtESFhJcnNZNVV0VkgycHZocFZFOU5hcVg1anpIUWtVckNscjJYeURiVmpIX293bTVteUFQNElQczlwcEJDOUZVbnFEc1p4eVQyVFJFWUZhbUc1ODlhSlViODdFTkJqTUNSbzkySGNR?oc=5",
-      "dateLocation": "Oct 7, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVl1b0t4RWF0WnFRODUzeHAydHMzOFl1U0lKbEhOa3ZSbG1GdDdubllBRG9raTZ0VllPeWJsUEFmOUlLaGZKYkd1QXo0dEFyUzZCUjdKM0NQeHdCeUZWU1hBcTBNaGJIaVJwVkluZ3Y0elloSXRyRHJkek1VdUxJdkV0NV8xSXJxUFdOVjBJVmFRcm5Na3M2ZGlodGdtcEk2NFlnWnZXVUNQSlJBUUFUSmJiOA?oc=5",
+      "dateLocation": "October 7, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "HSBC Plans Wealth Business Job Cuts in AI Push",
-      "whyItMatters": "Demonstrates rapid corporate restructuring driven by artificial intelligence integration.",
-      "brief": "HSBC is reportedly planning significant job cuts across its UK wealth management division as part of a wider strategic shift toward utilizing artificial intelligence.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjBjMnNYdjI5bzJVSHlZcU9KM1Rqci1HNXRlQlA1R3AzRjN5bkFRdzFzZU1JUTQ0OG9SeDY1ZWwyOHRwcGNjWERsYnBXVkJ3NFBNVHZUSENsVWt6b1kxckczejA0YlhobmVoX0wzYTZyM21RY09CWEhaajRSRkhja1NUTmx3VjhuMjZMUlBBeFM5aWNrREJqd0JjSjFSRWRjdTQ3NE92WEQzcjVnVWwyWmdGdXEyNlVa?oc=5",
-      "dateLocation": "Oct 7, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nobel Prize Awarded for Mirror-Image Molecules",
-      "whyItMatters": "Advances foundational chemistry with broad implications for pharmaceuticals and synthesis.",
-      "brief": "The Nobel Prize in Chemistry has been awarded to a pair of scientists who successfully solved the complex mystery of mirror-image molecules.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWHBIX2xmcllqcXMxOGEzOGJjMGhKT08wX2h1YkdmLXpOcXZobkVxal90dkpYMmFiQXRQRS13VWtJbE1rVklCOXljNzhUUW93bE9DMWo1YUl5OTllcFM4cHBFUnJlQXd4bURGMi1xTVFWam5UZnBCeVMza2wyVkZ5QXY1YzJhZkV2ZWpv?oc=5",
-      "dateLocation": "Oct 7, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Opposition MPs Detained During Delhi Protest March",
-      "whyItMatters": "Heightens political tensions surrounding election commission appointment controversies.",
-      "brief": "Senior opposition leaders including Rahul Gandhi were stopped and detained by security personnel in New Delhi during a planned protest march regarding the CEC appointment law row.",
+      "headline": "Opposition Protests Escalates Against Election Commission",
+      "whyItMatters": "Political friction heightens tensions ahead of upcoming state actions.",
+      "brief": "Opposition INDIA bloc members attempted high-profile protests in Delhi demanding the resignation of the Chief Election Commissioner, leading to brief detentions and political standoffs.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/cec-row-gyanesh-kumar-india-bloc-march-election-commission-sir-delhi-police-cjp-jantar-mantar-protest-live-updates-october-7-2026/article71554188.ece",
-      "dateLocation": "Oct 7, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/anit-cec-protests-opposition-police-face-off-again-rahul-says-wont-stop-till-gyanesh-quits/articleshow/134774462.cms",
+      "dateLocation": "October 7, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Rejects OIC Remarks on Jammu and Kashmir",
-      "whyItMatters": "Reinforces India's diplomatic stance against cross-border terrorism at the UN.",
-      "brief": "India strongly criticized the OIC at the United Nations for willful blindness, rejecting its commentary on Jammu and Kashmir while defending counter-terror operations.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/india-slams-oics-willful-blindness-at-un-defends-action-against-terror-infrastructure-in-pakistan-pok-11791363874618.html",
-      "dateLocation": "Oct 7, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Medical Trips Found Costliest Across Rural and Urban India",
+      "whyItMatters": "Out-of-pocket health expenses place massive financial burdens on households.",
+      "brief": "A comprehensive spending study reveals that health and medical journeys incur the highest per-capita expenses across both rural and urban Indian landscapes over a one-year cycle.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/medical-trips-costliest-in-both-rural-urban-areas/articleshow/134775105.cms",
+      "dateLocation": "October 7, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Multi-Storey Building Collapse in Delhi's Seemapuri",
-      "whyItMatters": "Raises urgent safety concerns over urban housing and emergency rescue readiness.",
-      "brief": "A four-storey residential building collapsed in East Delhi's Seemapuri area, prompting immediate emergency response deployments and intensive search operations for trapped victims.",
+      "headline": "Stiff Penalties and Safety Probes Follow Mid-Air Incident",
+      "whyItMatters": "Aviation security faces renewed scrutiny over cockpit vulnerabilities.",
+      "brief": "Following recent violent cockpit breaches, regional aviation authorities have initiated sweeping safety probes to evaluate severe security risks across commercial flight paths.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/flydubai-cockpit-attack-saudi-arabia-opens-aviation-safety-probe-to-examine-risks-after-mid-air-stabbing-11791389160894.html",
+      "dateLocation": "October 7, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Escalating Security Threats Drive Up Strait of Hormuz Risk Pay",
+      "whyItMatters": "Geopolitical maritime choke points jeopardize international oil trade.",
+      "brief": "Oil tanker captains are being offered hazard bonuses exceeding $100,000 to navigate the high-risk Strait of Hormuz amid escalating regional security threats and attacks.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/oil-tanker-captains-are-being-offered-over-100000-plus-bonuses-to-cross-strait-of-hormuz-as-iran-steps-up-attacks/articleshow/134760728.cms",
+      "dateLocation": "October 7, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tennis Stars Return to Action in Domestic League Circuits",
+      "whyItMatters": "Top-tier athletic events boost domestic sports engagement.",
+      "brief": "Veteran tennis players like Rohan Bopanna prepare for competitive action, lining up to represent regional franchises in upcoming professional league tournaments.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/tennis/rohan-bopanna-returns-to-action-will-represent-gurgaon-grand-slammers-in-tpl/article71557186.ece",
+      "dateLocation": "October 7, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Fenesta Open Tennis Championship Reaches Quarterfinal Stages",
+      "whyItMatters": "Youth talent rises as top seeds battle for championship spots.",
+      "brief": "The Fenesta Open saw dramatic upsets in early rounds as rising contenders advanced into the highly anticipated singles quarterfinals across various categories.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/tennis/karthik-upsets-kamboj-manish-vaidehee-reach-quarters-at-fenesta-open/article71557184.ece",
+      "dateLocation": "October 7, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Conservation Success Stories Bring Hope for Indian Wildlife",
+      "whyItMatters": "Targeted conservation science prevents endangered species from extinction.",
+      "brief": "Recent field metrics on India's endangered species demonstrate encouraging rebounds, underscoring the vital impact of sustained conservation biology and local action.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/opinion/lead/from-the-brink-to-a-comeback-hope-for-indias-wildlife/article71556672.ece",
+      "dateLocation": "October 7, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Multi-Storey Building Collapse in Delhi Triggers Rescue Ops",
+      "whyItMatters": "Urban safety standards remain under scrutiny following fatal structural failures.",
+      "brief": "A residential building collapse in East Delhi's Seemapuri left three people dead and several others injured, prompting emergency rescue operations and official probes.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-seemapuri-building-collapse-people-trapped-rescue-october-7-2026/article71555449.ece",
-      "dateLocation": "Oct 7, 2026 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/india/seemapuri-building-collapse-three-dead-including-pregnant-woman-and-child-eight-injured-in-delhi-everything-we-know-11791392072837.html",
+      "dateLocation": "October 7, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Unveils Vision for 2036 Olympic Bid",
-      "whyItMatters": "Marks a milestone national initiative to host the prestigious global sporting event.",
-      "brief": "India officially unveiled 'Rising Together', its comprehensive vision and roadmap for hosting the 2036 Olympic and Paralympic Games, ahead of key International Olympic Committee presentations.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/rising-together-india-unveils-vision-for-2036-olympics-bid-first-ioc-presentation-set-for-november/articleshow/134764649.cms",
-      "dateLocation": "Oct 7, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Under-20 Wrestlers Denied US Visas",
-      "whyItMatters": "Jeopardizes national representation at upcoming international world championships.",
-      "brief": "The Wrestling Federation of India has urged the US Embassy to review visa denials for young athletes scheduled to compete in the upcoming U23 World Championships.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/below-20-and-unemployed-indian-wrestlers-denied-us-visas-ahead-of-u23-world-championships-wfi-questions-decision/articleshow/134764777.cms",
-      "dateLocation": "Oct 7, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "GST Council Set to Discuss Compliance Reforms",
-      "whyItMatters": "Tax framework adjustments will streamline nationwide trade processes and compliance.",
-      "brief": "Tax experts and industry leaders expect upcoming GST Council discussions to focus heavily on improving bureaucratic processes and compliance standards rather than just rate adjustments.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/gst-council-meets-tomorrow-tax-experts-say-reforms-must-move-beyond-rates-to-processes-compliance/article71555446.ece",
-      "dateLocation": "Oct 7, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Chevron CEO Warns Against US Diesel Export Ban",
-      "whyItMatters": "Potential restrictions threaten to intensify existing global energy shortages.",
-      "brief": "Chevron CEO Mike Wirth cautioned that a prospective US diesel export ban would be unwise, potentially aggravating global fuel crunches and disrupting international supply chains.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/chevron-ceo-warns-unwise-us-diesel-export-ban-could-worsen-global-fuel-crunch-what-it-means-11791370993360.html",
-      "dateLocation": "Oct 7, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Lupin Launches COPD Triple Combo Inhaler in India",
-      "whyItMatters": "Enhances accessible respiratory treatment options for chronic pulmonary conditions.",
-      "brief": "Pharmaceutical major Lupin announced the launch of a fixed-dose triple combo inhaler designed to treat chronic obstructive pulmonary disease across India.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/lupin-launches-fixed-dose-triple-combo-inhaler-for-copd-in-india/article71552465.ece",
-      "dateLocation": "Oct 7, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "JNU Scientist's Work Key to Optogenetics Nobel",
-      "whyItMatters": "Highlights critical Indian scientific contributions to advanced neurological research.",
-      "brief": "Research conducted by a JNU scientist identifying early light-sensing genes laid foundational groundwork for optogenetics, recognized in the recent 2026 Nobel Prize announcements.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/nobel-prize-2026-how-jnu-scientist-suneel-kateriya-helped-lay-the-groundwork-for-optogenetics-11791363836146.html",
-      "dateLocation": "Oct 7, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sri Lanka Arrests Ex-First Lady in Graft Probe",
-      "whyItMatters": "Marks a high-profile corruption crackdown involving political elites in South Asia.",
-      "brief": "Sri Lankan authorities arrested former First Lady Shiranthi Rajapaksa amid an ongoing investigation into alleged misuse of charitable foundation funds.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/sri-lanka-arrests-ex-first-lady-in-charity-graft-probe/article71554550.ece",
-      "dateLocation": "Oct 7, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Relies on Air Power Against Afghanistan",
-      "whyItMatters": "Shifts tactical dynamics in regional border security confrontations.",
-      "brief": "Strategic analysts examine why Islamabad is heavily relying on targeted air power rather than ground troops in ongoing military engagements along the Afghan border.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-and-afghanistan-a-clash-of-unequals-but-why-is-islamabad-using-air-power-instead-of-ground-troops/articleshow/134764231.cms",
-      "dateLocation": "Oct 7, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Lightning Strike Damages IndiGo Flight Mid-Air",
+      "whyItMatters": "Severe weather hazards test aviation resilience and emergency responses.",
+      "brief": "An IndiGo flight carrying 110 passengers was struck by lightning at 17,000 feet, resulting in nose damage before landing safely at Lucknow airport with no injuries.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/indigo-flight-hit-by-lightning-at-17-000-feet-aircrafts-nose-damaged-all-110-on-board-safe-what-we-know-so-far-11791395052647.html",
+      "dateLocation": "October 7, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
