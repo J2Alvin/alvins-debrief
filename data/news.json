@@ -1,138 +1,147 @@
 {
-  "lastUpdated": "2026-10-08T04:23:34.008Z",
+  "lastUpdated": "2026-10-08T12:46:22.896Z",
   "ticker": [
-    "Gold prices recover as dollar rally stalls",
-    "Samsung flags $80 billion profit on AI boom",
-    "India joins global rate-tightening wave with hike",
-    "Oil rises amid Middle East supply concerns",
-    "Elon Musk alleges oligarch interference in Starlink India"
+    "GST Council scraps tax officer arrest powers",
+    "Saudi Arabia vows retaliation over Houthi drone strikes",
+    "India's Sensex slumps to 32-month low",
+    "Anne Carson wins 2026 Nobel Prize in Literature",
+    "El Nino weather pattern set to last until February 2027"
   ],
   "articles": [
     {
-      "headline": "Gold prices recover from two-month low",
-      "whyItMatters": "Signals shifts in global currency values and investor safe-haven demand.",
-      "brief": "Gold prices recovered from a two-month low as the recent dollar rally stalled across global currency markets.",
+      "headline": "GST Council Scraps Tax Officer Arrest Powers",
+      "whyItMatters": "Significantly eases compliance burdens and legal pressures on small businesses across India.",
+      "brief": "The GST Council has eliminated arrest powers for tax officers and raised the prosecution threshold to ₹5 crore, aiming to improve taxpayer relations and reduce harassment.",
       "category": "finance",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/gst-council-scraps-arrest-powers-of-gst-officers-ups-prosecution-threshold-to-5-crore/article71559868.ece",
+      "dateLocation": "Oct 8, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Sensex Slumps to 32-Month Low",
+      "whyItMatters": "Reflects growing investor anxiety amid rising oil prices and massive foreign capital outflows.",
+      "brief": "Indian benchmark indices hit a 32-month low driven by foreign institutional investors offloading shares and mounting global economic pressures.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5",
+      "dateLocation": "Oct 8, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saudi Arabia Vows Retaliation After Houthi Strikes",
+      "whyItMatters": "Escalates regional conflict and threatens critical energy supply routes in the Middle East.",
+      "brief": "Following airport attacks in Riyadh and Abha that left three dead, Saudi authorities have vowed that the Houthi strikes will not go unpunished.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/saudi-arabia-says-3-killed-in-airport-attacks-claimed-by-houthi-vows-strikes-will-not-go-unpunished-what-we-know-11791449885182.html",
+      "dateLocation": "Oct 8, 2026 | Riyadh, Saudi Arabia",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Anne Carson Wins 2026 Nobel Prize in Literature",
+      "whyItMatters": "Recognizes a monumental contemporary voice reshaping modern literary forms and classical traditions.",
+      "brief": "Canadian poet and writer Anne Carson has been awarded the 2026 Nobel Prize in Literature for her bold, inventive oeuvre blending poetry, essays, and ancient texts.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/world/who-is-anne-carson-canadian-writer-and-poet-wins-2026-nobel-prize-in-literature-for-her-bold-and-inventive-oeuvre-11791457494108.html",
+      "dateLocation": "Oct 8, 2026 | Stockholm, Sweden",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UN Weather Body Warns Intensifying El Nino",
+      "whyItMatters": "Poses severe long-term risks to global agriculture, weather stability, and economic growth through 2027.",
+      "brief": "The UN weather agency reports that the upcoming El Nino phenomenon is set to intensify significantly and persist until February 2027.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2plRUhDM1hJb1N1U0ZPRjZTcHkyWlFGenVOazljWGxhLVpGSXJrNVIzSlpWQm5LMzdFbWRPbGhwb1RXWVpYS2NubWR3MElkaFZfSE8xQ2xoa1pZc2hJZHVZOWxEUnRtbmZraG9KOV8zRGxyTlo1YUNEc0N1YTYtTUdaMGpWQzl6ODc0ejU2SEwxVkJ3M3B4N1kxUFN5N0gzbzNsLVVOZEIzRll6c29TYlZxcHF1QjYzYkRRSDNZb2I?oc=5",
+      "dateLocation": "Oct 8, 2026 | Geneva, Switzerland",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Dutch Firm Uses AI for Ukraine Drone Comms",
+      "whyItMatters": "Demonstrates the rapid evolution of autonomous combat systems and tactical AI in modern warfare.",
+      "brief": "A Netherlands-based defense firm has deployed AI systems to allow battlefield drones to communicate seamlessly amid heavy electronic jamming in Ukraine.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXZJQ083ancxS1lGeXhhV0w2Xy1CaU1md0IxdGlhdklJMnFpcUNfVW9jbjNIT3NxaVFVcHhIcTY1a1lHUUkwenkyQWdCMjBkeTliVkxKcGRzOGppNkhTZUJlbUtfZnRYTFNTb1dTWnAyb2Jua2YzeDVOTU9PS242dF9LUnZiaENXc2J6RDRnbHNUR0tYMHlYbVZsRG1xSXVSWXdwNnQ4TUc5b1FlbVFrbzJyTzltemo4YmtESk5GUHhoUi16b3c4WA?oc=5",
+      "dateLocation": "Oct 8, 2026 | The Hague, Netherlands",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sports Ministry to Review Asian Games Performance",
+      "whyItMatters": "Triggers administrative scrutiny over funding, athlete preparation, and systemic issues within Indian sports federations.",
+      "brief": "The Ministry of Youth Affairs and Sports will hold a comprehensive review on October 13 following India's underwhelming medal tally at the Asian Games.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/sports-ministry-federations-to-review-asian-games-performance-on-october-13-sources/articleshow/134789297.cms",
+      "dateLocation": "Oct 8, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Considers Delaying UPI Payment Fee Rollout",
+      "whyItMatters": "Protects digital adoption momentum by avoiding sudden transaction costs for millions of daily users.",
+      "brief": "Sources indicate that Indian authorities are weighing a delay on the implementation of proposed UPI merchant fees to sustain widespread digital payment adoption.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXQ2RUdRdjNlTzlXbUM5UDhtMWVLUXBNSVNfc2hjdlk0SDllV25Da3Radm9YeXE1bVBldFJyUTdkY3BkR1R5U3ZMbE5wcDJzRmZQcGRkQU5vWTZVTE1TTkhjVkEtWlo2Y1JyeG9ERks0MU9YRFhRR1hQdGF1LVRkQlJSdWVRZ2JUbnZTVlU3QzRLeHp0S3hPMVptbnhtLXNXdGJrUjYwTHcxVnVlb3pz?oc=5",
+      "dateLocation": "Oct 8, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Amazon Makes Fresh Job Cuts in Retail Division",
+      "whyItMatters": "Highlights ongoing corporate restructuring and efficiency drives among major global technology conglomerates.",
+      "brief": "Amazon has initiated another wave of layoffs primarily affecting its core retail division as part of continuous cost-optimization efforts.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLTElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc?oc=5",
+      "dateLocation": "Oct 8, 2026 | Seattle, United States",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Opposition Parties Stage Protest Against Election Commission",
+      "whyItMatters": "Deepens political polarization and raises institutional questions regarding the independence of electoral bodies.",
+      "brief": "INDIA bloc MPs and allied activists gathered for a sit-in protest at Raj Ghat amid ongoing controversies surrounding the Election Commission.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-india-bloc-congress-jantar-mantar-rahul-priyanka-gandhi-detention-cjp-protest-live-updates/article71558244.ece",
+      "dateLocation": "Oct 8, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Edges Up After Hitting Two-Month Low",
+      "whyItMatters": "Signals investor indecision as markets evaluate upcoming Federal Reserve interest rate trajectories.",
+      "brief": "Bullion prices recovered slightly following a two-month low as global traders parsed mixed economic signals concerning future US monetary policy.",
+      "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
-      "dateLocation": "October 8 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Amazon makes fresh job cuts in retail division",
-      "whyItMatters": "Highlights ongoing workforce optimization trends within major global tech giants.",
-      "brief": "Amazon has implemented fresh job cuts primarily affecting its core retail division as part of restructuring efforts.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc?oc=5",
-      "dateLocation": "October 8 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India joins global rate-tightening wave",
-      "whyItMatters": "Reflects central banks' aggressive monetary policy shifts to combat domestic inflation pressures.",
-      "brief": "India has implemented its first interest rate hike in nearly four years, joining the broader global tightening cycle.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlZCVTJBN0oxSFUtU3pHLXZBVzVpQVJfMXRkVnRMMWFXeUhrczVkVmRkelVJckVZOGc4QVZkVDBlSDRCVE1XMEJEUXBmWlVGaklQcDRxUTlFNVl0a3h6TlhqWmpVT1gyMmR4VTZtdmRWSTU3SUtPeGZPYndYdjlaVEsxWUdJU2U1RjhaS3Z2YU8xZ3lHbXVsaklld1hCTkRzS0lpTGJzcnJNX01TallDRQ?oc=5",
-      "dateLocation": "October 8 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oil rises amid Middle East supply concerns",
-      "whyItMatters": "Directly impacts global energy costs, inflation rates, and geopolitical stability.",
-      "brief": "Crude oil prices rose as persistence in Middle East supply concerns and shipping attacks threaten global energy flows.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
-      "dateLocation": "October 8 | Reuters",
+      "dateLocation": "Oct 8, 2026 | London, United Kingdom",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Samsung flags record $80 billion profit on AI",
-      "whyItMatters": "Demonstrates the immense commercial financial windfall driven by the global artificial intelligence boom.",
-      "brief": "Samsung has flagged an $80 billion profit driven by the AI boom, marking the highest quarterly profit for any tech company.",
+      "headline": "Goldman Sachs Warns AI Will Erase Middle Managers",
+      "whyItMatters": "Underscores disruptive workforce transformations where entry-level staff perform senior tasks instantly.",
+      "brief": "A new Goldman Sachs report highlights that generative AI adoption could significantly erode corporate middle management layers, shifting operational structures.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM00tZmVPZWtsRV9qcGV1VEtMajUtWXVxZlZVdU9HblZLWHBTZjNtQ0NuZHBJRjFOX2ktN0VkUmFERDBwNnhySHNPNTZ6bmZnZ08tTTN6WlhsMi1vR1Fnb2NBa2ZCZXNlcjRPOE1SVERxYnhJeGZmN0s1V0ZWWW4wSU45Z3gxRTBXZGVwRVpDX2F5Vm1aMzhDODI5cDFXU2RhX0pBOHpfeFNqNjg?oc=5",
-      "dateLocation": "October 8 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/ai-impact-on-middle-managers-goldman-sachs-ring-alarm-bells-as-freshers-could-do-senior-level-work-from-day-one/articleshow/134788076.cms",
+      "dateLocation": "Oct 8, 2026 | New York, United States",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Microsoft pushes AI vision with new expensive Surface",
-      "whyItMatters": "Shows how tech majors are aggressively embedding costly hybrid AI capabilities into everyday hardware.",
-      "brief": "Microsoft is pushing its hybrid AI vision forward by introducing new, high-end Surface laptops integrated with local intelligence.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop/article71558251.ece",
-      "dateLocation": "October 8 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Elon Musk alleges oligarch interference in Starlink India",
-      "whyItMatters": "Highlights regulatory hurdles and corporate friction surrounding satellite internet expansion in key emerging markets.",
-      "brief": "Elon Musk has alleged that local oligarchs are interfering with Starlink's regulatory path and launch plans in India.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/elon-musk-alleges-oligarch-interference-instarlinksindia-launch/article71557189.ece",
-      "dateLocation": "October 8 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rahul Gandhi detained over election chief protest",
-      "whyItMatters": "Intensifies political friction and opposition strategies against electoral administrative leadership in India.",
-      "brief": "Indian opposition lawmakers, including Rahul Gandhi, were detained for a second day during protests demanding the election chief's resignation.",
+      "headline": "India Denies Satcom Bias After Musk's Oligarch Jab",
+      "whyItMatters": "Addresses critical regulatory fairness concerns in the high-stakes satellite internet market.",
+      "brief": "The Indian government has rejected accusations of bias in satellite internet approvals following public remarks from billionaire Elon Musk.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2hRRWlPV2FhSmp3RjdPVFhVYUZwVzlNYkVQT1lnb1pBTmhJSEphd2ctNHZnSTV4Qzc1czQ3TnViZFhJWkFWaTB2cXJlQi1zc1pHV0RmNEFJc1NRa1RZNGUtVkN5NjI2MHJSLXBLdUVaQVlMNy1DTS1uSHA2c1V5LXpCOG1ma0xyWFF3RDFjUlBiTnc4S1RXdnpDQURKd21yNUliSFFKdThKX0toQjZsYnJsNzd0YVNWM2pfMFREcHk?oc=5",
-      "dateLocation": "October 8 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObXdIaGpBZjFZM0lBUzM0Rm41VUFScWFBSWxhMGVwdUlxRXJXdVU2aDNXZ1pLdF9rQzRVR1pkRkZtM0lNZnBnOHdIaTEzRUhHWXN5RmM0Zk1SZ3NnYWhjNTZQMmpTSTF3anBkMklPcEFIWmkySmpFZG1XZ1NIdVpDeERiTUF5SFRpYnJOU3RHUWJKeUgweDFfcEgwNGlROW9KbDFEZzdXajVrNFkwR19FOHVuWldPODFOWmNuYlczMzBrTjE0TmpVc0FuTQ?oc=5",
+      "dateLocation": "Oct 8, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump interrupted by protesters while rallying Texas voters",
-      "whyItMatters": "Demonstrates ongoing domestic electoral vulnerabilities and public backlash against political candidates.",
-      "brief": "Donald Trump faced vocal interruptions from protesters while campaigning for candidates in a high-stakes US Senate race.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/trump-interrupted-by-protesters-as-he-fights-to-rally-texas-voters-behind-paxton-in-us-senate-race/article71558298.ece",
-      "dateLocation": "October 8 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Bhuvneshwar Kumar's Remarkable Comeback Bid at 36",
+      "whyItMatters": "Showcases elite athletic longevity and disciplined physical transformation in modern cricket.",
+      "brief": "Veteran fast bowler Bhuvneshwar Kumar rebuilt his fitness regimen, cutting body fat significantly to earn a sensational return to India's T20I setup.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/six-hours-a-day-19-to-14-body-fat-inside-bhuvneshwar-kumars-bid-for-longevity-at-36/articleshow/134785793.cms",
+      "dateLocation": "Oct 8, 2026 | Bengaluru, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India plans subject-expert inspectors for homoeopathy",
-      "whyItMatters": "Strengthens regulatory oversight and manufacturing standards within alternative medicine pharmaceutical sectors.",
-      "brief": "India is rolling out plans to appoint specialized subject-expert inspectors for all homoeopathic medicine manufacturing units.",
+      "headline": "Russia Denies Siberian Lab Pneumonic Plague Outbreak",
+      "whyItMatters": "Allays international public health fears following isolated quarantine procedures at research facilities.",
+      "brief": "Russian health authorities have dismissed rumors of a pneumonic plague outbreak following a lab worker's death, with the WHO rating overall risks low.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india-homoeopathy-qualifications-drug-plant-inspectors-11791355477229.html",
-      "dateLocation": "October 8 | LiveMint",
+      "sourceUrl": "https://www.livemint.com/news/russia-suspected-pneumonic-plague-outbreak-what-we-know-explainer-who-siberian-lab-worker-global-monitoring-11791454916586.html",
+      "dateLocation": "Oct 8, 2026 | Moscow, Russia",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Christa Pike faces critical health issues in prison",
-      "whyItMatters": "Draws attention to the medical treatment and human rights conditions surrounding high-profile death row inmates.",
-      "brief": "Attorneys report that Christa Pike, who survived an execution attempt, is suffering from pneumonia and severe immobility.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/christa-pikes-health-status-woman-who-survived-execution-attempt-has-pneumonia-and-no-function-in-arms-11791421247782.html",
-      "dateLocation": "October 8 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Syria weighs military aid for Saudi Arabia",
-      "whyItMatters": "Marks a significant diplomatic realignment and security cooperation shift in the Middle East region.",
-      "brief": "Syria is considering providing military support and defensive expertise to Saudi Arabia to counter persistent Houthi attacks.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWZMNEFpTGtIVEhwLWJHUXdGdGliYUtUazZhMk1yd3RDLW9yZllOblA2U1BvLVZaN2pvejZpaWwwenF5MzhObG93NC1BYzJhVGdIelROY2VXSTF6RTJ3MDROSzVYMUVoUm9UMHdCcTZEbVBxODRVVEYxRGIxZWljUHdiSVJDcUxubndSdFM3RFdNYmZOWDdBZk1tdXgzVzRFTGZmWlZPeDZVOGtZUXNwaEFEVTZnMzMxclRZ?oc=5",
-      "dateLocation": "October 8 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan's terror monsters wreak havoc at home: India",
-      "whyItMatters": "Highlights ongoing cross-border security disputes and diplomatic tensions aired at global international forums.",
-      "brief": "India stated at the United Nations that extremist groups fostered by Pakistan are now wreaking havoc in its own backyard.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/pakistans-terror-monsters-now-wreak-havoc-in-its-own-backyard-india-at-un/articleshow/134778978.cms",
-      "dateLocation": "October 8 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hedgehogs and puffins replace historical figures on UK cash",
-      "whyItMatters": "Represents a major cultural and design overhaul for national currency symbols in the United Kingdom.",
-      "brief": "The Bank of England announced that historical figures like Winston Churchill will be replaced on banknotes by wildlife icons.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/hedgehog-wins-contest-to-replace-historical-figures-on-uk-cash-11791424427269.html",
-      "dateLocation": "October 8 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
