@@ -1,155 +1,137 @@
 {
-  "lastUpdated": "2026-10-07T22:39:17.845Z",
+  "lastUpdated": "2026-10-08T04:23:34.008Z",
   "ticker": [
-    "RBI hikes repo rate by 25 bps",
-    "Trump administration proposes $70k OPT fee",
-    "India and Canada back CEPA talks",
-    "Iran uranium enrichment focus intensifies",
-    "Global rate-tightening wave expands"
+    "Gold prices recover as dollar rally stalls",
+    "Samsung flags $80 billion profit on AI boom",
+    "India joins global rate-tightening wave with hike",
+    "Oil rises amid Middle East supply concerns",
+    "Elon Musk alleges oligarch interference in Starlink India"
   ],
   "articles": [
     {
-      "headline": "India Joins Global Rate-Tightening Wave With First Hike",
-      "whyItMatters": "Higher borrowing costs will impact consumer EMIs and economic growth.",
-      "brief": "The Reserve Bank of India raised the repo rate by 25 basis points to 5.5% amid rising inflation pressures, marking its first hike in nearly four years and increasing loan costs.",
+      "headline": "Gold prices recover from two-month low",
+      "whyItMatters": "Signals shifts in global currency values and investor safe-haven demand.",
+      "brief": "Gold prices recovered from a two-month low as the recent dollar rally stalled across global currency markets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+      "dateLocation": "October 8 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Amazon makes fresh job cuts in retail division",
+      "whyItMatters": "Highlights ongoing workforce optimization trends within major global tech giants.",
+      "brief": "Amazon has implemented fresh job cuts primarily affecting its core retail division as part of restructuring efforts.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc?oc=5",
+      "dateLocation": "October 8 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India joins global rate-tightening wave",
+      "whyItMatters": "Reflects central banks' aggressive monetary policy shifts to combat domestic inflation pressures.",
+      "brief": "India has implemented its first interest rate hike in nearly four years, joining the broader global tightening cycle.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlZCVTJBN0oxSFUtU3pHLXZBVzVpQVJfMXRkVnRMMWFXeUhrczVkVmRkelVJckVZOGc4QVZkVDBlSDRCVE1XMEJEUXBmWlVGaklQcDRxUTlFNVl0a3h6TlhqWmpVT1gyMmR4VTZtdmRWSTU3SUtPeGZPYndYdjlaVEsxWUdJU2U1RjhaS3Z2YU8xZ3lHbXVsaklld1hCTkRzS0lpTGJzcnJNX01TallDRQ?oc=5",
-      "dateLocation": "October 7, 2026 | Reuters",
+      "dateLocation": "October 8 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Administration Proposes Massive $70,000 OPT Fee",
-      "whyItMatters": "The steep cost threatens international student work opportunities in the US.",
-      "brief": "The Trump administration has proposed charging international students holding F-1 visas $70,000 for on-the-job training through Optional Practical Training to curb fraud.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/trump-administration-plans-to-charge-international-students-70000-for-work-authorisation/article71557192.ece",
-      "dateLocation": "October 7, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and Canada Advance Comprehensive Economic Partnership",
-      "whyItMatters": "Bilateral trade aims to hit CAD 70 billion by 2030.",
-      "brief": "Ahead of a planned prime ministerial visit, India and Canada are progressing through talks for a Comprehensive Economic Partnership Agreement to boost economic ties.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/with-pm-modi-set-to-visit-ottawa-india-canada-back-cepa/articleshow/134774751.cms",
-      "dateLocation": "October 7, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Scientists Create World's First Nuclear Clocks",
-      "whyItMatters": "Nuclear clocks offer unprecedented precision compared to atomic clocks.",
-      "brief": "Researchers in Vienna and Beijing have successfully developed the world's first nuclear clocks, a breakthrough that could revolutionize navigation, telecommunications, and fundamental physics research.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1FTSUp2ZFNWd1NVMW5pandncUJNOHFyajhrbmJ1Sm0zdl8xMG5Xemo1TFlLUHl2clVVb2hfQm42OTBMTDNjQWZUem95SFpMQ2kwalZZU29oN3JFcFE5R0Z2aHlKMldBZkFRQ3VKcUgxREk1eTM5STEtekhPUXBUT1JVcnJydFF5Yks4NkJCN2NmaUlMUV9Wb1puYlZaS1IzNU1VbDVBUQ?oc=5",
-      "dateLocation": "October 7, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Google Ordered to Suspend Finnish Data Center Work",
-      "whyItMatters": "Environmental compliance halts major tech infrastructure projects.",
-      "brief": "The Finnish Licensing and Supervision Agency ordered Google to halt construction on data center projects in Muhos and Kajaani until environmental impact assessments are satisfied.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-told-to-suspend-work-at-its-data-centers-in-texas-of-europe-company-admits-concerns-to-advance-biodiversity-plans-including-tree-plantings/articleshow/134769708.cms",
-      "dateLocation": "October 7, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India-Bound Sunflower Oil Cargoes Face Disruptions",
-      "whyItMatters": "Supply chain shocks threaten commodity availability and pricing.",
-      "brief": "India-bound sunflower oil shipments are confronting cancellations and severe delays as the ongoing war severely disrupts maritime and overland Russian export routes.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUIxOHZVSmFUOE1qbW90UWd4aHMzX0R4NFR3bUFqNVlfZTNtSGpJS3ByaGNoRmloQWFDUE9wSVpVV1pZTFktN2JIR0c3Z3l4aGx4aXZNVGx1cjlyOTJ2a3NDeEhRbHZKN0ZVaENSQ2tDbkx0NXlzNS1LbnVKRjRUcFBMVnkzQXJSQzQ5TjE5S08wMktGcXdmQjR0UXh4dmFlX0pnRDFEOGVRMHd3aFhMYmZiTmdIYU8wQkFBNTNFYnVDZ2NZamVqX3dyMA?oc=5",
-      "dateLocation": "October 7, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Federal Reserve Minutes Reveal Internal Policy Divisions",
-      "whyItMatters": "Uncertainty over monetary easing influences global financial markets.",
-      "brief": "Newly released Federal Reserve minutes show policymakers were deeply divided over the logic behind recent rate-hike decisions, reflecting ongoing ambiguity in future US monetary policy paths.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVl1b0t4RWF0WnFRODUzeHAydHMzOFl1U0lKbEhOa3ZSbG1GdDdubllBRG9raTZ0VllPeWJsUEFmOUlLaGZKYkd1QXo0dEFyUzZCUjdKM0NQeHdCeUZWU1hBcTBNaGJIaVJwVkluZ3Y0elloSXRyRHJkek1VdUxJdkV0NV8xSXJxUFdOVjBJVmFRcm5Na3M2ZGlodGdtcEk2NFlnWnZXVUNQSlJBUUFUSmJiOA?oc=5",
-      "dateLocation": "October 7, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Opposition Protests Escalates Against Election Commission",
-      "whyItMatters": "Political friction heightens tensions ahead of upcoming state actions.",
-      "brief": "Opposition INDIA bloc members attempted high-profile protests in Delhi demanding the resignation of the Chief Election Commissioner, leading to brief detentions and political standoffs.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/anit-cec-protests-opposition-police-face-off-again-rahul-says-wont-stop-till-gyanesh-quits/articleshow/134774462.cms",
-      "dateLocation": "October 7, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Medical Trips Found Costliest Across Rural and Urban India",
-      "whyItMatters": "Out-of-pocket health expenses place massive financial burdens on households.",
-      "brief": "A comprehensive spending study reveals that health and medical journeys incur the highest per-capita expenses across both rural and urban Indian landscapes over a one-year cycle.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/medical-trips-costliest-in-both-rural-urban-areas/articleshow/134775105.cms",
-      "dateLocation": "October 7, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Stiff Penalties and Safety Probes Follow Mid-Air Incident",
-      "whyItMatters": "Aviation security faces renewed scrutiny over cockpit vulnerabilities.",
-      "brief": "Following recent violent cockpit breaches, regional aviation authorities have initiated sweeping safety probes to evaluate severe security risks across commercial flight paths.",
+      "headline": "Oil rises amid Middle East supply concerns",
+      "whyItMatters": "Directly impacts global energy costs, inflation rates, and geopolitical stability.",
+      "brief": "Crude oil prices rose as persistence in Middle East supply concerns and shipping attacks threaten global energy flows.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/flydubai-cockpit-attack-saudi-arabia-opens-aviation-safety-probe-to-examine-risks-after-mid-air-stabbing-11791389160894.html",
-      "dateLocation": "October 7, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
+      "dateLocation": "October 8 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Escalating Security Threats Drive Up Strait of Hormuz Risk Pay",
-      "whyItMatters": "Geopolitical maritime choke points jeopardize international oil trade.",
-      "brief": "Oil tanker captains are being offered hazard bonuses exceeding $100,000 to navigate the high-risk Strait of Hormuz amid escalating regional security threats and attacks.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/oil-tanker-captains-are-being-offered-over-100000-plus-bonuses-to-cross-strait-of-hormuz-as-iran-steps-up-attacks/articleshow/134760728.cms",
-      "dateLocation": "October 7, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Samsung flags record $80 billion profit on AI",
+      "whyItMatters": "Demonstrates the immense commercial financial windfall driven by the global artificial intelligence boom.",
+      "brief": "Samsung has flagged an $80 billion profit driven by the AI boom, marking the highest quarterly profit for any tech company.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM00tZmVPZWtsRV9qcGV1VEtMajUtWXVxZlZVdU9HblZLWHBTZjNtQ0NuZHBJRjFOX2ktN0VkUmFERDBwNnhySHNPNTZ6bmZnZ08tTTN6WlhsMi1vR1Fnb2NBa2ZCZXNlcjRPOE1SVERxYnhJeGZmN0s1V0ZWWW4wSU45Z3gxRTBXZGVwRVpDX2F5Vm1aMzhDODI5cDFXU2RhX0pBOHpfeFNqNjg?oc=5",
+      "dateLocation": "October 8 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tennis Stars Return to Action in Domestic League Circuits",
-      "whyItMatters": "Top-tier athletic events boost domestic sports engagement.",
-      "brief": "Veteran tennis players like Rohan Bopanna prepare for competitive action, lining up to represent regional franchises in upcoming professional league tournaments.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/tennis/rohan-bopanna-returns-to-action-will-represent-gurgaon-grand-slammers-in-tpl/article71557186.ece",
-      "dateLocation": "October 7, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Microsoft pushes AI vision with new expensive Surface",
+      "whyItMatters": "Shows how tech majors are aggressively embedding costly hybrid AI capabilities into everyday hardware.",
+      "brief": "Microsoft is pushing its hybrid AI vision forward by introducing new, high-end Surface laptops integrated with local intelligence.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-pushes-ai-vision-with-new-expensive-surface-laptop/article71558251.ece",
+      "dateLocation": "October 8 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Fenesta Open Tennis Championship Reaches Quarterfinal Stages",
-      "whyItMatters": "Youth talent rises as top seeds battle for championship spots.",
-      "brief": "The Fenesta Open saw dramatic upsets in early rounds as rising contenders advanced into the highly anticipated singles quarterfinals across various categories.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/tennis/karthik-upsets-kamboj-manish-vaidehee-reach-quarters-at-fenesta-open/article71557184.ece",
-      "dateLocation": "October 7, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Elon Musk alleges oligarch interference in Starlink India",
+      "whyItMatters": "Highlights regulatory hurdles and corporate friction surrounding satellite internet expansion in key emerging markets.",
+      "brief": "Elon Musk has alleged that local oligarchs are interfering with Starlink's regulatory path and launch plans in India.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/elon-musk-alleges-oligarch-interference-instarlinksindia-launch/article71557189.ece",
+      "dateLocation": "October 8 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Conservation Success Stories Bring Hope for Indian Wildlife",
-      "whyItMatters": "Targeted conservation science prevents endangered species from extinction.",
-      "brief": "Recent field metrics on India's endangered species demonstrate encouraging rebounds, underscoring the vital impact of sustained conservation biology and local action.",
+      "headline": "Rahul Gandhi detained over election chief protest",
+      "whyItMatters": "Intensifies political friction and opposition strategies against electoral administrative leadership in India.",
+      "brief": "Indian opposition lawmakers, including Rahul Gandhi, were detained for a second day during protests demanding the election chief's resignation.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2hRRWlPV2FhSmp3RjdPVFhVYUZwVzlNYkVQT1lnb1pBTmhJSEphd2ctNHZnSTV4Qzc1czQ3TnViZFhJWkFWaTB2cXJlQi1zc1pHV0RmNEFJc1NRa1RZNGUtVkN5NjI2MHJSLXBLdUVaQVlMNy1DTS1uSHA2c1V5LXpCOG1ma0xyWFF3RDFjUlBiTnc4S1RXdnpDQURKd21yNUliSFFKdThKX0toQjZsYnJsNzd0YVNWM2pfMFREcHk?oc=5",
+      "dateLocation": "October 8 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump interrupted by protesters while rallying Texas voters",
+      "whyItMatters": "Demonstrates ongoing domestic electoral vulnerabilities and public backlash against political candidates.",
+      "brief": "Donald Trump faced vocal interruptions from protesters while campaigning for candidates in a high-stakes US Senate race.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-interrupted-by-protesters-as-he-fights-to-rally-texas-voters-behind-paxton-in-us-senate-race/article71558298.ece",
+      "dateLocation": "October 8 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India plans subject-expert inspectors for homoeopathy",
+      "whyItMatters": "Strengthens regulatory oversight and manufacturing standards within alternative medicine pharmaceutical sectors.",
+      "brief": "India is rolling out plans to appoint specialized subject-expert inspectors for all homoeopathic medicine manufacturing units.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/opinion/lead/from-the-brink-to-a-comeback-hope-for-indias-wildlife/article71556672.ece",
-      "dateLocation": "October 7, 2026 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/india-homoeopathy-qualifications-drug-plant-inspectors-11791355477229.html",
+      "dateLocation": "October 8 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Multi-Storey Building Collapse in Delhi Triggers Rescue Ops",
-      "whyItMatters": "Urban safety standards remain under scrutiny following fatal structural failures.",
-      "brief": "A residential building collapse in East Delhi's Seemapuri left three people dead and several others injured, prompting emergency rescue operations and official probes.",
+      "headline": "Christa Pike faces critical health issues in prison",
+      "whyItMatters": "Draws attention to the medical treatment and human rights conditions surrounding high-profile death row inmates.",
+      "brief": "Attorneys report that Christa Pike, who survived an execution attempt, is suffering from pneumonia and severe immobility.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/us-news/christa-pikes-health-status-woman-who-survived-execution-attempt-has-pneumonia-and-no-function-in-arms-11791421247782.html",
+      "dateLocation": "October 8 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Syria weighs military aid for Saudi Arabia",
+      "whyItMatters": "Marks a significant diplomatic realignment and security cooperation shift in the Middle East region.",
+      "brief": "Syria is considering providing military support and defensive expertise to Saudi Arabia to counter persistent Houthi attacks.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWZMNEFpTGtIVEhwLWJHUXdGdGliYUtUazZhMk1yd3RDLW9yZllOblA2U1BvLVZaN2pvejZpaWwwenF5MzhObG93NC1BYzJhVGdIelROY2VXSTF6RTJ3MDROSzVYMUVoUm9UMHdCcTZEbVBxODRVVEYxRGIxZWljUHdiSVJDcUxubndSdFM3RFdNYmZOWDdBZk1tdXgzVzRFTGZmWlZPeDZVOGtZUXNwaEFEVTZnMzMxclRZ?oc=5",
+      "dateLocation": "October 8 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan's terror monsters wreak havoc at home: India",
+      "whyItMatters": "Highlights ongoing cross-border security disputes and diplomatic tensions aired at global international forums.",
+      "brief": "India stated at the United Nations that extremist groups fostered by Pakistan are now wreaking havoc in its own backyard.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/seemapuri-building-collapse-three-dead-including-pregnant-woman-and-child-eight-injured-in-delhi-everything-we-know-11791392072837.html",
-      "dateLocation": "October 7, 2026 | Livemint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/pakistans-terror-monsters-now-wreak-havoc-in-its-own-backyard-india-at-un/articleshow/134778978.cms",
+      "dateLocation": "October 8 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Lightning Strike Damages IndiGo Flight Mid-Air",
-      "whyItMatters": "Severe weather hazards test aviation resilience and emergency responses.",
-      "brief": "An IndiGo flight carrying 110 passengers was struck by lightning at 17,000 feet, resulting in nose damage before landing safely at Lucknow airport with no injuries.",
+      "headline": "Hedgehogs and puffins replace historical figures on UK cash",
+      "whyItMatters": "Represents a major cultural and design overhaul for national currency symbols in the United Kingdom.",
+      "brief": "The Bank of England announced that historical figures like Winston Churchill will be replaced on banknotes by wildlife icons.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/indigo-flight-hit-by-lightning-at-17-000-feet-aircrafts-nose-damaged-all-110-on-board-safe-what-we-know-so-far-11791395052647.html",
-      "dateLocation": "October 7, 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/world/hedgehog-wins-contest-to-replace-historical-figures-on-uk-cash-11791424427269.html",
+      "dateLocation": "October 8 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
