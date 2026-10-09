@@ -1,137 +1,128 @@
 {
-  "lastUpdated": "2026-10-09T12:32:04.021Z",
+  "lastUpdated": "2026-10-09T22:12:50.937Z",
   "ticker": [
-    "Sensex soars 800 points after massive rout",
-    "Supreme Court intervenes in Delhi transport curbs",
-    "Navi Pillay wins 2026 Nobel Peace Prize",
-    "Apple cuts iPhone 18 Pro orders",
-    "India withdraws bank tax on bullion"
+    "Delhi Imposes Security Lockdown",
+    "US Sanctions ICC Judges",
+    "Elon Musk Targets Ambani",
+    "Madhya Pradesh OBC Quota Struck",
+    "Magnitude 7.6 Panama Quake"
   ],
   "articles": [
     {
-      "headline": "Indian shares rebound, snapping long losing streak",
-      "whyItMatters": "Marks a significant recovery for Indian stock markets after sustained losses.",
-      "brief": "Indian shares rose sharply, successfully ending their longest weekly losing streak seen in 25 years.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUlMb1g5cjVaX2pyT0FWTUJ1N2xGTXV0OVN2WkFRQ2R2RS1Fdkc4cmloUC1yNzRlR2pYcW1KOVNjTW1kbmVZbWRhal9WS0dwcU9IeUVvcmRXcTlNZ3V2d0pFYUZndExqNXpNdWltSEhSUjBYRGdmcFpjWVpHT0VUQ3FIV0Q0SUxVdG9mT2lMZzY5bWVhcE92TkR2aEVmajNPVWN1SjZidFlsX1hjM0xVQzJTdHQ?oc=5",
-      "dateLocation": "09 October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India withdraws bank tax benefit on bullion imports",
-      "whyItMatters": "Alters fiscal policies affecting gold, silver, and platinum trade.",
-      "brief": "The Indian government has officially withdrawn bank tax benefits previously applied to gold, silver, and platinum imports.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmU4eF9SMk8zdTl4VlRfT0phZUl0UW5aeUxMUkV4RGsyU1BFcllDV3NMYVBhYVpORUU0dU5OZzdnMFlIRDVqLS1TUVJVbG5UX1dPSjltYkh3U19lZmx5UnI3dzdzMmhhZzEtYXExTHNqSlFseDl6SlZvYkhBYVIwcUdPRzBTazBGb3JnZ0JnRUl4a0ViZERFeHp6UTJQZGw3TFVrRlF1dE0xNmJhOHc?oc=5",
-      "dateLocation": "09 October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple cuts iPhone 18 Pro orders due to demand",
-      "whyItMatters": "Reflects shifting consumer demand patterns for high-end flagship smartphones globally.",
-      "brief": "Apple has reportedly reduced its production orders for the iPhone 18 Pro by 20% due to soft market demand.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtS3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4X2llWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5",
-      "dateLocation": "09 October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "TCS margins steady despite heavy investments in AI",
-      "whyItMatters": "Shows major tech firms can balance aggressive artificial intelligence spending with stable margins.",
-      "brief": "Shares of India's TCS rose after reporting steady profit margins despite sustained strategic investments in artificial intelligence.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckdwSjZhV3lYaVBsMFlkbHZqbHg3ejNwLXJRTjJCRUxvQk5jUXlyQ3NybURhWGliZE5kY0JKaml3RU9TeHlUM1E3OWZIa2tfNUIzSVdrMHVpcFpOVnBtX1Zmb3FYejBuUW1qbW1FQnFLNDZOVldPOG45aEoyZGVkaloyVmg4SF9YN3pjU3Q3Uk5QZFRZX3pGenJmYTFPNGhYem51SG9Uc3paeG9QUGU5dlk3aXRua1ZQaTNfdXZB?oc=5",
-      "dateLocation": "09 October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court intervenes in Delhi transport shutdowns",
-      "whyItMatters": "Balances public safety and law enforcement with citizens' rights to public mobility.",
-      "brief": "The Supreme Court directed authorities not to completely shut down metro and rail networks ahead of political protests.",
+      "headline": "Thousands of Security Forces Deployed in Delhi for Protests",
+      "whyItMatters": "Highlights intense political friction and escalating security measures in the national capital.",
+      "brief": "Authorities have deployed thousands of security personnel in Delhi and suspended mobile internet in central areas ahead of planned opposition protests over the Chief Election Commissioner.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/no-complete-prohibition-sc-asks-centre-to-regulate-delhi-metro-other-public-transport-ahead-of-oct-10-protest-11791546741223.html",
-      "dateLocation": "09 October 2026 | LiveMint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3Y0OVJCem1ZWlNZeHdtdlBzUzBkOGI3My1pNUsxUmxveW5PS1NHamdnLWg1dUMtaXNXME9pLXR0ZVQ3WnlFY3lpSjBmMklvaV93ZkNlMl9SOUZqNUctTEtOTzRhbGhHOTNrSEdFY1g5cFhYODN0eWF3VUowT2JROW9BU3ppenZVQmtzbVNkaG9MMWFwekZ1Ry1PcHpMUmJpSWN3emt3NUNqb254VlBQdTZUbw?oc=5",
+      "dateLocation": "October 9, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ruling parties secure wins across regional bypolls",
-      "whyItMatters": "Indicates current voter sentiment and stability for incumbent regional political setups.",
-      "brief": "Bypoll election results show incumbent parties retaining strong influence across West Bengal, Tamil Nadu, Assam, and Puducherry.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bypoll-results-2026-ruling-parties-hold-sway-in-bengal-tamil-nadu-assam-and-puducherry/articleshow/134826011.cms",
-      "dateLocation": "09 October 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Navi Pillay wins the 2026 Nobel Peace Prize",
-      "whyItMatters": "Recognizes lifelong contributions to international law, human rights, and genocide prevention.",
-      "brief": "Indian-origin lawyer and former UN human rights chief Navanethem Pillay has been awarded the 2026 Nobel Peace Prize.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/who-is-navanethem-navi-pillay-india-origin-lawyer-wins-nobel-peace-prize-2026-her-career-key-achievements-icc-judge-gaza-11791536860368.html",
-      "dateLocation": "09 October 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Army chief considers splitting provinces",
-      "whyItMatters": "Could fundamentally reshape regional political power balances and military influence in South Asia.",
-      "brief": "Reports indicate that Pakistan Army chief Asim Munir may divide the country's four main provinces into multiple new entities.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/pakistan-may-split-4-provinces-into-12-15-why-asim-munir-wants-to-redraw-boundaries-and-what-it-means-11791540132591.html",
-      "dateLocation": "09 October 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India steps up national shipbuilding industry push",
-      "whyItMatters": "Aims to boost domestic heavy manufacturing, maritime security, and commercial independence.",
-      "brief": "India is advancing a major ₹70,000 crore support package to accelerate domestic vessel manufacturing and maritime competitiveness.",
+      "headline": "India Rejects Monopoly Allegation After Elon Musk's Attack",
+      "whyItMatters": "Exposes high-stakes corporate rivalry over India's lucrative satellite internet market entry.",
+      "brief": "New Delhi firmly rejected monopoly claims after Elon Musk accused billionaire Mukesh Ambani of unfairly blocking Starlink's licensing and market launch in India.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/if-there-s-a-good-time-it-is-now-former-shipping-secretary-on-india-s-shipbuilding-push-11791544472104.html",
-      "dateLocation": "09 October 2026 | LiveMint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEVyMm5IWVd1MWpWcERlbWVSUDQzTGNobTJfQkU2N3Z5MGZBTG1YMFVEcG1tbmowVXU0MFI2VHR5blJ5ZGFlMUFZY0ZNTzJ4bnRDTUZJQ1FGaXhiZk1YdjdyQml3M0U5SldubWpqNkJBRFNqUTBRZU5aRXBnUjJZRWFGZGVGTXBvMlVXYjBUSXdmTUpWZVNWMFMzdTlkQkFkRThpVUxJZG1oS2NRdW9yeXVSakRxWC1MS21LM21LdjJBeHVCXzF5Ynp5VW9QTFhWQkVjaw?oc=5",
+      "dateLocation": "October 9, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Aditya Birla unit seeks $1.5B loan for energy buy",
-      "whyItMatters": "Highlights aggressive corporate expansion into green energy and infrastructure sectors.",
-      "brief": "An Aditya Birla group company is seeking $1.5 billion in rupee loans to acquire Shell's arm Solenergi.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnVZWEJRVFBzT0I4Um1xQnE4UEY0eVg4emROS3VSNm9Rc1UtWndXa3JNa2NUWXdnZ01ZMS11MnJxUS1QUW9oM3N3aHFBLVBQWXJENWJXRzFrOXl4MHdDWDBiT0hObEhiVktWa2lJUmNyUXVtdkhPRlY1ZUN6aGF4a0gyWXRWb2FROUVDMnNOWWY3RjJqM3IzMEQ3R1l3WmpvYWVYMFliZkN2dzNrWkpUaTdYSkpWNFlibldB?oc=5",
-      "dateLocation": "09 October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Imposes Sudden Sanctions on International Criminal Court",
+      "whyItMatters": "Marks a drastic escalation in diplomatic tensions between Washington and international judicial bodies.",
+      "brief": "The United States has imposed direct sanctions on the International Criminal Court just hours after a former judge won the prestigious Nobel Peace Prize.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+      "dateLocation": "October 9, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Kumkum Mohod triumphs at Asian Games archery",
-      "whyItMatters": "Secures an important historic Olympic quota and marks a shift in international archery dominance.",
-      "brief": "Kumkum Mohod won gold in the individual recurve event at the Asian Games, breaking South Korea's long-standing stranglehold.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/olympic-gold-jeetna-hai-kumkum-mohods-big-dream-after-ending-koreas-stranglehold-in-archery-at-asian-games-2026/articleshow/134831669.cms",
-      "dateLocation": "09 October 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Apple Cuts iPhone 18 Pro Production Over Soft Demand",
+      "whyItMatters": "Signals weakening consumer appetite for high-end smartphones in key global markets.",
+      "brief": "Industry reports reveal that Apple has scaled back initial manufacturing orders for the iPhone 18 Pro following surprisingly soft early consumer demand.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtT3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4X2llWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5",
+      "dateLocation": "October 9, 2026 | Tokyo",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Compound archery coach raises salary delay concerns",
-      "whyItMatters": "Exposes persistent administrative bottlenecks facing elite athletes and coaching staff in India.",
-      "brief": "Despite historic medal wins and securing an Olympic quota, India's compound archery coach has spoken out over unpaid salaries.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/historic-olympic-quota-multiple-medals-but-no-salary-indias-compound-archery-coach-unhappy-over-payment-delay/articleshow/134832852.cms",
-      "dateLocation": "09 October 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Lessor Avolon Places Massive Boeing and Airbus Jet Order",
+      "whyItMatters": "Demonstrates robust long-term confidence in commercial aviation expansion despite global economic headwinds.",
+      "brief": "Global aircraft lessor Avolon has placed a landmark order for 250 jets split between Boeing and Airbus, alongside options for 100 additional aircraft.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdko1U3lqODlKNXRDOHBrNndRT2J1RGVFVjhUY3QyM0g0MWt0RmtxTUVMdGtNYzJFNUI0eDZxQjJ2YkFQN1ZyZlZxLW9JbnlEUHZmUHdmQ1BJLVdwVE1Vb1phd05YX2VkX0RUWWlVR0hmNGxpcG1yY0lMajE2YUF3ZGdNc2JvWGhHVnl2eElUSlh5MDJvUm1KNjNvWU9ZSUpCc2gzVk9oaGdwSWVzMWNWLVlZZndNTVNad2dpNHd1SUNqMzdqTmc?oc=5",
+      "dateLocation": "October 9, 2026 | Dublin",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BeCaprio launch $200M initiative for endangered species",
-      "whyItMatters": "Provides vital private funding to curb rapid global biodiversity loss and protect vulnerable wildlife habitats.",
-      "brief": "Jeff Bezos and Leonardo DiCaprio have unveiled a $200 million project to protect 100 of the world's most endangered species.",
+      "headline": "High Court Strikes Down Madhya Pradesh 27% OBC Quota Law",
+      "whyItMatters": "Delivers a major legal setback to state-level reservation policies and unreserved student petitioners.",
+      "brief": "The Madhya Pradesh High Court formally struck down the state's 27 percent OBC reservation law, declaring the 2019 amendment act unconstitutional following years of litigation.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/hc-strikes-down-madhya-pradeshs-27-obc-quota-law-calls-it-unconstitutional/article71565305.ece",
+      "dateLocation": "October 9, 2026 | Bhopal",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Magnitude 7.6 Earthquake Strikes Off Panama Coast",
+      "whyItMatters": "Triggers immediate tsunami protocols and raises fears of regional coastal devastation.",
+      "brief": "A powerful magnitude 7.6 earthquake has struck off the southern coast of Panama, prompting regional authorities to issue immediate tsunami warnings.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-and-leonardo-dicaprio-launched-200-million-project-to-save-100-of-earths-most-threatened-species-from-lemurs-salamanders-to-pangolins/articleshow/134829652.cms",
-      "dateLocation": "09 October 2026 | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/magnitude-8-earthquake-strikes-off-panamas-southern-coast-tsunami-warning-issued/articleshow/134840984.cms",
+      "dateLocation": "October 9, 2026 | Panama City",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IMD predicts widespread rainfall across India",
-      "whyItMatters": "Impacts agricultural planning, water reservoirs, and daily logistics across multiple regions.",
-      "brief": "The India Meteorological Department forecasts continuous rainfall across north-western, central, eastern, and southern regions through October 15.",
+      "headline": "Trump Launches Fresh Legal Bid to Remove Fed Governor Cook",
+      "whyItMatters": "Escalates political conflict over the institutional independence of the US central bank.",
+      "brief": "Donald Trump has initiated a renewed push to oust Federal Reserve Governor Lisa Cook, scheduling a high-stakes White House hearing for November 5.",
+      "sports": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-launches-fresh-bid-to-remove-fed-governor-lisa-cook-white-house-hearing-scheduled-for-november-5-11791575123756.html",
+      "dateLocation": "October 9, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Claims Strike on LPG Tanker in Hormuz Strait",
+      "whyItMatters": "Threatens vital global energy supply routes and intensifies Middle East maritime conflicts.",
+      "brief": "Iran's Revolutionary Guards claimed responsibility for striking an LPG tanker allegedly taking an illegal route through the strategic Strait of Hormuz.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/iran-says-it-hit-lpg-tanker-taking-illegal-route-through-hormuz-what-we-know-about-nv-sunshine-and-ship-fire-off-uae-11791561482963.html",
+      "dateLocation": "October 9, 2026 | Tehran",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "GST Council Proposes 2% TDS on Scrap Metal Deals",
+      "whyItMatters": "Aims to plug massive tax leakages within the unorganized secondary metal recycling sector.",
+      "brief": "The Goods and Services Tax Council has officially proposed a 2 percent tax deducted at source framework specifically targeted at scrap metal transactions.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/gst-council-proposes-2-tds-on-scrap-deals/articleshow/134840930.cms",
+      "dateLocation": "October 9, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "EY Data Breach Puts Big Four Security Under Scrutiny",
+      "whyItMatters": "Undermines corporate trust in the cybersecurity frameworks of major global auditing firms.",
+      "brief": "A major data breach at professional services giant EY has triggered intense corporate demands for tighter information security controls across the Big Four.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/ey-data-breach-puts-spotlight-on-data-security-at-big-four-as-clients-demand-tighter-controls/articleshow/134840789.cms",
+      "dateLocation": "October 9, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Withdraws Tax Benefit on Precious Metal Imports",
+      "whyItMatters": "Removes key fiscal incentives for banks trading in physical gold, silver, and platinum.",
+      "brief": "The Indian government has officially withdrawn favorable bank tax benefits applicable on commercial imports of gold, silver, and platinum.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmU4eF9SMk8zdTl4VlRfT0phZUl0UW5aeUxMUkV4RGsyU1BFcllDV3NMYVBhYVpORUU0dU5OZzdnMFlIRDVqLS1TUVJVbG5UX1dPSjltYkh3U19lZmx5UnI3dzdzMmhhZzEtYXExTHNqSlFseDl6SlZvYkhBYVIwcUdPRzBTazBGb3JnZ0JnRUl4a0ViZERFeHp6UTJQZGw3TFVrRlF1dE0xNmJhOHc?oc=5",
+      "dateLocation": "October 9, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Railways Warns Passengers Against Playing Loud Music On Trains",
+      "whyItMatters": "Seeks to improve commuter comfort and enforce public civic decorum during long-distance rail journeys.",
+      "brief": "Indian Railways has issued a strict warning stating legal action will be taken against passengers playing audio or video on speaker mode.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/rain-to-continue-across-parts-of-india-until-15-october-imd-11791542963210.html",
-      "dateLocation": "09 October 2026 | LiveMint",
+      "sourceUrl": "https://www.thehindu.com/news/national/railways-warns-action-against-passengers-playing-loud-music-in-trains/article71564211.ece",
+      "dateLocation": "October 9, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
