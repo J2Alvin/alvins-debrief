@@ -1,137 +1,128 @@
 {
-  "lastUpdated": "2026-10-08T22:51:00.746Z",
+  "lastUpdated": "2026-10-09T04:27:48.658Z",
   "ticker": [
-    "US sanctions Mumbai firms over Iran oil trade",
-    "GST Council scraps tax officers' arrest powers",
-    "Elon Musk questions India's telecom regulatory hurdles",
-    "Sensex slumps to 32-month low amid foreign exodus",
-    "Supreme Court orders fresh polls in Punjab wards"
+    "US suspends PERM green card program for major IT firms",
+    "Oil falls as Trump comments on Iran talks ease supply concerns",
+    "India's Sensex slumps to 32-month low amid foreign exodus",
+    "Meta bans TikTok advertisements across platforms in the United States",
+    "Lufthansa and Indian airlines suspend Riyadh flights after attacks"
   ],
   "articles": [
     {
-      "headline": "US Sanctions Mumbai Firms in Iran Oil Crackdown",
-      "whyItMatters": "Escalates trade tensions and targets key supply routes.",
-      "brief": "The US government sanctioned two Mumbai-based companies and five individuals for allegedly violating oil trade restrictions against Iran.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/operation-economic-outcast-us-sanctions-two-mumbai-firms-five-indians-over-alleged-iran-oil-trade/articleshow/134800174.cms",
-      "dateLocation": "2026-10-08 | New Delhi / Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Airlines Hike Fuel Surcharges Amid Soaring ATF Prices",
-      "whyItMatters": "Increases travel costs for millions during the festive season.",
-      "brief": "Major airlines have raised fuel surcharges as aviation turbine fuel prices surge globally, driven by ongoing geopolitical conflicts and oil supply pressures.",
+      "headline": "US Suspends PERM Green Card Programme for Major IT Firms",
+      "whyItMatters": "Impacts thousands of skilled professionals and workforce strategies for top global IT companies.",
+      "brief": "The Trump administration has suspended the Permanent Labour Certification Programme, affecting major tech giants like Infosys, TCS, Wipro, and Microsoft while sparking debate over immigration pathways.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/festive-rush-airlines-hike-fuel-surcharge-as-atf-prices-soar/articleshow/134799281.cms",
-      "dateLocation": "2026-10-08 | Mumbai",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/8-it-firms-including-tcs-infosys-microsoft-wipro-suspended-from-us-green-card-programme-perm-how-does-it-hit-indian-professionals/articleshow/134803978.cms",
+      "dateLocation": "October 9, 2026 | Washington / New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "GST Council Overhauls Rules and Scraps Arrest Powers",
-      "whyItMatters": "Major compliance relief for businesses and employers across India.",
-      "brief": "The GST Council introduced sweeping reforms, eliminating tax officers' arrest powers, streamlining refund processes, and expanding input tax credits for employee health insurance.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gst-council-scraps-tax-officers-arrest-powers-eases-refund-rules/articleshow/134800724.cms",
-      "dateLocation": "2026-10-08 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Labour Department Alleges $22 Billion Visa Fraud",
+      "whyItMatters": "Places major Indian IT outsourcing firms under intense regulatory and legal scrutiny.",
+      "brief": "US authorities have launched a massive $22 billion visa fraud claim targeting prominent technology firms, potentially reshaping cross-border deployment models.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/nri/latest-updates/22-billion-visa-fraud-us-labour-depts-explosive-claim-puts-infosys-tcs-wipro-in-the-crosshairs/articleshow/134795634.cms",
+      "dateLocation": "October 9, 2026 | Washington",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Suspends Microsoft and Indian IT Firms From Green Cards",
-      "whyItMatters": "Impacts foreign talent retention and major tech employer immigration pipelines.",
-      "brief": "The White House suspended Microsoft and several Indian IT firms from the PERM program, alleging misuse of foreign worker systems at the expense of local labor.",
+      "headline": "Meta Bans TikTok Ads Across All Platforms in US",
+      "whyItMatters": "Intensifies competition and digital advertising restrictions between major social media behemoths.",
+      "brief": "Meta has officially banned TikTok advertisements across its network in the United States, marking a significant escalation in corporate rivalry.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/what-is-perm-why-trump-suspended-microsoft-and-indian-it-firms-from-green-card-programme-11791492807330.html",
-      "dateLocation": "2026-10-08 | Washington",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFlfTjhMRWZPWEhDVF9mcGQ1VEY2aWVLMThVLUJaVmNWUzdwV09KTWlDN0E4Rm5IRHFyME1QN01fczZFSGdDbVBsYnh3dDJTdFlfTkczM1NreS11VjJ2QWVFbnV2eU1EMDNWZHl5X2h4WV9SN3FFRUJBaHpzUng2VlhKemtnUnJEblBpajF5U0FCWmdFLWR6azJ0aDB5bEhUdVJHc0g1dVNYY0NZYVdyaU9UOE12SUFDQmpB?oc=5",
+      "dateLocation": "October 9, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Orders Fresh Polls in Punjab Wards",
-      "whyItMatters": "Upholds electoral integrity following proven nomination obstructions.",
-      "brief": "The Supreme Court set aside municipal ward elections in Punjab and ordered fresh polls after an inquiry panel confirmed systemic nomination obstructions.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/sc-sets-aside-polls-in-50-punjab-municipal-wards-orders-fresh-elections-after-panel-finds-nomination-obstruction/articleshow/134798857.cms",
-      "dateLocation": "2026-10-08 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI Issues Notices Over Misleading Protein Claims",
-      "whyItMatters": "Protects consumer health through stricter nutritional advertising compliance.",
-      "brief": "The Food Safety and Standards Authority of India flagged major health brands and e-commerce platforms over non-compliant and misleading supplement advertisements.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/fssai-send-notices-to-dr-reddys-nestle-health-science-amazon-flipkart-over-misleading-protein-supplement-11791479386322.html",
-      "dateLocation": "2026-10-08 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Para Asian Games Contingent Receives Warm Send-Off",
-      "whyItMatters": "Boosts national sports morale and international representation.",
-      "brief": "Union ministers and sports officials gave a grand send-off to India's Para Asian Games contingent, unveiling the new official team jersey in New Delhi.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-gets-warm-send-off-mandaviya-launches-new-jersey/articleshow/134784590.ece",
-      "dateLocation": "2026-10-08 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AI Regulations Consultation Paper Expected Within Month",
-      "whyItMatters": "Establishes critical legal frameworks for safety and deepfake moderation.",
-      "brief": "Union Minister Ashwini Vaishnaw announced that India will release a comprehensive consultation paper on AI regulations focusing heavily on deepfakes and algorithmic safety.",
+      "headline": "OpenAI Fired Researchers Accuse Leadership of Chilling Safety",
+      "whyItMatters": "Raises ongoing ethical concerns regarding commercial pressures overshadowing AI safety protocols.",
+      "brief": "Departed researchers at OpenAI have publicly claimed they were terminated for prioritizing long-term artificial intelligence safety over corporate financial interests.",
       "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/ai-regulations-consultation-paper-in-a-month-safety-deepfakes-among-key-focus-areas-says-vaishnaw/articleshow/134799105.ece",
-      "dateLocation": "2026-10-08 | New Delhi",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/fired-researchers-accuse-openai-of-chilling-safety-efforts/article71562463.ece",
+      "dateLocation": "October 9, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Sensex Plunges to 32-Month Low Amid Foreign Exodus",
-      "whyItMatters": "Reflects deep macroeconomic stress from soaring oil prices and capital flight.",
-      "brief": "Indian equity benchmarks slumped to a 32-month low as aggressive foreign institutional investor sell-offs combined with surging global crude prices.",
+      "headline": "India's Sensex Slumps to 32-Month Low on Oil Surge",
+      "whyItMatters": "Reflects growing macroeconomic instability driven by soaring energy costs and foreign investor sell-offs.",
+      "brief": "Benchmark Indian indices plummeted to a 32-month low, pressured by surging global crude oil prices and a sustained foreign capital exodus.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5",
-      "dateLocation": "2026-10-08 | Mumbai",
+      "dateLocation": "October 9, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Elon Musk Questions Regulatory Hurdles for Starlink Entry",
-      "whyItMatters": "Sparks intense debate over telecommunications market access and fair competition.",
-      "brief": "Elon Musk publicly questioned regulatory delays for Starlink's entry into India, prompting a firm government rebuttal that all satellite operators must follow uniform rules.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/stralinks-india-entry-row-is-ambani-the-real-boss-of-india-asks-elon-musk/articleshow/134800745.cms",
-      "dateLocation": "2026-10-08 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "American Express Fined $350 Million for AML Failures",
+      "whyItMatters": "Highlights tightening global regulatory enforcement on financial institutions' compliance programs.",
+      "brief": "American Express received a hefty $350 million penalty due to deficiencies in its anti-money laundering compliance framework.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON19QTUN4TUw1ODhFX3VQbEY0WDdpXzdvM3lwSl9tS3Z5QWtWQnliOUhuYV9tckxFWmJVRmFxejVvUVNob19tdURJQ2xxdDEwUm1HVzFZakNDMmVrT1R5MV9xZmVIUlNiTVE0OEFMUlozZEszQi1jbjhQbHVaYU11eHBzVU9ITllPRlhVUUNTZkJJVl91VHJwbFdrOWZVNGdrQ3FLNjg2RWw1WGhLMEdValdSY3RQTFNra3U0ZG8yU2h3eWc?oc=5",
+      "dateLocation": "October 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Directs Panel to Curb Pharma Freebies",
-      "whyItMatters": "Targets unethical marketing practices within the healthcare sector.",
-      "brief": "The Supreme Court ordered the formation of a dedicated committee to monitor and strictly curb pharmaceutical companies from offering freebies to medical practitioners.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/form-panel-to-curb-pharma-freebies-sc/articleshow/134798844.ece",
-      "dateLocation": "2026-10-08 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Lufthansa and Indian Carriers Suspend Riyadh Flights",
-      "whyItMatters": "Disrupts regional connectivity due to immediate security threats.",
-      "brief": "Multiple international airlines, including Lufthansa and Indian carriers, suspended flights to Riyadh following escalating Houthi militant attacks targeting regional infrastructure.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXd3SHFQR3NWbldRVWo1OVQtajAyZVYtRzNYcmFzZTR3X2pMaDEzTXJKX3R4aUNPNW9fOEhUalZkVnR3LWtKRWM3VDVqelA0M1QtRlFNOE45ZG16VFVIN0JrbHFQSDFFd0N1OEM5Z3FMS0tnVDJvaEZXSjhSYUVsVWJGWXpBdTdVSjZrVVBEc3JCUzFDQXM4Y2ZjYUpHTWlIb2VtUGFlOWs2djlQYUFZLUZ1X0hSZFJ0?oc=5",
-      "dateLocation": "2026-10-08 | Riyadh / New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Air Force Celebrates 94th Anniversary at Hindon",
-      "whyItMatters": "Showcases India's defense modernization and operational preparedness.",
-      "brief": "The Indian Air Force marked its 94th anniversary with aerial displays at Hindon Air Station, emphasizing joint theater operations and modern tactical capabilities.",
+      "headline": "Meloni Overhauls Italian Electoral System with Proportional Rule",
+      "whyItMatters": "Significantly alters Italy's political landscape and government stability dynamics.",
+      "brief": "Lawmakers approved a sweeping electoral overhaul scrapping first-past-the-post seats in favor of proportional representation with bonus seat guarantees for winning coalitions.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/from-19-havai-sepoys-to-a-formidable-air-force-in-the-world-iaf-celebrates-its-94-year-old-glorious-journey/articleshow/134800442.cms",
-      "dateLocation": "2026-10-08 | Ghaziabad",
+      "sourceUrl": "https://www.thehindu.com/news/international/melonis-overhaul-of-italian-electoral-system-explained/article71562529.ece",
+      "dateLocation": "October 9, 2026 | Rome",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Lando Norris Expresses Desire to Race in India",
-      "whyItMatters": "Revives motorsport enthusiasm as India explores Grand Prix returns.",
-      "brief": "F1 driver Lando Norris stated his strong desire to race in India as government task forces actively evaluate reviving the Formula 1 Grand Prix.",
+      "headline": "Massive Detentions Across India Ahead of Delhi Protest",
+      "whyItMatters": "Escalates political tensions regarding civil liberties and opposition demonstrations.",
+      "brief": "Authorities have detained thousands of individuals across India in response to planned civil protests against election commission controversies.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/this-is-emergency-10000-detained-across-india-ahead-of-delhis-jantar-mantar-stir-says-cjp/articleshow/134804107.cms",
+      "dateLocation": "October 9, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Falls as Trump Comments on Iran Ease Supply Fears",
+      "whyItMatters": "Provides temporary relief to global energy markets rattled by Middle East geopolitical risks.",
+      "brief": "Crude prices retreated after recent remarks regarding diplomatic talks with Iran helped mitigate immediate supply disruption concerns.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+      "dateLocation": "October 9, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Lufthansa and Indian Airlines Suspend Flights to Riyadh",
+      "whyItMatters": "Demonstrates direct regional security repercussions affecting international aviation routes.",
+      "brief": "Major carriers including Lufthansa have suspended flights to Riyadh following recent Houthi militant attacks in the region.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXd3SHFQR3NWbldRVWo1OVQtajAyZVYtRzNYcmFzZTR3X2pMaDEzTXJKX3R4aUNPNW9fOEhUalZkVnR3LWtKRWM3VDVqelA0M1QtRlFNOE45ZG16VFVIN0JrbHFQSDFFd0N1OEM5Z3FMS0tnVDJvaEZXSjhSYUVsVWJGWXpBdTdVSjZrVVBEc3JCUzFDQXM4Y2ZjYUpHTWlIb2VtUGFlOWs2djlQYUFZLUZ1X0hSZFJ0?oc=5",
+      "dateLocation": "October 9, 2026 | Frankfurt / New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mystery Shrouds Russian Lab Technician's Plague Death",
+      "whyItMatters": "Raises biosecurity anxieties regarding research facility safety protocols and communicable outbreaks.",
+      "brief": "Russian authorities confirmed the death of a laboratory worker from pneumonic plague at a specialized research institute, sparking local unease.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/world/not-like-coronavirus-mystery-shrouds-russian-lab-technician-s-death-some-residents-fear-plague-others-remain-calm-11791514800296.html",
+      "dateLocation": "October 9, 2026 | Irkutsk",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Texas Teen Builds Aquatic Robot to Restore Pond Ecosystems",
+      "whyItMatters": "Showcases innovative youth-led environmental engineering solutions for local water conservation.",
+      "brief": "A Texas seventh-grader has designed and deployed an aquatic robot to sample pond water and analyze oxygen levels to preserve wildlife habitats.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meet-caden-terence-pohlkamp-a-teenager-from-texas-who-built-an-aquatic-robot-to-save-fish-and-other-aquatic-life-in-ponds-across-the-state/articleshow/134804987.cms",
+      "dateLocation": "October 9, 2026 | Texas",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "South Africa Broadcaster Takes Dig at Australia Over Sandpapergate",
+      "whyItMatters": "Amplifies sporting rivalry and historical tensions ahead of an anticipated cricket Test series.",
+      "brief": "Broadcaster SuperSport released promotional jabs referencing the 2018 ball-tampering scandal ahead of Australia's cricket tour of South Africa.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/motorsport/indians-love-formula-1-would-love-to-race-there-lando-norris/articleshow/13481605.ece",
-      "dateLocation": "2026-10-08 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/our-cameras-will-be-sharp-broadcaster-takes-a-dig-at-australia-over-sandpapergate/articleshow/134804369.cms",
+      "dateLocation": "October 9, 2026 | Durban",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
