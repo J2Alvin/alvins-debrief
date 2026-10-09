@@ -1,129 +1,138 @@
 {
-  "lastUpdated": "2026-10-09T04:27:48.658Z",
+  "lastUpdated": "2026-10-09T12:32:04.021Z",
   "ticker": [
-    "US suspends PERM green card program for major IT firms",
-    "Oil falls as Trump comments on Iran talks ease supply concerns",
-    "India's Sensex slumps to 32-month low amid foreign exodus",
-    "Meta bans TikTok advertisements across platforms in the United States",
-    "Lufthansa and Indian airlines suspend Riyadh flights after attacks"
+    "Sensex soars 800 points after massive rout",
+    "Supreme Court intervenes in Delhi transport curbs",
+    "Navi Pillay wins 2026 Nobel Peace Prize",
+    "Apple cuts iPhone 18 Pro orders",
+    "India withdraws bank tax on bullion"
   ],
   "articles": [
     {
-      "headline": "US Suspends PERM Green Card Programme for Major IT Firms",
-      "whyItMatters": "Impacts thousands of skilled professionals and workforce strategies for top global IT companies.",
-      "brief": "The Trump administration has suspended the Permanent Labour Certification Programme, affecting major tech giants like Infosys, TCS, Wipro, and Microsoft while sparking debate over immigration pathways.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/8-it-firms-including-tcs-infosys-microsoft-wipro-suspended-from-us-green-card-programme-perm-how-does-it-hit-indian-professionals/articleshow/134803978.cms",
-      "dateLocation": "October 9, 2026 | Washington / New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Labour Department Alleges $22 Billion Visa Fraud",
-      "whyItMatters": "Places major Indian IT outsourcing firms under intense regulatory and legal scrutiny.",
-      "brief": "US authorities have launched a massive $22 billion visa fraud claim targeting prominent technology firms, potentially reshaping cross-border deployment models.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/nri/latest-updates/22-billion-visa-fraud-us-labour-depts-explosive-claim-puts-infosys-tcs-wipro-in-the-crosshairs/articleshow/134795634.cms",
-      "dateLocation": "October 9, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Bans TikTok Ads Across All Platforms in US",
-      "whyItMatters": "Intensifies competition and digital advertising restrictions between major social media behemoths.",
-      "brief": "Meta has officially banned TikTok advertisements across its network in the United States, marking a significant escalation in corporate rivalry.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFlfTjhMRWZPWEhDVF9mcGQ1VEY2aWVLMThVLUJaVmNWUzdwV09KTWlDN0E4Rm5IRHFyME1QN01fczZFSGdDbVBsYnh3dDJTdFlfTkczM1NreS11VjJ2QWVFbnV2eU1EMDNWZHl5X2h4WV9SN3FFRUJBaHpzUng2VlhKemtnUnJEblBpajF5U0FCWmdFLWR6azJ0aDB5bEhUdVJHc0g1dVNYY0NZYVdyaU9UOE12SUFDQmpB?oc=5",
-      "dateLocation": "October 9, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Fired Researchers Accuse Leadership of Chilling Safety",
-      "whyItMatters": "Raises ongoing ethical concerns regarding commercial pressures overshadowing AI safety protocols.",
-      "brief": "Departed researchers at OpenAI have publicly claimed they were terminated for prioritizing long-term artificial intelligence safety over corporate financial interests.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/fired-researchers-accuse-openai-of-chilling-safety-efforts/article71562463.ece",
-      "dateLocation": "October 9, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's Sensex Slumps to 32-Month Low on Oil Surge",
-      "whyItMatters": "Reflects growing macroeconomic instability driven by soaring energy costs and foreign investor sell-offs.",
-      "brief": "Benchmark Indian indices plummeted to a 32-month low, pressured by surging global crude oil prices and a sustained foreign capital exodus.",
+      "headline": "Indian shares rebound, snapping long losing streak",
+      "whyItMatters": "Marks a significant recovery for Indian stock markets after sustained losses.",
+      "brief": "Indian shares rose sharply, successfully ending their longest weekly losing streak seen in 25 years.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5",
-      "dateLocation": "October 9, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUlMb1g5cjVaX2pyT0FWTUJ1N2xGTXV0OVN2WkFRQ2R2RS1Fdkc4cmloUC1yNzRlR2pYcW1KOVNjTW1kbmVZbWRhal9WS0dwcU9IeUVvcmRXcTlNZ3V2d0pFYUZndExqNXpNdWltSEhSUjBYRGdmcFpjWVpHT0VUQ3FIV0Q0SUxVdG9mT2lMZzY5bWVhcE92TkR2aEVmajNPVWN1SjZidFlsX1hjM0xVQzJTdHQ?oc=5",
+      "dateLocation": "09 October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "American Express Fined $350 Million for AML Failures",
-      "whyItMatters": "Highlights tightening global regulatory enforcement on financial institutions' compliance programs.",
-      "brief": "American Express received a hefty $350 million penalty due to deficiencies in its anti-money laundering compliance framework.",
+      "headline": "India withdraws bank tax benefit on bullion imports",
+      "whyItMatters": "Alters fiscal policies affecting gold, silver, and platinum trade.",
+      "brief": "The Indian government has officially withdrawn bank tax benefits previously applied to gold, silver, and platinum imports.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON19QTUN4TUw1ODhFX3VQbEY0WDdpXzdvM3lwSl9tS3Z5QWtWQnliOUhuYV9tckxFWmJVRmFxejVvUVNob19tdURJQ2xxdDEwUm1HVzFZakNDMmVrT1R5MV9xZmVIUlNiTVE0OEFMUlozZEszQi1jbjhQbHVaYU11eHBzVU9ITllPRlhVUUNTZkJJVl91VHJwbFdrOWZVNGdrQ3FLNjg2RWw1WGhLMEdValdSY3RQTFNra3U0ZG8yU2h3eWc?oc=5",
-      "dateLocation": "October 9, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmU4eF9SMk8zdTl4VlRfT0phZUl0UW5aeUxMUkV4RGsyU1BFcllDV3NMYVBhYVpORUU0dU5OZzdnMFlIRDVqLS1TUVJVbG5UX1dPSjltYkh3U19lZmx5UnI3dzdzMmhhZzEtYXExTHNqSlFseDl6SlZvYkhBYVIwcUdPRzBTazBGb3JnZ0JnRUl4a0ViZERFeHp6UTJQZGw3TFVrRlF1dE0xNmJhOHc?oc=5",
+      "dateLocation": "09 October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Meloni Overhauls Italian Electoral System with Proportional Rule",
-      "whyItMatters": "Significantly alters Italy's political landscape and government stability dynamics.",
-      "brief": "Lawmakers approved a sweeping electoral overhaul scrapping first-past-the-post seats in favor of proportional representation with bonus seat guarantees for winning coalitions.",
+      "headline": "Apple cuts iPhone 18 Pro orders due to demand",
+      "whyItMatters": "Reflects shifting consumer demand patterns for high-end flagship smartphones globally.",
+      "brief": "Apple has reportedly reduced its production orders for the iPhone 18 Pro by 20% due to soft market demand.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtS3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4X2llWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5",
+      "dateLocation": "09 October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "TCS margins steady despite heavy investments in AI",
+      "whyItMatters": "Shows major tech firms can balance aggressive artificial intelligence spending with stable margins.",
+      "brief": "Shares of India's TCS rose after reporting steady profit margins despite sustained strategic investments in artificial intelligence.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckdwSjZhV3lYaVBsMFlkbHZqbHg3ejNwLXJRTjJCRUxvQk5jUXlyQ3NybURhWGliZE5kY0JKaml3RU9TeHlUM1E3OWZIa2tfNUIzSVdrMHVpcFpOVnBtX1Zmb3FYejBuUW1qbW1FQnFLNDZOVldPOG45aEoyZGVkaloyVmg4SF9YN3pjU3Q3Uk5QZFRZX3pGenJmYTFPNGhYem51SG9Uc3paeG9QUGU5dlk3aXRua1ZQaTNfdXZB?oc=5",
+      "dateLocation": "09 October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court intervenes in Delhi transport shutdowns",
+      "whyItMatters": "Balances public safety and law enforcement with citizens' rights to public mobility.",
+      "brief": "The Supreme Court directed authorities not to completely shut down metro and rail networks ahead of political protests.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/melonis-overhaul-of-italian-electoral-system-explained/article71562529.ece",
-      "dateLocation": "October 9, 2026 | Rome",
+      "sourceUrl": "https://www.livemint.com/news/india/no-complete-prohibition-sc-asks-centre-to-regulate-delhi-metro-other-public-transport-ahead-of-oct-10-protest-11791546741223.html",
+      "dateLocation": "09 October 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Massive Detentions Across India Ahead of Delhi Protest",
-      "whyItMatters": "Escalates political tensions regarding civil liberties and opposition demonstrations.",
-      "brief": "Authorities have detained thousands of individuals across India in response to planned civil protests against election commission controversies.",
+      "headline": "Ruling parties secure wins across regional bypolls",
+      "whyItMatters": "Indicates current voter sentiment and stability for incumbent regional political setups.",
+      "brief": "Bypoll election results show incumbent parties retaining strong influence across West Bengal, Tamil Nadu, Assam, and Puducherry.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/this-is-emergency-10000-detained-across-india-ahead-of-delhis-jantar-mantar-stir-says-cjp/articleshow/134804107.cms",
-      "dateLocation": "October 9, 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/bypoll-results-2026-ruling-parties-hold-sway-in-bengal-tamil-nadu-assam-and-puducherry/articleshow/134826011.cms",
+      "dateLocation": "09 October 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Falls as Trump Comments on Iran Ease Supply Fears",
-      "whyItMatters": "Provides temporary relief to global energy markets rattled by Middle East geopolitical risks.",
-      "brief": "Crude prices retreated after recent remarks regarding diplomatic talks with Iran helped mitigate immediate supply disruption concerns.",
+      "headline": "Navi Pillay wins the 2026 Nobel Peace Prize",
+      "whyItMatters": "Recognizes lifelong contributions to international law, human rights, and genocide prevention.",
+      "brief": "Indian-origin lawyer and former UN human rights chief Navanethem Pillay has been awarded the 2026 Nobel Peace Prize.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
-      "dateLocation": "October 9, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/world/who-is-navanethem-navi-pillay-india-origin-lawyer-wins-nobel-peace-prize-2026-her-career-key-achievements-icc-judge-gaza-11791536860368.html",
+      "dateLocation": "09 October 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Lufthansa and Indian Airlines Suspend Flights to Riyadh",
-      "whyItMatters": "Demonstrates direct regional security repercussions affecting international aviation routes.",
-      "brief": "Major carriers including Lufthansa have suspended flights to Riyadh following recent Houthi militant attacks in the region.",
+      "headline": "Pakistan Army chief considers splitting provinces",
+      "whyItMatters": "Could fundamentally reshape regional political power balances and military influence in South Asia.",
+      "brief": "Reports indicate that Pakistan Army chief Asim Munir may divide the country's four main provinces into multiple new entities.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXd3SHFQR3NWbldRVWo1OVQtajAyZVYtRzNYcmFzZTR3X2pMaDEzTXJKX3R4aUNPNW9fOEhUalZkVnR3LWtKRWM3VDVqelA0M1QtRlFNOE45ZG16VFVIN0JrbHFQSDFFd0N1OEM5Z3FMS0tnVDJvaEZXSjhSYUVsVWJGWXpBdTdVSjZrVVBEc3JCUzFDQXM4Y2ZjYUpHTWlIb2VtUGFlOWs2djlQYUFZLUZ1X0hSZFJ0?oc=5",
-      "dateLocation": "October 9, 2026 | Frankfurt / New Delhi",
+      "sourceUrl": "https://www.livemint.com/news/world/pakistan-may-split-4-provinces-into-12-15-why-asim-munir-wants-to-redraw-boundaries-and-what-it-means-11791540132591.html",
+      "dateLocation": "09 October 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Mystery Shrouds Russian Lab Technician's Plague Death",
-      "whyItMatters": "Raises biosecurity anxieties regarding research facility safety protocols and communicable outbreaks.",
-      "brief": "Russian authorities confirmed the death of a laboratory worker from pneumonic plague at a specialized research institute, sparking local unease.",
+      "headline": "India steps up national shipbuilding industry push",
+      "whyItMatters": "Aims to boost domestic heavy manufacturing, maritime security, and commercial independence.",
+      "brief": "India is advancing a major ₹70,000 crore support package to accelerate domestic vessel manufacturing and maritime competitiveness.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/if-there-s-a-good-time-it-is-now-former-shipping-secretary-on-india-s-shipbuilding-push-11791544472104.html",
+      "dateLocation": "09 October 2026 | LiveMint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Aditya Birla unit seeks $1.5B loan for energy buy",
+      "whyItMatters": "Highlights aggressive corporate expansion into green energy and infrastructure sectors.",
+      "brief": "An Aditya Birla group company is seeking $1.5 billion in rupee loans to acquire Shell's arm Solenergi.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnVZWEJRVFBzT0I4Um1xQnE4UEY0eVg4emROS3VSNm9Rc1UtWndXa3JNa2NUWXdnZ01ZMS11MnJxUS1QUW9oM3N3aHFBLVBQWXJENWJXRzFrOXl4MHdDWDBiT0hObEhiVktWa2lJUmNyUXVtdkhPRlY1ZUN6aGF4a0gyWXRWb2FROUVDMnNOWWY3RjJqM3IzMEQ3R1l3WmpvYWVYMFliZkN2dzNrWkpUaTdYSkpWNFlibldB?oc=5",
+      "dateLocation": "09 October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Kumkum Mohod triumphs at Asian Games archery",
+      "whyItMatters": "Secures an important historic Olympic quota and marks a shift in international archery dominance.",
+      "brief": "Kumkum Mohod won gold in the individual recurve event at the Asian Games, breaking South Korea's long-standing stranglehold.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/olympic-gold-jeetna-hai-kumkum-mohods-big-dream-after-ending-koreas-stranglehold-in-archery-at-asian-games-2026/articleshow/134831669.cms",
+      "dateLocation": "09 October 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Compound archery coach raises salary delay concerns",
+      "whyItMatters": "Exposes persistent administrative bottlenecks facing elite athletes and coaching staff in India.",
+      "brief": "Despite historic medal wins and securing an Olympic quota, India's compound archery coach has spoken out over unpaid salaries.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/historic-olympic-quota-multiple-medals-but-no-salary-indias-compound-archery-coach-unhappy-over-payment-delay/articleshow/134832852.cms",
+      "dateLocation": "09 October 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BeCaprio launch $200M initiative for endangered species",
+      "whyItMatters": "Provides vital private funding to curb rapid global biodiversity loss and protect vulnerable wildlife habitats.",
+      "brief": "Jeff Bezos and Leonardo DiCaprio have unveiled a $200 million project to protect 100 of the world's most endangered species.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/world/not-like-coronavirus-mystery-shrouds-russian-lab-technician-s-death-some-residents-fear-plague-others-remain-calm-11791514800296.html",
-      "dateLocation": "October 9, 2026 | Irkutsk",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-and-leonardo-dicaprio-launched-200-million-project-to-save-100-of-earths-most-threatened-species-from-lemurs-salamanders-to-pangolins/articleshow/134829652.cms",
+      "dateLocation": "09 October 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Texas Teen Builds Aquatic Robot to Restore Pond Ecosystems",
-      "whyItMatters": "Showcases innovative youth-led environmental engineering solutions for local water conservation.",
-      "brief": "A Texas seventh-grader has designed and deployed an aquatic robot to sample pond water and analyze oxygen levels to preserve wildlife habitats.",
+      "headline": "IMD predicts widespread rainfall across India",
+      "whyItMatters": "Impacts agricultural planning, water reservoirs, and daily logistics across multiple regions.",
+      "brief": "The India Meteorological Department forecasts continuous rainfall across north-western, central, eastern, and southern regions through October 15.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meet-caden-terence-pohlkamp-a-teenager-from-texas-who-built-an-aquatic-robot-to-save-fish-and-other-aquatic-life-in-ponds-across-the-state/articleshow/134804987.cms",
-      "dateLocation": "October 9, 2026 | Texas",
+      "sourceUrl": "https://www.livemint.com/news/india/rain-to-continue-across-parts-of-india-until-15-october-imd-11791542963210.html",
+      "dateLocation": "09 October 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "South Africa Broadcaster Takes Dig at Australia Over Sandpapergate",
-      "whyItMatters": "Amplifies sporting rivalry and historical tensions ahead of an anticipated cricket Test series.",
-      "brief": "Broadcaster SuperSport released promotional jabs referencing the 2018 ball-tampering scandal ahead of Australia's cricket tour of South Africa.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/our-cameras-will-be-sharp-broadcaster-takes-a-dig-at-australia-over-sandpapergate/articleshow/134804369.cms",
-      "dateLocation": "October 9, 2026 | Durban",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
