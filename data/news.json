@@ -1,120 +1,129 @@
 {
-  "lastUpdated": "2026-10-10T04:13:28.166Z",
+  "lastUpdated": "2026-10-10T11:52:29.080Z",
   "ticker": [
-    "Delhi lockdown implemented for CJP protest",
-    "US and Russia strike emergency diesel agreement",
-    "Panama declares disaster following major earthquake",
-    "Netflix prepares significant upcoming workforce reductions",
-    "Elon Musk addresses market monopoly allegations in India"
+    "Flydubai pilot attacked with axe",
+    "Delhi locks down amid mass protests",
+    "Anthropic IPO prospectus reveals AI costs",
+    "US sanctions ICC after Nobel win",
+    "Saudis plan Red Sea Houthi assault"
   ],
   "articles": [
     {
-      "headline": "Delhi Deploys 35,000 Security Forces for CJP Protest",
-      "whyItMatters": "Unprecedented security measures disrupt the capital over electoral roll disputes.",
-      "brief": "Delhi has been heavily sealed with metro stations closed and internet curbs implemented as authorities deploy 35,000 personnel to block the planned CJP protest at Jantar Mantar.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/delhi-protest-today-35000-security-personnel-bodycams-drones-six-detention-centers-face-recognition-traffic-diversions-and-metro-closures-inside-delhi-polices-security-plan/articleshow/134846550.cms",
-      "dateLocation": "October 10, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Announces Emergency US-Russia Diesel Supply Deal",
-      "whyItMatters": "Temporary easing of sanctions alters global energy flows and draws Ukrainian criticism.",
-      "brief": "President Trump announced Russia will immediately supply over 300,000 metric tons of diesel to the US, drawing fierce criticism from Kyiv regarding ongoing wartime investments.",
+      "headline": "Flydubai Co-Pilot Attacks Pilot with Axe",
+      "whyItMatters": "Highlights critical aviation security vulnerabilities and triggers international terror investigations.",
+      "brief": "A Flydubai co-pilot attacked the captain with an axe during a flight, forcing an emergency landing in Saudi Arabia. India's NIA has invoked the Anti-Hijacking Act to probe terror angles.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-putin-diesel-deal-what-it-means-for-us-fuel-prices-global-markets-and-the-russia-ukraine-war-explained-11791596929658.html",
-      "dateLocation": "October 10, 2026 | Washington",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
+      "dateLocation": "Oct 10, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Panama Declares Major Disaster Following 7.7 Earthquake",
-      "whyItMatters": "Massive regional infrastructure damage requires international emergency response efforts.",
-      "brief": "President Jose Raul Mulino declared a major disaster after a powerful 7.7-magnitude earthquake struck central Panama, collapsing buildings and triggering dozens of aftershocks.",
+      "headline": "Saudi Arabia Plans Assault on Red Sea Houthis",
+      "whyItMatters": "Aims to reopen vital global shipping lanes and stabilize regional trade corridors.",
+      "brief": "Saudi forces are planning a major military assault against Houthi positions to break the crippling chokehold on Red Sea shipping routes following sustained regional attacks.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/panama-earthquake-today-president-declares-major-disaster-as-buildings-collapse-and-aftershocks-rattle-country-11791597318607.html",
-      "dateLocation": "October 10, 2026 | Panama City",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVJialJyWHg0VzlHXzBiaTU3elZhbWEtQzd0TjhNOGNsWFFZNTYyMGFqODJGcVc3aVBaYVY3QkRzWWpEZDlQNEpJeVp6ZjMxYkZKYi1nZ0FUenFUSFRFRTNCb3NaTmdCaTJ1WWV1RmlqcmhSZGtsZWZobE5jSHp3RkJiVXpueWdVOHJmbDhzUEEzVXB6OF9jYkJHcnpfQklTNDVHZ20yS1J6QQ?oc=5",
+      "dateLocation": "Oct 10, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Netflix Prepares Significant Staff Reductions Next Week",
-      "whyItMatters": "Streaming sector struggles with slowing engagement and rising operational pressures.",
-      "brief": "Netflix is reportedly planning to cut about 5% of its workforce, totaling roughly 850 jobs, in its largest restructuring since 2022 ahead of upcoming quarterly earnings.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/netflix-launches-biggest-layoffs-in-years/articleshow/134846636.cms",
-      "dateLocation": "October 10, 2026 | New York",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple Cuts iPhone 18 Pro Orders Amid Weak Demand",
-      "whyItMatters": "Softer consumer spending impacts high-end global tech manufacturing supply chains.",
-      "brief": "Apple has reportedly reduced production orders for its iPhone 18 Pro lineup due to weaker-than-expected global consumer demand during the current economic cycle.",
+      "headline": "Anthropic IPO Prospectus Details Surging Costs",
+      "whyItMatters": "Provides unprecedented insight into the massive financial burn required to scale frontier AI models.",
+      "brief": "Anthropic's newly released IPO prospectus reveals a sweeping vision for artificial intelligence alongside sharply surging operational costs as competition in the sector intensifies.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtS3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4ZlllWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5",
-      "dateLocation": "October 10, 2026 | Tokyo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5",
+      "dateLocation": "Oct 10, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Defends Local Tech Economy Against Musk's Claims",
-      "whyItMatters": "National digital infrastructure remains heavily contested by foreign satellite providers.",
-      "brief": "Tech leaders and executives have strongly defended India's competitive digital ecosystem, pushing back against Elon Musk's assertions regarding market monopolies and Starlink blocking.",
+      "headline": "US Imposes Sanctions on International Criminal Court",
+      "whyItMatters": "Escalates diplomatic tensions between Washington and global judicial bodies following contentious legal actions.",
+      "brief": "The United States has imposed direct sanctions on the ICC just hours after former judge Navi Pillay was awarded the prestigious Nobel Peace Prize.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+      "dateLocation": "Oct 10, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Announces Russian Diesel Supply Deal",
+      "whyItMatters": "Could significantly shift global energy trade flows and impact domestic fuel market pricing.",
+      "brief": "Donald Trump stated that Russia is set to supply diesel fuel to US and global markets, signalling potential shifts in international energy distribution.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/trends/india-has-lowest-data-prices-lowest-cost-payment-systems-zohos-sridhar-vembu-responds-to-elon-musk-11791600603950.html",
-      "dateLocation": "October 10, 2026 | New Delhi",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
+      "dateLocation": "Oct 10, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "TCS Senior Staff Miss Out on Variable Pay",
-      "whyItMatters": "Major IT sector adjustments highlight tightening corporate margins and performance metrics.",
-      "brief": "Tata Consultancy Services has informed senior personnel through an internal memo that they will miss out on variable pay for the September quarter.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5",
-      "dateLocation": "October 10, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Delhi Locks Down and Detains Thousands Over Protests",
+      "whyItMatters": "Highlights mounting political friction and state crackdowns on opposition movements in the capital.",
+      "brief": "Delhi authorities locked down the city and detained over 3,000 protesters, including prominent opposition leaders, attempting to thwart demonstrations demanding the election chief's resignation.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/cjp-protests-anti-cec-demonstration-delhi-latest-updates-detentions-curbs-crackdowns-on-traffic-metro-trains-delhi-police-october-10-2026/article71567478.ece",
+      "dateLocation": "Oct 10, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Imposes Sudden Sanctions on International Criminal Court",
-      "whyItMatters": "Escalating geopolitical tensions follow high-profile international judicial and Nobel announcements.",
-      "brief": "The United States government imposed unexpected economic sanctions on the ICC just hours after a former judge associated with the institution was awarded the Nobel Peace Prize.",
+      "headline": "Netflix Plans 5% Workforce Reduction",
+      "whyItMatters": "Reflects ongoing cost-discipline and restructuring trends across major tech and entertainment firms.",
+      "brief": "Streaming giant Netflix is reportedly planning to cut roughly 5% of its total workforce, according to industry reports from Puck News.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzY3UEczeHM4MTAwNE1rcVRZZnF2YTJGMUNLUzFhbVdxRU1VdGhZNUo1SUpLdTZZMnhvMFpScWZnOXhpOTlUWFh5LVlzOFJyUWxUVUd0Rk5Kd2w2VGZRaHY3S05SYnFrUWtmanpHU1ZPNm5hN3VTdHNkdUpRcndxSkhKSXVtdHFtTFozR2hxeDYtSldGYXktOHJSb29Qdld4R1liYk1LMFc3NkZzRXRZ?oc=5",
+      "dateLocation": "Oct 10, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Strong Earthquake Strikes Panama Without Major Damage",
+      "whyItMatters": "Assures public safety while reminding Central America of regional seismic risks.",
+      "brief": "A strong earthquake shook Panama, causing widespread tremors across the nation, but initial reports confirmed that major destruction and casualties were avoided.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
+      "dateLocation": "Oct 10, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "CJI Flags Digital Stigma for Juvenile Records",
+      "whyItMatters": "Addresses critical privacy concerns for minors caught within the judicial and penal systems.",
+      "brief": "Chief Justice Surya Kant highlighted the dangers of lasting digital stigma for children in conflict with the law, urging timely destruction of old judicial records.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-      "dateLocation": "October 10, 2026 | Washington",
+      "sourceUrl": "https://www.livemint.com/news/india/cji-surya-kant-flags-digital-stigma-for-children-in-conflict-with-law-calls-for-timely-destruction-of-records-video-11791625600961.html",
+      "dateLocation": "Oct 10, 2026 | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rohit Yadav Secures Asian Games Bronze in Javelin",
-      "whyItMatters": "Sportsmanship across rival athletes highlights dramatic continental competition turnarounds.",
-      "brief": "Indian javelin thrower Rohit Yadav claimed an Asian Games bronze medal with an 84.35m throw, aided significantly by fellow competitor Neeraj Chopra lending his spare equipment.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/how-neeraj-chopras-javelin-helped-rohit-yadav-win-asian-games-bronze/articleshow/134846305.cms",
-      "dateLocation": "October 10, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "China Proposes Strict New Automotive Testing Rules",
+      "whyItMatters": "Sets stringent global benchmarks for vehicle safety and door design innovations.",
+      "brief": "China's regulators have proposed stricter car design and testing regulations, which include a proposed ban on fully hidden door handles to enhance passenger safety.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/china-proposes-stricter-car-design-testing-rules-including-ban-on-fully-hidden-door-handles/articleshow/134852955.cms",
+      "dateLocation": "Oct 10, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UAE Investigation Links Tel Aviv Flight Plot to 9/11",
-      "whyItMatters": "Cross-border security probes reveal ideological motivations behind foiled aviation attacks.",
-      "brief": "Emirati security authorities concluded that an Omani flydubai co-pilot who planned a suicide attack on a Tel Aviv flight was heavily inspired by the 9/11 terrorist attacks.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/9/11-attacks-inspired-flydubai-hijacker-to-become-a-pilot-uae-probe-finds/articleshow/134846180.cms",
-      "dateLocation": "October 10, 2026 | Dubai",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mayank Yadav Shines in India vs West Indies T20Is",
-      "whyItMatters": "Emerging bowling talents reshape international cricket pacing and strategy dynamics.",
-      "brief": "Pace bowler Mayank Yadav delivered a dominant performance in the second T20I against the West Indies, utilizing simple yet lethal speed to dismantle the opposition batting lineup.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/ind-vs-wi-t20is-keep-it-simple-keep-it-fast-speedster-mayank-lets-it-rip/article71567035.cms",
-      "dateLocation": "October 10, 2026 | Kolkata",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Kerala HC Ruling Against Pinarayi Vijayan Questioned",
-      "whyItMatters": "Legal disputes over natural justice set crucial precedents for public servants in India.",
-      "brief": "Legal experts are questioning a recent Kerala High Court order against former Chief Minister Pinarayi Vijayan, citing potential procedural denials of natural justice and statutory approval bypasses.",
+      "headline": "RBI Opens Special Dollar Window for Oil Firms",
+      "whyItMatters": "Protects domestic currency stability and ensures smooth crude oil procurement for state entities.",
+      "brief": "The Reserve Bank of India has opened a special dollar window to assist three state-run oil companies in managing foreign exchange requirements smoothly.",
       "category": "finance",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/kerala-hc-order-against-former-chief-minister-pinarayi-vijayan-and-others-raises-a-larger-question-of-natural-justice-say-legal-experts/article71564921.ece",
-      "dateLocation": "October 10, 2026 | Kochi",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/rbi-opens-special-dollar-window-for-three-state-run-oil-firms/articleshow/134846199.cms",
+      "dateLocation": "Oct 10, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Spiritual and Astrology Apps Pass 300 Million Downloads",
+      "whyItMatters": "Demonstrates shifting digital consumption habits and rapid market growth in niche app verticals.",
+      "brief": "India's app economy has experienced massive spiritual growth, with religious and astrology applications clocking nearly 300 million downloads over nine months.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/indias-app-economy-goes-spiritual-religious-and-astrology-apps-clock-nearly-30-crore-downloads-in-nine-months/articleshow/134852101.cms",
+      "dateLocation": "Oct 10, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Warns Pakistan Against Nuclear Blackmail at UN",
+      "whyItMatters": "Reiterates India's firm strategic stance on cross-border security and international diplomacy.",
+      "brief": "India issued a sharp warning to Pakistan at the United Nations, stating that nuclear weapons must not be treated as routine instruments of statecraft.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/nuclear-weapons-must-not-be-treated-as-routine-instruments-of-statecraft-india-slams-pak-at-un/articleshow/134847472.cms",
+      "dateLocation": "Oct 10, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
