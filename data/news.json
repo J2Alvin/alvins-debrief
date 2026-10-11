@@ -1,129 +1,102 @@
 {
-  "lastUpdated": "2026-10-11T12:04:09.020Z",
+  "lastUpdated": "2026-10-11T21:26:48.725Z",
   "ticker": [
-    "Supreme Court halts illegal detentions amid Delhi protests",
-    "Yemeni Houthis strike Riyadh airport, killing 12",
-    "Nepal urges evacuations after severe flash floods",
-    "Poland's security forces meet over threat to PM",
-    "Starlink vows affordable internet ahead of Jio IPO"
+    "Protesters detained as India election commission tensions rise.",
+    "Pakistan imposes emergency rule over provincial government.",
+    "Tanker with Indian crew hit by drone off Oman.",
+    "Trump announces controversial Russia-US energy ceasefire agreement.",
+    "World Bank holds global talks regarding ongoing crisis aid."
   ],
   "articles": [
     {
-      "headline": "Supreme Court Orders End to Illegal Detentions in Delhi",
-      "whyItMatters": "Protects fundamental rights and restores public movement during massive civil unrest.",
-      "brief": "The Supreme Court intervened in the Cockroach Janta Party protests, directing authorities to halt illegal detentions and restore metro and internet services.",
+      "headline": "India Protesters Detained Over Election Chief Row",
+      "whyItMatters": "Highlights escalating political tensions and democratic safeguards regarding India's election commission.",
+      "brief": "Demonstrations against India's Chief Election Commissioner led to multiple detentions in Delhi as opposition parties escalate demands for accountability.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece",
-      "dateLocation": "2026-10-11 | New Delhi / The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXdTVG9rZnB6T0JIWTR3VHUzWWs1RmVSQkxIaGk5bTdXMG9URUtTYWNZMHl3b0tPMDlIbXpydGItZDZ3bk8xNF9xYkNVVG8xOVRUa1BIc2ZQdjlhbnVaOUUzMlpBbGdVbGpkWndEQmYtX2pkX1NXUlY4VHQybWRhaWZsSW9MN1ZESEFGaVRXcnJrc2NqeVRrOTdRcjlZUnN2TDc4dFhET0RTT2R4cG5acUxEOElrZw?oc=5",
+      "dateLocation": "2026-10-11 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "CJP Leaders Released Under Strict 1-Year Peace Bond",
-      "whyItMatters": "Highlights intense political crackdowns and ongoing tensions over election commission demands.",
-      "brief": "Detained Cockroach Janta Party leaders Abhijeet Dipke and Saurav Das were released after agreeing to maintain peace for one year.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/no-breach-of-peace-for-one-year-condition-imposed-on-release-of-cjp-leaders-abhijeet-dipke-saurav-das-and-ashutosh-ranka-detained-ahead-of-eci-protest/articleshow/134865258.cms",
-      "dateLocation": "2026-10-11 | New Delhi / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Suspends Imran Khan's Party Provincial Government",
-      "whyItMatters": "Escalates political instability and heightens regional friction in South Asia.",
-      "brief": "The Pakistan president officially suspended the provincial government run by Imran Khan's party amid intensifying national political crises.",
+      "headline": "Pakistan Declares Emergency in Provincial Government",
+      "whyItMatters": "Signals mounting political instability and direct central government intervention in Pakistan's provinces.",
+      "brief": "Pakistan has officially imposed emergency rule and deployed the army over Imran Khan's provincial government amid rising unrest.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1nMTFTTndNQTNVc0pWZXVJNXk2SFBmN0tRNXB3WEpUMEh0QVQ4c2V2WExXczdUYVJza3VJd25ZNFl6Q2xsVzRwWm5jemFfN2Z5Q3Z3aDFHbDY5b3pFNFdPYnJNaWVzamNmQXdqSlRTeHhpTnY2STVENXYyMXZpZ29YQmNGWjlVaHYwcUh3X1huM1VoNVMwRS1ITy1Lcy1PTmFyZEhzQUhmR0xZQkpDclhGUXVoUTl6NUExTDNodGJmV0ZiNDJZRXJXak9pQQ?oc=5",
-      "dateLocation": "2026-10-11 | Islamabad / Reuters",
+      "dateLocation": "2026-10-11 | Islamabad",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Poland Holds Emergency Meeting Over Threats to Leaders",
-      "whyItMatters": "Signals heightened security risks targeting top European government officials amid regional turmoil.",
-      "brief": "Polish security forces and interior ministers held an emergency meeting following credible threats directed at the Prime Minister and Defense Minister.",
+      "headline": "Tanker With Indian Crew Hit Off Oman",
+      "whyItMatters": "Poses direct maritime security threats to international shipping lanes and regional crews.",
+      "brief": "A tanker carrying eleven Indian crew members was struck by a drone off the coast of Oman, leaving two missing.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/polands-police-warn-of-a-possible-plot-to-attack-prime-minister-donald-tusk/article71571270.ece",
-      "dateLocation": "2026-10-11 | Warsaw / The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/vessel-with-11-indians-on-board-attacked-in-oman-2-missing/articleshow/134874613.cms",
+      "dateLocation": "2026-10-11 | Muscat",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Musk Vows Affordable Starlink Ahead of Ambani's Jio IPO",
-      "whyItMatters": "Intensifies competition in India's fast-growing digital communication and satellite broadband market.",
-      "brief": "Elon Musk announced plans to offer affordable Starlink services in India just days before Reliance's record-breaking Jio IPO.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
-      "dateLocation": "2026-10-11 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Unveils Steel Policy Targeting 604M Tons Capacity",
-      "whyItMatters": "Aims to position India as a global manufacturing powerhouse by the year 2047.",
-      "brief": "The Indian government introduced an ambitious steel policy aiming to achieve a total capacity of 604 million tons by 2047.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDZ0aUMzTmJzc3g4cjBrVGxrdjlLRVNhWWJJa052Vi1iVHd2RmF2ZGUwZTNDeDlwTHg2b1d1VFNQNGdlUXJNLXJPTkVMbWNiY3FFblEtLTM2TVE2RHZiLW4yeGZvQWZHeFcyREcxUzBmTjVFU1JwcGZvRTZoTTZvb1F4NUlJQVMzUmVpY2ZCcXZPY1E2MjRSV3pHQnQ1VXZ2cXlmdUs4REVTNmtJMHN4VmtOVWdDQQ?oc=5",
-      "dateLocation": "2026-10-11 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Yandex Data Centre Shut Down After Russian Drone Attack",
-      "whyItMatters": "Demonstrates vulnerabilities in domestic tech infrastructure amid ongoing cross-border conflicts.",
-      "brief": "Russian tech giant Yandex confirmed that its data centre in the Vladimir area was forced to shut down following a drone strike.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEVGTzhxN05TYWgtUkQySl9UR3lQVGpkSDlobUNfX1drYzdjQ2p1SlZ0SmFnT2U0NW05UlpDdVVpaFR4OFpXRnJMUjdiMDBxeEc3R2Q1Y19PRGpKRkpmRkhfQUwyQUVnSEpYNVBRT1lSX2J1UlREeTJDdWVmcVZpckhzcmJZRUo2X2IwT0tXd3l3YUVTUWpNbzNEOU02WUxXazZwUnF2YVVESFJWSTkyakU1R3ktd2tVTF9CN0xvUmk?oc=5",
-      "dateLocation": "2026-10-11 | Moscow / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Kerala High Court Directs Operational Data Protection Board",
-      "whyItMatters": "Enforces strict citizen privacy standards under India's Digital Personal Data Protection Act.",
-      "brief": "Expressing concern over compromised citizen privacy, the Kerala High Court directed the Centre to make the Data Protection Board functional within eight weeks.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/privacy-of-citizens-being-compromised-says-kerala-hc-directs-centre-to-make-data-protection-board-functional-in-eight-weeks/article71571131.ece",
-      "dateLocation": "2026-10-11 | Kochi / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nepal Floods Leave 10 Missing as Budhi Gandaki Overflows",
-      "whyItMatters": "Highlights severe regional climate vulnerabilities and risks to rural mountain communities.",
-      "brief": "Triggered by heavy landslides, flash floods along the Budhi Gandaki river in Nepal washed away multiple bridges and left 10 people missing.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/world/nepal-floods-10-missing-6-bridges-washed-away-as-budhi-gandaki-river-overflows-what-we-knownews/world/nepal-floods-10-missing-6-bridges-washed-away-as-budhi-gandaki-river-overflows-what-we-know-11791708055376.html",
-      "dateLocation": "2026-10-11 | Kathmandu / Mint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Puts Lab Network on High Alert Over Russia Plague Scare",
-      "whyItMatters": "Preempts potential cross-border biological hazards following a laboratory worker's death in Russia.",
-      "brief": "Following a suspected pathogen exposure death in Russia, India alerted its national diagnostic laboratory network and stocked life-saving antibiotics.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india-puts-lab-network-on-alert-after-russia-plague-scare-11791698998489.html",
-      "dateLocation": "2026-10-11 | New Delhi / Mint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "World Bank Engages Dozens of Countries for Crisis Aid",
-      "whyItMatters": "Aims to stabilize vulnerable emerging economies facing compounding global financial shocks.",
-      "brief": "World Bank head announced active talks with dozens of nations regarding urgent crisis financial aid and structural economic support packages.",
+      "headline": "World Bank Discusses Crisis Aid Worldwide",
+      "whyItMatters": "Addresses critical financial stabilization measures for numerous nations facing severe economic downturns.",
+      "brief": "The World Bank is actively negotiating with dozens of countries to provide emergency crisis aid and financial relief.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUk05OEhXNFVFX2p1ck9TcEpMa0pFUjYzN2xqVUNhLTY1OV9PSnMtTWp6cE84cUhodjMtUUdzb3BtYjU5cEcydW1aYVNNR1AtRXhVdkpiQ1UxSnZYNkdvMHFUTkQtX3pvOW9NVG1EREZqRFl0UDdPeHhFUzJCQUoyMndqX1BXbDFaMlRUUGNDd2tjUjBJWDdvcWRRMXBmM2hXSzZWc2Vxd0VJU21GR1ZrZlpGQmpUa2JEQVNn?oc=5",
-      "dateLocation": "2026-10-11 | Washington / Reuters",
+      "dateLocation": "2026-10-11 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Rupee Defence Raises Questions for RBI Policy",
-      "whyItMatters": "Tests the limits of central bank interventions in maintaining currency stability against global market pressures.",
-      "brief": "Market analysts question how far the Reserve Bank of India will go in depleting foreign reserves to successfully defend the rupee.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/indias-rupee-defence-raises-question-of-how-far-rbi-will-go/articleshow/134865786.cms",
-      "dateLocation": "2026-10-11 | Mumbai / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Musk Promises Affordable Starlink in India",
+      "whyItMatters": "Intensifies competitive pressure in India's telecommunications market ahead of major domestic IPOs.",
+      "brief": "Elon Musk has pledged affordable Starlink satellite internet services in India, strategically timed ahead of Ambani's Jio IPO.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+      "dateLocation": "2026-10-11 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Steve Smith Breaks Joe Root's Test Record in South Africa",
-      "whyItMatters": "Marks a historic milestone in contemporary international test cricket batting achievements.",
-      "brief": "Australian batter Steve Smith scripted history by surpassing Joe Root's prestigious Test record during the first match against South Africa.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/steve-smith-scripts-history-breaks-joe-roots-test-record-in-first-test-vs-south-africa/articleshow/134869397.cms",
-      "dateLocation": "2026-10-11 | Centurion / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Volkswagen CEO Urges EU Shared Responsibility",
+      "whyItMatters": "Highlights ongoing industrial challenges and regulatory pressures facing European automobile manufacturers.",
+      "brief": "The CEO of Volkswagen appealed to the European Union, stating that industrial transformation must be a shared responsibility.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejJ0eGxjSGtuYW55b3cxRi12Z3V0R2dvM3prcFF4bFpnZ196a0JNWjc1YjZrT0F2V2JLRTM2ZlZuNUlRU0tVVDhYYjFfOGc2N3lkbzFYTFJuX0FKNWVyc3o2RXdqODhrZmJiU1VSSUNXWlJtZFo5QXpVR2JsV1otQmdXWl9XbVBKNGd3R2kxYWpQQUFnYUdUYU9EY1JxVGFYWW00TDdpTlZiWW9HQmtyTUNYcHFqRVVYRWtFVnh4a2RzdXhzaVdQemFzV2R3d2xQ?oc=5",
+      "dateLocation": "2026-10-11 | Brussels",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Russia Shuts Yandex Data Centre After Drone Attack",
+      "whyItMatters": "Exposes vulnerabilities in critical digital infrastructure amid ongoing drone strikes within Russia.",
+      "brief": "Yandex confirmed that a major data centre in the Vladimir area was shut down following a direct drone attack.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEVGTzhxN05TYWgtUkQySl9UR3lQVGpkSDlobUNfX1drYzdjQ2p1SlZ0SmFnT2U0NW05UlpDdVVpaFR4OFpXRnJMUjdiMDBxeEc3R2Q1Y19PRGpKRkpmRkhfQUwyQUVnSEpYNVBRT1lSX2J1UlREeTJDdWVmcVZpckhzcmJZRUo2X2IwT0tXd3l3YUVTUWpNbzNEOU02WUxXazZwUnF2YVVESFJWSTkyakU1R3ktd2tVTF9CN0xvUmk?oc=5",
+      "dateLocation": "2026-10-11 | Moscow",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nepal Urges Evacuations After Landslide Floods",
+      "whyItMatters": "Highlights severe climate risks and human displacement caused by extreme weather in mountain regions.",
+      "brief": "Authorities in Nepal urged villagers to evacuate after a landslide-triggered flood left at least five people missing.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnllV0stREo0VDlyUHJ4RkwxX2pWZ3RSQTZnbFA5OFMwcERqSXEzSFVZVnl5a3J5NjRoaWZrX2RhOFM5ajE2RkhxYVI0VXE3czN1Wk1pbGk0RVdDMW5SUTVJUnVkbmtibVBzczM0RzVvaXVfa05sUFpJSGV3V1Fxa28xc2dYeTZJZDd6SHFIeGMtQUtmREtLQnlXckJvR25PMzZrZWhWb05TZ1BMQWpKOU1jdGdya2x5aFZKN2lCMA?oc=5",
+      "dateLocation": "2026-10-11 | Kathmandu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Draft Steel Policy Targets 604 MT Capacity",
+      "whyItMatters": "Outlines India's long-term industrial growth trajectory and manufacturing targets for the coming decades.",
+      "brief": "India's new draft steel policy sets an ambitious national capacity target of 604 million tonnes by 2047.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/new-draft-steel-policy-targets-604-million-tonnes-capacity-by-2047/articleshow/134876468.cms",
+      "dateLocation": "2026-10-11 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Calls US Hormuz Proposal Insufficient",
+      "whyItMatters": "Deepens geopolitical standoffs in crucial Middle Eastern energy corridors and marine trade routes.",
+      "brief": "Iran rejected a US response regarding the Strait of Hormuz proposal as insufficient, keeping tensions high over negotiations.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-calls-us-response-to-seven-day-hormuz-proposal-insufficient/articleshow/134875500.cms",
+      "dateLocation": "2026-10-11 | Tehran",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
