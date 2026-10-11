@@ -1,102 +1,147 @@
 {
-  "lastUpdated": "2026-10-10T21:07:21.769Z",
+  "lastUpdated": "2026-10-11T03:51:24.931Z",
   "ticker": [
-    "Delhi lockdown follows mass detentions over election chief protests.",
-    "Missile strikes Riyadh airport terminal, prompting US response debate.",
-    "India implements stringent new dollar demand curbs to defend rupee.",
-    "NYC 'Click-to-Cancel' subscription rule officially goes into effect.",
-    "US Supreme Court and CJI intervene amid Delhi lawyer detentions."
+    "India detains thousands in massive Delhi protest lockdown",
+    "Houthi attack on Saudi airport kills 12, wounds 300",
+    "Manipur violence leaves 9 dead amid fresh hill clashes",
+    "US military disables cargo vessel running Iran blockade",
+    "Supreme Court holds special hearing on Delhi mass detentions"
   ],
   "articles": [
     {
       "headline": "India Detains Thousands and Locks Down Delhi Over Protests",
-      "whyItMatters": "Signals escalating political tensions and severe government clampdowns on democratic dissent in India.",
-      "brief": "Delhi police detained over 7,000 protesters, including prominent political figures, attempting to march against Chief Election Commissioner Gyanesh Kumar over alleged electoral roll irregularities. The widespread lockdown disrupted transit and drew international human rights scrutiny.",
+      "whyItMatters": "Unprecedented security measures and mass detentions highlight rising political tensions in India's capital.",
+      "brief": "Delhi authorities locked down the city, blocked mobile internet, and detained thousands, including protest leaders and YouTuber Dhruv Rathee, to foil an anti-Chief Election Commissioner demonstration.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS25NS1lVdE9BWXluTnVDMkpxeDhMdWVwOU11N0ZQRnYwZEhnOFg3Mm44aEFIRXZIc09HLVRlYWhnZmZaV0VhQWJPRnRXeU5FQlQta0szcjRuYTVUNG45VXhCU3FtcXdHVkdfT0oyeGRMTENTYm9Vb1RIa2pfWWMyeGpCVUctbXlEYnFOY2hVTUtTa0hqTlBZNDlXNFhjdzFLUXJvdmVnOTZMZjRxTDFqZzJwSWs?oc=5",
-      "dateLocation": "Oct 10, 2026 | New Delhi, India",
+      "dateLocation": "2026-10-11 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Slams UN Human Rights Office Over Protest Concerns",
-      "whyItMatters": "Highlights growing friction between international watchdogs and the Indian government over domestic civil liberties.",
-      "brief": "India formally rejected UN Human Rights office concerns regarding mass detentions in Delhi, calling the remarks misplaced and urging the body to address global protests impartially.",
+      "headline": "Supreme Court Holds Special Sunday Hearing on Delhi Detentions",
+      "whyItMatters": "Judicial intervention addresses alleged executive overreach during massive political demonstrations in the capital.",
+      "brief": "The Supreme Court scheduled a special Sunday hearing to review petitions challenging mass detentions, transport shutdowns, and service blockades enforced by Delhi police during recent protests.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece",
+      "dateLocation": "2026-10-11 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Houthi Attack on Riyadh Airport Kills 12 and Wounds 300",
+      "whyItMatters": "A sharp escalation in regional conflict threatens stability and draws potential US military retaliation.",
+      "brief": "A deadly Houthi drone or missile strike on Riyadh's King Khalid International Airport resulted in 12 deaths and over 300 injuries, prompting condemnation from Donald Trump and discussions of retaliatory strikes.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/india-hits-back-at-un-human-rights-office-over-remarks-on-delhi-protest-detentions-calls-concerns-misplaced-11791656533007.html",
-      "dateLocation": "Oct 10, 2026 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSH9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+      "dateLocation": "2026-10-11 | Riyadh, Saudi Arabia",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Missile Strikes Riyadh Airport Terminal, Multiple Wounded",
-      "whyItMatters": "Escalates regional conflict risks in the Middle East and draws US scrutiny toward potential military involvement.",
-      "brief": "A missile strike hit a passenger terminal at Riyadh airport, causing multiple injuries and prompting temporary suspensions of flight operations. President Trump stated the US is evaluating potential participation in Saudi strikes against Houthi rebels.",
+      "headline": "US Military Disables Cargo Vessel Trying to Run Iran Blockade",
+      "whyItMatters": "Enforcement of maritime blockades increases direct military friction involving US forces in key shipping lanes.",
+      "brief": "The US military announced it successfully disabled a cargo vessel attempting to breach the ongoing blockade concerning Iran, signaling strict maritime enforcement in the region.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/missile-strikes-passenger-terminal-at-riyadh-airport-many-wounded/article71569514.ece",
-      "dateLocation": "Oct 10, 2026 | Riyadh, Saudi Arabia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5",
+      "dateLocation": "2026-10-11 | Washington, USA",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "India Imposes Tough Curbs on Dollar Demand to Defend Rupee",
-      "whyItMatters": "Demonstrates central bank intervention strategies to protect national currency stability amid shifting global macroeconomic pressures.",
-      "brief": "India unveiled stringent curbs on foreign currency demand in an aggressive effort to defend the rupee against ongoing depreciation pressures in international markets.",
+      "whyItMatters": "Macroeconomic interventions aim to stabilize currency valuation amid shifting global trade and financial pressures.",
+      "brief": "In an effort to protect the weakening rupee, Indian authorities have unveiled strict new curbs designed to control domestic dollar demand and manage foreign exchange reserves effectively.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0TlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB?oc=5",
-      "dateLocation": "Oct 10, 2026 | Mumbai, India",
+      "dateLocation": "2026-10-11 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "TCS Senior Staff to Miss Out on September Variable Pay",
-      "whyItMatters": "Reflects broader corporate cost-containment measures and shifting compensation structures within India's tech sector.",
-      "brief": "An internal memo revealed that senior staff at Tata Consultancy Services will miss out on variable pay for the September quarter, signaling corporate frugality amid economic headwinds.",
+      "headline": "India's TCS Senior Staff Miss Out on September Variable Pay",
+      "whyItMatters": "Corporate compensation shifts highlight margin pressures and performance metrics within India's top IT sector.",
+      "brief": "Internal memos reveal that senior staff members at Tata Consultancy Services will miss out on their variable pay for the September quarter due to financial performance adjustments.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5",
-      "dateLocation": "Oct 10, 2026 | Bengaluru, India",
+      "dateLocation": "2026-10-11 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "NYC Mayor Mamdani Launches 'Click-to-Cancel' Subscription Rule",
-      "whyItMatters": "Establishes stricter regulatory oversight over consumer tech subscriptions and protects users from predatory billing practices.",
-      "brief": "New York City's new rule mandates that streaming services and gyms offer online cancellation methods as simple as their sign-up processes, backed by financial penalties for non-compliance.",
+      "headline": "Nine Killed as Violence Engulfs Manipur's Hill Districts",
+      "whyItMatters": "Persistent ethnic clashes underscore severe security challenges and fractured social harmony in northeastern India.",
+      "brief": "A 12-hour surge of violent clashes across Manipur's hill districts left nine people dead, with houses and shops burned down following retaliatory attacks between ethnic communities.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/12-hours-of-mayhem-in-manipur-9-killed-as-violence-engulfs-manipurs-hill-districts/articleshow/134859527.cms",
+      "dateLocation": "2026-10-11 | Imphal, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Salesforce Renames AI Platform to SIForce After Executive Order",
+      "whyItMatters": "Major tech companies rapidly adapt product nomenclature to comply with federal executive mandates.",
+      "brief": "Salesforce CEO Marc Benioff announced the rebranding of the company's AI platform to SIForce, directly adopting new terminology required by a recent White House executive order.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/technology-news/new-york-city-mayor-zohran-mamdanis-click-to-cancel-rule-now-live-tells-netflix-amazon-disney-and-other-companies-make-sure-your-customers-can-/articleshow/134854856.cms",
-      "dateLocation": "Oct 10, 2026 | New York, USA",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-renames-companys-biggest-product-after-us-governments-enemy-post-adopts-label-that-white-house-wants-everyone-to-use/articleshow/134864245.cms",
+      "dateLocation": "2026-10-11 | San Francisco, USA",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Rejects Monopoly Claim Over Musk Starlink Dispute",
-      "whyItMatters": "Highlights high-stakes corporate competition and regulatory battles over India's expanding satellite internet market.",
-      "brief": "The Indian government rejected monopoly allegations after Elon Musk accused Reliance's Ambani of blocking Starlink's market launch, defending regulatory transparency.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEVyMm5IWVd1MWpWcERlbWVSUDQzTGNobTJfQkU2N3Z5MGZBTG1YMFVEcG1tbmowVXU0MFI2VHR5blJ5ZGFlMUFZY0ZNTzJ4bnRDTUZJQ1FGaXhiZk1YdjdyQml3M0U5SldubWpqNkJBRFNqUTBRZU5aRXBnUjJZRWFGZGVGTXBvMlVXYjBUSXdmTUpWZVNWMFMzdTlkQkFkRThpVUxJZG1oS2NRdW9yeXVSakRxWC1MS21LM21LdjJBeHVCXzF5Ynp5VW9QTFhWQkVjaw?oc=5",
-      "dateLocation": "Oct 10, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ronaldo Provisionally Suspended Following National Team Walkout",
-      "whyItMatters": "Presents a major disciplinary development impacting international football tournaments and team dynamics.",
-      "brief": "Media reports indicate Cristiano Ronaldo has received a provisional suspension following a sudden walkout from national team commitments, creating uncertainty for upcoming fixtures.",
+      "headline": "West Indies Stuns India in T20 Thriller Behind Chase Brilliance",
+      "whyItMatters": "An incredible batting chase highlights bowling vulnerabilities and shifts momentum in international cricket series.",
+      "brief": "Roston Chase delivered an exceptional performance with both bat and ball to lead the West Indies to a dramatic victory over India, overcoming a massive 249-run target.",
       "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3Ytc2g4OFpHTDk2aXltTlIyZFhRY0xOTlVjMTNyRXNsdndqZFFLWnNaUVM0eW9MbHpDNkQ2eE5PMzlTTnV2MzlsNklBZ2JOSF9XemdhYTNYN1dLZDhRb19JQXQ2M05vVXlWUUFaNERQdXF1bmZaS01QclBrVS1pWmVJRnd6ZHJ5MEJqd0VwcEJ6Y2VnRU9QMHQ3bXczeDgxZDIxS0R6SDBmMHd4enVSQXktakdSMVBJQl9Bb1o4eU14SmUwbkE?oc=5",
-      "dateLocation": "Oct 10, 2026 | Lisbon, Portugal",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/their-careers-are-on-the-line-too-gautam-gambhirs-blunt-message-after-indias-bowling-thrusts/articleshow/134864353.cms",
+      "dateLocation": "2026-10-11 | Bridgetown, Barbados",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Johns Hopkins Medical School Expands Free Tuition Program",
-      "whyItMatters": "Sets a monumental precedent for medical education affordability and student debt reduction in the United States.",
-      "brief": "A major philanthropic gift from Michael Bloomberg ensures tuition-free medical education for students from middle-income families, significantly easing graduate financial burdens.",
+      "headline": "WHO Unsure of Pneumonia Cause in Russian Plague-Lab Worker",
+      "whyItMatters": "Unexplained illnesses involving personnel from high-containment biological facilities raise international health and safety concerns.",
+      "brief": "The World Health Organization reported that it has not yet identified the specific pathogen causing the fatal pneumonia that killed a worker at a high-security plague laboratory in Russia.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/in-2024-michael-bloombergs-foundation-gave-johns-hopkins-1-billion-the-gift-made-medical-school-tuition-free-for-students-from-families-earning-under-300000-and-expanded-help-with-living-costs/articleshow/134850680.cms",
-      "dateLocation": "Oct 10, 2026 | Baltimore, USA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTJRMHRZQzJnSlNVc3hSQTlWYW1MbWxuZ3ZnUkh2bEpuQXVTZ1pqdDMzWUxVY1lkMFFFS2N2NkdaZUxfdmZYS0VNclJVSXZnVlNlY085SjlRajhQNmdYbWg3amZOUTBtM19aTXd6dkhhWkNPdkNRb1R0amZqdXZ4TTFXd1NyMTE0X0hTdEwyZWVZMkFxVkUyZkxaVlhRRU5xcGExbmJHVWp1LWd3MXVNZ3FPSGlsMGFWRlpLbGxBbGtRQS05MUF1NjQ0TXdyT1Vwc05iZWg2VTQ?oc=5",
+      "dateLocation": "2026-10-11 | Geneva, Switzerland",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Death Row Inmate Christa Pike Survives Execution Attempt",
-      "whyItMatters": "Sparks intense ethical and legal debate regarding lethal injection protocols and capital punishment procedures.",
-      "brief": "Tennessee death row inmate Christa Pike returned to prison after surviving a botched lethal injection attempt, prompting the state governor to order a thorough execution review.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-death-row-inmate-christa-pike-returns-to-prison-after-after-surviving-failed-lethal-injection-execution/articleshow/134859501.cms",
-      "dateLocation": "Oct 10, 2026 | Nashville, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Hurricane Simon Strengthens to Category 4 Off Mexican Coast",
+      "whyItMatters": "Major hurricanes threatening landfall require immediate disaster preparedness and coastal evacuations.",
+      "brief": "Hurricane Simon has rapidly intensified into a powerful Category 4 storm in the Pacific, threatening to strike the west-central coast of Mexico as a major hurricane.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/hurricane-simon-intensifies-to-category-4-off-mexico-coast/article71570561.ece",
+      "dateLocation": "2026-10-11 | Mexico City, Mexico",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Elon Musk Advocates Starlink Entry to Boost Indian Telecom Competition",
+      "whyItMatters": "Satellite internet providers pushing for market entry could reshape the competitive landscape against domestic giants.",
+      "brief": "Elon Musk argued that allowing Starlink to compete in India would benefit local consumers, asserting that incumbent giant Reliance Jio would remain strong and competitive.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ambani-wont-go-out-of-business-musk-says-starlink-competition-would-benefit-indians/articleshow/134864412.cms",
+      "dateLocation": "2026-10-11 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Releases 4 Million Barrels from Strategic Petroleum Reserve",
+      "whyItMatters": "Emergency stock releases aim to stabilize energy markets disrupted by severe weather and supply shocks.",
+      "brief": "The US Department of Energy released 4 million barrels of crude oil from its strategic reserves to aid ExxonMobil and BP following supply disruptions caused by Hurricane Isaias.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-releases-4-million-barrels-from-strategic-oil-reserves-for-exxonmobil-bp-amid-hurricane-isaias-disruptions/articleshow/134864297.cms",
+      "dateLocation": "2026-10-11 | Washington, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rahul Gandhi Alleges Violence by State-Backed Goons in Delhi",
+      "whyItMatters": "Opposition leaders are intensifying political pressure against the central government over civil liberties crackdowns.",
+      "brief": "Senior opposition leader Rahul Gandhi condemned the mass detentions and heavy-handed policing in Delhi, accusing authorities and hired goons of violating democratic rights.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-announces-india-bloc-protest-against-cec-alleges-violence-by-goons-in-delhi/articleshow/134864075.cms",
+      "dateLocation": "2026-10-11 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Russell Crowe's 'Unabomber' Hits 40 Million Views on Netflix",
+      "whyItMatters": "Strong streaming viewership numbers demonstrate high public appetite for true-crime dramatic series despite mixed reviews.",
+      "brief": "Russell Crowe's dark crime thriller series 'Unabomber' crossed 40 million views on Netflix within its first two weeks, emerging as one of the platform's top hits.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/trends/russell-crowe-netflix-2026-thriller-unabomber-hits-40-million-views-despite-mixed-reviews-11791667526406.html",
+      "dateLocation": "2026-10-11 | Los Angeles, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
