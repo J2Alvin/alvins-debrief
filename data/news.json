@@ -1,102 +1,120 @@
 {
-  "lastUpdated": "2026-10-11T21:26:48.725Z",
+  "lastUpdated": "2026-10-12T04:12:52.597Z",
   "ticker": [
-    "Protesters detained as India election commission tensions rise.",
-    "Pakistan imposes emergency rule over provincial government.",
-    "Tanker with Indian crew hit by drone off Oman.",
-    "Trump announces controversial Russia-US energy ceasefire agreement.",
-    "World Bank holds global talks regarding ongoing crisis aid."
+    "INDIA Bloc Marches to Supreme Court Against CEC",
+    "Trump Announces Immediate Russia-Ukraine Energy Ceasefire",
+    "North Korea Fires Multiple Ballistic Missiles",
+    "Dollar Stays Near 18-Month High Amid Mideast Tensions",
+    "IMD Issues Red Alert for Heavy Delhi Rains"
   ],
   "articles": [
     {
-      "headline": "India Protesters Detained Over Election Chief Row",
-      "whyItMatters": "Highlights escalating political tensions and democratic safeguards regarding India's election commission.",
-      "brief": "Demonstrations against India's Chief Election Commissioner led to multiple detentions in Delhi as opposition parties escalate demands for accountability.",
+      "headline": "Trump Announces Russia-Ukraine Energy Ceasefire",
+      "whyItMatters": "Could significantly impact global energy supplies and oil price stability.",
+      "brief": "US President Trump has announced an immediate energy ceasefire between Russia and Ukraine, though responses from Kyiv and Moscow remain mixed.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/uss-news/russiaukraine-war-trump-announces-energy-ceasefire-says-both-sides-agree-heres-how-kyiv-and-moscow-responded-11791770994201.html",
+      "dateLocation": "October 12, 2026 | Washington/Kyiv",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "North Korea Fires Ballistic Missiles",
+      "whyItMatters": "Heightens geopolitical friction and security risks across the Korean peninsula.",
+      "brief": "North Korea launched multiple ballistic missiles off its east coast following recent warnings to Seoul regarding alleged border violations.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/north-korea-fires-missiles-after-border-breach-warning-11791777696921.html",
+      "dateLocation": "October 12, 2026 | Seoul",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "INDIA Bloc Leads Major Delhi Protest",
+      "whyItMatters": "Intensifies political friction between the opposition and election authorities.",
+      "brief": "Security has been heavily tightened in Central Delhi as opposition parties stage a protest march demanding the Chief Election Commissioner's resignation.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXdTVG9rZnB6T0JIWTR3VHUzWWs1RmVSQkxIaGk5bTdXMG9URUtTYWNZMHl3b0tPMDlIbXpydGItZDZ3bk8xNF9xYkNVVG8xOVRUa1BIc2ZQdjlhbnVaOUUzMlpBbGdVbGpkWndEQmYtX2pkX1NXUlY4VHQybWRhaWZsSW9MN1ZESEFGaVRXcnJrc2NqeVRrOTdRcjlZUnN2TDc4dFhET0RTT2R4cG5acUxEOElrZw?oc=5",
-      "dateLocation": "2026-10-11 | New Delhi",
+      "sourceUrl": "https://www.livemint.com/news/india/india-bloc-protest-against-gyanesh-kumar-live-updates-october-12-sir-delhi-protest-1179175196950.html",
+      "dateLocation": "October 12, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Declares Emergency in Provincial Government",
-      "whyItMatters": "Signals mounting political instability and direct central government intervention in Pakistan's provinces.",
-      "brief": "Pakistan has officially imposed emergency rule and deployed the army over Imran Khan's provincial government amid rising unrest.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1nMTFTTndNQTNVc0pWZXVJNXk2SFBmN0tRNXB3WEpUMEh0QVQ4c2V2WExXczdUYVJza3VJd25ZNFl6Q2xsVzRwWm5jemFfN2Z5Q3Z3aDFHbDY5b3pFNFdPYnJNaWVzamNmQXdqSlRTeHhpTnY2STVENXYyMXZpZ29YQmNGWjlVaHYwcUh3X1huM1VoNVMwRS1ITy1Lcy1PTmFyZEhzQUhmR0xZQkpDclhGUXVoUTl6NUExTDNodGJmV0ZiNDJZRXJXak9pQQ?oc=5",
-      "dateLocation": "2026-10-11 | Islamabad",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Gujarat Congress MLA Booked for Rioting",
+      "whyItMatters": "Highlights ongoing regional political tensions during civic elections.",
+      "brief": "Congress MLA Jignesh Mevani and seven others were booked for rioting and obstructing police duties amid local electoral disputes in Gujarat.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/gujarat-congress-mla-jignesh-mevani-7-others-booked-for-rioting-obstructing-police-during-gandhinagar-civic-elections-11791770617233.html",
+      "dateLocation": "October 12, 2026 | Gandhinagar",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tanker With Indian Crew Hit Off Oman",
-      "whyItMatters": "Poses direct maritime security threats to international shipping lanes and regional crews.",
-      "brief": "A tanker carrying eleven Indian crew members was struck by a drone off the coast of Oman, leaving two missing.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/vessel-with-11-indians-on-board-attacked-in-oman-2-missing/articleshow/134874613.cms",
-      "dateLocation": "2026-10-11 | Muscat",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Amazon in Talks to Buy Decart",
+      "whyItMatters": "Marks another major consolidation and investment wave in generative artificial intelligence.",
+      "brief": "Amazon is reportedly in advanced discussions to acquire AI startup Decart for approximately $7 billion, according to Wall Street Journal reports.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
+      "dateLocation": "October 12, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "World Bank Discusses Crisis Aid Worldwide",
-      "whyItMatters": "Addresses critical financial stabilization measures for numerous nations facing severe economic downturns.",
-      "brief": "The World Bank is actively negotiating with dozens of countries to provide emergency crisis aid and financial relief.",
+      "headline": "Volkswagen CEO Appeals for EU China Policy",
+      "whyItMatters": "Reflects deep structural pressures facing legacy European automakers from low-cost Asian competitors.",
+      "brief": "Following historic restructuring and layoffs, Volkswagen's CEO has urged the EU for stronger protective policies against cheap competition from China.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/after-announcing-biggest-layoffs-in-volkswagens-history-ceo-of-europes-biggest-car-company-makes-china-request-to-eu-similar-to-what-ford-ceo-jim-farley-warned-us-about/articleshow/134881049.cms",
+      "dateLocation": "October 12, 2026 | Frankfurt",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Dollar Holds Firm Near 18-Month High",
+      "whyItMatters": "Influences global currency exchange rates, commodity pricing, and emerging market capital flows.",
+      "brief": "The US dollar remained close to its 18-month high as global investors weighed ongoing Middle East conflicts and incoming US inflation data.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUk05OEhXNFVFX2p1ck9TcEpMa0pFUjYzN2xqVUNhLTY1OV9PSnMtTWp6cE84cUhodjMtUUdzb3BtYjU5cEcydW1aYVNNR1AtRXhVdkpiQ1UxSnZYNkdvMHFUTkQtX3pvOW9NVG1EREZqRFl0UDdPeHhFUzJCQUoyMndqX1BXbDFaMlRUUGNDd2tjUjBJWDdvcWRRMXBmM2hXSzZWc2Vxd0VJU21GR1ZrZlpGQmpUa2JEQVNn?oc=5",
-      "dateLocation": "2026-10-11 | Washington",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnNEOHo2NzVEYW5MOEcybTVjN2xsbXBOSkdScUFqckU4R0VES0JjaGNnSE1RbkJWWEI5SnpuOWxBNTNUVHhqUEtGdjRPdmtHZ0hYOWl1VkZYQXJoWDI5WFJ6MER1OWlvVVVVWFdXb3JFZklJQUNQNjJ5NUpObkVSMkh3ZTZ1NWpRXzcwbFBwb1lFSkYzYktRd3FtTjIwRW9wZElFU0lRNkZvTnZlWk5fb2VuNGFlaXFxd0dxSkN1OTE0Zw?oc=5",
+      "dateLocation": "October 12, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Musk Promises Affordable Starlink in India",
-      "whyItMatters": "Intensifies competitive pressure in India's telecommunications market ahead of major domestic IPOs.",
-      "brief": "Elon Musk has pledged affordable Starlink satellite internet services in India, strategically timed ahead of Ambani's Jio IPO.",
+      "headline": "Indian Central Bank Curbs Rupee Hedging",
+      "whyItMatters": "Aims to stabilize domestic currency volatility and curb speculative corporate forex positions.",
+      "brief": "New RBI regulatory curbs are expected to temper the corporate rush to hedge against ongoing rupee weakness.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFgtUVBuX2VnM2otaHZHc08xZEFBRmtZZHV0QWNzTU5qSUhIcHJGWTZTNmpReXBQLS1SdlRBS3hpa1Jfb2tsZjV5eFRpeUtoLV9CdHVzUUJaVEw3aURPWEVEbF9ITGdoSVBoSFF6YzllelVWODM2TzkwWEhnTDJEUEpFWnUyaFZtT0lxc01WTHFkX0xLU1BNRFE0RWJwMzZzMnZ0VEtpYlhGTndtUlR5TjlOUFBvdU5OUDVtSkctMFV3Zw?oc=5",
+      "dateLocation": "October 12, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IMD Issues Red Alert for Delhi Rains",
+      "whyItMatters": "Disrupts urban transit and infrastructure in the national capital region.",
+      "brief": "Heavy unseasonal rain and thunderstorms lashed Delhi-NCR, prompting a red alert from the weather department and causing severe waterlogging.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/heavy-rain-thunderstorms-lash-delhi-imd-issues-red-alert/article71573688.ece",
+      "dateLocation": "October 12, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Flash Floods Devastate Regions in Nepal",
+      "whyItMatters": "Presents severe humanitarian challenges and strands international tourists.",
+      "brief": "Sudden flash floods swept away dozens of homes and bridges across Nepal, leaving over a hundred foreign nationals stranded and multiple people missing.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/flash-flood-sweeps-away-40-houses-6-bridges-in-nepal-up-to-10-missing/articleshow/134880437.cms",
+      "dateLocation": "October 12, 2026 | Kathmandu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AI Revenue to Offset Deflation: TCS",
+      "whyItMatters": "Indicates the shifting financial models of major IT services providers toward artificial intelligence.",
+      "brief": "TCS CEO K. Krithivasan stated that emerging revenue streams from artificial intelligence should effectively offset traditional IT services deflation.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
-      "dateLocation": "2026-10-11 | New Delhi",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/information-tech/ai-revenue-should-offset-traditional-services-deflation-tcs-ceo-k-krithivasan/articleshow/134880832.cms",
+      "dateLocation": "October 12, 2026 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Volkswagen CEO Urges EU Shared Responsibility",
-      "whyItMatters": "Highlights ongoing industrial challenges and regulatory pressures facing European automobile manufacturers.",
-      "brief": "The CEO of Volkswagen appealed to the European Union, stating that industrial transformation must be a shared responsibility.",
+      "headline": "Byju’s Parent to Hold 32% in Aakash",
+      "whyItMatters": "Resolves a major corporate shareholding structure following corporate debt disputes.",
+      "brief": "Following a comprehensive legal and financial settlement, Byju’s parent company will retain a 32% stake in educational unit Aakash.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejJ0eGxjSGtuYW55b3cxRi12Z3V0R2dvM3prcFF4bFpnZ196a0JNWjc1YjZrT0F2V2JLRTM2ZlZuNUlRU0tVVDhYYjFfOGc2N3lkbzFYTFJuX0FKNWVyc3o2RXdqODhrZmJiU1VSSUNXWlJtZFo5QXpVR2JsV1otQmdXWl9XbVBKNGd3R2kxYWpQQUFnYUdUYU9EY1JxVGFYWW00TDdpTlZiWW9HQmtyTUNYcHFqRVVYRWtFVnh4a2RzdXhzaVdQemFzV2R3d2xQ?oc=5",
-      "dateLocation": "2026-10-11 | Brussels",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/startups/byjus-parent-to-hold-32-in-aakash-after-settlement/articleshow/134874093.cms",
+      "dateLocation": "October 12, 2026 | Bengaluru",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russia Shuts Yandex Data Centre After Drone Attack",
-      "whyItMatters": "Exposes vulnerabilities in critical digital infrastructure amid ongoing drone strikes within Russia.",
-      "brief": "Yandex confirmed that a major data centre in the Vladimir area was shut down following a direct drone attack.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEVGTzhxN05TYWgtUkQySl9UR3lQVGpkSDlobUNfX1drYzdjQ2p1SlZ0SmFnT2U0NW05UlpDdVVpaFR4OFpXRnJMUjdiMDBxeEc3R2Q1Y19PRGpKRkpmRkhfQUwyQUVnSEpYNVBRT1lSX2J1UlREeTJDdWVmcVZpckhzcmJZRUo2X2IwT0tXd3l3YUVTUWpNbzNEOU02WUxXazZwUnF2YVVESFJWSTkyakU1R3ktd2tVTF9CN0xvUmk?oc=5",
-      "dateLocation": "2026-10-11 | Moscow",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nepal Urges Evacuations After Landslide Floods",
-      "whyItMatters": "Highlights severe climate risks and human displacement caused by extreme weather in mountain regions.",
-      "brief": "Authorities in Nepal urged villagers to evacuate after a landslide-triggered flood left at least five people missing.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcnllV0stREo0VDlyUHJ4RkwxX2pWZ3RSQTZnbFA5OFMwcERqSXEzSFVZVnl5a3J5NjRoaWZrX2RhOFM5ajE2RkhxYVI0VXE3czN1Wk1pbGk0RVdDMW5SUTVJUnVkbmtibVBzczM0RzVvaXVfa05sUFpJSGV3V1Fxa28xc2dYeTZJZDd6SHFIeGMtQUtmREtLQnlXckJvR25PMzZrZWhWb05TZ1BMQWpKOU1jdGdya2x5aFZKN2lCMA?oc=5",
-      "dateLocation": "2026-10-11 | Kathmandu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Draft Steel Policy Targets 604 MT Capacity",
-      "whyItMatters": "Outlines India's long-term industrial growth trajectory and manufacturing targets for the coming decades.",
-      "brief": "India's new draft steel policy sets an ambitious national capacity target of 604 million tonnes by 2047.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/new-draft-steel-policy-targets-604-million-tonnes-capacity-by-2047/articleshow/134876468.cms",
-      "dateLocation": "2026-10-11 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Calls US Hormuz Proposal Insufficient",
-      "whyItMatters": "Deepens geopolitical standoffs in crucial Middle Eastern energy corridors and marine trade routes.",
-      "brief": "Iran rejected a US response regarding the Strait of Hormuz proposal as insufficient, keeping tensions high over negotiations.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-calls-us-response-to-seven-day-hormuz-proposal-insufficient/articleshow/134875500.cms",
-      "dateLocation": "2026-10-11 | Tehran",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
