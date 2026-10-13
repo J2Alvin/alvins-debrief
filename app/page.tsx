@@ -4,7 +4,6 @@ import Marquee from "react-fast-marquee";
 
 interface Article {
   headline: string;
-  whyItMatters: string;
   brief: string;
   imageUrl: string;
   sourceUrl: string;
@@ -123,14 +122,9 @@ export default function Home() {
                   {item.headline}
                 </h2>
 
-                {/* Short Brief (<=50 words) */}
-                <p className="font-body text-sm leading-relaxed mb-2 text-neutral-800">
+                {/* Short Brief (<=70 words) */}
+                <p className="font-body text-sm leading-relaxed mb-6 flex-grow text-neutral-800">
                   {item.brief}
-                </p>
-
-                {/* Why It Matters (<=20 words) */}
-                <p className="font-body text-xs italic text-[#CC0000] mb-6 flex-grow">
-                  {item.whyItMatters}
                 </p>
 
                 {/* End with Date/Location of Source */}

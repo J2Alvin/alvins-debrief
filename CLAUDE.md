@@ -21,7 +21,7 @@ AI-curated daily news site. A cron job pulls RSS feeds, Gemini filters them to 1
 
 ## Data contract (`data/news.json`)
 - Top level: `lastUpdated`, `ticker` (5 headlines), `articles` (15–20)
-- Article: `headline`, `whyItMatters`, `brief`, `category`, `sourceUrl`, `dateLocation`, `imageUrl`
+- Article: `headline`, `brief`, `category`, `sourceUrl`, `dateLocation`, `imageUrl`
 - Categories: technology, finance, politics, business, sports, health, world, general (max 2 stories per category)
 - If you change this shape, update both `scripts/run-cron.ts` (prompt and output) and `app/page.tsx` (rendering)
 
@@ -34,4 +34,4 @@ AI-curated daily news site. A cron job pulls RSS feeds, Gemini filters them to 1
 ## Do not
 - Hand-edit `data/news.json`. The bot overwrites it every 6 hours.
 - Commit secrets. `GEMINI_API_KEY` lives in GitHub Actions secrets only.
-- Change word limits in the Gemini prompt (headline ≤10 words, whyItMatters ≤20, brief ≤50) without checking the layout.
+- Change word limits in the Gemini prompt (headline ≤10 words, brief ≤70) without checking the layout.
