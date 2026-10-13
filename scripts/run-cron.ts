@@ -58,8 +58,7 @@ async function runCron() {
     3. **Category Constraint:** Keep **MAXIMUM 2** stories from each category ("technology", "finance", "politics", "business", "sports", "health", "world", "general"). Ensure a balanced spread across categories.
     4. For EACH article, generate:
        - "headline": Max 10 words.
-       - "whyItMatters": One line, strictly 20 words or less.
-       - "brief": Short summary, strictly 50 words or less.
+       - "brief": Short summary, strictly 70 words or less.
        - "category": Choose strictly ONE from the allowed categories list.
        - "sourceUrl": Exact original article link.
        - "dateLocation": Format strictly as "Date | Location/Source".
@@ -69,7 +68,7 @@ async function runCron() {
     {
       "lastUpdated": "${new Date().toISOString()}",
       "ticker": ["Headline 1", "Headline 2", "Headline 3", "Headline 4", "Headline 5"],
-      "articles": [{ "headline": "...", "whyItMatters": "...", "brief": "...", "category": "...", "sourceUrl": "...", "dateLocation": "..." }]
+      "articles": [{ "headline": "...", "brief": "...", "category": "...", "sourceUrl": "...", "dateLocation": "..." }]
     }`;
 
     console.log("Generating with Gemini...");
