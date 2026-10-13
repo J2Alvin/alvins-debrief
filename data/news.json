@@ -1,129 +1,124 @@
 {
-  "lastUpdated": "2026-10-13T00:06:36.024Z",
+  "lastUpdated": "2026-10-13T22:16:02.605Z",
   "ticker": [
-    "India inflation approaches RBI ceiling",
-    "Supreme Court hears voter list petition",
-    "Microsoft deploys custom AI chips",
-    "Saudi closes Riyadh airport over attacks",
-    "Google defends $15B Vizag AI hub"
+    "Pope Leo XIV has lung cancer surgery in Vatican",
+    "India postpones UPI payment fee rollout until post-Diwali",
+    "Two ships hit by projectiles in Strait of Hormuz",
+    "Bihar boat capsizes in Vaishali leaving multiple dead",
+    "Hyundai pledges $15.5 billion in Indian auto sector"
   ],
   "articles": [
     {
-      "headline": "India Inflation Nears RBI Tolerance Ceiling",
-      "whyItMatters": "Signals potential upcoming interest rate hikes by the central bank.",
-      "brief": "India's September inflation figures are approaching the Reserve Bank of India's tolerance ceiling, mounting pressure for further rate hikes amidst ongoing economic headwinds.",
+      "headline": "India Postpones UPI Payment Fee Until After Diwali",
+      "brief": "The Indian government has officially delayed the rollout of planned UPI payment processing fees until the conclusion of the Diwali festival season, providing temporary relief to digital consumers and merchants alike.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2hyc2tfZ1c4OFc2WGEwN3J5Ri1jaWVLOWtWbmpYTzlMcnNyVVhrN0pEdGg1ZXlKdEJMRjNiNXpRRC1KVDNXaWdDQ0ptQ245VEJaY19RZVNMUGJDYTJjUGNwV2NrLTU0LTRVbEcwWGZmSzhoX3hEdkVGcHAzTGZLb285UTBwYXhxZTVSWmxRNkt3X2xISDZwZg?oc=5",
-      "dateLocation": "October 13 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUhPV1BqYlJQZS0teVdaT3NfQUkwOE1Da1RaOUhQVUQtejhldFJZdWpTV0dsNmJWbUNUeklWR0M5Z2pqRURKX1hIbHBHZEE2aXNYMnBveXJIeURzSnY4U3RCNHRuMFN6c3dxdkw3dS10dXhLNWdSdlU4X1RGbVg2a3RtNS1NTXkzdGRCYWRIdUttUjZrQ2Z3T19kLWFwaG43VTN1cVlsYkhXQXNuZnc?oc=5",
+      "dateLocation": "October 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Microsoft Deploys Custom AI Chips",
-      "whyItMatters": "Aims to drastically reduce infrastructure and operational costs for AI.",
-      "brief": "Tech giant Microsoft is planning a massive deployment of its internally designed AI chips to lower heavy dependency on external providers and save costs.",
+      "headline": "IMF Highlights India's Robust Economic Growth Trajectory",
+      "brief": "In a bullish global assessment, the International Monetary Fund highlighted India's impressive growth metrics, describing the nation as a resilient sprinting force amid wider global economic stumbling.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/imfs-bullish-call-why-is-india-sprinting-when-the-world-stumbles/articleshow/134913766.cms",
+      "dateLocation": "October 14, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nvidia Acquires Stakes in French Tech Startups",
+      "brief": "Semiconductor giant Nvidia has expanded its European footprint by securing strategic financial stakes in prominent French tech startups Doctolib and Genesis AI to bolster AI development.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
-      "dateLocation": "October 13 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW55VGhBbzRadERGZ3AwQlI?oc=5",
+      "dateLocation": "October 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Opposition Marches to Supreme Court",
-      "whyItMatters": "Escalates political tension over electoral rolls and democratic integrity.",
-      "brief": "Opposition leaders in India marched to the Supreme Court seeking the suspension of recent contentious voter list changes and demanding complete EC access logs.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHdUQ01EMUVqOGlYVmhEVVJCemJoMjFKX0twdDRaS2VLVmpSbUZqWTlwWkVIcGI3NEdRclB2eWNfejhjbjQ2RHBOc1M1NHkxc2Y3RjYxTTJyby1rSkp1UFd2UVpBUGFnaGdzVUJiRGJDQ3FqcTJwdDd1MUcwdU12NFU2ckJrNzk1LXlhSXpCZHVfcUFwcGYxakZDRjZobXRvTnI4QWZIYnhqWm1TaWRLWUhzSzZkRlhSY0o3cTFaNHBKUk9nUVE?oc=5",
-      "dateLocation": "October 13 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Department of Energy Declares Grid Emergency in 13 States",
+      "brief": "US Energy Secretary Chris Wright issued a power grid emergency declaration across 13 states, empowering PJM Interconnection to actively manage generation units amid surging electricity demands.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-department-of-energy-declares-power-grid-emergency-in-13-states-what-it-is-and-what-it-means-for-the-residents-of-the-states-impacted/articleshow/134915660.cms",
+      "dateLocation": "October 14, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "HCLTech Narrows Forecast Amid Volatile Demand",
-      "whyItMatters": "Reflects broader economic uncertainty impacting the Indian IT sector.",
-      "brief": "India's HCLTech has flagged a volatile global demand environment, leading the major IT firm to narrow its revenue growth forecast for the fiscal year.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFZRWnlsNk5EWndqZkR1Qk1qZ1RrZEQ4bWlmMGFkYUVOZXlLckxBemNKZDVqT1pkZ1l3dTd5WVEybkRDX2E5QjRPVUtFNWs2bnVZMUNoa3dhWkZQMkNlUWJWQU1TZTBfM0JORU1xTXNtSHo2WXQ1MjNBbG9SWDVsR2o5NElIQXNIbGhvY0lIWm13YjAtS1RYcVNuTFE4cWMtZjJoQVdnSVhNZkY4RTNmTndhbw?oc=5",
-      "dateLocation": "October 13 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pope Leo XIV to Undergo Lung Surgery",
-      "whyItMatters": "Raises global attention regarding the pontiff's health and future schedule.",
-      "brief": "Pope Leo XIV is scheduled to undergo surgery at Rome's Gemelli Hospital to remove a small, localized lung nodule detected during routine examinations.",
+      "headline": "Pope Leo XIV Undergoes Successful Lung Cancer Surgery",
+      "brief": "The Vatican confirmed that 71-year-old Pope Leo XIV successfully underwent surgery to remove the lower lobe of his right lung after being diagnosed with lung cancer, and is currently recovering.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/world/pope-leo-xiv-s-planned-lung-surgery-what-a-lung-nodule-means-why-it-needs-removal-and-what-comes-next-11791829422807.html",
-      "dateLocation": "October 13 | Livemint",
+      "sourceUrl": "https://www.thehindu.com/news/international/pope-leo-has-lung-cancer-lower-lobe-of-right-lung-removed-vatican/article71581183.ece",
+      "dateLocation": "October 14, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Arabia Shuts Riyadh Airport After Attacks",
-      "whyItMatters": "Highlights vulnerabilities in critical regional infrastructure against drone strikes.",
-      "brief": "Saudi Arabia extended Riyadh airport's closure following Houthi missile and drone attacks, raising serious questions about the kingdom's air defense capabilities.",
+      "headline": "India Confronts Growing Overtreatment and Overmedication Crisis",
+      "brief": "Medical experts across India are raising alarms regarding a pervasive rise in unnecessary clinical tests, pharmaceutical prescriptions, and surgical procedures contributing to systemic healthcare strain.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/opinion/lead/indias-problem-of-overtreatment-and-overmedication/article71575996.ece",
+      "dateLocation": "October 14, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Stays Trial Against Rahul Gandhi Over Remarks",
+      "brief": "The Supreme Court of India granted a significant legal reprieve by staying trial proceedings against opposition leader Rahul Gandhi in connection with political remarks made during past campaigns.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/commander-in-thief-remark-sc-stays-trial-against-rahul-gandhi/articleshow/134925847.cms",
+      "dateLocation": "October 14, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Canada Advance Bilateral Ties and Trade Talks",
+      "brief": "Prime Minister Narendra Modi spoke with Canadian Prime Minister Mark Carney to advance strategic cooperation across energy, security, and trade ahead of Foreign Minister Anita Anand's visit.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/agreed-to-build-on-positive-momentum-pm-modi-speaks-with-canada-s-carney-ahead-of-fm-anita-anand-s-india-visit-11791914533896.html",
+      "dateLocation": "October 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hyundai Motor Group Announces $15.5 Billion Investment in India",
+      "brief": "Hyundai Motor Group has committed a massive $15.5 billion capital injection into India's growing automotive sector, aiming to significantly scale up local manufacturing capabilities and electric vehicle infrastructure.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms",
+      "dateLocation": "October 14, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Shell Agrees to Sell Nigerian Gas Business to Vaaris Energy",
+      "brief": "Energy giant Shell has taken steps to divest its commercial gas business operations in Nigeria, reaching a definitive sales agreement with buyer Vaaris Energy as part of ongoing regional portfolio restructurings.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3FsTHd4OGFfa3l4X2lJRmdpdnlDRmVfSzJ4c1dxWTd1OXEyVDNLb0pwa056Vm56LTdzMUxMTkNqQ0lMM3EzeW9Iek1HRV8tMGZieGkxcmU0LU9GbEVqY2N4aTlUc0tyNFV6NGJzOTV4bUQyc29laFBLSEZWRnF3MUU2dzJpNEhzVWdwbDVIaHh2ejJadlFRZDNWUk1nTEFDU1ow?oc=5",
+      "dateLocation": "October 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Two Commercial Ships Struck by Projectiles in Strait of Hormuz",
+      "brief": "Maritime security agencies reported that two commercial cargo vessels sustained direct hits from unidentified projectiles while navigating through the critical shipping chokepoint of the Strait of Hormuz.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/saudi-arabia-shuts-riyadh-airport-until-october-17-after-attacks-why-houthi-missiles-are-getting-through-11791827569411.html",
-      "dateLocation": "October 13 | Livemint",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-two-ships-hit-by-projectiles-in-strait-of-hormuz-maritime-agency-says-oil-tanker/articleshow/134926301.cms",
+      "dateLocation": "October 14, 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pranavi Urs Reflects on Olympic Preparation",
-      "whyItMatters": "Provides insights into top-tier athlete training strategies ahead of major games.",
-      "brief": "Golfer Pranavi Urs states that her Olympic preparation will remain largely consistent, drawing valuable experience from previous international tournament successes.",
+      "headline": "India Issues Urgent Safety Advisory for Citizens in Saudi Arabia",
+      "brief": "Following recent regional missile and drone strikes near Riyadh, the Indian government issued an urgent advisory urging its expatriate nationals in Saudi Arabia to stay indoors and exercise caution.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/india-issues-fresh-advisory-for-citizens-in-saudi-arabia-amid-houthi-attacks-stay-indoors-don-t-share-videos-11791910238185.html",
+      "dateLocation": "October 14, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Boat Capsizes in Bihar's Vaishali District, Multiple Casualties Reported",
+      "brief": "A tragic boating accident on the Ganges River in Bihar's Vaishali district left over a dozen children dead and several others missing, prompting immediate state rescue and relief operations.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/several-killed-after-boat-capsizes-in-bihar-vaishali-october-13-2026/article71581066.ece",
+      "dateLocation": "October 14, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hamstring Injury Rules Cricketer Mhatre Out for Six Weeks",
+      "brief": "Promising domestic cricketer Mhatre has been officially sidelined from competitive play for six weeks following a severe hamstring injury sustained during a Ranji Trophy opening match against Chandigarh.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/my-olympics-preparation-is-not-going-to-change-much-pranavi-urs/article71575804.ece",
-      "dateLocation": "October 13 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/ranji-trophy-hamstring-injury-rules-mhatre-out-for-six-weeks/article71579291.ece",
+      "dateLocation": "October 14, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Google Defends $15 Billion Vizag AI Hub",
-      "whyItMatters": "Addresses growing environmental and land rights concerns over massive tech investments.",
-      "brief": "Google has defended its massive Visakhapatnam AI hub project, promising air cooling to limit water use amidst localized protests over land acquisition and environmental risks.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/google-defends-15-billion-vizag-ai-hub-as-water-fears-land-disputes-and-protests-project-under-scrutiny-11791836532888.html",
-      "dateLocation": "October 13 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Banks Seek RBI Relief on Rupee-Defence",
-      "whyItMatters": "Highlights banking sector strains resulting from aggressive currency intervention.",
-      "brief": "Commercial banks in India are seeking regulatory relief and formal clarity from the RBI regarding the latest measures implemented to defend the weakening rupee.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVlGOHdRWi1vekl4dXhmNk9YQ2VTSXN0c1BPeU9naDBMai1LbTI0c3dqR1hzV0J2WHUxelZURFUyejU1eDFhODJEbEF0aDBSOXN5SWVXSng1YlAyNmtycmpPbGYxUWsyWUx0dlBhUkRuNzZhR1pKaU9HTk84VkwxcFBUOUZYUk5Xa3MwUXRoSjc5RXJ6Y3pSc1ByeWlQUW1Fa191WGQ0MlkzbS00N1huRXF6WnF3RkNDbGVZVWJEcm9EZmYw?oc=5",
-      "dateLocation": "October 13 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New Delhi Denotifies Jantar Mantar as Protest Site",
-      "whyItMatters": "Alters the landscape for public demonstrations and civil activism in the capital.",
-      "brief": "Acting on Supreme Court suggestions for open spaces, the government has de-notified Jantar Mantar as a designated protest hub, introducing new alternative venues.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/govt-move-to-de-notify-jantar-mantar-follows-sc-suggestion-that-protest-sites-need-more-space/article71574374.ece",
-      "dateLocation": "October 13 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre and States to Draft Arrest Rules under GST",
-      "whyItMatters": "Seeks to streamline legal frameworks and protect rights under indirect taxation laws.",
-      "brief": "Indian tax authorities are collaborating to draft comprehensive uniform rules concerning existing arrest cases under the Goods and Services Tax framework.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/centre-states-to-draft-rules-for-existing-arrest-cases-under-gst/articleshow/134901987.cms",
-      "dateLocation": "October 13 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Magnitude 6 Earthquake Strikes Off Panama",
-      "whyItMatters": "Evaluates seismic risks and potential infrastructural impact in Central America.",
-      "brief": "A strong magnitude 6 earthquake was recorded striking off the coast of Panama, prompting localized monitoring though initial major damage reports remain scarce.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/magnitude-6-earthquake-strikes-off-panama/articleshow/134905072.cms",
-      "dateLocation": "October 13 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Cautions Against Unenforceable Cracker Bans",
-      "whyItMatters": "Emphasizes practical judicial enforcement for environmental regulations.",
-      "brief": "The Supreme Court noted that judicial orders must remain practical and enforceable when handling seasonal firecracker bans and related environmental concerns.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/on-cracker-ban-sc-says-mustnt-pass-orders-difficult-to-enforce/articleshow/134902205.cms",
-      "dateLocation": "October 13 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
