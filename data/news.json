@@ -1,156 +1,129 @@
 {
-  "lastUpdated": "2026-10-12T14:21:45.196Z",
+  "lastUpdated": "2026-10-13T00:06:36.024Z",
   "ticker": [
-    "RBI monetary policy shifts spark bond selloffs",
-    "India opposition marches to Supreme Court against CEC",
-    "OPEC cuts 2026 global oil demand forecast",
-    "Economics Nobel awarded to Robert E. Hall and Michael Woodford",
-    "Suspected IED explodes near Line of Control in Poonch"
+    "India inflation approaches RBI ceiling",
+    "Supreme Court hears voter list petition",
+    "Microsoft deploys custom AI chips",
+    "Saudi closes Riyadh airport over attacks",
+    "Google defends $15B Vizag AI hub"
   ],
   "articles": [
     {
       "headline": "India Inflation Nears RBI Tolerance Ceiling",
-      "whyItMatters": "Elevated inflation numbers heavily increase the likelihood of further interest rate hikes by the central bank.",
-      "brief": "India's September inflation figures have approached the Reserve Bank of India's tolerance ceiling, mounting pressure on policymakers and fueling market expectations of impending rate hikes to curb rising price pressures.",
+      "whyItMatters": "Signals potential upcoming interest rate hikes by the central bank.",
+      "brief": "India's September inflation figures are approaching the Reserve Bank of India's tolerance ceiling, mounting pressure for further rate hikes amidst ongoing economic headwinds.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2hyc2tfZ1c4OFc2WGEwN3J5Ri1jaWVLOWtWbmpYTzlMcnNyVVhrN0pEdGg1ZXlKdEJMRjNiNXpRRC1KVDNXaWdDQ0ptQ245VEJaY19RZVNMUGJDYTJjUGNwV2NrLTU0LTRVbEcwWGZmSzhoX3hEdkVGcHAzTGZLb285UTBwYXhxZTVSWmxRNkt3X2xISDZwZg?oc=5",
-      "dateLocation": "October 12, 2026 | Reuters",
+      "dateLocation": "October 13 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Debt Funds Extend Bond Selloff",
-      "whyItMatters": "Policy shifts are causing substantial capital shifts and market volatility across domestic debt instruments.",
-      "brief": "Indian debt funds are poised to extend a significant $4.5 billion bond selloff following recent policy shifts by the Reserve Bank of India, reflecting cautious investor sentiment amid changing macroeconomic conditions.",
+      "headline": "Microsoft Deploys Custom AI Chips",
+      "whyItMatters": "Aims to drastically reduce infrastructure and operational costs for AI.",
+      "brief": "Tech giant Microsoft is planning a massive deployment of its internally designed AI chips to lower heavy dependency on external providers and save costs.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+      "dateLocation": "October 13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Opposition Marches to Supreme Court",
+      "whyItMatters": "Escalates political tension over electoral rolls and democratic integrity.",
+      "brief": "Opposition leaders in India marched to the Supreme Court seeking the suspension of recent contentious voter list changes and demanding complete EC access logs.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHdUQ01EMUVqOGlYVmhEVVJCemJoMjFKX0twdDRaS2VLVmpSbUZqWTlwWkVIcGI3NEdRclB2eWNfejhjbjQ2RHBOc1M1NHkxc2Y3RjYxTTJyby1rSkp1UFd2UVpBUGFnaGdzVUJiRGJDQ3FqcTJwdDd1MUcwdU12NFU2ckJrNzk1LXlhSXpCZHVfcUFwcGYxakZDRjZobXRvTnI4QWZIYnhqWm1TaWRLWUhzSzZkRlhSY0o3cTFaNHBKUk9nUVE?oc=5",
+      "dateLocation": "October 13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "HCLTech Narrows Forecast Amid Volatile Demand",
+      "whyItMatters": "Reflects broader economic uncertainty impacting the Indian IT sector.",
+      "brief": "India's HCLTech has flagged a volatile global demand environment, leading the major IT firm to narrow its revenue growth forecast for the fiscal year.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFZRWnlsNk5EWndqZkR1Qk1qZ1RrZEQ4bWlmMGFkYUVOZXlLckxBemNKZDVqT1pkZ1l3dTd5WVEybkRDX2E5QjRPVUtFNWs2bnVZMUNoa3dhWkZQMkNlUWJWQU1TZTBfM0JORU1xTXNtSHo2WXQ1MjNBbG9SWDVsR2o5NElIQXNIbGhvY0lIWm13YjAtS1RYcVNuTFE4cWMtZjJoQVdnSVhNZkY4RTNmTndhbw?oc=5",
+      "dateLocation": "October 13 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pope Leo XIV to Undergo Lung Surgery",
+      "whyItMatters": "Raises global attention regarding the pontiff's health and future schedule.",
+      "brief": "Pope Leo XIV is scheduled to undergo surgery at Rome's Gemelli Hospital to remove a small, localized lung nodule detected during routine examinations.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/world/pope-leo-xiv-s-planned-lung-surgery-what-a-lung-nodule-means-why-it-needs-removal-and-what-comes-next-11791829422807.html",
+      "dateLocation": "October 13 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saudi Arabia Shuts Riyadh Airport After Attacks",
+      "whyItMatters": "Highlights vulnerabilities in critical regional infrastructure against drone strikes.",
+      "brief": "Saudi Arabia extended Riyadh airport's closure following Houthi missile and drone attacks, raising serious questions about the kingdom's air defense capabilities.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/saudi-arabia-shuts-riyadh-airport-until-october-17-after-attacks-why-houthi-missiles-are-getting-through-11791827569411.html",
+      "dateLocation": "October 13 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pranavi Urs Reflects on Olympic Preparation",
+      "whyItMatters": "Provides insights into top-tier athlete training strategies ahead of major games.",
+      "brief": "Golfer Pranavi Urs states that her Olympic preparation will remain largely consistent, drawing valuable experience from previous international tournament successes.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/my-olympics-preparation-is-not-going-to-change-much-pranavi-urs/article71575804.ece",
+      "dateLocation": "October 13 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Google Defends $15 Billion Vizag AI Hub",
+      "whyItMatters": "Addresses growing environmental and land rights concerns over massive tech investments.",
+      "brief": "Google has defended its massive Visakhapatnam AI hub project, promising air cooling to limit water use amidst localized protests over land acquisition and environmental risks.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/us-news/google-defends-15-billion-vizag-ai-hub-as-water-fears-land-disputes-and-protests-project-under-scrutiny-11791836532888.html",
+      "dateLocation": "October 13 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Banks Seek RBI Relief on Rupee-Defence",
+      "whyItMatters": "Highlights banking sector strains resulting from aggressive currency intervention.",
+      "brief": "Commercial banks in India are seeking regulatory relief and formal clarity from the RBI regarding the latest measures implemented to defend the weakening rupee.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbmZEY1dlV0gzSExkMDJHRkhRQnFRRHBhNGs2ZTE0Rm1ZUlRJTzg2M0s3eVF5dnlMMm9nWmg5RWdkd25CaW95a1hYWnI4ai1uM3VGcVoyZHdVSGg2MnJ0NWlqVVVGYXh3MGhuMnV5SXRUMnJIQ0UxZVNXc0x6Sm5ZNzRnZE1ITmFOdEZvendYTnExWklzTXRrMk81d05zSGlFOEt3cURHWTRsUy1IR1l3U29HRndDZnFpVVY3WXVhVlk?oc=5",
-      "dateLocation": "October 12, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVlGOHdRWi1vekl4dXhmNk9YQ2VTSXN0c1BPeU9naDBMai1LbTI0c3dqR1hzV0J2WHUxelZURFUyejU1eDFhODJEbEF0aDBSOXN5SWVXSng1YlAyNmtycmpPbGYxUWsyWUx0dlBhUkRuNzZhR1pKaU9HTk84VkwxcFBUOUZYUk5Xa3MwUXRoSjc5RXJ6Y3pSc1ByeWlQUW1Fa191WGQ0MlkzbS00N1huRXF6WnF3RkNDbGVZVWJEcm9EZmYw?oc=5",
+      "dateLocation": "October 13 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Opposition Marches Against Election Chief",
-      "whyItMatters": "Heightens political tensions regarding electoral integrity and institutional independence in the country.",
-      "brief": "Opposition parties in India marched to the Supreme Court demanding the resignation of the Chief Election Commissioner amid ongoing controversies surrounding voter roll revisions and alleged electoral irregularities.",
+      "headline": "New Delhi Denotifies Jantar Mantar as Protest Site",
+      "whyItMatters": "Alters the landscape for public demonstrations and civil activism in the capital.",
+      "brief": "Acting on Supreme Court suggestions for open spaces, the government has de-notified Jantar Mantar as a designated protest hub, introducing new alternative venues.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHdUQ01EMUVqOGlYVmhEVVJCemJoMjFKX0twdDRaS2VLVmpSbUZqWTlwWkVIcGI3NEdRclB2eWNfejhjbjQ2RHBOc1M1NHkxc2Y3FjYxTTJyby1rSkp1UFd2UVpBUGFnaGdzVUJiRGJDQ3FqcTJwdDd1MUcwdU12NFU2ckJrNzk1LXlhSXpCZHVfcUFwcGYxakZDRjZobXRvTnI4QWZIYnhqWm1TaWRLWUhzSzZkRlhSY0o3cTFaNHBKUk9nUVE?oc=5",
-      "dateLocation": "October 12, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/national/govt-move-to-de-notify-jantar-mantar-follows-sc-suggestion-that-protest-sites-need-more-space/article71574374.ece",
+      "dateLocation": "October 13 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rahul Gandhi Demands CEC Resignation at Supreme Court",
-      "whyItMatters": "Escalates direct political confrontation between national opposition leadership and key constitutional authorities.",
-      "brief": "Congress leader Rahul Gandhi led thousands in an INDIA bloc protest outside the Supreme Court, calling on the Chief Election Commissioner to resign or turn approver over alleged electoral rollout controversies.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/resign-turn-approver-rahul-gandhis-message-to-cec-as-india-bloc-takes-fight-to-sc/articleshow/134890134.cms",
-      "dateLocation": "October 12, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OPEC Cuts 2026 Global Oil Demand Forecast",
-      "whyItMatters": "Signals softening global energy consumption trends and influences international commodity pricing strategies.",
-      "brief": "OPEC has reduced its global oil demand growth forecast for 2026 down to 400,000 barrels per day while pointing toward potential pent-up market demand emerging heading into 2027.",
+      "headline": "Centre and States to Draft Arrest Rules under GST",
+      "whyItMatters": "Seeks to streamline legal frameworks and protect rights under indirect taxation laws.",
+      "brief": "Indian tax authorities are collaborating to draft comprehensive uniform rules concerning existing arrest cases under the Goods and Services Tax framework.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHpiemJmQ3V5V3pqc1NKUTc5MXVCVW92Mm8wQ3BWUnlmeXNmTUotNUFjYl95ZmVFN09sLXV6SzhhRWJpRG5sV3o4dUhHSTNubjZRZXpyajRDTTJYWUdNY1NDMzRWYmtEZVhsRC1Jd05SaW9ic0t3dWFtUTIwWmNFNW9SYWF2eGo0RlpNYl9QOVljdVE2RkVGR2VpZ1FZMmxXdFZuS0lNcnJyMG5IbE1yWm8xNzZJRHQ5SUVTRFJIbFFoQjZERkVVbA?oc=5",
-      "dateLocation": "October 12, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/centre-states-to-draft-rules-for-existing-arrest-cases-under-gst/articleshow/134901987.cms",
+      "dateLocation": "October 13 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "TCS Shifts Hiring Focus to Digital and AI Skills",
-      "whyItMatters": "Demonstrates the massive corporate pivot toward artificial intelligence capabilities across major tech employers.",
-      "brief": "Tata Consultancy Services announced plans to allocate 80 percent of its new workforce hiring toward digital and AI-skilled professionals to expand long-term operational profitability.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/jobs/fresher/tcs-to-hire-80-pc-of-workforce-with-digital-ai-skills-ai-work-to-expand-profitability/articleshow/134884437.cms",
-      "dateLocation": "October 12, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Former Army Chief Flags Starlink Security Risks",
-      "whyItMatters": "Highlights critical national security concerns surrounding foreign-owned satellite communication networks in sensitive regions.",
-      "brief": "Former Indian Army Chief Ved Malik publicly cautioned against relying on Elon Musk's Starlink service, emphasizing strategic vulnerabilities inherent in depending on foreign-owned telecommunication infrastructure for national defense.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/former-army-chief-ved-malik-flags-security-risks-of-elon-musks-starlink-wouldnt-depend-on-foreign-owned-telecom-11791808488237.html",
-      "dateLocation": "October 12, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Palantir CTO Details US Army Coding Initiative",
-      "whyItMatters": "Shows innovative approaches to tapping internal technical talent within modern military forces.",
-      "brief": "Palantir CTO Shyam Sankar outlined his role in a US Army Reserve detachment tasked with identifying overlooked software coders within military ranks and establishing clear technological career paths.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/palantir-cto-shyam-sankar-joined-us-army-as-lieutenant-colonel-in-2025-his-job-find-coders-that-army-doesnt-know-it-has-and-turn-them-into-/articleshow/134888782.cms",
-      "dateLocation": "October 12, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Suspected IED Explosion Reported in J&K's Poonch",
-      "whyItMatters": "Underscores persistent cross-border security challenges and heightened tensions along the Line of Control.",
-      "brief": "A suspected improvised explosive device detonated near the Line of Control in Jammu and Kashmir's Poonch district, prompting immediate security lockdowns and comprehensive clearance operations.",
+      "headline": "Magnitude 6 Earthquake Strikes Off Panama",
+      "whyItMatters": "Evaluates seismic risks and potential infrastructural impact in Central America.",
+      "brief": "A strong magnitude 6 earthquake was recorded striking off the coast of Panama, prompting localized monitoring though initial major damage reports remain scarce.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/suspected-ied-expodes-in-j-ks-poonch-several-feared-dead-security-heightened/articleshow/134895103.cms",
-      "dateLocation": "October 12, 2026 | The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/magnitude-6-earthquake-strikes-off-panama/articleshow/134905072.cms",
+      "dateLocation": "October 13 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "German Finance Minister Cancels India Trip",
-      "whyItMatters": "Reflects how sudden European domestic political crises impact high-level international diplomatic engagements.",
-      "brief": "Germany's finance minister has cancelled a scheduled official visit to India as political turmoil deepens within the governing coalition in Berlin.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3Fkd25KVTRSc0ItbXZldC1KRkp1azR4dzFmNms5NGN5Zkp5aDJjX29jUnN1anFjVHNhOUg1RjdMUU5yYzJPeklyUDNZNGNpUHFzejhoTDd3aDZlTlNSdHIyMTJjTWpDb3poWW1zMGlPZ2M4ZjBoRXVDSGxfb0hwa0xTS2NNVmlybEJNTHprOVR2eS1tTFc0WnJCYXZ6ekRpcl9nRVhKZ2c4UDJsMnFZ?oc=5",
-      "dateLocation": "October 12, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Questions Centre on Drug Price Caps",
-      "whyItMatters": "Could expand medical price regulations and reduce healthcare costs across broader pharmaceutical categories.",
-      "brief": "The Supreme Court questioned the central government on why trade margin caps should be restricted solely to cancer drugs rather than extended to wider price regulations for essential medicines.",
+      "headline": "Supreme Court Cautions Against Unenforceable Cracker Bans",
+      "whyItMatters": "Emphasizes practical judicial enforcement for environmental regulations.",
+      "brief": "The Supreme Court noted that judicial orders must remain practical and enforceable when handling seasonal firecracker bans and related environmental concerns.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/why-only-cancer-drugs-sc-questions-centre-on-trade-margin-cap-seeks-wider-price-regulation-11791806818920.html",
-      "dateLocation": "October 12, 2026 | LiveMint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/on-cracker-ban-sc-says-mustnt-pass-orders-difficult-to-enforce/articleshow/134902205.cms",
+      "dateLocation": "October 13 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre Directs Hospitals to Display Prices Prominently",
-      "whyItMatters": "Aims to increase price transparency for patients and curb predatory billing practices across medical facilities.",
-      "brief": "Union health authorities have mandated that states ensure all hospitals prominently display medical service prices, enforcing statutory compliance to protect patients from unexpected financial burdens.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/centre-asks-states-to-ensure-hospitals-prominently-display-prices-11791796612497.html",
-      "dateLocation": "October 12, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Economics Nobel Awarded for Economic Stabilization Models",
-      "whyItMatters": "Recognizes foundational theoretical contributions shaping modern central banking and monetary stabilization policies.",
-      "brief": "The 2026 Nobel Prize in Economics was awarded to Robert E. Hall and Michael Woodford for their pioneering macroeconomic models designed to stabilize economic fluctuations.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/nobel-prize-in-economics-2026-awarded-to-robert-e-hall-and-michaelwoodford-sveriges-riksbank-prize-in-economic-sciences/articleshow/134888651.cms",
-      "dateLocation": "October 12, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Sunil Bharti Mittal Conferred France’s Legion of Honour",
-      "whyItMatters": "Highlights deepening bilateral, commercial, and diplomatic ties between India and France.",
-      "brief": "Telecom titan Sunil Bharti Mittal has been named a Knight of France’s Legion of Honour in recognition of his significant contributions toward strengthening bilateral economic relations.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/sunil-bharti-mittal-conferred-france-s-legion-of-honour-what-is-the-award-and-who-are-the-past-indian-recipients-11791808940656.html",
-      "dateLocation": "October 12, 2026 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mumbai Completely Controls Ranji Trophy Match Against Chandigarh",
-      "whyItMatters": "Demonstrates elite domestic cricketing dominance and impacts player standings for national selection.",
-      "brief": "Riding on a brilliant hat-trick by seamer Deshpande, Mumbai secured total control over Chandigarh by dismissing the visitors for a paltry 78 runs after posting a massive first-innings total.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-27-mumbai-chandigarh-day-two/article71575320.ece",
-      "dateLocation": "October 12, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Portugal Signals U-Turn on Cristiano Ronaldo Suspension",
-      "whyItMatters": "Signals a major tactical reconciliation for the national football squad ahead of upcoming international fixtures.",
-      "brief": "The Portuguese football setup has indicated a sharp reversal regarding Cristiano Ronaldo's national suspension, expressing a desire to reintegrate the star captain following his prolific scoring form.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/portugal-makes-sharp-u-turn-on-cristiano-ronaldo-suspension-wants-him-back-after-al-nassr-goal-will-he-answer-the-call/articleshow/134891699.cms",
-      "dateLocation": "October 12, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
