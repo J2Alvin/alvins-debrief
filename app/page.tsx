@@ -41,6 +41,16 @@ export default function Home() {
     day: "numeric",
   });
 
+  const lastRefreshed = new Date(news.lastUpdated).toLocaleString("en-IN", {
+    timeZone: "Asia/Kolkata",
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    hour12: true,
+  }) + " IST";
+
   return (
     <div className="min-h-screen font-body bg-[#F9F9F7] text-[#111111] flex flex-col selection:bg-[#CC0000] selection:text-white">
       {/* 3. Scrolling Wire-Ticker Header */}
@@ -74,10 +84,8 @@ export default function Home() {
           <h1 className="text-5xl sm:text-7xl lg:text-9xl font-serif font-black uppercase tracking-tighter leading-[0.88] my-0">
             Alvin's Debrief
           </h1>
-          <div className="flex items-center justify-between border-t border-b border-[#111111] py-1 mt-6 font-mono text-[10px] sm:text-xs uppercase tracking-widest">
-            <span>REFRESH: 00:00 MIDNIGHT</span>
-            <span>EDITION: VOL 1.0</span>
-            <span>SELF-HOSTED</span>
+          <div className="flex items-center justify-center text-center border-t border-b border-[#111111] py-1 mt-6 font-mono text-[10px] sm:text-xs uppercase tracking-wider sm:tracking-widest whitespace-nowrap overflow-hidden">
+            <span>LAST REFRESHED TIME: {lastRefreshed}</span>
           </div>
         </div>
       </header>
