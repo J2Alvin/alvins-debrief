@@ -1,108 +1,108 @@
 {
-  "lastUpdated": "2026-10-14T16:28:34.950Z",
+  "lastUpdated": "2026-10-14T21:16:01.348Z",
   "ticker": [
-    "Cabinet okays IDBI-Fairfax deal for $5.56B",
-    "India WPI inflation surges to 11.39%",
-    "USCIS seeks to end H-1B deference",
-    "Ukraine accuses US of halting intel",
-    "Bank of Baroda defends against $15B suit"
+    "Jio Seeks $108B Record IPO",
+    "Houthis Strike Saudi Aramco",
+    "Fairfax Acquires IDBI Stake",
+    "Gold Slumps on Fed Hikes",
+    "SpaceX Ukraine Ties Fray"
   ],
   "articles": [
     {
-      "headline": "Fairfax Buys Majority Stake in IDBI Bank",
-      "brief": "Canada's Fairfax has acquired a majority stake in IDBI Bank for $5.56 billion following Indian cabinet approval, marking a major milestone as the country's largest financial sector foreign direct investment.",
+      "headline": "Mukesh Ambani's Jio Seeks Record $108 Billion Valuation",
+      "brief": "Reliance Jio has filed its red herring prospectus, aiming for a record-breaking $108 billion valuation in its upcoming Indian initial public offering, complete with special reservations for RIL shareholders.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2pOLUFIMVROWjYtbmFkc1p1SU4zb0dENXZ6RHVRR2F2ZDFMYkU5QlRmTi01V2g0c0p4QkdadjRsdW5XeWNZU2F3VUNsR1pnZ0s1QTRPTjNoSUZhUjFXdk9IZ3hSZkhUX0lIWGhYYlk5OEpqSGtnZjdsQzdnM2EwZThhcFF5VjhqcXU1VWprc3pFdGZPeTl4cFhhbmp2UGE3SFpXalBWTHJqTDNX?oc=5",
+      "dateLocation": "Today | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Canada's Fairfax Buys Majority Stake in IDBI Bank",
+      "brief": "Fairfax has successfully acquired a majority stake in IDBI Bank for a massive $5.56 billion, marking a significant foreign investment milestone in India's banking sector.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRW9Gd1hTQ3NKTFN5LWFTYlFVNkttUVduTzlaUnJTX25jUm9SeFV3dTFFNnR5aG5Hb0g4Tmx6WnR6TlhqcVVzRWhnRVVxN19UVzA5bnR2UnBFMkRMY3lpbkgwU3hjeWNhWkV2VFJVM2JUbURpLWpYb2dLVkltaTFSbURJLXBTX3J0UTBPQXR6ZnpuTkpFS1M3STNiR2JtWTQ?oc=5",
-      "dateLocation": "October 14, 2026 | New Delhi/Reuters",
+      "dateLocation": "Today | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bank of Baroda to Defend $15B Lawsuit",
-      "brief": "India's Bank of Baroda stated it will vigorously defend its interests after UAE businessman Shetty filed a $15 billion lawsuit accusing the bank and others of involvement in siphoning funds that caused his business empire to collapse.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMTZESmVsRjhVODdrejh2dmx0WkZvMnZXcmNuU1JtM3Z6b0RFMElUVTl2Q2ZBUXlyY2VJSVhFVDZXNjZXSS1vanVOLVhiQmdKSnFWamMxUEthb3BDMFBGVFdBUDZPTzloaEJ3UkVKSC04dzJsUUpCaFFDYmR2SzFmX3RjdkMtYmhhelBFalByT25zcWJpQkwwTzNYSUhNQmNycEllc2Z0VTN5dG50eENERnZveEFrdHpFMHk1QzluY0JQOUlibjJzUjZzZDdKeTBaUG5LNXdOX3g0cS00T1poNjJuTQ?oc=5",
-      "dateLocation": "October 14, 2026 | Mumbai/Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AEP to Invest $4B in Fuel Cell Project",
-      "brief": "American Electric Power is set to invest $4 billion in a massive fuel cell energy project designed specifically to power Google's growing digital infrastructure needs, highlighting soaring energy demands from tech giants.",
+      "headline": "American Electric Power to Invest $4B in Google Project",
+      "brief": "American Electric Power has announced a major $4 billion investment plan toward a fuel cell energy project designed to exclusively power Google's growing infrastructure needs.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDVWVDNiei1GdWtyUjd1WUIxSlVJVDFLQ2xnazFXVkZBLWRvUmwtTnJ0R0xmRTBscml5UnJVaWJhXzZzakQxbFMwTlE4MDhLUWRBTzVjWjMtcXotbV80aWd4RHj5WkVhZVpTb2x5MmZpeDhtNG53RzEwcUlPZEdfb0N6VE8xeGpfZC05YUduY1g3c1lvUWF1R2JDQzg0cy12TlZrTGRKWnJfYzNSOXFuMURYVVJyT2ZFcjJ6ejFhaDh3MklF?oc=5",
-      "dateLocation": "October 14, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDVWVDNiei1GdWtyUjd1WUIxSlVJVDFLQ2xnazFXVkZBLWRvUmwtTnJ0R0xmRTBscml5UnJVaWJhXzZzakQxbFMwTlE4MDhLUWRBTzVjWjMtcXotbV80aWd4RHJ5WkVhZVpTb2x5MmZpeDhtNG53RzEwcUlPZEdfb0N6VE8xeGpfZC05YUduY1g3c1lvUWF1R2JDQzg0cy12TlZrTGRKWnJfYzNSOXFuMURYVVJyT2ZFcjJ6ejFhaDh3MklF?oc=5",
+      "dateLocation": "Today | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Google DeepMind Chief Calls AI Hacks Warning",
-      "brief": "Google DeepMind's Demis Hassabis has characterized recent artificial intelligence security breaches as critical early warning shots, emphasizing the urgent need for advanced cyber defense frameworks as generative capabilities accelerate globally.",
+      "headline": "Ukraine Claims SpaceX Hampers Drones Amid Fraying Ties",
+      "brief": "Ukrainian officials have expressed frustration, stating that SpaceX is hampering crucial military drone operations for both attack and defense as broader US-Ukraine relations experience strain.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
-      "dateLocation": "October 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ukraine Alleges US Curtails Drone Support",
-      "brief": "Ukrainian officials claim SpaceX and US policies are inadvertently hampering drone operations for both attack and defense, citing fraying ties and reduced intelligence sharing regarding incoming missile strikes.",
-      "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmVTMHFJSVptMmRyQVZ3bTNtYktTRldrczlZUUF6dFBmZnl3WDRvcVpJOEU1azE3OEZlUXg2d005UGpnZ2NTR08tRC1xbmtMZVc4eldhb1ZaV1k3bVV1TXZ0VENlWWQ5MGduMk51dUNQVDJaaTNyRDk2dXB0X2xLT2FsNFRpemlybjZfZXlTei1TZEo5d2xLVmRUNTRJUkhhZEVZeWpBcHZrZ21VZFBYMVl6LTVHY2k2MkhFZnJ3RU9KS0Rs?oc=5",
-      "dateLocation": "October 14, 2026 | Kyiv/Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "Today | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Yemen Houthis Vow More Infrastructure Strikes",
-      "brief": "Yemen's Houthi movement has vowed to launch additional attacks targeting Saudi airports and oil installations following a reported strike on an Aramco headquarters, escalating regional geopolitical tensions.",
+      "headline": "Yemen's Houthis Strike Saudi Aramco HQ and Vow Attacks",
+      "brief": "Following a direct missile strike that damaged the top floors of Saudi Aramco's headquarters, Yemeni Houthi forces have vowed to launch further attacks on regional Saudi airports and oil installations.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
-      "dateLocation": "October 14, 2026 | Reuters",
+      "dateLocation": "Today | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India WPI Inflation Surges to 11.39%",
-      "brief": "India's wholesale price index inflation spiked to 11.39% in September, driven by rising global commodity prices, fuel costs, and supply chain disruptions linked to the ongoing West Asian conflict.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-wpi-inflation-surges-to-record-high-of-11-39-in-september-on-higher-food-fuel-prices/articleshow/134945901.cms",
-      "dateLocation": "October 14, 2026 | New Delhi/Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Two Singaporean Ships Attacked in Strait of Hormuz",
+      "brief": "Maritime security reports confirm that two Singaporean ships have come under fire in the vital Strait of Hormuz, with one vessel sinking amid a severe onboard fire.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/exclusive-two-singaporean-ships-attacked-in-strait-of-hormuz-one-sinks-amid-fire/articleshow/134945123.cms",
+      "dateLocation": "Today | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Canada and India Target Year-End Trade Pact",
-      "brief": "Canada and India are accelerating bilateral negotiations to finalize a major comprehensive economic partnership agreement by the end of the year to bolster bilateral trade ties amidst changing global dynamics.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/canada-and-india-aim-for-major-trade-pact-by-year-end-to-boost-economic-ties/articleshow/134945593.cms",
-      "dateLocation": "October 14, 2026 | New Delhi/Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "USCIS Proposes End to Visa Deference",
-      "brief": "The US Department of Homeland Security published a proposed rule to eliminate deference to earlier H-1B and L-1 visa approvals, signaling increased scrutiny and tighter immigration compliance requirements for renewals.",
+      "headline": "Mauritius Hit by Worst Unrest Since 1999 Amid Riots",
+      "brief": "Severe public anger over water shortages, rising living costs, and a controversial police shooting has plunged Mauritius into its worst series of riots since 1999.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/h1b-l-1-visa-extensions-may-face-greater-scrutiny-as-uscis-seeks-to-end-deference-to-earlier-approvals-11791985453556.html",
-      "dateLocation": "October 14, 2026 | Washington/Livemint",
+      "sourceUrl": "https://www.livemint.com/news/world/mauritius-rocked-by-worst-riots-since-1999-how-a-police-shooting-triggered-unrest-explained-11791998417925.html",
+      "dateLocation": "Today | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Protest Detentions Spark Legal & Political Row",
-      "brief": "The detention of civil rights activists near Jantar Mantar has triggered severe political condemnation from opposition leaders, with legal questions mounting over the public unavailability of local prohibitory orders.",
+      "headline": "US Lawmaker Criticizes India Over Voter Roll Deletions",
+      "brief": "Democratic Congresswoman Pramila Jayapal has voiced deep concerns regarding reports of India purging millions of citizens from voter rolls, backing non-violent protests against anti-democratic policies.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/questions-over-publicly-unavailable-prohibitoryorders-amid-delhi-protest-detentions/article71583646.cms",
-      "dateLocation": "October 14, 2026 | New Delhi/The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-lawmaker-pramila-jayapal-concerned-over-sir-voter-rolls-deletions/article71585479.cms",
+      "dateLocation": "Today | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bouli Brace Leads Punjab Past Odisha in ISL",
-      "brief": "A stellar brace by striker Bouli propelled Punjab FC to a narrow victory over Odisha FC in a tightly contested Indian Super League football fixture.",
+      "headline": "GSK Plans Major Restructuring with 1,217 Job Cuts in Belgium",
+      "brief": "Pharmaceutical giant GSK has unveiled a sweeping three-year restructuring plan that involves slashing up to 1,217 jobs at its operational sites across Belgium.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2xlQkdqRUlNQkU2UTRoMHpzQVNEcE9Za1dVY1hVVl9hWmhTVXREWHJTVmd5TUpEVVBvb3B2bVE5MGNUZGJWcUxkZFBXY00xVThVZEloZ2xEOW5UdkRGR0dNbXFjU2hpT1NaNXM5QVpVV3RMSDdsUUEzVWhRbDROMzZjaE5qT1JXSFlJZmRMRUpILU03S0YwSUJZU3RWMW8?oc=5",
+      "dateLocation": "Today | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Tightens Tax Regulations for Mauritius Investments",
+      "brief": "Indian tax authorities have tightened regulations under the double taxation avoidance agreement, granting officials powers to deny benefits if tax relief is found to be the sole motive.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/officials-can-deny-benefits-if-tax-relief-found-sole-motive-india-mauritius-double-taxation-avoidance-agreement/articleshow/134950348.cms",
+      "dateLocation": "Today | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "West Indies Defeat India to Level T20 Series in Hyderabad",
+      "brief": "A brilliant century by Shai Hope combined with Keemo Paul's devastating five-wicket haul propelled the West Indies to a comprehensive victory over India, leveling the series.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/football/isl-boulis-brace-helps-punjab-edge-odisha/article71585098.cms",
-      "dateLocation": "October 14, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shai-hopes-ton-keemo-pauls-five-for-sink-india-west-indies-level-series-in-hyderabad/articleshow/134948215.cms",
+      "dateLocation": "Today | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Shai Hope Hits Fourth Ton on Tour",
-      "brief": "West Indies batsman Shai Hope continued his exceptional run of form by slamming his fourth century of the ongoing tour against India in the fourth T20 international encounter.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-wi-4th-t20i-shai-hopes-dream-run-continues-with-fourth-ton-of-tour-windies-post-247/3-against-india/articleshow/134946052.cms",
-      "dateLocation": "October 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Gold Drops Over 1% Amid Rising US Inflation Data",
+      "brief": "Gold prices fell more than one percent as hot consumer inflation readings out of the United States fueled higher market bets for upcoming Federal Reserve interest rate hikes.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
+      "dateLocation": "Today | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
