@@ -1,132 +1,108 @@
 {
-  "lastUpdated": "2026-10-14T03:26:29.260Z",
+  "lastUpdated": "2026-10-14T11:08:01.287Z",
   "ticker": [
-    "US Secretary of State Marco Rubio to visit India",
-    "Pope Leo XIV diagnosed with lung cancer after surgery",
-    "Aramco headquarters struck by Houthi missile attack",
-    "IBM to deploy India's first quantum computer",
-    "India delays UPI payment fee rollout past Diwali"
+    "Jio preps for massive ₹30,000 crore IPO filing",
+    "Air India Frankfurt-Delhi flight suffers security scare",
+    "US Secretary of State Marco Rubio heads to India",
+    "Ukrainian drones target major Russian data center",
+    "Trump administration ends 540-day H-1B work permit extension"
   ],
   "articles": [
     {
-      "headline": "US Top Diplomat Marco Rubio to Visit India",
-      "brief": "US Secretary of State Marco Rubio is scheduled to travel to India for high-level discussions focusing on strategic alliances, energy collaborations, and bilateral investment opportunities.",
+      "headline": "Jio Prepares for Record ₹30,000 Crore IPO Listing",
+      "brief": "Reliance Jio is gearing up to file its red herring prospectus for what is expected to be India's largest-ever initial public offering, valued at around ₹30,000 crores.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-countdown-begins-for-the-mother-of-all-ipos-jio-likely-to-file-rhp-today-for-record-rs-30000-crore-issue/articleshow/134932999.cms",
+      "dateLocation": "2026-10-14 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Ultra-Short-Term Borrowing Costs Hit Four-Year High",
+      "brief": "Domestic borrowing costs for ultra-short-term funds have spiked significantly, pushing the premium over the policy rate to a four-year high amid tighter market liquidity.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/indias-ultra-short-term-borrowing-costs-spike-premium-over-policy-rate-hits-4-year-high/articleshow/134938755.cms",
+      "dateLocation": "2026-10-14 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Air India Frankfurt-Delhi Flight Diverted Over Security Alert",
+      "brief": "An Air India flight from Frankfurt to Delhi was diverted to Jaipur following a suspected hijack and bomb threat alert, landing safely before undergoing thorough security checks.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/india/air-india-ai-2030-frankfurt-delhi-flight-diverted-to-jaipur-11791961351812.html",
+      "dateLocation": "2026-10-14 | Jaipur, India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Administration Ends 540-Day H-1B Permit Extension",
+      "brief": "In a major blow to foreign professionals, the US administration has terminated the long-standing 540-day automatic work permit extension for eligible immigrants awaiting visa renewals.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1h6MGx1YnQyUm5SaUhtOXhPeFhpMkl0U0R2QVh3b0NBUGhiaEdDNVpNVUlNbGN0bUR4el9jSHBNQnQ2V1NOTFQ3RWlnMFd4Q2xMOERxMWxmNUgwZ05VNk8yY0lDUmR1QkhlMWhvcV9HN0taeV81RFpyZkoycGRsM3hPSnJiQkFta0h6UnBKNDlWTlJJOUtRckRtQ2FiZ0s2czlVSl9qNEZBUHBUUFE?oc=5",
-      "dateLocation": "Oct 14, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/us-news/another-blow-to-h-1b-workers-in-us-trump-admin-ends-540-day-automatic-work-permit-extension-for-immigrants-11791964221196.html",
+      "dateLocation": "2026-10-14 | Washington, USA",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pope Leo XIV Diagnosed With Lung Cancer",
-      "brief": "The Vatican has confirmed that Pope Leo XIV has been diagnosed with lung cancer following a successful surgical procedure to remove the lower lobe of his right lung.",
+      "headline": "Ukrainian Drones Strike Russia's Largest Data Center Facility",
+      "brief": "In a targeted infrastructure attack, Ukrainian drones successfully hit Russia's biggest data center, causing significant disruptions to digital operations and technical services.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5",
+      "dateLocation": "2026-10-14 | Kyiv, Ukraine",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Vande Bharat Express Test Runs Successfully at 180 Kmph",
+      "brief": "A newly manufactured 16-coach Vande Bharat Express set produced by RCF Kapurthala successfully completed high-speed trials reaching 180 kilometers per hour on the Mathura-Nagda section.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/in-2019-first-vande-bharat-express-was-rolled-out-from-icf-in-2026-rcf-and-mcf-also-manufacture-semi-high-speed-train-sets-with-rcf-made-vande-bharat-tested-successfully-at-180-kmph/articleshow/134936459.cms",
+      "dateLocation": "2026-10-14 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ajinkya Rahane and Sourav Ganguly Play Cricket at Buckingham Palace",
+      "brief": "Former Indian cricket captains Ajinkya Rahane and Sourav Ganguly surprised onlookers by playing a friendly game of tennis-ball cricket with Britain's Prince William outside Buckingham Palace.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/ajinkya-rahane-ganguly-play-tennis-ball-cricket-with-britains-prince-william-outside-buckingham-palace/articleshow/134939360.cms",
+      "dateLocation": "2026-10-14 | London, UK",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cabinet Clears 78-Day Bonus for 11.4 Lakh Railway Employees",
+      "brief": "The Union Cabinet has approved a productivity-linked bonus worth over ₹2,000 crore for more than 11.4 lakh railway staff members ahead of the upcoming festive holiday season.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/78-day-bonus-for-railway-staff-cabinet-clears-rs-2010-crore-payout-for-11-4-lakh-employees/articleshow/134939533.cms",
+      "dateLocation": "2026-10-14 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India to Meet 90 Percent Domestic Urea Demand by 2030",
+      "brief": "The Indian government aims to produce 90 percent of its domestic urea requirements locally by 2030 to bolster national food security and reduce exposure to volatile global markets.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/india-to-meet-90-of-its-domestic-urea-demand-by-2030-to-improve-food-security-11791948362194.html",
+      "dateLocation": "2026-10-14 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rahul Gandhi Vows to Reclaim Jantar Mantar Protest Site",
+      "brief": "Congress leader Rahul Gandhi criticized the detention of activists and vowed to reclaim Jantar Mantar as a public space for peaceful democratic demonstrations against the central government.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/jantar-mantar-belongs-to-people-of-india-rahul-gandhi-vows-to-reclaim-protest-site-11791969235016.html",
+      "dateLocation": "2026-10-14 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IEA Warns Diesel Shortages Could Persist Into 2027",
+      "brief": "The International Energy Agency has projected that global diesel shortages may continue to trouble energy markets well into 2027 due to ongoing supply disruptions and refinery constraints.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmx3MC1ZNktjTUI0ODR3THRhZGw1dk1mWXozUDJqbHFJSGhvT2ZyYW1GZHlLQnh2dk1pMUE3YnhqYi1XX3lVRFA5MHdTS1lWSGtlNEFtclc4S2dMX3NqOTZPMURyZXN2WEJ0Ulo3b1hrNXlKeDJHbHRYRGFVVWluYXBCeVZadXJtRXJCZDVEN2xVWGs1cHYtbHJXQ29YRVlzZlBNVkJ3d3h1Zw?oc=5",
+      "dateLocation": "2026-10-14 | Paris, France",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Chennai Hospital Organizes Breast Cancer Awareness Camp",
+      "brief": "A leading hospital in Chennai hosted a specialized community health workshop aimed at promoting early detection, screening protocols, and advanced treatment options for breast cancer.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/international/pope-leo-has-lung-cancer-lower-lobe-of-right-lung-removed-vatican/article71581183.ece",
-      "dateLocation": "Oct 14, 2026 | Vatican City",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/city-hospital-organises-breast-cancer-awareness-programme/article71580266.ece",
+      "dateLocation": "2026-10-14 | Chennai, India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Houthi Missiles Strike Saudi Aramco Headquarters",
-      "brief": "Aramco's executive headquarters in eastern Saudi Arabia suffered a missile strike from Yemen’s Houthi movement, resulting in a localized fire within the complex.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/aramco-headquarters-hit-as-houthi-missiles-strike-saudi-arabia-11791943489706.html",
-      "dateLocation": "Oct 14, 2026 | Riyadh",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IBM to Deploy India's First Quantum Computer",
-      "brief": "IBM has announced plans to deploy India's very first quantum computer in Amaravati by early 2027, marking a massive milestone for the nation's technological advancement.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/ibm-to-deploy-indias-first-quantum-computer-in-amaravati-early-2027/articleshow/134923141.cms",
-      "dateLocation": "Oct 14, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hyundai Commits $15.5 Billion to India",
-      "brief": "Hyundai Motor Group has pledged $15.5 billion to transform India into a premier global automotive manufacturing and innovation hub.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaTAxYUgwb0NOaFd1S182Y2xyS1ZUNTFBb2ZlZkF2c1FEaHZoTXhVaXg0MjRzZTY4cUpHbHVlV0FUZFJIUHZDb1lnUEx2Q1RGendxYTZwdVBVNmhBZW1RT1hVeUtPZkMwR1k4WnNmSnA4YXV4cnJOR1p2THRvMTF4RkhYVUVrMEVXLUo3Mi1VRE1IcXFEODFxbnZ5ejRad3lLanNZSnFsNVVxZEVaM1kwSnh3?oc=5",
-      "dateLocation": "Oct 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Postpones UPI Payment Fee Rollout",
-      "brief": "The Indian government has officially delayed the implementation of new UPI payment fees until after the conclusion of the upcoming Diwali festival season.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUhPV1BqYlJQZS0teVdaT3NfQUkwOE1Da1RaOUhQVUQtejhldFJZdWpTV0dsNmJWbUNUeklWR0M5Z2pqRURKX1hIbHBHZEE2aXNYMnBveXJIeURzSnY4U3RCNHRuMFN6c3dxdkw3dS10dXhLNWdSdlU4X1RGbVg2a3RtNS1NTXkzdGRCYWRIdUttUjZrQ2Z3T19kLWFwaG43VTN1cVlsYkhXQXNuZnc?oc=5",
-      "dateLocation": "Oct 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nvidia Acquires Stakes in French Tech Startups",
-      "brief": "Silicon Valley giant Nvidia has expanded its European footprint by acquiring equity stakes in high-profile French technology startups Doctolib and Genesis AI.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5",
-      "dateLocation": "Oct 14, 2026 | Paris",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Consider Raising Coal Power Capacity",
-      "brief": "A senior Indian government official has stated that the country may need to scale up its coal-powered electricity capacity to address surging nationwide energy demands.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDVFc29YZ0tTd1ZQOTNPVDV3NVU0ZmMyX0tRamFoT2U1em9oenhOck5FZVpuZDZwekoyN1oxMEFaVnBTWWktNjNvNzgxVlEyM2ViTS1rWXlNeXNkSV9HRmJ0ZVJnTHpoTVFIc0FwcUFGWk5DM0ZGWXNOYmg5UlhHdnQ2cmpVTWpVQW44U2hVdG9FUC0yZ2tzYXdGOU53dUJRbHNZVmYzWlVic0Y5dWxpU0dfcVdMR3ZCRndacQ?oc=5",
-      "dateLocation": "Oct 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Shifts Tactics to Target Gulf Shipping",
-      "brief": "Intelligence reports reveal Iran has altered military and economic tactics, stepping up attacks on commercial shipping in the Gulf to exert pressure on Washington.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-shifts-tactics-steps-up-gulf-shipping-attacks-to-pressure-trump-before-us-midterms/articleshow/134930367.cms",
-      "dateLocation": "Oct 14, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Engineer Arrested for Planting Spy Device",
-      "brief": "The FBI has arrested an OpenAI software engineer after a hidden, encrypted recording device was discovered inside an executive conference room in San Francisco.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/who-is-abdulrahman-alfozan-openai-engineer-arrested-by-planting-recording-device-in-conference-room-11791940480928.html",
-      "dateLocation": "Oct 14, 2026 | San Francisco",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Fitness Concerns Delay India's New Zealand Squad",
-      "brief": "Ongoing fitness evaluations for key players like Prasidh Krishna and Harshit Rana have forced selectors to delay finalizing India's squad for the upcoming New Zealand tour.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/indias-tour-of-new-zealand-prasidh-krishna-harshit-ranas-fitness-delays-team-selection/articleshow/134930513.cms",
-      "dateLocation": "Oct 14, 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Shikhar Dhawan to Take Legal Action Over League",
-      "brief": "Former Indian cricketer Shikhar Dhawan announced plans to pursue legal action against franchise league organizers who allegedly used his name and likeness without permission.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/my-name-used-without-permission-shikhar-dhawan-to-take-legal-action-against-league/articleshow/134930585.cms",
-      "dateLocation": "Oct 14, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi Police Detain Anti-CEC Protest Leaders",
-      "brief": "Delhi Police have placed several leaders of the Cockroach Janata Party under preventive arrest following an unauthorized demonstration near the Jantar Mantar area.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/anti-cec-protests-cjp-arrest-rahul-gandhi-india-bloc-gyanesh-kumar-resignation-saurav-das-ashutosh-ranka-live-updates/article71582057.ece",
-      "dateLocation": "Oct 14, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Global Oil Prices Climb on Supply Concerns",
-      "brief": "Crude oil futures extended gains as international traders factored in escalating Saudi supply risks alongside tightening restrictions on Russian diesel flows.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
-      "dateLocation": "Oct 14, 2026 | London",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Malawi Motorists Face Severe Fuel Shortages",
-      "brief": "Motorists across Malawi are enduring long lines and sleeping at petrol stations as a debilitating nationwide fuel shortage makes a sudden return.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2NrN0RlUmJKejJzYjh5N0hSRXBhUUQ4MHVrYmlSTVBRR2kzeUUxTVN3NkoyaFpKYVlCcU1tWEFtX0ZBcXlYWXpDQndFRUxPZjJmM2FLSVBna3I2R25XY0wtWHpBSUt4VzJEYWk3NzViTGM3OTFsbnRKMHNqR1VXQVU0UHdxLU41Q3BkdmhDRWJFek9YSnNXdFRmMjdOUUd4aTBWaF8wNUFCZjVBVEE?oc=5",
-      "dateLocation": "Oct 14, 2026 | Lilongwe",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
