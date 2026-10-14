@@ -1,124 +1,132 @@
 {
-  "lastUpdated": "2026-10-13T22:16:02.605Z",
+  "lastUpdated": "2026-10-14T03:26:29.260Z",
   "ticker": [
-    "Pope Leo XIV has lung cancer surgery in Vatican",
-    "India postpones UPI payment fee rollout until post-Diwali",
-    "Two ships hit by projectiles in Strait of Hormuz",
-    "Bihar boat capsizes in Vaishali leaving multiple dead",
-    "Hyundai pledges $15.5 billion in Indian auto sector"
+    "US Secretary of State Marco Rubio to visit India",
+    "Pope Leo XIV diagnosed with lung cancer after surgery",
+    "Aramco headquarters struck by Houthi missile attack",
+    "IBM to deploy India's first quantum computer",
+    "India delays UPI payment fee rollout past Diwali"
   ],
   "articles": [
     {
-      "headline": "India Postpones UPI Payment Fee Until After Diwali",
-      "brief": "The Indian government has officially delayed the rollout of planned UPI payment processing fees until the conclusion of the Diwali festival season, providing temporary relief to digital consumers and merchants alike.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUhPV1BqYlJQZS0teVdaT3NfQUkwOE1Da1RaOUhQVUQtejhldFJZdWpTV0dsNmJWbUNUeklWR0M5Z2pqRURKX1hIbHBHZEE2aXNYMnBveXJIeURzSnY4U3RCNHRuMFN6c3dxdkw3dS10dXhLNWdSdlU4X1RGbVg2a3RtNS1NTXkzdGRCYWRIdUttUjZrQ2Z3T19kLWFwaG43VTN1cVlsYkhXQXNuZnc?oc=5",
-      "dateLocation": "October 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Top Diplomat Marco Rubio to Visit India",
+      "brief": "US Secretary of State Marco Rubio is scheduled to travel to India for high-level discussions focusing on strategic alliances, energy collaborations, and bilateral investment opportunities.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1h6MGx1YnQyUm5SaUhtOXhPeFhpMkl0U0R2QVh3b0NBUGhiaEdDNVpNVUlNbGN0bUR4el9jSHBNQnQ2V1NOTFQ3RWlnMFd4Q2xMOERxMWxmNUgwZ05VNk8yY0lDUmR1QkhlMWhvcV9HN0taeV81RFpyZkoycGRsM3hPSnJiQkFta0h6UnBKNDlWTlJJOUtRckRtQ2FiZ0s2czlVSl9qNEZBUHBUUFE?oc=5",
+      "dateLocation": "Oct 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IMF Highlights India's Robust Economic Growth Trajectory",
-      "brief": "In a bullish global assessment, the International Monetary Fund highlighted India's impressive growth metrics, describing the nation as a resilient sprinting force amid wider global economic stumbling.",
+      "headline": "Pope Leo XIV Diagnosed With Lung Cancer",
+      "brief": "The Vatican has confirmed that Pope Leo XIV has been diagnosed with lung cancer following a successful surgical procedure to remove the lower lobe of his right lung.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/international/pope-leo-has-lung-cancer-lower-lobe-of-right-lung-removed-vatican/article71581183.ece",
+      "dateLocation": "Oct 14, 2026 | Vatican City",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Houthi Missiles Strike Saudi Aramco Headquarters",
+      "brief": "Aramco's executive headquarters in eastern Saudi Arabia suffered a missile strike from Yemen’s Houthi movement, resulting in a localized fire within the complex.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/aramco-headquarters-hit-as-houthi-missiles-strike-saudi-arabia-11791943489706.html",
+      "dateLocation": "Oct 14, 2026 | Riyadh",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IBM to Deploy India's First Quantum Computer",
+      "brief": "IBM has announced plans to deploy India's very first quantum computer in Amaravati by early 2027, marking a massive milestone for the nation's technological advancement.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/ibm-to-deploy-indias-first-quantum-computer-in-amaravati-early-2027/articleshow/134923141.cms",
+      "dateLocation": "Oct 14, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hyundai Commits $15.5 Billion to India",
+      "brief": "Hyundai Motor Group has pledged $15.5 billion to transform India into a premier global automotive manufacturing and innovation hub.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaTAxYUgwb0NOaFd1S182Y2xyS1ZUNTFBb2ZlZkF2c1FEaHZoTXhVaXg0MjRzZTY4cUpHbHVlV0FUZFJIUHZDb1lnUEx2Q1RGendxYTZwdVBVNmhBZW1RT1hVeUtPZkMwR1k4WnNmSnA4YXV4cnJOR1p2THRvMTF4RkhYVUVrMEVXLUo3Mi1VRE1IcXFEODFxbnZ5ejRad3lLanNZSnFsNVVxZEVaM1kwSnh3?oc=5",
+      "dateLocation": "Oct 14, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Postpones UPI Payment Fee Rollout",
+      "brief": "The Indian government has officially delayed the implementation of new UPI payment fees until after the conclusion of the upcoming Diwali festival season.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/imfs-bullish-call-why-is-india-sprinting-when-the-world-stumbles/articleshow/134913766.cms",
-      "dateLocation": "October 14, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUhPV1BqYlJQZS0teVdaT3NfQUkwOE1Da1RaOUhQVUQtejhldFJZdWpTV0dsNmJWbUNUeklWR0M5Z2pqRURKX1hIbHBHZEE2aXNYMnBveXJIeURzSnY4U3RCNHRuMFN6c3dxdkw3dS10dXhLNWdSdlU4X1RGbVg2a3RtNS1NTXkzdGRCYWRIdUttUjZrQ2Z3T19kLWFwaG43VTN1cVlsYkhXQXNuZnc?oc=5",
+      "dateLocation": "Oct 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Nvidia Acquires Stakes in French Tech Startups",
-      "brief": "Semiconductor giant Nvidia has expanded its European footprint by securing strategic financial stakes in prominent French tech startups Doctolib and Genesis AI to bolster AI development.",
+      "brief": "Silicon Valley giant Nvidia has expanded its European footprint by acquiring equity stakes in high-profile French technology startups Doctolib and Genesis AI.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW55VGhBbzRadERGZ3AwQlI?oc=5",
-      "dateLocation": "October 14, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5",
+      "dateLocation": "Oct 14, 2026 | Paris",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Department of Energy Declares Grid Emergency in 13 States",
-      "brief": "US Energy Secretary Chris Wright issued a power grid emergency declaration across 13 states, empowering PJM Interconnection to actively manage generation units amid surging electricity demands.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-department-of-energy-declares-power-grid-emergency-in-13-states-what-it-is-and-what-it-means-for-the-residents-of-the-states-impacted/articleshow/134915660.cms",
-      "dateLocation": "October 14, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pope Leo XIV Undergoes Successful Lung Cancer Surgery",
-      "brief": "The Vatican confirmed that 71-year-old Pope Leo XIV successfully underwent surgery to remove the lower lobe of his right lung after being diagnosed with lung cancer, and is currently recovering.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/international/pope-leo-has-lung-cancer-lower-lobe-of-right-lung-removed-vatican/article71581183.ece",
-      "dateLocation": "October 14, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Confronts Growing Overtreatment and Overmedication Crisis",
-      "brief": "Medical experts across India are raising alarms regarding a pervasive rise in unnecessary clinical tests, pharmaceutical prescriptions, and surgical procedures contributing to systemic healthcare strain.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/opinion/lead/indias-problem-of-overtreatment-and-overmedication/article71575996.ece",
-      "dateLocation": "October 14, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Stays Trial Against Rahul Gandhi Over Remarks",
-      "brief": "The Supreme Court of India granted a significant legal reprieve by staying trial proceedings against opposition leader Rahul Gandhi in connection with political remarks made during past campaigns.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/commander-in-thief-remark-sc-stays-trial-against-rahul-gandhi/articleshow/134925847.cms",
-      "dateLocation": "October 14, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and Canada Advance Bilateral Ties and Trade Talks",
-      "brief": "Prime Minister Narendra Modi spoke with Canadian Prime Minister Mark Carney to advance strategic cooperation across energy, security, and trade ahead of Foreign Minister Anita Anand's visit.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/agreed-to-build-on-positive-momentum-pm-modi-speaks-with-canada-s-carney-ahead-of-fm-anita-anand-s-india-visit-11791914533896.html",
-      "dateLocation": "October 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hyundai Motor Group Announces $15.5 Billion Investment in India",
-      "brief": "Hyundai Motor Group has committed a massive $15.5 billion capital injection into India's growing automotive sector, aiming to significantly scale up local manufacturing capabilities and electric vehicle infrastructure.",
+      "headline": "India Consider Raising Coal Power Capacity",
+      "brief": "A senior Indian government official has stated that the country may need to scale up its coal-powered electricity capacity to address surging nationwide energy demands.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-group-to-plug-15-5-billion-in-indias-automotive-sector/articleshow/134920115.cms",
-      "dateLocation": "October 14, 2026 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDVFc29YZ0tTd1ZQOTNPVDV3NVU0ZmMyX0tRamFoT2U1em9oenhOck5FZVpuZDZwekoyN1oxMEFaVnBTWWktNjNvNzgxVlEyM2ViTS1rWXlNeXNkSV9HRmJ0ZVJnTHpoTVFIc0FwcUFGWk5DM0ZGWXNOYmg5UlhHdnQ2cmpVTWpVQW44U2hVdG9FUC0yZ2tzYXdGOU53dUJRbHNZVmYzWlVic0Y5dWxpU0dfcVdMR3ZCRndacQ?oc=5",
+      "dateLocation": "Oct 14, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Shell Agrees to Sell Nigerian Gas Business to Vaaris Energy",
-      "brief": "Energy giant Shell has taken steps to divest its commercial gas business operations in Nigeria, reaching a definitive sales agreement with buyer Vaaris Energy as part of ongoing regional portfolio restructurings.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3FsTHd4OGFfa3l4X2lJRmdpdnlDRmVfSzJ4c1dxWTd1OXEyVDNLb0pwa056Vm56LTdzMUxMTkNqQ0lMM3EzeW9Iek1HRV8tMGZieGkxcmU0LU9GbEVqY2N4aTlUc0tyNFV6NGJzOTV4bUQyc29laFBLSEZWRnF3MUU2dzJpNEhzVWdwbDVIaHh2ejJadlFRZDNWUk1nTEFDU1ow?oc=5",
-      "dateLocation": "October 14, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Two Commercial Ships Struck by Projectiles in Strait of Hormuz",
-      "brief": "Maritime security agencies reported that two commercial cargo vessels sustained direct hits from unidentified projectiles while navigating through the critical shipping chokepoint of the Strait of Hormuz.",
+      "headline": "Iran Shifts Tactics to Target Gulf Shipping",
+      "brief": "Intelligence reports reveal Iran has altered military and economic tactics, stepping up attacks on commercial shipping in the Gulf to exert pressure on Washington.",
       "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-two-ships-hit-by-projectiles-in-strait-of-hormuz-maritime-agency-says-oil-tanker/articleshow/134926301.cms",
-      "dateLocation": "October 14, 2026 | Economic Times",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-shifts-tactics-steps-up-gulf-shipping-attacks-to-pressure-trump-before-us-midterms/articleshow/134930367.cms",
+      "dateLocation": "Oct 14, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Issues Urgent Safety Advisory for Citizens in Saudi Arabia",
-      "brief": "Following recent regional missile and drone strikes near Riyadh, the Indian government issued an urgent advisory urging its expatriate nationals in Saudi Arabia to stay indoors and exercise caution.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/india-issues-fresh-advisory-for-citizens-in-saudi-arabia-amid-houthi-attacks-stay-indoors-don-t-share-videos-11791910238185.html",
-      "dateLocation": "October 14, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Boat Capsizes in Bihar's Vaishali District, Multiple Casualties Reported",
-      "brief": "A tragic boating accident on the Ganges River in Bihar's Vaishali district left over a dozen children dead and several others missing, prompting immediate state rescue and relief operations.",
+      "headline": "OpenAI Engineer Arrested for Planting Spy Device",
+      "brief": "The FBI has arrested an OpenAI software engineer after a hidden, encrypted recording device was discovered inside an executive conference room in San Francisco.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/bihar/several-killed-after-boat-capsizes-in-bihar-vaishali-october-13-2026/article71581066.ece",
-      "dateLocation": "October 14, 2026 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/us-news/who-is-abdulrahman-alfozan-openai-engineer-arrested-by-planting-recording-device-in-conference-room-11791940480928.html",
+      "dateLocation": "Oct 14, 2026 | San Francisco",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Hamstring Injury Rules Cricketer Mhatre Out for Six Weeks",
-      "brief": "Promising domestic cricketer Mhatre has been officially sidelined from competitive play for six weeks following a severe hamstring injury sustained during a Ranji Trophy opening match against Chandigarh.",
+      "headline": "Fitness Concerns Delay India's New Zealand Squad",
+      "brief": "Ongoing fitness evaluations for key players like Prasidh Krishna and Harshit Rana have forced selectors to delay finalizing India's squad for the upcoming New Zealand tour.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/ranji-trophy-hamstring-injury-rules-mhatre-out-for-six-weeks/article71579291.ece",
-      "dateLocation": "October 14, 2026 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/indias-tour-of-new-zealand-prasidh-krishna-harshit-ranas-fitness-delays-team-selection/articleshow/134930513.cms",
+      "dateLocation": "Oct 14, 2026 | Bengaluru",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Shikhar Dhawan to Take Legal Action Over League",
+      "brief": "Former Indian cricketer Shikhar Dhawan announced plans to pursue legal action against franchise league organizers who allegedly used his name and likeness without permission.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/my-name-used-without-permission-shikhar-dhawan-to-take-legal-action-against-league/articleshow/134930585.cms",
+      "dateLocation": "Oct 14, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi Police Detain Anti-CEC Protest Leaders",
+      "brief": "Delhi Police have placed several leaders of the Cockroach Janata Party under preventive arrest following an unauthorized demonstration near the Jantar Mantar area.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/anti-cec-protests-cjp-arrest-rahul-gandhi-india-bloc-gyanesh-kumar-resignation-saurav-das-ashutosh-ranka-live-updates/article71582057.ece",
+      "dateLocation": "Oct 14, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global Oil Prices Climb on Supply Concerns",
+      "brief": "Crude oil futures extended gains as international traders factored in escalating Saudi supply risks alongside tightening restrictions on Russian diesel flows.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
+      "dateLocation": "Oct 14, 2026 | London",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Malawi Motorists Face Severe Fuel Shortages",
+      "brief": "Motorists across Malawi are enduring long lines and sleeping at petrol stations as a debilitating nationwide fuel shortage makes a sudden return.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2NrN0RlUmJKejJzYjh5N0hSRXBhUUQ4MHVrYmlSTVBRR2kzeUUxTVN3NkoyaFpKYVlCcU1tWEFtX0ZBcXlYWXpDQndFRUxPZjJmM2FLSVBna3I2R25XY0wtWHpBSUt4VzJEYWk3NzViTGM3OTFsbnRKMHNqR1VXQVU0UHdxLU41Q3BkdmhDRWJFek9YSnNXdFRmMjdOUUd4aTBWaF8wNUFCZjVBVEE?oc=5",
+      "dateLocation": "Oct 14, 2026 | Lilongwe",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
