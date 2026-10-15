@@ -1,140 +1,116 @@
 {
-  "lastUpdated": "2026-10-15T16:16:24.601Z",
+  "lastUpdated": "2026-10-15T20:54:25.598Z",
   "ticker": [
-    "India's top court voids Yes Bank AT-1 bond write-off",
-    "RBI spends half of $140B FX capital haul in rupee defense",
-    "India-China trade jumps 29% to $91.76 billion in H1 FY27",
-    "Government mandates incoming caller ID display starting November 1",
-    "India's August balance of payments surplus swings to $45.4B"
+    "India Supreme Court voids Yes Bank AT-1 bond write-off",
+    "RBI spends half of $140B FX capital on rupee defense",
+    "US Army warns of rising threats to domestic infrastructure",
+    "Microsoft warns US green-card curbs will cripple tech",
+    "India mandates caller ID display across networks from Nov 1"
   ],
   "articles": [
     {
-      "headline": "Supreme Court voids Yes Bank's $880 million AT-1 write-off",
-      "brief": "In a major relief for investors, India's top court has officially voided Yes Bank's $880 million AT-1 bond write-off, reversing previous financial decisions and setting a critical precedent for bondholders and banking sector regulations across the country.",
+      "headline": "India Supreme Court voids Yes Bank bond write-off",
+      "brief": "India's Supreme Court has invalidated Yes Bank's $880 million AT-1 bond write-off, dealing a heavy blow to the lender's risk equity capital and creating fresh legal and financial challenges for the banking sector.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R?oc=5",
-      "dateLocation": "October 15, 2026 | New Delhi / Reuters",
+      "dateLocation": "October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "RBI spends half of FX capital haul defending rupee",
-      "brief": "Banking estimates reveal that the Reserve Bank of India has utilized roughly half of its $140 billion foreign exchange capital haul toward defending the domestic currency against heavy global market pressures.",
+      "headline": "RBI spends half of FX capital defending rupee",
+      "brief": "Bankers estimate that the Reserve Bank of India has utilized half of its $140 billion foreign exchange capital haul to defend the domestic currency against ongoing global market volatility.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONU5ZY25UM0c0a0FPX0ZNVl8zWGFJRVZ6YzFmNlVuR2JLb3VxMS02bmE0TDY1eW5Ra2swVzlCcnN5b2htdnZhRGNPaTVmN1hkeFE3Nm10RHNndDhORDFtRlpEbDllT2c4Ymp4VGJlY08tOTE4aXM4RTVpZXhFTmFUbHNVT05SSWV4SXlhRXB1dkFWenZJZ0RkelIxU3V3UHoyOXctd1FVMHdjLVZUc3FieXM0bUlXcXVma0lMRkhJeGw?oc=5",
-      "dateLocation": "October 15, 2026 | Mumbai / Reuters",
+      "dateLocation": "October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India-China trade jumps 29% to bypass US",
-      "brief": "Bilateral trade between India and China surged by 29% to reach $91.76 billion during the first half of fiscal year 2027, successfully overtaking the United States as India's leading trade partner in the period.",
+      "headline": "India August balance of payments surplus swings",
+      "brief": "India's balance of payments surplus experienced a sharp reversal, swinging dramatically to $45.4 billion in August as macroeconomic indicators and capital flows shifted favorably.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/india-china-trade-jumps-29-to-91-76-billion-overtakes-us-in-first-half-of-fy27/articleshow/134971325.cms",
-      "dateLocation": "October 15, 2026 | New Delhi / Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThqa3otQktseEJLd3h0T090SFZXVmZmQkNvZ2VNRXJlWm5CTFIteno0ZnEtQ1V1eGg2UVVfaURNR0RLMk52UVZmSnJLd1VHb25sMEJLdThPbFVqd0RHTk9DdVlfZG96ZEowV2lFN29iblN6VEZZZWJhUlh0MF9qd0tvbk5YemtsNWhKMkZ0UjllV1NjSTh3c3dEWGhqVnN5OUJFTzBVRnA?oc=5",
+      "dateLocation": "October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Income Tax tribunal orders ₹13,000-crore tax relief to Maruti",
-      "brief": "The Income Tax appellate tribunal has granted a massive relief of ₹13,000 crore to automotive giant Maruti Suzuki, resolving long-standing tax disputes and boosting investor confidence in the sector.",
+      "headline": "Government reduces duty drawback on jewellery exports",
+      "brief": "The Indian government has officially reduced duty drawback rates on gold and silver jewellery exports, impacting profit margins and trade dynamics for domestic bullion manufacturers.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/income-tax-tribunal-orders-13000-crore-tax-relief-to-maruti-suzuki/article71589498.ece",
-      "dateLocation": "October 15, 2026 | New Delhi / The Hindu",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/government-reduces-duty-drawback-rates-on-gold-and-silver-jewellery-exports/articleshow/134973656.cms",
+      "dateLocation": "October 2026 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government mandates caller ID display starting November 1",
-      "brief": "The Department of Telecommunications is rolling out the Calling Name Presentation feature, making caller ID displays mandatory across 4G networks starting November 1 to improve user identification and combat spam.",
+      "headline": "Volvo Cars expands automated driving partnership with Nvidia",
+      "brief": "Volvo Cars has announced an expansion of its automated driving partnership with Nvidia, aiming to accelerate the development of next-generation autonomous software and hardware systems.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/no-more-guessing-whos-calling-govt-mandates-caller-id-display-from-november-1/articleshow/134964658.cms",
-      "dateLocation": "October 15, 2026 | New Delhi / Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWtIdFNOaHNvOGk3ZDB4eHM3LWhYaWhNX3hDdE16S3RIMW1PanNrX0RDdWthRDV1ZGxaUVlQQXRuN2RsZ3Z2WkMzUWx5amJSdDdiOEFqaEo1Z3JsV0s0UkttS3I3dTJWYUtzR3hlRjl2WmM2enZkNGM3bGwtYzVyVWdGNFZOUzFuYW5MSFpiOUlxQmNKTlBfTVdZRUlaUU1nVC1rRVBUY2RoSUh4NV90WDF6Zjc5MlpneTZVWFB5RmFNZkFG?oc=5",
+      "dateLocation": "October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Anthropic infuses spiritual framing into frontier AI models",
-      "brief": "Tech major Anthropic is introducing philosophical and spiritual concepts into the training paradigms of its frontier AI models, sparking intensive industry debate about machine consciousness and governance frameworks.",
+      "headline": "Microsoft warns US green-card curbs will cripple tech",
+      "brief": "Microsoft President Brad Smith warned that proposed green-card restrictions for skilled foreign workers could cripple the United States technology sector for more than a generation, pushing vital talent overseas.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/down-the-rabbit-hole-in-claude-we-trust-can-god-save-frontier-models/articleshow/134970183.cms",
-      "dateLocation": "October 15, 2026 | San Francisco / Times of India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/could-cripple-us-tech-for-more-than-a-generation-microsoft-president-brad-smith-on-trumps-green-card-curbs-11792082351606.html",
+      "dateLocation": "October 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Rahul Gandhi urges President to reconsider gubernatorial appointment",
-      "brief": "Senior political leader Rahul Gandhi has petitioned the President of India to reconsider a controversial gubernatorial appointment citing pending Central Bureau of Investigation probes and constitutional immunity concerns.",
+      "headline": "India mandates caller ID display from November 1",
+      "brief": "The Department of Telecommunications has announced that India will mandate Calling Name Presentation across 4G and 5G networks starting November 1, enhancing user recognition while maintaining privacy protections.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/caller-name-display-mandatory-from-november-1-how-indias-new-cnap-rule-will-work-11792083819949.html",
+      "dateLocation": "October 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Five workers die in Sri City SEZ boiler blast",
+      "brief": "A tragic boiler explosion at a facility within the Sri City SEZ in Andhra Pradesh has left five workers dead and one injured, prompting a high-level government inquiry and ex gratia compensation.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/workers-killed-injured-in-a-boiler-explosion-at-a-sri-city-sez-facility/article71539836.ece",
+      "dateLocation": "October 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi deploys heavy security for upcoming political march",
+      "brief": "Delhi Police is deploying 6,000 personnel and enforcing strict traffic restrictions across Central Delhi ahead of a proposed political march, leading to the temporary closure of Connaught Place Central Park.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/rahul-gandhi-urges-president-to-reconsider-dushyant-gautams-appointment-as-governor-over-pending-cbi-probe/article71588989.ece",
-      "dateLocation": "October 15, 2026 | New Delhi / The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/6000-cops-200-capf-companies-as-cjp-pushes-ahead-with-tiranga-march-delhi-prepares-for-a-high-security-friday/articleshow/134973441.cms",
+      "dateLocation": "October 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Prashant Bhushan calls for regime change amid protests",
-      "brief": "Noted activist and lawyer Prashant Bhushan openly advocated for electoral regime change during aggressive anti-Commission protests, drawing sharp counterattacks from ruling party officials.",
+      "headline": "Sheikh Hasina extradition possible via structured process",
+      "brief": "India's High Commissioner to Bangladesh stated that the potential extradition of former Prime Minister Sheikh Hasina remains possible through a well-structured bilateral legal process following her departure.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-hell-bent-on-crushing-electoral-democracy-prashant-bhushan-calls-for-regime-change-amid-anti-cec-protests/articleshow/134968731.cms",
-      "dateLocation": "October 15, 2026 | New Delhi / Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/national/sheikh-hasinas-extradition-possible-via-well-structured-process-indias-high-commissioner-to-bangladesh/article71540564.ece",
+      "dateLocation": "October 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump weighs massive military strike on Iranian nuclear sites",
-      "brief": "Former US President Donald Trump is reportedly weighing heavy military options, including potential strikes utilizing bunker-buster munitions, against Iranian nuclear and energy infrastructure facilities.",
+      "headline": "US Army prepares for potential attacks on home soil",
+      "brief": "The US Army's acting chief of staff, Gen. Christopher LaNeve, warned that the military must prepare for potential direct attacks on domestic soil while facing deployment challenges against adversaries.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-weighs-mother-of-all-bombs-strike-on-iran-s-nuclear-and-energy-sites-what-is-it-11792072512785.html",
-      "dateLocation": "October 15, 2026 | Washington / Mint",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-army-sounds-alarm-why-america-is-preparing-for-attacks-on-its-own-soil-11792092976363.html",
+      "dateLocation": "October 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Turkey-Azerbaijan strategic alliance strained over hijab row",
-      "brief": "A burgeoning domestic hijab row and divergent geopolitical alignments, including regional ties with Israel, have unexpectedly strained the long-standing strategic partnership between Turkey and Azerbaijan.",
+      "headline": "Yemen Houthis claim attack on Riyadh Aramco facility",
+      "brief": "Yemen’s Houthi movement claimed responsibility for a missile and drone attack targeting an Aramco energy facility in Riyadh, marking an escalation in hostilities between regional forces and Saudi infrastructure.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/turkeyazerbaijan-rift-how-hijab-row-tests-limits-of-strategic-alliance-is-there-an-israel-angle-experts-weigh-in-11792078494334.html",
-      "dateLocation": "October 15, 2026 | Ankara / Mint",
+      "sourceUrl": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece",
+      "dateLocation": "October 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "South Africa drops Tristan Stubbs after crushing Test defeat",
-      "brief": "Following a heavy defeat in Durban, South Africa's cricket selectors have dropped batsman Tristan Stubbs from the Test squad, calling up alternative talent and targeting an urgent return for spearhead Kagiso Rabada.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/after-durban-drubbing-south-africa-drop-stubbs-from-squad-call-up-player-with-two-test-experience-and-eye-rabada-return/articleshow/134963584.cms",
-      "dateLocation": "October 15, 2026 | Johannesburg / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Shai Hope praised for anchoring West Indies in series",
-      "brief": "Cricketing analysts have lauded West Indies batsman Shai Hope for bucking modern trends by anchoring low-risk innings, effectively marshalling his side through difficult chases against India.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/hope-is-doing-well-without-taking-much-risk-samson/article71589035.ece",
-      "dateLocation": "October 15, 2026 | Bengaluru / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Maharashtra FDA suspends hundreds of licenses over adulterated food",
-      "brief": "The Maharashtra Food and Drug Administration suspended nearly 900 food business licenses and seized ₹50 crore worth of adulterated food products following sweeping statewide inspections over a six-month period.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/maharashtra-fda-suspends-892-licences-seizes-50-crore-of-adulterated-food-in-six-months-11792068767645.html",
-      "dateLocation": "October 15, 2026 | Mumbai / Mint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nestle India reports profit surge amid commodity inflation",
-      "brief": "Nestle India registered a strong 36% surge in quarterly profit, though executives quickly cautioned shareholders regarding persistent food and global commodity price inflation moving forward.",
+      "headline": "Nestle India flags inflation pressures after profit surge",
+      "brief": "Nestle India reported a 36% surge in quarterly profit but cautioned that persistent food and commodity inflation could weigh on upcoming financial quarters and consumer demand trends.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWJkZUU3ZVFLcl92bjE4UW5oTUxZU21mY0lzNVJwTWxGR1plNEp4S29fOGZsWnRxdkNlYzVpcnExZU1MVzZWUDc1OXJCSUs3OUtnaVRkc0VQVHJuTE5obG9hbEhlLVdwUU90MW1LOHJsSDZXbE5HYV9FUEIyYnFoSEdYQmtQWkxkQVYwZzVDX1k2cksyVk1qT09CcVhRSGxfRk0ta2lGVUVUWDdab1dNdWptb1Zhdk9w?oc=5",
-      "dateLocation": "October 15, 2026 | New Delhi / Reuters",
+      "dateLocation": "October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India's August balance of payments swings to surplus",
-      "brief": "Official figures show that India's balance of payments swung to a healthy surplus of $45.4 billion in August, bolstered by strong capital inflows and stabilizing foreign exchange reserves.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZThqa3otQktseEJLd3h0T090SFZXVmZmQkNvZ2VNRXJlWm5CTFIteno0ZnEtQ1V1eGg2UVVfaURNR0RLMk52UVZmSnJLd1VHb25sMEJLdThPbFVqd0RHTk9DdVlfZG96ZEowV2lFN29iblN6VEZZZWJhUlh0MF9qd0tvbk5YemtsNWhKMkZ0UjllV1NjSTh3c3dEWGhqVnN5OUJFTzBVRnA?oc=5",
-      "dateLocation": "October 15, 2026 | New Delhi / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian bank deposits hit record $3 trillion in September",
-      "brief": "Driven heavily by aggressive dollar deposit schemes and robust domestic savings growth, total Indian bank deposits crossed a historic milestone of $3 trillion in September.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQW5iTjZZVVBnbXBDLUFINDRLM2dLcU9hUzRFYUNaa09yWUxXc05Dc3lvbzlrLUd4VXFlaDFSUG1nUVk0dlpEUC15VjdvTDlRNEJWOElTLURHbHNQd1hWU2ltX0ZsV2M0Qkd1R2FfVmF4TU1PYWdPMVBQQWx4R1hvQjBhcjhqYV9Ra1FoU09BSk81N2V3LThWX2RsMDJHc1lYZ25TTkkyWkp0dlRBNE5YRGdMZU5MUlZrVnJlT2FPZVYyVkZPM1E?oc=5",
-      "dateLocation": "October 15, 2026 | Mumbai / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
