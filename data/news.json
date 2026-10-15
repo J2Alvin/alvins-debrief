@@ -1,108 +1,116 @@
 {
-  "lastUpdated": "2026-10-14T21:16:01.348Z",
+  "lastUpdated": "2026-10-15T03:05:42.476Z",
   "ticker": [
-    "Jio Seeks $108B Record IPO",
-    "Houthis Strike Saudi Aramco",
-    "Fairfax Acquires IDBI Stake",
-    "Gold Slumps on Fed Hikes",
-    "SpaceX Ukraine Ties Fray"
+    "Jio Seeks $108 Billion Valuation in Record Indian IPO",
+    "Asian Markets Drop Following Hot US CPI Inflation Data",
+    "Two Commercial Ships Sink Near Strategic Strait of Hormuz",
+    "IMF Praises India's GDP Data Revamp and Strong Fundamentals",
+    "Bank of America Spent Millions Containing Anthropic AI Threat"
   ],
   "articles": [
     {
       "headline": "Mukesh Ambani's Jio Seeks Record $108 Billion Valuation",
-      "brief": "Reliance Jio has filed its red herring prospectus, aiming for a record-breaking $108 billion valuation in its upcoming Indian initial public offering, complete with special reservations for RIL shareholders.",
+      "brief": "Reliance Industries' telecom arm Jio is targeting a massive $108 billion valuation in what is expected to be a record-breaking initial public offering in the Indian stock market.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2pOLUFIMVROWjYtbmFkc1p1SU4zb0dENXZ6RHVRR2F2ZDFMYkU5QlRmTi01V2g0c0p4QkdadjRsdW5XeWNZU2F3VUNsR1pnZ0s1QTRPTjNoSUZhUjFXdk9IZ3hSZkhUX0lIWGhYYlk5OEpqSGtnZjdsQzdnM2EwZThhcFF5VjhqcXU1VWprc3pFdGZPeTl4cFhhbmp2UGE3SFpXalBWTHJqTDNX?oc=5",
-      "dateLocation": "Today | Reuters",
+      "dateLocation": "Oct 15, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
       "headline": "Canada's Fairfax Buys Majority Stake in IDBI Bank",
-      "brief": "Fairfax has successfully acquired a majority stake in IDBI Bank for a massive $5.56 billion, marking a significant foreign investment milestone in India's banking sector.",
+      "brief": "Canadian investment firm Fairfax Financial has acquired a majority stake in IDBI Bank for a substantial $5.56 billion, marking a significant milestone in Indian banking investments.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRW9Gd1hTQ3NKTFN5LWFTYlFVNkttUVduTzlaUnJTX25jUm9SeFV3dTFFNnR5aG5Hb0g4Tmx6WnR6TlhqcVVzRWhnRVVxN19UVzA5bnR2UnBFMkRMY3lpbkgwU3hjeWNhWkV2VFJVM2JUbURpLWpYb2dLVkltaTFSbURJLXBTX3J0UTBPQXR6ZnpuTkpFS1M3STNiR2JtWTQ?oc=5",
-      "dateLocation": "Today | Reuters",
+      "dateLocation": "Oct 15, 2026 | Toronto, Canada",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "American Electric Power to Invest $4B in Google Project",
-      "brief": "American Electric Power has announced a major $4 billion investment plan toward a fuel cell energy project designed to exclusively power Google's growing infrastructure needs.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDVWVDNiei1GdWtyUjd1WUIxSlVJVDFLQ2xnazFXVkZBLWRvUmwtTnJ0R0xmRTBscml5UnJVaWJhXzZzakQxbFMwTlE4MDhLUWRBTzVjWjMtcXotbV80aWd4RHJ5WkVhZVpTb2x5MmZpeDhtNG53RzEwcUlPZEdfb0N6VE8xeGpfZC05YUduY1g3c1lvUWF1R2JDQzg0cy12TlZrTGRKWnJfYzNSOXFuMURYVVJyT2ZFcjJ6ejFhaDh3MklF?oc=5",
-      "dateLocation": "Today | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ukraine Claims SpaceX Hampers Drones Amid Fraying Ties",
-      "brief": "Ukrainian officials have expressed frustration, stating that SpaceX is hampering crucial military drone operations for both attack and defense as broader US-Ukraine relations experience strain.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmVTMHFJSVptMmRyQVZ3bTNtYktTRldrczlZUUF6dFBmZnl3WDRvcVpJOEU1azE3OEZlUXg2d005UGpnZ2NTR08tRC1xbmtMZVc4eldhb1ZaV1k3bVV1TXZ0VENlWWQ5MGduMk51dUNQVDJaaTNyRDk2dXB0X2xLT2FsNFRpemlybjZfZXlTei1TZEo5d2xLVmRUNTRJUkhhZEVZeWpBcHZrZ21VZFBYMVl6LTVHY2k2MkhFZnJ3RU9KS0Rs?oc=5",
-      "dateLocation": "Today | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Yemen's Houthis Strike Saudi Aramco HQ and Vow Attacks",
-      "brief": "Following a direct missile strike that damaged the top floors of Saudi Aramco's headquarters, Yemeni Houthi forces have vowed to launch further attacks on regional Saudi airports and oil installations.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
-      "dateLocation": "Today | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Two Singaporean Ships Attacked in Strait of Hormuz",
-      "brief": "Maritime security reports confirm that two Singaporean ships have come under fire in the vital Strait of Hormuz, with one vessel sinking amid a severe onboard fire.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/exclusive-two-singaporean-ships-attacked-in-strait-of-hormuz-one-sinks-amid-fire/articleshow/134945123.cms",
-      "dateLocation": "Today | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mauritius Hit by Worst Unrest Since 1999 Amid Riots",
-      "brief": "Severe public anger over water shortages, rising living costs, and a controversial police shooting has plunged Mauritius into its worst series of riots since 1999.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/mauritius-rocked-by-worst-riots-since-1999-how-a-police-shooting-triggered-unrest-explained-11791998417925.html",
-      "dateLocation": "Today | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Lawmaker Criticizes India Over Voter Roll Deletions",
-      "brief": "Democratic Congresswoman Pramila Jayapal has voiced deep concerns regarding reports of India purging millions of citizens from voter rolls, backing non-violent protests against anti-democratic policies.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-lawmaker-pramila-jayapal-concerned-over-sir-voter-rolls-deletions/article71585479.cms",
-      "dateLocation": "Today | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "GSK Plans Major Restructuring with 1,217 Job Cuts in Belgium",
-      "brief": "Pharmaceutical giant GSK has unveiled a sweeping three-year restructuring plan that involves slashing up to 1,217 jobs at its operational sites across Belgium.",
+      "headline": "Asian Markets Sell Off After Hot US CPI Data",
+      "brief": "Stock markets across Asia tumbled significantly as technology and AI trades crumbled in response to hotter-than-expected US Consumer Price Index inflation figures.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2xlQkdqRUlNQkU2UTRoMHpzQVNEcE9Za1dVY1hVVl9hWmhTVXREWHJTVmd5TUpEVVBvb3B2bVE5MGNUZGJWcUxkZFBXY00xVThVZEloZ2xEOW5UdkRGR0dNbXFjU2hpT1NaNXM5QVpVV3RMSDdsUUEzVWhRbDROMzZjaE5qT1JXSFlJZmRMRUpILU03S0YwSUJZU3RWMW8?oc=5",
-      "dateLocation": "Today | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
+      "dateLocation": "Oct 15, 2026 | Hong Kong",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Tightens Tax Regulations for Mauritius Investments",
-      "brief": "Indian tax authorities have tightened regulations under the double taxation avoidance agreement, granting officials powers to deny benefits if tax relief is found to be the sole motive.",
+      "headline": "Reliance Enters Dairy Market With Joyland Flavoured Milk",
+      "brief": "Reliance Consumer Products has launched Joyland flavoured milk priced competitively at ₹20, triggering a fresh retail war with established players like Amul, ITC, and Mother Dairy.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/officials-can-deny-benefits-if-tax-relief-found-sole-motive-india-mauritius-double-taxation-avoidance-agreement/articleshow/134950348.cms",
-      "dateLocation": "Today | Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/reliance-enters-ready-to-drink-dairy-market-with-joyland-flavoured-milk-priced-at-rs-20-to-start-new-rivalry-with-itc-amul-mother-dairy-nandini-cavins/articleshow/134939686.cms",
+      "dateLocation": "Oct 15, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "West Indies Defeat India to Level T20 Series in Hyderabad",
-      "brief": "A brilliant century by Shai Hope combined with Keemo Paul's devastating five-wicket haul propelled the West Indies to a comprehensive victory over India, leveling the series.",
+      "headline": "Bank of America Spent Millions Containing AI Agent Threat",
+      "brief": "Bank of America CEO Brian Moynihan revealed that the financial institution spent millions of dollars and hired thousands of contractors to mitigate security risks from Anthropic's Mythos AI agent.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/bank-of-america-ceo-reveals-how-us-second-largest-bank-had-to-hire-thousands-and-spend-millions-of-dollars-to-contain-damage-done-by-anthropics-ai-agent-mythos/articleshow/134954925.cms",
+      "dateLocation": "Oct 15, 2026 | New York, US",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NTPC Seeks ₹1.5-Trillion Rosatom Tie-Up for Nuclear Reactors",
+      "brief": "State-run power generator NTPC has pitched for six unbuilt nuclear reactors under a bilateral framework, targeting an ambitious 30GW of nuclear energy capacity by 2047.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/ntpc-rosatom-nuclear-reactors-2047-11791883992876.html",
+      "dateLocation": "Oct 15, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Likely to Hear Plea Against SIR Today",
+      "brief": "The Supreme Court of India is scheduled to hear petitions filed by prominent political leaders challenging recent administrative actions and ongoing street protests.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece",
+      "dateLocation": "Oct 15, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Considers Easing Sanctions on Shadow Fleet Vessels",
+      "brief": "The US administration is reportedly weighing options to ease certain sanctions on shadow fleet oil tankers in an effort to cool soaring global freight rates.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
+      "dateLocation": "Oct 15, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Prices Fall as Investors Weigh Middle East Tensions",
+      "brief": "Crude oil futures dropped as market participants re-evaluated supply outlooks and potential security threats near vital Middle Eastern shipping lanes.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5",
+      "dateLocation": "Oct 15, 2026 | London, UK",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Two Ships Sink Near Strait of Hormuz Amid Attacks",
+      "brief": "Maritime security agencies confirmed that two commercial vessels have sunk near the Strait of Hormuz following an intensification of attacks on shipping traffic.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/two-ships-sink-near-strait-of-hormuz-as-attacks-on-commercial-vessels-intensify/articleshow/134955725.cms",
+      "dateLocation": "Oct 15, 2026 | Dubai, UAE",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Team India ODI Squad for New Zealand Tour Expected Soon",
+      "brief": "The interim national selection committee headed by Pragyan Ojha is set to announce India's squad for the upcoming limited-overs tour of New Zealand.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shai-hopes-ton-keemo-pauls-five-for-sink-india-west-indies-level-series-in-hyderabad/articleshow/134948215.cms",
-      "dateLocation": "Today | Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/when-will-team-indias-odi-squad-for-new-zealand-tour-be-picked-details-inside/articleshow/134955757.cms",
+      "dateLocation": "Oct 15, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Drops Over 1% Amid Rising US Inflation Data",
-      "brief": "Gold prices fell more than one percent as hot consumer inflation readings out of the United States fueled higher market bets for upcoming Federal Reserve interest rate hikes.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
-      "dateLocation": "Today | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "IMF Applauds India's GDP Data Revamp and Fundamentals",
+      "brief": "The International Monetary Fund praised India's recent economic data restructuring, highlighting that the country navigated global energy shocks backed by robust macroeconomic fundamentals.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/imf-applauds-indias-gdp-data-revamp-says-country-entered-energy-shock-with-strong-fundamentals/articleshow/134955663.cms",
+      "dateLocation": "Oct 15, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Teen Arrested Over Alleged Mass Shooting Plot on Temple",
+      "brief": "A 19-year-old US resident expressing white supremacist views was taken into federal custody after authorities intercepted an alleged plot targeting a Hindu temple in Illinois.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/white-supremacist-views-us-teen-held-with-rifle-ammo-over-hindu-temple-attack-plot/articleshow/134955264.cms",
+      "dateLocation": "Oct 15, 2026 | Chicago, US",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
