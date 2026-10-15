@@ -1,116 +1,132 @@
 {
-  "lastUpdated": "2026-10-15T03:05:42.476Z",
+  "lastUpdated": "2026-10-15T10:49:24.961Z",
   "ticker": [
-    "Jio Seeks $108 Billion Valuation in Record Indian IPO",
-    "Asian Markets Drop Following Hot US CPI Inflation Data",
-    "Two Commercial Ships Sink Near Strategic Strait of Hormuz",
-    "IMF Praises India's GDP Data Revamp and Strong Fundamentals",
-    "Bank of America Spent Millions Containing Anthropic AI Threat"
+    "Supreme Court Rules Yes Bank AT1 Write-off Illegal",
+    "Sensex Soars 1,500 Points Amid Strong Market Rally",
+    "Mukesh Ambani’s Jio Sets Price Band for Record IPO",
+    "IMF Defends India's Revised GDP Calculation Standards",
+    "US Authorities Foil Alleged Plot to Attack Hindu Temple"
   ],
   "articles": [
     {
-      "headline": "Mukesh Ambani's Jio Seeks Record $108 Billion Valuation",
-      "brief": "Reliance Industries' telecom arm Jio is targeting a massive $108 billion valuation in what is expected to be a record-breaking initial public offering in the Indian stock market.",
+      "headline": "Supreme Court Rules Yes Bank AT1 Bond Write-off Illegal",
+      "brief": "The Supreme Court of India has reportedly ruled Yes Bank's $884-million AT1 bond write-off illegal, according to legal representatives. The landmark decision is expected to shake up India's banking sector and debt markets, creating massive precedent implications for how high-risk tier-1 bonds are treated during systemic financial rescues and corporate restructuring processes going forward.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2pOLUFIMVROWjYtbmFkc1p1SU4zb0dENXZ6RHVRR2F2ZDFMYkU5QlRmTi01V2g0c0p4QkdadjRsdW5XeWNZU2F3VUNsR1pnZ0s1QTRPTjNoSUZhUjFXdk9IZ3hSZkhUX0lIWGhYYlk5OEpqSGtnZjdsQzdnM2EwZThhcFF5VjhqcXU1VWprc3pFdGZPeTl4cFhhbmp2UGE3SFpXalBWTHJqTDNX?oc=5",
-      "dateLocation": "Oct 15, 2026 | Mumbai, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R?oc=5",
+      "dateLocation": "October 15, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Canada's Fairfax Buys Majority Stake in IDBI Bank",
-      "brief": "Canadian investment firm Fairfax Financial has acquired a majority stake in IDBI Bank for a substantial $5.56 billion, marking a significant milestone in Indian banking investments.",
+      "headline": "Mukesh Ambani's Jio Sets Price Band For Record IPO",
+      "brief": "Mukesh Ambani's Jio Platforms has officially set its price band for what is anticipated to be India's largest initial public offering. Seeking a staggering valuation of $108 billion, the high-profile public listing has already begun recasting telecom and technology valuations across India's financial landscape.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWno4bGJDMVFBczNiazY1TjZtOHVpZzk4M2QyTnJCZFBqbk5vNUVNaFRiV0RxNXVYTEVUZTdHSHA1ZHYyUnFHMGF6bTY3RmFRbmQtUG45VFYyQVo2bllOUFItV2VMaGRhdlIwcmRwZWw5VWd4NWwyTnNMb3pKR2U2THB1YjNaWmNhZTh1VktYOXB2bWdhVFpB?oc=5",
+      "dateLocation": "October 15, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's RBI Spends Half of Forex Capital on Rupee Defence",
+      "brief": "Banking estimates reveal that the Reserve Bank of India has utilized roughly half of its $140 billion foreign exchange capital haul to defend the domestic currency. The aggressive intervention underscores mounting pressures on the rupee amidst global monetary policy shifts and fluctuating commodity prices.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRW9Gd1hTQ3NKTFN5LWFTYlFVNkttUVduTzlaUnJTX25jUm9SeFV3dTFFNnR5aG5Hb0g4Tmx6WnR6TlhqcVVzRWhnRVVxN19UVzA5bnR2UnBFMkRMY3lpbkgwU3hjeWNhWkV2VFJVM2JUbURpLWpYb2dLVkltaTFSbURJLXBTX3J0UTBPQXR6ZnpuTkpFS1M3STNiR2JtWTQ?oc=5",
-      "dateLocation": "Oct 15, 2026 | Toronto, Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONU5ZY25UM0c0a0FPX0ZNVl8zWGFJRVZ6YzFmNlVuR2JLb3VxMS02bmE0TDY1eW5Ra2swVzlCcnN5b2htdnZhRGNPaTVmN1hkeFE3Nm10RHNndDhORDFtRlpEbDllT2c4Ymp4VGJlY08tOTE4aXM4RTVpZXhFTmFUbHNVT05SSWV4SXlhRXB1dkFWenZJZ0RkelIxU3V3UHoyOXctd1FVMHdjLVZUc3FieXM0bUlXcXVma0lMRkhJeGw?oc=5",
+      "dateLocation": "October 15, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Asian Markets Sell Off After Hot US CPI Data",
-      "brief": "Stock markets across Asia tumbled significantly as technology and AI trades crumbled in response to hotter-than-expected US Consumer Price Index inflation figures.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5",
-      "dateLocation": "Oct 15, 2026 | Hong Kong",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Reliance Enters Dairy Market With Joyland Flavoured Milk",
-      "brief": "Reliance Consumer Products has launched Joyland flavoured milk priced competitively at ₹20, triggering a fresh retail war with established players like Amul, ITC, and Mother Dairy.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/reliance-enters-ready-to-drink-dairy-market-with-joyland-flavoured-milk-priced-at-rs-20-to-start-new-rivalry-with-itc-amul-mother-dairy-nandini-cavins/articleshow/134939686.cms",
-      "dateLocation": "Oct 15, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bank of America Spent Millions Containing AI Agent Threat",
-      "brief": "Bank of America CEO Brian Moynihan revealed that the financial institution spent millions of dollars and hired thousands of contractors to mitigate security risks from Anthropic's Mythos AI agent.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/bank-of-america-ceo-reveals-how-us-second-largest-bank-had-to-hire-thousands-and-spend-millions-of-dollars-to-contain-damage-done-by-anthropics-ai-agent-mythos/articleshow/134954925.cms",
-      "dateLocation": "Oct 15, 2026 | New York, US",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NTPC Seeks ₹1.5-Trillion Rosatom Tie-Up for Nuclear Reactors",
-      "brief": "State-run power generator NTPC has pitched for six unbuilt nuclear reactors under a bilateral framework, targeting an ambitious 30GW of nuclear energy capacity by 2047.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/ntpc-rosatom-nuclear-reactors-2047-11791883992876.html",
-      "dateLocation": "Oct 15, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Likely to Hear Plea Against SIR Today",
-      "brief": "The Supreme Court of India is scheduled to hear petitions filed by prominent political leaders challenging recent administrative actions and ongoing street protests.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece",
-      "dateLocation": "Oct 15, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Considers Easing Sanctions on Shadow Fleet Vessels",
-      "brief": "The US administration is reportedly weighing options to ease certain sanctions on shadow fleet oil tankers in an effort to cool soaring global freight rates.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
-      "dateLocation": "Oct 15, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oil Prices Fall as Investors Weigh Middle East Tensions",
-      "brief": "Crude oil futures dropped as market participants re-evaluated supply outlooks and potential security threats near vital Middle Eastern shipping lanes.",
+      "headline": "Gold Climbs Over 1% Ahead of US Inflation Data",
+      "brief": "Gold prices climbed more than 1% as a softer US dollar and declining Treasury yields boosted the safe-haven asset. Markets remain focused on upcoming US inflation data, which will heavily influence the Federal Reserve's next interest rate trajectory and broader global currency markets.",
       "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
+      "dateLocation": "October 15, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Chinese Startup DexForce Trains Humanoid Robots Using Virtual Data",
+      "brief": "Chinese tech startup DexForce has pioneered a new training methodology for humanoid robots, relying extensively on synthetic virtual data to drastically slash development and deployment costs. The innovation marks a major milestone in lowering the barrier to entry for commercial humanoid automation and artificial intelligence integration.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
+      "dateLocation": "October 15, 2026 | Beijing, China",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Prices Slide as US Weighs Easing Shadow Fleet Sanctions",
+      "brief": "Crude oil prices slid across international markets as reports indicated the United States is weighing options to ease sanctions on the global 'shadow fleet'. The potential policy adjustment could unlock restricted oil supplies, altering near-term energy market dynamics.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5",
-      "dateLocation": "Oct 15, 2026 | London, UK",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "October 15, 2026 | New York, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Two Ships Sink Near Strait of Hormuz Amid Attacks",
-      "brief": "Maritime security agencies confirmed that two commercial vessels have sunk near the Strait of Hormuz following an intensification of attacks on shipping traffic.",
+      "headline": "Supreme Court Raps Opposition Over Anti-CEC Protests",
+      "brief": "The Supreme Court of India strongly reprimanded political leaders during hearings regarding protests targeting Chief Election Commissioner Gyanesh Kumar. Emphasizing that nobody can browbeat the judiciary, the apex court sought explanations from the government over security measures and designated public demonstration site restrictions in New Delhi.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/nobody-can-browbeat-judiciary-supreme-court-raps-rahul-gandhi-over-protest-march-against-cec-gyanesh-kumar-11792051464801.html",
+      "dateLocation": "October 15, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "MEA Demands Investigation Into Plot to Attack US Hindu Temple",
+      "brief": "India's Ministry of External Affairs has demanded a comprehensive investigation following the arrest of an Illinois man accused of plotting a mass shooting at a Hindu temple. The incident has reignited international concerns regarding rising anti-India sentiment and security threats facing minority religious institutions abroad.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/two-ships-sink-near-strait-of-hormuz-as-attacks-on-commercial-vessels-intensify/articleshow/134955725.cms",
-      "dateLocation": "Oct 15, 2026 | Dubai, UAE",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/growing-concern-over-anti-india-hate-in-us-mea-demands-probe-into-hindu-temple-attack-plot/articleshow/134962943.cms",
+      "dateLocation": "October 15, 2026 | New Delhi/Washington",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Team India ODI Squad for New Zealand Tour Expected Soon",
-      "brief": "The interim national selection committee headed by Pragyan Ojha is set to announce India's squad for the upcoming limited-overs tour of New Zealand.",
+      "headline": "IMF Defends India's Revised GDP Calculation Methodology",
+      "brief": "The International Monetary Fund has publicly defended India's updated approach to measuring gross domestic product. Commending the Ministry of Statistics for enhancing metric transparency, the IMF noted that the revisions are entirely consistent with good international accounting practices amidst strong domestic economic growth.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/consistent-with-good-practices-imf-defends-indias-revised-gdp-calculation/articleshow/134962902.cms",
+      "dateLocation": "October 15, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Sensex Jallops 1,500 Points Higher as Markets Rally",
+      "brief": "Indian equity benchmarks experienced a massive surge, with the BSE Sensex climbing over 1,500 points and the Nifty50 closing near the 23,000 mark. Investor sentiment was significantly lifted by robust buying across IT, banking, and consumer goods stocks, alongside favorable global commodity and currency cues.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/stock-market-rally-today-bse-sensex-nifty50-soar-on-october-15-2026-top-reasons-for-rise-oil-prices-in-stocks-rupee/articleshow/134957892.cms",
+      "dateLocation": "October 15, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IIT Kanpur Launches Ambitious $1-Billion Fundraising Campaign",
+      "brief": "IIT Kanpur has formally launched its 'Greater Than Us' global fundraising campaign, setting a target of $1 billion by March 2029. The institution announced that ₹4,155 crore has already been secured, which will be utilized to expand cutting-edge research facilities, student support ecosystems, and indigenous technology development.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/iit-kanpur-launches-1-billion-fundraising-campaign-4-155-crore-already-secured-check-what-the-money-will-be-spend-on-11792054661046.html",
+      "dateLocation": "October 15, 2026 | Kanpur, India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "South Korea's KOSPI Closes at 6-Month Low on AI Worries",
+      "brief": "South Korea's KOSPI index closed at a six-month low as prominent domestic chipmakers and technology conglomerates slumped over growing artificial intelligence market worries. Investors scaled back equity exposure amid escalating valuation concerns in the global semiconductor supply chain.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdWpRSjBjZzFURGRKR0VQWHlfRGlueEl6akRuam5yVExaVDJQWVYyckVBTDJ0WTlKc1F0THBUNWJBajN3bzRGa2U3TjBUSGxKS05NclZpWU14N2FVUzFoX05pQ1NwV2QtaXljRnJiUTZOc0RIaXZnMHlhX05aNmMwRmJhMmtINmRranYyVEFITFZJWnNGWFY1N2pNcEx0V3lEdTJZZWwzZnc1Y0U2ZFVpU0NnaUxydw?oc=5",
+      "dateLocation": "October 15, 2026 | Seoul, South Korea",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "West Indies Defeats India by 24 Runs in Fourth T20I",
+      "brief": "West Indies secured a 24-run victory over India in the fourth T20I match in Hyderabad, successfully leveling the multi-game series. The match featured intense on-field action, drawing tactical analysis and commentary from cricket legends regarding batter responsibility and injury management.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/when-will-team-indias-odi-squad-for-new-zealand-tour-be-picked-details-inside/articleshow/134955757.cms",
-      "dateLocation": "Oct 15, 2026 | Mumbai, India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/why-attack-the-batter-sunil-gavaskar-fumes-as-shamar-joseph-hits-arshdeep-singh/articleshow/134963617.cms",
+      "dateLocation": "October 15, 2026 | Hyderabad, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IMF Applauds India's GDP Data Revamp and Fundamentals",
-      "brief": "The International Monetary Fund praised India's recent economic data restructuring, highlighting that the country navigated global energy shocks backed by robust macroeconomic fundamentals.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/imf-applauds-indias-gdp-data-revamp-says-country-entered-energy-shock-with-strong-fundamentals/articleshow/134955663.cms",
-      "dateLocation": "Oct 15, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Homeland Security Proposes Ending H-1B Deference Policy",
+      "brief": "The US Department of Homeland Security has proposed removing the long-standing 'deference' policy for H-1B visa extensions. Immigration experts warn that the regulatory change could significantly increase compliance costs and administrative burdens for skilled foreign professionals, particularly impacting Indian IT workers.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/h1b-visa-extensions-how-ending-deference-policy-may-affect-indians-new-us-rule-could-cost-134-000-explained-11792054573651.html",
+      "dateLocation": "October 15, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Teen Arrested Over Alleged Mass Shooting Plot on Temple",
-      "brief": "A 19-year-old US resident expressing white supremacist views was taken into federal custody after authorities intercepted an alleged plot targeting a Hindu temple in Illinois.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/white-supremacist-views-us-teen-held-with-rifle-ammo-over-hindu-temple-attack-plot/articleshow/134955264.cms",
-      "dateLocation": "Oct 15, 2026 | Chicago, US",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Fairfax-Backed Deal Highlights Major Trend in Indian Banking",
+      "brief": "Recent strategic acquisitions and high-value stakes by global investors, including Fairfax's involvement with IDBI Bank, highlight a massive $1.32 lakh crore capital trend sweeping across India's banking sector. Foreign institutional players continue to expand their footprints as financial consolidation accelerates.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-investment-indian-banking-sector-fairfax-idbi-bank-deal-mufg-shriram-finance-smbc-yes-bank-emirates-nbd-rbl-bank-rs-1-32-lakh-crore/articleshow/134963219.cms",
+      "dateLocation": "October 15, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
