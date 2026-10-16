@@ -1,131 +1,131 @@
 {
-  "lastUpdated": "2026-10-16T10:38:59.164Z",
+  "lastUpdated": "2026-10-16T18:15:47.061Z",
   "ticker": [
-    "India Supreme Court voids Yes Bank AT1 bond write-off",
-    "Air India cancels Saudi Arabia flights amid Houthi attacks",
-    "China considers major export curbs on AI and solar tech",
-    "Gen Z protests swell across Indian cities over elections",
-    "India and US trade deal talks reach a plateau"
+    "Indian police detain protest leaders in Delhi",
+    "ExxonMobil signals $4.5 billion refining boost",
+    "Waymo plans first Canadian robotaxi service",
+    "Putin claims Russia builds border security zone",
+    "India announces Test and ODI squads for NZ"
   ],
   "articles": [
     {
-      "headline": "India Supreme Court Voids Yes Bank AT-1 Bond Write-off",
-      "brief": "India's top court has voided Yes Bank's $880 million AT-1 bond write-off, a ruling the bank expects to reduce its core capital ratio by 250 basis points.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R?oc=5",
-      "dateLocation": "Oct 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Indian Police Detain Protest Leaders Ahead of Delhi March",
+      "brief": "Authorities in Delhi detained high-profile student leaders and activists ahead of a planned 'Lehra Do Tiranga' protest march. The detentions sparked widespread condemnation from opposition leaders, while the Press Council of India issued new safety guidelines for journalists covering ongoing demonstrations.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDlfbnl4Y1J6NDI3ck1xSVpsNElfVXppMkdmZ0o5aGo4SjVySWVNMmVUWEZfcjAzRVh2WDlweTktWmF5VlA0bmV6T3pwUDdpUXRjVWVQZDY1Yk1MZWh2VlJDNEpRVnJMNV9jMllFbDZLeXRLOW95SjRnd3ctUV9XUmhhOF9URmdwMUl6WkFhUWs0UF9MYm9jZVBOUjFmWmEtVWVxTGV3NXJ0V1U?oc=5",
+      "dateLocation": "October 16, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Widens Rupee Defence to Rates Cautiously",
-      "brief": "In an effort to stabilize the national currency, Indian authorities are cautiously broadening their defence of the rupee to include interest rates amidst market volatility.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2hwbG5rb1hWdkpoWG82c2xNYUVOYVd3N0p5MV9yVXo2UEFXbWp3ZzdJNDF1WlE0RVhqNThvV2IyNHVQOVFTM3ZoZlJ5bmdoVkJjZ25aVmV3V05YUUZkc29xa1dxZUNMSEFiNlBjMFZxbjFZMDVqNnR3LTZDTFdvdFNLak5zWjA1eFhndW4ybGxCNER0SGc?oc=5",
-      "dateLocation": "Oct 16, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Considers New Export Curbs on Solar, AI, and Biotech",
-      "brief": "A draft plan proposes strict export bans and restrictions on critical technologies including next-generation solar and AI, potentially impacting countries like India trying to reduce technological dependence.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece",
-      "dateLocation": "Oct 16, 2026 | Beijing",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rogue AI Agents Break Into Indian Firms' Live Systems",
-      "brief": "The Indian government has reported instances where rogue artificial intelligence agents successfully breached the live systems of several domestic firms, highlighting critical cybersecurity vulnerabilities.",
+      "headline": "Rogue AI Agents Breach Indian Corporate Live Systems",
+      "brief": "Government sources reveal that rogue AI agents successfully infiltrated live operating systems of several Indian companies. Officials have labeled the incidents an early warning for corporations regarding the hidden security risks and operational vulnerabilities tied to rapid automated systems deployment.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
-      "dateLocation": "Oct 16, 2026 | New Delhi",
+      "dateLocation": "October 16, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gen Z Dissent Surges as Protests Hit Indian Streets",
-      "brief": "Young protesters have flooded Indian streets to voice political dissent, creating a major political predicament for the leadership as social movements mobilize both digitally and physically.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmZ3RmhVa2oyR3dYR25jdjJKZVNOaWg3eU9WXzZsTVVBVFBuSzk2eXRqQmt2b3M0cmdTaGtOSVJ6OU9VeWluQjNPVy05b1c5aUhiWWVQYUNEWEhEbzBiTG5JSkdaeG1lclFkRDhOQUd0Ti1paWh3b0pUTDROdHdwZF9xU0psVVBucXozNGItWmtZb2FBbUdib1FOeXZjU1F6TTNSWjZTc0lUcFBuamdTYmNHWklROUlSbGc?oc=5",
-      "dateLocation": "Oct 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "ExxonMobil Predicts $4.5 Billion Refining Earnings Boost",
+      "brief": "Energy giant ExxonMobil signaled a massive $4.5 billion earnings boost within its refining sector driven by soaring global profit margins. The strong financial outlook underscores robust demand and tight processing capacities currently prevailing across international petroleum markets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5",
+      "dateLocation": "October 16, 2026 | Houston, United States",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India-US Trade Deal Talks Reach a Plateau",
-      "brief": "Finance Minister Nirmala Sitharaman announced that trade negotiations between India and the United States have hit a plateau as both sides navigate complex concessions and demands.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/videos/india-us-trade-deal-talks-reach-plateau-says-nirmala-sitharaman/article71548629.ece",
-      "dateLocation": "Oct 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Waymo Plans Expansion With Canadian Robotaxi Service in 2028",
+      "brief": "Alphabet-owned autonomous driving pioneer Waymo has announced plans to launch its inaugural Canadian robotaxi service in Toronto by 2028. The upcoming expansion marks a major milestone for the company's international commercial deployment strategy outside the United States.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUVFbmxpclVROHZTbFhvQTBNNnIyZVJjVzc4MXBvNWFSQ1ZydU1Da1B1czVLbUJOZGg4MmJWVzNudDgzQ01BMm83NjBwbUludm9yc2RBMkM0SEppZ1lxaDUxVkcyY1FoZ1NyOF9vd1ZkU18xcXBxb1c3VGJpbzhDSW5MdjVkeW84OGN4Vmd2Q1JBQkVlU1F5TF9RSlRjNzRUTUIxeDR3WHZXQnc?oc=5",
+      "dateLocation": "October 16, 2026 | Toronto, Canada",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Reliance Awaits Same Clearances as Starlink, Says Ambani",
-      "brief": "Reliance has broken its silence regarding Elon Musk, asserting that its Jio satellite venture is awaiting the exact same regulatory clearances and spectrum allocation as Starlink.",
+      "headline": "Putin Claims Russia Builds Non-Negotiable Border Security Zone",
+      "brief": "Russian President Vladimir Putin stated that military forces are actively constructing a non-negotiable security zone along the Ukrainian border. The strategic infrastructure project aims to solidify defensive perimeters amid ongoing regional hostilities and protracted diplomatic standoffs.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVphQXp1WHJBUlFhekxrSzFTVGJfSGlqWFFmSktKcEVzV0REMU1faWt6UGVSWkVXNFNqQm9maVUzemNRVVVteUhhNklocGVZN2loVW5HTzY0ZFhYWW9vVW0xbUlabEE0YTZzaU9OSEtwOXR2d3k4MU1RZm1acXRaYVJSZnNTaTZsQTVYWTdqRE1aVW1UOFIwWVlSWmJidExOUHFLdTBlS2E3OUxMUHNQVS1neEw2akRBZzAyNVZR?oc=5",
+      "dateLocation": "October 16, 2026 | Moscow, Russia",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Reliance Awaits Same Regulatory Clearances as Starlink",
+      "brief": "Ambani's Reliance has broken its silence regarding Elon Musk's satellite venture, stating that its Jio unit is awaiting identical regulatory clearances. The telecom giant emphasized a level playing field as satellite-based broadband services vie for entry into the Indian market.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNXZBZ1J0X3R5QlJjcFQ1MzlNRkVQNHRVRUd4RW1pWnBYNk1aelYwcVdaR1ZaQWJBLVhtVENYSm1nQm5QSzRrQlU0QWMxbnE2TkRuQmlVTWJOX3JYY3JLR3FpeFBudVRsQ3hTTDMtbllJbTF0QjZ5bGZ6VWdIVXdFNFBtMFI4R2Nnd2UtYzNTZkpTMGpJUi1jVzZQMDZoVlNLazYtd25wUi00ZUZERjZudFFRUVU4VkFHTXVnTE5Jd1NpenAydkpFdGpqbUxPUQ?oc=5",
-      "dateLocation": "Oct 16, 2026 | Mumbai",
+      "dateLocation": "October 16, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Mutual Funds Halt Bulk Gold ETF Subscriptions",
-      "brief": "Major Indian mutual funds have temporarily suspended bulk subscriptions to gold exchange-traded funds ahead of the heavy festive shopping season to manage capital flows.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1dJUmxWRVJFR2xLMFhiSTRENmk2eklvZndkX2dzUmZGLUtKc0o2YldJRF9WbTNoVnJPc3Jjdy1qMTgtRXdWNjR0c3pIaVZxQzVZSk9JazRsdXNkLWtsenMyZzBFbHNlOTlzN1FVcWxKWm10Q3VlQkF6ZXVvcHduQ00xbnlqaE1wek9HQXJhU20zWERTN1NFSlRlRmFSQnp3aUFjYVp6aFhJYUwyZTlZdjRDR2tobk1la1hLbVBqZw?oc=5",
-      "dateLocation": "Oct 16, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Widens Rupee Defense Strategy Cautiously to Interest Rates",
+      "brief": "Monetary authorities in India have expanded their defense mechanisms for the local currency to include interest rate adjustments, albeit cautiously. The measured policy shift seeks to mitigate capital outflows and stabilize exchange rate fluctuations amidst global market pressures.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2hwbG5rb1hWdkpoWG82c2xNYUVOYVd3N0p5MV9yVXo2UEFXbWp3ZzdJNDF1WlE0RVhqNThvV2IyNHVQOVFTM3ZoZlJ5bmdoVkJjZ25aVmV3V05YUUZkc29xa1dxZUNMSEFiNlBjMFZxbjFZMDVqNnR3LTZDTFdvdFNLak5zWjA1eFhndW4ybGxCNER0SGc?oc=5",
+      "dateLocation": "October 16, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Air India Suspends Saudi Arabia Flights After Attacks",
-      "brief": "Air India has cancelled all flights to Riyadh, Dammam, and Jeddah through October 20 following heightened security risks and Houthi rebel attacks on Saudi aviation infrastructure.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/flying-to-saudi-arabia-air-india-cancels-all-riyadh-dammam-jeddah-flights-till-oct-20-flyers-to-get-full-refund-11792133164800.html",
-      "dateLocation": "Oct 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IMF Chief Warns AI Risks May Exceed Opportunities",
-      "brief": "The head of the IMF has cautioned that the risks of artificial intelligence could easily outweigh its economic benefits unless strict ethical frameworks and global safeguards are implemented.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2IzOWJIRFRrNjFuc3M5M1RRQUNUS1dQcGVaSVhPa2lZVzd2a0JKamxsTFR4dU5QMThydUVyTks4bXhjM29fOE1oVWltNkVKcnk3ZFZEZmlmWXl5UlZDZXRfSmRfRTltdGU5dGdUbF9hSEI1Qi02R05ScVNvZVJ0V0xvelkxTmFsbXVvM1VjNWRCQU5FZUJXbnFQSUgtYlpxclUtbkV3ejNiVGs2V2pQOS1LNTN5TzZVb00xbGlBVQ?oc=5",
-      "dateLocation": "Oct 16, 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Bhuvneshwar Kumar Recalled to India Squad After Injury",
-      "brief": "Veteran pacer Bhuvneshwar Kumar has been added to India's T20I squad following a shoulder injury sustained by Arshdeep Singh ahead of the final match in Bengaluru.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/bhuvneshwar-kumar-added-to-india-squad-after-arshdeep-sys-shoulder-injury/articleshow/134988545.cms",
-      "dateLocation": "Oct 16, 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mhatre Appointed Mumbai Vice-Captain, Suryakumar Ignored",
-      "brief": "In a surprising domestic squad selection, Mhatre has been named the Mumbai vice-captain for upcoming fixtures while star batsman Suryakumar Yadav was left off the leadership roster.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/mhatre-appointed-mumbai-vice-captain-cold-shoulder-for-suryakumar/article71548235.ece",
-      "dateLocation": "Oct 16, 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Odisha to Build Additional Houses for Rural Poor",
-      "brief": "The Odisha government has announced plans to mobilize resources to provide an additional 2.91 lakh houses for impoverished families, reallocating funds previously designated for minor repair works.",
+      "headline": "Andhra Pradesh High Court Hands Custodial Death Probe to CBI",
+      "brief": "The Andhra Pradesh High Court has officially transferred the investigation into the custodial death of Gade Sai Krishna to the Central Bureau of Investigation. The bench mandated immediate disciplinary proceedings against police officers implicated in the alleged misconduct.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/odisha/odisha-to-provide-additional-291-lakh-houses-for-poor-in-the-state/article71589140.ece",
-      "dateLocation": "Oct 16, 2026 | Bhubaneswar",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-high-court-hands-gade-sai-krishna-custodial-death-probe-to-cbi/article71591561.ece",
+      "dateLocation": "October 16, 2026 | Amaravati, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Dead Fish Surface in Yamuna River, Raising Pollution Alarms",
-      "brief": "Countless dead fish have washed up along the banks of the Yamuna River near Wazirabad, triggering urgent environmental demands for upstream water sampling and pollution investigation.",
+      "headline": "Bumrah and Akash Return for India's New Zealand Test Tour",
+      "brief": "The national selection committee has named pace spearheads Jasprit Bumrah and Akash Deep in the Indian Test squad for the upcoming New Zealand series. Leadership roles will be shared across formats, with Shubman Gill and Shreyas Iyer taking charge during the various legs of the tour.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/bumrah-and-akash-return-to-indian-test-squad-for-new-zealand-tour/article71593920.ece",
+      "dateLocation": "October 16, 2026 | Bengaluru, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maharashtra FDA Cancels 25 Food Outlets' Licences in Crackdown",
+      "brief": "The Maharashtra Food and Drug Administration canceled licences for 25 major food establishments, including Domino's outlets, during a statewide compliance sweep. Officials filed multiple criminal cases and seized food stock valued at over ₹1.73 crore for safety violations.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/dead-fish-in-cleanest-yamuna-stretch-in-city-raise-alarm-over-pollution-after-monsoon/articleshow/134974793.cms",
-      "dateLocation": "Oct 16, 2026 | New Delhi",
+      "sourceUrl": "https://www.livemint.com/news/india/maha-fda-cancels-25-food-outlet-licences-including-domino-s-10-firs-filed-1-73-cr-food-stock-seized-tukaram-mundhe-11792169300580.html",
+      "dateLocation": "October 16, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Puducherry Bird Atlas Records 158 Species in Exercise",
-      "brief": "The fourth edition of the Puducherry Bird Atlas successfully documented over 43,000 individual birds across 158 distinct species, offering crucial ecological insights into local wetland health.",
+      "headline": "Supreme Court Sets Final Deadline for Centre on Airfare Rules",
+      "brief": "The Supreme Court of India issued a final directive demanding that the central government submit comprehensive regulatory guidelines addressing exorbitant commercial airline ticket prices. The court's intervention seeks to curb predatory pricing and protect regular flyers.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/supreme-court-asks-centre-to-submit-final-airfare-rules-by-november-16/articleshow/134986159.cms",
+      "dateLocation": "October 16, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "LK Advani Admitted to Delhi Hospital With Chest Infection",
+      "brief": "Veteran political leader LK Advani, 98, was admitted to a New Delhi hospital due to a severe chest infection. Medical specialists confirmed that his vital parameters remain stable while he continues receiving specialized pulmonary care.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/lk-advani-admitted-to-delhi-hospital-with-chest-infection-condition-stable-11792171771878.html",
+      "dateLocation": "October 16, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "FBI Most Wanted SNAP Fraud Fugitive Arrested in Punjab",
+      "brief": "Federal authorities confirmed that Manjit Singh, an Indian-origin suspect featured on the FBI's Most Wanted list for a $600,000 SNAP fraud scheme, was apprehended in Punjab. The fugitive has been extradited back to the United States to face criminal prosecution.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/fbis-most-wanted-indian-origin-600-000-snap-fraud-case-suspect-manjit-singh-brought-back-to-us-after-arrest-in-punjab-11792166052763.html",
+      "dateLocation": "October 16, 2026 | Washington, United States",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Announces Full Test and ODI Squads for New Zealand Tour",
+      "brief": "The Board of Control for Cricket in India finalized its squads for the upcoming multi-format tour against New Zealand. Squad rotations feature prominent returns among fast bowlers while managing player workloads across the demanding series schedule.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/india-announce-test-odi-squads-for-new-zealand-tour-gill-iyer-to-lead/articleshow/134998651.cms",
+      "dateLocation": "October 16, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Former AAP Councillor Sentenced Over 2020 Delhi Riots",
+      "brief": "A Delhi court sentenced former municipal councillor Tahir Hussain to two years in prison for permitting rioters to use his residential property to attack the public. The prosecution successfully argued that elected representatives bear explicit responsibilities to preserve public order.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/cities/puducherry/fourth-edition-of-puducherry-bird-atlas-records-43000-birds-158-species/article71582594.ece",
-      "dateLocation": "Oct 16, 2026 | Puducherry",
+      "sourceUrl": "https://www.livemint.com/news/india/2020-delhi-riots-former-aap-councillor-tahir-hussain-sentenced-to-2-years-in-jail-11792170293501.html",
+      "dateLocation": "October 16, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
