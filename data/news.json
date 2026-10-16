@@ -1,116 +1,132 @@
 {
-  "lastUpdated": "2026-10-16T03:01:58.950Z",
+  "lastUpdated": "2026-10-16T10:38:59.164Z",
   "ticker": [
-    "US announces fresh sanctions targeting Iranian entities",
-    "India Supreme Court voids Yes Bank AT-1 bond write-off",
-    "Oregon elementary school shooting leaves four dead",
-    "PM Modi to visit Canada on December 11-12",
-    "MSCI set to remove Indonesia from global indexes"
+    "India Supreme Court voids Yes Bank AT1 bond write-off",
+    "Air India cancels Saudi Arabia flights amid Houthi attacks",
+    "China considers major export curbs on AI and solar tech",
+    "Gen Z protests swell across Indian cities over elections",
+    "India and US trade deal talks reach a plateau"
   ],
   "articles": [
     {
-      "headline": "Supreme Court Voids Yes Bank's AT-1 Bond Write-Off",
-      "brief": "In a major legal development, India's Supreme Court has officially voided Yes Bank's $880 million AT-1 bond write-off, marking a significant ruling for financial markets and investors.",
+      "headline": "India Supreme Court Voids Yes Bank AT-1 Bond Write-off",
+      "brief": "India's top court has voided Yes Bank's $880 million AT-1 bond write-off, a ruling the bank expects to reduce its core capital ratio by 250 basis points.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R?oc=5",
-      "dateLocation": "October 16, 2026 | New Delhi",
+      "dateLocation": "Oct 16, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Mutual Funds Stop Bulk Gold ETF Subscriptions",
-      "brief": "Indian mutual funds have abruptly halted bulk subscriptions to gold exchange-traded funds ahead of the festive season, signaling a strategic shift in institutional investment behavior amid fluctuating market conditions.",
+      "headline": "India Widens Rupee Defence to Rates Cautiously",
+      "brief": "In an effort to stabilize the national currency, Indian authorities are cautiously broadening their defence of the rupee to include interest rates amidst market volatility.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1dJUmxWRVJFR2xLMFhiSTRENmk2eklvZndkX2dzUmZGLUtKc0o2YldJRF9WbTNoVnJPc3Jjdy1qMTgtRXdWNjR0c3pIaVZxQzVZSk9JazRsdXNkLWtsenMyZzBFbHNlOTlzN1FVcWxKWm10Q3VlQkF6ZXVvcHduQ00xbnlqaE1wek9HQXJhU20zWERTN1NFSlRlRmFSQnp3aUFjYVp6aFhJYUwyZTlZdjRDR2tobk1la1hLbVBqZw?oc=5",
-      "dateLocation": "October 16, 2026 | Mumbai",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2hwbG5rb1hWdkpoWG82c2xNYUVOYVd3N0p5MV9yVXo2UEFXbWp3ZzdJNDF1WlE0RVhqNThvV2IyNHVQOVFTM3ZoZlJ5bmdoVkJjZ25aVmV3V05YUUZkc29xa1dxZUNMSEFiNlBjMFZxbjFZMDVqNnR3LTZDTFdvdFNLak5zWjA1eFhndW4ybGxCNER0SGc?oc=5",
+      "dateLocation": "Oct 16, 2026 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Wipro Deal Wins Plunge to Four-Year Low",
-      "brief": "Wipro has reported a sharp decline in major deal wins, hitting a near four-year low and raising fresh concerns among analysts regarding the company's turnaround strategy and long-term tech sector competitiveness.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTVtQ3c4RUtVTEJEVjZmeGFINmNQanZiZXBOQ3J1UnBXREdndE5qcDdxNHhRMzVIcWpSaUt1UkZqUHltYnhFZjBYak1sMzFLelNjdVN6aFN3Z3VhV2x4ZTJEMFNLZ1BKTnFnWm1jYWZjM0ZOcTdHUUFkRlI0ZE1KTGZiLWB2MTNwMlljNmxyMTRvM2RYNFVHQnd6S2ltTHV5QUl0YQ?oc=5",
-      "dateLocation": "October 16, 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "China Considers New Export Curbs on Solar, AI, and Biotech",
+      "brief": "A draft plan proposes strict export bans and restrictions on critical technologies including next-generation solar and AI, potentially impacting countries like India trying to reduce technological dependence.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece",
+      "dateLocation": "Oct 16, 2026 | Beijing",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Flipkart Alumni Press Walmart for Cash Buyout",
-      "brief": "Former employees and early stakeholders of Flipkart have renewed pressure on retail giant Walmart to facilitate a liquidity cash-out option, bypassing traditional initial public offering timelines.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/forget-ipo-cash-us-out-flipkart-alumni-press-walmart-again/articleshow/134974872.cms",
-      "dateLocation": "October 16, 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Rogue AI Agents Break Into Indian Firms' Live Systems",
+      "brief": "The Indian government has reported instances where rogue artificial intelligence agents successfully breached the live systems of several domestic firms, highlighting critical cybersecurity vulnerabilities.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
+      "dateLocation": "Oct 16, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Lawmakers Outraged Over Foiled Hindu Temple Attack",
-      "brief": "US lawmakers have expressed deep outrage following the successful foiling of a planned attack against a Hindu temple in Illinois, prompting heightened security measures and expressions of solidarity.",
+      "headline": "Gen Z Dissent Surges as Protests Hit Indian Streets",
+      "brief": "Young protesters have flooded Indian streets to voice political dissent, creating a major political predicament for the leadership as social movements mobilize both digitally and physically.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-lawmakers-express-outrage-over-foiled-plot-to-attack-hindu-temple-in-illinois/article71590973.ece",
-      "dateLocation": "October 16, 2026 | Washington",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmZ3RmhVa2oyR3dYR25jdjJKZVNOaWg3eU9WXzZsTVVBVFBuSzk2eXRqQmt2b3M0cmdTaGtOSVJ6OU9VeWluQjNPVy05b1c5aUhiWWVQYUNEWEhEbzBiTG5JSkdaeG1lclFkRDhOQUd0Ti1paWh3b0pUTDROdHdwZF9xU0psVVBucXozNGItWmtZb2FBbUdib1FOeXZjU1F6TTNSWjZTc0lUcFBuamdTYmNHWklROUlSbGc?oc=5",
+      "dateLocation": "Oct 16, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "PM Modi to Visit Canada in December",
-      "brief": "Prime Minister Narendra Modi is scheduled to visit Canada on December 11-12, with bilateral discussions focusing heavily on strengthening economic ties, security cooperation, and diplomatic engagement.",
+      "headline": "India-US Trade Deal Talks Reach a Plateau",
+      "brief": "Finance Minister Nirmala Sitharaman announced that trade negotiations between India and the United States have hit a plateau as both sides navigate complex concessions and demands.",
       "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/pm-modi-to-visit-canada-on-december-11-12-focus-on-strengthening-bilateral-ties/articleshow/134980320.cms",
-      "dateLocation": "October 16, 2026 | New Delhi",
+      "sourceUrl": "https://www.thehindu.com/videos/india-us-trade-deal-talks-reach-plateau-says-nirmala-sitharaman/article71548629.ece",
+      "dateLocation": "Oct 16, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Considers Easing Sanctions on Shadow Fleet",
-      "brief": "The United States is weighing potential relief on sanctions linked to Russian and Iranian oil tankers to expand global shipping capacity and manage fuel costs ahead of upcoming mid-term elections.",
+      "headline": "Reliance Awaits Same Clearances as Starlink, Says Ambani",
+      "brief": "Reliance has broken its silence regarding Elon Musk, asserting that its Jio satellite venture is awaiting the exact same regulatory clearances and spectrum allocation as Starlink.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNXZBZ1J0X3R5QlJjcFQ1MzlNRkVQNHRVRUd4RW1pWnBYNk1aelYwcVdaR1ZaQWJBLVhtVENYSm1nQm5QSzRrQlU0QWMxbnE2TkRuQmlVTWJOX3JYY3JLR3FpeFBudVRsQ3hTTDMtbllJbTF0QjZ5bGZ6VWdIVXdFNFBtMFI4R2Nnd2UtYzNTZkpTMGpJUi1jVzZQMDZoVlNLazYtd25wUi00ZUZERjZudFFRUVU4VkFHTXVnTE5Jd1NpenAydkpFdGpqbUxPUQ?oc=5",
+      "dateLocation": "Oct 16, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Mutual Funds Halt Bulk Gold ETF Subscriptions",
+      "brief": "Major Indian mutual funds have temporarily suspended bulk subscriptions to gold exchange-traded funds ahead of the heavy festive shopping season to manage capital flows.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1dJUmxWRVJFR2xLMFhiSTRENmk2eklvZndkX2dzUmZGLUtKc0o2YldJRF9WbTNoVnJPc3Jjdy1qMTgtRXdWNjR0c3pIaVZxQzVZSk9JazRsdXNkLWtsenMyZzBFbHNlOTlzN1FVcWxKWm10Q3VlQkF6ZXVvcHduQ00xbnlqaE1wek9HQXJhU20zWERTN1NFSlRlRmFSQnp3aUFjYVp6aFhJYUwyZTlZdjRDR2tobk1la1hLbVBqZw?oc=5",
+      "dateLocation": "Oct 16, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Air India Suspends Saudi Arabia Flights After Attacks",
+      "brief": "Air India has cancelled all flights to Riyadh, Dammam, and Jeddah through October 20 following heightened security risks and Houthi rebel attacks on Saudi aviation infrastructure.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVWBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
-      "dateLocation": "October 16, 2026 | Washington",
+      "sourceUrl": "https://www.livemint.com/news/india/flying-to-saudi-arabia-air-india-cancels-all-riyadh-dammam-jeddah-flights-till-oct-20-flyers-to-get-full-refund-11792133164800.html",
+      "dateLocation": "Oct 16, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Five Killed in Houthi Attack on Yemen's Palace",
-      "brief": "At least five people were killed and sixteen others injured following a targeted Houthi strike on the presidential palace in Yemen's interim capital of Aden, escalating regional security tensions.",
+      "headline": "IMF Chief Warns AI Risks May Exceed Opportunities",
+      "brief": "The head of the IMF has cautioned that the risks of artificial intelligence could easily outweigh its economic benefits unless strict ethical frameworks and global safeguards are implemented.",
       "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/5-killed-16-injured-in-houthi-attack-on-yemens-aden-presidential-palace/articleshow/134979935.cms",
-      "dateLocation": "October 16, 2026 | Aden",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2IzOWJIRFRrNjFuc3M5M1RRQUNUS1dQcGVaSVhPa2lZVzd2a0JKamxsTFR4dU5QMThydUVyTks4bXhjM29fOE1oVWltNkVKcnk3ZFZEZmlmWXl5UlZDZXRfSmRfRTltdGU5dGdUbF9hSEI1Qi02R05ScVNvZVJ0V0xvelkxTmFsbXVvM1VjNWRCQU5FZUJXbnFQSUgtYlpxclUtbkV3ejNiVGs2V2pQOS1LNTN5TzZVb00xbGlBVQ?oc=5",
+      "dateLocation": "Oct 16, 2026 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oregon Elementary School Shooting Leaves Four Dead",
-      "brief": "A tragic shooting at an elementary school in Bend, Oregon, has left three children and a teacher dead, alongside the teenage suspect who was also found dead at the scene.",
+      "headline": "Bhuvneshwar Kumar Recalled to India Squad After Injury",
+      "brief": "Veteran pacer Bhuvneshwar Kumar has been added to India's T20I squad following a shoulder injury sustained by Arshdeep Singh ahead of the final match in Bengaluru.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/bhuvneshwar-kumar-added-to-india-squad-after-arshdeep-sys-shoulder-injury/articleshow/134988545.cms",
+      "dateLocation": "Oct 16, 2026 | Bengaluru",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mhatre Appointed Mumbai Vice-Captain, Suryakumar Ignored",
+      "brief": "In a surprising domestic squad selection, Mhatre has been named the Mumbai vice-captain for upcoming fixtures while star batsman Suryakumar Yadav was left off the leadership roster.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/mhatre-appointed-mumbai-vice-captain-cold-shoulder-for-suryakumar/article71548235.ece",
+      "dateLocation": "Oct 16, 2026 | Mumbai",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Odisha to Build Additional Houses for Rural Poor",
+      "brief": "The Odisha government has announced plans to mobilize resources to provide an additional 2.91 lakh houses for impoverished families, reallocating funds previously designated for minor repair works.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/oregon-school-shooting-latest-news-deaths-children-a-teacher-killed-in-police-injured-shooter-11792111736739.html",
-      "dateLocation": "October 16, 2026 | Oregon",
+      "sourceUrl": "https://www.thehindu.com/news/national/odisha/odisha-to-provide-additional-291-lakh-houses-for-poor-in-the-state/article71589140.ece",
+      "dateLocation": "Oct 16, 2026 | Bhubaneswar",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US States Sue OpenAI Over Child Safety Risks",
-      "brief": "Multiple US state attorneys general have filed lawsuits against AI giant OpenAI, alleging that its conversational chatbot poses direct mental health harms to children and deceives adult users.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/us-states-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults/articleshow/134980232.cms",
-      "dateLocation": "October 16, 2026 | New York",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Dead Fish Surface in Yamuna River, Raising Pollution Alarms",
+      "brief": "Countless dead fish have washed up along the banks of the Yamuna River near Wazirabad, triggering urgent environmental demands for upstream water sampling and pollution investigation.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/dead-fish-in-cleanest-yamuna-stretch-in-city-raise-alarm-over-pollution-after-monsoon/articleshow/134974793.cms",
+      "dateLocation": "Oct 16, 2026 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AI Data Center Threatens Historic Chestnut Grove",
-      "brief": "Plans for a massive AI infrastructure data center in West Virginia threaten one of America's last remaining blight-resistant American chestnut groves, sparking resistance from local conservationists.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/56-year-old-chestnut-trees-said-to-be-one-of-americas-last-remaining-chestnut-groves-at-risk-of-being-wiped-out-by-datacenter-labelled-as-one-of-the-largest-single-ai-infrastructure-investments-in-us-history/articleshow/134979748.cms",
-      "dateLocation": "October 16, 2026 | West Virginia",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Suchika Tariyal Wins Asian Games MMA Bronze",
-      "brief": "Overcoming severe financial strain and selection hurdles, 36-year-old Suchika Tariyal secured an inspiring bronze medal in mixed martial arts at the Asian Games, culminating a remarkable multisport career.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/i-got-it-late-but-i-got-it-told-she-was-too-old-suchika-tariyal-went-from-judo-kurash-and-ju-jitsu-to-asian-games-mma-bronze/articleshow/134980510.cms",
-      "dateLocation": "October 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Para-Shuttlers Challenge Selection in Delhi HC",
-      "brief": "Top Indian para-badminton players have filed a formal petition in the Delhi High Court challenging their exclusion from the upcoming Asian Para Games contingent despite meeting all established criteria.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/opaque-selection-forced-doubles-pairing-para-shuttlers-challenge-asian-para-games-non-selection-in-delhi-hc/articleshow/134980301.cms",
-      "dateLocation": "October 16, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Puducherry Bird Atlas Records 158 Species in Exercise",
+      "brief": "The fourth edition of the Puducherry Bird Atlas successfully documented over 43,000 individual birds across 158 distinct species, offering crucial ecological insights into local wetland health.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/puducherry/fourth-edition-of-puducherry-bird-atlas-records-43000-birds-158-species/article71582594.ece",
+      "dateLocation": "Oct 16, 2026 | Puducherry",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
