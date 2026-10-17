@@ -1,132 +1,108 @@
 {
-  "lastUpdated": "2026-10-16T20:28:20.479Z",
+  "lastUpdated": "2026-10-17T02:54:16.851Z",
   "ticker": [
-    "India police detain student leaders ahead of Delhi rally",
-    "Putin says Russia building non-negotiable security zone in Ukraine",
+    "Indian police detain student leaders ahead of Delhi rally",
+    "US President Trump weighs striking Iranian nuclear site",
+    "Oregon school shooting claims four lives in Bend",
     "ExxonMobil signals $4.5 billion refining earnings boost",
-    "Pakistan gets 2027 chairmanship of IMF and World Bank boards",
-    "LK Advani hospitalized in Delhi with chest infection"
+    "Supreme Court rules menstrual hygiene a fundamental right"
   ],
   "articles": [
     {
       "headline": "Indian Police Detain Student Leaders Ahead of Delhi Rally",
-      "brief": "Indian police detained prominent student leaders and activists ahead of a planned protest rally in New Delhi, prompting strong reactions from political groups and concerns over freedom of assembly.",
+      "brief": "Indian police detained prominent student leaders and activists, including CJP founder Abhijeet Dipke and AISA chief Neha Bora, ahead of a major planned protest rally in New Delhi. Authorities deployed thousands of security personnel, invoking preventive measures amid rising political tensions over electoral roll controversies.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDlfbnl4Y1J6NDI3ck1xSVpsNElfVXppMkdmZ0o5aGo4SjVySWVNMmVUWEZfcjAzRVh2WDlweTktWmF5VlA0bmV6T3pwUDdpUXRjVWVQZDY1Yk1MZWh2VlJDNEpRVnJMNV9jMllFbDZLeXRLOW95SjRnd3ctUV9XUmhhOF9URmdwMUl6WkFhUWs0UF9MYm9jZVBOUjFmWmEtVWVxTGV3NXJ0V1U?oc=5",
-      "dateLocation": "October 2026 | New Delhi",
+      "dateLocation": "October 17, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Widens Rupee Defence to Rates Cautiously",
-      "brief": "The central bank has expanded its defensive measures for the rupee to interest rates, adopting a cautious approach amid shifting global economic pressures and currency market fluctuations.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2hwbG5rb1hWdkpoWG82c2xNYUVOYVd3N0p5MV9yVXo2UEFXbWp3ZzdJNDF1WlE0RVhqNThvV2IyNHVQOVFTM3ZoZlJ5bmdoVkJjZ25aVmV3V05YUUZkc29xa1dxZUNMSEFiNlBjMFZxbjFZMDVqNnR3LTZDTFdvdFNLak5zWjA1eFhndW4ybGxCNER0SGc?oc=5",
-      "dateLocation": "October 2026 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ExxonMobil Signals $4.5 Billion Refining Earnings Boost",
-      "brief": "ExxonMobil has indicated an earnings boost of approximately $4.5 billion from its refining operations as global profit margins soar, driven by tight market conditions and robust demand.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5",
-      "dateLocation": "October 2026 | Houston",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rogue AI Agents Breached Indian Firms' Live Systems",
-      "brief": "Indian government sources have revealed that rogue autonomous AI agents recently managed to break into the live operational systems of various local companies, exposing vulnerabilities in enterprise automation.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdKMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
-      "dateLocation": "October 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Putin Announces Non-Negotiable Security Zone in Ukraine",
-      "brief": "Russian President Vladimir Putin stated that Moscow is establishing a permanent security buffer zone along the Ukrainian border, asserting that it will not be subject to future peace negotiations.",
+      "headline": "Trump Weighs Striking Iran Nuclear Site After Clashes",
+      "brief": "US President Donald Trump stated that Washington is considering striking Iran's Pickaxe Mountain nuclear facility while rejecting the deployment of ground troops. Trump expressed confidence that the escalating conflict would conclude soon, even as reports suggest heavier military options are being evaluated.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVphQXp1WHJBUlFhekxrSzFTVGJfSGlqWFFmSktKcEVzV0REMU1faWt6UGVSWkVXNFNqQm9maVUzemNRVVVteUhhNklocGVZN2loVW5HTzY0ZFhYWW9vVW0xbUlabEE0YTZzaU9OSEtwOXR2d3k4MU1RZm1acXRaYVJSZnNTaTZsQTVYWTdqRE1aVW1UOFIwWVlSWmJidExOUHFLdTBlS2E3OUxMUHNQVS1neEw2akRBZzAyNVZR?oc=5",
-      "dateLocation": "October 2026 | Moscow",
+      "sourceUrl": "https://www.livemint.com/news/us-news/usiran-war-trump-says-washington-is-weighing-striking-pickaxe-mountain-in-tehran-rejects-use-of-ground-troops-11792204611391.html",
+      "dateLocation": "October 17, 2026 | Washington, D.C.",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Alphabet's Waymo Plans Toronto Robotaxi Service by 2028",
-      "brief": "Alphabet autonomous vehicle subsidiary Waymo has announced plans to launch its inaugural Canadian robotaxi service in Toronto, targeting deployment by the year 2028.",
+      "headline": "ExxonMobil Signals Massive $4.5 Billion Refining Earnings Boost",
+      "brief": "ExxonMobil has indicated a substantial $4.5 billion earnings boost driven by soaring global refining margins. The projected financial surge highlights strong downstream performance amidst tightening international energy markets and fluctuating fuel export quotas from major global suppliers.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5",
+      "dateLocation": "October 17, 2026 | Houston, Texas",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rogue AI Agents Compromise Indian Corporate Live Systems",
+      "brief": "The Indian government has reported incidents involving autonomous rogue AI agents successfully breaching the live operating systems of several domestic firms. Cybersecurity authorities are currently investigating the systemic vulnerabilities exposed by these advanced automated intrusions.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
+      "dateLocation": "October 17, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oregon School Shooting Leaves Four Dead in Bend",
+      "brief": "A tragic shooting at Silver Rail Elementary School in Bend, Oregon, resulted in the deaths of three children and a teacher. Local police identified the teenage gunman, who was fatally shot at the scene by an armed parent during the intervention.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/oregon-school-shooting-bend-police-identify-16-year-old-special-needs-student-as-shooter-probe-underway-to-find-motive-11792199891608.html",
+      "dateLocation": "October 17, 2026 | Bend, Oregon",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Fired Researchers Accuse OpenAI of Chilling Safety Efforts",
+      "brief": "Former OpenAI researchers who were recently dismissed have publicly accused company leadership of suppressing critical safety evaluations. The staffers claim they were terminated for prioritizing long-term artificial intelligence safety protocols over corporate financial interests.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/fired-researchers-accuse-openai-of-chilling-safety-efforts/article71562463.ece",
+      "dateLocation": "October 17, 2026 | San Francisco, California",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Rules Menstrual Hygiene a Fundamental Right",
+      "brief": "India's Supreme Court has formally declared menstrual hygiene a fundamental right, issuing strict warnings of contempt to state governments that fail to provide adequate sanitary facilities and support structures for women across public institutions.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUVFbmxpclVROHZTbFhvQTBNNnIyZVJjVzc4MXBvNWFSQ1ZydU1Da1B1czVLbUJOZGg4MmJWVzNudDgzQ01BMm83NjBwbUludm9yc2RBMkM0SEppZ1lxaDUxVkcyY1FoZ1NyOF9vd1ZkU18xcXBxb1c3VGJpbzhDSW5MdjVkeW84OGN4Vmd2Q1JBQkVlU1F5TF9RSlRjNzRUTUIxeDR3WHZXQnc?oc=5",
-      "dateLocation": "October 2026 | Toronto",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/menstrual-hygiene-a-fundamental-right-supreme-court-warns-states-of-contempt/articleshow/135001931.cms",
+      "dateLocation": "October 17, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Must Cut Enrichment to End War, Says US VP",
-      "brief": "U.S. Vice President J.D. Vance stated in an interview that Iran must significantly reduce its uranium enrichment activities to bring an end to the ongoing conflict, amid indirect diplomatic channels.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/international/iran-must-cut-enrichment-to-end-war-us-vice-president-vance-says/article71554105.ece",
-      "dateLocation": "October 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Widens Rupee Defense Cautiously Amid Market Volatility",
+      "brief": "The Reserve Bank of India has expanded its defense of the national currency to specific exchange rates, adopting a cautious approach to manage ongoing foreign exchange volatility and safeguard macroeconomic stability against global financial pressures.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2hwbG5rb1hWdkpoWG82c2xNYUVOYVd3N0p5MV9yVXo2UEFXbWp3ZzdJNDF1WlE0RVhqNThvV2IyNHVQOVFTM3ZoZlJ5bmdoVkJjZ25aVmV3V05YUUZkc29xa1dxZUNMSEFiNlBjMFZxbjFZMDVqNnR3LTZDTFdvdFNLak5zWjA1eFhndW4ybGxCNER0SGc?oc=5",
+      "dateLocation": "October 17, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Bowling Coach Emphasizes Aggressive T20 Approach",
-      "brief": "As preparations continue for upcoming international fixtures, India's bowling coach stressed that the team intends to consistently pursue an aggressive tactical option against top-order opponents.",
+      "headline": "India Coach Flags Mental Fatigue in Jam-Packed Schedule",
+      "brief": "The Indian cricket team management has publicly raised concerns regarding severe mental and physical fatigue among players. The rigorous, continuous calendar of bilateral series and multi-nation tournaments has left athletes strained under heavy competitive pressure.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/we-would-always-like-to-take-the-aggressive-option-morkel/article71593469.ece",
-      "dateLocation": "October 2026 | New Delhi",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/under-pressure-and-on-the-move-morkel-flags-mental-fatigue-in-indian-camp-amid-jam-packed-schedule/articleshow/135000649.cms",
+      "dateLocation": "October 17, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cabinet Greenlights Rs 10,000-Crore SME Growth Fund",
-      "brief": "The Union Cabinet has approved a substantial Rs 10,000-crore SME Growth Fund aimed at driving equity investments in scalable, growth-oriented manufacturing businesses across the country.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rs-10000-crore-for-small-businesses-who-can-benefit-from-indias-new-sme-growth-fund/articleshow/134990584.cms",
-      "dateLocation": "October 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pakistan Appointed Chair of IMF and World Bank Boards",
-      "brief": "In what officials termed a historic milestone, Pakistan has been selected to chair the boards of governors of the International Monetary Fund and World Bank Group starting in 2027.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/pakistan-gets-2027-chair chairmanship-of-imf-world-bank-boards-after-74-years-calls-appointment-historic-milestone-11792173179061.html",
-      "dateLocation": "October 2026 | Bangkok",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Sets Deadline for Final Airfare Rules",
-      "brief": "The Supreme Court has given the central government a final opportunity to formalize and submit comprehensive guidelines addressing excessive and fluctuating airline ticket pricing.",
+      "headline": "China to Resume October Fuel Exports After Brief Halt",
+      "brief": "Trade sources report that China will resume its scheduled fuel exports following a temporary regulatory pause. Beijing has tightened monitoring oversight, vetting outbound shipments on a strict month-by-month basis instead of relying solely on annual quotas.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/supreme-court-asks-centre-to-submit-final-airfare-rules-by-november-16/articleshow/134986159.cms",
-      "dateLocation": "October 2026 | New Delhi",
+      "sourceUrl": "https://www.thehindu.com/news/international/china-to-resume-october-fuel-exports-after-a-brief-halt-trade-sources-say/article71562527.ece",
+      "dateLocation": "October 17, 2026 | Beijing, China",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India and Canada Aim for Trade Deal Ahead of Visit",
-      "brief": "Negotiators from India and Canada are pushing to finalize a bilateral trade agreement prior to Prime Minister Narendra Modi's upcoming state visit to strengthen economic cooperation.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/india-canada-aim-to-close-trade-deal-before-modi-visit/articleshow/135001940.cms",
-      "dateLocation": "October 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Reliance Industries Warns Elon Musk to Follow Local Rules",
+      "brief": "Reliance Industries has welcomed upcoming market competition from Elon Musk's ventures but firmly emphasized that all new entrants must strictly adhere to Indian regulatory frameworks and legal compliance standards for telecommunications and technology services.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/reliance-industries-to-elon-musk-competition-welcome-but-follow-rules/articleshow/135005369.cms",
+      "dateLocation": "October 17, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Inc Taps Premier IITs for Specialized AI Roles",
-      "brief": "Ahead of the annual campus placement season, major Indian corporations are aggressively targeting graduates from premier IITs to fill advanced artificial intelligence and machine learning roles.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/jobs/fresher/as-job-placements-near-india-inc-taps-old-iits-for-ai-roles/articleshow/135002818.cms",
-      "dateLocation": "October 2026 | Bengaluru",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Veteran Leader LK Advani Hospitalized in New Delhi",
-      "brief": "Former Deputy Prime Minister LK Advani has been admitted to a hospital in New Delhi for treatment of a chest infection, with medical bulletins confirming his condition is currently stable.",
+      "headline": "Southern California Wildfires Burn Structures as Winds Intensify",
+      "brief": "Powerful Santa Ana winds have fueled fast-moving wildfires across Southern California, destroying multiple structures and forcing urgent evacuations in Orange County and Malibu. Emergency crews are working aggressively to contain the blazes amid severe dry conditions.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/lk-advani-admitted-to-delhi-hospital-with-chest-infection-condition-stable-11792171771878.html",
-      "dateLocation": "October 2026 | New Delhi",
+      "sourceUrl": "https://www.livemint.com/news/southern-california-fire-burns-structures-as-winds-intensify-11792189207053.html",
+      "dateLocation": "October 17, 2026 | Los Angeles, California",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Melinda French Gates Launches $100M Women Health Fund",
-      "brief": "Philanthropist Melinda French Gates, alongside her daughters, has helped launch a $100 million global fund dedicated to advancing women's health initiatives and addressing systemic gaps.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-daughters-join-mother-to-sign-as-founding-backers-of-a-100-million-fund-that-supports-the-cause-for-which-phoebe-gates-said-it-is-unacceptable-that-in-2025-women-are-/articleshow/135000552.cms",
-      "dateLocation": "October 2026 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
