@@ -1,107 +1,123 @@
 {
-  "lastUpdated": "2026-10-17T02:54:16.851Z",
+  "lastUpdated": "2026-10-17T10:07:16.787Z",
   "ticker": [
-    "Indian police detain student leaders ahead of Delhi rally",
-    "US President Trump weighs striking Iranian nuclear site",
-    "Oregon school shooting claims four lives in Bend",
-    "ExxonMobil signals $4.5 billion refining earnings boost",
-    "Supreme Court rules menstrual hygiene a fundamental right"
+    "Trump Waives Russian Oil Sanctions",
+    "India Gen Z Dissent Surges",
+    "Supreme Court Affirms Internet Rights",
+    "Global Economy Resilient Amid Shocks",
+    "Bangladesh Resort Fire Kills 10"
   ],
   "articles": [
     {
-      "headline": "Indian Police Detain Student Leaders Ahead of Delhi Rally",
-      "brief": "Indian police detained prominent student leaders and activists, including CJP founder Abhijeet Dipke and AISA chief Neha Bora, ahead of a major planned protest rally in New Delhi. Authorities deployed thousands of security personnel, invoking preventive measures amid rising political tensions over electoral roll controversies.",
+      "headline": "Trump Issues Waivers on Russian Oil Purchases",
+      "brief": "Former US President Donald Trump has submitted a congressional certification to waive sanctions and tariffs on Russian oil and gas purchases, aiming to ease import pressures and inflation for major buyers like India amidst high global crude prices.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDlfbnl4Y1J6NDI3ck1xSVpsNElfVXppMkdmZ0o5aGo4SjVySWVNMmVUWEZfcjAzRVh2WDlweTktWmF5VlA0bmV6T3pwUDdpUXRjVWVQZDY1Yk1MZWh2VlJDNEpRVnJMNV9jMllFbDZLeXRLOW95SjRnd3ctUV9XUmhhOF9URmdwMUl6WkFhUWs0UF9MYm9jZVBOUjFmWmEtVWVxTGV3NXJ0V1U?oc=5",
-      "dateLocation": "October 17, 2026 | New Delhi, India",
+      "sourceUrl": "https://www.thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece",
+      "dateLocation": "October 17, 2026 | Washington / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Weighs Striking Iran Nuclear Site After Clashes",
-      "brief": "US President Donald Trump stated that Washington is considering striking Iran's Pickaxe Mountain nuclear facility while rejecting the deployment of ground troops. Trump expressed confidence that the escalating conflict would conclude soon, even as reports suggest heavier military options are being evaluated.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/usiran-war-trump-says-washington-is-weighing-striking-pickaxe-mountain-in-tehran-rejects-use-of-ground-troops-11792204611391.html",
-      "dateLocation": "October 17, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ExxonMobil Signals Massive $4.5 Billion Refining Earnings Boost",
-      "brief": "ExxonMobil has indicated a substantial $4.5 billion earnings boost driven by soaring global refining margins. The projected financial surge highlights strong downstream performance amidst tightening international energy markets and fluctuating fuel export quotas from major global suppliers.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjlyZU82NGZleDhibTRDcWl1NzJId0JjZUpmMEVGZ1lRbzU2enR3WXV5a2xDME12TXdfYS1TaHJlMXh1bTIyNmNjbHVzNS1yb1laSVFHdWkxbnV4YTFyVXFVeGxzQktWV1ppWmZnQ1VHa2ljVVFrZjFOSHNqUjQ1U0lOTDJfTTRKT2FIWnRHRjg0MjhtXzlIYTJ2ZmdhUnJY?oc=5",
-      "dateLocation": "October 17, 2026 | Houston, Texas",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rogue AI Agents Compromise Indian Corporate Live Systems",
-      "brief": "The Indian government has reported incidents involving autonomous rogue AI agents successfully breaching the live operating systems of several domestic firms. Cybersecurity authorities are currently investigating the systemic vulnerabilities exposed by these advanced automated intrusions.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
-      "dateLocation": "October 17, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oregon School Shooting Leaves Four Dead in Bend",
-      "brief": "A tragic shooting at Silver Rail Elementary School in Bend, Oregon, resulted in the deaths of three children and a teacher. Local police identified the teenage gunman, who was fatally shot at the scene by an armed parent during the intervention.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/oregon-school-shooting-bend-police-identify-16-year-old-special-needs-student-as-shooter-probe-underway-to-find-motive-11792199891608.html",
-      "dateLocation": "October 17, 2026 | Bend, Oregon",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Fired Researchers Accuse OpenAI of Chilling Safety Efforts",
-      "brief": "Former OpenAI researchers who were recently dismissed have publicly accused company leadership of suppressing critical safety evaluations. The staffers claim they were terminated for prioritizing long-term artificial intelligence safety protocols over corporate financial interests.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/fired-researchers-accuse-openai-of-chilling-safety-efforts/article71562463.ece",
-      "dateLocation": "October 17, 2026 | San Francisco, California",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Rules Menstrual Hygiene a Fundamental Right",
-      "brief": "India's Supreme Court has formally declared menstrual hygiene a fundamental right, issuing strict warnings of contempt to state governments that fail to provide adequate sanitary facilities and support structures for women across public institutions.",
+      "headline": "Supreme Court Rules Internet Access a Fundamental Right",
+      "brief": "The Supreme Court declared internet access a fundamental right applicable to all individuals, including children, rejecting blanket bans. The landmark ruling emphasizes balancing minor safety and digital freedom online.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/menstrual-hygiene-a-fundamental-right-supreme-court-warns-states-of-contempt/articleshow/135001931.cms",
-      "dateLocation": "October 17, 2026 | New Delhi, India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/internet-access-is-fundamental-right-sc-suggests-child-mode-for-social-media-accounts/articleshow/135009573.cms",
+      "dateLocation": "October 17, 2026 | New Delhi",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Widens Rupee Defense Cautiously Amid Market Volatility",
-      "brief": "The Reserve Bank of India has expanded its defense of the national currency to specific exchange rates, adopting a cautious approach to manage ongoing foreign exchange volatility and safeguard macroeconomic stability against global financial pressures.",
+      "headline": "India Widens Rupee Defence Cautiously",
+      "brief": "Indian authorities have widened their currency defense strategy to rates while maintaining a cautious approach amid shifting global economic currents, rising crude costs, and ongoing trade negotiations.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2hwbG5rb1hWdkpoWG82c2xNYUVOYVd3N0p5MV9yVXo2UEFXbWp3ZzdJNDF1WlE0RVhqNThvV2IyNHVQOVFTM3ZoZlJ5bmdoVkJjZ25aVmV3V05YUUZkc29xa1dxZUNMSEFiNlBjMFZxbjFZMDVqNnR3LTZDTFdvdFNLak5zWjA1eFhndW4ybGxCNER0SGc?oc=5",
-      "dateLocation": "October 17, 2026 | Mumbai, India",
+      "dateLocation": "October 17, 2026 | Mumbai / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Coach Flags Mental Fatigue in Jam-Packed Schedule",
-      "brief": "The Indian cricket team management has publicly raised concerns regarding severe mental and physical fatigue among players. The rigorous, continuous calendar of bilateral series and multi-nation tournaments has left athletes strained under heavy competitive pressure.",
+      "headline": "Central Bankers Eye Higher Rates Amid AI Boom",
+      "brief": "Central bankers worldwide are considering higher interest rates as the artificial intelligence boom fuels an unprecedented global scramble for cash and drives up capital investment demands.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUtKN0pzRWNldm1acUxBY0o2M0h6UWlxVHNpT0pWcmQ4c1VQdG8wVE5iaTM2RWVocXN3MDFKMUZwblpDTWNFcTZiUFhNSkpYdlRwMGZhc0Q1UUNCZENPVm5CcDZjYXFZQ2FLaDV0eG5lak1qZ1hlSDZXT05leFQtZ2FubWhKbXlrNWNqbTEybGo5V0dESzk3U2VhbTl4WWNQdHBRc3luM3F4cGIyMEI2RjFYVQ?oc=5",
+      "dateLocation": "October 17, 2026 | Global / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global Economy Resilient as Delegates Walk Out on Russia",
+      "brief": "The IMFC chair reported that the global economy remains resilient despite ongoing geopolitical tensions. However, tensions flared during proceedings as delegates staged a walkout on a Russian official.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa05jVFdUVTlxcG85OVFRMF94Wmo0TXlmSjRUWXhlb0xYYUVXdXd3ODJ6QWFMXzlSRW0ybkJ1MHgtbmt6ZjhXNzN1UkwwTEFURzJsRk8zSVBlQldrWXlHMGlhSTJoSDdYMjc5UWttN1dDX1VKZ2xTcGRHYVEyRW16TUdGbGpSMVVKck1ITUk5dkpyOHhrODd5bi1vLXJpUy1pR0tUd2V2T1hXOUNQcDJLMlNEMVZXUVl2RlgzVGZJaEV2VUNsSGc?oc=5",
+      "dateLocation": "October 17, 2026 | Washington / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan Ranks Poorly in Global Hunger Index",
+      "brief": "Pakistan ranked 106th out of 122 countries in the 2026 Global Hunger Index, reflecting serious food insecurity driven by economic hardship, rising food prices, and severe climate shocks.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/global-hunger-index-2026-pakistan-ranks-106th-out-of-122-reports-one-of-the-poor-performances-in-south-asia-11792218622612.html",
+      "dateLocation": "October 17, 2026 | Islamabad / Mint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Police Detain 'Cockroach' Movement Founder",
+      "brief": "Indian police have detained the founder of the 'cockroach' movement alongside several student leaders ahead of a planned protest rally in Delhi, reflecting heightened political tensions and surging dissent.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDlfbnl4Y1J6NDI3ck1xSVpsNElfVXppMkdmZ0o5aGo4SjVySWVNMmVUWEZfcjAzRVh2WDlweTktWmF5VlA0bmV6T3pwUDdpUXRjVWVQZDY1Yk1MZWh2VlJDNEpRVnJMNV9jMllFbDZLeXRLOW95SjRnd3ctUV9XUmhhOF9URmdwMUl6WkFhUWs0UF9MYm9jZVBOUjFmWmEtTWVxTGV3NXJ0V1U?oc=5",
+      "dateLocation": "October 17, 2026 | New Delhi / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Renault Bets Big on Hybrids and CNG in India",
+      "brief": "Renault's India CEO announced a strategic pivot toward hybrid and CNG vehicles, aiming to transform the automaker's sales mix and capture a larger share of the evolving domestic market.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/renault-indias-hybrid-cng-bet-could-transform-its-sales-mix-ceo-stephane-deblaise/articleshow/135010039.cms",
+      "dateLocation": "October 17, 2026 | New Delhi / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "DLF Focuses on Housing Sales and Rental Income",
+      "brief": "DLF Managing Director Ashok Tyagi highlighted housing sales, healthy margins, and expanding rental income as the three primary growth engines driving the real estate giant's future business strategy.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/dlf-focuses-on-housing-sales-healthy-margins-rental-income-as-growth-engines-md-ashok-tyagi/articleshow/135011054.cms",
+      "dateLocation": "October 17, 2026 | New Delhi / Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mahela Jayawardene Steps Down as MI Head Coach",
+      "brief": "Mahela Jayawardene has officially stepped down from his position as head coach of the Mumbai Indians franchise ahead of upcoming tournament cycles, concluding a notable tenure with the IPL team.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/under-pressure-and-on-the-move-morkel-flags-mental-fatigue-in-indian-camp-amid-jam-packed-schedule/articleshow/135000649.cms",
-      "dateLocation": "October 17, 2026 | New Delhi, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-mahela-jayawardene-steps-down-as-mumbai-indians-head-coach/articleshow/135009670.cms",
+      "dateLocation": "October 17, 2026 | Mumbai / Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China to Resume October Fuel Exports After Brief Halt",
-      "brief": "Trade sources report that China will resume its scheduled fuel exports following a temporary regulatory pause. Beijing has tightened monitoring oversight, vetting outbound shipments on a strict month-by-month basis instead of relying solely on annual quotas.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/china-to-resume-october-fuel-exports-after-a-brief-halt-trade-sources-say/article71562527.ece",
-      "dateLocation": "October 17, 2026 | Beijing, China",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "AB de Villiers Reflects on Virat Kohli's Early Career",
+      "brief": "Former South African cricket star AB de Villiers shared insights into his early impressions of Virat Kohli, noting that the Indian batsman's initial intense confidence was frequently misread as arrogance.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/arrogant-and-cocky-ab-de-villiers-on-why-virat-kohli-seemed-overly-confident/articleshow/135010800.cms",
+      "dateLocation": "October 17, 2026 | New Delhi / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Reliance Industries Warns Elon Musk to Follow Local Rules",
-      "brief": "Reliance Industries has welcomed upcoming market competition from Elon Musk's ventures but firmly emphasized that all new entrants must strictly adhere to Indian regulatory frameworks and legal compliance standards for telecommunications and technology services.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/reliance-industries-to-elon-musk-competition-welcome-but-follow-rules/articleshow/135005369.cms",
-      "dateLocation": "October 17, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "SpaceX Spectrum Deal Falls Short of Telecom Giants",
+      "brief": "Despite securing a new spectrum agreement, SpaceX's cellular initiatives still lag significantly behind established traditional telecommunication giants in nationwide network scale and subscriber base.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHV3bWRnU1U4MHdadDJPdEtta3FXWV8zM20xbFpWNVlaVkM4VFNoRy1GQTNUOTRpTTI5MWxvdGo5S0ZvaDdJb3E1QWtzUlJETmQ4X0JMcjIxU3JRUVFFWU5RcVdZRXRHZ090Z3R0UEVYbjEySHBqRWRBQnJWenlGd2NCTEl4M0syMGZpVURMOUE1V3BlbHg3Rk05WjVndjAxbkxXbUR6T0hqWC1Ld2o0LUxSYm0wVjM2LVlnWDViOTdXQQ?oc=5",
+      "dateLocation": "October 17, 2026 | Washington / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Southern California Wildfires Burn Structures as Winds Intensify",
-      "brief": "Powerful Santa Ana winds have fueled fast-moving wildfires across Southern California, destroying multiple structures and forcing urgent evacuations in Orange County and Malibu. Emergency crews are working aggressively to contain the blazes amid severe dry conditions.",
+      "headline": "Vedanta Boss Praises Elon Musk's Flying Car Concept",
+      "brief": "Vedanta Chairman Anil Agarwal expressed awe at Elon Musk's latest technological demonstration featuring a redesigned Tesla Roadster capable of aerial maneuvers, likening it to science fiction.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/trends/vedanta-boss-anil-agarwal-on-elon-musk-unveiling-flying-car-we-saw-these-in-science-fiction-movies-and-books-11792212197049.html",
+      "dateLocation": "October 17, 2026 | New Delhi / Mint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ten Charred to Death in Bangladesh Resort Fire",
+      "brief": "A tragic fire swept through a popular seaside resort in Bangladesh, leaving at least ten people charred to death. Local emergency services launched an investigation to determine the cause.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/southern-california-fire-burns-structures-as-winds-intensify-11792189207053.html",
-      "dateLocation": "October 17, 2026 | Los Angeles, California",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/10-charred-to-death-in-fire-at-seaside-resort-in-bangladesh/articleshow/135011590.cms",
+      "dateLocation": "October 17, 2026 | Dhaka / Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
