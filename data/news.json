@@ -1,124 +1,116 @@
 {
-  "lastUpdated": "2026-10-17T10:07:16.787Z",
+  "lastUpdated": "2026-10-17T14:54:59.643Z",
   "ticker": [
-    "Trump Waives Russian Oil Sanctions",
-    "India Gen Z Dissent Surges",
-    "Supreme Court Affirms Internet Rights",
-    "Global Economy Resilient Amid Shocks",
-    "Bangladesh Resort Fire Kills 10"
+    "HDFC Bank Q2 profit rises 4.7%",
+    "US grants waiver on Russian sanctions",
+    "FSSAI cracks down on food safety lapses",
+    "Airlines extend Saudi flight suspensions",
+    "Supreme Court rules on children's internet access"
   ],
   "articles": [
     {
-      "headline": "Trump Issues Waivers on Russian Oil Purchases",
-      "brief": "Former US President Donald Trump has submitted a congressional certification to waive sanctions and tariffs on Russian oil and gas purchases, aiming to ease import pressures and inflation for major buyers like India amidst high global crude prices.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece",
-      "dateLocation": "October 17, 2026 | Washington / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Rules Internet Access a Fundamental Right",
-      "brief": "The Supreme Court declared internet access a fundamental right applicable to all individuals, including children, rejecting blanket bans. The landmark ruling emphasizes balancing minor safety and digital freedom online.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/internet-access-is-fundamental-right-sc-suggests-child-mode-for-social-media-accounts/articleshow/135009573.cms",
-      "dateLocation": "October 17, 2026 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Widens Rupee Defence Cautiously",
-      "brief": "Indian authorities have widened their currency defense strategy to rates while maintaining a cautious approach amid shifting global economic currents, rising crude costs, and ongoing trade negotiations.",
+      "headline": "HDFC Bank Q2 Net Profit Climbs 4.7% Amid Leadership Changes",
+      "brief": "HDFC Bank reported a 4.7% rise in its second-quarter net profit, alongside the announcement that Deputy MD Kaizad Bharucha will step down by the end of December. Meanwhile, Axis Bank posted a significant 37.6% quarterly profit increase, though it missed analyst cost estimates.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2hwbG5rb1hWdkpoWG82c2xNYUVOYVd3N0p5MV9yVXo2UEFXbWp3ZzdJNDF1WlE0RVhqNThvV2IyNHVQOVFTM3ZoZlJ5bmdoVkJjZ25aVmV3V05YUUZkc29xa1dxZUNMSEFiNlBjMFZxbjFZMDVqNnR3LTZDTFdvdFNLak5zWjA1eFhndW4ybGxCNER0SGc?oc=5",
-      "dateLocation": "October 17, 2026 | Mumbai / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2vOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5",
+      "dateLocation": "2026-10-17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Central Bankers Eye Higher Rates Amid AI Boom",
-      "brief": "Central bankers worldwide are considering higher interest rates as the artificial intelligence boom fuels an unprecedented global scramble for cash and drives up capital investment demands.",
+      "headline": "Axis Bank Posts 37.6% Profit Growth Despite Higher Costs",
+      "brief": "Axis Bank announced a strong 37.6% jump in quarterly profit, driven by robust business operations, although the figures slightly missed broader market estimates due to escalating operational and administrative costs. The bank has also appointed former HDFC veteran Rahul Shukla to lead its commercial Bharat Banking division.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUtKN0pzRWNldm1acUxBY0o2M0h6UWlxVHNpT0pWcmQ4c1VQdG8wVE5iaTM2RWVocXN3MDFKMUZwblpDTWNFcTZiUFhNSkpYdlRwMGZhc0Q1UUNCZENPVm5CcDZjYXFZQ2FLaDV0eG5lak1qZ1hlSDZXT05leFQtZ2FubWhKbXlrNWNqbTEybGo5V0dESzk3U2VhbTl4WWNQdHBRc3luM3F4cGIyMEI2RjFYVQ?oc=5",
-      "dateLocation": "October 17, 2026 | Global / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWlKeXYxOVAxQU1rRzNoVldQdEFOYkF0YlpINXNvb3hwdkhjcmNTZmoyUVlsclZjellwalhIelQtMnhSc1U2TGJzOWNrZDB4NFl6T29fQzY0UnBnS0steEcyUnByMnpLUjhfQXBCQ1YwZUxyTFNXZm14TVNoVkR5RkN4Ym1QSDYxZ2xxelA2YTNyWWdlT29oUjBEay02T0YxeGNVRGZoQktjTURxTWFramYwVmZyR2lCQUNVcTFB?oc=5",
+      "dateLocation": "2026-10-17 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Global Economy Resilient as Delegates Walk Out on Russia",
-      "brief": "The IMFC chair reported that the global economy remains resilient despite ongoing geopolitical tensions. However, tensions flared during proceedings as delegates staged a walkout on a Russian official.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa05jVFdUVTlxcG85OVFRMF94Wmo0TXlmSjRUWXhlb0xYYUVXdXd3ODJ6QWFMXzlSRW0ybkJ1MHgtbmt6ZjhXNzN1UkwwTEFURzJsRk8zSVBlQldrWXlHMGlhSTJoSDdYMjc5UWttN1dDX1VKZ2xTcGRHYVEyRW16TUdGbGpSMVVKck1ITUk5dkpyOHhrODd5bi1vLXJpUy1pR0tUd2V2T1hXOUNQcDJLMlNEMVZXUVl2RlgzVGZJaEV2VUNsSGc?oc=5",
-      "dateLocation": "October 17, 2026 | Washington / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Adapts Rapidly as Shipping Conflicts Disrupt Crude Purchases",
+      "brief": "Amid ongoing geopolitical conflicts and shipping disruptions affecting global trade routes, India's recent crude oil purchases demonstrate the country's swift adaptability in securing alternative energy supplies and maintaining national energy stability.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/business/as-conflicts-disrupt-shipping-indias-crude-purchases-how-fast-it-can-adapt/article71592461.ece",
+      "dateLocation": "2026-10-17 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan Ranks Poorly in Global Hunger Index",
-      "brief": "Pakistan ranked 106th out of 122 countries in the 2026 Global Hunger Index, reflecting serious food insecurity driven by economic hardship, rising food prices, and severe climate shocks.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/global-hunger-index-2026-pakistan-ranks-106th-out-of-122-reports-one-of-the-poor-performances-in-south-asia-11792218622612.html",
-      "dateLocation": "October 17, 2026 | Islamabad / Mint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Grants Sanction Waiver on Russian Energy for India",
+      "brief": "The United States has provided a strategic sanction waiver regarding Russian energy imports, offering significant relief to Indian exporters and bolstering the nation's energy security framework following intense tariff negotiations.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-russia-sanction-waiver-a-relief-for-indias-exporters-energy-security-experts/articleshow/135014460.cms",
+      "dateLocation": "2026-10-17 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Police Detain 'Cockroach' Movement Founder",
-      "brief": "Indian police have detained the founder of the 'cockroach' movement alongside several student leaders ahead of a planned protest rally in Delhi, reflecting heightened political tensions and surging dissent.",
+      "headline": "Supreme Court Rules Children Have Fundamental Right to Internet",
+      "brief": "The Supreme Court of India has ruled that children possess a fundamental right to access the internet, declaring that authorities cannot impose a blanket ban on its use, emphasizing digital inclusion and educational necessities.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDlfbnl4Y1J6NDI3ck1xSVpsNElfVXppMkdmZ0o5aGo4SjVySWVNMmVUWEZfcjAzRVh2WDlweTktWmF5VlA0bmV6T3pwUDdpUXRjVWVQZDY1Yk1MZWh2VlJDNEpRVnJMNV9jMllFbDZLeXRLOW95SjRnd3ctUV9XUmhhOF9URmdwMUl6WkFhUWs0UF9MYm9jZVBOUjFmWmEtTWVxTGV3NXJ0V1U?oc=5",
-      "dateLocation": "October 17, 2026 | New Delhi / Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/children-have-fundamental-right-to-access-internet-cant-impose-blanket-ban-on-its-use-sc/articleshow/135014954.cms",
+      "dateLocation": "2026-10-17 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Renault Bets Big on Hybrids and CNG in India",
-      "brief": "Renault's India CEO announced a strategic pivot toward hybrid and CNG vehicles, aiming to transform the automaker's sales mix and capture a larger share of the evolving domestic market.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/renault-indias-hybrid-cng-bet-could-transform-its-sales-mix-ceo-stephane-deblaise/articleshow/135010039.cms",
-      "dateLocation": "October 17, 2026 | New Delhi / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Egypt's President Sisi Announces Presidency Will End in 2030",
+      "brief": "Egyptian President Abdel Fattah al-Sisi stated that his presidency will officially conclude in 2030, outlining a structured strategic plan to prepare and mentor a new generation of future leaders for the country.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3NvbzVWSnc2ZlZISTRVY1BTaXo5ejd4dHJXTXZ2UlBxTkZzSWx3ZWlRY0hfeHlsLXJIR3M0aEVHcVBTckJDUk43TktZUHYwblZCX0xkNmdVSTZsTnA4bW1fQ3JJYVRwaWJHdTZ3TE4tbzRDQWoxcWJ3ZUVVZ3A5a1VnVVEyNEdXZ2E2UnFGb2hnVmJSQ2s2a1p3?oc=5",
+      "dateLocation": "2026-10-17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "DLF Focuses on Housing Sales and Rental Income",
-      "brief": "DLF Managing Director Ashok Tyagi highlighted housing sales, healthy margins, and expanding rental income as the three primary growth engines driving the real estate giant's future business strategy.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/dlf-focuses-on-housing-sales-healthy-margins-rental-income-as-growth-engines-md-ashok-tyagi/articleshow/135011054.cms",
-      "dateLocation": "October 17, 2026 | New Delhi / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "FSSAI Initiates Crackdown Over Expired Food and Hygiene Lapses",
+      "brief": "State food safety authorities and the FSSAI have initiated prosecution proceedings and inspections against major e-commerce and retail executives, including those from Reliance and Blinkit, following the seizure of expired food products and severe hygiene violations.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbF9Kd1c5TUJmMmdwdnhCeWFOYXp2UWhDeWwxaXdWQ0htYng4WWFwN1ZMMFhBV0JoM1kyazlGSjhwMklDdWxTLXhuMnc5LWY2blR5ZDdXQVRlWkFFUngya1AtVFFMS1N6Q0Raa0Y1RzJhSmx1ZmI2WU50elNkb0k1WEZ0RnhybEQ0VC1mUG83dnpBWTV3TzJTaW91ODB1X0VKU0pucE5IR3BIaE43aWVjdnktZW9kb1pnbHlwRnk4MW1lUzJ3UExFNg?oc=5",
+      "dateLocation": "2026-10-17 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Mahela Jayawardene Steps Down as MI Head Coach",
-      "brief": "Mahela Jayawardene has officially stepped down from his position as head coach of the Mumbai Indians franchise ahead of upcoming tournament cycles, concluding a notable tenure with the IPL team.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-mahela-jayawardene-steps-down-as-mumbai-indians-head-coach/articleshow/135009670.cms",
-      "dateLocation": "October 17, 2026 | Mumbai / Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "FSSAI Proposes Strict New Limits for Pesticide Residues in Tea",
+      "brief": "In an effort to tighten consumer food safety standards, India's food regulator has proposed rigorous science-based limits for specific pesticide residues found in daily tea leaves, putting producers under heightened compliance monitoring.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/your-daily-chai-under-the-scanner-fssai-proposes-new-science-based-limits-for-two-pesticide-residues-in-tea-what-consumers-should-know/articleshow/135015676.cms",
+      "dateLocation": "2026-10-17 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AB de Villiers Reflects on Virat Kohli's Early Career",
-      "brief": "Former South African cricket star AB de Villiers shared insights into his early impressions of Virat Kohli, noting that the Indian batsman's initial intense confidence was frequently misread as arrogance.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/arrogant-and-cocky-ab-de-villiers-on-why-virat-kohli-seemed-overly-confident/articleshow/135010800.cms",
-      "dateLocation": "October 17, 2026 | New Delhi / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Airlines Extend Saudi Arabia Flight Suspensions Amid Houthi Strikes",
+      "brief": "Major carriers including Air India, Air India Express, and IndiGo have extended the suspension of their flights to Saudi Arabian destinations such as Jeddah, Riyadh, and Dammam until October 24 due to rising security concerns from recent Houthi strikes.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/india/air-india-air-india-express-extend-saudi-arabia-flight-suspension-until-oct-24-amid-houthi-strikes-what-airline-said-11792233882959.html",
+      "dateLocation": "2026-10-17 | Mint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "SpaceX Spectrum Deal Falls Short of Telecom Giants",
-      "brief": "Despite securing a new spectrum agreement, SpaceX's cellular initiatives still lag significantly behind established traditional telecommunication giants in nationwide network scale and subscriber base.",
+      "headline": "Supertanker Ablaze After Striking Naval Mine in Strait of Hormuz",
+      "brief": "Iranian authorities confirmed that a supertanker carrying two million barrels of crude oil caught fire after hitting a naval mine while navigating through an unauthorized route in the strategic Strait of Hormuz amid escalating regional maritime tensions.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/iran-says-supertanker-carrying-2-million-barrels-of-crude-ablaze-after-hitting-naval-mine-in-strait-of-hormuz-11792232414310.html",
+      "dateLocation": "2026-10-17 | Mint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Green Visakha Demands Halt to Google's $15 Billion AI Data Centre",
+      "brief": "Environmental activist group Green Visakha has raised strong objections, demanding a halt to Google's massive $15 billion AI data centre project in Vizag over mounting concerns regarding its massive electricity and potable water resource demands.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHV3bWRnU1U4MHdadDJPdEtta3FXWV8zM20xbFpWNVlaVkM4VFNoRy1GQTNUOTRpTTI5MWxvdGo5S0ZvaDdJb3E1QWtzUlJETmQ4X0JMcjIxU3JRUVFFWU5RcVdZRXRHZ090Z3R0UEVYbjEySHBqRWRBQnJWenlGd2NCTEl4M0syMGZpVURMOUE1V3BlbHg3Rk05WjVndjAxbkxXbUR6T0hqWC1Ld2o0LUxSYm0wVjM2LVlnWDViOTdXQQ?oc=5",
-      "dateLocation": "October 17, 2026 | Washington / Reuters",
+      "sourceUrl": "https://www.livemint.com/news/india/why-is-green-visakha-demanding-a-halt-to-google-s-15-billion-ai-data-centre-project-in-vizag-11792237008355.html",
+      "dateLocation": "2026-10-17 | Mint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Vedanta Boss Praises Elon Musk's Flying Car Concept",
-      "brief": "Vedanta Chairman Anil Agarwal expressed awe at Elon Musk's latest technological demonstration featuring a redesigned Tesla Roadster capable of aerial maneuvers, likening it to science fiction.",
+      "headline": "Chief Economic Adviser Addresses Potential Risks of Artificial Intelligence",
+      "brief": "India's Chief Economic Adviser Anantha Nageswaran publicly addressed the financial accountability and systemic economic risks should current high-level corporate optimism surrounding artificial intelligence backfire in the global markets.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/trends/vedanta-boss-anil-agarwal-on-elon-musk-unveiling-flying-car-we-saw-these-in-science-fiction-movies-and-books-11792212197049.html",
-      "dateLocation": "October 17, 2026 | New Delhi / Mint",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/who-will-pay-for-todays-optimism-if-ai-goes-wrong-cea-anantha-nageswaran-answers/articleshow/135012225.cms",
+      "dateLocation": "2026-10-17 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ten Charred to Death in Bangladesh Resort Fire",
-      "brief": "A tragic fire swept through a popular seaside resort in Bangladesh, leaving at least ten people charred to death. Local emergency services launched an investigation to determine the cause.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/10-charred-to-death-in-fire-at-seaside-resort-in-bangladesh/articleshow/135011590.cms",
-      "dateLocation": "October 17, 2026 | Dhaka / Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Michael Clarke Criticises India's Omission of Kuldeep Yadav",
+      "brief": "Former Australian cricket captain Michael Clarke has expressed surprise over team management's decision to omit wrist-spinner Kuldeep Yadav from the T20I squad, emphasizing that his proven wicket-taking ability remains invaluable in the shortest format.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/cant-believe-he-is-not-their-first-choice-former-australian-captain-slams-management-for-benching-kuldeep-yadav/articleshow/135014419.cms",
+      "dateLocation": "2026-10-17 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
