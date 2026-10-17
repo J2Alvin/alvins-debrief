@@ -1,116 +1,124 @@
 {
-  "lastUpdated": "2026-10-17T14:54:59.643Z",
+  "lastUpdated": "2026-10-17T20:04:14.412Z",
   "ticker": [
-    "HDFC Bank Q2 profit rises 4.7%",
-    "US grants waiver on Russian sanctions",
-    "FSSAI cracks down on food safety lapses",
-    "Airlines extend Saudi flight suspensions",
-    "Supreme Court rules on children's internet access"
+    "At least 17 killed in Kolkata Durga Puja stampede",
+    "Egypt's Sisi seeks parliament backing for Saudi Arabia defense",
+    "Bank of Canada warns of higher inflation as oil surges",
+    "Air India flight diverted following security alert",
+    "France protests: Over 270 arrested amid nationwide unrest"
   ],
   "articles": [
     {
-      "headline": "HDFC Bank Q2 Net Profit Climbs 4.7% Amid Leadership Changes",
-      "brief": "HDFC Bank reported a 4.7% rise in its second-quarter net profit, alongside the announcement that Deputy MD Kaizad Bharucha will step down by the end of December. Meanwhile, Axis Bank posted a significant 37.6% quarterly profit increase, though it missed analyst cost estimates.",
+      "headline": "Deadly Stampede at Kolkata Durga Puja Pandal",
+      "brief": "A tragic stampede at a crowded Durga Puja pandal in Kolkata claimed the lives of at least 17 people, with dozens injured. Prime Minister Narendra Modi and other national leaders expressed deep grief, announcing financial assistance for the victims' families while rescue and relief operations continued at Calcutta Medical College.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUVjcERQUE83S1lFTVA1Q2tOMXJya3BMZXZPbWRkMk9wS21FRTBDcGdoN3BHRFhLUHd3dGNRcE9ackxXRm1QaHcyZE1oVVYxTzhjNkJHTVRUYUFIOTdUVUpkQnJneDRpNEdFSF9hc0NsRUx5Ti14RklDYm5DVzZEakxIRjBheWtlYXN2S25lcGloZmFXOGFRWk9kTld4ZXFzZ0VHUm0zVjcwQW9nRFZyMVJXS0hJcWtZUFpB?oc=5",
+      "dateLocation": "October 17, 2026 | Kolkata, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ICICI Bank Beats Estimates with Strong Q2 Profit",
+      "brief": "India's ICICI Bank reported a robust 20.1% rise in Q2 net profit, outperforming market expectations and demonstrating resilience in the country's banking and financial sector amid shifting macroeconomic conditions.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2vOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5",
-      "dateLocation": "2026-10-17 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZhRWR2N2tXZjhxd25pa0VOTTJqTE1VV3RZeU5yMVBIamd2VWxIUk1lcjlLU2JReVFwdzJHUHN5NE9SbjJlazY1X1dIV1ZWeUlIaFFPZlh0cVZfY0NKN3h6cC1WbDkzajd1OTY3U0RxaDh2TGJ4enM5UnRJRXF4alpPMEJfSm41ekxUUlNWb2ppbDZ0NFI5SHhaMElwU2hHQktF?oc=5",
+      "dateLocation": "October 17, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Axis Bank Posts 37.6% Profit Growth Despite Higher Costs",
-      "brief": "Axis Bank announced a strong 37.6% jump in quarterly profit, driven by robust business operations, although the figures slightly missed broader market estimates due to escalating operational and administrative costs. The bank has also appointed former HDFC veteran Rahul Shukla to lead its commercial Bharat Banking division.",
+      "headline": "HDFC Bank Q2 Profit Rises as Deputy MD Steps Down",
+      "brief": "HDFC Bank posted a 4.7% increase in second-quarter profit, alongside the announcement that Deputy Managing Director Kaizad Bharucha will step down from his role at the end of December.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWlKeXYxOVAxQU1rRzNoVldQdEFOYkF0YlpINXNvb3hwdkhjcmNTZmoyUVlsclZjellwalhIelQtMnhSc1U2TGJzOWNrZDB4NFl6T29fQzY0UnBnS0steEcyUnByMnpLUjhfQXBCQ1YwZUxyTFNXZm14TVNoVkR5RkN4Ym1QSDYxZ2xxelA2YTNyWWdlT29oUjBEay02T0YxeGNVRGZoQktjTURxTWFramYwVmZyR2lCQUNVcTFB?oc=5",
-      "dateLocation": "2026-10-17 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5",
+      "dateLocation": "October 17, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Adapts Rapidly as Shipping Conflicts Disrupt Crude Purchases",
-      "brief": "Amid ongoing geopolitical conflicts and shipping disruptions affecting global trade routes, India's recent crude oil purchases demonstrate the country's swift adaptability in securing alternative energy supplies and maintaining national energy stability.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/as-conflicts-disrupt-shipping-indias-crude-purchases-how-fast-it-can-adapt/article71592461.ece",
-      "dateLocation": "2026-10-17 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US Grants Sanction Waiver on Russian Energy for India",
-      "brief": "The United States has provided a strategic sanction waiver regarding Russian energy imports, offering significant relief to Indian exporters and bolstering the nation's energy security framework following intense tariff negotiations.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-russia-sanction-waiver-a-relief-for-indias-exporters-energy-security-experts/articleshow/135014460.cms",
-      "dateLocation": "2026-10-17 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Rules Children Have Fundamental Right to Internet",
-      "brief": "The Supreme Court of India has ruled that children possess a fundamental right to access the internet, declaring that authorities cannot impose a blanket ban on its use, emphasizing digital inclusion and educational necessities.",
+      "headline": "Egypt's Sisi Seeks Mandate to Help Defend Saudi Arabia",
+      "brief": "Egyptian President Abdel Fattah al-Sisi has asked parliament for backing to deploy military support in defense of Saudi Arabia if formally requested, highlighting regional security cooperation in the Middle East.",
       "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/children-have-fundamental-right-to-access-internet-cant-impose-blanket-ban-on-its-use-sc/articleshow/135014954.cms",
-      "dateLocation": "2026-10-17 | Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ013QTYtQ0JudFVITVllWWh1Y3Y4WXVXOW80UmlXbEw1YXcxSG5RUkc4djV1X255M3BrWFl1ektoZU5vS1pMYzd4MW5jQ19wS3o4NEFDdHEyT3BsdGl6dDRTNXRDTGVKUnFlVkxSamlaVXRRaGhCeTBCblhQaDZUbHh2TlFRbHYzWUQtODRtVDFjdGlyRUxJR3A1OGdXWU1NalRGRnlhTExDbktfdHpWMmpoY1ZpdTlacmtiN0o1TEJaZ28?oc=5",
+      "dateLocation": "October 17, 2026 | Cairo, Egypt",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Egypt's President Sisi Announces Presidency Will End in 2030",
-      "brief": "Egyptian President Abdel Fattah al-Sisi stated that his presidency will officially conclude in 2030, outlining a structured strategic plan to prepare and mentor a new generation of future leaders for the country.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3NvbzVWSnc2ZlZISTRVY1BTaXo5ejd4dHJXTXZ2UlBxTkZzSWx3ZWlRY0hfeHlsLXJIR3M0aEVHcVBTckJDUk43TktZUHYwblZCX0xkNmdVSTZsTnA4bW1fQ3JJYVRwaWJHdTZ3TE4tbzRDQWoxcWJ3ZUVVZ3A5a1VnVVEyNEdXZ2E2UnFGb2hnVmJSQ2s2a1p3?oc=5",
-      "dateLocation": "2026-10-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Bank of Canada Flags Higher Inflation Amid Oil Surge",
+      "brief": "Bank of Canada Governor Macklem stated that the central bank foresees a sharply higher inflation outlook driven by surging global oil prices and ongoing commodity market volatility.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+      "dateLocation": "October 17, 2026 | Ottawa, Canada",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "FSSAI Initiates Crackdown Over Expired Food and Hygiene Lapses",
-      "brief": "State food safety authorities and the FSSAI have initiated prosecution proceedings and inspections against major e-commerce and retail executives, including those from Reliance and Blinkit, following the seizure of expired food products and severe hygiene violations.",
-      "category": "health",
+      "headline": "Reliance and Blinkit Executives Named in Expired Food Probe",
+      "brief": "An Indian state food safety authority has named senior executives from Reliance Consumer and quick-commerce platform Blinkit in an ongoing investigation regarding expired food products and regulatory non-compliance.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbF9Kd1c5TUJmMmdwdnhCeWFOYXp2UWhDeWwxaXdWQ0htYng4WWFwN1ZMMFhBV0JoM1kyazlGSjhwMklDdWxTLXhuMnc5LWY2blR5ZDdXQVRlWkFFUngya1AtVFFMS1N6Q0Raa0Y1RzJhSmx1ZmI2WU50elNkb0k1WEZ0RnhybEQ0VC1mUG83dnpBWTV3TzJTaW91ODB1X0VKU0pucE5IR3BIaE43aWVjdnktZW9kb1pnbHlwRnk4MW1lUzJ3UExFNg?oc=5",
-      "dateLocation": "2026-10-17 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "October 17, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "FSSAI Proposes Strict New Limits for Pesticide Residues in Tea",
-      "brief": "In an effort to tighten consumer food safety standards, India's food regulator has proposed rigorous science-based limits for specific pesticide residues found in daily tea leaves, putting producers under heightened compliance monitoring.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/your-daily-chai-under-the-scanner-fssai-proposes-new-science-based-limits-for-two-pesticide-residues-in-tea-what-consumers-should-know/articleshow/135015676.cms",
-      "dateLocation": "2026-10-17 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Airlines Extend Saudi Arabia Flight Suspensions Amid Houthi Strikes",
-      "brief": "Major carriers including Air India, Air India Express, and IndiGo have extended the suspension of their flights to Saudi Arabian destinations such as Jeddah, Riyadh, and Dammam until October 24 due to rising security concerns from recent Houthi strikes.",
+      "headline": "Missiles Strike Aden Airport Amid Regional Interceptions",
+      "brief": "Missiles struck Aden airport while the Saudi-led coalition successfully intercepted an incoming projectile headed toward Yanbu, heightening security concerns across critical regional infrastructure nodes.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/air-india-air-india-express-extend-saudi-arabia-flight-suspension-until-oct-24-amid-houthi-strikes-what-airline-said-11792233882959.html",
-      "dateLocation": "2026-10-17 | Mint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelJ6OUp1VFpwTmJ0Qm85TzRUS2ppU0swVFMydlJuTDZiS1Q1V2R6M1N4bmpfeTZ0aWNqd29XbGdDMm9IVllmLTZUazAxQWFzX3lsVlJBbHI4TVRfQVFrZlk5MkNqVzVCMU5XYkFwM3Fyb0pkbDk0bGo5N1dwQWJMMEo5aEhIeXpaS1J5TkRLVFZTem93Rl9rM2trUHZlaDQwSzVIQTB4UG1xelRQSU5wZ2I4X1N1V0VPUElsWHBIYVZvckhpYk9RZVhZaw?oc=5",
+      "dateLocation": "October 17, 2026 | Aden, Yemen",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supertanker Ablaze After Striking Naval Mine in Strait of Hormuz",
-      "brief": "Iranian authorities confirmed that a supertanker carrying two million barrels of crude oil caught fire after hitting a naval mine while navigating through an unauthorized route in the strategic Strait of Hormuz amid escalating regional maritime tensions.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/iran-says-supertanker-carrying-2-million-barrels-of-crude-ablaze-after-hitting-naval-mine-in-strait-of-hormuz-11792232414310.html",
-      "dateLocation": "2026-10-17 | Mint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "FSSAI Issues Regulatory Notices to Nestlé and HUL",
+      "brief": "The Food Safety and Standards Authority of India has issued formal notices to Hindustan Unilever and Nestlé India over alleged product misleading claims and safety non-compliance issues.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/fssai-issues-notices-to-nestl-india-hul-over-misleading-products-what-are-the-claims-11792252684689.html",
+      "dateLocation": "October 17, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Green Visakha Demands Halt to Google's $15 Billion AI Data Centre",
-      "brief": "Environmental activist group Green Visakha has raised strong objections, demanding a halt to Google's massive $15 billion AI data centre project in Vizag over mounting concerns regarding its massive electricity and potable water resource demands.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/why-is-green-visakha-demanding-a-halt-to-google-s-15-billion-ai-data-centre-project-in-vizag-11792237008355.html",
-      "dateLocation": "2026-10-17 | Mint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "France Protests Lead to Hundreds of Arrests",
+      "brief": "Violent clashes broke out across Paris and other French cities during nationwide demonstrations over rising living costs, resulting in torched vehicles, looted shops, and at least 272 arrests by police.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/france-protests-cars-torched-shops-as-police-arrest-272-demonstrators-11792261692655.html",
+      "dateLocation": "October 17, 2026 | Paris, France",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Chief Economic Adviser Addresses Potential Risks of Artificial Intelligence",
-      "brief": "India's Chief Economic Adviser Anantha Nageswaran publicly addressed the financial accountability and systemic economic risks should current high-level corporate optimism surrounding artificial intelligence backfire in the global markets.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/who-will-pay-for-todays-optimism-if-ai-goes-wrong-cea-anantha-nageswaran-answers/articleshow/135012225.cms",
-      "dateLocation": "2026-10-17 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Michael Clarke Criticises India's Omission of Kuldeep Yadav",
-      "brief": "Former Australian cricket captain Michael Clarke has expressed surprise over team management's decision to omit wrist-spinner Kuldeep Yadav from the T20I squad, emphasizing that his proven wicket-taking ability remains invaluable in the shortest format.",
+      "headline": "IPL 2027 Auction Scheduled for December 16 in Goa",
+      "brief": "The Board of Control for Cricket in India has officially locked December 16 for the IPL 2027 player auction to be held in Goa, with team briefings slated for the preceding day.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/cant-believe-he-is-not-their-first-choice-former-australian-captain-slams-management-for-benching-kuldeep-yadav/articleshow/135014419.cms",
-      "dateLocation": "2026-10-17 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-auction-set-for-december-16-in-goa-bcci-informs-all-10-franchises-team-briefing-on-december-15/articleshow/135016470.cms",
+      "dateLocation": "October 17, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "South Africa Recalls Kagiso Rabada for Australia Test",
+      "brief": "South Africa has brought star fast bowler Kagiso Rabada back into the squad to bring extra heat against Australia after missing the opening Test due to a hamstring injury recovery.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/theres-an-aura-south-africa-call-on-kg-to-bring-the-heat-against-australia/articleshow/135015883.cms",
+      "dateLocation": "October 17, 2026 | Durban, South Africa",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indianapolis Removes Century-Old Dam to Restore River",
+      "brief": "Crews in Indianapolis have begun dismantling the 127-year-old Emrichsville Dam to restore the White River's natural flow, improve aquatic wildlife habitats, and enhance recreational safety.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/in-1899-indianapolis-built-a-dam-to-create-a-boating-lake-on-the-white-river-127-years-later-crews-are-removing-it-after-the-structure-altered-more-than-four-miles-of-river-and-blocked-aquatic-wildlife/articleshow/134983494.cms",
+      "dateLocation": "October 17, 2026 | Indianapolis, United States",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jack Dorsey's San Francisco Mansion Renovation Drags On",
+      "brief": "Jack Dorsey's extensive $32 million mansion renovation in San Francisco has continued past its fourteenth year, drawing ongoing complaints from frustrated neighboring residents over noise and disruptions.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jack-dorseys-32-million-mansion-renovation-has-been-dragging-on-for-14-years-and-his-neighbors-are-fed-up/articleshow/134991880.cms",
+      "dateLocation": "October 17, 2026 | San Francisco, United States",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Blind UK Man Overcomes Rejection to Build Business",
+      "brief": "After facing rejection from over 1,000 jobs, a 23-year-old blind entrepreneur in the UK launched a successful accessibility-focused business and won the prestigious King's Trust Young Achiever Award.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/a-blind-uk-man-applied-for-more-than-1000-jobs-without-success-and-spent-16-months-unemployed-then-built-an-accessibility-business-at-23-brandon-hulcoop-has-won-the-kings-trust-young-achiever-award/articleshow/134999692.cms",
+      "dateLocation": "October 17, 2026 | London, United Kingdom",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
