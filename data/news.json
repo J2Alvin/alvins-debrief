@@ -1,132 +1,132 @@
 {
-  "lastUpdated": "2026-10-18T15:20:42.960Z",
+  "lastUpdated": "2026-10-18T20:03:46.175Z",
   "ticker": [
-    "France arrests 1,800 amid nationwide riots",
-    "Brent crude risks hitting $120 on West Asia crisis",
-    "India targets 30 GW nuclear capacity by 2047",
-    "Apple and Meta partner on AI deployment",
-    "Pakistan announces Moon landing goal for 2035"
+    "Kolkata festival crush kills at least 17 people",
+    "Ukraine successfully strikes Saint Petersburg oil refinery",
+    "Lithuania exposes Russia-linked Starlink arson sabotage",
+    "US blames Europe for refusing Russian oil tariffs",
+    "China proposes strict export controls on solar technology"
   ],
   "articles": [
     {
-      "headline": "France faces severe unrest with 1,800 arrested in riots",
-      "brief": "French authorities have arrested roughly 1,800 individuals following a wave of violent nationwide protests characterized by widespread property damage, vandalism, and clashes with law enforcement. While politicians like Donald Trump have attributed the social unrest to immigration, local authorities emphasize that the violence is primarily driven by organized criminal groups and opportunistic looting.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/france-protests-trump-blames-immigration-for-unrest-1-800-arrested-damage-estimated-at-hundreds-of-millions-of-euros-11792330440584.html",
-      "dateLocation": "October 18, 2026 | Paris, France",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Analysts warn Brent crude could surge to $120",
-      "brief": "Crude oil prices face mounting volatility due to stalled US-Iran negotiations, security concerns in the Strait of Hormuz, and escalating tensions across West Asia. Analysts warn that severe supply disruptions could push Brent crude prices to $120 per barrel, significantly driving up import costs, domestic fuel prices, and broader inflationary pressures in developing economies like India.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/why-brent-crude-could-hit-120-amid-iran-war-what-it-means-for-india-as-analysts-warn-oil-prices-to-remain-volatile-11792328648362.html",
-      "dateLocation": "October 18, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Government plans comprehensive new legislation to replace mining law",
-      "brief": "The central government has initiated plans to overhaul the regulatory framework governing the mineral sector by replacing the outdated 1957 mining legislation. The forthcoming comprehensive law aims to streamline administrative processes, enhance transparency, and accelerate mineral exploration and development nationwide under the Ministry of Mines.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/government-plans-to-replace-1957-mining-law-with-comprehensive-new-legislation-11792330191644.html",
-      "dateLocation": "October 18, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NTPC targets 30 gigawatts of nuclear capacity by 2047",
-      "brief": "State-run energy major NTPC has outlined ambitious long-term plans to establish 30 gigawatts of nuclear power capacity by 2047. Comprehensive feasibility studies are currently underway across multiple states, factoring in vital parameters such as sustainable water supply, seismic safety, population density, environmental impact, and grid connectivity.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/ntpc-targets-30-gw-nuclear-capacity-by-2047-water-land-seismic-safety-and-other-factors-that-matter-in-site-selection-11792321783877.html",
-      "dateLocation": "October 18, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Apple and Meta form unexpected artificial intelligence partnership",
-      "brief": "In a surprising shift from years of intense industry rivalry, Apple and Meta have initiated a technological collaboration. The partnership enables Meta's massive Muse Spark open artificial intelligence model to run locally on Apple's Mac Studio systems, leveraging advanced hardware chips to execute complex data analysis while prioritizing developer privacy.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-chief-alexandr-wang-reveals-the-man-who-made-the-impossible-possible-between-apple-and-meta/articleshow/135024880.cms",
-      "dateLocation": "October 18, 2026 | Silicon Valley, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jeff Bezos predicts millions living in space by 2045",
-      "brief": "Amazon founder Jeff Bezos has projected that millions of humans will reside in space settlements within the next two decades, driven by rapid advancements in artificial intelligence, robotics, and aerospace technology. Speaking at an international technology forum, Bezos noted that autonomous robots will eventually undertake heavy labor on the Moon and other celestial bodies.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/trends/jeff-bezos-predicts-millions-will-live-in-space-by-2045-says-robots-will-take-over-work-on-the-moon-11792324624515.html",
-      "dateLocation": "October 18, 2026 | Milan, Italy",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Speeding vehicle runs over eight workers in Punjab",
-      "brief": "Tragedy struck near Lehragaga town in Punjab when a speeding vehicle ran over eight MGNREGA workers resting by the roadside during the afternoon, resulting in multiple fatalities. The incident sparked local outrage and protests over the sluggish response time of emergency services, while local authorities launched a manhunt for the driver.",
+      "headline": "Festival Stampede in Kolkata Kills at Least 17",
+      "brief": "A tragic crowd crush during a festival in Kolkata, India, has left at least 17 people dead. Local media reports and officials suggest that poor crowd control exacerbated by sudden rain led to the deadly stampede.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/5-workers-killed-several-injured-as-speeding-car-runs-them-over-in-punjabs-sangrur/articleshow/135029407.cms",
-      "dateLocation": "October 18, 2026 | Sangrur, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUVjcERQUE83S1lFTVA1Q2tOMXJya3BMZXZPbWRkMk9wS21FRTBDcGdoN3BHRFhLUHd3dGNRcE9ackxXRm1QaHcyZE1oVVYxTzhjNkJHTVRUYUFIOTdUVUpkQnJneDRpNEdFSF9hc0NsRUx5Ti14RklDYm5DVzZEakxIRjBheWtlYXN2S25lcGloZmFXOGFRWk9kTld4ZXFzZ0VHUm0zVjcwQW9nRFZyMVJXS0hJcWtZUFpB?oc=5",
+      "dateLocation": "Current | Kolkata, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan announces ambitious plans for Moon landing by 2035",
-      "brief": "Pakistan has unveiled a long-term space exploration roadmap aiming for a lunar landing by 2035 alongside plans to send its inaugural astronaut into orbit. Through expanded aerospace cooperation and training programs facilitated by China, Islamabad seeks to bolster its scientific capabilities and technological advancements in the space sector.",
+      "headline": "Egypt Ready to Support Saudi Arabia Against Houthi Threats",
+      "brief": "Cairo has formally announced its readiness to provide Saudi Arabia with all necessary military and strategic support amidst ongoing escalations involving Houthi conflicts in the region.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-plans-moon-landing-by-2035-expands-space-cooperation-with-china/articleshow/135030473.cms",
-      "dateLocation": "October 18, 2026 | Islamabad, Pakistan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
+      "dateLocation": "Current | Cairo, Egypt",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India prepares robust contingent for Asian Para Games",
-      "brief": "India is set to send a competitive contingent of 166 athletes across 10 disciplines to the upcoming Asian Para Games. Despite fielding a smaller team than previous editions, the squad includes seasoned Paralympic medalists, world champions, and prominent rising stars aiming to replicate past historic medal triumphs.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-can-indias-para-athletes-script-another-100-medal-triumph-despite-a-smaller-contingent/articleshow/135030773.cms",
-      "dateLocation": "October 18, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Lithuania Attributes Starlink Arson Attack to Russian Sabotage",
+      "brief": "Lithuanian authorities have officially stated that an attempted arson attack targeting Starlink infrastructure was a coordinated act of sabotage linked directly to Russian operatives.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0FMbVJmdl80MGprYjdwckNocW1aRTVXa3RSazdUZzZxTDBrRWVuQ2tXWGNYcEhmYUdSOGRzWTUzaklVSllyNllRLTlKMlBOaFc5OEpHQVJDRGxndHo3V1V4LWM2Tl80cURPcTBlSVluOURBZmZzVkRtXzVZbVdoUXNWRHdBd0xROE54WHBxclBYQVJjM0tfWWRFLWItSHRMODFBSmVPQkRUcXlyZzVoZkNRRjVRSkxpVm96eU1sU0d1d00?oc=5",
+      "dateLocation": "Current | Vilnius, Lithuania",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Karnataka builds solid total on opening day of Ranji Trophy",
-      "brief": "Karnataka delivered a resilient batting performance on the opening day of the Ranji Trophy fixture against Saurashtra. A gutsy, unbeaten knock of 86 runs from Manvanth helped rescue the side alongside a crucial unbroken ninth-wicket partnership, steering Karnataka to a respectable total of 281 for eight at stumps.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/ranji-trophy-manvanths-gutsy-knock-lifts-karnataka-on-day-one/article71600599.ece",
-      "dateLocation": "October 18, 2026 | Bengaluru, India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "China Proposes Export Controls on Solar Manufacturing Tech",
+      "brief": "Beijing has proposed comprehensive export controls on advanced solar-manufacturing technologies, a move that could significantly reshape global supply chains for renewable energy equipment.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
+      "dateLocation": "Current | Beijing, China",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Health secretary prioritizes ending hospital corridor care for children",
-      "brief": "The UK health secretary has announced that eradicating the practice of corridor care for children in hospitals represents an urgent national priority ahead of the demanding winter season. The administration has committed substantial investment into urgent care systems to alleviate pressures on emergency departments across England.",
-      "category": "health",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-      "dateLocation": "October 18, 2026 | London, United Kingdom",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Synthetic drug epidemic deepens across American communities",
-      "brief": "Law enforcement agencies, prison officials, and medical recovery workers across the United States are grappling with an escalating public health emergency driven by a dangerous wave of homemade, synthetic narcotics. Officials warn that the proliferation of these lethal chemical substances is compounding existing substance abuse crises nationwide.",
-      "category": "health",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "dateLocation": "October 18, 2026 | Chicago, United States",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Andhra Pradesh High Court rejects YSRCP nomination plea",
-      "brief": "A Division Bench of the Andhra Pradesh High Court has dismissed a petition filed by the YSRCP seeking an extension of time for filing nominations in local body polls. The court ruled that it cannot interfere with an ongoing electoral process after the official notification has been issued and statutory deadlines have elapsed.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-andhra-pradesh-high-court-rejects-ysrcps-plea-seeking-more-time-for-filing-nominations/article71600298.ece",
-      "dateLocation": "October 18, 2026 | Amaravati, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rahul Gandhi accuses opponents of electoral malpractice in Goa",
-      "brief": "Senior political leader Rahul Gandhi launched a strong critique during a campaign stop in Goa, accusing political rivals of undermining democratic integrity through voter manipulation. He vowed that his party would mount a robust resistance against any systemic attempts to compromise constitutional principles.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/by-stealing-votes-they-have-attacked-the-constitution-rahul-gandhi-vows-to-fight-vote-chori-in-goa/articleshow/135028166.cms",
-      "dateLocation": "October 18, 2026 | Panaji, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Vedanta invests $600 million to expand African zinc production",
-      "brief": "Mining conglomerate Vedanta has committed a massive investment of ₹5,700 crore to double its zinc production capacity across its operations in South Africa. The strategic capital injection aims to capitalize on rich mineral deposits and reinforce the company's footprint in the global base metals market.",
+      "headline": "US Treasury Chief Criticizes Europe Over Russian Oil Tariffs",
+      "brief": "US Treasury Secretary Scott Bessent criticized European allies for refusing Washington's request to impose secondary tariffs on India and China for purchasing Russian oil, questioning the burden distribution.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/vedanta-doubles-zinc-production-capacity-in-south-africa-with-600-million-investment/articleshow/135025241.cms",
-      "dateLocation": "October 18, 2026 | Mumbai, India",
+      "sourceUrl": "https://livemint.com/news/world/why-should-the-us-bear-the-burden-treasury-chief-bessent-says-europe-refused-tariffs-on-india-china-over-russia-11792346367852.html",
+      "dateLocation": "Current | Washington, D.C.",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court Rules Internet Access a Fundamental Right for Children",
+      "brief": "India's Supreme Court has declared that children possess a fundamental right to access and use the internet, criticizing blanket bans as disproportionate measures and favoring parental oversight instead.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/children-have-a-fundamental-right-to-access-and-use-internet-supreme-court/article71595615.ece",
+      "dateLocation": "Current | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Central Bank of India Reports 21% Q2 Net Profit Surge",
+      "brief": "The Central Bank of India announced a 21% increase in its second-quarter net profit, reaching ₹1,469 crore, driven significantly by higher core income and expanded operational revenues.",
+      "category": "finance",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/central-bank-of-india-q2-net-profit-jumps-21-to-1469-crore-on-higher-core-income/article71597653.ece",
+      "dateLocation": "Current | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Microsoft Pulls Out of UK Data Center Deal with Nscale",
+      "brief": "Tech giant Microsoft has reportedly withdrawn from a high-profile UK data center partnership with Nscale, according to recent media reports from the Telegraph.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
+      "dateLocation": "Current | London, UK",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Samsung to Use TSMC Tech for Nvidia's Next-Gen Memory",
+      "brief": "Reports indicate that Samsung plans to utilize TSMC's advanced manufacturing technology to produce Nvidia's next-generation memory chips, according to industry sources in Seoul.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTLCxMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
+      "dateLocation": "Current | Seoul, South Korea",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Milan Police Clash with Protesters Over Cost of Living",
+      "brief": "Violent clashes broke out between Milan police and demonstrators protesting soaring living costs and declining public services, marking a second consecutive day of civil unrest in Italy.",
+      "category": "sports",
+      "sourceUrl": "https://www.livemint.com/news/world/milan-protests-turn-violent-as-demonstrators-clash-with-police-over-rising-living-costs-11792345977754.html",
+      "dateLocation": "Current | Milan, Italy",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's Crude Import Bill Surges 46% Amid Soaring Prices",
+      "brief": "India's crude oil import bill surged by 46% in September as global energy prices climbed sharply, putting additional pressure on the nation's trade deficit and foreign exchange reserves.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-crude-import-bill-surges-46-in-sept-as-oil-prices-soar/articleshow/135031383.cms",
+      "dateLocation": "Current | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ukraine Successfully Strikes Saint Petersburg Oil Refinery",
+      "brief": "Ukrainian forces launched a successful drone strike targeting an oil refinery located in Saint Petersburg, causing significant structural damage and escalating energy infrastructure warfare.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/ukraine-hits-saint-petersburg-refinery/articleshow/135034452.cms",
+      "dateLocation": "Current | Saint Petersburg, Russia",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NCB Busts Synthetic Drug Labs in Greater Noida, Arrests Two",
+      "brief": "The Narcotics Control Bureau successfully busted two illicit synthetic drug manufacturing laboratories in Greater Noida, arresting two individuals including a foreign national.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/ncb-busts-two-synthetic-drug-labs-in-greater-noida-arrests-two-accused/article71597158.ece",
+      "dateLocation": "Current | Greater Noida, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Endorses Netanyahu in Close Israeli Election",
+      "brief": "Former US President Donald Trump has officially endorsed Benjamin Netanyahu as the tight race in the Israeli general election approaches its decisive final stages.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+      "dateLocation": "Current | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "IMF and World Bank Meetings Leave Developing Nations Concerned",
+      "brief": "The latest joint meetings of the IMF and World Bank concluded without definitive resolutions, leaving developing nations grappling with heavy debt burdens and unanswered economic questions.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek14dnVaSHRfckw2SkxnWUlJb0ZXSmcyeTJuNlpXMjR6bS1WRExZejg4dUFweG5sUmVUTndpeXQ4X0EwVHFwVzIxU24xME1OaHVUeHdqYjJpSGJ3SDB4aVFWcmlNVEZVMHFDbndVSC1aQ0NhY09odHctV2xKWFpwNEtvaDYwakF1WHVOTHJzbVEwRkx6Z214RGk2U0tGUE0xcDNBenZGZU5KSnZLRkVKVUxuTjNYdzhyczBn?oc=5",
+      "dateLocation": "Current | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
