@@ -1,100 +1,116 @@
 {
-  "lastUpdated": "2026-10-18T02:56:02.915Z",
+  "lastUpdated": "2026-10-18T10:21:03.565Z",
   "ticker": [
-    "Kolkata Durga Puja stampede claims at least 19 lives",
-    "Gwalior temple accident kills 12 devotees after truck crash",
-    "US President waives key Russian oil punitive tariffs for India",
-    "France faces massive violent protests with over 1,200 arrests",
-    "Major fire breaks out at Canadian military base in Alberta"
+    "17 killed in Kolkata festival stampede",
+    "JD Vance walks back H-1B comments",
+    "Saudi helicopter crashes near Yemen border",
+    "China proposes solar export controls",
+    "Thousands protest rising living costs in France"
   ],
   "articles": [
     {
-      "headline": "Kolkata Durga Puja Stampede Kills 19",
-      "brief": "A tragic stampede at Kolkata's Chorbagan Durga Puja pandal during Saptami evening has left at least 19 people dead and 25 others injured. Police have detained 12 organizers, and a sitting high court judge will lead an independent probe into the overcrowding and mismanagement.",
+      "headline": "Kolkata Festival Stampede Leaves at Least 17 Dead",
+      "brief": "A tragic crowd crush and stampede during a festival in Kolkata, India, has resulted in at least 17 deaths. Authorities and local leaders have launched independent probes, visited victims in hospitals, and promised compensation to the affected families, while police have registered a culpable homicide case.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/cities/kolkata/kolkata-bengal-pandal-collapse-stampede-injured-death-updates-on-october-17-2026/article71597549.ece",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUVjcERQUE83S1lFTVA1Q2tOMXJya3BMZXZPbWRkMk9wS21FRTBDcGdoN3BHRFhLUHd3dGNRcE9ackxXRm1QaHcyZE1oVVYxTzhjNkJHTVRUYUFIOTdUVUpkQnJneDRpNEdFSF9hc0NsRUx5Ti14RklDYm5DVzZEakxIRjBheWtlYXN2S25lcGloZmFXOGFRWk9kTld4ZXFzZ0VHUm0zVjcwQW9nRFZyMVJXS0hJcWtZUFpB?oc=5",
       "dateLocation": "October 18, 2026 | Kolkata, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Truck Runs Over Devotees in Gwalior",
-      "brief": "At least 12 people died and several others were injured after a speeding, overloaded truck broke through police barricades and crashed into a temple gate near Gwalior's Sheetla Mata Temple. Authorities have launched an immediate investigation into the security breach.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/bhopal/at-least-10-killed-after-speeding-truck-runs-over-devotees-near-temple-in-gwalior/articleshow/135022376.cms",
-      "dateLocation": "October 18, 2026 | Gwalior, India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "China Proposes Export Controls on Solar Technologies",
+      "brief": "China has proposed new export controls targeting crucial solar-manufacturing technologies. The move could significantly impact global supply chains for renewable energy hardware as governments worldwide accelerate their transitions toward clean power generation.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
+      "dateLocation": "October 18, 2026 | Beijing, China",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Waives Russian Oil Tariffs for India",
-      "brief": "U.S. President Donald Trump has waived key provisions of the Graham Act that previously authorized punitive tariffs on countries purchasing Russian oil, granting crucial relief to India as announced by Secretary of State Marco Rubio.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/secretary-of-state-marco-rubio-comments-before-departing-to-uzbekistan-and-india/article71599016.ece",
-      "dateLocation": "October 18, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "France Hit by Violent Protests and Arrests",
-      "brief": "Nationwide demonstrations in France have escalated into severe violence, featuring widespread fires, looting, and over 1,200 arrests. President Emmanuel Macron has vowed immediate and strict action to restore public order.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/france-protests-turn-violent-fires-looting-and-1200-arrests-macron-vows-action/articleshow/135020350.cms",
-      "dateLocation": "October 18, 2026 | Paris, France",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Major Fire Breaks Out at Canadian Military Base",
-      "brief": "A major fire erupted at the Canadian Forces Base Wainwright in Alberta, prompting deep concern among top officials. Prime Minister Mark Carney categorized the event as serious, while local and federal agencies coordinate emergency responses.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/major-fire-at-canadian-military-base-in-alberta-carney-calls-it-serious-incident/articleshow/135022812.cms",
-      "dateLocation": "October 18, 2026 | Alberta, Canada",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "ICICI Bank Q2 Profit Rises 20%",
-      "brief": "India's ICICI Bank reported a robust 20.1% increase in its second-quarter profit, comfortably beating market expectations driven by strong core operating performance and steady credit demand across retail and corporate sectors.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZhRWR2N2tXZjhxd25pa0VOTTJqTE1VV3RZeU5yMVBIamd2VWxIUk1lcjlLU2JReVFwdzJHUHN5NE9SbjJlazY1X1dIV1ZWeUlIaFFPZlh0cVZfY0NKN3h6cC1WbDkzajd1OTY3U0RxaDh2TGJ4enM5UnRJRXF4alpPMEJfSm41ekxUUlNWb2ppbDZ0NFI5SHhaMElwU2hHQktF?oc=5",
-      "dateLocation": "October 18, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "HDFC Bank Reports Q2 Profit Growth",
-      "brief": "HDFC Bank posted a 4.7% rise in its second-quarter net profit, alongside an announcement that Deputy Managing Director Kaizad Bharucha will step down from his position on December 31.",
+      "headline": "India's HDFC Bank Q2 Net Profit Rises 4.7%",
+      "brief": "HDFC Bank reported a 4.7% rise in net profit for the second quarter, alongside the announcement that deputy MD Bharucha is set to step down. The results reflect steady banking sector performance amid broader macroeconomic adjustments.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5",
       "dateLocation": "October 18, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Prices of Cancer Drugs to Fall Sharply",
-      "brief": "Under a new pharmaceutical directive effective November 9, prices for 137 critical cancer drugs in India are set to drop by up to 70%. Companies must transparently publish revised lists for hospitals and retailers.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/prices-of-137-cancer-drugs-to-fall-by-up-to-70-from-november-9/articleshow/135020339.cms",
-      "dateLocation": "October 18, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Lithuania Tells Residents to Shelter After Object Detection",
+      "brief": "Lithuanian authorities advised residents to seek shelter after detecting an unidentified flying object in national airspace. Security forces are actively monitoring the situation amid heightened regional tensions across Eastern Europe.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
+      "dateLocation": "October 18, 2026 | Vilnius, Lithuania",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Reliance and Blinkit Executives Face FIR",
-      "brief": "An Indian state food safety authority has registered an FIR against top executives from Reliance and Blinkit as part of an expanding state-wide probe into the distribution of expired consumer food products.",
+      "headline": "Ukraine Foreign Minister Calls Russian-Held Town Death Trap",
+      "brief": "The Ukrainian foreign minister described a Russian-held town as a severe death trap housing starving residents, underscoring the deep humanitarian crisis unfolding in conflict zones as winter approaches and supply lines remain heavily restricted.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Q1WlkxYTlaMElEckVoRThQaWdiQmU4QWtzQ2g0OU9HMzY0OVZ0UUlKNUFHZW90VXZFX3JYaXplQmxyb2pscFd4NWxndnFVZmg0bTEtUnRhSWVNd21jQko4R1ZEbGNkcWFWSnBtS2pSTmVEZUtUVzZvQ0JvRjNpSWp3MTRkRXdmeElWaDgxLXE2a18xWlNCR0s3bi1faDNWVFZzRXlhUUZUaXNqS2ZXYm9UTnNoR1AyVXlN?oc=5",
+      "dateLocation": "October 18, 2026 | Kyiv, Ukraine",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saudi-Led Coalition Reports Helicopter Crash in Najran",
+      "brief": "A military helicopter crash near the southern border with Yemen killed two crew members, according to the Saudi-led coalition. The incident marks a rare fatality report amid ongoing regional hostilities involving Houthi rebels.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/reliance-consumer-and-blinkit-executives-face-fir-in-food-safety-case/articleshow/135019135.cms",
-      "dateLocation": "October 18, 2026 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
+      "dateLocation": "October 18, 2026 | Riyadh, Saudi Arabia",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IPL 2027 Auction Locked for Goa",
-      "brief": "The Board of Control for Cricket in India has officially confirmed that the IPL 2027 player auction will take place on December 16 in Goa, with franchise team briefings scheduled for the preceding day.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-auction-set-for-december-16-in-goa-bcci-informs-all-10-franchises-team-briefing-on-december-15/articleshow/135016470.cms",
-      "dateLocation": "October 18, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Venezuela Expects $76 Billion in Oil Investment",
+      "brief": "Acting Venezuelan authorities announced expectations of securing nearly $76 billion in foreign oil investments over the next five years, aiming to revive the nation's battered petroleum infrastructure and boost global supply capacities.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjRrMjhGV0NJUjVPZmZUdm1Da3JxcUFDaW9PTTVhVjZqSUszdzlLMGIwdjk4MFc0UXlUU0ZSZ1h4aGNTMmE1V3ZfdGJNcFVIUVIzbGFwTFdjd2xMVWtLWlBlV21QNlNxY0ZBcXVWTS05Z0c5UnY5d0tIWVFXOEdnLUZUTk84UXB1ektOV3A3OHhXSmxVYnhMZktTMl9PZUFaRGdpUkF4VXlGMlBoWVdhclhOa2p0bFExTTljdWtRZGs1bXM?oc=5",
+      "dateLocation": "October 18, 2026 | Caracas, Venezuela",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tesla Vehicle Crashes into Police Cruiser",
-      "brief": "A Tesla vehicle operating on Full Self-Driving mode allegedly crashed into a California Highway Patrol vehicle while officers were investigating a separate fatal collision on Interstate 80.",
+      "headline": "Karnataka Mandates Night Attendance for Doctors",
+      "brief": "The Karnataka government has made night-time attendance mandatory for doctors serving at taluk hospitals and primary health centers. The order extends to contract and outsourced employees across all government bodies to improve rural healthcare delivery.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-makes-night-time-attendance-mandatory-for-doctors-at-taluk-hospitals-phcs/article71599390.ece",
+      "dateLocation": "October 18, 2026 | Bengaluru, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Thousands Protest Rising Living Costs Across France",
+      "brief": "Thousands of demonstrators took to French streets to protest soaring living costs and poor public services, resulting in violent clashes and over a thousand detentions. Student anger merged with union and yellow vest movements, prompting strong condemnation from President Macron.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/france-protests-thousands-on-streets-over-rising-living-costs-poor-services-mini-french-revolution-what-went-wrong-11792314477478.html",
+      "dateLocation": "October 18, 2026 | Paris, France",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "JD Vance Clarifies H-1B Visa 'Indentured Servants' Remark",
+      "brief": "US Vice President JD Vance walked back his controversial rhetoric referring to H-1B visa workers as 'foreign indentured servants' following strong protests from India. Vance clarified that his criticism targeted corporate systems rather than individual professionals.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/my-rhetoric-has-been-imperfect-jd-vance-walks-back-h-1b-indentured-servants-remark-after-indias-protest/articleshow/135026714.cms",
+      "dateLocation": "October 18, 2026 | Washington D.C., USA",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Drops Sugar-Based Raw Materials from Ethanol Tenders",
+      "brief": "Oil marketing companies have dropped sugar-based raw materials from the 2026-27 ethanol procurement tender to stabilize domestic sugar availability. The strategic policy shift relies more heavily on grains and molasses to balance local consumption.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/oil-firms-drop-sugar-based-ethanol-from-2026-27-tender-cut-maize-price/articleshow/135026502.cms",
+      "dateLocation": "October 18, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Workers in China Train Household Robots for Monthly Pay",
+      "brief": "Workers across China are recording real-world physical movements and chores to train artificial intelligence robots. Participants earn monthly stipends by teaching machines everyday tasks like folding clothes and sweeping floors.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/tesla-driver-allegedly-asleep-with-full-self-driving-on-video-shows-car-crashing-into-police-vehicle-in-california-11792266778538.html",
-      "dateLocation": "October 18, 2026 | Sacramento, United States",
+      "sourceUrl": "https://www.livemint.com/news/world/workers-in-china-are-teaching-robots-everyday-chores-earning-57-000-monthly-by-folding-clothes-sweeping-floors-more-11792300271612.html",
+      "dateLocation": "October 18, 2026 | Beijing, China",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Health Ministry Confronts Service Trade Deficit Pressures",
+      "brief": "India's robust services trade surplus faces new tests as faster growth in services imports threatens to erode the financial cushion traditionally offsetting the country's broader merchandise trade deficit, according to recent economic analysis.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/faster-services-imports-threaten-to-erode-cushion-against-indias-goods-trade-deficit-report/articleshow/135026891.cms",
+      "dateLocation": "October 18, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
