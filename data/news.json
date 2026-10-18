@@ -1,116 +1,132 @@
 {
-  "lastUpdated": "2026-10-18T10:21:03.565Z",
+  "lastUpdated": "2026-10-18T15:20:42.960Z",
   "ticker": [
-    "17 killed in Kolkata festival stampede",
-    "JD Vance walks back H-1B comments",
-    "Saudi helicopter crashes near Yemen border",
-    "China proposes solar export controls",
-    "Thousands protest rising living costs in France"
+    "France arrests 1,800 amid nationwide riots",
+    "Brent crude risks hitting $120 on West Asia crisis",
+    "India targets 30 GW nuclear capacity by 2047",
+    "Apple and Meta partner on AI deployment",
+    "Pakistan announces Moon landing goal for 2035"
   ],
   "articles": [
     {
-      "headline": "Kolkata Festival Stampede Leaves at Least 17 Dead",
-      "brief": "A tragic crowd crush and stampede during a festival in Kolkata, India, has resulted in at least 17 deaths. Authorities and local leaders have launched independent probes, visited victims in hospitals, and promised compensation to the affected families, while police have registered a culpable homicide case.",
+      "headline": "France faces severe unrest with 1,800 arrested in riots",
+      "brief": "French authorities have arrested roughly 1,800 individuals following a wave of violent nationwide protests characterized by widespread property damage, vandalism, and clashes with law enforcement. While politicians like Donald Trump have attributed the social unrest to immigration, local authorities emphasize that the violence is primarily driven by organized criminal groups and opportunistic looting.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/france-protests-trump-blames-immigration-for-unrest-1-800-arrested-damage-estimated-at-hundreds-of-millions-of-euros-11792330440584.html",
+      "dateLocation": "October 18, 2026 | Paris, France",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Analysts warn Brent crude could surge to $120",
+      "brief": "Crude oil prices face mounting volatility due to stalled US-Iran negotiations, security concerns in the Strait of Hormuz, and escalating tensions across West Asia. Analysts warn that severe supply disruptions could push Brent crude prices to $120 per barrel, significantly driving up import costs, domestic fuel prices, and broader inflationary pressures in developing economies like India.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/why-brent-crude-could-hit-120-amid-iran-war-what-it-means-for-india-as-analysts-warn-oil-prices-to-remain-volatile-11792328648362.html",
+      "dateLocation": "October 18, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Government plans comprehensive new legislation to replace mining law",
+      "brief": "The central government has initiated plans to overhaul the regulatory framework governing the mineral sector by replacing the outdated 1957 mining legislation. The forthcoming comprehensive law aims to streamline administrative processes, enhance transparency, and accelerate mineral exploration and development nationwide under the Ministry of Mines.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/government-plans-to-replace-1957-mining-law-with-comprehensive-new-legislation-11792330191644.html",
+      "dateLocation": "October 18, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NTPC targets 30 gigawatts of nuclear capacity by 2047",
+      "brief": "State-run energy major NTPC has outlined ambitious long-term plans to establish 30 gigawatts of nuclear power capacity by 2047. Comprehensive feasibility studies are currently underway across multiple states, factoring in vital parameters such as sustainable water supply, seismic safety, population density, environmental impact, and grid connectivity.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/ntpc-targets-30-gw-nuclear-capacity-by-2047-water-land-seismic-safety-and-other-factors-that-matter-in-site-selection-11792321783877.html",
+      "dateLocation": "October 18, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Apple and Meta form unexpected artificial intelligence partnership",
+      "brief": "In a surprising shift from years of intense industry rivalry, Apple and Meta have initiated a technological collaboration. The partnership enables Meta's massive Muse Spark open artificial intelligence model to run locally on Apple's Mac Studio systems, leveraging advanced hardware chips to execute complex data analysis while prioritizing developer privacy.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-chief-alexandr-wang-reveals-the-man-who-made-the-impossible-possible-between-apple-and-meta/articleshow/135024880.cms",
+      "dateLocation": "October 18, 2026 | Silicon Valley, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jeff Bezos predicts millions living in space by 2045",
+      "brief": "Amazon founder Jeff Bezos has projected that millions of humans will reside in space settlements within the next two decades, driven by rapid advancements in artificial intelligence, robotics, and aerospace technology. Speaking at an international technology forum, Bezos noted that autonomous robots will eventually undertake heavy labor on the Moon and other celestial bodies.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/trends/jeff-bezos-predicts-millions-will-live-in-space-by-2045-says-robots-will-take-over-work-on-the-moon-11792324624515.html",
+      "dateLocation": "October 18, 2026 | Milan, Italy",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Speeding vehicle runs over eight workers in Punjab",
+      "brief": "Tragedy struck near Lehragaga town in Punjab when a speeding vehicle ran over eight MGNREGA workers resting by the roadside during the afternoon, resulting in multiple fatalities. The incident sparked local outrage and protests over the sluggish response time of emergency services, while local authorities launched a manhunt for the driver.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUVjcERQUE83S1lFTVA1Q2tOMXJya3BMZXZPbWRkMk9wS21FRTBDcGdoN3BHRFhLUHd3dGNRcE9ackxXRm1QaHcyZE1oVVYxTzhjNkJHTVRUYUFIOTdUVUpkQnJneDRpNEdFSF9hc0NsRUx5Ti14RklDYm5DVzZEakxIRjBheWtlYXN2S25lcGloZmFXOGFRWk9kTld4ZXFzZ0VHUm0zVjcwQW9nRFZyMVJXS0hJcWtZUFpB?oc=5",
-      "dateLocation": "October 18, 2026 | Kolkata, India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/5-workers-killed-several-injured-as-speeding-car-runs-them-over-in-punjabs-sangrur/articleshow/135029407.cms",
+      "dateLocation": "October 18, 2026 | Sangrur, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Proposes Export Controls on Solar Technologies",
-      "brief": "China has proposed new export controls targeting crucial solar-manufacturing technologies. The move could significantly impact global supply chains for renewable energy hardware as governments worldwide accelerate their transitions toward clean power generation.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
-      "dateLocation": "October 18, 2026 | Beijing, China",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Pakistan announces ambitious plans for Moon landing by 2035",
+      "brief": "Pakistan has unveiled a long-term space exploration roadmap aiming for a lunar landing by 2035 alongside plans to send its inaugural astronaut into orbit. Through expanded aerospace cooperation and training programs facilitated by China, Islamabad seeks to bolster its scientific capabilities and technological advancements in the space sector.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-plans-moon-landing-by-2035-expands-space-cooperation-with-china/articleshow/135030473.cms",
+      "dateLocation": "October 18, 2026 | Islamabad, Pakistan",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's HDFC Bank Q2 Net Profit Rises 4.7%",
-      "brief": "HDFC Bank reported a 4.7% rise in net profit for the second quarter, alongside the announcement that deputy MD Bharucha is set to step down. The results reflect steady banking sector performance amid broader macroeconomic adjustments.",
+      "headline": "India prepares robust contingent for Asian Para Games",
+      "brief": "India is set to send a competitive contingent of 166 athletes across 10 disciplines to the upcoming Asian Para Games. Despite fielding a smaller team than previous editions, the squad includes seasoned Paralympic medalists, world champions, and prominent rising stars aiming to replicate past historic medal triumphs.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-can-indias-para-athletes-script-another-100-medal-triumph-despite-a-smaller-contingent/articleshow/135030773.cms",
+      "dateLocation": "October 18, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Karnataka builds solid total on opening day of Ranji Trophy",
+      "brief": "Karnataka delivered a resilient batting performance on the opening day of the Ranji Trophy fixture against Saurashtra. A gutsy, unbeaten knock of 86 runs from Manvanth helped rescue the side alongside a crucial unbroken ninth-wicket partnership, steering Karnataka to a respectable total of 281 for eight at stumps.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/ranji-trophy-manvanths-gutsy-knock-lifts-karnataka-on-day-one/article71600599.ece",
+      "dateLocation": "October 18, 2026 | Bengaluru, India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Health secretary prioritizes ending hospital corridor care for children",
+      "brief": "The UK health secretary has announced that eradicating the practice of corridor care for children in hospitals represents an urgent national priority ahead of the demanding winter season. The administration has committed substantial investment into urgent care systems to alleviate pressures on emergency departments across England.",
+      "category": "health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+      "dateLocation": "October 18, 2026 | London, United Kingdom",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Synthetic drug epidemic deepens across American communities",
+      "brief": "Law enforcement agencies, prison officials, and medical recovery workers across the United States are grappling with an escalating public health emergency driven by a dangerous wave of homemade, synthetic narcotics. Officials warn that the proliferation of these lethal chemical substances is compounding existing substance abuse crises nationwide.",
+      "category": "health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "dateLocation": "October 18, 2026 | Chicago, United States",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Andhra Pradesh High Court rejects YSRCP nomination plea",
+      "brief": "A Division Bench of the Andhra Pradesh High Court has dismissed a petition filed by the YSRCP seeking an extension of time for filing nominations in local body polls. The court ruled that it cannot interfere with an ongoing electoral process after the official notification has been issued and statutory deadlines have elapsed.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-andhra-pradesh-high-court-rejects-ysrcps-plea-seeking-more-time-for-filing-nominations/article71600298.ece",
+      "dateLocation": "October 18, 2026 | Amaravati, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rahul Gandhi accuses opponents of electoral malpractice in Goa",
+      "brief": "Senior political leader Rahul Gandhi launched a strong critique during a campaign stop in Goa, accusing political rivals of undermining democratic integrity through voter manipulation. He vowed that his party would mount a robust resistance against any systemic attempts to compromise constitutional principles.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/by-stealing-votes-they-have-attacked-the-constitution-rahul-gandhi-vows-to-fight-vote-chori-in-goa/articleshow/135028166.cms",
+      "dateLocation": "October 18, 2026 | Panaji, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Vedanta invests $600 million to expand African zinc production",
+      "brief": "Mining conglomerate Vedanta has committed a massive investment of ₹5,700 crore to double its zinc production capacity across its operations in South Africa. The strategic capital injection aims to capitalize on rich mineral deposits and reinforce the company's footprint in the global base metals market.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/vedanta-doubles-zinc-production-capacity-in-south-africa-with-600-million-investment/articleshow/135025241.cms",
       "dateLocation": "October 18, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Lithuania Tells Residents to Shelter After Object Detection",
-      "brief": "Lithuanian authorities advised residents to seek shelter after detecting an unidentified flying object in national airspace. Security forces are actively monitoring the situation amid heightened regional tensions across Eastern Europe.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
-      "dateLocation": "October 18, 2026 | Vilnius, Lithuania",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ukraine Foreign Minister Calls Russian-Held Town Death Trap",
-      "brief": "The Ukrainian foreign minister described a Russian-held town as a severe death trap housing starving residents, underscoring the deep humanitarian crisis unfolding in conflict zones as winter approaches and supply lines remain heavily restricted.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Q1WlkxYTlaMElEckVoRThQaWdiQmU4QWtzQ2g0OU9HMzY0OVZ0UUlKNUFHZW90VXZFX3JYaXplQmxyb2pscFd4NWxndnFVZmg0bTEtUnRhSWVNd21jQko4R1ZEbGNkcWFWSnBtS2pSTmVEZUtUVzZvQ0JvRjNpSWp3MTRkRXdmeElWaDgxLXE2a18xWlNCR0s3bi1faDNWVFZzRXlhUUZUaXNqS2ZXYm9UTnNoR1AyVXlN?oc=5",
-      "dateLocation": "October 18, 2026 | Kyiv, Ukraine",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Saudi-Led Coalition Reports Helicopter Crash in Najran",
-      "brief": "A military helicopter crash near the southern border with Yemen killed two crew members, according to the Saudi-led coalition. The incident marks a rare fatality report amid ongoing regional hostilities involving Houthi rebels.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-      "dateLocation": "October 18, 2026 | Riyadh, Saudi Arabia",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Venezuela Expects $76 Billion in Oil Investment",
-      "brief": "Acting Venezuelan authorities announced expectations of securing nearly $76 billion in foreign oil investments over the next five years, aiming to revive the nation's battered petroleum infrastructure and boost global supply capacities.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjRrMjhGV0NJUjVPZmZUdm1Da3JxcUFDaW9PTTVhVjZqSUszdzlLMGIwdjk4MFc0UXlUU0ZSZ1h4aGNTMmE1V3ZfdGJNcFVIUVIzbGFwTFdjd2xMVWtLWlBlV21QNlNxY0ZBcXVWTS05Z0c5UnY5d0tIWVFXOEdnLUZUTk84UXB1ektOV3A3OHhXSmxVYnhMZktTMl9PZUFaRGdpUkF4VXlGMlBoWVdhclhOa2p0bFExTTljdWtRZGs1bXM?oc=5",
-      "dateLocation": "October 18, 2026 | Caracas, Venezuela",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Karnataka Mandates Night Attendance for Doctors",
-      "brief": "The Karnataka government has made night-time attendance mandatory for doctors serving at taluk hospitals and primary health centers. The order extends to contract and outsourced employees across all government bodies to improve rural healthcare delivery.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-makes-night-time-attendance-mandatory-for-doctors-at-taluk-hospitals-phcs/article71599390.ece",
-      "dateLocation": "October 18, 2026 | Bengaluru, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Thousands Protest Rising Living Costs Across France",
-      "brief": "Thousands of demonstrators took to French streets to protest soaring living costs and poor public services, resulting in violent clashes and over a thousand detentions. Student anger merged with union and yellow vest movements, prompting strong condemnation from President Macron.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/france-protests-thousands-on-streets-over-rising-living-costs-poor-services-mini-french-revolution-what-went-wrong-11792314477478.html",
-      "dateLocation": "October 18, 2026 | Paris, France",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "JD Vance Clarifies H-1B Visa 'Indentured Servants' Remark",
-      "brief": "US Vice President JD Vance walked back his controversial rhetoric referring to H-1B visa workers as 'foreign indentured servants' following strong protests from India. Vance clarified that his criticism targeted corporate systems rather than individual professionals.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/my-rhetoric-has-been-imperfect-jd-vance-walks-back-h-1b-indentured-servants-remark-after-indias-protest/articleshow/135026714.cms",
-      "dateLocation": "October 18, 2026 | Washington D.C., USA",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Drops Sugar-Based Raw Materials from Ethanol Tenders",
-      "brief": "Oil marketing companies have dropped sugar-based raw materials from the 2026-27 ethanol procurement tender to stabilize domestic sugar availability. The strategic policy shift relies more heavily on grains and molasses to balance local consumption.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/oil-firms-drop-sugar-based-ethanol-from-2026-27-tender-cut-maize-price/articleshow/135026502.cms",
-      "dateLocation": "October 18, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Workers in China Train Household Robots for Monthly Pay",
-      "brief": "Workers across China are recording real-world physical movements and chores to train artificial intelligence robots. Participants earn monthly stipends by teaching machines everyday tasks like folding clothes and sweeping floors.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/world/workers-in-china-are-teaching-robots-everyday-chores-earning-57-000-monthly-by-folding-clothes-sweeping-floors-more-11792300271612.html",
-      "dateLocation": "October 18, 2026 | Beijing, China",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Health Ministry Confronts Service Trade Deficit Pressures",
-      "brief": "India's robust services trade surplus faces new tests as faster growth in services imports threatens to erode the financial cushion traditionally offsetting the country's broader merchandise trade deficit, according to recent economic analysis.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/faster-services-imports-threaten-to-erode-cushion-against-indias-goods-trade-deficit-report/articleshow/135026891.cms",
-      "dateLocation": "October 18, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
