@@ -1,124 +1,100 @@
 {
-  "lastUpdated": "2026-10-17T20:04:14.412Z",
+  "lastUpdated": "2026-10-18T02:56:02.915Z",
   "ticker": [
-    "At least 17 killed in Kolkata Durga Puja stampede",
-    "Egypt's Sisi seeks parliament backing for Saudi Arabia defense",
-    "Bank of Canada warns of higher inflation as oil surges",
-    "Air India flight diverted following security alert",
-    "France protests: Over 270 arrested amid nationwide unrest"
+    "Kolkata Durga Puja stampede claims at least 19 lives",
+    "Gwalior temple accident kills 12 devotees after truck crash",
+    "US President waives key Russian oil punitive tariffs for India",
+    "France faces massive violent protests with over 1,200 arrests",
+    "Major fire breaks out at Canadian military base in Alberta"
   ],
   "articles": [
     {
-      "headline": "Deadly Stampede at Kolkata Durga Puja Pandal",
-      "brief": "A tragic stampede at a crowded Durga Puja pandal in Kolkata claimed the lives of at least 17 people, with dozens injured. Prime Minister Narendra Modi and other national leaders expressed deep grief, announcing financial assistance for the victims' families while rescue and relief operations continued at Calcutta Medical College.",
+      "headline": "Kolkata Durga Puja Stampede Kills 19",
+      "brief": "A tragic stampede at Kolkata's Chorbagan Durga Puja pandal during Saptami evening has left at least 19 people dead and 25 others injured. Police have detained 12 organizers, and a sitting high court judge will lead an independent probe into the overcrowding and mismanagement.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUVjcERQUE83S1lFTVA1Q2tOMXJya3BMZXZPbWRkMk9wS21FRTBDcGdoN3BHRFhLUHd3dGNRcE9ackxXRm1QaHcyZE1oVVYxTzhjNkJHTVRUYUFIOTdUVUpkQnJneDRpNEdFSF9hc0NsRUx5Ti14RklDYm5DVzZEakxIRjBheWtlYXN2S25lcGloZmFXOGFRWk9kTld4ZXFzZ0VHUm0zVjcwQW9nRFZyMVJXS0hJcWtZUFpB?oc=5",
-      "dateLocation": "October 17, 2026 | Kolkata, India",
+      "sourceUrl": "https://www.thehindu.com/news/cities/kolkata/kolkata-bengal-pandal-collapse-stampede-injured-death-updates-on-october-17-2026/article71597549.ece",
+      "dateLocation": "October 18, 2026 | Kolkata, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ICICI Bank Beats Estimates with Strong Q2 Profit",
-      "brief": "India's ICICI Bank reported a robust 20.1% rise in Q2 net profit, outperforming market expectations and demonstrating resilience in the country's banking and financial sector amid shifting macroeconomic conditions.",
+      "headline": "Truck Runs Over Devotees in Gwalior",
+      "brief": "At least 12 people died and several others were injured after a speeding, overloaded truck broke through police barricades and crashed into a temple gate near Gwalior's Sheetla Mata Temple. Authorities have launched an immediate investigation into the security breach.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/bhopal/at-least-10-killed-after-speeding-truck-runs-over-devotees-near-temple-in-gwalior/articleshow/135022376.cms",
+      "dateLocation": "October 18, 2026 | Gwalior, India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Waives Russian Oil Tariffs for India",
+      "brief": "U.S. President Donald Trump has waived key provisions of the Graham Act that previously authorized punitive tariffs on countries purchasing Russian oil, granting crucial relief to India as announced by Secretary of State Marco Rubio.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/secretary-of-state-marco-rubio-comments-before-departing-to-uzbekistan-and-india/article71599016.ece",
+      "dateLocation": "October 18, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "France Hit by Violent Protests and Arrests",
+      "brief": "Nationwide demonstrations in France have escalated into severe violence, featuring widespread fires, looting, and over 1,200 arrests. President Emmanuel Macron has vowed immediate and strict action to restore public order.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/france-protests-turn-violent-fires-looting-and-1200-arrests-macron-vows-action/articleshow/135020350.cms",
+      "dateLocation": "October 18, 2026 | Paris, France",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Major Fire Breaks Out at Canadian Military Base",
+      "brief": "A major fire erupted at the Canadian Forces Base Wainwright in Alberta, prompting deep concern among top officials. Prime Minister Mark Carney categorized the event as serious, while local and federal agencies coordinate emergency responses.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/major-fire-at-canadian-military-base-in-alberta-carney-calls-it-serious-incident/articleshow/135022812.cms",
+      "dateLocation": "October 18, 2026 | Alberta, Canada",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "ICICI Bank Q2 Profit Rises 20%",
+      "brief": "India's ICICI Bank reported a robust 20.1% increase in its second-quarter profit, comfortably beating market expectations driven by strong core operating performance and steady credit demand across retail and corporate sectors.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZhRWR2N2tXZjhxd25pa0VOTTJqTE1VV3RZeU5yMVBIamd2VWxIUk1lcjlLU2JReVFwdzJHUHN5NE9SbjJlazY1X1dIV1ZWeUlIaFFPZlh0cVZfY0NKN3h6cC1WbDkzajd1OTY3U0RxaDh2TGJ4enM5UnRJRXF4alpPMEJfSm41ekxUUlNWb2ppbDZ0NFI5SHhaMElwU2hHQktF?oc=5",
-      "dateLocation": "October 17, 2026 | Mumbai, India",
+      "dateLocation": "October 18, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "HDFC Bank Q2 Profit Rises as Deputy MD Steps Down",
-      "brief": "HDFC Bank posted a 4.7% increase in second-quarter profit, alongside the announcement that Deputy Managing Director Kaizad Bharucha will step down from his role at the end of December.",
+      "headline": "HDFC Bank Reports Q2 Profit Growth",
+      "brief": "HDFC Bank posted a 4.7% rise in its second-quarter net profit, alongside an announcement that Deputy Managing Director Kaizad Bharucha will step down from his position on December 31.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5",
-      "dateLocation": "October 17, 2026 | Mumbai, India",
+      "dateLocation": "October 18, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Egypt's Sisi Seeks Mandate to Help Defend Saudi Arabia",
-      "brief": "Egyptian President Abdel Fattah al-Sisi has asked parliament for backing to deploy military support in defense of Saudi Arabia if formally requested, highlighting regional security cooperation in the Middle East.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ013QTYtQ0JudFVITVllWWh1Y3Y4WXVXOW80UmlXbEw1YXcxSG5RUkc4djV1X255M3BrWFl1ektoZU5vS1pMYzd4MW5jQ19wS3o4NEFDdHEyT3BsdGl6dDRTNXRDTGVKUnFlVkxSamlaVXRRaGhCeTBCblhQaDZUbHh2TlFRbHYzWUQtODRtVDFjdGlyRUxJR3A1OGdXWU1NalRGRnlhTExDbktfdHpWMmpoY1ZpdTlacmtiN0o1TEJaZ28?oc=5",
-      "dateLocation": "October 17, 2026 | Cairo, Egypt",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Prices of Cancer Drugs to Fall Sharply",
+      "brief": "Under a new pharmaceutical directive effective November 9, prices for 137 critical cancer drugs in India are set to drop by up to 70%. Companies must transparently publish revised lists for hospitals and retailers.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/prices-of-137-cancer-drugs-to-fall-by-up-to-70-from-november-9/articleshow/135020339.cms",
+      "dateLocation": "October 18, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Bank of Canada Flags Higher Inflation Amid Oil Surge",
-      "brief": "Bank of Canada Governor Macklem stated that the central bank foresees a sharply higher inflation outlook driven by surging global oil prices and ongoing commodity market volatility.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
-      "dateLocation": "October 17, 2026 | Ottawa, Canada",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Reliance and Blinkit Executives Named in Expired Food Probe",
-      "brief": "An Indian state food safety authority has named senior executives from Reliance Consumer and quick-commerce platform Blinkit in an ongoing investigation regarding expired food products and regulatory non-compliance.",
+      "headline": "Reliance and Blinkit Executives Face FIR",
+      "brief": "An Indian state food safety authority has registered an FIR against top executives from Reliance and Blinkit as part of an expanding state-wide probe into the distribution of expired consumer food products.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbF9Kd1c5TUJmMmdwdnhCeWFOYXp2UWhDeWwxaXdWQ0htYng4WWFwN1ZMMFhBV0JoM1kyazlGSjhwMklDdWxTLXhuMnc5LWY2blR5ZDdXQVRlWkFFUngya1AtVFFMS1N6Q0Raa0Y1RzJhSmx1ZmI2WU50elNkb0k1WEZ0RnhybEQ0VC1mUG83dnpBWTV3TzJTaW91ODB1X0VKU0pucE5IR3BIaE43aWVjdnktZW9kb1pnbHlwRnk4MW1lUzJ3UExFNg?oc=5",
-      "dateLocation": "October 17, 2026 | New Delhi, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/reliance-consumer-and-blinkit-executives-face-fir-in-food-safety-case/articleshow/135019135.cms",
+      "dateLocation": "October 18, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Missiles Strike Aden Airport Amid Regional Interceptions",
-      "brief": "Missiles struck Aden airport while the Saudi-led coalition successfully intercepted an incoming projectile headed toward Yanbu, heightening security concerns across critical regional infrastructure nodes.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelJ6OUp1VFpwTmJ0Qm85TzRUS2ppU0swVFMydlJuTDZiS1Q1V2R6M1N4bmpfeTZ0aWNqd29XbGdDMm9IVllmLTZUazAxQWFzX3lsVlJBbHI4TVRfQVFrZlk5MkNqVzVCMU5XYkFwM3Fyb0pkbDk0bGo5N1dwQWJMMEo5aEhIeXpaS1J5TkRLVFZTem93Rl9rM2trUHZlaDQwSzVIQTB4UG1xelRQSU5wZ2I4X1N1V0VPUElsWHBIYVZvckhpYk9RZVhZaw?oc=5",
-      "dateLocation": "October 17, 2026 | Aden, Yemen",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI Issues Regulatory Notices to Nestlé and HUL",
-      "brief": "The Food Safety and Standards Authority of India has issued formal notices to Hindustan Unilever and Nestlé India over alleged product misleading claims and safety non-compliance issues.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/fssai-issues-notices-to-nestl-india-hul-over-misleading-products-what-are-the-claims-11792252684689.html",
-      "dateLocation": "October 17, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "France Protests Lead to Hundreds of Arrests",
-      "brief": "Violent clashes broke out across Paris and other French cities during nationwide demonstrations over rising living costs, resulting in torched vehicles, looted shops, and at least 272 arrests by police.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/france-protests-cars-torched-shops-as-police-arrest-272-demonstrators-11792261692655.html",
-      "dateLocation": "October 17, 2026 | Paris, France",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IPL 2027 Auction Scheduled for December 16 in Goa",
-      "brief": "The Board of Control for Cricket in India has officially locked December 16 for the IPL 2027 player auction to be held in Goa, with team briefings slated for the preceding day.",
+      "headline": "IPL 2027 Auction Locked for Goa",
+      "brief": "The Board of Control for Cricket in India has officially confirmed that the IPL 2027 player auction will take place on December 16 in Goa, with franchise team briefings scheduled for the preceding day.",
       "category": "sports",
       "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-auction-set-for-december-16-in-goa-bcci-informs-all-10-franchises-team-briefing-on-december-15/articleshow/135016470.cms",
-      "dateLocation": "October 17, 2026 | Mumbai, India",
+      "dateLocation": "October 18, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "South Africa Recalls Kagiso Rabada for Australia Test",
-      "brief": "South Africa has brought star fast bowler Kagiso Rabada back into the squad to bring extra heat against Australia after missing the opening Test due to a hamstring injury recovery.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/theres-an-aura-south-africa-call-on-kg-to-bring-the-heat-against-australia/articleshow/135015883.cms",
-      "dateLocation": "October 17, 2026 | Durban, South Africa",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indianapolis Removes Century-Old Dam to Restore River",
-      "brief": "Crews in Indianapolis have begun dismantling the 127-year-old Emrichsville Dam to restore the White River's natural flow, improve aquatic wildlife habitats, and enhance recreational safety.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/in-1899-indianapolis-built-a-dam-to-create-a-boating-lake-on-the-white-river-127-years-later-crews-are-removing-it-after-the-structure-altered-more-than-four-miles-of-river-and-blocked-aquatic-wildlife/articleshow/134983494.cms",
-      "dateLocation": "October 17, 2026 | Indianapolis, United States",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jack Dorsey's San Francisco Mansion Renovation Drags On",
-      "brief": "Jack Dorsey's extensive $32 million mansion renovation in San Francisco has continued past its fourteenth year, drawing ongoing complaints from frustrated neighboring residents over noise and disruptions.",
+      "headline": "Tesla Vehicle Crashes into Police Cruiser",
+      "brief": "A Tesla vehicle operating on Full Self-Driving mode allegedly crashed into a California Highway Patrol vehicle while officers were investigating a separate fatal collision on Interstate 80.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jack-dorseys-32-million-mansion-renovation-has-been-dragging-on-for-14-years-and-his-neighbors-are-fed-up/articleshow/134991880.cms",
-      "dateLocation": "October 17, 2026 | San Francisco, United States",
+      "sourceUrl": "https://www.livemint.com/news/us-news/tesla-driver-allegedly-asleep-with-full-self-driving-on-video-shows-car-crashing-into-police-vehicle-in-california-11792266778538.html",
+      "dateLocation": "October 18, 2026 | Sacramento, United States",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Blind UK Man Overcomes Rejection to Build Business",
-      "brief": "After facing rejection from over 1,000 jobs, a 23-year-old blind entrepreneur in the UK launched a successful accessibility-focused business and won the prestigious King's Trust Young Achiever Award.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/a-blind-uk-man-applied-for-more-than-1000-jobs-without-success-and-spent-16-months-unemployed-then-built-an-accessibility-business-at-23-brandon-hulcoop-has-won-the-kings-trust-young-achiever-award/articleshow/134999692.cms",
-      "dateLocation": "October 17, 2026 | London, United Kingdom",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
