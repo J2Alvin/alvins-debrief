@@ -1,107 +1,139 @@
 {
-  "lastUpdated": "2026-10-19T03:09:08.122Z",
+  "lastUpdated": "2026-10-19T12:03:19.657Z",
   "ticker": [
-    "Oil tumbles as Trump issues Russia sanctions waiver",
-    "China reports third-quarter economic growth rebound to 4.5%",
-    "Putin proposes trilateral summit with Trump and Xi",
-    "Egypt declares readiness to support Saudi Arabia against Houthis",
-    "Asian stocks skid as Wall Street benefits from oil slip"
+    "Zetwerk IPO fully subscribed on final day",
+    "Indian shares slip as markets await Jio IPO",
+    "Sensex sinks 900 points wiping ₹5 lakh crore",
+    "US-India trade deal very close, says Marco Rubio",
+    "SpaceX and Tesla merger speculation builds up"
   ],
   "articles": [
     {
-      "headline": "Asian Stocks Skid as Wall Street Aided by Oil Slip",
-      "brief": "Asian markets fell sharply while Wall Street and bonds found relief following a notable drop in global oil prices, driven by evolving geopolitical shifts and supply outlooks.",
+      "headline": "Zetwerk's $518 Million IPO Fully Subscribed",
+      "brief": "Zetwerk's $518 million India initial public offering was fully subscribed on the final day of bidding, highlighting strong investor demand for manufacturing and tech-enabled industrial platforms despite broader market volatility and a sharp slump in Indian equities.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5",
-      "dateLocation": "October 19, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGk0RG40TlBZVlFnWDYzdUVvRHZicC1PcW9KVUFqcGpvcjVWVG5IcU1lbFRSRkdNWXJZQkQzYnB1V3NRMnM4Qmh4VUp6U0lzbjZrc3EyTUJLdGRGdGlFNGtnMkg5ZzlRb1JJV3hrOEM1dDVNTXhYY0Rwek1jNGloOUwyeG9MUmpVRjRIbnM0Q3lkSlY3aVNMMEdwbmZUQjIzdEROdE1KX3FNYUxIR21PdHRmSQ?oc=5",
+      "dateLocation": "2026-10-19 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Oil Tumbles on Trump's Russia Sanctions Waiver",
-      "brief": "Crude prices dropped significantly after a waiver on Russian sanctions by Donald Trump raised expectations of increased fuel supplies reaching the global market.",
+      "headline": "India's Jio IPO Anchor Quota Heavily Oversubscribed",
+      "brief": "Anchor investors for India's upcoming Jio IPO have oversubscribed their allocated quota by nearly 30 times, signaling massive institutional confidence in the telecom and digital giant ahead of its public market debut.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHgwOGdXVFJyU3hfRUhCZlNYeVI0Z2N4Si1jZGYxamlUc2NsZVZ1SkRuMHM4OEJqcmdKSFJIRmRnUUw1c1pyT2NqR1V0ZzRyRmxVd3VuSEw3ZklYVEozdkxoYV9ZZ2JOYnhIeEhPZ19VUWR3UHlSSGRlRGlYN1IybkJyZkFDOGx4MTBQRDBCVVBVRXZaV1hOQ0MwMldSbXI3Z0p3T25ONGRiQVNXTlpXM1hDeXQ3LURnQTZCWFlrelVDOW8wSXdMV3hXTjFzM044?oc=5",
+      "dateLocation": "2026-10-19 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "World Faces Biodiversity Realities at UN Summit",
+      "brief": "Delegates at the UN biodiversity conference are confronting stark realities regarding global ecosystem degradation, urging governments to accelerate conservation commitments and financial mobilization to halt species loss.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVFsNmEyREF5VEFrLW5Oa3JZNGdMc1gtY0ZCQXBYWi1wdGJURWRDUzY5VXpsbG5ldjBRM3prNnF3WDhERnNwLWJMR0JuWkQtb2lweUVfX01SQk94eDFZS2JPZ3JaN203aFU5MFM0QWV5VVVfYnNIeGFkcDFvZThMUlY1TkNoLVh2STBpdTY2a0kzX0d1azVxNllFU2ZkcEFPQ3FfZ2U4cXpVQ1czek9QcHdDYXZiOUE?oc=5",
+      "dateLocation": "2026-10-19 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Alberta Votes on Separatist Movement Referendum",
+      "brief": "Voters in Alberta are participating in a referendum regarding separation from Canada. While a defeat is widely expected, analysts note that the underlying separatist sentiment and economic grievances will likely outlast the vote.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhpOEEtQU9ScjZPUU5YUnZfaG9LVXh6VHlxYzBrbzJzSGlzc2kweEZqMDZZMGpwNFNSQUtvNmF1bnVidmFNdU5ELUR5MTVaLTNhaTUwdTB3Rnd2cUhOM0ZIQ0k3TTd3VTFucWc4clltY3M4YnNrTGMzcnY0R2dmaXdZQnUxbEQ1eHd1ai1ldV9EUXQ3QTNlRXUwWjZWQlVEUWFCTmVYR05fYXFTbVdidElWcHoyV1RVYWdJVmZPbHA3Q1NheEZjd09B?oc=5",
+      "dateLocation": "2026-10-19 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hacker Uses AI Agents to Breach Multiple Websites",
+      "brief": "Security analysts revealed how a hacker successfully utilized autonomous AI agents and modest financial resources to infiltrate dozens of websites, exposing emerging vulnerabilities in automated cyber defense systems.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites/articleshow/135046565.cms",
+      "dateLocation": "2026-10-19 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Larry Ellison Loses Billions Amid Oracle AI Worries",
+      "brief": "Oracle co-founder Larry Ellison saw his net worth drop by $6 billion in a single day as investors reacted to mounting debt concerns and uncertainties surrounding the company's aggressive artificial intelligence investments.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-loses-6-billion-in-a-day-as-ai-worries-wipe-billions-from-oracle-stock-making-it-one-of-the-worst-performing-/articleshow/135045101.cms",
+      "dateLocation": "2026-10-19 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "SpaceX and Tesla Merger Speculation Intensifies",
+      "brief": "Market speculation regarding a potential corporate merger between SpaceX and Tesla intensified as both companies reported earnings results that highlight massive ongoing capital expenditures in artificial intelligence.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
-      "dateLocation": "October 19, 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/musks-spacex-tesla-results-to-test-ai-spending-as-merger-speculation-builds/articleshow/135047312.cms",
+      "dateLocation": "2026-10-19 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Samsung to Use TSMC Technology for Nvidia Chips",
-      "brief": "Reports indicate Samsung will leverage TSMC manufacturing technology to build next-generation memory chips for Nvidia, marking a strategic shift in the semiconductor industry.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTLCxTFExX3ZfUlc5OGU4Y3FlSW5QS2M3NnNDVGlDeFFFTG1WU0hEYjAxOVVzdDQ3aFRabkthNExmaFJwa0ExMXJ2Q0ZSYmtVTXFONElMUGJQcg?oc=5",
-      "dateLocation": "October 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Sugar Stocks Slide After Ethanol Ban",
+      "brief": "Shares of Indian sugar companies slumped significantly after the government abruptly halted the diversion of sugar cane juice and syrup for ethanol production, impacting projected revenues for domestic producers.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ?oc=5",
+      "dateLocation": "2026-10-19 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Accenture Explores Sale of Chinese Operations",
-      "brief": "Professional services giant Accenture is reportedly exploring a sale of its Chinese business division, valued at up to $1.5 billion, amid changing market dynamics.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPclpuVDB0RzZFQ19mQVFfSzRwT0pRUmptLTlHZTZZakFzVlA1ajZyS05lb0h0VmllRHhYVm5xODlCSXZMc29xSzdrOXh1RXd6YlA0NXFQTzkyTGF6aTZZX3hoMGVpalVhb2ktdTZDQ1BqZEU5UVV6d3NYRTVPdTh3Vzh2Mmg0UTQzVUh2V01rYjZZR0VkYjJsSlBwNTJRbUFsT0xqUWxSOU5JdndDUjM0M0dJTnJ5VThTMGp3?oc=5",
-      "dateLocation": "October 19, 2026 | Financial Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Endorses Netanyahu in Close Israeli Election",
-      "brief": "US President Donald Trump has offered a strong endorsement of Benjamin Netanyahu as Israel faces a tightly contested political race.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
-      "dateLocation": "October 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Warns US and Israel Against Further Escalation",
-      "brief": "Iranian officials issued sharp warnings against potential military action, daring leaders to test regional resolve as tensions across the Middle East continue to mount.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/want-to-try-your-luck-again-irans-araghchi-warning-to-trump-against-renewed-war/articleshow/135038045.cms",
-      "dateLocation": "October 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Egypt Ready to Back Saudi Arabia Against Houthis",
-      "brief": "Cairo has officially stated its readiness to support Saudi Arabia in military efforts against Iran-allied Houthi movements, strengthening regional alliances.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
-      "dateLocation": "October 19, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "France Shaken by Violent Protests and City Hall Riots",
-      "brief": "Violent demonstrations across French cities resulted in torched municipal buildings and widespread looting, prompting sharp condemnation from national leaders.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/france-on-fire-city-halls-set-ablaze-shops-looted-as-protests-turn-violent-in-videos/articleshow/135037812.cms",
-      "dateLocation": "October 19, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Widens Cancer Drug Price Caps on 137 Medicines",
-      "brief": "The Indian government has expanded price controls on cancer therapeutics, drastically reducing the cost of 137 essential medicines to improve healthcare accessibility.",
+      "headline": "Delhi High Court Permits 31-Week Pregnancy Termination",
+      "brief": "The Delhi High Court granted permission for a 16-year-old rape survivor to terminate a 31-week pregnancy, citing exceptional circumstances beyond the statutory limits outlined in the Medical Termination of Pregnancy Act.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkkwM0RDdmdmQ1ktLWJBS05mMmp0SmNveGE5ZGRVWmNaYVA1czQwVEpSTGF0aXRSSVpYaGNYZ2tVVVVtN3Q0VUpqS1cxaVVMd3hUNkxPVEdhN2xfeHU3VjhuTkVoSlVJWDYxSXpSMkNiNUVOMGU2VUhWUTdBZUhzeUpidFhUTkhpZVFOOVRmYUV6alA3TC1BMTdYR2lJYktuZUI2UVZGMm5Wajg0MmNfMTg4NzJqeXVhVmpwNkVmbEpKbmhiUEJKUWQ4aTA3cmJTR0FR?oc=5",
-      "dateLocation": "October 19, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-permits-16-year-old-rape-survivor-to-terminate-31-week-pregnancy/article71602594.ece",
+      "dateLocation": "2026-10-19 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Economic Growth Rebounds to 4.5% in Third Quarter",
-      "brief": "China's economic recovery gained unexpected momentum in the third quarter, reporting a 4.5% growth rate that surpassed analyst expectations.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/chinas-economic-growth-picks-up-rebounds-to-4-5-in-third-quarter-beating-expectations/articleshow/135037992.cms",
-      "dateLocation": "October 19, 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Orangutans in Odisha Found Suffering From Anaemia",
+      "brief": "Veterinary officials reported that three rescued orangutans sheltered in Odisha are currently suffering from anaemia, prompting comprehensive health evaluations and intensified medical care by wildlife authorities.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/odisha/three-rescued-orangutans-in-odisha-suffering-from-anaemia-officials/article71474169.ece",
+      "dateLocation": "2026-10-19 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India to Participate in SCO Regional Summit in Tajikistan",
-      "brief": "Defence Minister Rajnath Singh will represent India at the Shanghai Cooperation Organisation meeting, focusing on regional connectivity, trade, and multilateral security.",
+      "headline": "Pragyan Ojha Appointed BCCI Selection Panel Chief",
+      "brief": "Former India spinner Pragyan Ojha has taken over as the chairman of the BCCI Men's Selection Committee, replacing Ajit Agarkar, with former spinner Ramesh Powar also joining the panel to guide national team selections.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pragyan-ojha-replaces-ajit-agarkar-as-bccis-selection-committee-chairman-ramesh-powar-joins-panel/articleshow/135046619.cms",
+      "dateLocation": "2026-10-19 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Secures 1-2 Finish in Asian Para Games",
+      "brief": "Indian athletes Soumya Kumar and Radha Venkatesh secured gold and silver medals respectively in the women's 1500m T12/T13 event at the ongoing Asian Para Games, delivering stellar performances for the country.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/another-1-2-for-india-soumya-radha-venkatesh-clinch-gold-and-silver-in-womens-1500m-t12/t13-at-asian-para-games/articleshow/135047268.cms",
+      "dateLocation": "2026-10-19 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US-India Trade Deal Very Close to Completion",
+      "brief": "US official Marco Rubio stated that a comprehensive trade deal between the United States and India is very close to completion, highlighting bilateral negotiations ahead of his scheduled visit to Mumbai and Jamnagar.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/usindia-trade-deal-very-close-to-completion-marco-rubio-says-ahead-of-mumbai-jamnagar-visit-trump-russia-sanction-11792399364792.html",
+      "dateLocation": "2026-10-19 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Netanyahu Warns Israel Could Face Hostile US President",
+      "brief": "Israeli Prime Minister Benjamin Netanyahu warned that future US administrations could adopt a hostile stance toward Israel, emphasizing the critical importance of building robust alternative international alliances, including ties with India.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/israeli-pm-netanyahu-warns-of-hostile-future-us-president-calls-for-alliances-with-india-not-a-small-country-11792388696025.html",
+      "dateLocation": "2026-10-19 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "CIC Remands RTI Appeal on POSH Compliance in Banks",
+      "brief": "The Central Information Commission has remanded an RTI appeal concerning POSH compliance in public sector banks back for a fair hearing, following concerns that financial institutions failed to constitute proper internal committees.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/rajnath-singh-to-represent-india-at-sc0-meeting-in-tajikistan-whats-on-the-agenda-india-pakistan-11792377223853.html",
-      "dateLocation": "October 19, 2026 | Livemint",
+      "sourceUrl": "https://www.thehindu.com/news/national/posh-compliance-in-public-sector-banks-cic-remands-rti-appeal-for-fair-hearing/article71602600.ece",
+      "dateLocation": "2026-10-19 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ladakh Receives Dedicated High Court Bench After Decades",
-      "brief": "Nearly a century after the establishment of the Jammu and Kashmir High Court, a dedicated judicial bench has officially been inaugurated in Ladakh.",
+      "headline": "Delhi High Court Examines Neha Bora Peace Bond Notice",
+      "brief": "Activist Neha Bora moved the Delhi High Court seeking an immediate stay and withdrawal of a peace bond notice issued against her, arguing that the administrative directive is ambiguous and factually incorrect.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/almost-a-century-after-jk-hc-was-set-up-ladakh-gets-bench/articleshow/135034887.cms",
-      "dateLocation": "October 19, 2026 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/neha-bora-moves-delhi-high-court-against-peace-bond-notice/article71602486.ece",
+      "dateLocation": "2026-10-19 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
