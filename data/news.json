@@ -1,140 +1,132 @@
 {
-  "lastUpdated": "2026-10-19T12:03:19.657Z",
+  "lastUpdated": "2026-10-19T21:58:11.159Z",
   "ticker": [
-    "Zetwerk IPO fully subscribed on final day",
-    "Indian shares slip as markets await Jio IPO",
-    "Sensex sinks 900 points wiping ₹5 lakh crore",
-    "US-India trade deal very close, says Marco Rubio",
-    "SpaceX and Tesla merger speculation builds up"
+    "India Probes Pernod and Diageo Under UK Trade Pact",
+    "Jio Platforms IPO Anchor Book Draws Record Bids",
+    "Japan Launches Historic Mission to Explore Mars' Moons",
+    "Europe EV Sales Surge 70 Percent in September",
+    "Houthis Claim Multiple Strikes on Saudi Facilities"
   ],
   "articles": [
     {
-      "headline": "Zetwerk's $518 Million IPO Fully Subscribed",
-      "brief": "Zetwerk's $518 million India initial public offering was fully subscribed on the final day of bidding, highlighting strong investor demand for manufacturing and tech-enabled industrial platforms despite broader market volatility and a sharp slump in Indian equities.",
+      "headline": "India Probes Pernod and Diageo Scotch Imports",
+      "brief": "India is investigating Scotch whiskey imports by Pernod Ricard and Diageo under the framework of the India-UK trade pact, according to industry sources. The probe focuses on compliance and market access provisions stipulated in the bilateral agreement.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWpNTHh4Y3hMX2pBNlZjWTA5QnI2M194bWt6ZUpXLUJyZHZ6MEpBeFB3dUZBT2FlVng4b21FV2ZOM0tOR2htU0h2bWRtbVlyZ0w5TXFPZTRibUpjQlR4TjEydUZySXF6bllGSm5ENms2elREOXNhWnZJR2lxUjhNazhfeENCWjk1alQtT0dPaG5ka2hKN3JScU90RFA5dlFNaTFLWFREU2h0dC1aLUk1cU51SG9qMnRBaUtSMVdLMGN2SnJYU0Nv?oc=5",
+      "dateLocation": "October 19, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump's Russia Sanctions Waiver Eases India Energy Woes",
+      "brief": "A strategic Russia sanctions waiver granted by the Trump administration has alleviated pressing energy security challenges for India. The policy shift is also expected to inject fresh momentum into ongoing bilateral trade negotiations.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
+      "dateLocation": "October 19, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Europe EV Sales Surge 70 Percent in September",
+      "brief": "Electric vehicle sales across Europe jumped by 70 percent in September, capturing approximately 30 percent of the total regional market share. The substantial growth highlights accelerating consumer adoption and stricter regional emissions mandates.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGk0RG40TlBZVlFnWDYzdUVvRHZicC1PcW9KVUFqcGpvcjVWVG5IcU1lbFRSRkdNWXJZQkQzYnB1V3NRMnM4Qmh4VUp6U0lzbjZrc3EyTUJLdGRGdGlFNGtnMkg5ZzlRb1JJV3hrOEM1dDVNTXhYY0Rwek1jNGloOUwyeG9MUmpVRjRIbnM0Q3lkSlY3aVNMMEdwbmZUQjIzdEROdE1KX3FNYUxIR21PdHRmSQ?oc=5",
-      "dateLocation": "2026-10-19 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0ctREhXOHRCbnByZlQ4RDNoM051bnJjZzZFSzczeEdGWmFHQXpyV1FLM1dMWGNyQnI1b19XbmJENmQxWUtvdWN2NXlGX09xc3RxVWUxWVlaLVl6dVJqM3lMcWwteUROMnhsZUEzaHZxOTF4RldpZ1RsYTBrRjhNeGI0WUo5MTdaN2taeVR5T2JzSmluejd2aTVJVktpUl8tWXVJ?oc=5",
+      "dateLocation": "October 19, 2026 | Frankfurt, Germany",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India's Jio IPO Anchor Quota Heavily Oversubscribed",
-      "brief": "Anchor investors for India's upcoming Jio IPO have oversubscribed their allocated quota by nearly 30 times, signaling massive institutional confidence in the telecom and digital giant ahead of its public market debut.",
+      "headline": "Supreme Court Rejects Google Challenge on Patent Review",
+      "brief": "The U.S. Supreme Court has dismissed Google's legal challenge against the U.S. patent agency's review policies. The decision preserves the administrative framework used to reexamine and potentially invalidate contested technology patents.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHRGNUJZNWxGa0dtWEZsRUpLOEdtdzVMZEhYbnFnX0lVeHhWWWRkT1BYQkRycTVSUk9jTlRyNE9hMUFFWU81Y1lkdC1WNG1yQzY5WjRTMWtWSTBpYXV6WEc1NEtOcVFwZ240TGs3d3NyeVQ0cE5xbHZLeGNTWTRhdllDQ3h3dEs3aU9GejRNclNudTNyTmhha2pBSk4zTFRfOHprYkJwdmRQN0ZHZ01ocl9wbVE?oc=5",
+      "dateLocation": "October 19, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nvidia Secures AI Startup Modal for Central Processors",
+      "brief": "Nvidia has successfully onboarded fast-growing artificial intelligence startup Modal to utilize its advanced central processing units. The partnership marks a notable expansion for Nvidia's hardware footprint within emerging cloud-native AI infrastructures.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUklvMHh4T2thUkdNSndrQ3BVOTZjalQwRnJ2ZFdhb3Q4aC1NT2k2LTBLX1AxZmlHdTdheHp1ZDF1ZGVSd2JLc3VFUU1ycWRndnRmS2ZyYVpGeU52OU9IQU5qVHdJb1BXNjJ1MlN4MF9aajQ5QXhmQnhYTXowWEFUa29BQkYySzBxeG1CU0Z0MHB6U3psLU1EcTB4Z3N2dkVYSFM3cEgtNlQ4Uk5VTlE?oc=5",
+      "dateLocation": "October 19, 2026 | Santa Clara, California",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Fed Warns AI Boom Aggravates Inflationary Pressures",
+      "brief": "Federal Reserve officials have warned that the rapid capital expenditure boom driven by artificial intelligence may compound existing inflation challenges. While productivity gains are anticipated, broader economic costs could shift onto consumers.",
       "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+      "dateLocation": "October 19, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Jio Platforms IPO Anchor Book Draws Record Bids",
+      "brief": "India's Jio Platforms attracted massive investor participation, with anchor book bids surpassing $25 billion ahead of its initial public offering. The unprecedented demand underscores strong institutional confidence in the telecom and digital giant.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHgwOGdXVFJyU3hfRUhCZlNYeVI0Z2N4Si1jZGYxamlUc2NsZVZ1SkRuMHM4OEJqcmdKSFJIRmRnUUw1c1pyT2NqR1V0ZzRyRmxVd3VuSEw3ZklYVEozdkxoYV9ZZ2JOYnhIeEhPZ19VUWR3UHlSSGRlRGlYN1IybkJyZkFDOGx4MTBQRDBCVVBVRXZaV1hOQ0MwMldSbXI3Z0p3T25ONGRiQVNXTlpXM1hDeXQ3LURnQTZCWFlrelVDOW8wSXdMV3hXTjFzM044?oc=5",
-      "dateLocation": "2026-10-19 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "World Faces Biodiversity Realities at UN Summit",
-      "brief": "Delegates at the UN biodiversity conference are confronting stark realities regarding global ecosystem degradation, urging governments to accelerate conservation commitments and financial mobilization to halt species loss.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVFsNmEyREF5VEFrLW5Oa3JZNGdMc1gtY0ZCQXBYWi1wdGJURWRDUzY5VXpsbG5ldjBRM3prNnF3WDhERnNwLWJMR0JuWkQtb2lweUVfX01SQk94eDFZS2JPZ3JaN203aFU5MFM0QWV5VVVfYnNIeGFkcDFvZThMUlY1TkNoLVh2STBpdTY2a0kzX0d1azVxNllFU2ZkcEFPQ3FfZ2U4cXpVQ1czek9QcHdDYXZiOUE?oc=5",
-      "dateLocation": "2026-10-19 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Alberta Votes on Separatist Movement Referendum",
-      "brief": "Voters in Alberta are participating in a referendum regarding separation from Canada. While a defeat is widely expected, analysts note that the underlying separatist sentiment and economic grievances will likely outlast the vote.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhpOEEtQU9ScjZPUU5YUnZfaG9LVXh6VHlxYzBrbzJzSGlzc2kweEZqMDZZMGpwNFNSQUtvNmF1bnVidmFNdU5ELUR5MTVaLTNhaTUwdTB3Rnd2cUhOM0ZIQ0k3TTd3VTFucWc4clltY3M4YnNrTGMzcnY0R2dmaXdZQnUxbEQ1eHd1ai1ldV9EUXQ3QTNlRXUwWjZWQlVEUWFCTmVYR05fYXFTbVdidElWcHoyV1RVYWdJVmZPbHA3Q1NheEZjd09B?oc=5",
-      "dateLocation": "2026-10-19 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hacker Uses AI Agents to Breach Multiple Websites",
-      "brief": "Security analysts revealed how a hacker successfully utilized autonomous AI agents and modest financial resources to infiltrate dozens of websites, exposing emerging vulnerabilities in automated cyber defense systems.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/ai/ai-insights/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites/articleshow/135046565.cms",
-      "dateLocation": "2026-10-19 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Larry Ellison Loses Billions Amid Oracle AI Worries",
-      "brief": "Oracle co-founder Larry Ellison saw his net worth drop by $6 billion in a single day as investors reacted to mounting debt concerns and uncertainties surrounding the company's aggressive artificial intelligence investments.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-loses-6-billion-in-a-day-as-ai-worries-wipe-billions-from-oracle-stock-making-it-one-of-the-worst-performing-/articleshow/135045101.cms",
-      "dateLocation": "2026-10-19 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SpaceX and Tesla Merger Speculation Intensifies",
-      "brief": "Market speculation regarding a potential corporate merger between SpaceX and Tesla intensified as both companies reported earnings results that highlight massive ongoing capital expenditures in artificial intelligence.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/musks-spacex-tesla-results-to-test-ai-spending-as-merger-speculation-builds/articleshow/135047312.cms",
-      "dateLocation": "2026-10-19 | Economic Times",
+      "dateLocation": "October 19, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Sugar Stocks Slide After Ethanol Ban",
-      "brief": "Shares of Indian sugar companies slumped significantly after the government abruptly halted the diversion of sugar cane juice and syrup for ethanol production, impacting projected revenues for domestic producers.",
+      "headline": "Saudi Envoy and Pakistan Army Chief Discuss Regional Security",
+      "brief": "A high-ranking Saudi envoy met with Pakistan's Army Chief in Rawalpindi to evaluate regional security dynamics and bilateral defense frameworks. Both sides emphasized the importance of institutional linkages and strategic coordination.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/saudi-envoy-meets-pakistan-army-chief-discusses-regional-security-dynamics/article71603090.ece",
+      "dateLocation": "October 19, 2026 | Rawalpindi, Pakistan",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "West Bank on Verge of Escalation, Warns Official",
+      "brief": "Senior Palestinian official Jibril Rajoub cautioned that ongoing military actions and settler violence in the West Bank are pushing the territory toward an inevitable and severe explosion of unrest.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/west-bank-on-verge-of-explosion-senior-palestinian-official/article71603078.ece",
+      "dateLocation": "October 19, 2026 | Ramallah, West Bank",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UEFA Demands FIFA Release World Cup Plan Documents",
+      "brief": "UEFA has issued a strict November 2 deadline for FIFA to release comprehensive documentation concerning President Gianni Infantino's proposed World Cup restructuring plans ahead of upcoming elections.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/football/uefa-gives-fifa-november-2-deadline-to-release-infantino-world-cup-plan-documents/article71603055.ece",
+      "dateLocation": "October 19, 2026 | Nyon, Switzerland",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Japan Launches Historic Spacecraft to Explore Mars Moons",
+      "brief": "Japan has successfully launched a bold exploratory mission targeting the mysterious moons of Mars. The spacecraft aims to study planetary origins and safely return soil samples back to Earth.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/watch-japan-launches-historic-mars-mission-to-probe-mysterious-moons-bring-samples-back/articleshow/135055997.cms",
+      "dateLocation": "October 19, 2026 | Tanegashima, Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Houthis Claim Six Operations Targeting Saudi Facilities",
+      "brief": "Yemen's Houthi movement claimed responsibility for a series of ballistic missile and drone attacks targeting Saudi Arabian airports, oil fields, and military installations over a 48-hour period.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms",
+      "dateLocation": "October 19, 2026 | Sanaa, Yemen",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Government Curbs Sugar Diversion for Ethanol Production",
+      "brief": "State-run oil marketing companies have excluded sugarcane-derived feedstocks from their latest procurement tenders for petrol blending. Sugar mills have warned of severe financial losses during the current surplus output year.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ?oc=5",
-      "dateLocation": "2026-10-19 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/india/govt-curbs-sugar-diversion-for-ethanol-mills-warn-of-losses-during-surplus-year-11792415215561.html",
+      "dateLocation": "October 19, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi High Court Permits 31-Week Pregnancy Termination",
-      "brief": "The Delhi High Court granted permission for a 16-year-old rape survivor to terminate a 31-week pregnancy, citing exceptional circumstances beyond the statutory limits outlined in the Medical Termination of Pregnancy Act.",
+      "headline": "Trade Margins Capped on 137 Essential Cancer Drugs",
+      "brief": "Regulatory authorities have imposed strict trade margin caps on 137 critical cancer medications to improve affordability for patients. The policy intervention is designed to curb exorbitant markups across retail supply chains.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-permits-16-year-old-rape-survivor-to-terminate-31-week-pregnancy/article71602594.ece",
-      "dateLocation": "2026-10-19 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/trade-margins-on-137-cancer-drugs-capped-but-will-bills-get-lower/articleshow/135055741.cms",
+      "dateLocation": "October 19, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Orangutans in Odisha Found Suffering From Anaemia",
-      "brief": "Veterinary officials reported that three rescued orangutans sheltered in Odisha are currently suffering from anaemia, prompting comprehensive health evaluations and intensified medical care by wildlife authorities.",
+      "headline": "FSSAI Warns Nutraceutical Firms Over Labelling Violations",
+      "brief": "India's food safety regulator has issued stern warnings to nutraceutical companies regarding non-compliance with mandatory product labelling norms. Authorities have threatened immediate legal action against persistent violators.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/odisha/three-rescued-orangutans-in-odisha-suffering-from-anaemia-officials/article71474169.ece",
-      "dateLocation": "2026-10-19 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/india/fssai-warns-nutraceutical-firms-over-labelling-violations-threatens-action-for-noncompliance-11792431408220.html",
+      "dateLocation": "October 19, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pragyan Ojha Appointed BCCI Selection Panel Chief",
-      "brief": "Former India spinner Pragyan Ojha has taken over as the chairman of the BCCI Men's Selection Committee, replacing Ajit Agarkar, with former spinner Ramesh Powar also joining the panel to guide national team selections.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pragyan-ojha-replaces-ajit-agarkar-as-bccis-selection-committee-chairman-ramesh-powar-joins-panel/articleshow/135046619.cms",
-      "dateLocation": "2026-10-19 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Secures 1-2 Finish in Asian Para Games",
-      "brief": "Indian athletes Soumya Kumar and Radha Venkatesh secured gold and silver medals respectively in the women's 1500m T12/T13 event at the ongoing Asian Para Games, delivering stellar performances for the country.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/another-1-2-for-india-soumya-radha-venkatesh-clinch-gold-and-silver-in-womens-1500m-t12/t13-at-asian-para-games/articleshow/135047268.cms",
-      "dateLocation": "2026-10-19 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US-India Trade Deal Very Close to Completion",
-      "brief": "US official Marco Rubio stated that a comprehensive trade deal between the United States and India is very close to completion, highlighting bilateral negotiations ahead of his scheduled visit to Mumbai and Jamnagar.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/usindia-trade-deal-very-close-to-completion-marco-rubio-says-ahead-of-mumbai-jamnagar-visit-trump-russia-sanction-11792399364792.html",
-      "dateLocation": "2026-10-19 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Netanyahu Warns Israel Could Face Hostile US President",
-      "brief": "Israeli Prime Minister Benjamin Netanyahu warned that future US administrations could adopt a hostile stance toward Israel, emphasizing the critical importance of building robust alternative international alliances, including ties with India.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/israeli-pm-netanyahu-warns-of-hostile-future-us-president-calls-for-alliances-with-india-not-a-small-country-11792388696025.html",
-      "dateLocation": "2026-10-19 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "CIC Remands RTI Appeal on POSH Compliance in Banks",
-      "brief": "The Central Information Commission has remanded an RTI appeal concerning POSH compliance in public sector banks back for a fair hearing, following concerns that financial institutions failed to constitute proper internal committees.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/posh-compliance-in-public-sector-banks-cic-remands-rti-appeal-for-fair-hearing/article71602600.ece",
-      "dateLocation": "2026-10-19 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi High Court Examines Neha Bora Peace Bond Notice",
-      "brief": "Activist Neha Bora moved the Delhi High Court seeking an immediate stay and withdrawal of a peace bond notice issued against her, arguing that the administrative directive is ambiguous and factually incorrect.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/neha-bora-moves-delhi-high-court-against-peace-bond-notice/article71602486.ece",
-      "dateLocation": "2026-10-19 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
