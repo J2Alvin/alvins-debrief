@@ -1,132 +1,108 @@
 {
-  "lastUpdated": "2026-10-19T21:58:11.159Z",
+  "lastUpdated": "2026-10-20T03:18:04.360Z",
   "ticker": [
-    "India Probes Pernod and Diageo Under UK Trade Pact",
-    "Jio Platforms IPO Anchor Book Draws Record Bids",
-    "Japan Launches Historic Mission to Explore Mars' Moons",
-    "Europe EV Sales Surge 70 Percent in September",
-    "Houthis Claim Multiple Strikes on Saudi Facilities"
+    "European Unrest Spreads Amid Curfews",
+    "Trump Announces $8B Farmer Program",
+    "Asian Shares Tumble Ahead of AI Results",
+    "Colombia Gold Mine Collapse Kills 14",
+    "Apple India FY26 Revenue Crosses Milestone"
   ],
   "articles": [
     {
-      "headline": "India Probes Pernod and Diageo Scotch Imports",
-      "brief": "India is investigating Scotch whiskey imports by Pernod Ricard and Diageo under the framework of the India-UK trade pact, according to industry sources. The probe focuses on compliance and market access provisions stipulated in the bilateral agreement.",
+      "headline": "Gold Slips as Investors Weigh Fed Rate Outlook",
+      "brief": "Gold prices moved lower on Monday as investors carefully evaluated the upcoming Federal Reserve interest rate trajectory and macroeconomic data.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
+      "dateLocation": "2026-10-20 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Asian Shares Tumble and Oil Rises Ahead of AI Results",
+      "brief": "Stock markets across Asia saw sharp declines while crude oil prices climbed as investors held their breath for major upcoming artificial intelligence sector earnings reports.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
+      "dateLocation": "2026-10-20 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New Zealand Expands Trade Talks as India Pact Starts",
+      "brief": "New Zealand has initiated dialogue with Brazil and Canada regarding expanding trade partnerships just as its landmark trade pact with India officially goes into effect.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWpNTHh4Y3hMX2pBNlZjWTA5QnI2M194bWt6ZUpXLUJyZHZ6MEpBeFB3dUZBT2FlVng4b21FV2ZOM0tOR2htU0h2bWRtbVlyZ0w5TXFPZTRibUpjQlR4TjEydUZySXF6bllGSm5ENms2elREOXNhWnZJR2lxUjhNazhfeENCWjk1alQtT0dPaG5ka2hKN3JScU90RFA5dlFNaTFLWFREU2h0dC1aLUk1cU51SG9qMnRBaUtSMVdLMGN2SnJYU0Nv?oc=5",
-      "dateLocation": "October 19, 2026 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamdkREE0WjBWQVFRR3JoaExBa1YxTUduQVJmcFJEeDViajhDOUR3clZIYVp0bWppVURBYlhyVjlKTGhsWjBWQzZlZEQyU0J6cUZzVDVnSlhDREd3XzE0bEczU0tnVmlMVll1Q1dFMVJMMG5ocTZkSkRwTVdidldsaTdsalpVRkE2TzAtZzhON2k4ckdHNTJBYXhCelF2aXhwVDZWSzBrdDg?oc=5",
+      "dateLocation": "2026-10-20 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump's Russia Sanctions Waiver Eases India Energy Woes",
-      "brief": "A strategic Russia sanctions waiver granted by the Trump administration has alleviated pressing energy security challenges for India. The policy shift is also expected to inject fresh momentum into ongoing bilateral trade negotiations.",
+      "headline": "National Australia Bank to Cut 2,500 Jobs in Overhaul",
+      "brief": "National Australia Bank announced plans to slash 2,500 positions as part of a sweeping cost overhaul strategy triggered by a noticeable slowdown in domestic credit growth.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1NXdDBPdHE1QktYQVlGcFhraENxRlVHbEFSczlSS1RrLUtVcmJWOTZaN0Q3azVjbnowbzg3ZFpHTTZsY3hSNlRHQklyV2tfZldwMFJpVVNkdjRsYzRCV2FHQmo2WkdXOTVRTGI1NWlHaFcyeDdySUhIMGJveGtjY0JydWdNRThLaUFtOE1qdDlHV3RWNGgxYXdwWlkxTVY2anhJRHBzalB5VVhPYXZXMG1RYk5zVzZ0c0xnNQ?oc=5",
+      "dateLocation": "2026-10-20 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Social Unrest and Protests Set European Streets Ablaze",
+      "brief": "Severe social unrest and intense protests have gripped several European nations, including France and Italy, leading to mass arrests, vandalism, and overnight curfews in major urban centers.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/from-france-to-albania-social-unrest-is-setting-europes-streets-ablaze/article71603162.ece",
+      "dateLocation": "2026-10-20 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump Announces $8 Billion Support Program for US Farmers",
+      "brief": "The United States plans to launch an $8 billion financial support program administered through the Farm Service Agency to offset surging diesel costs for American farmers.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
-      "dateLocation": "October 19, 2026 | Washington, D.C.",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-to-launch-8-billion-support-program-for-farmers-to-offset-diesel-costs-trump-says/article71603170.ece",
+      "dateLocation": "2026-10-20 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Europe EV Sales Surge 70 Percent in September",
-      "brief": "Electric vehicle sales across Europe jumped by 70 percent in September, capturing approximately 30 percent of the total regional market share. The substantial growth highlights accelerating consumer adoption and stricter regional emissions mandates.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0ctREhXOHRCbnByZlQ4RDNoM051bnJjZzZFSzczeEdGWmFHQXpyV1FLM1dMWGNyQnI1b19XbmJENmQxWUtvdWN2NXlGX09xc3RxVWUxWVlaLVl6dVJqM3lMcWwteUROMnhsZUEzaHZxOTF4RldpZ1RsYTBrRjhNeGI0WUo5MTdaN2taeVR5T2JzSmluejd2aTVJVktpUl8tWXVJ?oc=5",
-      "dateLocation": "October 19, 2026 | Frankfurt, Germany",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Marco Rubio Begins Three-Day Official Visit to India",
+      "brief": "US diplomat Marco Rubio has commenced a three-day visit to India, emphasizing strong bilateral alliances while noting that India's ongoing Russian energy imports require mutual understanding.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/marco-rubio-to-to-commence-three-day-visit-to-india-calls-india-key-ally-says-its-russian-energy-purchases-need-to-be-understood/articleshow/135059291.cms",
+      "dateLocation": "2026-10-20 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Supreme Court Rejects Google Challenge on Patent Review",
-      "brief": "The U.S. Supreme Court has dismissed Google's legal challenge against the U.S. patent agency's review policies. The decision preserves the administrative framework used to reexamine and potentially invalidate contested technology patents.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHRGNUJZNWxGa0dtWEZsRUpLOEdtdzVMZEhYbnFnX0lVeHhWWWRkT1BYQkRycTVSUk9jTlRyNE9hMUFFWU81Y1lkdC1WNG1yQzY5WjRTMWtWSTBpYXV6WEc1NEtOcVFwZ240TGs3d3NyeVQ0cE5xbHZLeGNTWTRhdllDQ3h3dEs3aU9GejRNclNudTNyTmhha2pBSk4zTFRfOHprYkJwdmRQN0ZHZ01ocl9wbVE?oc=5",
-      "dateLocation": "October 19, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nvidia Secures AI Startup Modal for Central Processors",
-      "brief": "Nvidia has successfully onboarded fast-growing artificial intelligence startup Modal to utilize its advanced central processing units. The partnership marks a notable expansion for Nvidia's hardware footprint within emerging cloud-native AI infrastructures.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUklvMHh4T2thUkdNSndrQ3BVOTZjalQwRnJ2ZFdhb3Q4aC1NT2k2LTBLX1AxZmlHdTdheHp1ZDF1ZGVSd2JLc3VFUU1ycWRndnRmS2ZyYVpGeU52OU9IQU5qVHdJb1BXNjJ1MlN4MF9aajQ5QXhmQnhYTXowWEFUa29BQkYySzBxeG1CU0Z0MHB6U3psLU1EcTB4Z3N2dkVYSFM3cEgtNlQ4Uk5VTlE?oc=5",
-      "dateLocation": "October 19, 2026 | Santa Clara, California",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Fed Warns AI Boom Aggravates Inflationary Pressures",
-      "brief": "Federal Reserve officials have warned that the rapid capital expenditure boom driven by artificial intelligence may compound existing inflation challenges. While productivity gains are anticipated, broader economic costs could shift onto consumers.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-      "dateLocation": "October 19, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Jio Platforms IPO Anchor Book Draws Record Bids",
-      "brief": "India's Jio Platforms attracted massive investor participation, with anchor book bids surpassing $25 billion ahead of its initial public offering. The unprecedented demand underscores strong institutional confidence in the telecom and digital giant.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHgwOGdXVFJyU3hfRUhCZlNYeVI0Z2N4Si1jZGYxamlUc2NsZVZ1SkRuMHM4OEJqcmdKSFJIRmRnUUw1c1pyT2NqR1V0ZzRyRmxVd3VuSEw3ZklYVEozdkxoYV9ZZ2JOYnhIeEhPZ19VUWR3UHlSSGRlRGlYN1IybkJyZkFDOGx4MTBQRDBCVVBVRXZaV1hOQ0MwMldSbXI3Z0p3T25ONGRiQVNXTlpXM1hDeXQ3LURnQTZCWFlrelVDOW8wSXdMV3hXTjFzM044?oc=5",
-      "dateLocation": "October 19, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Saudi Envoy and Pakistan Army Chief Discuss Regional Security",
-      "brief": "A high-ranking Saudi envoy met with Pakistan's Army Chief in Rawalpindi to evaluate regional security dynamics and bilateral defense frameworks. Both sides emphasized the importance of institutional linkages and strategic coordination.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/saudi-envoy-meets-pakistan-army-chief-discusses-regional-security-dynamics/article71603090.ece",
-      "dateLocation": "October 19, 2026 | Rawalpindi, Pakistan",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "West Bank on Verge of Escalation, Warns Official",
-      "brief": "Senior Palestinian official Jibril Rajoub cautioned that ongoing military actions and settler violence in the West Bank are pushing the territory toward an inevitable and severe explosion of unrest.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/west-bank-on-verge-of-explosion-senior-palestinian-official/article71603078.ece",
-      "dateLocation": "October 19, 2026 | Ramallah, West Bank",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UEFA Demands FIFA Release World Cup Plan Documents",
-      "brief": "UEFA has issued a strict November 2 deadline for FIFA to release comprehensive documentation concerning President Gianni Infantino's proposed World Cup restructuring plans ahead of upcoming elections.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/football/uefa-gives-fifa-november-2-deadline-to-release-infantino-world-cup-plan-documents/article71603055.ece",
-      "dateLocation": "October 19, 2026 | Nyon, Switzerland",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Japan Launches Historic Spacecraft to Explore Mars Moons",
-      "brief": "Japan has successfully launched a bold exploratory mission targeting the mysterious moons of Mars. The spacecraft aims to study planetary origins and safely return soil samples back to Earth.",
+      "headline": "Gold Mine Collapse in Colombia Kills at Least 14",
+      "brief": "A tragic collapse at an open-pit gold mine in a remote area of Colombia's Nariño province has left at least 14 miners dead and several others injured.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/watch-japan-launches-historic-mars-mission-to-probe-mysterious-moons-bring-samples-back/articleshow/135055997.cms",
-      "dateLocation": "October 19, 2026 | Tanegashima, Japan",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/14-dead-7-injured-in-colombia-illegal-gold-mine-collapse/articleshow/135059202.cms",
+      "dateLocation": "2026-10-20 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Houthis Claim Six Operations Targeting Saudi Facilities",
-      "brief": "Yemen's Houthi movement claimed responsibility for a series of ballistic missile and drone attacks targeting Saudi Arabian airports, oil fields, and military installations over a 48-hour period.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms",
-      "dateLocation": "October 19, 2026 | Sanaa, Yemen",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Deepthi Jeevanji Wins Women's 400m Gold at Asian Para Games",
+      "brief": "Indian athlete Deepthi Jeevanji secured the gold medal in the women's 400m T20 event while setting a new Asian Para Games record with a time of 56.36 seconds in Nagoya.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/athletics/para-asian-games-2026-in-nagoya-october-20-2026/article71603149.ece",
+      "dateLocation": "2026-10-20 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government Curbs Sugar Diversion for Ethanol Production",
-      "brief": "State-run oil marketing companies have excluded sugarcane-derived feedstocks from their latest procurement tenders for petrol blending. Sugar mills have warned of severe financial losses during the current surplus output year.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/govt-curbs-sugar-diversion-for-ethanol-mills-warn-of-losses-during-surplus-year-11792415215561.html",
-      "dateLocation": "October 19, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Japan Launches Ambitious Spacecraft Mission to Mars Moons",
+      "brief": "The Japanese space agency has successfully launched a bold exploratory spacecraft toward the mysterious moons of Mars with the primary objective of retrieving soil samples.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/japan-launches-spacecraft-to-mysterious-moons-of-mars-in-a-bold-mission-to-bring-home-soil-samples/articleshow/135055931.cms",
+      "dateLocation": "2026-10-20 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trade Margins Capped on 137 Essential Cancer Drugs",
-      "brief": "Regulatory authorities have imposed strict trade margin caps on 137 critical cancer medications to improve affordability for patients. The policy intervention is designed to curb exorbitant markups across retail supply chains.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/trade-margins-on-137-cancer-drugs-capped-but-will-bills-get-lower/articleshow/135055741.cms",
-      "dateLocation": "October 19, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Judge Orders Strict Environmental Review for California AI Data Center",
+      "brief": "A California court has mandated a comprehensive environmental review for a major AI data center proposal in Imperial County following intense pushback from local residents regarding water and emissions.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/a-california-developer-proposed-a-nearly-1-million-square-foot-ai-data-centre-beside-homes-promising-1600-construction-jobs-residents-fought-back-and-a-judge-has-now-required-a-full-environmental-review/articleshow/135049227.cms",
+      "dateLocation": "2026-10-20 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "FSSAI Warns Nutraceutical Firms Over Labelling Violations",
-      "brief": "India's food safety regulator has issued stern warnings to nutraceutical companies regarding non-compliance with mandatory product labelling norms. Authorities have threatened immediate legal action against persistent violators.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/fssai-warns-nutraceutical-firms-over-labelling-violations-threatens-action-for-noncompliance-11792431408220.html",
-      "dateLocation": "October 19, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "IRCTC Partners with Quality Council for Train Food Audits",
+      "brief": "The Indian Railway Catering and Tourism Corporation has partnered with the Quality Council of India to introduce mandatory geo-tagged surprise food safety inspections across trains and stations.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indian-railways-cracks-down-on-food-quality-issues-after-passenger-complaints-irctc-partners-with-qci-for-surprise-audits-on-trains-and-stations-with-digital-evidence-to-speed-up-action/articleshow/135045412.cms",
+      "dateLocation": "2026-10-20 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
