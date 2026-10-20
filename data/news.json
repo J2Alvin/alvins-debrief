@@ -1,132 +1,116 @@
 {
-  "lastUpdated": "2026-10-20T10:53:59.463Z",
+  "lastUpdated": "2026-10-20T21:13:02.445Z",
   "ticker": [
-    "Brent crude hits five-month high amid supply fears",
-    "ByteDance, Alibaba, Tencent place $35B Nvidia chip orders",
-    "India-New Zealand Free Trade Agreement officially takes effect",
-    "Death toll rises to 60 in Yemen Houthi strike",
-    "Google Cloud experiences service outage in London"
+    "US and India close to major trade agreement, says Marco Rubio",
+    "SpaceX quarterly revenue surges past estimates driven by AI business",
+    "NATO to deploy aircraft and drones to secure Black Sea shipping routes",
+    "Salesforce expands AI investments with massive $5.66 billion Braze acquisition",
+    "Supreme Court criticizes Allahabad High Court over lenient sentences in long trials"
   ],
   "articles": [
     {
-      "headline": "Rubio kicks off India visit amid trade and oil talks",
-      "brief": "US officials visit India to negotiate an ongoing trade agreement and discuss regional energy policies, including the complex matter of Russian oil imports.",
+      "headline": "SpaceX Quarterly Revenue Surges on AI Business Growth",
+      "brief": "SpaceX reported a significant jump in quarterly revenue, beating Wall Street estimates as its artificial intelligence business continues to experience rapid growth and commercial expansion.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+      "dateLocation": "October 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Salesforce Deepens AI Bets With $5.66 Billion Braze Deal",
+      "brief": "Salesforce has announced a major strategic acquisition of Braze valued at $5.66 billion, deepening its footprint in the enterprise artificial intelligence and customer engagement sector.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
+      "dateLocation": "October 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AstraZeneca-Amgen Asthma Drug Hits 69% Remission in Trial",
+      "brief": "Clinical trial results show an AstraZeneca and Amgen asthma treatment achieved a 69 percent remission rate in patients suffering from a severe esophageal disease, marking a major medical milestone.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVhRRmJVdENpM1dwVEtJc0xRUk02YmpkM0p0T1ZEc3QtNFdRZWVJMkVxaVYxTFV1VjZocER1SHpYVlhldzRnLVNKdklRcUN5aDAwUkQxWWdJQ0huM2t1R0dsUU10VW04azdEWGVmOHZOUlVHUDJFbDRweXc1bEJKZkpBckZsU1FqOC1lYmpSTmpHNXhKM0FuUDYzd0RJc000VFVLTFlOUTRveEtSOTRQUjNrcFJZTFl1dXVJbjFxdXY1RW81aTR3NUxWUjRJbHhDMEl6NExmMmhGTzB0?oc=5",
+      "dateLocation": "October 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Tells Pakistan No Washington Talks Until Demands Met",
+      "brief": "Tehran has informed the visiting Pakistan army chief that it will refuse any direct negotiations with Washington until its specific regional and economic demands are fully satisfied.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp+OTg0VV9xWWllLUJGYkFkdw?oc=5",
+      "dateLocation": "October 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NATO to Send Aircraft and Drones to Black Sea",
+      "brief": "Following a series of security incidents and attacks on commercial shipping, NATO announced plans to deploy additional surveillance planes and drones to monitor and protect the Black Sea region.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw?oc=5",
+      "dateLocation": "October 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Marco Rubio Says US and India Very Close to Trade Deal",
+      "brief": "During an official visit to India, US Secretary of State Marco Rubio stated that both nations are very close to finalizing a comprehensive bilateral trade agreement following productive diplomatic talks.",
       "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/us-india-very-very-close-to-trade-deal-says-rubio-11792513086422.html",
+      "dateLocation": "October 20, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "PM Modi Calls for National Unity During Vijayadashami",
+      "brief": "Prime Minister Narendra Modi urged citizens to identify and defeat forces working against India, emphasizing self-reliance and collective strength during national Vijayadashami celebrations.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/identify-and-defeat-forces-against-india-pm-modi-calls-for-unity-during-vijayadashami-celebrations/articleshow/135076523.cms",
+      "dateLocation": "October 20, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rubio Encourages Reliance to Refine Venezuelan Oil",
+      "brief": "US Secretary of State Marco Rubio met with officials to encourage India's Reliance Industries to increase the production and refining of Venezuelan crude under modified sanctions frameworks.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzVIbWZvOEliSS16aVNWeUNsMlVlcG9wSDVMUkJsdjVrSzM0TUxueEQ5YThPUGtqMFNJbGM3MkROXzVoNzhaNnhCSmpRZEZBX0Zka0Fuci1YbGxVcEpmY3FzbFU2ck0zYVRSZVJYdnJpUkpVaWRRMGd4Z3J3cnhnbFJuWGI1YmRsOHlvSlE3SDJjcnZ5MWtyOFhKRmhFVVEzOFRnLVFIQUZ1YnBFamVN?oc=5",
-      "dateLocation": "2026-10-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Chinese tech giants order over $35B in Nvidia chips",
-      "brief": "Major technology firms including ByteDance, Alibaba, and Tencent have placed massive orders exceeding $35 billion for advanced Nvidia artificial intelligence processors.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-      "dateLocation": "2026-10-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Brent oil hits five-month high on supply worries",
-      "brief": "Global crude prices surged to a five-month peak as continuous attacks on commercial shipping lanes and energy facilities fueled severe supply disruption concerns.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlA3RXBMd0lXRU1feWpodXpZQ2tnUERkUHFQSlFGX2hCMjdrOVdhRVd2eVk3dmhLYklUdVM1WGtoXzc0cUt2OG44WjBYVFVZazFvOWo1UmJWRlliNzJHWlZBU1hScTU1RU9sVEdDVllsSWE4UXh5b0ZHX0VlU01fNDc3ckpxRkw3ZGdaM0xxMW1qOEhWck1XYUlSVkJWeVZyZWRRSkpqdTFQSmZhejlBRmkxZUJmMGtPVWx6Ym82SnNTcElaWGc?oc=5",
-      "dateLocation": "2026-10-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Google Cloud and Revolut face major London outage",
-      "brief": "Google Cloud services experienced unexpected disruptions across London, causing downtime for various integrated platform users, including financial technology service Revolut.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0VTdUFWc1FhZzJaWWZDMkN3dkl0RzdnMU84OHNOS1g0eDdGZ0RNWDVJcVd1MXZzMHU2Unp0QXBXN0tvc3ZZcW1iRlg1Y1h4TFl3Yi1oM2pWRW5KLUNTT0M1NU1YMGdrUjY2MkZTNW82U2FOX0VYRkRVaTlmckJ0ZElGcjJYNzlhSnVCQzA3X0tiVTZ2Z092U2haTQ?oc=5",
-      "dateLocation": "2026-10-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AstraZeneca and Oracle partner for AI clinical trials",
-      "brief": "Pharmaceutical giant AstraZeneca has announced a strategic partnership with Oracle to integrate advanced artificial intelligence capabilities into its global clinical trial processes.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXlaZTY2Vmg3T3c4NVV4STEtUS05REdfNG5IU0tsczFpSHJpOHlWbExOU2dQQmxDSkdBOFh2aFVLMmdISEFjeVFYdXBOX0w0Z0ZRMVEyYTFkcC1ybTVUOVFwZElvT29kaS1DVlFBRVc4c21Yd0hFUEt5TlhpT1ZsTXA0OVpINmVsZ0lUZmt2bEw3ZnF0RFVYZUxKMExPNEJ3RDFodUhlXzROalNfOTAyRQ?oc=5",
-      "dateLocation": "2026-10-20 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Death toll rises in Houthi strike on Yemen camp",
-      "brief": "The confirmed death toll following a ballistic missile strike by Iran-backed Houthi rebels on a military training camp in Yemen's Shabwa province has climbed to 60.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/article71604054.ece",
-      "dateLocation": "2026-10-20 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India-New Zealand Free Trade Agreement goes live",
-      "brief": "A historic bilateral free trade agreement between India and New Zealand has officially come into effect, promising lower tariffs and enhanced economic cooperation.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-zero-tariffs-work-visas-20-billion-investment-trade-deal/articleshow/135060766.cms",
-      "dateLocation": "2026-10-20 | Economic Times",
+      "dateLocation": "October 20, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ousted Bangladesh PM Hasina plans December return",
-      "brief": "Exiled former Prime Minister Sheikh Hasina has stated her intention to return to Bangladesh in December, acknowledging severe personal security risks upon her arrival.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/ousted-bangladesh-pm-sheikh-hasina-plans-to-return-in-december-admits-she-could-be-killed-arrested-or-tortured-11792487670853.html",
-      "dateLocation": "2026-10-20 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Volkswagen Faces Major Setbacks in China Strategy With Xpeng",
+      "brief": "Volkswagen's strategic investment and partnership with Chinese EV maker Xpeng to salvage its declining market share in China is reportedly facing severe execution hurdles.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVF81Q3ZqWE82a1RYZEpkbWFXNWVpMkZ2Z01MRFBUSGpCLUNncGh0S3JnRHJmZ0hYbHJFUTZkSE53Uks3Vm5USC1KcTNTYTdfY19BSHdFdElhUG8zNG5rWHRoNzNzaWVhQkhzRVZfcE1hanNubFRzalNlUHdqc1dHSXZpTXc5SW1zUndSZ1dZdUx5WDlQMGhEM2ZHNWlMdmJqbDM0TGFEbDVCSFE2UmpXYW5oUG5YazBMTFlYS2wyNHJkbFF0dkI0QQ?oc=5",
+      "dateLocation": "October 20, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Modern warfare targets data centers and cloud servers",
-      "brief": "Recent military conflicts highlighting infrastructure attacks on digital servers and cloud repositories underscore the growing vulnerability of vital artificial intelligence networks.",
+      "headline": "Supreme Court Slams Misplaced Sympathy in Long Trials",
+      "brief": "The Supreme Court has strongly criticized the Allahabad High Court for letting off convicted offenders on probation merely due to lengthy trial durations, calling it a miscarriage of justice.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/decoded-why-are-data-centres-modern-wartime-targets-ukraine-hits-yandex-russia-targets-kyiv-servers-iran-strikes-aws-11792481396016.html",
-      "dateLocation": "2026-10-20 | Livemint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/allahabad-hc-cites-long-trial-lets-off-offenders-sc-slams-misplaced-sympathy/articleshow/135076528.cms",
+      "dateLocation": "October 20, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi to ban non-BS VI vehicles to curb pollution",
-      "brief": "Authorities in Delhi are implementing strict new anti-pollution measures, including a complete ban on non-BS VI compliant vehicles starting November 1 ahead of winter.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/delhi-to-ban-non-bs-vi-vehicles-from-november-1-as-winter-pollution-plan-kicks-in/articleshow/135065526.cms",
-      "dateLocation": "2026-10-20 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Delhi Airport Records Highest First-Half Passenger Traffic",
+      "brief": "Indira Gandhi International Airport in New Delhi handled a record 38.5 million passengers in the first half of the fiscal year, prompting plans for accelerated capacity expansion.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-airport-traffic-hits-record-first-half-high-with-38-5-million-passengers-eyeing-expansion-11792520280650.html",
+      "dateLocation": "October 20, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India dominates latest ICC Women's T20I bowling rankings",
-      "brief": "Indian bowlers Shree Charani and Deepti Sharma have claimed top positions in the recent ICC Women's T20I bowling rankings following strong team performances.",
+      "headline": "Centre Reviews National Mineral Policy for Critical Minerals",
+      "brief": "The Ministry of Mines has constituted a specialized committee to overhaul the National Mineral Policy, placing renewed emphasis on critical mineral security, recycling, and industry modernization.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/why-is-centre-reviewing-national-mineral-policy-2019-critical-minerals-recycling-on-agenda-11792513290252.html",
+      "dateLocation": "October 20, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ranji Trophy Round Two Day Three Matches Continue",
+      "brief": "Domestic cricket action intensified across various venues as teams battled through pivotal third-day encounters in the second round of the prestigious Ranji Trophy tournament.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-shree-charani-deepti-sharma-dominate-as-nandani-sharma-kranti-gaud-make-gains/articleshow/135067024.cms",
-      "dateLocation": "2026-10-20 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/sport/ranji-scores-round-two-day-three/article71605043.ece",
+      "dateLocation": "October 20, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Vietnam explores remote work to combat severe smog",
-      "brief": "Vietnam has proposed emergency remote work protocols and online schooling options for government employees and students as worsening air quality reaches critical levels.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/vietnam-eyes-remote-work-online-classes-as-air-quality-worsens-11792488236884.html",
-      "dateLocation": "2026-10-20 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "CBDT mandates Form 173A for foreign investor tax perks",
-      "brief": "The Central Board of Direct Taxes has introduced a mandatory filing requirement via Form 173A for foreign entities claiming tax exemptions on government securities.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/cbdt-makes-form-173a-mandatory-to-claim-tax-exemption-on-interest-and-gains-from-government-securities/articleshow/135062208.cms",
-      "dateLocation": "2026-10-20 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SCO meet: Rajnath Singh calls for dismantling terrorism",
-      "brief": "At a regional Shanghai Cooperation Organisation meeting, India's defense leadership stressed the urgent need to collectively dismantle international terrorist networks.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
-      "dateLocation": "2026-10-20 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Alberta rejects separation bid in political win for Carney",
-      "brief": "Political stability received a boost in Canada as the province of Alberta officially rejected a proposed separation bid, marking a significant win for national unity.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/they-chose-canada-alberta-rejects-separation-bid-in-win-for-carney/articleshow/135067820.cms",
-      "dateLocation": "2026-10-20 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
