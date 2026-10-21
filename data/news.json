@@ -1,116 +1,116 @@
 {
-  "lastUpdated": "2026-10-21T16:34:16.098Z",
+  "lastUpdated": "2026-10-21T21:13:33.011Z",
   "ticker": [
-    "Jio IPO oversubscribed rapidly in record-breaking Indian market sale",
-    "Germany raises Russian sabotage threat level near military bases",
-    "SBI launches high-level probe into potential customer data exposure",
-    "WMO issues alarming warning regarding unprecedented El Nino strength",
-    "Google's massive Waymo Zeekr taxi order triggers US security concerns"
+    "RBI pauses rate cuts amid inflation risks",
+    "Meta ordered to pay $25 billion over data",
+    "Jio IPO draws massive investor inflows on day one",
+    "Russia frees 74-year-old American teacher Stephen Hubbard",
+    "Saudi oil facility hit by drone attack"
   ],
   "articles": [
     {
-      "headline": "Jio IPO Oversubscribed Within Hours in Record Sale",
-      "brief": "Reliance's Jio IPO saw historic demand, oversubscribing within hours in what is being hailed as a record-breaking Indian market sale. Analysts highlight the strong pitch focusing on AI, cloud computing, and massive patent portfolios driving investor enthusiasm.",
+      "headline": "RBI puts rate cuts on ice citing inflation risks",
+      "brief": "The Reserve Bank of India has signaled a cautious approach, pausing potential rate cuts as widening inflation risks cloud the country's otherwise resilient 7.1% economic growth trajectory.",
       "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-flags-widening-inflation-risks-puts-rate-cuts-on-ice/articleshow/135100146.cms",
+      "dateLocation": "2026-10-21 | Mumbai/Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "HDFC Bank probes internal leak of confidential information",
+      "brief": "An internal investigation by India's HDFC Bank has revealed that certain executives allegedly leaked confidential information, prompting further scrutiny into corporate governance and data security at the lender.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTAwOTR1Z2FTcGtPLWtCZjdPMER5XzQ4cUo0UnF6WE45bW5iaFBwRmxvb1FldlJZUno2VmducGdDa0hHdHNXbXNfd0tBRzdpMGE1SGJDWTk3akJtYjFtd3hrWGZHXzQ1RzNvUk5teXNNekROTHhMekxlSEFDZ3lNTVpaLWZkN1NjT1JXUC1KYUJWZFBuTGxzUDB4UmdkZGlOazRTQkd2YkZLREhhMkljNkkwLVpubHlaTDBr?oc=5",
+      "dateLocation": "2026-10-21 | New Delhi/Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Meta ordered to pay $25 billion in New Mexico case",
+      "brief": "A New Mexico court has ordered Meta Platforms to pay a $25 billion penalty following a high-profile trial over data privacy practices, misleading user policies, and the handling of harmful content.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/us-news/meta-platforms-ordered-to-pay-25-billion-in-new-mexico-consumer-data-protection-case-11792604690684.html",
+      "dateLocation": "2026-10-21 | Santa Fe/Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global government websites face outages due to PHP flaw",
+      "brief": "A decades-old vulnerability discovered in PHP using advanced artificial intelligence tools has triggered widespread outages across various government portals and public institution websites worldwide.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/decades-old-flaw-discovered-by-google-openai-ai-tools-forces-government-and-public-websites-to-go-offline-globally/articleshow/135097877.cms",
+      "dateLocation": "2026-10-21 | New Delhi/TOI",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saudi authorities report casualties following drone attack on oil facility",
+      "brief": "A drone strike on a Saudi Arabian oil facility resulted in falling debris that killed two people and injured several foreign nationals, escalating security and infrastructure concerns in the region.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/saudi-authorities-say-two-killed-by-falling-debris-at-oil-facility-following-drone-attack-in-kingdom/article71608982.ece",
+      "dateLocation": "2026-10-21 | Riyadh/The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India issues travel advisory for France amid violent protests",
+      "brief": "The Indian Embassy in France has urged citizens to remain vigilant, avoid large crowds, and comply with local curfews as violent protests over rising living costs prompt fresh demonstrations.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/remain-vigilant-indian-embassy-issues-travel-advisory-for-france-amid-violent-protests-curfews-what-we-know-11792605602101.html",
+      "dateLocation": "2026-10-21 | Paris/Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "J&K and Ladakh High Court questions vague preventive detention orders",
+      "brief": "A single bench of the Jammu and Kashmir and Ladakh High Court criticized vague detention orders, emphasizing that preventive detention requires the highest degree of constitutional responsibility.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/who-are-the-terrorists-jk-and-ladakh-high-court-questions-vague-detention-order/articleshow/135099891.cms",
+      "dateLocation": "2026-10-21 | Srinagar/TOI",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BJD criticizes BJP over political attacks on Naveen Patnaik",
+      "brief": "The Biju Janata Dal has strongly slammed the BJP for personal attacks against Naveen Patnaik, rejecting allegations that his political demands aim to destabilize the state or country.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/odisha/bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-for-cjp-leaders-release/article71608506.ece",
+      "dateLocation": "2026-10-21 | Bhubaneswar/The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Non-bank lenders flag early stress signs in gold loans",
+      "brief": "Top Indian non-banking financial companies have reported early signs of asset quality stress in short-tenure gold loans, driven by borrowers with histories of serious financial delinquencies.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1VZSVJ6R0FvVE50S015ZzYtYnJhWjJ3OFdQNWFQYkxrLUF3SFJ1RmJ5TGMtSFl4LXZKUVJ4RjZRUHdLdU1YWE05RjV2YUNIc0Z4OGVHNmptSEtrTm5obVBlY2JTd01tRzIxWGVHQzVlaUFGU0tHT2NkbmhnMzNPRG8tYXRhc2hlOWpudEVqZHJ6RFY2SC0wX2pndmlSNHZIaHFXM2FDX2JRcDBXcnc?oc=5",
+      "dateLocation": "2026-10-21 | Mumbai/Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Investors flood Jio IPO on opening day of massive offering",
+      "brief": "The initial public offering of Jio has drawn heavy investor participation on its first day, bolstering rupee recovery and driving strong capital inflows into the Indian market.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
-      "dateLocation": "Today | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "HDFC Bank Probe Finds Executives Leaked Business Secrets",
-      "brief": "An internal investigation at India's HDFC Bank revealed that two senior executives shared confidential information with outside parties. The breach has prompted immediate governance reviews within the major financial institution.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-probe-finds-two-senior-executives-shared-confidential-information-with-outsiders-report/articleshow/135086287.cms",
-      "dateLocation": "Today | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Germany Raises Threat Level Over Russian Sabotage Risks",
-      "brief": "Germany has elevated its military sabotage threat level to the second-highest rank following the discovery of an explosive drone near the Wunstorf air base. Authorities are scaling up nationwide security and surveillance measures.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/germany-on-alert-for-russian-sabotage-after-drone-with-explosives-spotted-near-air-base/articleshow/135096131.cms",
-      "dateLocation": "Today | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "WMO Sounds Alarm on Off-the-Charts El Nino Phase",
-      "brief": "The World Meteorological Organization has issued a strong warning regarding the current El Nino cycle, noting that its strength could prove unprecedented and severely disrupt global weather patterns and agricultural yields.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/current-el-nino-stage-could-be-unprecedented-in-strength-world-meteorological-organization/articleshow/135095766.cms",
-      "dateLocation": "Today | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "SBI Launches Investigation Following Customer Data Leak",
-      "brief": "State Bank of India is actively probing a data exposure incident involving customer records. While core banking systems remain safe, cybersecurity experts warn that the exposed information heightens targeted fraud risks.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/sbi-data-leak-raises-fraud-risks-as-bank-probes-exposure-of-customer-records-11792590225543.html",
-      "dateLocation": "Today | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Google Order for Thousands of Waymo Taxis Stirs Concern",
-      "brief": "Waymo's major order for over 5,000 electric vans manufactured by China's Zeekr has triggered bipartisan concern among US lawmakers and safety experts regarding connected vehicle security risks and reliance on imported technology.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/googles-order-for-thousands-of-cars-for-its-waymo-taxi-service-has-left-many-in-the-us-government-worried/articleshow/135094525.cms",
-      "dateLocation": "Today | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Congress Launches Scathing Attack Over Controversial Photo",
-      "brief": "The political opposition launched a fierce attack against the ruling party over a newly surfaced controversial photograph, escalating political tensions and triggering intense debate across national media channels.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-launches-scathing-attack-on-bjp-over-puri-epstein-photo/articleshow/135094504.cms",
-      "dateLocation": "Today | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "BJP Announces New National Team for Youth Wing",
-      "brief": "The Bharatiya Janata Party has restructured its youth wing, appointing Vadodara MP Hemang Joshi to lead the national team alongside several regional vice-presidents as part of preparations for upcoming assembly elections.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/jk-mla-shagun-parihar-gujarat-mp-hemang-joshi-ups-nikhil-tiwari-who-are-big-names-in-bjp-s-new-youth-wing-team-11792586927505.html",
-      "dateLocation": "Today | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "FSSAI Issues Notices to Nestle and Zydus Over Claims",
-      "brief": "India's food safety regulator has issued official notices to major consumer goods companies including Nestle India and Zydus Wellness, demanding scientific proof to support advertised health and nutritional claims.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/fssai-notices-to-nestle-india-zydus-wellness-over-misleading-claims-in-products/article71608592.ece",
-      "dateLocation": "Today | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Coimbatore Corporation Sets Up Camps for Monsoon Infections",
-      "brief": "Local authorities have announced special medical camps to combat rising monsoon-related viral infections and vector-borne diseases, ensuring adequate healthcare access for vulnerable urban populations.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-corporation-to-hold-special-medical-camps-to-combat-monsoon-related-infections/article71607231.ece",
-      "dateLocation": "Today | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "EBay to Lay Off 9 Percent of Global Workforce",
-      "brief": "EBay announced plans to reduce its workforce by approximately 9 percent in a strategic move to streamline operations, reduce corporate bureaucracy, and pivot towards more agile business processes.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/ebay-to-lay-off-9-of-workforce-in-push-to-simplify-operations/articleshow/135095535.cms",
-      "dateLocation": "Today | Economic Times",
+      "dateLocation": "2026-10-21 | Mumbai/Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Carlsberg Prepares Public Filing for $700 Million India IPO",
-      "brief": "Beverage giant Carlsberg is reportedly nearing a public market filing for a major $700 million initial public offering in India, capitalising on rapid domestic growth and expanding premium consumer markets.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-near-public-filing-for-700-million-india-ipo/articleshow/135086210.cms",
-      "dateLocation": "Today | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "West Bengal forms SIT to investigate Durga Puja stampede",
+      "brief": "The West Bengal government has established a Special Investigation Team headed by a retired justice to probe the circumstances surrounding a deadly stampede at a Durga Puja pandal.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/kolkata/west-bengal-government-sets-up-sit-headed-by-retired-justice-to-probe-durga-puja-pandalstampede/article71607999.ece",
+      "dateLocation": "2026-10-21 | Kolkata/The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Prepares for Crucial T20I Adaptation in New Zealand",
-      "brief": "The Indian cricket team faces a stiff challenge of adapting to alien pitch conditions and weather disruptions as they kick off their highly anticipated T20I series tour against New Zealand.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/when-and-where-to-watch-ind-vs-nz-first-t20i-match-date-time-venue-and-live-streaming-details/articleshow/135095823.cms",
-      "dateLocation": "Today | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Authorities rescue 103 protected birds and turtles in Delhi",
+      "brief": "Delhi police and wildlife authorities successfully rescued 103 protected birds and turtles from a local pet shop in Moti Nagar, with legal action currently underway against the offenders.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/103-protected-birds-turtles-rescued-from-moti-nagar-pet-shop/article71608544.ece",
+      "dateLocation": "2026-10-21 | New Delhi/The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Health experts urge strict regulations on added sugars in infant food",
+      "brief": "Following recent drafts and regulatory debates, public health advocates are pressing authorities to expand restrictions on added sugars across all commercial infant food products to protect children.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/opinion/editorial/bitter-and-sweet-on-fssai-draft-restrictions-added-sugars-in-infant-foods/article71604624.ece",
+      "dateLocation": "2026-10-21 | New Delhi/The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
