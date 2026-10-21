@@ -1,124 +1,116 @@
 {
-  "lastUpdated": "2026-10-21T11:07:39.816Z",
+  "lastUpdated": "2026-10-21T16:34:16.098Z",
   "ticker": [
-    "Jio IPO sets records with massive oversubscription",
-    "Delhi enforces GRAP-1 curbs as AQI hits 'poor'",
-    "Half of India's coal plants run critically low on fuel",
-    "State Bank of India reports minor cyberattack incident",
-    "India crosses 50 medals at Asian Para Games"
+    "Jio IPO oversubscribed rapidly in record-breaking Indian market sale",
+    "Germany raises Russian sabotage threat level near military bases",
+    "SBI launches high-level probe into potential customer data exposure",
+    "WMO issues alarming warning regarding unprecedented El Nino strength",
+    "Google's massive Waymo Zeekr taxi order triggers US security concerns"
   ],
   "articles": [
     {
-      "headline": "Ambani's Jio IPO oversubscribed within hours in record sale",
-      "brief": "Reliance's Jio IPO achieved record-breaking oversubscription within hours, pushing bids past Rs 50,000 crore and strengthening the Indian rupee to a six-week high.",
+      "headline": "Jio IPO Oversubscribed Within Hours in Record Sale",
+      "brief": "Reliance's Jio IPO saw historic demand, oversubscribing within hours in what is being hailed as a record-breaking Indian market sale. Analysts highlight the strong pitch focusing on AI, cloud computing, and massive patent portfolios driving investor enthusiasm.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eYPfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
-      "dateLocation": "21 October 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
+      "dateLocation": "Today | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian non-bank lenders flag gold loan stress",
-      "brief": "Top Indian non-bank financial institutions have highlighted early indicators of financial stress emerging within their portfolios of loans secured against gold.",
+      "headline": "HDFC Bank Probe Finds Executives Leaked Business Secrets",
+      "brief": "An internal investigation at India's HDFC Bank revealed that two senior executives shared confidential information with outside parties. The breach has prompted immediate governance reviews within the major financial institution.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1VZSVJ6R0FvVE50S015ZzYtYnJhWjJ3OFdQNWFQYkxrLUF3SFJ1RmJ5TGMtSFl4LXZKUVJ4RjZRUHdLdU1YWE05RjV2YUNIc0Z4OGVHNmptSEtrTm5obVBlY2JTd01tRzIxWGVHQzVlaUFGU0tHT2NkbmhnMzNPRG8tYXRhc2hlOWpudEVqZHJ6RFY2SC0wX2pndmlSNHZIaHFXM2FDX2JRcDBXcnc?oc=5",
-      "dateLocation": "21 October 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-probe-finds-two-senior-executives-shared-confidential-information-with-outsiders-report/articleshow/135086287.cms",
+      "dateLocation": "Today | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Half of India's coal plants run critically low on fuel",
-      "brief": "Roughly half of India's coal-fired power plants are operating with critically depleted fuel reserves as surging electricity demand strains national energy supplies.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazNuSjVoOWdWeU9fY0hvSjV6UEpBQjNpVTZhaFg1Y3NXZUdobzk4Wk54a0ZMdHAtTk1CV1Z6OWstTlJ1dDdoSzV6aFZlRFpsVjRjdExPVDNrS2x3WTBSR3N2NThhRnRnYVJZdmkzN0ttNzFOdE9rTnkwS2pYdTNBWDFOcVZyb2xYRF9IU0F3S25fczdoWElJaFh3ajVndWF2bTFMeEVVLUlxbllnQUhxbjJBemxGS1MybXlZ?oc=5",
-      "dateLocation": "21 October 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Germany Raises Threat Level Over Russian Sabotage Risks",
+      "brief": "Germany has elevated its military sabotage threat level to the second-highest rank following the discovery of an explosive drone near the Wunstorf air base. Authorities are scaling up nationwide security and surveillance measures.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/germany-on-alert-for-russian-sabotage-after-drone-with-explosives-spotted-near-air-base/articleshow/135096131.cms",
+      "dateLocation": "Today | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Essar gets nod for Rs 2,276 cr Kandla terminal",
-      "brief": "Essar Ports has received official approval to develop a massive multipurpose cargo terminal at Kandla, involving an investment of Rs 2,276 crore.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/essar-ports-gets-nod-to-develop-rs-2276-06-crore-multipurpose-cargo-terminal-at-kandla/articleshow/135088101.cms",
-      "dateLocation": "21 October 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "WMO Sounds Alarm on Off-the-Charts El Nino Phase",
+      "brief": "The World Meteorological Organization has issued a strong warning regarding the current El Nino cycle, noting that its strength could prove unprecedented and severely disrupt global weather patterns and agricultural yields.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/current-el-nino-stage-could-be-unprecedented-in-strength-world-meteorological-organization/articleshow/135095766.cms",
+      "dateLocation": "Today | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Eight web security keys of eMudhra leaked",
-      "brief": "Web security keys belonging to eMudhra—a firm whose digital certificates are utilized by key government portals including UIDAI—have been leaked online.",
+      "headline": "SBI Launches Investigation Following Customer Data Leak",
+      "brief": "State Bank of India is actively probing a data exposure incident involving customer records. While core banking systems remain safe, cybersecurity experts warn that the exposed information heightens targeted fraud risks.",
       "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece",
-      "dateLocation": "21 October 2026 | The Hindu",
+      "sourceUrl": "https://www.livemint.com/news/sbi-data-leak-raises-fraud-risks-as-bank-probes-exposure-of-customer-records-11792590225543.html",
+      "dateLocation": "Today | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "State Bank of India reports customer data breach",
-      "brief": "State Bank of India confirmed a minor cyberattack that compromised roughly 3,900 customer records, prompting immediate internal security reviews.",
+      "headline": "Google Order for Thousands of Waymo Taxis Stirs Concern",
+      "brief": "Waymo's major order for over 5,000 electric vans manufactured by China's Zeekr has triggered bipartisan concern among US lawmakers and safety experts regarding connected vehicle security risks and reliance on imported technology.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5",
-      "dateLocation": "21 October 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/googles-order-for-thousands-of-cars-for-its-waymo-taxi-service-has-left-many-in-the-us-government-worried/articleshow/135094525.cms",
+      "dateLocation": "Today | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Delhi enforces GRAP-1 curbs as air quality drops",
-      "brief": "Authorities in Delhi-NCR invoked Stage-I restrictions under the Graded Response Action Plan after the regional Air Quality Index deteriorated into the 'poor' category.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/grap1-curbs-imposed-in-delhi-ncr-as-air-quality-deteriorates-to-poor-11792575704957.html",
-      "dateLocation": "21 October 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Haridwar's Har Ki Pauri goes dry amid pilgrimage",
-      "brief": "Portions of the holy Har Ki Pauri ghat in Haridwar have gone dry, forcing pilgrims to rely on small vessels to complete ritual bathing traditions.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/haridwar-har-ki-pauri-goes-dry-pilgrims-using-mugs-and-lotas-for-bathing-in-ganga-as-holy-dip-becomes-impossible/articleshow/135087856.cms",
-      "dateLocation": "21 October 2026 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UN experts urge India to halt excessive protest force",
-      "brief": "United Nations human rights experts have formally called upon Indian authorities to immediately cease the use of excessive force in handling public demonstrations.",
+      "headline": "Congress Launches Scathing Attack Over Controversial Photo",
+      "brief": "The political opposition launched a fierce attack against the ruling party over a newly surfaced controversial photograph, escalating political tensions and triggering intense debate across national media channels.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmlnVlF1OWMtU0h4SmE2c2VRY2NQc3RQRDA0Q0VKRGJXRWFuQ0RvajVoMzcyem04dXlUT2pQbGlndWtmcEFOdkJtWkd0UkdWUWJncVp0QzYtMHdqTW9HNXh2VGxoci1UOWlSamluazJPb3NVaFczYi0tMG5HdXBOaHRVX1RoY3ZtdmMxMWhDSkYycWsyU29la3V4Uzlfck1iVFo1dU4xNUUzNXM4aW1ndGlBRjVWYnhJUjhkMmV2SQ?oc=5",
-      "dateLocation": "21 October 2026 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-launches-scathing-attack-on-bjp-over-puri-epstein-photo/articleshow/135094504.cms",
+      "dateLocation": "Today | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Samajwadi Party dissolves entire Kannauj district unit",
-      "brief": "The Akhilesh Yadav-led Samajwadi Party dissolved its Kannauj district committee following a party rally that failed to meet expected attendance targets ahead of polls.",
+      "headline": "BJP Announces New National Team for Youth Wing",
+      "brief": "The Bharatiya Janata Party has restructured its youth wing, appointing Vadodara MP Hemang Joshi to lead the national team alongside several regional vice-presidents as part of preparations for upcoming assembly elections.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/heres-why-akhilesh-yadav-led-samajwadi-party-dissolves-its-entire-kannauj-district-unit-removes-several-officebearers-11792563991723.html",
-      "dateLocation": "21 October 2026 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india/jk-mla-shagun-parihar-gujarat-mp-hemang-joshi-ups-nikhil-tiwari-who-are-big-names-in-bjp-s-new-youth-wing-team-11792586927505.html",
+      "dateLocation": "Today | LiveMint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India passes 50 medals at Asian Para Games",
-      "brief": "Indian athletes surpassed the fifty-medal milestone at the Asian Para Games, highlighted by impressive gold-winning sprint performances by Simran and Dilip Gavit.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-2026-india-races-past-50-medals-as-simran-and-dilip-gavit-deliver-gold-in-100m-events/articleshow/135088847.cms",
-      "dateLocation": "21 October 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Inequality drives non-communicable disease impact: WHO",
-      "brief": "A new World Health Organization report emphasizes that social marginalization, economic inequality, and migrant statuses heavily exacerbate the burden of non-communicable diseases.",
+      "headline": "FSSAI Issues Notices to Nestle and Zydus Over Claims",
+      "brief": "India's food safety regulator has issued official notices to major consumer goods companies including Nestle India and Zydus Wellness, demanding scientific proof to support advertised health and nutritional claims.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/inequality-is-major-factor-in-impact-of-non-communicable-diseases-who/article71607028.ece",
-      "dateLocation": "21 October 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/fssai-notices-to-nestle-india-zydus-wellness-over-misleading-claims-in-products/article71608592.ece",
+      "dateLocation": "Today | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Kenya cult leader convicted of 190 starvation deaths",
-      "brief": "A Kenyan court convicted cult leader Paul Mackenzie of murdering 190 children and adults who starved themselves following instructions to meet Jesus.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/who-is-paul-mackenzie-kenya-cult-leader-convicted-of-190-deaths-after-children-were-starved-to-meet-jesus-profile-11792574548504.html",
-      "dateLocation": "21 October 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Coimbatore Corporation Sets Up Camps for Monsoon Infections",
+      "brief": "Local authorities have announced special medical camps to combat rising monsoon-related viral infections and vector-borne diseases, ensuring adequate healthcare access for vulnerable urban populations.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-corporation-to-hold-special-medical-camps-to-combat-monsoon-related-infections/article71607231.ece",
+      "dateLocation": "Today | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran rules out sending enriched uranium abroad",
-      "brief": "Iranian Supreme National Security Council Secretary Mohsen Rezaei rejected any proposals requiring Iran to transfer its enriched nuclear material to foreign nations.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/iranus-war-mohsen-rezaei-says-not-a-single-gram-of-enriched-uranium-will-leave-iran-what-we-know-so-far-11792555984277.html",
-      "dateLocation": "21 October 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "EBay to Lay Off 9 Percent of Global Workforce",
+      "brief": "EBay announced plans to reduce its workforce by approximately 9 percent in a strategic move to streamline operations, reduce corporate bureaucracy, and pivot towards more agile business processes.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/ebay-to-lay-off-9-of-workforce-in-push-to-simplify-operations/articleshow/135095535.cms",
+      "dateLocation": "Today | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Carlsberg Prepares Public Filing for $700 Million India IPO",
+      "brief": "Beverage giant Carlsberg is reportedly nearing a public market filing for a major $700 million initial public offering in India, capitalising on rapid domestic growth and expanding premium consumer markets.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-near-public-filing-for-700-million-india-ipo/articleshow/135086210.cms",
+      "dateLocation": "Today | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Prepares for Crucial T20I Adaptation in New Zealand",
+      "brief": "The Indian cricket team faces a stiff challenge of adapting to alien pitch conditions and weather disruptions as they kick off their highly anticipated T20I series tour against New Zealand.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/when-and-where-to-watch-ind-vs-nz-first-t20i-match-date-time-venue-and-live-streaming-details/articleshow/135095823.cms",
+      "dateLocation": "Today | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
