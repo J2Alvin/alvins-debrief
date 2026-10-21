@@ -1,100 +1,124 @@
 {
-  "lastUpdated": "2026-10-21T03:13:19.362Z",
+  "lastUpdated": "2026-10-21T11:07:39.816Z",
   "ticker": [
-    "India's Jio IPO opens in record $3.2B sale",
-    "Trump says India-US trade deal is close",
-    "NATO boosts Black Sea presence after drone attacks",
-    "Musk says SpaceX-Tesla merger is 'a good idea'",
-    "IEA warns oil market won't normalize next year"
+    "Jio IPO sets records with massive oversubscription",
+    "Delhi enforces GRAP-1 curbs as AQI hits 'poor'",
+    "Half of India's coal plants run critically low on fuel",
+    "State Bank of India reports minor cyberattack incident",
+    "India crosses 50 medals at Asian Para Games"
   ],
   "articles": [
     {
-      "headline": "India's Jio IPO opens for public bids",
-      "brief": "India's Jio IPO has officially opened for public bids in a record $3.2 billion sale. The price band has been fixed between Rs 1,065 and Rs 1,119 per share, valuing the company at around $108 billion based on the offer documents.",
+      "headline": "Ambani's Jio IPO oversubscribed within hours in record sale",
+      "brief": "Reliance's Jio IPO achieved record-breaking oversubscription within hours, pushing bids past Rs 50,000 crore and strengthening the Indian rupee to a six-week high.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
-      "dateLocation": "2026-10-21 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eYPfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
+      "dateLocation": "21 October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Musk favors SpaceX-Tesla merger deal",
-      "brief": "Elon Musk has stated that a SpaceX-Tesla merger is 'a good idea' as both companies have formed formal deal committees to explore the potential corporate consolidation.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
-      "dateLocation": "2026-10-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Indian non-bank lenders flag gold loan stress",
+      "brief": "Top Indian non-bank financial institutions have highlighted early indicators of financial stress emerging within their portfolios of loans secured against gold.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1VZSVJ6R0FvVE50S015ZzYtYnJhWjJ3OFdQNWFQYkxrLUF3SFJ1RmJ5TGMtSFl4LXZKUVJ4RjZRUHdLdU1YWE05RjV2YUNIc0Z4OGVHNmptSEtrTm5obVBlY2JTd01tRzIxWGVHQzVlaUFGU0tHT2NkbmhnMzNPRG8tYXRhc2hlOWpudEVqZHJ6RFY2SC0wX2pndmlSNHZIaHFXM2FDX2JRcDBXcnc?oc=5",
+      "dateLocation": "21 October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump says India-US trade deal near",
-      "brief": "US President Donald Trump stated that the United States and India are close to finalizing a major trade agreement, which officials say could materialize within weeks.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/indiaus-trade-deal-much-different-as-marco-rubio-meets-jaishankar-in-mumbai-heres-what-trump-said-11792549152437.html",
-      "dateLocation": "2026-10-21 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "France arrests man over town hall fire",
-      "brief": "French anti-terror police have arrested a man linked to ultra-left groups following the suspected arson of the historic Limoges town hall, which caused significant structural collapse.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece",
-      "dateLocation": "2026-10-21 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NATO sends planes to Black Sea",
-      "brief": "NATO is deploying additional planes, drones, and radars to the Black Sea region following a series of recent drone attacks and a formal request for assistance.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/nato-boosts-black-sea-presence-with-planes-drones-and-drones/article71606091.ece",
-      "dateLocation": "2026-10-21 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "AstraZeneca-Amgen drug hits 69% remission",
-      "brief": "A combined asthma drug from AstraZeneca and Amgen achieved a 69 percent remission rate in a clinical trial targeting severe esophageal disease symptoms.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVhRRmJVdENpM1dwVEtJc0xRUk02YmpkM0p0T1ZEc3QtNFdRZWVJMkVxaVYxTFV1VjZocER1SHpYVlhldzRnLVNKdklRcUN5aDAwUkQxWWdJQ0huM2t1R0dsUU10VW04azdEWGVmOHZOUlVHUDJFbDRweXc1bEJKZkpBckZsU1FqOC1lYmpSTmpHNXhKM0FuUDYzd0RJc000VFVLTFlOUTRveEtSOTRQUjNrcFJZTFl1dXVJbjFxdXY1RW81aTR3NUxWUjRJbHhDMEl6NExmMmhGTzB0?oc=5",
-      "dateLocation": "2026-10-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Salesforce acquires Braze for $5.66B",
-      "brief": "Salesforce has deepened its artificial intelligence investments by agreeing to acquire Braze in a massive cash-and-stock deal valued at $5.66 billion.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
-      "dateLocation": "2026-10-21 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Nigeria confirms new Ebola case",
-      "brief": "Nigeria has reported its first Ebola infection in over a decade, widening an ongoing African outbreak and prompting urgent appeals for international health assistance.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/nigeria-ebola-case-widens-record-outbreak-across-africa-11792548528851.html",
-      "dateLocation": "2026-10-21 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IEA warns oil market won't normalize",
-      "brief": "The International Energy Agency chief warned that global oil markets are unlikely to normalize next year, with ongoing West Asia conflicts keeping pressure on crude and diesel supplies.",
+      "headline": "Half of India's coal plants run critically low on fuel",
+      "brief": "Roughly half of India's coal-fired power plants are operating with critically depleted fuel reserves as surging electricity demand strains national energy supplies.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece",
-      "dateLocation": "2026-10-21 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazNuSjVoOWdWeU9fY0hvSjV6UEpBQjNpVTZhaFg1Y3NXZUdobzk4Wk54a0ZMdHAtTk1CV1Z6OWstTlJ1dDdoSzV6aFZlRFpsVjRjdExPVDNrS2x3WTBSR3N2NThhRnRnYVJZdmkzN0ttNzFOdE9rTnkwS2pYdTNBWDFOcVZyb2xYRF9IU0F3S25fczdoWElJaFh3ajVndWF2bTFMeEVVLUlxbllnQUhxbjJBemxGS1MybXlZ?oc=5",
+      "dateLocation": "21 October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Australia targets social media child harms",
-      "brief": "Australia is seeking to build a global coalition to push major tech companies to reduce online harms to children via strict new Digital Duty of Care proposals.",
+      "headline": "Essar gets nod for Rs 2,276 cr Kandla terminal",
+      "brief": "Essar Ports has received official approval to develop a massive multipurpose cargo terminal at Kandla, involving an investment of Rs 2,276 crore.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/essar-ports-gets-nod-to-develop-rs-2276-06-crore-multipurpose-cargo-terminal-at-kandla/articleshow/135088101.cms",
+      "dateLocation": "21 October 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Eight web security keys of eMudhra leaked",
+      "brief": "Web security keys belonging to eMudhra—a firm whose digital certificates are utilized by key government portals including UIDAI—have been leaked online.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece",
+      "dateLocation": "21 October 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "State Bank of India reports customer data breach",
+      "brief": "State Bank of India confirmed a minor cyberattack that compromised roughly 3,900 customer records, prompting immediate internal security reviews.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDJNczB5ZFItMnlnb0RlSEc1OGtuUXFwY3djbEJWZTVpSzhUNDlnYVlQU2VuZmdrbUppVFBYZGQ2bnVLWWdsZTdqamxScG45S3BBLUhsZUtJMVl3VjZERlI5LUstbXM2bnBnaXVBWWo1LXhiUC12bEpMdmRTN1hOLTJ0bWotdDdoR05PUEVMNk9DVE1TX1FzS0FiYl9zZEFDZGNlbElwTmhBVXEzRkVUMnNXb3lzVEU?oc=5",
+      "dateLocation": "21 October 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi enforces GRAP-1 curbs as air quality drops",
+      "brief": "Authorities in Delhi-NCR invoked Stage-I restrictions under the Graded Response Action Plan after the regional Air Quality Index deteriorated into the 'poor' category.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/grap1-curbs-imposed-in-delhi-ncr-as-air-quality-deteriorates-to-poor-11792575704957.html",
+      "dateLocation": "21 October 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Haridwar's Har Ki Pauri goes dry amid pilgrimage",
+      "brief": "Portions of the holy Har Ki Pauri ghat in Haridwar have gone dry, forcing pilgrims to rely on small vessels to complete ritual bathing traditions.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/haridwar-har-ki-pauri-goes-dry-pilgrims-using-mugs-and-lotas-for-bathing-in-ganga-as-holy-dip-becomes-impossible/articleshow/135087856.cms",
+      "dateLocation": "21 October 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UN experts urge India to halt excessive protest force",
+      "brief": "United Nations human rights experts have formally called upon Indian authorities to immediately cease the use of excessive force in handling public demonstrations.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/australia-seeks-global-coalition-to-counter-social-media-giants-increased-child-harms-what-we-know-11792549722841.html",
-      "dateLocation": "2026-10-21 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmlnVlF1OWMtU0h4SmE2c2VRY2NQc3RQRDA0Q0VKRGJXRWFuQ0RvajVoMzcyem04dXlUT2pQbGlndWtmcEFOdkJtWkd0UkdWUWJncVp0QzYtMHdqTW9HNXh2VGxoci1UOWlSamluazJPb3NVaFczYi0tMG5HdXBOaHRVX1RoY3ZtdmMxMWhDSkYycWsyU29la3V4Uzlfck1iVFo1dU4xNUUzNXM4aW1ndGlBRjVWYnhJUjhkMmV2SQ?oc=5",
+      "dateLocation": "21 October 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Hero Future plans green hydrogen push",
-      "brief": "Hero Future Energies has announced a massive Rs 4,000-crore investment plan to expand its clean energy portfolio, focusing specifically on green hydrogen and storage solutions.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/hero-future-energies-rs-4-000-crore-investment-chairman-rahul-munjal-power-11792491642160.html",
-      "dateLocation": "2026-10-21 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Samajwadi Party dissolves entire Kannauj district unit",
+      "brief": "The Akhilesh Yadav-led Samajwadi Party dissolved its Kannauj district committee following a party rally that failed to meet expected attendance targets ahead of polls.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/heres-why-akhilesh-yadav-led-samajwadi-party-dissolves-its-entire-kannauj-district-unit-removes-several-officebearers-11792563991723.html",
+      "dateLocation": "21 October 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India passes 50 medals at Asian Para Games",
+      "brief": "Indian athletes surpassed the fifty-medal milestone at the Asian Para Games, highlighted by impressive gold-winning sprint performances by Simran and Dilip Gavit.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-2026-india-races-past-50-medals-as-simran-and-dilip-gavit-deliver-gold-in-100m-events/articleshow/135088847.cms",
+      "dateLocation": "21 October 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Inequality drives non-communicable disease impact: WHO",
+      "brief": "A new World Health Organization report emphasizes that social marginalization, economic inequality, and migrant statuses heavily exacerbate the burden of non-communicable diseases.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/inequality-is-major-factor-in-impact-of-non-communicable-diseases-who/article71607028.ece",
+      "dateLocation": "21 October 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Kenya cult leader convicted of 190 starvation deaths",
+      "brief": "A Kenyan court convicted cult leader Paul Mackenzie of murdering 190 children and adults who starved themselves following instructions to meet Jesus.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/who-is-paul-mackenzie-kenya-cult-leader-convicted-of-190-deaths-after-children-were-starved-to-meet-jesus-profile-11792574548504.html",
+      "dateLocation": "21 October 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran rules out sending enriched uranium abroad",
+      "brief": "Iranian Supreme National Security Council Secretary Mohsen Rezaei rejected any proposals requiring Iran to transfer its enriched nuclear material to foreign nations.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/iranus-war-mohsen-rezaei-says-not-a-single-gram-of-enriched-uranium-will-leave-iran-what-we-know-so-far-11792555984277.html",
+      "dateLocation": "21 October 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
