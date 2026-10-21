@@ -1,116 +1,100 @@
 {
-  "lastUpdated": "2026-10-20T21:13:02.445Z",
+  "lastUpdated": "2026-10-21T03:13:19.362Z",
   "ticker": [
-    "US and India close to major trade agreement, says Marco Rubio",
-    "SpaceX quarterly revenue surges past estimates driven by AI business",
-    "NATO to deploy aircraft and drones to secure Black Sea shipping routes",
-    "Salesforce expands AI investments with massive $5.66 billion Braze acquisition",
-    "Supreme Court criticizes Allahabad High Court over lenient sentences in long trials"
+    "India's Jio IPO opens in record $3.2B sale",
+    "Trump says India-US trade deal is close",
+    "NATO boosts Black Sea presence after drone attacks",
+    "Musk says SpaceX-Tesla merger is 'a good idea'",
+    "IEA warns oil market won't normalize next year"
   ],
   "articles": [
     {
-      "headline": "SpaceX Quarterly Revenue Surges on AI Business Growth",
-      "brief": "SpaceX reported a significant jump in quarterly revenue, beating Wall Street estimates as its artificial intelligence business continues to experience rapid growth and commercial expansion.",
+      "headline": "India's Jio IPO opens for public bids",
+      "brief": "India's Jio IPO has officially opened for public bids in a record $3.2 billion sale. The price band has been fixed between Rs 1,065 and Rs 1,119 per share, valuing the company at around $108 billion based on the offer documents.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
+      "dateLocation": "2026-10-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Musk favors SpaceX-Tesla merger deal",
+      "brief": "Elon Musk has stated that a SpaceX-Tesla merger is 'a good idea' as both companies have formed formal deal committees to explore the potential corporate consolidation.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
-      "dateLocation": "October 20, 2026 | Reuters",
+      "dateLocation": "2026-10-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Salesforce Deepens AI Bets With $5.66 Billion Braze Deal",
-      "brief": "Salesforce has announced a major strategic acquisition of Braze valued at $5.66 billion, deepening its footprint in the enterprise artificial intelligence and customer engagement sector.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
-      "dateLocation": "October 20, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Trump says India-US trade deal near",
+      "brief": "US President Donald Trump stated that the United States and India are close to finalizing a major trade agreement, which officials say could materialize within weeks.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/indiaus-trade-deal-much-different-as-marco-rubio-meets-jaishankar-in-mumbai-heres-what-trump-said-11792549152437.html",
+      "dateLocation": "2026-10-21 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AstraZeneca-Amgen Asthma Drug Hits 69% Remission in Trial",
-      "brief": "Clinical trial results show an AstraZeneca and Amgen asthma treatment achieved a 69 percent remission rate in patients suffering from a severe esophageal disease, marking a major medical milestone.",
+      "headline": "France arrests man over town hall fire",
+      "brief": "French anti-terror police have arrested a man linked to ultra-left groups following the suspected arson of the historic Limoges town hall, which caused significant structural collapse.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece",
+      "dateLocation": "2026-10-21 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NATO sends planes to Black Sea",
+      "brief": "NATO is deploying additional planes, drones, and radars to the Black Sea region following a series of recent drone attacks and a formal request for assistance.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/nato-boosts-black-sea-presence-with-planes-drones-and-drones/article71606091.ece",
+      "dateLocation": "2026-10-21 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "AstraZeneca-Amgen drug hits 69% remission",
+      "brief": "A combined asthma drug from AstraZeneca and Amgen achieved a 69 percent remission rate in a clinical trial targeting severe esophageal disease symptoms.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVhRRmJVdENpM1dwVEtJc0xRUk02YmpkM0p0T1ZEc3QtNFdRZWVJMkVxaVYxTFV1VjZocER1SHpYVlhldzRnLVNKdklRcUN5aDAwUkQxWWdJQ0huM2t1R0dsUU10VW04azdEWGVmOHZOUlVHUDJFbDRweXc1bEJKZkpBckZsU1FqOC1lYmpSTmpHNXhKM0FuUDYzd0RJc000VFVLTFlOUTRveEtSOTRQUjNrcFJZTFl1dXVJbjFxdXY1RW81aTR3NUxWUjRJbHhDMEl6NExmMmhGTzB0?oc=5",
-      "dateLocation": "October 20, 2026 | Reuters",
+      "dateLocation": "2026-10-21 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Tells Pakistan No Washington Talks Until Demands Met",
-      "brief": "Tehran has informed the visiting Pakistan army chief that it will refuse any direct negotiations with Washington until its specific regional and economic demands are fully satisfied.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp+OTg0VV9xWWllLUJGYkFkdw?oc=5",
-      "dateLocation": "October 20, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Salesforce acquires Braze for $5.66B",
+      "brief": "Salesforce has deepened its artificial intelligence investments by agreeing to acquire Braze in a massive cash-and-stock deal valued at $5.66 billion.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
+      "dateLocation": "2026-10-21 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "NATO to Send Aircraft and Drones to Black Sea",
-      "brief": "Following a series of security incidents and attacks on commercial shipping, NATO announced plans to deploy additional surveillance planes and drones to monitor and protect the Black Sea region.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTdZakRjOTJLeFp1bjdZQ0p1cGJwSjZEYWwtTG5jZXJ4bnloM0J0bVJROTRKM0xCSENRY1dzbGlfeW1renV1SmpfOS1CYVVMWEU1UWdUQS01SkZCZndJcHpFM240c3VReU95Rkw2Z0Q0R1E0Vlo3cHpGMVcxVVVMQW1yUU5YRUYzQTE5TkhhcDUzZ2FpVnlYMExxOW1XbHJUUjJmMVRLV1p6QVdGb2VKRFY2cmRMMEw5NHQw?oc=5",
-      "dateLocation": "October 20, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Nigeria confirms new Ebola case",
+      "brief": "Nigeria has reported its first Ebola infection in over a decade, widening an ongoing African outbreak and prompting urgent appeals for international health assistance.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/nigeria-ebola-case-widens-record-outbreak-across-africa-11792548528851.html",
+      "dateLocation": "2026-10-21 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Marco Rubio Says US and India Very Close to Trade Deal",
-      "brief": "During an official visit to India, US Secretary of State Marco Rubio stated that both nations are very close to finalizing a comprehensive bilateral trade agreement following productive diplomatic talks.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/us-india-very-very-close-to-trade-deal-says-rubio-11792513086422.html",
-      "dateLocation": "October 20, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "PM Modi Calls for National Unity During Vijayadashami",
-      "brief": "Prime Minister Narendra Modi urged citizens to identify and defeat forces working against India, emphasizing self-reliance and collective strength during national Vijayadashami celebrations.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/identify-and-defeat-forces-against-india-pm-modi-calls-for-unity-during-vijayadashami-celebrations/articleshow/135076523.cms",
-      "dateLocation": "October 20, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rubio Encourages Reliance to Refine Venezuelan Oil",
-      "brief": "US Secretary of State Marco Rubio met with officials to encourage India's Reliance Industries to increase the production and refining of Venezuelan crude under modified sanctions frameworks.",
+      "headline": "IEA warns oil market won't normalize",
+      "brief": "The International Energy Agency chief warned that global oil markets are unlikely to normalize next year, with ongoing West Asia conflicts keeping pressure on crude and diesel supplies.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzVIbWZvOEliSS16aVNWeUNsMlVlcG9wSDVMUkJsdjVrSzM0TUxueEQ5YThPUGtqMFNJbGM3MkROXzVoNzhaNnhCSmpRZEZBX0Zka0Fuci1YbGxVcEpmY3FzbFU2ck0zYVRSZVJYdnJpUkpVaWRRMGd4Z3J3cnhnbFJuWGI1YmRsOHlvSlE3SDJjcnZ5MWtyOFhKRmhFVVEzOFRnLVFIQUZ1YnBFamVN?oc=5",
-      "dateLocation": "October 20, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece",
+      "dateLocation": "2026-10-21 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Volkswagen Faces Major Setbacks in China Strategy With Xpeng",
-      "brief": "Volkswagen's strategic investment and partnership with Chinese EV maker Xpeng to salvage its declining market share in China is reportedly facing severe execution hurdles.",
+      "headline": "Australia targets social media child harms",
+      "brief": "Australia is seeking to build a global coalition to push major tech companies to reduce online harms to children via strict new Digital Duty of Care proposals.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/australia-seeks-global-coalition-to-counter-social-media-giants-increased-child-harms-what-we-know-11792549722841.html",
+      "dateLocation": "2026-10-21 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hero Future plans green hydrogen push",
+      "brief": "Hero Future Energies has announced a massive Rs 4,000-crore investment plan to expand its clean energy portfolio, focusing specifically on green hydrogen and storage solutions.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVF81Q3ZqWE82a1RYZEpkbWFXNWVpMkZ2Z01MRFBUSGpCLUNncGh0S3JnRHJmZ0hYbHJFUTZkSE53Uks3Vm5USC1KcTNTYTdfY19BSHdFdElhUG8zNG5rWHRoNzNzaWVhQkhzRVZfcE1hanNubFRzalNlUHdqc1dHSXZpTXc5SW1zUndSZ1dZdUx5WDlQMGhEM2ZHNWlMdmJqbDM0TGFEbDVCSFE2UmpXYW5oUG5YazBMTFlYS2wyNHJkbFF0dkI0QQ?oc=5",
-      "dateLocation": "October 20, 2026 | Reuters",
+      "sourceUrl": "https://www.livemint.com/news/hero-future-energies-rs-4-000-crore-investment-chairman-rahul-munjal-power-11792491642160.html",
+      "dateLocation": "2026-10-21 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Slams Misplaced Sympathy in Long Trials",
-      "brief": "The Supreme Court has strongly criticized the Allahabad High Court for letting off convicted offenders on probation merely due to lengthy trial durations, calling it a miscarriage of justice.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/allahabad-hc-cites-long-trial-lets-off-offenders-sc-slams-misplaced-sympathy/articleshow/135076528.cms",
-      "dateLocation": "October 20, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi Airport Records Highest First-Half Passenger Traffic",
-      "brief": "Indira Gandhi International Airport in New Delhi handled a record 38.5 million passengers in the first half of the fiscal year, prompting plans for accelerated capacity expansion.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/delhi-airport-traffic-hits-record-first-half-high-with-38-5-million-passengers-eyeing-expansion-11792520280650.html",
-      "dateLocation": "October 20, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre Reviews National Mineral Policy for Critical Minerals",
-      "brief": "The Ministry of Mines has constituted a specialized committee to overhaul the National Mineral Policy, placing renewed emphasis on critical mineral security, recycling, and industry modernization.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/why-is-centre-reviewing-national-mineral-policy-2019-critical-minerals-recycling-on-agenda-11792513290252.html",
-      "dateLocation": "October 20, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ranji Trophy Round Two Day Three Matches Continue",
-      "brief": "Domestic cricket action intensified across various venues as teams battled through pivotal third-day encounters in the second round of the prestigious Ranji Trophy tournament.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/ranji-scores-round-two-day-three/article71605043.ece",
-      "dateLocation": "October 20, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
