@@ -1,132 +1,68 @@
 {
-  "lastUpdated": "2026-10-22T03:11:39.798Z",
+  "lastUpdated": "2026-10-22T11:07:21.196Z",
   "ticker": [
-    "US and Israel weigh intensive strikes on Iran",
-    "Jio IPO sees massive inflows on day one",
-    "Kuwait-flagged tanker hit by projectile in Hormuz",
-    "SAP hits €10B quarterly revenue milestone",
-    "Tamil Nadu schools closed following heavy rain"
+    "Jio IPO fully subscribed by retail investors on day two",
+    "Saudi Arabia drone strike hits Dammam airport facilities",
+    "Barclays plans to cut 5,000 jobs in AI cost drive",
+    "India's Mideast oil imports return to pre-war levels",
+    "LSEG announces multi-billion dollar Octus data acquisition"
   ],
   "articles": [
     {
-      "headline": "HDFC Bank internal probe reveals leaked confidential information",
-      "brief": "An internal investigation by India's HDFC Bank has found that several executives leaked confidential information, according to recent reports. The revelation adds to scrutiny over corporate governance within top financial institutions as regulators monitor data handling practices across the banking sector.",
+      "headline": "Retail Investors Fully Subscribe Ambani's Jio IPO",
+      "brief": "Jio Platforms' massive initial public offering achieved full subscription from retail investors on its second day, driven by overwhelming market demand and strong overall bidding momentum.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTAwOTR1Z2FTcGtPLWtCZjdPMER5XzQ4cUo0UnF6WE45bW5iaFBwRmxvb1FldlJZUno2VmducGdDa0hHdHNXbXNfd0tBRzdpMGE1SGJDWTk3akJtYjFtd3hrWGZHXzQ1RzNvUk5teXNNekROTHhMekxlSEFDZ3lNTVpaLWZkN1NjT1JXUC1KYUJWZFBuTGxzUDB4UmdkZGlOazRTQkd2YkZLREhhMkljNkkwLVpubHlaTDBr?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRBTGhtenZpM1ZROFA5dGhIQVdPUzhQRkFJaldfZXNNT2VYRExqeVJRSkROVG1xWHRTOTM1Zk1kRWtudERNSExvNnhmbFZKWnZRaVZBMV9iSzBFU3FkTGFYX2FzeEZvY0pENjdrdmVvcHF5RzEwcklOaHdZdFprVnRwOUsxSFJwWFBzekpId01Vd3M4QTgxYklnUVJERUFocWdkNFBFUmlBUUE?oc=5",
       "dateLocation": "2026-10-22 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Top Indian non-bank lenders flag early stress in gold loans",
-      "brief": "Major Indian non-banking financial companies have reported early signs of repayment stress in their gold-backed loan portfolios. Lenders are closely monitoring asset quality as macroeconomic conditions and fluctuations in gold valuations impact borrower repayment capacities.",
+      "headline": "Barclays to Cut 5,000 Jobs in AI Cost Drive",
+      "brief": "British banking giant Barclays has announced plans to eliminate 5,000 positions this year as part of a sweeping operational restructure powered by artificial intelligence automation and cost-cutting initiatives.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1VZSVJ6R0FvVE50S015ZzYtYnJhWjJ3OFdQNWFQYkxrLUF3SFJ1RmJ5TGMtSFl4LXZKUVJ4RjZRUHdLdU1YWE05RjV2YUNIc0Z4OGVHNmptSEtrTm5obVBlY2JTd01tRzIxWGVHQzVlaUFGU0tHT2NkbmhnMzNPRG8tYXRhc2hlOWpudEVqZHJ6RFY2SC0wX2pndmlSNHZIaHFXM2FDX2JRcDBXcnc?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnpycDlZTWVVLTN4MW5nX2gydHZsVU5iZXlqdVktS3J0d1A2Slp3U1VOWng3bGdla19QV1FQbnpOZVdpV3FLUFh5UUx3dldxR3dLZEhPcWlRZG1qQjZJb2FBQXZINlFHbUE0MjB2Z0lvbjlyUGNXSUdfNG9VdVc0d1I4dHFaZXFjeHF6RVZwYW5hZFl4aWc?oc=5",
       "dateLocation": "2026-10-22 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Walmart launches shopping tools for artificial intelligence agents",
-      "brief": "Retail giant Walmart has rolled out specialized tools designed to allow autonomous AI agents to shop directly on behalf of consumers. This move marks a significant shift in retail technology, streamlining automated e-commerce transactions and changing how digital storefronts interact with automated buyer software.",
+      "headline": "LSEG to Acquire Octus in Major Data Deal",
+      "brief": "London Stock Exchange Group has agreed to purchase Octus in a $3.5 billion mega data analytics transaction designed to expand its global financial terminal offerings and technological capabilities.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmtSSlFFOWZ0ZnlfU0YyQXZBR3l6VjNvdjFtanMtdkdHOFctdFdVTld2a0M4cUlEZmNaS3hnV1ZTdzc1WnQ2RVl4NG1BbVQ1MzUwZV9KWlgzWEFsRGhLOFUzVHdnQzE5VDhBWWx4NU9OZ1ZkNUJ6ZFlSdFBpOXJ1ZmhvaFM0VEVxcDV0MDNUeklPQ0Q5R1pJNVU5ZkdieFlIQkE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlhBWjdBekVLajlGM3MwN1ZnWjRRMGR5OWxkalNveEVuNEJrUTBVOFBNM0x1dENhckFRUzFzMnh6VHVJd2dHMXFLa1ZGdkU4Qk1hUTRuYU9MRGJmcnJXNjRnOWEzdW83cktMemxLYUdyX0F5bTJfSTZFOU1wclRsWlkwRkdodHBEeG1qVW5GUFRsVXBsV05ScEdjbTJHNDg?oc=5",
       "dateLocation": "2026-10-22 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "AstraZeneca secures FDA approval for rare kidney disease drug",
-      "brief": "Pharmaceutical company AstraZeneca announced that the U.S. Food and Drug Administration has approved its targeted therapeutic treatment for adults suffering from a rare kidney disease. The approval provides a critical new management option for patients with limited alternative therapies.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUGpqanV4cTNtMHFsWkNwb2lXeUVRTFJWLXZBai03ZXpLTC1HRnR3VkRjTE40UWRwMDljdE5tTHp4NFJFZWZHNHFoOE56UHRqTUJ1c2UtZVpjbmYzQ25zWmNzcFZsSGREYkxwanljelhaZ2NlWGRMYXNyZVVhRnAySVdpWHltcDNfaXVrLS1UYVN2Z0pYZ0UyeWdQSEp6YnJtY3p3T0Z6Xy1ydklxWUR3N2xlYUtGcDcwd0d6b010WDhGaDdxYVBaU3ZnWmVFdw?oc=5",
+      "headline": "India Mideast Oil Imports Return to Normal",
+      "brief": "India's crude oil imports from the Middle East recovered fully to pre-war baseline levels in September, signaling stability in regional supply chains despite ongoing geopolitical maritime tensions.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRl9GVUFVbTBqSFIzbnJpZmJ0c3Q5ZFJlQ0hQUkkwZW5aVDdVWTMwczBlRFRTbF9zM0NNODcyWG9PUTg5WXZKOXRfSUdJSXhHM1FPcFhUOTVmb0pIUHh5Rl9tYldSWDd1all5UV9fV2VMSmNxSUU4anJpUVVvMkFadHpQcmwxdFhRSHlvSXhpMEY1bXNkV2NnUnVNelltUHVRQjFzWE14TWZVVnhrRndv?oc=5",
       "dateLocation": "2026-10-22 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Karnataka Plans 200 Cochlear Implants for Children",
+      "brief": "The Karnataka government has announced an ambitious healthcare initiative targeting 200 cochlear implant surgeries for children suffering from severe hearing loss under the state's specialized welfare programs.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-plans-200-cochlear-implants-for-children-with-hearing-loss/article71611044.ece",
+      "dateLocation": "2026-10-22 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Germany's SAP hits €10 billion quarterly revenue milestone",
-      "brief": "German enterprise software leader SAP reported a landmark quarter, crossing €10 billion in revenue and prompting an upward revision of its 2026 outlook. The strong financial performance reflects robust global demand for cloud migration and enterprise digitalization services.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWNFNGhkNmNLdmNHYjRIcXJFV0ZjYWFYVHJyMnpvd01tUk10Z3RyZmgtbU44S1JjTHJMRmtSUG9jQ2VNVWRzeDU5S3B0ZURmSnpobkN0b1hPRmhNYjdsRS1mYVZyTE9GUFVpbTFHX0d6TDdMQlJSTkgzeHZ3M2R3djBldW84OWF2OHJUZDMtbUhQRUxKVXFWOUZKbnV4M2dPSElXVmwxd1hxamNEMXhIYVJMVkl1WXZxanUxZXpuMUxzRlVjRFE?oc=5",
-      "dateLocation": "2026-10-22 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "North Korea warns South Korea over border loudspeakers",
-      "brief": "North Korean official Kim Yo Jong has issued a stern warning to Seoul, announcing that border loudspeakers will be fully prepared for operations within days. The escalating rhetoric threatens to further destabilize the Korean peninsula amid stalled diplomatic engagements.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGZVb0JBZXNEbHJDcHFKVjkxal90OGdZZm11Ukswb0YweE9WZzVHUzFrWnM2dy1PNzBzV0NBOEI1OWFHc2JXR2RxX1p0NkhSeG5PRW5ROVlFQ1JpZVlVTHhreFgwYUFWTDkyM2R2S29ld2l4U0RscTU0bVdGc0tad0V0aTJCMlczc0lyajBLZXJMdUtaNDhDVTM5enFhbFl2Q0lQUUVkVkJmY2lpbXRXVHRIbnFsWmNkMGVRVF9RbFV4S1VYZ0xDTl9zbw?oc=5",
-      "dateLocation": "2026-10-22 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Swati Chaudhary wins India's first W1 archery silver",
-      "brief": "Swati Chaudhary created sports history at the Asian Para Games 2026 by securing India's first-ever W1 archery medal, settling for a hard-fought silver. Despite a strong performance in the final, she narrowly conceded the gold to her Chinese opponent after a tense match.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-para-games-2026-swati-chaudhary-creates-history-with-indias-first-w1-archery-medal-settles-for-silver/article71609909.ece",
-      "dateLocation": "2026-10-22 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Oil prices climb as U.S. orders diplomats to leave Saudi Arabia",
-      "brief": "Brent crude futures rose over 1% to top $110 a barrel after the United States ordered diplomatic personnel to evacuate Saudi missions due to rising security tensions in the region. The move stoked concerns over potential supply disruptions in core Middle Eastern oil corridors.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/oil-climbs-as-us-orders-diplomats-to-leave-saudi-missions/article71609875.ece",
-      "dateLocation": "2026-10-22 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Meta Platforms ordered to pay $25 billion in New Mexico case",
-      "brief": "A New Mexico court has ordered Meta Platforms to pay $25 billion following a landmark consumer data protection lawsuit. The state accused the tech conglomerate of misleading users regarding personal data access and content moderation policies.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/us-news/meta-platforms-ordered-to-pay-25-billion-in-new-mexico-consumer-data-protection-case-11792604690684.html",
-      "dateLocation": "2026-10-22 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court directs Andhra Pradesh poll body to halt candidate lists",
-      "brief": "The Supreme Court instructed the Andhra Pradesh election authority to temporarily halt the release of candidate lists, emphasizing that public confidence in the electoral process remains vital for democracy amid allegations of nomination blockades and political violence.",
+      "headline": "Amit Shah Vows NDA Victory in Upcoming Punjab Polls",
+      "brief": "Union Home Minister Amit Shah slammed the opposition during a high-profile visit, asserting that ongoing protests will fail and predicting the NDA will form the next government in Punjab.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/confidence-in-poll-process-key-for-democracy-halt-candidates-list-sc-to-ap-sec/articleshow/135100407.cms",
-      "dateLocation": "2026-10-22 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/news/national/punjab/amit-shah-slams-opposition-says-protests-will-achieve-nothing-nda-will-form-next-government-in-punjab/article71611170.ece",
+      "dateLocation": "2026-10-22 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Kuwait-flagged oil tanker hit by projectile in Strait of Hormuz",
-      "brief": "A Kuwait-flagged oil tanker carrying 21 Indian seafarers was struck by an unidentified projectile while transiting the Strait of Hormuz. All crew members were reported safe, though the incident has reignited international concerns regarding maritime security in the vital waterway.",
+      "headline": "India Transport Ministry Plans Automatic ADAS Mandate",
+      "brief": "Union Minister Nitin Gadkari revealed transport ministry plans to mandate advanced driver assistance systems and automated emergency braking features across all passenger cars manufactured starting in 2030.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/kuwait-flagged-tanker-carrying-21-indian-seafarers-hit-by-projectile-in-strait-of-hormuz-all-safe/articleshow/135104277.cms",
-      "dateLocation": "2026-10-22 | Times of India",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/roadways/automatic-adas-breaking-in-all-cars-nitin-gadkaris-transport-ministry-plans-advanced-emergency-braking-system-from-2030/articleshow/135111333.cms",
+      "dateLocation": "2026-10-22 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Healthtech startup Curebay raises Rs 100 crore in funding round",
-      "brief": "Indian healthtech startup Curebay has successfully secured Rs 100 crore in a new funding round led by IvyCap Ventures. The capital will be utilized to expand its healthcare delivery network and improve medical accessibility across underserved semi-urban and rural regions.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/startups/healthtech-startup-curebay-raises-rs-100-crore-funding-led-by-ivycap-ventures/articleshow/135095724.cms",
-      "dateLocation": "2026-10-22 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump's MAGA Inc unleashes $277 million effort to save Republicans",
-      "brief": "Political action committee MAGA Inc has launched a massive $277 million expenditure campaign in a last-ditch effort to secure Republican majorities in upcoming tight legislative races across the United States, signaling intensified political polarization.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/trumps-maga-inc-unleashes-277-million-last-ditch-effort-to-save-republicans-in-key-us-races/articleshow/135104063.cms",
-      "dateLocation": "2026-10-22 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Anahat Singh stuns eight-time world champion Nour ElSherbini",
-      "brief": "Eighteen-year-old Indian squash sensation Anahat Singh achieved the biggest victory of her career by defeating eight-time world champion Nour ElSherbini in straight games at the Silicon Valley Open, advancing comfortably to the tournament's quarter-finals.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/indias-anahat-singh-stuns-eight-time-world-champion-nour-elsherbini-at-silicon-valley-open/articleshow/135103509.cms",
-      "dateLocation": "2026-10-22 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Health ministry expands immunization outreach following new advisories",
-      "brief": "Health authorities have announced an expansion of national immunization programs to target vulnerable demographic segments following recent epidemiological assessments. The initiative aims to fortify preventive care infrastructure and reduce preventable illness rates nationwide.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/schools-closed-in-five-tamil-nadu-districts-after-overnight-rain/article71609927.ece",
-      "dateLocation": "2026-10-22 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
