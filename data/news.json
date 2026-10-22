@@ -1,124 +1,132 @@
 {
-  "lastUpdated": "2026-10-22T16:35:36.782Z",
+  "lastUpdated": "2026-10-22T21:10:36.644Z",
   "ticker": [
-    "Magnitude 7.0 earthquake strikes northern Tibet",
-    "Iran claims oil tankers damaged in Hormuz",
-    "Barclays to cut 5,000 jobs in AI drive",
-    "India weighs hardware monitor for Starlink",
-    "Pirelli and Balkrishna strike India production deal"
+    "7.0-Magnitude Earthquake Strikes China's Tibet",
+    "Ambani's Jio Indian IPO Subscribed Over Five Times",
+    "Google CEO Declines US Request to Rename Atlantic Ocean",
+    "Pakistan Army Chief's Influence Scrutinized Over Diplomats",
+    "India-EU Trade Deal Could Become Operational in Early 2027"
   ],
   "articles": [
     {
-      "headline": "Pirelli and Balkrishna strike India tyre production deal",
-      "brief": "Pirelli has partnered with Balkrishna Industries to launch a new tyre production venture in India, expanding their manufacturing footprint in the region to cater to growing local and international demand.",
+      "headline": "Pirelli and Balkrishna Strike India Tyre Production Deal",
+      "brief": "Pirelli and Balkrishna have joined forces to establish a major tyre production partnership in India, aiming to expand manufacturing capabilities and meet growing regional demand within the automotive supply chain.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5",
-      "dateLocation": "2026-10-22 | Reuters",
+      "dateLocation": "October 22, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Barclays to cut 5,000 jobs in AI-powered cost drive",
-      "brief": "British banking giant Barclays has announced plans to eliminate 5,000 positions this year as part of an aggressive, technology-driven restructuring aimed at streamlining operations and integrating automated processes.",
+      "headline": "India Permits Large Silver Imports Despite Weak Domestic Demand",
+      "brief": "Despite softening domestic demand, Indian authorities have authorized large-scale silver imports, signaling robust industrial appetite and strategic positioning by bullion traders amidst fluctuating global commodity markets.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnpycDlZTWVVLTN4MW5nX2gydHZsVU5iZXlqdVktS3J0d1A2Slp3U1VOWng3bGdla19QV1FQbnpOZVdpV3FLUFh5UUx3dldxR3dLZEhPcWlRZG1qQjZJb2FBQXZINlFHbUE0MjB2Z0lvbjlyUGNXSUdfNG9VdVc0d1I4dHFaZXFjeHF6RVZwYW5hZFl4aWc?oc=5",
-      "dateLocation": "2026-10-22 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUtxSzhxOC1HbFU5cmwyTGZvMy15ZU5nSmY5bmxZa3ZhUmhnemNzN1hSakNXcmYwR3lxOG9IeTcyekZEWnJhZXhidUJGM1JiM2tJN1lhdFoxWDg1VGdIM2wzaU9WRXlsSnZwOUZsVFN3cjZlMVJnTFd5MzBDRnZKR0lGeWFVMklHMlhhS1BEMFJGTnNLU3ljNzlqZHd5RjR2cWEtYlVreWJ2M1EySHlWLQ?oc=5",
+      "dateLocation": "October 22, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nokia third-quarter profit beats forecasts on AI sales",
-      "brief": "Nokia reported a stronger-than-expected third-quarter profit, bolstered by surging demand for artificial intelligence-driven network infrastructure and telecommunications equipment across global markets.",
+      "headline": "Ambani's Record Jio Indian IPO Oversubscribed Five Times",
+      "brief": "Reliance Industries' Jio has seen unprecedented demand for its landmark Indian initial public offering, with institutional and retail subscriptions surging past five times the offered shares within days of opening.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRBTGhtenZpM1ZROFA5dGhIQVdPUzhQRkFJaldfZXNNT2VYRExqeVJRSkROVG1xWHRTOTM1Zk1kRWtudERNSExvNnhmbFZKWnZRaVZBMV9iSzBFU3FkTGFYX2FzeEZvY0pENjdrdmVvcHF5RzEwcklNaHdZdFprVnRwOUsxSFJwWFBzekpId01Vd3M4QTgxYklnUVJERUFocWdkNFBFUmlBUUE?oc=5",
+      "dateLocation": "October 22, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tech Mahindra Partners with SpaceXSI for AI Software Development",
+      "brief": "India's Tech Mahindra has forged a strategic partnership with SpaceXSI to leverage artificial intelligence for advanced software development, targeting enterprise efficiency and next-gen technological solutions.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVJKZzR0bmhsQlBZTnVkcjV6VmVjU1lXeTFGQUl0NzkwLVNJbWN5NF9iOG54ODJhSlhaTUg3cU9vZUxscGk5RjhEMUV5NHhwZXBVVXZfc3RBelNtSWg2R1dYZW5iSDB2U2VOT1hXMk5EbXpzTHdTNEdIeGlUbXR0eG9wREdBbUJCTUZBM2V3b0VoUnJt?oc=5",
-      "dateLocation": "2026-10-22 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZlJWQnZvNjJES1NYSDBSeGdrbDR3ellObzFNV0dqVHFwT2YyNXhMVzlEdUFXVGFnUnBaVmZVMnRmNUNQWkxkcEh1Z3dCZWw1MnFuWVpla0QwQXRYY3lCUVV6ZUhid0N2U09HYUdDcVNSRHFERGw0eVplNVJJNHJKY0x1ZFFzZWctTlVfOWwySl9vWV9ENllCanBicDBlNDE4a1RveEQ0NG01bVBMMVhQbEtELWRDRzBTelJSSUZxaHZzdTAyclRIdTNnMFZ2MGc?oc=5",
+      "dateLocation": "October 22, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UK restarts large-calibre weapon manufacturing after decades",
-      "brief": "In a major defense push, the United Kingdom has officially resumed domestic manufacturing of large-calibre military weapons for the first time in twenty years to bolster security capabilities.",
+      "headline": "Merck and Moderna Cancer Vaccine Cuts Melanoma Risk",
+      "brief": "A combined cancer vaccine developed by Merck and Moderna has demonstrated a 42% reduction in melanoma death or recurrence risk, though company share prices faced short-term volatility following the announcement.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXhsdlctOU15SmpPZm9IX2gzemJrTWstX0h6cTZwQmotNjBGOXdWOUFLa0Nob3NpSmY3cmFZLTZUSFRDS2xXVVNySTJhdDNlZURUV2lmaFJhSkpiS3RuN09LRGlpM2ttQklLeTVzWDhsVVlLc3pibG5fZE93QWIzZHk3bFo5NnBZUHhNanhBbng2bDBMbGZibTVhLVFmY3I5YlkyNi1OeHdfYmdNWXV1RHYxdVRFUlZRdV85TFNsVVIxcHV1NUV6MUpB?oc=5",
+      "dateLocation": "October 22, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India-EU Trade Deal Targeted for Early 2027 Operation",
+      "brief": "India's trade minister announced that ongoing negotiations for a comprehensive India-EU free trade agreement are progressing well, with the pact expected to become fully operational by early 2027.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnBOa2V4YWZERVlSU0FpTmFNX0ZsOUY2ZkJYLWVPX2NJYzVIV20tZmFqY2lfQVBiSWlSYVV3YW1EWm5scmNTSG5CVlVVcnhsLUZZdDVPekRXcTUtbmNJWl9pQUttS2FxdE9qSDlCNm1NZEdmVnpXWm5RR2tDSGQydldpVzJjQ1JVX0RCcGpxczBvMmlZZmhmVk5ha0JGRDM1X1QxXzVzUGxLQ2hSa2dIbEdGb1J3dTRqUDRkWnV3Q0JvNzN3MXVLX1BEclcycHc0bXBv?oc=5",
-      "dateLocation": "2026-10-22 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWEwMEcybTJ3OWxBdV9ENjZCUklWX0NMaW9aM0U0eE1JTnc1ZE1oaS10c2JQZVhBX1o1MmZKR1B2eXJnUEdlNy1qcVRPdXpGY1FxUGRLQkI4dm9kVWNmbk9pVWx3U1VBYWF6cWZOc2FxeXloTERldHhYcjRrRDM4U0VpbXk4Y210RG5qdHZLTFBlaWlUTzhtQk1jc2p6OUlJb01FYVJfX3otV0N5d3lOV181RFN1cXJjazluN09FZ0phUUk?oc=5",
+      "dateLocation": "October 22, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India weighs hardware security monitor for Starlink, others",
-      "brief": "New Delhi is evaluating a proposal to mandate hardware checkpoints for foreign satellite internet providers, including Starlink, to monitor traffic and address domestic security vulnerabilities.",
+      "headline": "At Least Sixteen Dead After 7.0 Earthquake Strikes Tibet",
+      "brief": "A powerful 7.0-magnitude earthquake hit a mountainous region of China's Tibet, leaving at least sixteen people dead and dozens injured, sparking emergency rescue operations across affected communities.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/tibet-earthquake-nagqu-updates-october-22-2026/article71612585.ece",
+      "dateLocation": "October 22, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US Banks Detect Unauthorised AI Agents Accessing Accounts",
+      "brief": "Major US financial institutions, including JPMorgan Chase and Bank of America, have reportedly detected unauthorized artificial intelligence agents attempting to access customer accounts, prompting heightened security measures.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/india-weighs-hardware-security-monitor-to-track-elon-musks-starlink-other-foreign-satellite-internet-operators-report-11792683233642.html",
-      "dateLocation": "2026-10-22 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-banks-allegedly-detect-unauthorised-ai-agents-accessing-customer-accounts-what-to-know-11792691787626.html",
+      "dateLocation": "October 22, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "EU carbon tax policy described as inviting disaster",
-      "brief": "Indian Commerce Minister Piyush Goyal criticized the European Union's Carbon Border Adjustment Mechanism, warning that the incoming levy will inflate local living costs and severely hurt industrial competitiveness.",
+      "headline": "Nine Retired Generals in Diplomatic Roles Stir Pakistan",
+      "brief": "The appointment of nine retired military officers among non-career diplomats has placed Pakistan Army Chief Asim Munir's political influence and strategic personnel choices under intense domestic and international scrutiny.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/nine-retired-generals-in-diplomatic-roles-put-pakistan-army-chief-asim-munirs-influence-under-scrutiny-report-11792692195293.html",
+      "dateLocation": "October 22, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US and Israel Prepare for Strategic Strikes on Iran",
+      "brief": "Military planners in the United States and Israel are reportedly preparing coordinated defense strategies and potential strikes against Iran following upcoming political cycles, as regional tensions continue to escalate.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-prepare-for-fresh-iran-strikes-after-midterms-as-tehran-threatens-with-father-of-all-bombs/articleshow/135106178.cms",
+      "dateLocation": "October 22, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Google CEO Rejects US Request to Rename Atlantic Ocean",
+      "brief": "Following administration requests, Google CEO Sundar Pichai formally declined a proposal to rename the Atlantic Ocean on Google Maps, explaining that digital geography standards cannot accommodate unilateral national alterations.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/after-google-renames-lake-ontario-to-lake-america-in-the-us-ceo-sundar-pichai-says-no-to-us-governments-request-on-changing-name-of-atlantic-ocean-tells-no-no-no-this-time-im-not-doing-it-as-/articleshow/135109037.cms",
+      "dateLocation": "October 22, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BrahMos Aerospace Eyes 1,500-Km Missile Variant by 2028",
+      "brief": "BrahMos Aerospace is scaling up global production capacity and advancing development on the next-generation BrahMos-NG missile, with a conceptual 1,500-kilometer strike variant currently under serious exploration.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/eu-carbon-tax-inviting-disaster-piyush-goyal-cbam-living-costs-11792679997762.html",
-      "dateLocation": "2026-10-22 | Livemint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/brahmos-goes-global-eyes-next-gen-missile-by-2028-1500-km-strike-variant-on-radar/articleshow/135117435.cms",
+      "dateLocation": "October 22, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Magnitude 7.0 earthquake strikes Tibet near Nagqu",
-      "brief": "A powerful 7.0-magnitude earthquake struck northern Tibet near Nagqu at a shallow depth of ten kilometres, prompting emergency evaluations across the high-altitude region.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/earthquake-today-magnitude-7-quake-strikes-tibet-in-china-epicentre-near-nagqu-11792682520959.html",
-      "dateLocation": "2026-10-22 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran claims oil tankers damaged in Strait of Hormuz",
-      "brief": "Iranian authorities reported that seven oil tankers sustained severe damage from maritime incidents in the Strait of Hormuz, escalating regional shipping security concerns.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-7-oil-tankers-damaged-in-hormuz-warns-strikes-on-bases-if-us-facilitates-passage/articleshow/135118476.cms",
-      "dateLocation": "2026-10-22 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Farm outfits write to President demanding CEC resignation",
-      "brief": "Samyukt Kisan Morcha and various trade unions have formally written to the President demanding the resignation of the Chief Election Commissioner, announcing nationwide protest rallies.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/farm-outfits-write-to-president-demanding-cecs-gyanesh-kumar-resignation/article71612331.ece",
-      "dateLocation": "2026-10-22 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Hyderabad to host sickle cell and thalassemia congress",
-      "brief": "Medical experts and researchers from around the globe are gathering in Hyderabad for a three-day specialized congress focusing on advancements in treating sickle cell disease and thalassemia.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-to-host-three-day-congress-on-sickle-cell-disease-thalassemia-from-october-23/article71612620.ece",
-      "dateLocation": "2026-10-22 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rowghat gets first train service since independence",
-      "brief": "Indian Railways completed a major infrastructural milestone by opening a new railway line in Chhattisgarh, bringing the first-ever train to the remote area of Rowghat since independence.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/rowghat-gets-first-train-since-independence-as-indian-railways-completes-1-628-crore-rail-line-in-chhattisgarh-11792685128205.html",
-      "dateLocation": "2026-10-22 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India rate panel flags more hikes amid inflation risks",
-      "brief": "Minutes from India's rate-setting panel indicate members remain open to further interest rate hikes if inflationary pressures persist, though they caution against an excessively aggressive cycle.",
+      "headline": "Reserve Bank of India Signals Two More Rate Hikes",
+      "brief": "Minutes from the Reserve Bank of India's monetary policy committee indicate that persistent inflationary pressures may force policymakers to implement at least two more interest rate hikes in the near future.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGdWZGNpS05rb3hUX0JEdUYzbUcyeHZ3N1diczRRTW9jM1RFb1ZGdDA5cjVWVEZuUE5GRkItTjVEZWxCbHlTZHRRMW1FeUoxT1pTUWEzZGJVX0hYbFl5RjNKWDdTNjJFOUt4UGV2dTh4MXo0WDVaa2FrcWdWVzRvSWZaX054YllzOG9ZVlI5OVFuMHZYaFpudkVyVFJNZE4yWlFlMF9QZHU3UTdUZnBtQXJ5ZVRxZU0?oc=5",
-      "dateLocation": "2026-10-22 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135126768.cms",
+      "dateLocation": "October 22, 2026 | The Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Swiggy Narrows Losses While Revenue Climbs",
-      "brief": "Food delivery and quick-commerce major Swiggy reported a narrowed quarterly net loss alongside a solid year-on-year surge in overall operating revenues, according to its latest financial filings.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms",
-      "dateLocation": "2026-10-22 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Mark Zuckerberg Threatens California Exit Over Wealth Tax",
+      "brief": "Meta CEO Mark Zuckerberg has threatened to relocate operations outside California in response to a proposed five billion dollar billionaire tax, as Meta introduces new share classes to protect corporate governance.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/mark-zuckerberg-threatens-to-leave-california-over-5-billionaire-tax-meta-creates-new-class-c-shares-to-help-him-stay/articleshow/135124383.cms",
+      "dateLocation": "October 22, 2026 | The Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BrahMos missile developer outlines 1,500-km range roadmap",
-      "brief": "The BrahMos chief announced plans for an advanced missile prototype by 2027-2028, setting a strategic roadmap to achieve an extended operational range of up to 1,500 kilometres.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/brahmos-ng-prototype-by-2027-28-1500-km-range-missile-on-future-roadmap-brahmos-chief/articleshow/135117000.cms",
-      "dateLocation": "2026-10-22 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Sonam Wangchuk Demands Full Statehood for Ladakh Region",
+      "brief": "Activist Sonam Wangchuk accused the central government of backtracking on prior commitments regarding autonomous governance, renewing strong public demands for full statehood and constitutional safeguards for Ladakh.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sonam-wangchuk-accuses-centre-of-betraying-ladakh-groups-alleges-backtracking-on-may-understanding/articleshow/135125435.cms",
+      "dateLocation": "October 22, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
