@@ -1,68 +1,124 @@
 {
-  "lastUpdated": "2026-10-22T11:07:21.196Z",
+  "lastUpdated": "2026-10-22T16:35:36.782Z",
   "ticker": [
-    "Jio IPO fully subscribed by retail investors on day two",
-    "Saudi Arabia drone strike hits Dammam airport facilities",
-    "Barclays plans to cut 5,000 jobs in AI cost drive",
-    "India's Mideast oil imports return to pre-war levels",
-    "LSEG announces multi-billion dollar Octus data acquisition"
+    "Magnitude 7.0 earthquake strikes northern Tibet",
+    "Iran claims oil tankers damaged in Hormuz",
+    "Barclays to cut 5,000 jobs in AI drive",
+    "India weighs hardware monitor for Starlink",
+    "Pirelli and Balkrishna strike India production deal"
   ],
   "articles": [
     {
-      "headline": "Retail Investors Fully Subscribe Ambani's Jio IPO",
-      "brief": "Jio Platforms' massive initial public offering achieved full subscription from retail investors on its second day, driven by overwhelming market demand and strong overall bidding momentum.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRBTGhtenZpM1ZROFA5dGhIQVdPUzhQRkFJaldfZXNNT2VYRExqeVJRSkROVG1xWHRTOTM1Zk1kRWtudERNSExvNnhmbFZKWnZRaVZBMV9iSzBFU3FkTGFYX2FzeEZvY0pENjdrdmVvcHF5RzEwcklOaHdZdFprVnRwOUsxSFJwWFBzekpId01Vd3M4QTgxYklnUVJERUFocWdkNFBFUmlBUUE?oc=5",
-      "dateLocation": "2026-10-22 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Barclays to Cut 5,000 Jobs in AI Cost Drive",
-      "brief": "British banking giant Barclays has announced plans to eliminate 5,000 positions this year as part of a sweeping operational restructure powered by artificial intelligence automation and cost-cutting initiatives.",
+      "headline": "Pirelli and Balkrishna strike India tyre production deal",
+      "brief": "Pirelli has partnered with Balkrishna Industries to launch a new tyre production venture in India, expanding their manufacturing footprint in the region to cater to growing local and international demand.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnpycDlZTWVVLTN4MW5nX2gydHZsVU5iZXlqdVktS3J0d1A2Slp3U1VOWng3bGdla19QV1FQbnpOZVdpV3FLUFh5UUx3dldxR3dLZEhPcWlRZG1qQjZJb2FBQXZINlFHbUE0MjB2Z0lvbjlyUGNXSUdfNG9VdVc0d1I4dHFaZXFjeHF6RVZwYW5hZFl4aWc?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5",
       "dateLocation": "2026-10-22 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "LSEG to Acquire Octus in Major Data Deal",
-      "brief": "London Stock Exchange Group has agreed to purchase Octus in a $3.5 billion mega data analytics transaction designed to expand its global financial terminal offerings and technological capabilities.",
+      "headline": "Barclays to cut 5,000 jobs in AI-powered cost drive",
+      "brief": "British banking giant Barclays has announced plans to eliminate 5,000 positions this year as part of an aggressive, technology-driven restructuring aimed at streamlining operations and integrating automated processes.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnpycDlZTWVVLTN4MW5nX2gydHZsVU5iZXlqdVktS3J0d1A2Slp3U1VOWng3bGdla19QV1FQbnpOZVdpV3FLUFh5UUx3dldxR3dLZEhPcWlRZG1qQjZJb2FBQXZINlFHbUE0MjB2Z0lvbjlyUGNXSUdfNG9VdVc0d1I4dHFaZXFjeHF6RVZwYW5hZFl4aWc?oc=5",
+      "dateLocation": "2026-10-22 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Nokia third-quarter profit beats forecasts on AI sales",
+      "brief": "Nokia reported a stronger-than-expected third-quarter profit, bolstered by surging demand for artificial intelligence-driven network infrastructure and telecommunications equipment across global markets.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlhBWjdBekVLajlGM3MwN1ZnWjRRMGR5OWxkalNveEVuNEJrUTBVOFBNM0x1dENhckFRUzFzMnh6VHVJd2dHMXFLa1ZGdkU4Qk1hUTRuYU9MRGJmcnJXNjRnOWEzdW83cktMemxLYUdyX0F5bTJfSTZFOU1wclRsWlkwRkdodHBEeG1qVW5GUFRsVXBsV05ScEdjbTJHNDg?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVJKZzR0bmhsQlBZTnVkcjV6VmVjU1lXeTFGQUl0NzkwLVNJbWN5NF9iOG54ODJhSlhaTUg3cU9vZUxscGk5RjhEMUV5NHhwZXBVVXZfc3RBelNtSWg2R1dYZW5iSDB2U2VOT1hXMk5EbXpzTHdTNEdIeGlUbXR0eG9wREdBbUJCTUZBM2V3b0VoUnJt?oc=5",
       "dateLocation": "2026-10-22 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Mideast Oil Imports Return to Normal",
-      "brief": "India's crude oil imports from the Middle East recovered fully to pre-war baseline levels in September, signaling stability in regional supply chains despite ongoing geopolitical maritime tensions.",
+      "headline": "UK restarts large-calibre weapon manufacturing after decades",
+      "brief": "In a major defense push, the United Kingdom has officially resumed domestic manufacturing of large-calibre military weapons for the first time in twenty years to bolster security capabilities.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRl9GVUFVbTBqSFIzbnJpZmJ0c3Q5ZFJlQ0hQUkkwZW5aVDdVWTMwczBlRFRTbF9zM0NNODcyWG9PUTg5WXZKOXRfSUdJSXhHM1FPcFhUOTVmb0pIUHh5Rl9tYldSWDd1all5UV9fV2VMSmNxSUU4anJpUVVvMkFadHpQcmwxdFhRSHlvSXhpMEY1bXNkV2NnUnVNelltUHVRQjFzWE14TWZVVnhrRndv?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnBOa2V4YWZERVlSU0FpTmFNX0ZsOUY2ZkJYLWVPX2NJYzVIV20tZmFqY2lfQVBiSWlSYVV3YW1EWm5scmNTSG5CVlVVcnhsLUZZdDVPekRXcTUtbmNJWl9pQUttS2FxdE9qSDlCNm1NZEdmVnpXWm5RR2tDSGQydldpVzJjQ1JVX0RCcGpxczBvMmlZZmhmVk5ha0JGRDM1X1QxXzVzUGxLQ2hSa2dIbEdGb1J3dTRqUDRkWnV3Q0JvNzN3MXVLX1BEclcycHc0bXBv?oc=5",
       "dateLocation": "2026-10-22 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Karnataka Plans 200 Cochlear Implants for Children",
-      "brief": "The Karnataka government has announced an ambitious healthcare initiative targeting 200 cochlear implant surgeries for children suffering from severe hearing loss under the state's specialized welfare programs.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-plans-200-cochlear-implants-for-children-with-hearing-loss/article71611044.ece",
-      "dateLocation": "2026-10-22 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "India weighs hardware security monitor for Starlink, others",
+      "brief": "New Delhi is evaluating a proposal to mandate hardware checkpoints for foreign satellite internet providers, including Starlink, to monitor traffic and address domestic security vulnerabilities.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/india-weighs-hardware-security-monitor-to-track-elon-musks-starlink-other-foreign-satellite-internet-operators-report-11792683233642.html",
+      "dateLocation": "2026-10-22 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Amit Shah Vows NDA Victory in Upcoming Punjab Polls",
-      "brief": "Union Home Minister Amit Shah slammed the opposition during a high-profile visit, asserting that ongoing protests will fail and predicting the NDA will form the next government in Punjab.",
+      "headline": "EU carbon tax policy described as inviting disaster",
+      "brief": "Indian Commerce Minister Piyush Goyal criticized the European Union's Carbon Border Adjustment Mechanism, warning that the incoming levy will inflate local living costs and severely hurt industrial competitiveness.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/eu-carbon-tax-inviting-disaster-piyush-goyal-cbam-living-costs-11792679997762.html",
+      "dateLocation": "2026-10-22 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Magnitude 7.0 earthquake strikes Tibet near Nagqu",
+      "brief": "A powerful 7.0-magnitude earthquake struck northern Tibet near Nagqu at a shallow depth of ten kilometres, prompting emergency evaluations across the high-altitude region.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/earthquake-today-magnitude-7-quake-strikes-tibet-in-china-epicentre-near-nagqu-11792682520959.html",
+      "dateLocation": "2026-10-22 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran claims oil tankers damaged in Strait of Hormuz",
+      "brief": "Iranian authorities reported that seven oil tankers sustained severe damage from maritime incidents in the Strait of Hormuz, escalating regional shipping security concerns.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/punjab/amit-shah-slams-opposition-says-protests-will-achieve-nothing-nda-will-form-next-government-in-punjab/article71611170.ece",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-7-oil-tankers-damaged-in-hormuz-warns-strikes-on-bases-if-us-facilitates-passage/articleshow/135118476.cms",
+      "dateLocation": "2026-10-22 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Farm outfits write to President demanding CEC resignation",
+      "brief": "Samyukt Kisan Morcha and various trade unions have formally written to the President demanding the resignation of the Chief Election Commissioner, announcing nationwide protest rallies.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/farm-outfits-write-to-president-demanding-cecs-gyanesh-kumar-resignation/article71612331.ece",
       "dateLocation": "2026-10-22 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Transport Ministry Plans Automatic ADAS Mandate",
-      "brief": "Union Minister Nitin Gadkari revealed transport ministry plans to mandate advanced driver assistance systems and automated emergency braking features across all passenger cars manufactured starting in 2030.",
+      "headline": "Hyderabad to host sickle cell and thalassemia congress",
+      "brief": "Medical experts and researchers from around the globe are gathering in Hyderabad for a three-day specialized congress focusing on advancements in treating sickle cell disease and thalassemia.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-to-host-three-day-congress-on-sickle-cell-disease-thalassemia-from-october-23/article71612620.ece",
+      "dateLocation": "2026-10-22 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Rowghat gets first train service since independence",
+      "brief": "Indian Railways completed a major infrastructural milestone by opening a new railway line in Chhattisgarh, bringing the first-ever train to the remote area of Rowghat since independence.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/roadways/automatic-adas-breaking-in-all-cars-nitin-gadkaris-transport-ministry-plans-advanced-emergency-braking-system-from-2030/articleshow/135111333.cms",
+      "sourceUrl": "https://www.livemint.com/news/india/rowghat-gets-first-train-since-independence-as-indian-railways-completes-1-628-crore-rail-line-in-chhattisgarh-11792685128205.html",
+      "dateLocation": "2026-10-22 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India rate panel flags more hikes amid inflation risks",
+      "brief": "Minutes from India's rate-setting panel indicate members remain open to further interest rate hikes if inflationary pressures persist, though they caution against an excessively aggressive cycle.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGdWZGNpS05rb3hUX0JEdUYzbUcyeHZ3N1diczRRTW9jM1RFb1ZGdDA5cjVWVEZuUE5GRkItTjVEZWxCbHlTZHRRMW1FeUoxT1pTUWEzZGJVX0hYbFl5RjNKWDdTNjJFOUt4UGV2dTh4MXo0WDVaa2FrcWdWVzRvSWZaX054YllzOG9ZVlI5OVFuMHZYaFpudkVyVFJNZE4yWlFlMF9QZHU3UTdUZnBtQXJ5ZVRxZU0?oc=5",
+      "dateLocation": "2026-10-22 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Swiggy Narrows Losses While Revenue Climbs",
+      "brief": "Food delivery and quick-commerce major Swiggy reported a narrowed quarterly net loss alongside a solid year-on-year surge in overall operating revenues, according to its latest financial filings.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms",
       "dateLocation": "2026-10-22 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BrahMos missile developer outlines 1,500-km range roadmap",
+      "brief": "The BrahMos chief announced plans for an advanced missile prototype by 2027-2028, setting a strategic roadmap to achieve an extended operational range of up to 1,500 kilometres.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/brahmos-ng-prototype-by-2027-28-1500-km-range-missile-on-future-roadmap-brahmos-chief/articleshow/135117000.cms",
+      "dateLocation": "2026-10-22 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
