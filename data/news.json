@@ -1,124 +1,92 @@
 {
-  "lastUpdated": "2026-10-24T10:15:11.057Z",
+  "lastUpdated": "2026-10-24T15:20:56.784Z",
   "ticker": [
-    "IRGC claims Strait of Hormuz control",
-    "Magnitude 7.2 earthquake hits Vanuatu",
-    "North Korea's Kim visits China",
-    "Amazon cloud capacity sold out",
-    "France luxury stores board up"
+    "Iran claims control of Strait of Hormuz amid tanker crisis",
+    "Magnitude 7.2 earthquake strikes near Vanuatu",
+    "Kotak Mahindra Bank Q2 profit rises 29%",
+    "France deploys 70,000 police amid massive protests",
+    "Saudi-led coalition intercepts Houthi ballistic missiles"
   ],
   "articles": [
     {
-      "headline": "France luxury stores board up windows for protests",
-      "brief": "Luxury retailers across France are boarding up their display windows as authorities prepare for a fresh wave of nationwide demonstrations and potential civil unrest.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVE0ZlA5bnVuVmxqWWR3cUpqbFlCTWxJUEpFbmt3ZnVDM2tVa0duYVZZcTN6NFk2RWJ0NjVRRkwyWkxkRnFHeFJ5Uk9EVUVxc2E5NEdVUEQ5elNvQUdYcXRSNHZYQzAtaFZUTVBiTUt1WGlqc2I2d2ZIODZXQlFKQXg5RkRzRm84dUhkaHJhdEtoaTluVDVIWV9GVkF4eHExNkt6U1pid1RaaUJ5aTVUX0xoXzZzMFNJcHhvbA?oc=5",
-      "dateLocation": "October 24, 2026 | Paris, France",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Scotch probe threatens trade pact benefits",
-      "brief": "A trade group warns that India's ongoing investigation into Scotch whisky producers Diageo and Pernod Ricard could undermine the mutual benefits of the budding India-UK trade pact.",
+      "headline": "Kotak Mahindra Bank Reports Strong Q2 Growth",
+      "brief": "Kotak Mahindra Bank posted a 29% rise in Q2 net profit, beating analyst estimates, driven by strong net interest income and healthy lending growth across key segments.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjBQY3BDTHZ4N3UxczhFaWJMRzViZ3BkX3loejc4QUFEdnF1WUREYW5ZT0NhTFgyMTdNWjR1b1l5dncyd2lFOURRVEMtOW9YUVdqN3lfRm5Mb0dkcHZqMDE0VmlPX1hpSUM1SXpzeFR0T095QU9Mb2w4SXZldTZkYWpMLVRQZkFfWGtIbTBxQlJJVjYxWmxHclp0TEtMdHNyVDNwaTBVckFmQVdmRnR6Y1lnWkMySy1mMjRrLXhNTGtweEZ6UWJB?oc=5",
-      "dateLocation": "October 24, 2026 | New Delhi, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0plbzI1SGJsanpnTUpVU2lBUHBLczJtTXFFQnI4aGhVR3Z0aXhReXlpWGtIWFBMV3BSWUpkOW9FWGltNXBOdVA2Mi1CUHdNLVNheTJDdXMta2p4WWY2bXo5clRja2JwSjQ0cndEOFhEem5Fb3NUVjE5emVkRHZ6QTdxNDVabWhmTlhpZjdpSENVS3RqNW8zeGVRUE9LUFZsUWc?oc=5",
+      "dateLocation": "2026-10-24 | Mumbai",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "North Korea's Kim Jong Un visits China",
-      "brief": "North Korean leader Kim Jong Un has crossed the border into China via the Dandong bridge, according to a senior South Korean official tracking regional diplomatic movements.",
+      "headline": "Road Ministry Seeks Forensic Audit After Data Leak",
+      "brief": "The Ministry of Road Transport and Highways has requested a forensic audit of its digital portals following a major vehicle data leak, seeking intervention to strengthen cybersecurity policies.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece",
+      "dateLocation": "2026-10-24 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Johnson & Johnson Prostate Drug Shrinks Tumors",
+      "brief": "An early-stage clinical trial shows that Johnson & Johnson's experimental prostate cancer drug successfully shrinks tumors, offering new hope for advanced cancer treatment therapies.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
+      "dateLocation": "2026-10-24 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Claims Strait Control After Tanker Explosions",
+      "brief": "Iran claimed control over the Strait of Hormuz after two oil supertankers reportedly struck naval mines, while Tehran warned US warships against entering the Persian Gulf.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
-      "dateLocation": "October 24, 2026 | Seoul, South Korea",
+      "sourceUrl": "https://www.livemint.com/news/world/iran-claims-control-of-strait-of-hormuz-says-2-oil-tankers-hit-mines-warns-us-warships-against-persian-gulf-entry-11792836294358.html",
+      "dateLocation": "2026-10-24 | Tehran",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Magnitude 7.2 earthquake strikes near Vanuatu",
-      "brief": "A powerful magnitude 7.2 earthquake has struck off the coast in the waters near Vanuatu, prompting brief regional tsunami monitoring by international seismic agencies.",
-      "category": "world",
+      "headline": "Magnitude 7.2 Earthquake Strikes Near Vanuatu",
+      "brief": "A powerful magnitude 7.2 earthquake struck the waters near Vanuatu, triggering regional tsunami monitoring systems, though no immediate major damage reports have surfaced.",
+      "category": "general",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm10VC01TjZ1RE14b2NHTUxaUWVoSmJRNGtyMUg4c2R4S1YxbXlmbWlHQkRUYWQ1eWlZVjRvV1oxSDU0X1NEX0lFTUh1UWIyT2M0Y2xISC0wWHpLTWszcWpmNnBUc0JxWVU4ZzJScXZWMGluUVhYNWYxWTY1SmhmMWxDbmY4dHh2VWdCdDQ3MWNpMkswMWJsQmV6UjlMYzBlRmFJS25IUHgzWmJheThyRW5fRldYZ3Q2ZVE?oc=5",
-      "dateLocation": "October 24, 2026 | Washington, USA",
+      "dateLocation": "2026-10-24 | USGS",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "France Deploys 70,000 Police Amid Nationwide Unrest",
+      "brief": "French authorities deployed around 70,000 police officers as thousands took to the streets across major cities to protest living costs and education policies, leading to localized clashes.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/france-unrest-70000-police-officers-tear-gas-fired-as-thousands-take-to-streets-top-developments/articleshow/135169631.cms",
+      "dateLocation": "2026-10-24 | Paris",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saudi Coalition Intercepts Houthi Ballistic Missiles",
+      "brief": "The Saudi-led coalition announced it successfully intercepted multiple Houthi ballistic missiles targeting major Saudi cities, amid an escalation in regional cross-border strikes.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUAZT1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+      "dateLocation": "2026-10-24 | Riyadh",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ambani's Jio IPO draws record seventy billion",
-      "brief": "Reliance's Jio has secured massive investor backing, becoming India's most subscribed initial public offering with an unprecedented seventy-seven billion dollars in bids.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnRMTFMtTUhERkVlZG4zSVcxcm54ODQ5SXo5NGMxNmVZM2RSbjdqTko3NzB4Q053b09iMEJiX3dRd3Rpem9RQ2pDa1dVMFFOZG54WjhLMkdSbHpyQnF6OXpQbDhBd0ExQ0QyRFNXRm93Q0dfUEdCSllQdTBrUVNzRFUzTWc1OVZva3F0YkVDLUdyeEZvNFh1S1VhNVdMZjFDbVVFTDZPUk9MQVVMTEN1ZmRiX3BjaEJDNi00OWlLNDY?oc=5",
-      "dateLocation": "October 24, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Secures Four-Wicket Victory Over New Zealand",
+      "brief": "A stellar batting performance led by Varma helped India secure a hard-fought four-wicket victory against New Zealand in a closely contested limited-overs international cricket match.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHRCVDdiSWdLY054YzhnT2t2NHhNd1dQdHFpaW1PdGJ3VUZBSWIzV0ExdmlEQ0tfcDI4eW90MlU3Y1ZwSXIxSFk1WWxXWWZaY1ZMdGJzQzA3NElPZFR6Z0FGX2x5OUZlRV9JRHlucWJsREdUMDZGa09YTE1BTXJzRVFuazVfRmRlVGN2c2RkbFM2cEJQeU5ZUGJoRWlZd3B0S3VXLTY2cGQyTUY3Si10cjFkT09Bdw?oc=5",
+      "dateLocation": "2026-10-24 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Amazon cloud capacity entirely sold out through 2027",
-      "brief": "Amazon CEO Andy Jassy announced that the company's cloud computing capacity is completely sold out through 2027, driven by intense enterprise demand for data infrastructure.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnprNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpSZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5",
-      "dateLocation": "October 24, 2026 | Seattle, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US telecom shares wobble over SpaceX cellular plans",
-      "brief": "Major American telecommunication operators saw stock volatility following reports that SpaceX is actively in advanced talks regarding direct-to-cell satellite coverage sites.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRl9aOXcyWXhEc3FKR0VIU0Y4NGg3eTlrYWg0N3VIMVJIejJ5N1V3U3RRQllVV1NOaEJ2a2FNcEExNHQ2ZzlOY1NJWFhNR1hVN2F6anR5MjZsRWRpWHBVVXAwOEZ1LUdzbWJCb2RTX0hIaVVodlFKUDhxX0FQT0hlTHB2SEZzRTl2ak1nLXFtNHJnQ0FlRU1wYkNvdXcyc1NvMi1YcVRpc2VRUUVxYjkwakVEMUZOME1yTjFja2JpRTI?oc=5",
-      "dateLocation": "October 24, 2026 | New York, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Seven killed in terror attack at Jordan church",
-      "brief": "Authorities in Jordan report that at least seven people have been killed after armed gunmen opened fire inside a church during what is being classified as a terrorist attack.",
+      "headline": "UK Urges Citizens to Store Three Days Supplies",
+      "brief": "The UK government launched the 'Be Ready' campaign advising citizens to store three days' worth of food, water, and cash at home to prepare for potential emergencies and cyber threats.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dkNkWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
-      "dateLocation": "October 24, 2026 | Amman, Jordan",
+      "sourceUrl": "https://www.livemint.com/news/world/uk-on-emergency-pm-andy-burnham-urges-citizens-to-store-3-days-of-food-water-and-cash-at-home-heres-whats-happening-11792835230974.html",
+      "dateLocation": "2026-10-24 | London",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Russia and Ukraine agree to localized ceasefire",
-      "brief": "In a surprise development, Russian and Ukrainian officials have agreed to a ceasefire in one embattled town and planned formal peace talks for next month.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
-      "dateLocation": "October 24, 2026 | Geneva, Switzerland",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Kerala SMA drug controversy sparks political debate",
-      "brief": "Parents of children suffering from spinal muscular atrophy are protesting a government shift from branded to generic programs, drawing intense political engagement in Kerala.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/what-is-the-controversy-over-the-spinal-muscular-atrophy-drug-in-kerala-explained/article71619503.ece",
-      "dateLocation": "October 24, 2026 | Thiruvananthapuram, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India beats target with 11 crore farmer IDs",
-      "brief": "The central government has successfully issued eleven crore unique farmer identification cards under the AgriStack initiative, beating its initial March 2027 deadline.",
+      "headline": "China Urges US to Halt Investment Curb Expansion",
+      "brief": "Beijing strongly urged Washington to halt its proposed expansion of outbound investment restrictions, warning that protectionist curbs threaten global economic stability and bilateral trade ties.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/centre-beats-march-2027-target-issues-11-crore-unique-farmer-ids-under-agristack/articleshow/135165033.cms",
-      "dateLocation": "October 24, 2026 | New Delhi, India",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/china-urges-united-states-to-halt-proposed-expansion-of-outbound-investment-curbs/articleshow/135172345.cms",
+      "dateLocation": "2026-10-24 | Beijing",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "IRGC claims operational control of Strait of Hormuz",
-      "brief": "Iran's Islamic Revolutionary Guard Corps has claimed full control over the Strait of Hormuz, issuing stern warnings against any US warships entering the Persian Gulf.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/iran-claims-strait-of-hormuz-control-warns-us-warships-against-entering-persian-gulf-amid-fresh-strike-threat/articleshow/135166686.cms",
-      "dateLocation": "October 24, 2026 | Tehran, Iran",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Four Philippine Air Force pilots die in crash",
-      "brief": "Four pilots belonging to the Philippine Air Force have tragically lost their lives during a routine training flight accident, military authorities confirmed.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/four-philippine-air-force-pilots-killed-in-training-accident/articleshow/135164873.cms",
-      "dateLocation": "October 24, 2026 | Manila, Philippines",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "New York charity trains thousands of physicians",
-      "brief": "Founded by grieving parents after a tragic hospital loss, the R Baby Foundation has successfully trained over 6,500 physicians in emergency pediatric medical care.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/in-2006-a-new-york-couple-lost-their-nine-day-old-daughter-in-an-emergency-room-20-years-later-their-foundation-says-it-has-trained-6500-physicians-and-a-joint-charity-gala-has-raised-nearly-2-million/articleshow/135165756.cms",
-      "dateLocation": "October 24, 2026 | New York, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
