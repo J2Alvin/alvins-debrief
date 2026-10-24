@@ -1,92 +1,132 @@
 {
-  "lastUpdated": "2026-10-24T15:20:56.784Z",
+  "lastUpdated": "2026-10-24T20:10:42.972Z",
   "ticker": [
-    "Iran claims control of Strait of Hormuz amid tanker crisis",
-    "Magnitude 7.2 earthquake strikes near Vanuatu",
-    "Kotak Mahindra Bank Q2 profit rises 29%",
-    "France deploys 70,000 police amid massive protests",
-    "Saudi-led coalition intercepts Houthi ballistic missiles"
+    "Iran warns of undersea cable threats",
+    "Andhra Pradesh issues cyclone red alert",
+    "Air India extends Saudi flight suspensions",
+    "France protests trigger major arrests",
+    "Jordan church shooting leaves seven dead"
   ],
   "articles": [
     {
-      "headline": "Kotak Mahindra Bank Reports Strong Q2 Growth",
-      "brief": "Kotak Mahindra Bank posted a 29% rise in Q2 net profit, beating analyst estimates, driven by strong net interest income and healthy lending growth across key segments.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0plbzI1SGJsanpnTUpVU2lBUHBLczJtTXFFQnI4aGhVR3Z0aXhReXlpWGtIWFBMV3BSWUpkOW9FWGltNXBOdVA2Mi1CUHdNLVNheTJDdXMta2p4WWY2bXo5clRja2JwSjQ0cndEOFhEem5Fb3NUVjE5emVkRHZ6QTdxNDVabWhmTlhpZjdpSENVS3RqNW8zeGVRUE9LUFZsUWc?oc=5",
-      "dateLocation": "2026-10-24 | Mumbai",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Road Ministry Seeks Forensic Audit After Data Leak",
-      "brief": "The Ministry of Road Transport and Highways has requested a forensic audit of its digital portals following a major vehicle data leak, seeking intervention to strengthen cybersecurity policies.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece",
-      "dateLocation": "2026-10-24 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Johnson & Johnson Prostate Drug Shrinks Tumors",
-      "brief": "An early-stage clinical trial shows that Johnson & Johnson's experimental prostate cancer drug successfully shrinks tumors, offering new hope for advanced cancer treatment therapies.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
-      "dateLocation": "2026-10-24 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Iran Claims Strait Control After Tanker Explosions",
-      "brief": "Iran claimed control over the Strait of Hormuz after two oil supertankers reportedly struck naval mines, while Tehran warned US warships against entering the Persian Gulf.",
+      "headline": "Iran has detailed plans to hit Gulf undersea cables",
+      "brief": "Officials report that Iran has formulated detailed contingency plans to target critical Gulf undersea communication cables if regional warfare resumes.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/iran-claims-control-of-strait-of-hormuz-says-2-oil-tankers-hit-mines-warns-us-warships-against-persian-gulf-entry-11792836294358.html",
-      "dateLocation": "2026-10-24 | Tehran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Magnitude 7.2 Earthquake Strikes Near Vanuatu",
-      "brief": "A powerful magnitude 7.2 earthquake struck the waters near Vanuatu, triggering regional tsunami monitoring systems, though no immediate major damage reports have surfaced.",
+      "headline": "Seven killed in Jordan church terrorist attack",
+      "brief": "Authorities in Jordan report that seven people were killed after gunmen opened fire at a church in what officials are calling a terrorist attack.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dketsWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Andhra Pradesh braces for severe cyclonic storm",
+      "brief": "Weather experts issue a red alert for 13 districts in Andhra Pradesh as a very severe cyclonic storm approaches, with landfall expected between Bapatla and Vizag.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm10VC01TjZ1RE14b2NHTUxaUWVoSmJRNGtyMUg4c2R4S1YxbXlmbWlHQkRUYWQ1eWlZVjRvV1oxSDU0X1NEX0lFTUh1UWIyT2M0Y2xISC0wWHpLTWszcWpmNnBUc0JxWVU4ZzJScXZWMGluUVhYNWYxWTY1SmhmMWxDbmY4dHh2VWdCdDQ3MWNpMkswMWJsQmV6UjlMYzBlRmFJS25IUHgzWmJheThyRW5fRldYZ3Q2ZVE?oc=5",
-      "dateLocation": "2026-10-24 | USGS",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
+      "dateLocation": "October 24, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "France Deploys 70,000 Police Amid Nationwide Unrest",
-      "brief": "French authorities deployed around 70,000 police officers as thousands took to the streets across major cities to protest living costs and education policies, leading to localized clashes.",
+      "headline": "Violence flares during nationwide protests in France",
+      "brief": "Clashes erupt between protesters and police across major French cities during demonstrations over underfunded education and rising living costs, leading to widespread arrests.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/france-unrest-70000-police-officers-tear-gas-fired-as-thousands-take-to-streets-top-developments/articleshow/135169631.cms",
-      "dateLocation": "2026-10-24 | Paris",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Coalition Intercepts Houthi Ballistic Missiles",
-      "brief": "The Saudi-led coalition announced it successfully intercepted multiple Houthi ballistic missiles targeting major Saudi cities, amid an escalation in regional cross-border strikes.",
+      "headline": "Ukraine reports Starlink normal amidst US involvement",
+      "brief": "Ukraine states Starlink services have returned to normal following previous disruptions, as reports emerge detailing long-standing US government requests for network modifications.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "American Express lifts profit forecast and slashes workforce",
+      "brief": "Financial services giant American Express raises its 2026 profit forecast while announcing a strategic plan to reduce its global workforce by five percent.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeldMNkpFRVBpTW1jQjdoSVBaMFg3VzVvUkZ3X2hqNmp0VjZwamlOQkxGLTlOTFQxUFVOc01wU0NhRFJESDBYTTlTZXFNUFNpQ0NVd0lSQXJEcmpoVlVLNkZnMWRhSmRrak5uajBkbFpmOUV2bnQ2V1NEdWdEdmJORDFySVlodDYtTFdVbjR0S3IzVjQyVUN3Z0Y1NEh6U3otM2c0QmZ5RlNQYkt0c1JLVkpkVGVNZnR2RkpJZGpZZw?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Air India and IndiGo extend Saudi flight suspensions",
+      "brief": "Major Indian carriers extend the suspension of flights to key Saudi Arabian destinations including Riyadh, Dammam, and Jeddah amid regional safety concerns.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/riyadh-dammam-jeddah-flights-hit-air-india-indigo-extend-suspensions-akasa-follows-suit/articleshow/135175659.cms",
+      "dateLocation": "October 24, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UK advises citizens to maintain emergency household supplies",
+      "brief": "The United Kingdom government issues official guidance advising members of the public to keep at least three days of emergency supplies stored at home.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmRBVlhXaFdmTFBac29hb2o0NWNXRlJsYWRNYUJKeWtPLWN1c3FqcVh6RWhsemJPeFFzZThhM0dUWnNRTVFoWlNxemgtcGVfTnNBYy1vNlF1aEc0QU44Zy1KdVhiNGstRFFOU0JqVk1XMzFrQ1RTcUJvNmcwYVo5RUI1bkZBTFFDUERMYlRLdXh0VFU1Z0p0UlRySjk2QkxhX2Mya3NPaEw5TFR2b0o0T0VpWlRJRjJZTUE?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Hacking attempts surge as PHP vulnerabilities require patching",
+      "brief": "Cybersecurity firms report a sharp surge in automated hacking attempts as global corporations and governments race to patch critical PHP software flaws.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan faces severe LPG crisis as border trade halts",
+      "brief": "Pakistan's domestic energy crisis escalates as liquefied petroleum gas prices surge and hundreds of cargo trucks remain stranded at closed Iranian border crossings.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/world/pakistans-lpg-crisis-deepens-as-prices-hit-600-pkr-kg-hundreds-of-trucks-stranded-at-iran-border-11792856462903.html",
+      "dateLocation": "October 24, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ashoke Sen wins 2026 Oskar Klein Medal for physics",
+      "brief": "Renowned Indian physicist Ashoke Sen becomes the first Indian to receive the prestigious Oskar Klein Medal for his pioneering contributions to string theory and black-hole physics.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/who-is-ashoke-sen-indian-physicist-honoured-with-2026-oskar-klein-medal-for-pioneering-work-on-string-theory-11792837880651.html",
+      "dateLocation": "October 24, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "BJP criticizes Farooq Abdullah over Kashmir remarks",
+      "brief": "Bharatiya Janata Party leaders launch a fierce political attack against Farooq Abdullah, condemning his recent comments regarding Pakistan's role in protecting Kashmiris.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/act-of-treason-bjp-slams-farooq-abdullah-over-claim-pakistan-is-protecting-kashmiris/articleshow/135173056.cms",
+      "dateLocation": "October 24, 2026 | The Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "North Korean leader Kim crosses bridge into China",
+      "brief": "North Korean leader Kim Jong Un crosses a newly opened border bridge into China to meet officials as bilateral trade ties continue to strengthen.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUAZT1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
-      "dateLocation": "2026-10-24 | Riyadh",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Secures Four-Wicket Victory Over New Zealand",
-      "brief": "A stellar batting performance led by Varma helped India secure a hard-fought four-wicket victory against New Zealand in a closely contested limited-overs international cricket match.",
+      "headline": "Rahane omits Virat Kohli from all-time Test XI",
+      "brief": "Indian cricketer Ajinkya Rahane excludes star batter Virat Kohli from his personal selection of an all-time India Test cricket playing eleven.",
       "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHRCVDdiSWdLY054YzhnT2t2NHhNd1dQdHFpaW1PdGJ3VUZBSWIzV0ExdmlEQ0tfcDI4eW90MlU3Y1ZwSXIxSFk1WWxXWWZaY1ZMdGJzQzA3NElPZFR6Z0FGX2x5OUZlRV9JRHlucWJsREdUMDZGa09YTE1BTXJzRVFuazVfRmRlVGN2c2RkbFM2cEJQeU5ZUGJoRWlZd3B0S3VXLTY2cGQyTUY3Si10cjFkT09Bdw?oc=5",
-      "dateLocation": "2026-10-24 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/no-virat-kohli-rohit-sharma-in-rahanes-all-time-india-test-xi-picks-dravid-tendulkar-and-dhoni/articleshow/135174571.cms",
+      "dateLocation": "October 24, 2026 | The Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UK Urges Citizens to Store Three Days Supplies",
-      "brief": "The UK government launched the 'Be Ready' campaign advising citizens to store three days' worth of food, water, and cash at home to prepare for potential emergencies and cyber threats.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/uk-on-emergency-pm-andy-burnham-urges-citizens-to-store-3-days-of-food-water-and-cash-at-home-heres-whats-happening-11792835230974.html",
-      "dateLocation": "2026-10-24 | London",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Urges US to Halt Investment Curb Expansion",
-      "brief": "Beijing strongly urged Washington to halt its proposed expansion of outbound investment restrictions, warning that protectionist curbs threaten global economic stability and bilateral trade ties.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/china-urges-united-states-to-halt-proposed-expansion-of-outbound-investment-curbs/articleshow/135172345.cms",
-      "dateLocation": "2026-10-24 | Beijing",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Tagenarine praises father's guidance in cricket career",
+      "brief": "West Indian cricketer Tagenarine opens up about his professional development, highlighting the crucial mentorship and motivation provided by his father.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/my-father-pushes-me-to-become-a-better-player-says-tagenarine/article71621319.ece",
+      "dateLocation": "October 24, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
