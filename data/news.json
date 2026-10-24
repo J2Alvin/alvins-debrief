@@ -1,131 +1,75 @@
 {
-  "lastUpdated": "2026-10-23T16:25:22.013Z",
+  "lastUpdated": "2026-10-24T03:10:50.392Z",
   "ticker": [
-    "Infosys cuts forecast amid AI shift",
-    "Ambani's Jio sets IPO record",
-    "AmEx to cut 5% of workforce",
-    "India becomes top arms exporter",
-    "RBI warns of AI cyber risks"
+    "US and Iran Signal Potential Major Military Escalation",
+    "Infosys Cuts Forecast Amid North American AI Slowdown",
+    "Jordan Church Shooting Leaves Seven Dead in Karak",
+    "Amazon Cloud Capacity Completely Sold Out Through 2027",
+    "Russia and Ukraine Agree to Local Humanitarian Ceasefire"
   ],
   "articles": [
     {
-      "headline": "Infosys Cuts Revenue Forecast on North American AI Slowdown",
-      "brief": "Infosys has lowered its annual revenue growth guidance following a deeper-than-expected slowdown in North America, as corporate spending shifts aggressively toward artificial intelligence technologies, impacting traditional IT service demand.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSW50UXhIb0ltNzNLV2piN1NQWGlud3p2YWJSMFZGYXE1NjRiSUY5SDdDQmI5UU9rVVBEWjhHWjZFckhKc2luSHhzTE5pSmJudVZmMXUtOG1PSE9XbTZTUVpaZWF1dkQ2R01BMTN3NnFNUmw3cWozalZRS0ZVcnJKOE1abXB5RnFUX1F1RlRoMGNxQW5BWmczbWhNTEQtcXNCTVNrR1pqV2RxRVVaRlZROWtpV28zUUZXTW9Odl9RMnFnQjZfcG1KRklZaWZJSnhQdlFPbGdKT0pUek1DVXpIWTNsWkNKdw?oc=5",
-      "dateLocation": "October 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mark Zuckerberg Says AI Agents Costly and May Not Stay Free",
-      "brief": "Meta CEO Mark Zuckerberg stated that while adoption of the Muse chatbot has surpassed 10 million users, the immense computational expenses of artificial intelligence mean services may eventually require paid subscription models.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-says-meta-is-happy-with-adoption-of-its-chatbot-muse-but-admits-ai-is-expensive-and-company-does-not-plan-to-keep-it-free/articleshow/135143858.cms",
-      "dateLocation": "October 23, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ambani's Jio Secures Record $77 Billion in Indian IPO Bids",
-      "brief": "Reliance Industries' telecom arm Jio has recorded the most subscribed initial public offering in Indian corporate history, pulling in an unprecedented $77 billion in investor bids from global and domestic institutions.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnRMTFMtTUhERkVlZG4zSVcxcm54ODQ5SXo5NGMxNmVZM2RSbjdqTko3NzB4Q053b09iMEJiX3dRd3Rpem9RQ2pDa1dVMFFOZG54WjhLMkdSbHpyQnF6OXpQbDhBd0ExQ0QyRFNXRm93Q0dfUEdCSllQdTBrUVNzRFUzTWc1OVZva3F0YkVDLUdyeEZvNFh1S1VhNVdMZjFDbVVFTDZPUk9MQVVMTEN1ZmRiX3BjaEJDNi00OWlLNDY?oc=5",
-      "dateLocation": "October 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "American Express Lifts Profit Outlook and Announces 5% Workforce Cuts",
-      "brief": "American Express has raised its long-term profit forecast for 2026 while simultaneously announcing plans to reduce its global workforce by 5 percent to streamline operations and adapt to changing macroeconomic pressures.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeldMNkpFRVBpTW1jQjdoSVBaMFg3VzVvUkZ3X2hqNmp0VjZwamlOQkxGLTlOTFQxUFVOc01wU0NhRFJESDBYTTlTZXFNUFNpQ0NVd0lSQXJEcmpoVlVLNkZnMWRhSmRrak5uajBkbFpmOUV2bnQ2V1NEdWdEdmJORDFySVlodDYtTFdVbjR0S3IzVjQyVUN3Z0Y1NEh6U3otM2c0QmZ5RlNQYkt0c1JLVkpkVGVNZnR2RkpJZGpZZw?oc=5",
-      "dateLocation": "October 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court Rules Voters Can Prosecute Electoral Candidates for Concealing Data",
-      "brief": "In a landmark judgment, the Supreme Court of India held that individual voters possess the legal standing to directly prosecute political candidates who conceal essential information in their election affidavits.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-holds-voters-can-prosecute-candidates-for-concealing-information/article71616952.ece",
-      "dateLocation": "October 23, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Congress Submits Seat-Sharing Proposal to Samajwadi Party for UP Polls",
-      "brief": "The Congress party has handed over its initial candidate shortlist to the Samajwadi Party, demanding between 175 and 200 assembly seats as negotiations intensify ahead of the upcoming Uttar Pradesh state elections.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/up-polls-congress-shares-initial-list-with-sp-seeks-175-200-seats/articleshow/135149252.cms",
-      "dateLocation": "October 23, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Fast-Fashion Giant Shein Agrees to $100 Million US FTC Settlement",
-      "brief": "Online retail giant Shein has agreed to a $100 million financial settlement to resolve an ongoing antitrust and consumer protection probe conducted by the United States Federal Trade Commission.",
+      "headline": "Infosys Cuts Forecast Amid North American AI Slowdown",
+      "brief": "Indian IT giant Infosys has lowered its financial forecast, citing a deepening slowdown in North America driven by shifting enterprise spending priorities toward artificial intelligence technologies.",
       "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWdWWnJFN3I3MnZQQzBBRUFVMnBTbkduVklRcFVPbWZVTGFxM2NRbkRtRHlXa2JBdlpnQWMxSkh1WU91clBJQnpqYXItXzAtcTJ5NlFETjRETndtM2VyRGxkaElVREFxRjRfeUdkMzlxR3hYdlZSX1R1LXNRX3dxTUlyYzJNYUp1NGpfOU5mNUQ0YWZ3bE1TOVAxaUk?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Amazon Cloud Capacity Sold Out Through 2027",
+      "brief": "Amazon CEO Andy Jassy revealed that the company's cloud computing capacity is completely sold out through 2027, highlighting unprecedented global demand for digital and AI infrastructure.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnBrNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpRZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Seven Killed in Terrorist Attack at Jordan Church",
+      "brief": "Authorities in Jordan reported that seven people were killed and dozens wounded when gunmen opened fire during a funeral service at a church in the southern city of Karak.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Russia and Ukraine Agree to Local Humanitarian Ceasefire",
+      "brief": "Negotiators from Ukraine, Russia, and the United States reached a deal for a local humanitarian ceasefire in the contested southern town of Oleshky, set to begin on October 27.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Shein Agrees to Pay $100 Million to Settle FTC Probe",
+      "brief": "Fast-fashion retail giant Shein has agreed to a $100 million settlement with the US Federal Trade Commission following an exclusive investigation into its trade and business practices.",
+      "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckp2UlFlZU55ZWd2WS1QR3NMSklGSUMwOThxSl9CX1ZrT1FobWZLYm83TXR6enIwMHpHY1BVd3R5akIzTkk4QjVFQ3F3cmhyQnlucFVCM1ZhejByT25sU0JpYUpsSDR3YjlMRnZXQ1I5eVhGSjRLY3pkLTNVdEt4OWxGQksxR2ROYVYzMFRmbmg0bmd3WUVBYldmUmFvQTFPcS1yeWFIbmhBeUhENmpRWlNvTDJUNTk1RGh0MDJEZlUwUnYyaFJB?oc=5",
-      "dateLocation": "October 23, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "October 24, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tata Motors Returns to Profitability in Q2 Driven by Commercial Vehicles",
-      "brief": "Tata Motors reported a net profit of ₹1,254 crore for the second quarter, bolstered by a 42 percent surge in domestic commercial vehicle sales despite expectations of moderate growth moving forward.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/tata-motors-returns-to-profit-with-1-254-crore-in-q2-earnings-as-cv-sales-rise-42-11792761340678.html",
-      "dateLocation": "October 23, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Concludes Asian Para Games Campaign with 65 Medals",
-      "brief": "Indian athletes wrapped up their impressive run at the Asian Para Games, finishing the multi-sport international competition with a total haul of 65 medals across various disciplines.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/india-end-para-athletics-campaign-with-record-65-medals-in-asian-para-games/articleshow/135149001.cms",
-      "dateLocation": "October 23, 2026 | The Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Pratika Rawal and Shree Charani Lead India to Win Over Zimbabwe",
-      "brief": "Opener Pratika Rawal scored an unbeaten century and bowler Shree Charani claimed four wickets to guide the Indian women's cricket team to a convincing nine-wicket victory over Zimbabwe in the opening ODI.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pratika-rawals-century-shree-charanis-four-for-power-india-to-nine-wicket-win-over-zimbabwe-in-first-wodi/articleshow/135149335.cms",
-      "dateLocation": "October 23, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "J.P. Morgan Projects $22 Billion GLP-1 Market in Emerging Economies",
-      "brief": "A new report from J.P. Morgan estimates that expanding distribution of GLP-1 weight-loss medications across China, India, and Brazil could unlock a massive $22 billion commercial healthcare market by the year 2035.",
+      "headline": "Kenya Announces Second Ebola Death Amid Strict Containment",
+      "brief": "Health authorities in Kenya confirmed a second Ebola death, a close relative of the index patient, while remaining infected individuals continue receiving treatment in secure isolation facilities.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSW50UXhIb0ltNzNLV2piN1NQWGlud3p2YWJSMFZGYXE1NjRiSUY5SDdDQmI5UU9rVVBEWjhHWjZFckhKc2luSHhzTE5pSmJudVZmMXUtOG1PSE9XbTZTUVpaZWF1dkQ2R01BMTN3NnFNUmw3cWozalZRS0ZVcnJKOE1abXB5RnFUX1F1RlRoMGNxQW5BWmczbWhNTEQtcXNCTVNrR1pqV2RxRVVaRlZROWtpV28zUUZXTW9Odl9RMnFnQjZfcG1KRklZaWZJSnhQdlFPbGdKT0pUek1DVXpIWTNsWkNKdw?oc=5",
-      "dateLocation": "October 23, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/international/kenya-announces-2nd-ebola-death-close-relative-of-first-patient/article71618958.ece",
+      "dateLocation": "October 24, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "IIT Bombay Scholar Develops Low-Cost Indoor Air Purifier",
-      "brief": "An academic scholar at IIT Bombay has engineered an affordable air purification prototype starting at ₹2,000, utilizing natural plant fibers and microbes to reduce local particulate air pollution index scores significantly.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/iit-bombay-scholar-builds-low-cost-air-purifier-starting-at-rs-2-000-can-bring-down-aqi-by-85-how-he-did-it-details-11792770404671.html",
-      "dateLocation": "October 23, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "India A Batters Suffer Collapse Against New Zealand A",
+      "brief": "On a grass-covered pitch favoring seam movement, the India A cricket team was bowled out for 113 runs, recording five ducks in a disastrous batting performance against New Zealand A.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/five-ducks-113-all-out-india-a-batters-suffer-horror-show-against-new-zealand-a/articleshow/135160077.cms",
+      "dateLocation": "October 24, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Midterm Elections Pose Crucial Test for Congressional Control",
-      "brief": "With all House seats and key Senate positions up for election on November 3, the upcoming United States midterms serve as a decisive referendum on the legislative agenda of the current presidential administration.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterm-elections-2026-why-its-a-do-or-die-fight-for-trump-the-democracts-explained-in-10-charts/articleshow/134907775.cms",
-      "dateLocation": "October 23, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "White House Announces Melania Trump Brokerage of Local Ceasefire",
-      "brief": "The White House has confirmed that diplomatic interventions led by Melania Trump successfully secured a temporary one-city ceasefire in the contested Ukrainian municipality of Oleshky amidst ongoing regional hostilities.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/impossible-without-my-intervention-melania-trump-secures-russia-ukraine-ceasefire-in-oleshky/articleshow/135148240.cms",
-      "dateLocation": "October 23, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "RBI Governor Warns Financial Institutions of Emerging AI Cyber Threats",
-      "brief": "Reserve Bank of India Governor has cautioned commercial lenders about sophisticated, artificial intelligence-driven cyber security risks, urging banking institutions to immediately upgrade infrastructural defenses.",
+      "headline": "France to Deploy 70000 Police for Weekend Protests",
+      "brief": "The French government will mobilize 70,000 police officers across major cities as high school student demonstrations over learning conditions merge with broader cost-of-living nationwide protests.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-alert-about-ai-driven-cyber-risks-banks-taking-steps-to-plug-vulnerabilities-governor/articleshow/135149829.cms",
-      "dateLocation": "October 23, 2026 | The Economic Times",
+      "sourceUrl": "https://www.thehindu.com/news/international/france-to-deploy-70000-police-for-fresh-weekend-protests/article71618975.ece",
+      "dateLocation": "October 24, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
