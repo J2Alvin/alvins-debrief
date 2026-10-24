@@ -1,76 +1,124 @@
 {
-  "lastUpdated": "2026-10-24T03:10:50.392Z",
+  "lastUpdated": "2026-10-24T10:15:11.057Z",
   "ticker": [
-    "US and Iran Signal Potential Major Military Escalation",
-    "Infosys Cuts Forecast Amid North American AI Slowdown",
-    "Jordan Church Shooting Leaves Seven Dead in Karak",
-    "Amazon Cloud Capacity Completely Sold Out Through 2027",
-    "Russia and Ukraine Agree to Local Humanitarian Ceasefire"
+    "IRGC claims Strait of Hormuz control",
+    "Magnitude 7.2 earthquake hits Vanuatu",
+    "North Korea's Kim visits China",
+    "Amazon cloud capacity sold out",
+    "France luxury stores board up"
   ],
   "articles": [
     {
-      "headline": "Infosys Cuts Forecast Amid North American AI Slowdown",
-      "brief": "Indian IT giant Infosys has lowered its financial forecast, citing a deepening slowdown in North America driven by shifting enterprise spending priorities toward artificial intelligence technologies.",
+      "headline": "France luxury stores board up windows for protests",
+      "brief": "Luxury retailers across France are boarding up their display windows as authorities prepare for a fresh wave of nationwide demonstrations and potential civil unrest.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWdWWnJFN3I3MnZQQzBBRUFVMnBTbkduVklRcFVPbWZVTGFxM2NRbkRtRHlXa2JBdlpnQWMxSkh1WU91clBJQnpqYXItXzAtcTJ5NlFETjRETndtM2VyRGxkaElVREFxRjRfeUdkMzlxR3hYdlZSX1R1LXNRX3dxTUlyYzJNYUp1NGpfOU5mNUQ0YWZ3bE1TOVAxaUk?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVE0ZlA5bnVuVmxqWWR3cUpqbFlCTWxJUEpFbmt3ZnVDM2tVa0duYVZZcTN6NFk2RWJ0NjVRRkwyWkxkRnFHeFJ5Uk9EVUVxc2E5NEdVUEQ5elNvQUdYcXRSNHZYQzAtaFZUTVBiTUt1WGlqc2I2d2ZIODZXQlFKQXg5RkRzRm84dUhkaHJhdEtoaTluVDVIWV9GVkF4eHExNkt6U1pid1RaaUJ5aTVUX0xoXzZzMFNJcHhvbA?oc=5",
+      "dateLocation": "October 24, 2026 | Paris, France",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Amazon Cloud Capacity Sold Out Through 2027",
-      "brief": "Amazon CEO Andy Jassy revealed that the company's cloud computing capacity is completely sold out through 2027, highlighting unprecedented global demand for digital and AI infrastructure.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnBrNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpRZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Seven Killed in Terrorist Attack at Jordan Church",
-      "brief": "Authorities in Jordan reported that seven people were killed and dozens wounded when gunmen opened fire during a funeral service at a church in the southern city of Karak.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Russia and Ukraine Agree to Local Humanitarian Ceasefire",
-      "brief": "Negotiators from Ukraine, Russia, and the United States reached a deal for a local humanitarian ceasefire in the contested southern town of Oleshky, set to begin on October 27.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Shein Agrees to Pay $100 Million to Settle FTC Probe",
-      "brief": "Fast-fashion retail giant Shein has agreed to a $100 million settlement with the US Federal Trade Commission following an exclusive investigation into its trade and business practices.",
+      "headline": "India Scotch probe threatens trade pact benefits",
+      "brief": "A trade group warns that India's ongoing investigation into Scotch whisky producers Diageo and Pernod Ricard could undermine the mutual benefits of the budding India-UK trade pact.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckp2UlFlZU55ZWd2WS1QR3NMSklGSUMwOThxSl9CX1ZrT1FobWZLYm83TXR6enIwMHpHY1BVd3R5akIzTkk4QjVFQ3F3cmhyQnlucFVCM1ZhejByT25sU0JpYUpsSDR3YjlMRnZXQ1I5eVhGSjRLY3pkLTNVdEt4OWxGQksxR2ROYVYzMFRmbmg0bmd3WUVBYldmUmFvQTFPcS1yeWFIbmhBeUhENmpRWlNvTDJUNTk1RGh0MDJEZlUwUnYyaFJB?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjBQY3BDTHZ4N3UxczhFaWJMRzViZ3BkX3loejc4QUFEdnF1WUREYW5ZT0NhTFgyMTdNWjR1b1l5dncyd2lFOURRVEMtOW9YUVdqN3lfRm5Mb0dkcHZqMDE0VmlPX1hpSUM1SXpzeFR0T095QU9Mb2w4SXZldTZkYWpMLVRQZkFfWGtIbTBxQlJJVjYxWmxHclp0TEtMdHNyVDNwaTBVckFmQVdmRnR6Y1lnWkMySy1mMjRrLXhNTGtweEZ6UWJB?oc=5",
+      "dateLocation": "October 24, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Kenya Announces Second Ebola Death Amid Strict Containment",
-      "brief": "Health authorities in Kenya confirmed a second Ebola death, a close relative of the index patient, while remaining infected individuals continue receiving treatment in secure isolation facilities.",
+      "headline": "North Korea's Kim Jong Un visits China",
+      "brief": "North Korean leader Kim Jong Un has crossed the border into China via the Dandong bridge, according to a senior South Korean official tracking regional diplomatic movements.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
+      "dateLocation": "October 24, 2026 | Seoul, South Korea",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Magnitude 7.2 earthquake strikes near Vanuatu",
+      "brief": "A powerful magnitude 7.2 earthquake has struck off the coast in the waters near Vanuatu, prompting brief regional tsunami monitoring by international seismic agencies.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm10VC01TjZ1RE14b2NHTUxaUWVoSmJRNGtyMUg4c2R4S1YxbXlmbWlHQkRUYWQ1eWlZVjRvV1oxSDU0X1NEX0lFTUh1UWIyT2M0Y2xISC0wWHpLTWszcWpmNnBUc0JxWVU4ZzJScXZWMGluUVhYNWYxWTY1SmhmMWxDbmY4dHh2VWdCdDQ3MWNpMkswMWJsQmV6UjlMYzBlRmFJS25IUHgzWmJheThyRW5fRldYZ3Q2ZVE?oc=5",
+      "dateLocation": "October 24, 2026 | Washington, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ambani's Jio IPO draws record seventy billion",
+      "brief": "Reliance's Jio has secured massive investor backing, becoming India's most subscribed initial public offering with an unprecedented seventy-seven billion dollars in bids.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnRMTFMtTUhERkVlZG4zSVcxcm54ODQ5SXo5NGMxNmVZM2RSbjdqTko3NzB4Q053b09iMEJiX3dRd3Rpem9RQ2pDa1dVMFFOZG54WjhLMkdSbHpyQnF6OXpQbDhBd0ExQ0QyRFNXRm93Q0dfUEdCSllQdTBrUVNzRFUzTWc1OVZva3F0YkVDLUdyeEZvNFh1S1VhNVdMZjFDbVVFTDZPUk9MQVVMTEN1ZmRiX3BjaEJDNi00OWlLNDY?oc=5",
+      "dateLocation": "October 24, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Amazon cloud capacity entirely sold out through 2027",
+      "brief": "Amazon CEO Andy Jassy announced that the company's cloud computing capacity is completely sold out through 2027, driven by intense enterprise demand for data infrastructure.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnprNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpSZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5",
+      "dateLocation": "October 24, 2026 | Seattle, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "US telecom shares wobble over SpaceX cellular plans",
+      "brief": "Major American telecommunication operators saw stock volatility following reports that SpaceX is actively in advanced talks regarding direct-to-cell satellite coverage sites.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRl9aOXcyWXhEc3FKR0VIU0Y4NGg3eTlrYWg0N3VIMVJIejJ5N1V3U3RRQllVV1NOaEJ2a2FNcEExNHQ2ZzlOY1NJWFhNR1hVN2F6anR5MjZsRWRpWHBVVXAwOEZ1LUdzbWJCb2RTX0hIaVVodlFKUDhxX0FQT0hlTHB2SEZzRTl2ak1nLXFtNHJnQ0FlRU1wYkNvdXcyc1NvMi1YcVRpc2VRUUVxYjkwakVEMUZOME1yTjFja2JpRTI?oc=5",
+      "dateLocation": "October 24, 2026 | New York, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Seven killed in terror attack at Jordan church",
+      "brief": "Authorities in Jordan report that at least seven people have been killed after armed gunmen opened fire inside a church during what is being classified as a terrorist attack.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dkNkWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
+      "dateLocation": "October 24, 2026 | Amman, Jordan",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Russia and Ukraine agree to localized ceasefire",
+      "brief": "In a surprise development, Russian and Ukrainian officials have agreed to a ceasefire in one embattled town and planned formal peace talks for next month.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+      "dateLocation": "October 24, 2026 | Geneva, Switzerland",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Kerala SMA drug controversy sparks political debate",
+      "brief": "Parents of children suffering from spinal muscular atrophy are protesting a government shift from branded to generic programs, drawing intense political engagement in Kerala.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/international/kenya-announces-2nd-ebola-death-close-relative-of-first-patient/article71618958.ece",
-      "dateLocation": "October 24, 2026 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/what-is-the-controversy-over-the-spinal-muscular-atrophy-drug-in-kerala-explained/article71619503.ece",
+      "dateLocation": "October 24, 2026 | Thiruvananthapuram, India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India A Batters Suffer Collapse Against New Zealand A",
-      "brief": "On a grass-covered pitch favoring seam movement, the India A cricket team was bowled out for 113 runs, recording five ducks in a disastrous batting performance against New Zealand A.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/five-ducks-113-all-out-india-a-batters-suffer-horror-show-against-new-zealand-a/articleshow/135160077.cms",
-      "dateLocation": "October 24, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "India beats target with 11 crore farmer IDs",
+      "brief": "The central government has successfully issued eleven crore unique farmer identification cards under the AgriStack initiative, beating its initial March 2027 deadline.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/agriculture/centre-beats-march-2027-target-issues-11-crore-unique-farmer-ids-under-agristack/articleshow/135165033.cms",
+      "dateLocation": "October 24, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "France to Deploy 70000 Police for Weekend Protests",
-      "brief": "The French government will mobilize 70,000 police officers across major cities as high school student demonstrations over learning conditions merge with broader cost-of-living nationwide protests.",
+      "headline": "IRGC claims operational control of Strait of Hormuz",
+      "brief": "Iran's Islamic Revolutionary Guard Corps has claimed full control over the Strait of Hormuz, issuing stern warnings against any US warships entering the Persian Gulf.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/france-to-deploy-70000-police-for-fresh-weekend-protests/article71618975.ece",
-      "dateLocation": "October 24, 2026 | The Hindu",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/iran-claims-strait-of-hormuz-control-warns-us-warships-against-entering-persian-gulf-amid-fresh-strike-threat/articleshow/135166686.cms",
+      "dateLocation": "October 24, 2026 | Tehran, Iran",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Four Philippine Air Force pilots die in crash",
+      "brief": "Four pilots belonging to the Philippine Air Force have tragically lost their lives during a routine training flight accident, military authorities confirmed.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/four-philippine-air-force-pilots-killed-in-training-accident/articleshow/135164873.cms",
+      "dateLocation": "October 24, 2026 | Manila, Philippines",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "New York charity trains thousands of physicians",
+      "brief": "Founded by grieving parents after a tragic hospital loss, the R Baby Foundation has successfully trained over 6,500 physicians in emergency pediatric medical care.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/in-2006-a-new-york-couple-lost-their-nine-day-old-daughter-in-an-emergency-room-20-years-later-their-foundation-says-it-has-trained-6500-physicians-and-a-joint-charity-gala-has-raised-nearly-2-million/articleshow/135165756.cms",
+      "dateLocation": "October 24, 2026 | New York, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
