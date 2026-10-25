@@ -1,132 +1,84 @@
 {
-  "lastUpdated": "2026-10-24T20:10:42.972Z",
+  "lastUpdated": "2026-10-25T03:06:09.234Z",
   "ticker": [
-    "Iran warns of undersea cable threats",
-    "Andhra Pradesh issues cyclone red alert",
-    "Air India extends Saudi flight suspensions",
-    "France protests trigger major arrests",
-    "Jordan church shooting leaves seven dead"
+    "UAE Shuts Beaches Amid Oil Spill",
+    "Andhra Pradesh Braces For Severe Cyclone",
+    "Trump Hints At Fresh Iran Strikes",
+    "France Clashes Erupt During Mass Protests",
+    "Russia Reports Drone Attack On Togliatti"
   ],
   "articles": [
     {
-      "headline": "Iran has detailed plans to hit Gulf undersea cables",
-      "brief": "Officials report that Iran has formulated detailed contingency plans to target critical Gulf undersea communication cables if regional warfare resumes.",
+      "headline": "UAE Closes Beaches Following Regional Oil Spill",
+      "brief": "Authorities in the United Arab Emirates have ordered the immediate closure of all beaches in Ras Al Khaimah as neighboring areas grapple with a significant offshore oil spill.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDMwaHJxZFNJTlFkYnB5UDY2SEdRcnRvdGRMSUNDR0I3cmhHT0xkTHQ4QjR5d241bnMtTm44UFIzdTZJYUJwcXZTcVFwN2FSVm80aTBWNmpXQVhrSTdtMnZHbWJiZTV1WFl1cGVyOHlJSmZ2d3gxZ0ZpTkpVOW0xTWFrNEFlTDczUGY1TVl0SmVKSVQ5cnN3S2NhU2dwZGZuYldJZDB3WWpaQTYzQ1RQeUdqNS1acnNqY002emRQMHV0TFU?oc=5",
+      "dateLocation": "October 25, 2026 | Ras Al Khaimah, UAE",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Seven killed in Jordan church terrorist attack",
-      "brief": "Authorities in Jordan report that seven people were killed after gunmen opened fire at a church in what officials are calling a terrorist attack.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dketsWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Andhra Pradesh braces for severe cyclonic storm",
-      "brief": "Weather experts issue a red alert for 13 districts in Andhra Pradesh as a very severe cyclonic storm approaches, with landfall expected between Bapatla and Vizag.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
-      "dateLocation": "October 24, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Violence flares during nationwide protests in France",
-      "brief": "Clashes erupt between protesters and police across major French cities during demonstrations over underfunded education and rising living costs, leading to widespread arrests.",
+      "headline": "Mass Protests And Clashes Rock France",
+      "brief": "France faces widespread unrest as thousands march against inequality and living costs. Police reported arresting nearly a thousand individuals amid escalating violence in Paris and other regions.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVE0ZlA5bnVuVmxqWWR3cUpqbFlCTWxJUEpFbmt3ZnVDM2tVa0duYVZZcTN6NFk2RWJ0NjVRRkwyWkxkRnFHeFJ5Uk9EVUVxc2E5NEdVUEQ5elNvQUdYcXRSNHZYQzAtaFZUTVBiTUt1WGlqc2I2d2ZIODZXQlFKQXg5RkRzRm84dUhkaHJhdEtoaTluVDVIWV9GVkF4eHExNkt6U1pid1RaaUJ5aTVUX0xoXzZzMFNJcHhvbA?oc=5",
+      "dateLocation": "October 25, 2026 | Paris, France",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ukraine reports Starlink normal amidst US involvement",
-      "brief": "Ukraine states Starlink services have returned to normal following previous disruptions, as reports emerge detailing long-standing US government requests for network modifications.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "American Express lifts profit forecast and slashes workforce",
-      "brief": "Financial services giant American Express raises its 2026 profit forecast while announcing a strategic plan to reduce its global workforce by five percent.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeldMNkpFRVBpTW1jQjdoSVBaMFg3VzVvUkZ3X2hqNmp0VjZwamlOQkxGLTlOTFQxUFVOc01wU0NhRFJESDBYTTlTZXFNUFNpQ0NVd0lSQXJEcmpoVlVLNkZnMWRhSmRrak5uajBkbFpmOUV2bnQ2V1NEdWdEdmJORDFySVlodDYtTFdVbjR0S3IzVjQyVUN3Z0Y1NEh6U3otM2c0QmZ5RlNQYkt0c1JLVkpkVGVNZnR2RkpJZGpZZw?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Air India and IndiGo extend Saudi flight suspensions",
-      "brief": "Major Indian carriers extend the suspension of flights to key Saudi Arabian destinations including Riyadh, Dammam, and Jeddah amid regional safety concerns.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/riyadh-dammam-jeddah-flights-hit-air-india-indigo-extend-suspensions-akasa-follows-suit/articleshow/135175659.cms",
-      "dateLocation": "October 24, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK advises citizens to maintain emergency household supplies",
-      "brief": "The United Kingdom government issues official guidance advising members of the public to keep at least three days of emergency supplies stored at home.",
+      "headline": "Andhra Pradesh Prepares For Severe Cyclone Landfall",
+      "brief": "India's eastern coast is on high alert as a intensifying depression in the Bay of Bengal threatens to strike Andhra Pradesh as a very severe cyclonic storm next week.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmRBVlhXaFdmTFBac29hb2o0NWNXRlJsYWRNYUJKeWtPLWN1c3FqcVh6RWhsemJPeFFzZThhM0dUWnNRTVFoWlNxemgtcGVfTnNBYy1vNlF1aEc0QU44Zy1KdVhiNGstRFFOU0JqVk1XMzFrQ1RTcUJvNmcwYVo5RUI1bkZBTFFDUERMYlRLdXh0VFU1Z0p0UlRySjk2QkxhX2Mya3NPaEw5TFR2b0o0T0VpWlRJRjJZTUE?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
+      "dateLocation": "October 25, 2026 | Visakhapatnam, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Hacking attempts surge as PHP vulnerabilities require patching",
-      "brief": "Cybersecurity firms report a sharp surge in automated hacking attempts as global corporations and governments race to patch critical PHP software flaws.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Trump Hints At Potential Fresh Strikes On Iran",
+      "brief": "Former US President Donald Trump has hinted at possible new military actions against Iran as tensions mount, while Tehran continues to deny offering any formal regional deal.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/maybe-tomorrow-trump-hints-at-fresh-iran-strikes-as-tehran-denies-hormuz-deal-offer/articleshow/135181851.cms",
+      "dateLocation": "October 25, 2026 | Washington, D.C.",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan faces severe LPG crisis as border trade halts",
-      "brief": "Pakistan's domestic energy crisis escalates as liquefied petroleum gas prices surge and hundreds of cargo trucks remain stranded at closed Iranian border crossings.",
+      "headline": "China Urges US To Halt Outbound Investment Curbs",
+      "brief": "Beijing has formally urged Washington to halt its proposed expansion of outbound investment restrictions, warning that the measures threaten global economic stability and market confidence.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/world/pakistans-lpg-crisis-deepens-as-prices-hit-600-pkr-kg-hundreds-of-trucks-stranded-at-iran-border-11792856462903.html",
-      "dateLocation": "October 24, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+      "dateLocation": "October 25, 2026 | Beijing, China",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ashoke Sen wins 2026 Oskar Klein Medal for physics",
-      "brief": "Renowned Indian physicist Ashoke Sen becomes the first Indian to receive the prestigious Oskar Klein Medal for his pioneering contributions to string theory and black-hole physics.",
+      "headline": "Johnson & Johnson Prostate Cancer Drug Shows Promise",
+      "brief": "Early-stage clinical trials indicate that Johnson & Johnson's new prostate cancer therapeutic successfully shrinks tumors, offering renewed hope for effective targeted treatments.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/who-is-ashoke-sen-indian-physicist-honoured-with-2026-oskar-klein-medal-for-pioneering-work-on-string-theory-11792837880651.html",
-      "dateLocation": "October 24, 2026 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
+      "dateLocation": "October 25, 2026 | New Brunswick, USA",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "BJP criticizes Farooq Abdullah over Kashmir remarks",
-      "brief": "Bharatiya Janata Party leaders launch a fierce political attack against Farooq Abdullah, condemning his recent comments regarding Pakistan's role in protecting Kashmiris.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/act-of-treason-bjp-slams-farooq-abdullah-over-claim-pakistan-is-protecting-kashmiris/articleshow/135173056.cms",
-      "dateLocation": "October 24, 2026 | The Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "North Korean leader Kim crosses bridge into China",
-      "brief": "North Korean leader Kim Jong Un crosses a newly opened border bridge into China to meet officials as bilateral trade ties continue to strengthen.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
-      "dateLocation": "October 24, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Rahane omits Virat Kohli from all-time Test XI",
-      "brief": "Indian cricketer Ajinkya Rahane excludes star batter Virat Kohli from his personal selection of an all-time India Test cricket playing eleven.",
+      "headline": "India Achieves Milestone With 300th T20I Match",
+      "brief": "The Indian men's cricket team has made history by playing its 300th T20 International and securing its 200th victory in the format following a thrilling run chase against New Zealand.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/no-virat-kohli-rohit-sharma-in-rahanes-all-time-india-test-xi-picks-dravid-tendulkar-and-dhoni/articleshow/135174571.cms",
-      "dateLocation": "October 24, 2026 | The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/team-indias-massive-t20i-record-goes-unnoticed-team-miles-ahead-of-pakistan/articleshow/135181416.cms",
+      "dateLocation": "October 25, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tagenarine praises father's guidance in cricket career",
-      "brief": "West Indian cricketer Tagenarine opens up about his professional development, highlighting the crucial mentorship and motivation provided by his father.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/my-father-pushes-me-to-become-a-better-player-says-tagenarine/article71621319.ece",
-      "dateLocation": "October 24, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Lindt Chairman Admits Pricing Strategy Missteps",
+      "brief": "The chairman of chocolate maker Lindt has acknowledged that the company miscalculated its recent price hikes, following the high-profile ouster of its chief executive officer.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXRJYXhTRHZJa181V2drYml1R21wTVF5YTdyZGVUSVJEUzN6QmhsLTFtdkpjRlAycnRyNFdtaGtEa3JrRS0xVzFtdDV2OF9UNWgwU2NwQTN0aXp3MURnS2FvcGJSVVhFcmhfd2lTZjhKQ1NIYjFtYkpVLXZCNWRfcXFRaS1ZUGNmQm0wV20tMXQ5MlczTF93UHNKNUxLc2xrdnJuSlBIcFlWRkhRdWloaTRCQjA5WWpuLW5JaXVCbm8yMU1DRGVXaTVR?oc=5",
+      "dateLocation": "October 25, 2026 | Zurich, Switzerland",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Physicist Ashoke Sen Awarded Oskar Klein Medal",
+      "brief": "Renowned Indian physicist Ashoke Sen has been honored with the prestigious 2026 Oskar Klein Medal for his pioneering contributions to string theory, gravity, and black-hole physics.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/who-is-ashoke-sen-indian-physicist-honoured-with-2026-oskar-klein-medal-for-pioneering-work-on-string-theory-11792837880651.html",
+      "dateLocation": "October 25, 2026 | Stockholm, Sweden",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
