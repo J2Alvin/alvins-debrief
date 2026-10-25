@@ -1,123 +1,75 @@
 {
-  "lastUpdated": "2026-10-25T10:40:03.663Z",
+  "lastUpdated": "2026-10-25T15:30:44.188Z",
   "ticker": [
-    "Borr Drilling rig sinks off Gabon, five missing",
-    "Saudi Arabia intercepts Houthi drones and missiles",
-    "Cyclone threat prompts severe weather warnings in India",
-    "UK issues preparedness advice amid cyber and weather risks",
-    "ISRO to expand space operations with four new launch pads"
+    "US midterm ad spending crosses record $10 billion",
+    "Iran alleged lethal plots against US in advanced stage",
+    "UK urges citizens to stockpile food and water",
+    "Cyclone Arnab approaches Andhra coast, IMD issues alerts",
+    "Archdiocese of New York agrees to $800m abuse settlement"
   ],
   "articles": [
     {
-      "headline": "Borr Drilling Rig Sinks Off Gabon Coast",
-      "brief": "A Borr Drilling rig has sunk off the coast of Gabon, leaving five personnel missing. Search and rescue operations are currently underway to locate the crew members as maritime authorities investigate the cause of the sudden offshore accident.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0syTVctQjBVNERoUW43ei1PUjIxVmJ0aENNdDFtaEwzQXZBZF9IaGNpdU1fX3VNQVZaVE96c3pURGhiSDdZVHFnU01TZF9uelpTRnFkcVZxQ0hzUG8zS05CMHFpRTg3NXc0SE5zSWdWbnNqLUM5Rm1Qd0g3bDJkNzZpQW45RDg2VTJNek1vcEptWUtJRlhkUW5jRXRLUjBZT2d0cHhVTi1TNDRCYnYw?oc=5",
-      "dateLocation": "2026-10-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "US Midterm Ad Spending Crosses Record $10 Billion",
+      "brief": "Political ad spending for the 2026 US midterm elections has surpassed $10 billion and is projected to hit $11.6 billion by Election Day. Republicans are currently outspending Democrats across critical House and Senate races as campaigns drive historic fundraising surges.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/us-midterms-2026-political-ad-spending-tops-10-billion-where-is-the-money-coming-from-and-what-is-driving-the-surge-11792930396568.html",
+      "dateLocation": "2026-10-25 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Saudi Arabia Intercepts Houthi Drones and Missiles",
-      "brief": "Saudi military forces successfully intercepted multiple drones and missiles targeting the kingdom amid ongoing hostilities with Yemen's Houthi movement. Authorities have advised nationals in the region to exercise extreme caution and refrain from filming incoming strikes.",
+      "headline": "UK Urges Citizens to Stockpile Food and Water",
+      "brief": "The UK government has launched its 'Be Ready' campaign, urging households to prepare for three days of potential disruption. Key concerns driving the advisory include potential cyberattacks and severe extreme weather events.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
-      "dateLocation": "2026-10-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK Urges Citizens to Stockpile Essentials",
-      "brief": "The UK government has launched the 'Be Ready' campaign, urging households to stockpile three days of food and water. Officials cited growing concerns over potential cyberattacks, extreme weather events, and infrastructural disruptions.",
-      "category": "general",
       "sourceUrl": "https://www.livemint.com/news/world/why-is-the-uk-asking-citizens-to-stockpile-food-and-water-cyberattacks-extreme-weather-among-key-concerns-rationale-11792918996859.html",
+      "dateLocation": "2026-10-25 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cyclone Arnab Threatens Andhra Coast With Severe Rains",
+      "brief": "The India Meteorological Department has forecast that a depression over the Bay of Bengal will intensify into a severe cyclonic storm. Landfall is expected near the Andhra coast, prompting both Andhra Pradesh and Odisha to ramp up disaster preparations.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/cyclone-arnab-depression-over-bay-of-bengal-to-intensify-when-and-where-will-landfall-occur-imds-latest-updates-11792917730320.html",
       "dateLocation": "2026-10-25 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Severe Cyclone Threat Looms Over Bay of Bengal",
-      "brief": "The Indian Meteorological Department has issued red alerts as a deep depression over the Bay of Bengal intensifies into a severe cyclonic storm. Landfall is expected near the Andhra coast, bringing heavy rainfall and destructive winds across multiple states.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
-      "dateLocation": "2026-10-25 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Audi to Invest $4.2 Billion in First US Factory",
-      "brief": "Automotive giant Audi has announced a $4.2 billion investment to establish its first manufacturing plant in Georgia, United States. The facility aims to produce 200,000 SUVs annually and generate thousands of local jobs by the early 2030s.",
+      "headline": "Audi Invests $4.2 Billion in First US Factory",
+      "brief": "German automaker Audi is investing $4.2 billion to establish its first manufacturing plant in Georgia, US. The facility aims to produce 200,000 SUVs annually and generate roughly 4,500 jobs, with production slated for the early 2030s.",
       "category": "business",
       "sourceUrl": "https://www.livemint.com/news/us-news/audi-to-invest-4-2-billion-in-first-us-factory-plans-to-build-2-lakh-suvs-annually-11792917236098.html",
       "dateLocation": "2026-10-25 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "ISRO Plans Four Launch Pads by 2029",
-      "brief": "The Indian Space Research Organisation has clarified that the agency will not be privatised while outlining ambitious expansion plans. ISRO aims to operate four functional launch pads by 2029 through strategic private sector partnerships.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/isro-to-expand-space-ops-plans-4-launch-pads-by-2029-says-narayanan-as-he-clarifies-the-agency-will-not-be-privatised-11792912056131.html",
-      "dateLocation": "2026-10-25 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "GST Appellate Tribunal Rules on Cancelled Flight Tickets",
-      "brief": "In a notable ruling, the GST Appellate Tribunal has determined that airlines can claim tax refunds on cancelled flight tickets provided they issue full refunds of fares and taxes to passengers with adequate documentation.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/cancelled-flight-tickets-airlines-can-claim-gst-refunds-if-fare-and-tax-are-returned/articleshow/135187326.cms",
+      "headline": "Archdiocese Reaches $800M Settlement With Abuse Survivors",
+      "brief": "The Catholic Archdiocese of New York has agreed to an $800 million settlement involving approximately 1,300 survivors of sexual abuse. The landmark agreement follows lawsuits permitted under the state's Child Victims Act.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/in-2019-new-york-changed-the-law-to-let-survivors-pursue-decades-old-abuse-claims-seven-years-later-about-1300-people-have-agreed-to-an-800-million-settlement-with-the-catholic-archdiocese/articleshow/135192523.cms",
       "dateLocation": "2026-10-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Goldman Sachs Predicts Luxury Goods Recovery in 2027",
-      "brief": "Financial analysis from Goldman Sachs suggests the global luxury goods industry is on track for a meaningful recovery by 2027. The United States is projected to remain a major bright spot for high-end retail performance.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/world/business/global-luxury-goods-industry-set-for-recovery-in-2027-us-to-remain-bright-spot-goldman-sachs/articleshow/135185899.cms",
-      "dateLocation": "2026-10-25 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NCERT Introduces AI Module for Classes 9 to 12",
-      "brief": "The National Council of Educational Research and Training has rolled out a comprehensive 20-hour artificial intelligence and computational thinking module. The curriculum is tailored for high school students to enhance foundational tech skills.",
+      "headline": "Roblox Founder Funds $20 Million Mental Health Study",
+      "brief": "David Baszucki and Jan Ellison Baszucki have committed $20 million to create the McLean Center for Metabolic Psychiatry. The facility will research whether diet-based therapies can effectively treat severe psychiatric conditions like bipolar disorder.",
       "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/education/ncert-rolls-out-20-hour-ai-computational-thinking-module-for-classes-9-12/articleshow/135185294.cms",
-      "dateLocation": "2026-10-25 | Economic Times",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/roblox-founder-david-baszucki-and-his-wife-turn-their-sons-struggle-with-bipolar-disorder-into-a-20-million-grant-for-a-massachusetts-hospital-to-study-whether-diet-based-therapies-can-improve-mental-health/articleshow/135192898.cms",
+      "dateLocation": "2026-10-25 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Johnson & Johnson Cancer Drug Shrinks Tumors",
-      "brief": "Early-stage clinical trial results indicate that Johnson & Johnson's novel prostate cancer drug effectively shrinks tumors. Medical professionals view the trial data as a promising development for advanced cancer therapies.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
-      "dateLocation": "2026-10-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cancer Immunotherapy Becomes More Affordable in India",
-      "brief": "Recent market adjustments have significantly lowered the cost of specific cancer immunotherapy treatments, bringing prices down from lakhs to a fraction. Healthcare advocates are monitoring whether patients will widely receive the financial benefits.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rs-1-lakh-to-rs-30000-cancer-immunotherapy-gets-cheaper-but-will-patients-get-the-price-benefit/articleshow/135185711.cms",
+      "headline": "India Aims to Quadruple Port Capacity by 2047",
+      "brief": "Union Minister Piyush Goyal announced India's strategic vision to quadruple its total port capacity by 2047. The initiative seeks to strengthen global maritime cooperation and enhance logistics efficiency across the subcontinent.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-aims-to-quadruple-port-capacity-by-2047-eyes-stronger-maritime-cooperation-with-rotterdam-piyush-goyal/articleshow/135192950.cms",
       "dateLocation": "2026-10-25 | Economic Times",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Disenchanted Voters Target of Israeli Election Campaign",
-      "brief": "Political campaigns in Israel are increasingly focusing on disillusioned supporters of Prime Minister Benjamin Netanyahu. These undecided voters are emerging as the ultimate prize for candidates vying for influence in the tightening political race.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkR4bHJlcGYyMi1nYkI4Wm9SeThiSEh4ZUVrdHM1NnpJSjV4eWdVOUxOWS13NzhWZ3RLbXY4Skp2aVhhT0ZUOFR1a0pNYkZzRFRjVjEtSEttMjY1Z1RKMHNvZFI5RVZidV9ONzFuc1lfdjFnRlJlUG84Qy1SNmM5UFkwU0FGYmFLeXFiYTlqU2hsci01T2JwVW1PZFZKT0RCVlVpMTg5VVZDQktaTi01R1pDc2p3RVN3YmpWeWlER1I?oc=5",
-      "dateLocation": "2026-10-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "China Names New Provincial Chiefs Ahead of Plenum",
-      "brief": "The Chinese Communist Party has appointed new provincial chiefs ahead of the upcoming fifth plenum. The strategic leadership reshuffle signals a consolidation of administrative control as top officials prepare for key policy sessions.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVl9fNTlYNGs4dEtyXzhfU29IbXV4bEtGTzVLaURSZVVvNUhfREhmUU03cXBjemJlNURGb195QVRSZ3dIbXM0dC1HMXd1cmFWZGk4bUV1WDZlVzdpckZUZjhNMjZyYkdfN2lnWjNBcm9VeFRlbkxCRXVPaEJhYzg1bEl6dTFvSTZwa0lPZXa4VVJPektWSUVYYk9LSUZ4cXZiU0xhNTZLLWRQeFdKeUNzOVVBT29MbmR5?oc=5",
-      "dateLocation": "2026-10-25 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Karnataka All-Rounder Manvanth Kumar Shines in Domestic Cricket",
-      "brief": "Young cricketer Manvanth Kumar is making waves in domestic competitions with his stellar batting and bowling displays. Drawing inspiration from legendary players, the rising star reflects on his journey and ambitions in professional cricket.",
+      "headline": "Zavaray Poonawalla Honoured at TAI Awards",
+      "brief": "Prominent racing figure Zavaray Poonawalla was awarded the prestigious Legend of Indian Horse Racing award during the TAI Awards ceremony, recognizing his monumental contributions to the sport's infrastructure and heritage.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/this-is-sachin-this-is-rahul-dravid-watch-them-how-karnataka-all-rounder-manvanth-kumar-fell-in-love-with-cricket/articleshow/135187876.cms",
-      "dateLocation": "2026-10-25 | Times of India",
+      "sourceUrl": "https://www.thehindu.com/sport/races/tai-awards-zavaray-poonawalla-honoured-with-legend-of-indian-horse-racing-award/article71624042.ece",
+      "dateLocation": "2026-10-25 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
