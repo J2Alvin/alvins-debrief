@@ -1,76 +1,132 @@
 {
-  "lastUpdated": "2026-10-25T15:30:44.188Z",
+  "lastUpdated": "2026-10-25T20:21:15.498Z",
   "ticker": [
-    "US midterm ad spending crosses record $10 billion",
-    "Iran alleged lethal plots against US in advanced stage",
-    "UK urges citizens to stockpile food and water",
-    "Cyclone Arnab approaches Andhra coast, IMD issues alerts",
-    "Archdiocese of New York agrees to $800m abuse settlement"
+    "Sri Lanka rescues 40 Iranian sailors",
+    "Storm Boelo batters the UK",
+    "Severe cyclone threat for Andhra Pradesh",
+    "Venezuela opposition leader Machado returns",
+    "Pakistan stuns England in cricket thriller"
   ],
   "articles": [
     {
-      "headline": "US Midterm Ad Spending Crosses Record $10 Billion",
-      "brief": "Political ad spending for the 2026 US midterm elections has surpassed $10 billion and is projected to hit $11.6 billion by Election Day. Republicans are currently outspending Democrats across critical House and Senate races as campaigns drive historic fundraising surges.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/us-midterms-2026-political-ad-spending-tops-10-billion-where-is-the-money-coming-from-and-what-is-driving-the-surge-11792930396568.html",
-      "dateLocation": "2026-10-25 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "UK Urges Citizens to Stockpile Food and Water",
-      "brief": "The UK government has launched its 'Be Ready' campaign, urging households to prepare for three days of potential disruption. Key concerns driving the advisory include potential cyberattacks and severe extreme weather events.",
+      "headline": "Sri Lanka rescues 40 Iranian sailors",
+      "brief": "Sri Lankan authorities have successfully rescued 40 Iranian sailors following an offshore maritime distress incident, according to a government spokesperson.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/why-is-the-uk-asking-citizens-to-stockpile-food-and-water-cyberattacks-extreme-weather-among-key-concerns-rationale-11792918996859.html",
-      "dateLocation": "2026-10-25 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlpiem5XSDBRRmZVd1BHdS1GaGppQVhLQkVhWkFaU3dvYTl6UkJ5MnZySmFpUkxfb2xZMy14V1pQTlRURmQ3eUNISklSZlVkMkVOZjBja1ZCNkxaaHo4c3IzYUk3VEczNWR0RzFSVEhfXzRUWEliODc2Y1hNSC0wbk5hdWFoUG9IYmxtMURiOHhtYVB1SHJRTWNEbDdBV3dvWXdKTF9lQ2s1Zw?oc=5",
+      "dateLocation": "October 25, 2026 | Colombo, Sri Lanka",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cyclone Arnab Threatens Andhra Coast With Severe Rains",
-      "brief": "The India Meteorological Department has forecast that a depression over the Bay of Bengal will intensify into a severe cyclonic storm. Landfall is expected near the Andhra coast, prompting both Andhra Pradesh and Odisha to ramp up disaster preparations.",
+      "headline": "Severe cyclone approaches Andhra Pradesh coast",
+      "brief": "A major depression over the Bay of Bengal is intensifying into a severe cyclonic storm, expected to cross the Andhra Pradesh and Yanam coasts with destructive winds.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/cyclone-arnab-depression-over-bay-of-bengal-to-intensify-when-and-where-will-landfall-occur-imds-latest-updates-11792917730320.html",
-      "dateLocation": "2026-10-25 | Livemint",
+      "sourceUrl": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+      "dateLocation": "October 25, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Audi Invests $4.2 Billion in First US Factory",
-      "brief": "German automaker Audi is investing $4.2 billion to establish its first manufacturing plant in Georgia, US. The facility aims to produce 200,000 SUVs annually and generate roughly 4,500 jobs, with production slated for the early 2030s.",
+      "headline": "Storm Boelo disrupts UK transport and power",
+      "brief": "Storm Boelo has struck Scotland, Northern Ireland, and northern England with powerful winds and flooding, leaving over 82,000 homes without power and disrupting regional travel.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/storm-boelo-batters-uk-disrupts-travel-and-leaves-82-000-homes-without-power-11792952041003.html",
+      "dateLocation": "October 25, 2026 | London, UK",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Thousands protest Czech public media overhaul",
+      "brief": "Thousands of demonstrators gathered in the Czech Republic to protest a controversial public media overhaul pushed through Parliament via a rushed legislative vote.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3NtVE4za2c1ckhEX0F1Vm5FTExqYnIwRExMVkJvT2owY21CZFlLWFh5bGF1eWlaX0w2RUVua0hrVHcwQnRXTXh5NFlNbF9pektuU1Bzc2hrV1VuYWjpOEZLSlVId3Q4dmZicnlNX2t4M3RPdFA0NHNlQ2tRY2JibzZRaFAtQmF5LVNKbEhuYXdLcHZUcjIxRl9reWdpZlJUX2Vkd2M3aXlsMUwyQ1ljZnlWMFdycEpoTjJzLUoyUFJfWlkwZGZvX2hjOGVpRlE?oc=5",
+      "dateLocation": "October 25, 2026 | Prague, Czech Republic",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Trump gears up for potential Iran escalation",
+      "brief": "US officials have signaled potential military strategies against Iran following upcoming midterms, bolstering regional deployments as Tehran vows strong retaliation.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/trump-gears-up-for-iran-escalation-after-us-polls/articleshow/135197451.cms",
+      "dateLocation": "October 25, 2026 | Washington D.C., USA",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India-EU FTA signing targeted for December",
+      "brief": "The European Commission is reportedly pushing for a fast-track approval of the India-EU Free Trade Agreement, targeting a formal signing during high-level meetings in Brussels.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/audi-to-invest-4-2-billion-in-first-us-factory-plans-to-build-2-lakh-suvs-annually-11792917236098.html",
-      "dateLocation": "2026-10-25 | Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india/indiaeu-fta-signing-targeted-for-december-17-18-during-pm-modi-s-expected-brussels-visit-report-11792950197332.html",
+      "dateLocation": "October 25, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Archdiocese Reaches $800M Settlement With Abuse Survivors",
-      "brief": "The Catholic Archdiocese of New York has agreed to an $800 million settlement involving approximately 1,300 survivors of sexual abuse. The landmark agreement follows lawsuits permitted under the state's Child Victims Act.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/in-2019-new-york-changed-the-law-to-let-survivors-pursue-decades-old-abuse-claims-seven-years-later-about-1300-people-have-agreed-to-an-800-million-settlement-with-the-catholic-archdiocese/articleshow/135192523.cms",
-      "dateLocation": "2026-10-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Roblox Founder Funds $20 Million Mental Health Study",
-      "brief": "David Baszucki and Jan Ellison Baszucki have committed $20 million to create the McLean Center for Metabolic Psychiatry. The facility will research whether diet-based therapies can effectively treat severe psychiatric conditions like bipolar disorder.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/roblox-founder-david-baszucki-and-his-wife-turn-their-sons-struggle-with-bipolar-disorder-into-a-20-million-grant-for-a-massachusetts-hospital-to-study-whether-diet-based-therapies-can-improve-mental-health/articleshow/135192898.cms",
-      "dateLocation": "2026-10-25 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Aims to Quadruple Port Capacity by 2047",
-      "brief": "Union Minister Piyush Goyal announced India's strategic vision to quadruple its total port capacity by 2047. The initiative seeks to strengthen global maritime cooperation and enhance logistics efficiency across the subcontinent.",
+      "headline": "Big-ticket investment deals face a slowdown",
+      "brief": "Major corporate investments in India are experiencing a cautious dip as global financial backers reevaluate capital deployment amid changing macroeconomic indicators.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/india-aims-to-quadruple-port-capacity-by-2047-eyes-stronger-maritime-cooperation-with-rotterdam-piyush-goyal/articleshow/135192950.cms",
-      "dateLocation": "2026-10-25 | Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/indias-consumption-story-holds-appeal-but-investors-are-spending-less/articleshow/135196814.cms",
+      "dateLocation": "October 25, 2026 | Mumbai, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Zavaray Poonawalla Honoured at TAI Awards",
-      "brief": "Prominent racing figure Zavaray Poonawalla was awarded the prestigious Legend of Indian Horse Racing award during the TAI Awards ceremony, recognizing his monumental contributions to the sport's infrastructure and heritage.",
+      "headline": "Citibank calls for shifting India's AI narrative",
+      "brief": "Citibank executives emphasize that India must reshape its artificial intelligence commercial strategy to focus more on localized productivity and economic resilience.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-narrative-needs-to-change-for-india-k-balasubramanian-ceo-citibank-india/articleshow/135197104.cms",
+      "dateLocation": "October 25, 2026 | Bengaluru, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NASA shares crucial updates on Artemis IV",
+      "brief": "NASA administration has detailed upcoming lunar docking exercises and broader cooperation frameworks with private space enterprises as the agency plans for a permanent Moon base.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musks-spacex-and-jeff-bezos-blue-origin-get-ready-to-build-a-moon-base-nasa-administrator-jared-isaacman-gives-an-important-update-on-artemis-iv-says-this-agency-knows-very-well-/articleshow/135186984.cms",
+      "dateLocation": "October 25, 2026 | Washington D.C., USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Melioidosis infection remains widely undetected in India",
+      "brief": "A comprehensive multicentre study reveals that high-risk hospitalised patients frequently suffer from undetected melioidosis, pointing to critical gaps in national surveillance.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/melioidosis-in-india-a-potentially-deadly-infection-that-may-be-going-undetected/article71616567.ece",
+      "dateLocation": "October 25, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Pakistan stuns England with historic final partnership",
+      "brief": "A record-breaking 89-run last-wicket partnership between Shadab Khan and Haris Rauf propelled Pakistan to a miraculous victory against England in a thrilling ODI encounter.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/races/tai-awards-zavaray-poonawalla-honoured-with-legend-of-indian-horse-racing-award/article71624042.ece",
-      "dateLocation": "2026-10-25 | The Hindu",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/shadab-khan-and-haris-rauf-pull-off-miracle-with-record-89-run-partnership-for-last-wicket-as-pakistan-stun-england-in-lahore/articleshow/135194965.cms",
+      "dateLocation": "October 25, 2026 | Lahore, Pakistan",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Borr Drilling rig sinks off the coast of Gabon",
+      "brief": "An offshore drilling rig operated by Borr Drilling has sunk off Gabon's coast, leaving one person dead and four others reported missing as rescue operations continue.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0syTVctQjBVNERoUW43ei1PUjIxVmJ0aENNdDFtaEwzQXZBZF9IaGNpdU1fX3VNQVZaVE96c3pURGhiSDdZVHFnU01TZF9uelpTRnFkcVZxQ0hzUG8zS05CMHFpRTg3NXc0SE5zSWdWbnNqLUM5Rm1Qd0g3bDJkNzZpQW45RDg2VTJNek1vcEptWUtJRlhkUW5jRXRLUjBZT2d0cHhVTi1TNDRCYnYw?oc=5",
+      "dateLocation": "October 25, 2026 | Libreville, Gabon",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "UAE beaches closed following offshore oil spill",
+      "brief": "Authorities in Ras Al Khaimah and neighboring emirates have ordered the indefinite closure of public beaches while teams grapple with an ongoing offshore oil leak.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDMwaHJxZFNJTlFkYnB5UDY2SEdRcnRvdGRMSUNDR0I3cmhHT0xkTHQ4QjR5d241bnMtTm44UFIzdTZJYUJwcXZTcVFwN2FSVm80aTBWNmpXQVhrSTdtMnZHbWJiZTV1WFl1cGVyOHlJSmZ2d3gxZ0ZpTkpVOW0xTWFrNEFlTDczUGY1TVl0SmVKSVQ5cnN3S2NhU2dwZGZuYldJZDB3WWpaQTYzQ1RQeUdqNS1acnNqY002emRQMHV0TFU?oc=5",
+      "dateLocation": "October 25, 2026 | Dubai, UAE",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Technology resilience vital for economic growth",
+      "brief": "Global advisory leaders note that emerging nations must urgently strengthen their technological foundations to withstand future macroeconomic supply shocks.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/india-must-bolster-tech-economic-resilience-dean-grandy-kpmgs-global-head-for-government-and-public-sector/articleshow/135196785.cms",
+      "dateLocation": "October 25, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Venezuelan opposition leader returns from exile",
+      "brief": "Nobel laureate and prominent Venezuelan opposition figure Maria Corina Machado has returned to the country following nearly a year spent living in forced exile.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms",
+      "dateLocation": "October 25, 2026 | Caracas, Venezuela",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
