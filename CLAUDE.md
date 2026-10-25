@@ -13,7 +13,7 @@ AI-curated daily news site. A cron job pulls RSS feeds, Gemini filters them to 1
 
 ## Layout
 - `app/page.tsx`: server component, reads `data/news.json` via `fs` at render time
-- `app/layout.tsx`, `app/globals.css`: shell and global styles
+- `app/layout.tsx`, `app/globals.css`: shell and global styles; `layout.tsx` also loads Google Analytics (GA4 ID `G-D6MHKET13E`) via `next/script`
 - `app/icon.svg`: site favicon (Next.js auto-detects it; replace the file to change it)
 - `config/feeds.ts`: RSS feed URLs (`FEEDS` array)
 - `scripts/run-cron.ts`: fetch feeds, prompt Gemini, write `data/news.json`
