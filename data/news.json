@@ -1,84 +1,124 @@
 {
-  "lastUpdated": "2026-10-25T03:06:09.234Z",
+  "lastUpdated": "2026-10-25T10:40:03.663Z",
   "ticker": [
-    "UAE Shuts Beaches Amid Oil Spill",
-    "Andhra Pradesh Braces For Severe Cyclone",
-    "Trump Hints At Fresh Iran Strikes",
-    "France Clashes Erupt During Mass Protests",
-    "Russia Reports Drone Attack On Togliatti"
+    "Borr Drilling rig sinks off Gabon, five missing",
+    "Saudi Arabia intercepts Houthi drones and missiles",
+    "Cyclone threat prompts severe weather warnings in India",
+    "UK issues preparedness advice amid cyber and weather risks",
+    "ISRO to expand space operations with four new launch pads"
   ],
   "articles": [
     {
-      "headline": "UAE Closes Beaches Following Regional Oil Spill",
-      "brief": "Authorities in the United Arab Emirates have ordered the immediate closure of all beaches in Ras Al Khaimah as neighboring areas grapple with a significant offshore oil spill.",
+      "headline": "Borr Drilling Rig Sinks Off Gabon Coast",
+      "brief": "A Borr Drilling rig has sunk off the coast of Gabon, leaving five personnel missing. Search and rescue operations are currently underway to locate the crew members as maritime authorities investigate the cause of the sudden offshore accident.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDMwaHJxZFNJTlFkYnB5UDY2SEdRcnRvdGRMSUNDR0I3cmhHT0xkTHQ4QjR5d241bnMtTm44UFIzdTZJYUJwcXZTcVFwN2FSVm80aTBWNmpXQVhrSTdtMnZHbWJiZTV1WFl1cGVyOHlJSmZ2d3gxZ0ZpTkpVOW0xTWFrNEFlTDczUGY1TVl0SmVKSVQ5cnN3S2NhU2dwZGZuYldJZDB3WWpaQTYzQ1RQeUdqNS1acnNqY002emRQMHV0TFU?oc=5",
-      "dateLocation": "October 25, 2026 | Ras Al Khaimah, UAE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0syTVctQjBVNERoUW43ei1PUjIxVmJ0aENNdDFtaEwzQXZBZF9IaGNpdU1fX3VNQVZaVE96c3pURGhiSDdZVHFnU01TZF9uelpTRnFkcVZxQ0hzUG8zS05CMHFpRTg3NXc0SE5zSWdWbnNqLUM5Rm1Qd0g3bDJkNzZpQW45RDg2VTJNek1vcEptWUtJRlhkUW5jRXRLUjBZT2d0cHhVTi1TNDRCYnYw?oc=5",
+      "dateLocation": "2026-10-25 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Mass Protests And Clashes Rock France",
-      "brief": "France faces widespread unrest as thousands march against inequality and living costs. Police reported arresting nearly a thousand individuals amid escalating violence in Paris and other regions.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVE0ZlA5bnVuVmxqWWR3cUpqbFlCTWxJUEpFbmt3ZnVDM2tVa0duYVZZcTN6NFk2RWJ0NjVRRkwyWkxkRnFHeFJ5Uk9EVUVxc2E5NEdVUEQ5elNvQUdYcXRSNHZYQzAtaFZUTVBiTUt1WGlqc2I2d2ZIODZXQlFKQXg5RkRzRm84dUhkaHJhdEtoaTluVDVIWV9GVkF4eHExNkt6U1pid1RaaUJ5aTVUX0xoXzZzMFNJcHhvbA?oc=5",
-      "dateLocation": "October 25, 2026 | Paris, France",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Saudi Arabia Intercepts Houthi Drones and Missiles",
+      "brief": "Saudi military forces successfully intercepted multiple drones and missiles targeting the kingdom amid ongoing hostilities with Yemen's Houthi movement. Authorities have advised nationals in the region to exercise extreme caution and refrain from filming incoming strikes.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
+      "dateLocation": "2026-10-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Andhra Pradesh Prepares For Severe Cyclone Landfall",
-      "brief": "India's eastern coast is on high alert as a intensifying depression in the Bay of Bengal threatens to strike Andhra Pradesh as a very severe cyclonic storm next week.",
+      "headline": "UK Urges Citizens to Stockpile Essentials",
+      "brief": "The UK government has launched the 'Be Ready' campaign, urging households to stockpile three days of food and water. Officials cited growing concerns over potential cyberattacks, extreme weather events, and infrastructural disruptions.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
-      "dateLocation": "October 25, 2026 | Visakhapatnam, India",
+      "sourceUrl": "https://www.livemint.com/news/world/why-is-the-uk-asking-citizens-to-stockpile-food-and-water-cyberattacks-extreme-weather-among-key-concerns-rationale-11792918996859.html",
+      "dateLocation": "2026-10-25 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Hints At Potential Fresh Strikes On Iran",
-      "brief": "Former US President Donald Trump has hinted at possible new military actions against Iran as tensions mount, while Tehran continues to deny offering any formal regional deal.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/maybe-tomorrow-trump-hints-at-fresh-iran-strikes-as-tehran-denies-hormuz-deal-offer/articleshow/135181851.cms",
-      "dateLocation": "October 25, 2026 | Washington, D.C.",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Severe Cyclone Threat Looms Over Bay of Bengal",
+      "brief": "The Indian Meteorological Department has issued red alerts as a deep depression over the Bay of Bengal intensifies into a severe cyclonic storm. Landfall is expected near the Andhra coast, bringing heavy rainfall and destructive winds across multiple states.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+      "dateLocation": "2026-10-25 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "China Urges US To Halt Outbound Investment Curbs",
-      "brief": "Beijing has formally urged Washington to halt its proposed expansion of outbound investment restrictions, warning that the measures threaten global economic stability and market confidence.",
+      "headline": "Audi to Invest $4.2 Billion in First US Factory",
+      "brief": "Automotive giant Audi has announced a $4.2 billion investment to establish its first manufacturing plant in Georgia, United States. The facility aims to produce 200,000 SUVs annually and generate thousands of local jobs by the early 2030s.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
-      "dateLocation": "October 25, 2026 | Beijing, China",
+      "sourceUrl": "https://www.livemint.com/news/us-news/audi-to-invest-4-2-billion-in-first-us-factory-plans-to-build-2-lakh-suvs-annually-11792917236098.html",
+      "dateLocation": "2026-10-25 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Johnson & Johnson Prostate Cancer Drug Shows Promise",
-      "brief": "Early-stage clinical trials indicate that Johnson & Johnson's new prostate cancer therapeutic successfully shrinks tumors, offering renewed hope for effective targeted treatments.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
-      "dateLocation": "October 25, 2026 | New Brunswick, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "ISRO Plans Four Launch Pads by 2029",
+      "brief": "The Indian Space Research Organisation has clarified that the agency will not be privatised while outlining ambitious expansion plans. ISRO aims to operate four functional launch pads by 2029 through strategic private sector partnerships.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/isro-to-expand-space-ops-plans-4-launch-pads-by-2029-says-narayanan-as-he-clarifies-the-agency-will-not-be-privatised-11792912056131.html",
+      "dateLocation": "2026-10-25 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Achieves Milestone With 300th T20I Match",
-      "brief": "The Indian men's cricket team has made history by playing its 300th T20 International and securing its 200th victory in the format following a thrilling run chase against New Zealand.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/team-indias-massive-t20i-record-goes-unnoticed-team-miles-ahead-of-pakistan/articleshow/135181416.cms",
-      "dateLocation": "October 25, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Lindt Chairman Admits Pricing Strategy Missteps",
-      "brief": "The chairman of chocolate maker Lindt has acknowledged that the company miscalculated its recent price hikes, following the high-profile ouster of its chief executive officer.",
+      "headline": "GST Appellate Tribunal Rules on Cancelled Flight Tickets",
+      "brief": "In a notable ruling, the GST Appellate Tribunal has determined that airlines can claim tax refunds on cancelled flight tickets provided they issue full refunds of fares and taxes to passengers with adequate documentation.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXRJYXhTRHZJa181V2drYml1R21wTVF5YTdyZGVUSVJEUzN6QmhsLTFtdkpjRlAycnRyNFdtaGtEa3JrRS0xVzFtdDV2OF9UNWgwU2NwQTN0aXp3MURnS2FvcGJSVVhFcmhfd2lTZjhKQ1NIYjFtYkpVLXZCNWRfcXFRaS1ZUGNmQm0wV20tMXQ5MlczTF93UHNKNUxLc2xrdnJuSlBIcFlWRkhRdWloaTRCQjA5WWpuLW5JaXVCbm8yMU1DRGVXaTVR?oc=5",
-      "dateLocation": "October 25, 2026 | Zurich, Switzerland",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/cancelled-flight-tickets-airlines-can-claim-gst-refunds-if-fare-and-tax-are-returned/articleshow/135187326.cms",
+      "dateLocation": "2026-10-25 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian Physicist Ashoke Sen Awarded Oskar Klein Medal",
-      "brief": "Renowned Indian physicist Ashoke Sen has been honored with the prestigious 2026 Oskar Klein Medal for his pioneering contributions to string theory, gravity, and black-hole physics.",
+      "headline": "Goldman Sachs Predicts Luxury Goods Recovery in 2027",
+      "brief": "Financial analysis from Goldman Sachs suggests the global luxury goods industry is on track for a meaningful recovery by 2027. The United States is projected to remain a major bright spot for high-end retail performance.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/world/business/global-luxury-goods-industry-set-for-recovery-in-2027-us-to-remain-bright-spot-goldman-sachs/articleshow/135185899.cms",
+      "dateLocation": "2026-10-25 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "NCERT Introduces AI Module for Classes 9 to 12",
+      "brief": "The National Council of Educational Research and Training has rolled out a comprehensive 20-hour artificial intelligence and computational thinking module. The curriculum is tailored for high school students to enhance foundational tech skills.",
       "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/who-is-ashoke-sen-indian-physicist-honoured-with-2026-oskar-klein-medal-for-pioneering-work-on-string-theory-11792837880651.html",
-      "dateLocation": "October 25, 2026 | Stockholm, Sweden",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/education/ncert-rolls-out-20-hour-ai-computational-thinking-module-for-classes-9-12/articleshow/135185294.cms",
+      "dateLocation": "2026-10-25 | Economic Times",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Johnson & Johnson Cancer Drug Shrinks Tumors",
+      "brief": "Early-stage clinical trial results indicate that Johnson & Johnson's novel prostate cancer drug effectively shrinks tumors. Medical professionals view the trial data as a promising development for advanced cancer therapies.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWNyU043aUVYSUNOanI5QkZfcjFOc2FET3BDNFh5RXdORFFNcFY4ZVFWNlUzV1gwaFpDNXkzeENNSFlFZVljZzNHdWtuZDlIc1ZJeGhocVpnTjN4QmVJcms4blBfZVpSMm5NWUgzb1NqejhfVnV5MV82Qi1Bakg1R19aVzBFWTZhOURPckU0Z2FHVkxOZVRIa2tMajVmaGlYd3Mwd3ZOXzVjbEp1YWVRXzVLZjdPTTdlZ19laS1MTm5vRlNhYUl1YUdDcXlwaEo5RDNkT2M0Tm9jUQ?oc=5",
+      "dateLocation": "2026-10-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cancer Immunotherapy Becomes More Affordable in India",
+      "brief": "Recent market adjustments have significantly lowered the cost of specific cancer immunotherapy treatments, bringing prices down from lakhs to a fraction. Healthcare advocates are monitoring whether patients will widely receive the financial benefits.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rs-1-lakh-to-rs-30000-cancer-immunotherapy-gets-cheaper-but-will-patients-get-the-price-benefit/articleshow/135185711.cms",
+      "dateLocation": "2026-10-25 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Disenchanted Voters Target of Israeli Election Campaign",
+      "brief": "Political campaigns in Israel are increasingly focusing on disillusioned supporters of Prime Minister Benjamin Netanyahu. These undecided voters are emerging as the ultimate prize for candidates vying for influence in the tightening political race.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkR4bHJlcGYyMi1nYkI4Wm9SeThiSEh4ZUVrdHM1NnpJSjV4eWdVOUxOWS13NzhWZ3RLbXY4Skp2aVhhT0ZUOFR1a0pNYkZzRFRjVjEtSEttMjY1Z1RKMHNvZFI5RVZidV9ONzFuc1lfdjFnRlJlUG84Qy1SNmM5UFkwU0FGYmFLeXFiYTlqU2hsci01T2JwVW1PZFZKT0RCVlVpMTg5VVZDQktaTi01R1pDc2p3RVN3YmpWeWlER1I?oc=5",
+      "dateLocation": "2026-10-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "China Names New Provincial Chiefs Ahead of Plenum",
+      "brief": "The Chinese Communist Party has appointed new provincial chiefs ahead of the upcoming fifth plenum. The strategic leadership reshuffle signals a consolidation of administrative control as top officials prepare for key policy sessions.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVl9fNTlYNGs4dEtyXzhfU29IbXV4bEtGTzVLaURSZVVvNUhfREhmUU03cXBjemJlNURGb195QVRSZ3dIbXM0dC1HMXd1cmFWZGk4bUV1WDZlVzdpckZUZjhNMjZyYkdfN2lnWjNBcm9VeFRlbkxCRXVPaEJhYzg1bEl6dTFvSTZwa0lPZXa4VVJPektWSUVYYk9LSUZ4cXZiU0xhNTZLLWRQeFdKeUNzOVVBT29MbmR5?oc=5",
+      "dateLocation": "2026-10-25 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Karnataka All-Rounder Manvanth Kumar Shines in Domestic Cricket",
+      "brief": "Young cricketer Manvanth Kumar is making waves in domestic competitions with his stellar batting and bowling displays. Drawing inspiration from legendary players, the rising star reflects on his journey and ambitions in professional cricket.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/this-is-sachin-this-is-rahul-dravid-watch-them-how-karnataka-all-rounder-manvanth-kumar-fell-in-love-with-cricket/articleshow/135187876.cms",
+      "dateLocation": "2026-10-25 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
