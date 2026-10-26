@@ -1,132 +1,124 @@
 {
-  "lastUpdated": "2026-10-25T20:21:15.498Z",
+  "lastUpdated": "2026-10-26T03:05:41.175Z",
   "ticker": [
-    "Sri Lanka rescues 40 Iranian sailors",
-    "Storm Boelo batters the UK",
-    "Severe cyclone threat for Andhra Pradesh",
-    "Venezuela opposition leader Machado returns",
-    "Pakistan stuns England in cricket thriller"
+    "Lula da Silva wins fourth term as Brazil President",
+    "Serbia's student movement topples Vucic in historic vote",
+    "IMD issues red alert for severe cyclone near Andhra coast",
+    "SpaceX raises $40 billion in major debt deal",
+    "Microsoft backs away from UK data centre project"
   ],
   "articles": [
     {
-      "headline": "Sri Lanka rescues 40 Iranian sailors",
-      "brief": "Sri Lankan authorities have successfully rescued 40 Iranian sailors following an offshore maritime distress incident, according to a government spokesperson.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlpiem5XSDBRRmZVd1BHdS1GaGppQVhLQkVhWkFaU3dvYTl6UkJ5MnZySmFpUkxfb2xZMy14V1pQTlRURmQ3eUNISklSZlVkMkVOZjBja1ZCNkxaaHo4c3IzYUk3VEczNWR0RzFSVEhfXzRUWEliODc2Y1hNSC0wbk5hdWFoUG9IYmxtMURiOHhtYVB1SHJRTWNEbDdBV3dvWXdKTF9lQ2s1Zw?oc=5",
-      "dateLocation": "October 25, 2026 | Colombo, Sri Lanka",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Lula da Silva reelected as Brazil President for fourth term",
+      "brief": "Luiz Inácio Lula da Silva has secured a historic fourth term as Brazil's president following a runoff vote. In his victory speech, Lula emphasized national sovereignty, declaring that Brazil is not anyone's backyard, while facing formidable economic challenges including mounting national debt.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejBZNU9pVW5mLWs3YVoyWE1CZm9YdVhFUld3WHZSaWJrWlJ1SVFJNDFnRG5FRVNnVEVkOGZVMmY2RHdlcU45bGluZFpTZ3FlcXdqZGtmYW5oajNpTnhpVWZlN2tIWnRBdWFBcW9CbjdEREFnLVQ3YnV5WDgxdE0xNlR2SExJWWkyZzIxSWtCa1ZwRmdFMHhlYUp5Yw?oc=5",
+      "dateLocation": "October 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Severe cyclone approaches Andhra Pradesh coast",
-      "brief": "A major depression over the Bay of Bengal is intensifying into a severe cyclonic storm, expected to cross the Andhra Pradesh and Yanam coasts with destructive winds.",
+      "headline": "Serbia's student movement ousts longtime leader Aleksandar Vucic",
+      "brief": "Serbia's student-backed opposition movement has successfully ousted longtime leader Aleksandar Vucic in a snap parliamentary election. The political upheaval follows nearly two years of intensive anti-corruption protests triggered by a deadly railway station canopy collapse in Novi Sad.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/serbias-student-movement-ousts-longtime-leader-in-parliament-poll/article71624845.ece",
+      "dateLocation": "October 26, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Severe cyclonic storm approaches Andhra Pradesh coast with heavy rains",
+      "brief": "The India Meteorological Department has issued red alerts for Odisha, Kerala, and Tamil Nadu as a severe cyclonic storm intensifies in the Bay of Bengal and moves toward the Andhra Pradesh coast. State authorities have stepped up disaster relief preparations and mobilized response teams.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
-      "dateLocation": "October 25, 2026 | New Delhi, India",
+      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-today-red-alert-for-heavy-rains-in-odisha-kerala-tamil-nadu-as-severe-cyclonic-storm-nears-andhra-11792976086151.html",
+      "dateLocation": "October 26, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Storm Boelo disrupts UK transport and power",
-      "brief": "Storm Boelo has struck Scotland, Northern Ireland, and northern England with powerful winds and flooding, leaving over 82,000 homes without power and disrupting regional travel.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/storm-boelo-batters-uk-disrupts-travel-and-leaves-82-000-homes-without-power-11792952041003.html",
-      "dateLocation": "October 25, 2026 | London, UK",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Thousands protest Czech public media overhaul",
-      "brief": "Thousands of demonstrators gathered in the Czech Republic to protest a controversial public media overhaul pushed through Parliament via a rushed legislative vote.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3NtVE4za2c1ckhEX0F1Vm5FTExqYnIwRExMVkJvT2owY21CZFlLWFh5bGF1eWlaX0w2RUVua0hrVHcwQnRXTXh5NFlNbF9pektuU1Bzc2hrV1VuYWjpOEZLSlVId3Q4dmZicnlNX2t4M3RPdFA0NHNlQ2tRY2JibzZRaFAtQmF5LVNKbEhuYXdLcHZUcjIxRl9reWdpZlJUX2Vkd2M3aXlsMUwyQ1ljZnlWMFdycEpoTjJzLUoyUFJfWlkwZGZvX2hjOGVpRlE?oc=5",
-      "dateLocation": "October 25, 2026 | Prague, Czech Republic",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump gears up for potential Iran escalation",
-      "brief": "US officials have signaled potential military strategies against Iran following upcoming midterms, bolstering regional deployments as Tehran vows strong retaliation.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/trump-gears-up-for-iran-escalation-after-us-polls/articleshow/135197451.cms",
-      "dateLocation": "October 25, 2026 | Washington D.C., USA",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India-EU FTA signing targeted for December",
-      "brief": "The European Commission is reportedly pushing for a fast-track approval of the India-EU Free Trade Agreement, targeting a formal signing during high-level meetings in Brussels.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/indiaeu-fta-signing-targeted-for-december-17-18-during-pm-modi-s-expected-brussels-visit-report-11792950197332.html",
-      "dateLocation": "October 25, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Big-ticket investment deals face a slowdown",
-      "brief": "Major corporate investments in India are experiencing a cautious dip as global financial backers reevaluate capital deployment amid changing macroeconomic indicators.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/indias-consumption-story-holds-appeal-but-investors-are-spending-less/articleshow/135196814.cms",
-      "dateLocation": "October 25, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Citibank calls for shifting India's AI narrative",
-      "brief": "Citibank executives emphasize that India must reshape its artificial intelligence commercial strategy to focus more on localized productivity and economic resilience.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-narrative-needs-to-change-for-india-k-balasubramanian-ceo-citibank-india/articleshow/135197104.cms",
-      "dateLocation": "October 25, 2026 | Bengaluru, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "NASA shares crucial updates on Artemis IV",
-      "brief": "NASA administration has detailed upcoming lunar docking exercises and broader cooperation frameworks with private space enterprises as the agency plans for a permanent Moon base.",
+      "headline": "SpaceX raises $40 billion in new debt financing deal",
+      "brief": "Elon Musk announced that aerospace company SpaceX has successfully raised $40 billion through a new debt deal. Alongside the funding announcement, Musk predicted an imminent shakeout within the neocloud sector as market pressures escalate.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musks-spacex-and-jeff-bezos-blue-origin-get-ready-to-build-a-moon-base-nasa-administrator-jared-isaacman-gives-an-important-update-on-artemis-iv-says-this-agency-knows-very-well-/articleshow/135186984.cms",
-      "dateLocation": "October 25, 2026 | Washington D.C., USA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
+      "dateLocation": "October 26, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Melioidosis infection remains widely undetected in India",
-      "brief": "A comprehensive multicentre study reveals that high-risk hospitalised patients frequently suffer from undetected melioidosis, pointing to critical gaps in national surveillance.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/melioidosis-in-india-a-potentially-deadly-infection-that-may-be-going-undetected/article71616567.ece",
-      "dateLocation": "October 25, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Microsoft pulls out of UK data centre developer partnership",
+      "brief": "Microsoft has withdrawn from a major partnership with UK data centre developer Nscale after electricity companies warned that reliable power supplies would be delayed until 2030. The setback poses significant hurdles for expanding tech infrastructure in Essex.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-says-not-possible-to-uks-biggest-data-centre-developer-nscale-after-repeated-delays-and-electricity-companies-promising-no-power-supply-before-2030/articleshow/135200878.cms",
+      "dateLocation": "October 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Pakistan stuns England with historic final partnership",
-      "brief": "A record-breaking 89-run last-wicket partnership between Shadab Khan and Haris Rauf propelled Pakistan to a miraculous victory against England in a thrilling ODI encounter.",
+      "headline": "Oil prices slip from six-month highs amid ongoing supply worries",
+      "brief": "Global oil prices pulled back from near six-month highs during Asian trading sessions, easing slightly despite persistent geopolitical supply concerns. Meanwhile, regional equity markets made a cautious start to the week.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
+      "dateLocation": "October 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India's private capital expenditure surges 39% to Rs 99.7 lakh crore",
+      "brief": "India's private capex pipeline has expanded significantly, surging 39% to reach Rs 99.7 lakh crore. However, financial reports warn of rising structural risks as investments remain heavily concentrated across a few specific states.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/indias-private-capex-pipeline-surges-39-to-rs-99-7-lakh-crore-risks-rise-report/articleshow/135186243.cms",
+      "dateLocation": "October 26, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Borr Drilling rig sinks off Gabon, leaving one dead and four missing",
+      "brief": "A Borr Drilling offshore rig has sunk off the coast of Gabon in Central Africa. Emergency response teams confirmed that one crew member has died while four others remain missing as search and rescue operations continue.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0syTVctQjBVNERoUW43ei1PUjIxVmJ0aENNdDFtaEwzQXZBZF9IaGNpdU1fX3VNQVZaVE96c3pURGhiSDdZVHFnU01TZF9uelpTRnFkcVZxQ0hzUG8zS05CMHFpRTg3NXc0SE5zSWdWbnNqLUM5Rm1Qd0g3bDJkNzZpQW45RDg2VTJNek1vcEptWUtJRlhkUW5jRXRLUjBZT2d0cHhVTi1TNDRCYnYw?oc=5",
+      "dateLocation": "October 26, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saudi Arabia plans major crude storage facility in Singapore by 2027",
+      "brief": "Saudi Arabia has finalized strategic plans to store crude oil in Singapore starting in the second half of 2027. The move aims to secure a stronger foothold and efficient distribution hub within Asian energy markets.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-to-store-crude-oil-in-singapore-from-second-half-of-2027/articleshow/135200518.cms",
+      "dateLocation": "October 26, 2026 | Economic Times",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Real Madrid defeat Barcelona at Camp Nou to narrow LaLiga gap",
+      "brief": "Real Madrid secured a crucial away victory against Barcelona at Camp Nou, successfully narrowing the points gap at the top of the LaLiga standings. The high-stakes El Clásico lived up to its billing with intense tactical battles.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/shadab-khan-and-haris-rauf-pull-off-miracle-with-record-89-run-partnership-for-last-wicket-as-pakistan-stun-england-in-lahore/articleshow/135194965.cms",
-      "dateLocation": "October 25, 2026 | Lahore, Pakistan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGctT2oxWjdadkIwMXJCRjZMRUdYWmFDQ0dvUGNxaTcxLUNCSDE3WmJzUUlXZEljc3VpWklocFJUeno0WkVTSUdBblB1MzNrYTNTYXVrTHdUMGU4a3FRd3cxZkNvcUU0N1FhbVIyS19FT0treHg3a1FwTTlMSm0tWDlwTFB6bjBiMDJGVWV6U083WWt0RHotazB0M0pVemVaY2J1SWhiT0xlU0xpYWctU1Fn?oc=5",
+      "dateLocation": "October 26, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Borr Drilling rig sinks off the coast of Gabon",
-      "brief": "An offshore drilling rig operated by Borr Drilling has sunk off Gabon's coast, leaving one person dead and four others reported missing as rescue operations continue.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0syTVctQjBVNERoUW43ei1PUjIxVmJ0aENNdDFtaEwzQXZBZF9IaGNpdU1fX3VNQVZaVE96c3pURGhiSDdZVHFnU01TZF9uelpTRnFkcVZxQ0hzUG8zS05CMHFpRTg3NXc0SE5zSWdWbnNqLUM5Rm1Qd0g3bDJkNzZpQW45RDg2VTJNek1vcEptWUtJRlhkUW5jRXRLUjBZT2d0cHhVTi1TNDRCYnYw?oc=5",
-      "dateLocation": "October 25, 2026 | Libreville, Gabon",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Pakistan completes historic ODI run chase against England with record stand",
+      "brief": "Pakistan pulled off an improbable victory against England in an ODI fixture, successfully chasing down a target after slipping to 154-9. An unbroken, record-breaking last-wicket partnership sealed the dramatic comeback win.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-think-we-can-reveal-on-live-tv-shadab-khan-on-chat-with-haris-rauf/articleshow/135200547.cms",
+      "dateLocation": "October 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "UAE beaches closed following offshore oil spill",
-      "brief": "Authorities in Ras Al Khaimah and neighboring emirates have ordered the indefinite closure of public beaches while teams grapple with an ongoing offshore oil leak.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDMwaHJxZFNJTlFkYnB5UDY2SEdRcnRvdGRMSUNDR0I3cmhHT0xkTHQ4QjR5d241bnMtTm44UFIzdTZJYUJwcXZTcVFwN2FSVm80aTBWNmpXQVhrSTdtMnZHbWJiZTV1WFl1cGVyOHlJSmZ2d3gxZ0ZpTkpVOW0xTWFrNEFlTDczUGY1TVl0SmVKSVQ5cnN3S2NhU2dwZGZuYldJZDB3WWpaQTYzQ1RQeUdqNS1acnNqY002emRQMHV0TFU?oc=5",
-      "dateLocation": "October 25, 2026 | Dubai, UAE",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Technology resilience vital for economic growth",
-      "brief": "Global advisory leaders note that emerging nations must urgently strengthen their technological foundations to withstand future macroeconomic supply shocks.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/india-must-bolster-tech-economic-resilience-dean-grandy-kpmgs-global-head-for-government-and-public-sector/articleshow/135196785.cms",
-      "dateLocation": "October 25, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Venezuelan opposition leader returns from exile",
-      "brief": "Nobel laureate and prominent Venezuelan opposition figure Maria Corina Machado has returned to the country following nearly a year spent living in forced exile.",
+      "headline": "Thousands protest Czech government's public media overhaul",
+      "brief": "Thousands of demonstrators gathered in the Czech Republic to protest the government's rushed public media overhaul. Protesters voiced strong opposition to legislative changes that threaten the editorial independence of state broadcasting institutions.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms",
-      "dateLocation": "October 25, 2026 | Caracas, Venezuela",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3NtVE4za2c1ckhEX0F1Vm5FTExqYnIwRExMVkJvT2owY21CZFlLWFh5bGF1eWlaX0w2RUVua0hrVHcwQnRXTXh5NFlNbF9pektuU1Bzc2hrV1VuYWJpOEZLSlVId3Q4dmZicnlNX2t4M3RPdFA0NHNlQ2tRY2JibzZRaFAtQmF5LVNKbEhuYXdLcHZUcjIxRl9reWdpZlJUX2Vkd2M3aXlsMUwyQ1ljZnlWMFdycEpoTjJzLUoyUFJfWlkwZGZvX2hjOGVpRlE?oc=5",
+      "dateLocation": "October 26, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Maria Corina Machado returns to Venezuela after ten months in exile",
+      "brief": "Venezuelan opposition leader Maria Corina Machado has returned to the country after spending ten months in exile. While her return marks a significant political milestone, a definitive election timeline has not yet been established.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/venezuelan-leader-maria-corina-machado-returns-after-10-months-in-exile-but-elections-remain-uncertain-heres-why-11792978744712.html",
+      "dateLocation": "October 26, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Delhi to restrict entry for non-BS6 commercial vehicles from November",
+      "brief": "Authorities in Delhi have announced a strict ban on entry for commercial and NCR vehicles failing to meet BS6 emission standards starting November 1. Over one million older vehicles registered in neighboring cities are expected to face travel restrictions.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/over-10-lakh-ncr-vehicles-wont-be-able-to-enter-delhi-from-november-1/articleshow/135200418.cms",
+      "dateLocation": "October 26, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
