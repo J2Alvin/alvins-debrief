@@ -1,131 +1,123 @@
 {
-  "lastUpdated": "2026-10-26T12:12:57.721Z",
+  "lastUpdated": "2026-10-27T10:00:00.000Z",
   "ticker": [
-    "Tata Communications invests $450M in AI connectivity",
-    "Cyclone Arnab approaches India's eastern coast",
-    "India clears major Rs 2.12 lakh crore defence deal",
-    "Lula da Silva secures historic fourth presidential term",
-    "Ather Energy posts first-ever quarterly profit"
+    "India Approves $22B Military Purchases",
+    "Verizon Lifts Forecasts After AWS Deal",
+    "Microsoft Offers Buyouts to 60,000",
+    "Anthropic Files For Landmark IPO",
+    "Supreme Court Hears Privacy Law Challenge"
   ],
   "articles": [
     {
-      "headline": "Tata Communications Invests $450 Million in AI Infrastructure",
-      "brief": "Tata Communications is committing $450 million to develop advanced AI connectivity infrastructure and data centers, creating a high-speed digital superhighway to meet surging enterprise demand.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkFzTTI0b0otQXlyRGllcFhzUTY0c1RJcUJCX2R6aF9UUUt5VXd2UzFwdlBsN21ld1Y0Q05uWEFEMlhJbWtDTDFrTU80MjBCR2RLbzRtUlNaMDExYkJfYllhNXk3bVJCamxXM3p5ZEIwOHduMEQ5aTFDV1o5d0VIOVFqeWo0bGUzdWE0b2dCTUNZR2NoNlVHSUtJTEhkUlhxeUtJM3lKWnNsdmNuTTl3bHFPVWh3Q183NlR0NFNjaTI1V25KMmNYdTQtczlaNkk?oc=5",
-      "dateLocation": "2026-10-26 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Indian Media Outlets Contest Modi’s Privacy Law",
+      "brief": "Major Indian publishers, including outlets tied to Ambani and Adani, are challenging the government's privacy legislation in the Supreme Court, arguing it impacts press freedom and transparency.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Meta's Muse AI Applauded by Bill Gates",
-      "brief": "Microsoft co-founder Bill Gates has praised Meta's Muse personal AI agent as the first major consumer-ready product of its kind, while cautioning against open-weight models lacking safeguards.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-is-a-fan-of-metas-ai-agent-muse-says-i-talked-to-alexandr-wang-about-it-congratulated-him-and-even-though-/articleshow/135208987.cms",
-      "dateLocation": "2026-10-26 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "India Approves $22 Billion in Military Purchases",
+      "brief": "The Indian government has granted in-principle approval for $22 billion in major military acquisitions to bolster national defense capabilities and modernize its armed forces.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWtlUlNoTlFhQVdNR25NbFFTYUYtcTlOeWhtWnNfVENzOWo2cl9NZ1dpdlhRU3B6VVRvekhvVGdvVHpKMWx0N1Rick9xR0cweWwtRllzN0tLMVJydktMOGVQTGNnbnltSnVMRFVuMHJaaFV6OXVBbFVVbnhTUzgxdGs2NS1WNU5QVXYwaGJ4bk96RERnbkRyMEhjNHpmMEpIVEQxcA?oc=5",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ather Energy Posts First Profitable Quarter",
-      "brief": "Electric vehicle manufacturer Ather Energy has reported its first-ever quarterly profit, driving a 10% surge in its share price as consumer adoption of EVs continues to accelerate nationwide.",
-      "category": "finance",
+      "headline": "Ather Energy Posts First Ever Quarterly Profit",
+      "brief": "Electric scooter maker Ather Energy has reported its first-ever quarterly profit, driving a 10% surge in its share price as demand for EV solutions accelerates.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnhEVHdQMmhvSjlHM0h6dzZuNWJnQi14MW1wa1Q3T1dTekdSaVpxRjVUMGhTWTBHVjF0amdGMkd2ZVNGUDFtTFhXUG54aS0xWU5VYW9nQVZMS05EV2ZQN3RaWjNwYmw4Snh1YTFJckZ2NTd0ZzE4RF9LYmhlQVBUX2xBSl91WlJCY0x0TXQ5Y090YjRKQ19BQWJ1WWYxU1A4bU5OX284WG5MUUF2YTdV?oc=5",
-      "dateLocation": "2026-10-26 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Gold Prices Rise Amid Falling Oil Costs",
-      "brief": "Gold prices gained traction as a recent slide in global oil prices helped cool broader inflation concerns across international markets, prompting increased safe-haven investments.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
-      "dateLocation": "2026-10-26 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Indian Publishers Challenge Modi's Privacy Law",
-      "brief": "High-profile media outlets, including enterprises associated with billionaire industrialists Ambani and Adani, have joined other Indian publishers in challenging controversial provisions of Modi’s privacy legislation.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04WjFhWldpTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
-      "dateLocation": "2026-10-26 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Congress and BJP Plan Major Rival Rallies",
-      "brief": "Political tensions are escalating as the Congress party prepares for a massive 'Vote Bachao' protest rally in New Delhi, while BJP leader Amit Shah is set to spearhead a counter-march in Telangana.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/congress-to-hold-vote-bachao-rally-at-ramlila-maidan-on-nov-1-amit-shah-to-lead-padayatra-in-tgana-on-nov-2/articleshow/135209356.cms",
-      "dateLocation": "2026-10-26 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Government Approves Massive Defense Acquisition Deal",
-      "brief": "The Defence Acquisition Council has cleared a massive Rs 2.12 lakh crore procurement package aimed at significantly upgrading the operational capabilities of the Indian armed forces.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/drones-guns-and-missile-shields-dac-clears-rs-2-12-lakh-crore-defence-proposals-for-armed-forces/articleshow/135210101.cms",
-      "dateLocation": "2026-10-26 | Times of India",
+      "dateLocation": "October 27, 2026 | Bengaluru, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Government Permits Pure Ethanol Flex-Fuel Vehicles",
-      "brief": "The Ministry of Road Transport and Highways has amended motor vehicle rules to officially permit pure ethanol flex-fuel vehicles, updating fuel specifications and emissions standards accordingly.",
+      "headline": "Infosys Cuts Revenue View Citing AI and Competition",
+      "brief": "Shares of Indian IT major Infosys fell after the company lowered its revenue growth forecast, highlighting intensifying competitive pressures and the disruptive impact of artificial intelligence.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/national/government-amends-motor-vehicle-rules-to-permit-pure-ethanol-flex-fuel-vehicles/article71626824.ece",
-      "dateLocation": "2026-10-26 | The Hindu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkVSX0U4bzJ0NS15dGRlUG96cGItNW5zNXZ0bF84bmRiNmJQOEdubGdlVkZUVnUzNDl1UFNvZHhZRVJZMXpzanBGRGtCQnRueTZKR3gweTdWYXlCWE4zOUZ1Q3RoUjBZaHpobVlNZHo5SXhzbTF1ZmpOODlnUWFJUER1TVp6Z1Jnc0QyemxOdEhOdzlyYndvVFNjelI2Rnpicm14U2pjSU1zM1ZFVWJOYU51NWctdnlJRnc?oc=5",
+      "dateLocation": "October 27, 2026 | Bengaluru, India",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Aiden Markram Outlines South Africa's WTC Ambitions",
-      "brief": "South African captain Aiden Markram expressed strong confidence in his team's ability to reach the ICC World Test Championship final ahead of their decisive upcoming clash against Australia.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/we-can-make-the-final-again-aiden-markram-outlines-south-africas-wtc-ambition-ahead-of-australia-decider/articleshow/135209937.cms",
-      "dateLocation": "2026-10-26 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Verizon Signs $2B AI Infrastructure Deal with AWS",
+      "brief": "Telecommunications giant Verizon has lifted its annual forecasts following a massive cloud and AI infrastructure partnership worth over $2 billion with Amazon Web Services.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXJNWmV4Ny1ON2FmYXdrclBkWWdrZXdfX2JHLUdoZ3ZLamJNdHl1NHc3RDk4TWUxZVRZMUN2QTVvMk01Ujk4Wmk2ejZOT3h3UmlWUmp6S0lLVHBSZmVvQ0c0Sm1xYVVMNXN4M2JkNWtKVUpoWEd4YloyWVJBME8tb0htQnhzNzA5V1ZWWlE5cE10a25nNWtxQmc5dDlGdF9MZzRYMllaMHI5eXlINXpCeVJKZmVFRmktZmFQZUtFOTNDNEx2OUlGemNBV1FuLUNDdWdFZQ?oc=5",
+      "dateLocation": "October 27, 2026 | New York, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ballon d'Or Race Heats Up Among Top Contenders",
-      "brief": "Lionel Messi remains in contention for football's highest individual honor alongside rising stars like Yamal and Mbappe, as the sports world anticipates the annual award announcement.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/ballon-dor-2026-lionel-messi-yamal-and-mbappe-among-favourites-how-the-winners-are-decided/articleshow/135210649.cms",
-      "dateLocation": "2026-10-26 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+      "headline": "Anthropic Files For IPO With Chilling AI Warning",
+      "brief": "AI startup Anthropic has filed for its initial public offering on Nasdaq, cautioning investors about the extreme future risks of advanced AI systems escaping human control.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-flags-risk-of-ai-systems-escaping-human-control-in-ipo-filing/articleshow/135214103.cms",
+      "dateLocation": "October 27, 2026 | San Francisco, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Ebola Experts to Investigate Nigeria Case Origin",
-      "brief": "Africa CDC officials and international scientists are launching an investigation into the origin of a recent Ebola case detected in Nigeria to prevent potential regional transmission.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkhwcTByU3NVa1k0UWdTQXJXQWdVd1RzajM0eDdFdFVSY1hQVF9jenRZSVIyVUptelVNREQ5ejZjTWk3d2hUSXpBczV1bjdIUTI4NTNCc3d1WVBaYnlROFhXWmVXR1l0RFJZbktzTnpNajFvWHlGWjI4WjNfZzcwX2twaURndHdRVXBUUHdHNHN5QkhDdWhsUlJiVlZGWVJyT01Xb28ybW82eHkwaHExRlVTU21FdEJYZmVoQmJSYWlGN21tSlV1aVlB?oc=5",
-      "dateLocation": "2026-10-26 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Lula da Silva Wins Record Fourth Brazilian Term",
-      "brief": "In a major political comeback, Lula da Silva secured a historic fourth presidential term in Brazil, defeating far-right opposition and defying regional political trends.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece",
-      "dateLocation": "2026-10-26 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Trump Issues Warning to Iran Amid Tensions",
-      "brief": "Former US President Donald Trump warned Iran that it is 'decision time' regarding regional maritime routes, threatening renewed military strikes if a formal agreement is not reached.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/make-a-deal-or-finish-it-off-trump-warns-decision-time-nears-on-iran-amid-threat-of-fresh-strikes-11793011026988.html",
-      "dateLocation": "2026-10-26 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Thousands Evacuated as Cyclone Arnab Nears Coast",
-      "brief": "Authorities in India have initiated mass evacuations across eastern coastal regions as Cyclone Arnab rapidly intensifies into a severe storm, threatening landfall in Andhra Pradesh.",
+      "headline": "Microsoft Extends Voluntary Buyouts to 60,000 Staff",
+      "brief": "Tech major Microsoft has announced a buyout program for approximately 60,000 employees across India, the US, the UK, and Canada, offering standard severance with no tenure requirements.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJXZlFWQnFMQ2dMTlpOeUtTcHUxZGR0UWRRR0Nuc0pHaHhrR05QYk01eUlCUUdwZzBWbEdmclA2RzI1RkZkQ1F2Qkc1N25Fd2YtLWNjMEVuaEN0cF9WNWRFaHE5SHpUZUROOWZNQTZCUkNiU3l5bTZpU1pxR285dVk0ZF9HTHZ4WjJVVlhvU0xCVlVqYS04WjhjdzNCU1FNMkhId0xRLV9GbUZFTHp3Mm1kdTBZUQ?oc=5",
-      "dateLocation": "2026-10-26 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-in-india-us-uk-and-canada-hr-head-amy-coleman-tells-staff-eligible-employees-will-receive-an-email-with-/articleshow/135215843.cms",
+      "dateLocation": "October 27, 2026 | Redmond, USA",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Storm Boelo Disrupts Transport Across the UK",
-      "brief": "Storm Boelo has brought gale-force winds and heavy rainfall to Scotland and northern England, causing widespread travel disruptions, power outages, and localized flood warnings.",
+      "headline": "US Appeals Court Limits Detained Migrant Rights",
+      "brief": "The US Court of Appeals for the Fifth Circuit ruled that immigrants detained after illegal entry are not constitutionally entitled to individualized bond hearings.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/a-us-appeals-court-ruled-10-7-that-immigrants-detained-after-entering-the-country-illegally-are-not-constitutionally-entitled-to-bond-hearings-reversing-a-july-ruling-affecting-texas-louisiana-and-mississippi/articleshow/135206252.cms",
+      "dateLocation": "October 27, 2026 | New Orleans, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Iran Fears Escalation as US Midterms Approach",
+      "brief": "Tehran is bracing for potential full-scale hostilities as the US bolsters military presence in the Middle East and domestic political dynamics shift ahead of elections.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/a-pause-before-escalation-why-iran-fears-a-all-out-war-after-us-midterm-polls-as-donald-trump-weighs-his-next-move-11793035955744.html",
+      "dateLocation": "October 27, 2026 | Tehran, Iran",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Gold Rises as Lower Oil Prices Ease Inflation",
+      "brief": "Precious metals gained ground as declining crude oil prices tempered near-term global inflation fears ahead of the upcoming Federal Reserve policy meeting.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+      "dateLocation": "October 27, 2026 | London, UK",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Budget 2027 May Consider Cutting Long-Term Capital Gains",
+      "brief": "The Indian government is reportedly evaluating proposals to lower the 12.5% long-term capital gains tax in the upcoming budget to revitalize domestic and foreign market sentiment.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/budget-2027-28-may-consider-cutting-ltcg-to-boost-stock-market-sentiment-11793032875571.html",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Double Fortified Salt Offers Solution to Anaemia",
+      "brief": "Public health experts highlight double fortified salt as a scalable, low-cost dietary intervention to tackle widespread iron deficiency and malnutrition across developing nations.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/opinion/op-ed/a-ready-solution-to-tackle-anaemia/article71628316.ece",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "De La Fuente and Pere Romeu Win Ballon d'Or",
+      "brief": "Luis de la Fuente and Pere Romeu took home the prestigious men's and women's coach of the year honors at the annual Ballon d'Or ceremony.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/de-la-fuente-wins-mens-ballon-dor-coach-of-the-year-pere-romeu-bags-womens-award/article71628867.ece",
+      "dateLocation": "October 27, 2026 | Paris, France",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Cyclone Arnab Threatens India’s Eastern Coast",
+      "brief": "Authorities in eastern India are rapidly evacuating thousands of residents as severe Cyclone Arnab approaches coastal regions, threatening heavy infrastructural damage.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/storm-boelo-weather-warnings-uk-faces-strong-winds-heavy-rain-and-travel-disruption-as-second-storm-hits-11793012918790.html",
-      "dateLocation": "2026-10-26 | Livemint",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJXZlFWQnFMQ2dMTlpOeUtTcHUxZGR0UWRRR0Nuc0pHaHhrR05QYk01eUlCUUdwZzBWbEdmclA2RzI1RkZkQ1F2Qkc1N25Fd2YtLWNjMEVuaEN0cF9WNWRFaHE5SHpUZUROOWZNQTZCUkNiU3l5bTZpU1pxR285dVk0ZF9HTHZ4WjJVVlhvU0xCVlVqYS04WjhjdzNCU1FNMkhId0xRLV9GbUZFTHp3Mm1kdTBZUQ?oc=5",
+      "dateLocation": "October 27, 2026 | Bhubaneswar, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     }
   ]
