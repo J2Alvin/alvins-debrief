@@ -1,132 +1,124 @@
 {
-  "lastUpdated": "2026-10-27T17:25:46.783Z",
+  "lastUpdated": "2026-10-27T21:47:26.275Z",
   "ticker": [
-    "Cyclone Arnab approaches Andhra Pradesh coast with high winds.",
-    "India seals T20 series against New Zealand after crushing win.",
-    "Indian court orders takedown of Modi-Adani documentary.",
-    "Nvidia commits $3 billion to Meta's new share offering.",
-    "India begins Asian Champions Trophy title defence with 13-0 win."
+    "Cyclone Arnab makes landfall in Andhra Pradesh",
+    "Israel election exit polls indicate deadlock",
+    "India seals T20 series against New Zealand",
+    "Houthis claim attack on Saudi oil facility",
+    "GST rules and registration norms updated"
   ],
   "articles": [
     {
-      "headline": "Indian Court Orders Takedown of Modi and Adani Documentary",
-      "brief": "The Calcutta High Court has ordered major social media platforms to remove a 36-minute documentary concerning Prime Minister Narendra Modi and Gautam Adani. Hotmail co-founder Sabeer Bhatia also faces a significant defamation suit in connection with the controversial release.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXhzaUVOakxHWU5rUVV0TGR3bXZNZ0VnazRJTnM3dVNoVXB4ZzM2dUJLekprWkJTckZtS2lSS3FyUmJPYkZtR19GWWFYWlFodnFUQ0hwQTNJZ2dSd1B2OWY4WnN0SUIwZC11c053VExrajZWRktnU0dRYUIzaUdsdmVsM1hwNk83WGVTbjRjQS1SX1BVcDBGWFY4Y3JFdUZQ?oc=5",
-      "dateLocation": "2026-10-27 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Deploys Extra Forces Following Escalating Border Dam Protests",
-      "brief": "Authorities in India have deployed additional security forces to manage rising protests and tensions surrounding a contentious dam project located near the Chinese border, as local opposition continues to escalate.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnpXdVRNWUxHa2p5VVhGMTFaTVBLcjZaM2gxTXdEb0d5VmNOX1l2eXVoZHJRbFl4OTMtOVlSbEdyUk1mRWVWTUd0NHhxQTJicDc4aUZQSVh1a1JmMV9uaHlmVXFTVG9FOWd5ZmJUN2hQdTBoTlhLbVkwNWRrUXhVeXpzdUkwckZxSDVFUHRUSkU3azFSeVQzTEhSRHVqQlhJSjZIRjYtS3NhbDV0LVMyZm5WMWQ4RWt1SWU5RVdoTQ?oc=5",
-      "dateLocation": "2026-10-27 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Delhi Invites Pakistan Minister for SCO Civilisational Dialogue",
-      "brief": "In a significant diplomatic move, India has invited a Pakistani minister to attend the inaugural SCO Civilisational Dialogue in New Delhi. Prime Minister Modi is set to inaugurate the high-profile event featuring delegates from over 25 countries.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/national/in-a-first-since-2023-delhi-invites-pakistan-minister-for-inaugural-sco-civilisational-dialogue-in-november/article71630539.ece",
-      "dateLocation": "2026-10-27 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Cyclone Arnab Threatens Andhra Pradesh With Heavy Rains and Winds",
-      "brief": "Cyclone Arnab is barreling towards the Andhra Pradesh coast, prompting widespread disaster preparations, flight cancellations, and the hoisting of high-danger signals at major ports as coastal districts brace for severe impact.",
+      "headline": "Cyclone Arnab makes severe landfall on Andhra coast",
+      "brief": "Very severe cyclonic storm Arnab has begun its landfall process near Narsapur and Yanam. Tens of thousands of residents have been evacuated, while flight and train services remain heavily disrupted across Andhra Pradesh and Odisha.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
-      "dateLocation": "2026-10-27 | The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
+      "dateLocation": "October 27, 2026 | Visakhapatnam, India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Tamil Nadu Makes Digital Payments Mandatory for Large Liquor Purchases",
-      "brief": "The Tamil Nadu State Marketing Corporation has announced that digital payments via UPI, debit, and credit cards will become mandatory for all retail liquor purchases exceeding ₹1,000 starting November 1, aimed at enhancing transparency and financial accountability.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/why-is-chennai-making-digital-payments-mandatory-for-liquor-purchases-above-1-000-from-november-1-11793120525675.html",
-      "dateLocation": "2026-10-27 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Israel election exit polls show tight parliamentary deadlock",
+      "brief": "Initial exit polls from the Israeli elections indicate a narrow edge for the opposition, leaving Prime Minister Benjamin Netanyahu and his rivals short of a clear majority. Coalition arithmetic will likely determine the final outcome.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece",
+      "dateLocation": "October 27, 2026 | Jerusalem, Israel",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "GST Rules on Post-Sale Discounts and Refunds to Shift in November",
-      "brief": "Businesses across India will navigate revised goods and services tax regulations starting November 1, as authorities implement updated frameworks addressing post-sale discounts, export refunds, and registration timelines to ease tax dispute resolutions.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/gst-rules-on-post-sale-discounts-export-refunds-to-change-from-1-november-11793118068862.html",
-      "dateLocation": "2026-10-27 | LiveMint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "India secures T20 series victory over New Zealand",
+      "brief": "Team India clinched the T20 series in dominant fashion following a brilliant century from opening batsman Abhishek, which completely flattened the New Zealand bowling attack.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVJHck5ZOU1YWjlsVXQxOGZoLWduUllfSmNwbmhwRF9ldTRxc2d0RmR6dUtaSERjZ25fenhDam00UFlwdUtsc2xWMjh6ZXo4ekZEQjFZZmIyNzNGVkVkT2wySWx1T0FxRjhFazNkVkljTnF6U1BmX3pNRXhOVktlcUJ6RGEydEVEN3ptLXJRRXRuRUtvdDF6U0lqY2x2M3lRSTZNZS1tT2M0Zw?oc=5",
+      "dateLocation": "October 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Issues National Alert Over Counterfeit Defitelio Supply",
-      "brief": "The Central Drugs Standard Control Organization has issued a strict safety alert to drug inspectors nationwide following warnings from the World Health Organization regarding a circulating batch of counterfeit Defitelio medications.",
+      "headline": "Houthis claim missile strike on Saudi oil refinery",
+      "brief": "Yemen's Houthi movement claimed responsibility for a missile attack targeting the Ras Tanura oil refinery in Saudi Arabia, prompting loud blasts to shake Riyadh and intensifying regional security concerns.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
+      "dateLocation": "October 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India court orders takedown of Adani-Modi documentary",
+      "brief": "An Indian court has issued an official order demanding the removal of a controversial documentary focusing on billionaire Gautam Adani and Prime Minister Narendra Modi.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXhzaUVOakxHWU5rUVV0TGR3bXZNZ0VnazRJTnM3dVNoVXB4ZzM2dUJLekprWkJTckZtS2lSS3FyUmJPYkZtR19GWWFYWlFodnFUQ0hwQTNJZ2dSd1B2OWY4WnN0SUIwZC11c053VExrajZWRktnU0dRYUIzaUdsdmVsM1hwNk83WGVTbjRjQS1SX1BVcDBGWFY4Y3JFdUZQ?oc=5",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Opposition plans public impeachment event against CEC",
+      "brief": "Following venue snubs in Delhi, opposition parties have announced plans to hold a mock public impeachment event against Chief Election Commissioner Rajiv Kumar at the residence of Mallikarjun Kharge.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/after-ashoka-hotels-snub-oppn-to-hold-public-impeachment-of-cec-at-kharges-residence/articleshow/135238768.cms",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Supreme Court warns pharma industry over free market",
+      "brief": "The Supreme Court of India stated that authorities cannot allow the pharmaceutical industry to run amok under the guise of a free market, emphasizing the need for strict consumer protection and pricing regulations.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/india-sounds-alert-over-counterfeit-defitelio-11793100174468.html",
-      "dateLocation": "2026-10-27 | LiveMint",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-cannot-let-pharma-industry-run-amok-in-name-of-free-market/articleshow/135245670.cms",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Nvidia Commits $3 Billion to Meta Share Offering and AI Partnership",
-      "brief": "Tech giants Nvidia and Meta have deepened their strategic partnership, with Nvidia committing $3 billion toward Meta's new share offering while expanding collaborative efforts on advanced AI assistant technologies.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-commits-3-billion-to-metas-new-share-offering-and-expands-work-on-zuckerbergs-muse-ai-assistant-which-can-connect-to-users-email-and-calendar-apps-as-the-two-tech-giants-deepen-their-partnership/articleshow/135235999.cms",
-      "dateLocation": "2026-10-27 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Eclipses $850 Million in Arms Exports to European Markets",
-      "brief": "Amid ongoing global conflicts, India's defense sector has experienced an unprecedented surge, exporting over $850 million worth of weapons and ammunition to European nations eager to restock military supplies.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-exported-over-850m-worth-of-arms-to-europe-since-start-of-ukraine-russia-war/articleshow/135240413.cms",
-      "dateLocation": "2026-10-27 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Defence Council Approves Project 18A for Next-Generation Destroyers",
-      "brief": "The Indian Defence Acquisition Council has greenlit the massive Project 18A, a multi-billion-rupee initiative aimed at designing and constructing bigger, heavier, and stealthier next-generation destroyers for the Indian Navy.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/plan-for-bigger-heavier-stealthy-next-generation-destroyers-gets-defence-councils-approval/articleshow/135240911.cms",
-      "dateLocation": "2026-10-27 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Crushes Bangladesh 13-0 in Asian Champions Trophy Opener",
-      "brief": "Defending champions India launched their Asian Champions Trophy hockey campaign with a dominant 13-0 victory over Bangladesh, featuring a stellar hat-trick from striker Mandeep Singh.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/13-goal-blitz-india-show-no-mercy-as-mandeep-singh-runs-riot-at-asian-champions-trophy-hockey-tournament/articleshow/135240396.cms",
-      "dateLocation": "2026-10-27 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Abhishek Century Seals T20 Series Victory for India Over New Zealand",
-      "brief": "An explosive century from opener Abhishek Sharma powered India to a comprehensive victory over New Zealand, comfortably sealing the T20 international series with dominant performances across disciplines.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVJHck5ZOU1YWjlsVXQxOGZoLWduUllfSmNwbmhwRF9ldTRxc2d0RmR6dUtaSERjZ25fenhDam00UFlwdUtsc2xWMjh6ZXo4ekZEQjFZZmIyNzNGVkVkT2wySWx1T0FxRjhFazNkVkljTnF6U1BmX3pNRXhOVktlcUJ6RGEydEVEN3ptLXJRRXRuRUtvdDF6U0lqY2x2M3lRSTZNZS1tT2M0Zw?oc=5",
-      "dateLocation": "2026-10-27 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ex-RBI Chief Rajan Warns Against Depleting Reserves to Defend Rupee",
-      "brief": "Former Reserve Bank of India Governor Raghuram Rajan has advised that monetary authorities should avoid aggressively depleting foreign exchange reserves to artificially defend the rupee against currency fluctuations.",
+      "headline": "Regional rural banks to establish cybersecurity centres",
+      "brief": "Regional rural banks across India are setting up dedicated cybersecurity centres to enhance digital infrastructure, develop advanced threat intelligence, and protect rural financial services from emerging cyber risks.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUQ3WnA0SGYtbGQzZDB3SUVhRklXZHFWZWpERVFEU1I2cmZFVi03d25nREtBc1pPMHdmbnN5NUdxU2tuWVRZNFlNdmptR1VLZEY4NkcyaGJ1ckR6VU85dzRWWE9VZFR3SjI1c0phdEdJdHk5eURwTGZLeDdqdWUxTXBPXzF4OHRsMkVXUEFjOVF6c0lTb3kwVnFYaWFEZGF0NlBuRUNwMDZwQS1fOHZ1QXgxeDhzM1lXcEE?oc=5",
-      "dateLocation": "2026-10-27 | Reuters",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-to-set-up-cybersecurity-centres-develop-threat-intel/articleshow/135243325.cms",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
       "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Microsoft Offers Voluntary Exits Impacting Global Workforce Staff",
-      "brief": "Microsoft has introduced a sweeping voluntary exit program for a significant portion of its global workforce, raising concerns and questions regarding potential operational impacts on its massive employee base in India.",
+      "headline": "Centre eases GST registration norms for MSME sector",
+      "brief": "The Central Board of Indirect Taxes and Customs has simplified GST registration norms for MSMEs by dropping mandatory Udyam proof requirements and establishing a strict seven-day approval timeline.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/gst-registration-gets-easier-as-cbic-drops-udyam-proof-sets-seven-day-limit-for-approvals/articleshow/135243010.cms",
+      "dateLocation": "October 27, 2026 | New Delhi, India",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Inc seeks AI talent to transform manufacturing",
+      "brief": "Corporate leaders across India are actively hunting for specialized artificial intelligence talent to modernize factory floors, automate supply chains, and transform traditional manufacturing operations.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/india-inc-wants-ai-talent-to-transform-manufacturing-space/articleshow/135244962.cms",
+      "dateLocation": "October 27, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Tata Electronics exports near one lakh crore rupees",
+      "brief": "Tata Electronics' exports are projected to approach Rs 1 lakh crore in fiscal year 2026, driven heavily by Apple's accelerating manufacturing and sourcing push inside the Indian market.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/tata-electronics-exports-near-rs-1-lakh-crore-in-fy26-as-apple-deepens-india-push/articleshow/135243662.cms",
+      "dateLocation": "October 27, 2026 | Bengaluru, India",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Microsoft evaluates voluntary exits for global staff",
+      "brief": "Microsoft's sweeping corporate exit plan could impact thousands of employees across its extensive workforce network, prompting major workforce transitions and tech sector discussions.",
       "category": "technology",
       "sourceUrl": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/microsoft-offers-voluntary-exits-to-60000-employees-whats-in-it-who-qualifies-and-will-indias-23000-strong-workforce-be-impacted/articleshow/135224139.cms",
-      "dateLocation": "2026-10-27 | The Economic Times",
+      "dateLocation": "October 27, 2026 | Redmond, USA",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Record Turnout Reported as Israeli Voters Deliver Verdict on Netanyahu",
-      "brief": "Israelis turned out in record numbers to cast their ballots amid high regional tensions, fresh trauma from ongoing multi-front conflicts, and intense public scrutiny over security and political accountability.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/record-turnout-as-israeli-voters-deliver-verdict-on-netanyahu/article71632993.ece",
-      "dateLocation": "2026-10-27 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "San Diego student wins prize for wearable stethoscope",
+      "brief": "A high school student from San Diego has secured a prestigious national entrepreneurship prize for developing an innovative wearable stethoscope designed to dramatically improve respiratory diagnostics in rural clinics.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/meet-kayley-xu-a-san-diego-student-who-developed-aucura-a-wearable-stethoscope-designed-to-improve-respiratory-diagnostics-and-won-a-25000-national-entrepreneurship-prize/articleshow/135213253.cms",
+      "dateLocation": "October 27, 2026 | San Diego, USA",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Mumbai airport hit by severe check-in network outage",
+      "brief": "A major technical network outage at Mumbai Airport forced airline staff to switch to manual check-in procedures, causing widespread delays across hundreds of domestic and international flights.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/mumbai-airport-faces-network-outage-check-in-shifts-to-manual-mode-327-flights-delayed-11793124239765.html",
+      "dateLocation": "October 27, 2026 | Mumbai, India",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
