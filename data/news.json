@@ -1,124 +1,124 @@
 {
-  "lastUpdated": "2026-10-27T10:00:00.000Z",
+  "lastUpdated": "2026-10-27T03:37:03.406Z",
   "ticker": [
-    "India Approves $22B Military Purchases",
-    "Verizon Lifts Forecasts After AWS Deal",
-    "Microsoft Offers Buyouts to 60,000",
-    "Anthropic Files For Landmark IPO",
-    "Supreme Court Hears Privacy Law Challenge"
+    "Cyclone Arnab approaches Andhra-Odisha coast",
+    "Israel votes in first election post-Oct 7",
+    "Harry Kane wins historic 2026 Ballon d'Or",
+    "India approves $22B military purchases",
+    "Microsoft offers voluntary exits to 60,000 staff"
   ],
   "articles": [
     {
-      "headline": "Indian Media Outlets Contest Modi’s Privacy Law",
-      "brief": "Major Indian publishers, including outlets tied to Ambani and Adani, are challenging the government's privacy legislation in the Supreme Court, arguing it impacts press freedom and transparency.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Approves $22 Billion in Military Purchases",
-      "brief": "The Indian government has granted in-principle approval for $22 billion in major military acquisitions to bolster national defense capabilities and modernize its armed forces.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWtlUlNoTlFhQVdNR25NbFFTYUYtcTlOeWhtWnNfVENzOWo2cl9NZ1dpdlhRU3B6VVRvekhvVGdvVHpKMWx0N1Rick9xR0cweWwtRllzN0tLMVJydktMOGVQTGNnbnltSnVMRFVuMHJaaFV6OXVBbFVVbnhTUzgxdGs2NS1WNU5QVXYwaGJ4bk96RERnbkRyMEhjNHpmMEpIVEQxcA?oc=5",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ather Energy Posts First Ever Quarterly Profit",
-      "brief": "Electric scooter maker Ather Energy has reported its first-ever quarterly profit, driving a 10% surge in its share price as demand for EV solutions accelerates.",
+      "headline": "Ambani and Adani outlets contest Indian privacy law",
+      "brief": "Major Indian media outlets backed by billionaires Mukesh Ambani and Gautam Adani are legally challenging provisions of Prime Minister Narendra Modi’s data privacy law, citing constitutional concerns over press freedom and reporting obligations.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnhEVHdQMmhvSjlHM0h6dzZuNWJnQi14MW1wa1Q3T1dTekdSaVpxRjVUMGhTWTBHVjF0amdGMkd2ZVNGUDFtTFhXUG54aS0xWU5VYW9nQVZMS05EV2ZQN3RaWjNwYmw4Snh1YTFJckZ2NTd0ZzE4RF9LYmhlQVBUX2xBSl91WlJCY0x0TXQ5Y090YjRKQ19BQWJ1WWYxU1A4bU5OX284WG5MUUF2YTdV?oc=5",
-      "dateLocation": "October 27, 2026 | Bengaluru, India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04WklBblBNQmhvM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
+      "dateLocation": "2026-10-27 | New Delhi, India / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Infosys Cuts Revenue View Citing AI and Competition",
-      "brief": "Shares of Indian IT major Infosys fell after the company lowered its revenue growth forecast, highlighting intensifying competitive pressures and the disruptive impact of artificial intelligence.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkVSX0U4bzJ0NS15dGRlUG96cGItNW5zNXZ0bF84bmRiNmJQOEdubGdlVkZUVnUzNDl1UFNvZHhZRVJZMXpzanBGRGtCQnRueTZKR3gweTdWYXlCWE4zOUZ1Q3RoUjBZaHpobVlNZHo5SXhzbTF1ZmpOODlnUWFJUER1TVp6Z1Jnc0QyemxOdEhOdzlyYndvVFNjelI2Rnpicm14U2pjSU1zM1ZFVWJOYU51NWctdnlJRnc?oc=5",
-      "dateLocation": "October 27, 2026 | Bengaluru, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Verizon Signs $2B AI Infrastructure Deal with AWS",
-      "brief": "Telecommunications giant Verizon has lifted its annual forecasts following a massive cloud and AI infrastructure partnership worth over $2 billion with Amazon Web Services.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXJNWmV4Ny1ON2FmYXdrclBkWWdrZXdfX2JHLUdoZ3ZLamJNdHl1NHc3RDk4TWUxZVRZMUN2QTVvMk01Ujk4Wmk2ejZOT3h3UmlWUmp6S0lLVHBSZmVvQ0c0Sm1xYVVMNXN4M2JkNWtKVUpoWEd4YloyWVJBME8tb0htQnhzNzA5V1ZWWlE5cE10a25nNWtxQmc5dDlGdF9MZzRYMllaMHI5eXlINXpCeVJKZmVFRmktZmFQZUtFOTNDNEx2OUlGemNBV1FuLUNDdWdFZQ?oc=5",
-      "dateLocation": "October 27, 2026 | New York, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Anthropic Files For IPO With Chilling AI Warning",
-      "brief": "AI startup Anthropic has filed for its initial public offering on Nasdaq, cautioning investors about the extreme future risks of advanced AI systems escaping human control.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-flags-risk-of-ai-systems-escaping-human-control-in-ipo-filing/articleshow/135214103.cms",
-      "dateLocation": "October 27, 2026 | San Francisco, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Microsoft Extends Voluntary Buyouts to 60,000 Staff",
-      "brief": "Tech major Microsoft has announced a buyout program for approximately 60,000 employees across India, the US, the UK, and Canada, offering standard severance with no tenure requirements.",
+      "headline": "India approves $22 billion in military hardware purchases",
+      "brief": "The Indian government has given in-principle approval for $22 billion worth of military purchases to bolster defense capabilities amid rising regional security tensions and ongoing modernization efforts.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-in-india-us-uk-and-canada-hr-head-amy-coleman-tells-staff-eligible-employees-will-receive-an-email-with-/articleshow/135215843.cms",
-      "dateLocation": "October 27, 2026 | Redmond, USA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWtlUlNoTlFhQVdNR25NbFFTYUYtcTlOeWhtWnNfVENzOWo2cl9NZ1dpdlhRU3B6VVRvekhvVGdvVHpKMWx0N1Rick9xR0cweWwtRllzN0tLMVJydktMOGVQTGNnbnltSnVMRFVuMHJaaFV6OXVBbFVVbnhTUzgxdGs2NS1WNU5QVXYwaGJ4bk96RERnbkRyMEhjNHpmMEpIVEQxcA?oc=5",
+      "dateLocation": "2026-10-27 | New Delhi, India / Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "US Appeals Court Limits Detained Migrant Rights",
-      "brief": "The US Court of Appeals for the Fifth Circuit ruled that immigrants detained after illegal entry are not constitutionally entitled to individualized bond hearings.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/a-us-appeals-court-ruled-10-7-that-immigrants-detained-after-entering-the-country-illegally-are-not-constitutionally-entitled-to-bond-hearings-reversing-a-july-ruling-affecting-texas-louisiana-and-mississippi/articleshow/135206252.cms",
-      "dateLocation": "October 27, 2026 | New Orleans, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Cyclone Arnab prompts mass evacuations in eastern India",
+      "brief": "Authorities in Andhra Pradesh and Odisha are evacuating thousands of residents as Cyclone Arnab, classified as a very severe storm, nears the eastern coastline with heavy rainfall and destructive wind forecasts.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJXZlFWQnFMQ2dMTlpOeUtTcHUxZGR0UWRRR0Nuc0pHaHhrR05QYk01eUlCUUdwZzBWbEdmclA2RzI1RkZkQ1F2Qkc1N25Fd2YtLWNjMEVuaEN0cF9WNWRFaHE5SHpUZUROOWZNQTZCUkNiU3l5bTZpU1pxR285dVk0ZF9HTHZ4WjJVVlhvU0xCVlVqYS04WjhjdzNCU1FNMkhId0xRLV9GbUZFTHp3Mm1kdTBZUQ?oc=5",
+      "dateLocation": "2026-10-27 | Bhubaneswar, India / The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Iran Fears Escalation as US Midterms Approach",
-      "brief": "Tehran is bracing for potential full-scale hostilities as the US bolsters military presence in the Middle East and domestic political dynamics shift ahead of elections.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/a-pause-before-escalation-why-iran-fears-a-all-out-war-after-us-midterm-polls-as-donald-trump-weighs-his-next-move-11793035955744.html",
-      "dateLocation": "October 27, 2026 | Tehran, Iran",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Microsoft offers voluntary exit packages to 60,000 staff",
+      "brief": "Microsoft has introduced voluntary exit packages impacting up to 60,000 employees globally, including select Indian teams, as major tech enterprises aggressively reallocate capital toward artificial intelligence investments.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece",
+      "dateLocation": "2026-10-27 | Bengaluru, India / The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Gold Rises as Lower Oil Prices Ease Inflation",
-      "brief": "Precious metals gained ground as declining crude oil prices tempered near-term global inflation fears ahead of the upcoming Federal Reserve policy meeting.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
-      "dateLocation": "October 27, 2026 | London, UK",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "US political candidates tailor messages for voter AI models",
+      "brief": "An exclusive report reveals that US political campaigns are increasingly custom-formatting their messaging to appeal directly to artificial intelligence models utilized by everyday voters for political research.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUQ1U254bkc5VjVYM2lpaUtFbXRXX29JU0NCQmpUSTQwbGg2MmJVdHFYeExvZW1oWGdfRVl1V0hMUGVxV1NFajFRWGM5ZWhDU3ZBNnR2cEw4VF83NlJ3RXN2aUJJLTJySm04RjU2X1NZcm1femNwVjhEZnBCMWxyYXZKOGEzVDVrT0Ztc1IzMWFoMEtROVJWSmJMak9KakhNaWt0UUd1UXhadzhSaTNVakQzMmJCckc5OU1UQ1FYc3I?oc=5",
+      "dateLocation": "2026-10-27 | Washington, USA / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Budget 2027 May Consider Cutting Long-Term Capital Gains",
-      "brief": "The Indian government is reportedly evaluating proposals to lower the 12.5% long-term capital gains tax in the upcoming budget to revitalize domestic and foreign market sentiment.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/budget-2027-28-may-consider-cutting-ltcg-to-boost-stock-market-sentiment-11793032875571.html",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Double Fortified Salt Offers Solution to Anaemia",
-      "brief": "Public health experts highlight double fortified salt as a scalable, low-cost dietary intervention to tackle widespread iron deficiency and malnutrition across developing nations.",
+      "headline": "Plant-based meat yields higher absorbable protein than meat",
+      "brief": "Recent laboratory tests indicate that certain plant-based meat substitutes offer a higher proportion of bioavailable, absorbable protein compared to traditional chicken counterparts, though scientists urge further health studies.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/opinion/op-ed/a-ready-solution-to-tackle-anaemia/article71628316.ece",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
+      "dateLocation": "2026-10-27 | New Delhi, India / The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "De La Fuente and Pere Romeu Win Ballon d'Or",
-      "brief": "Luis de la Fuente and Pere Romeu took home the prestigious men's and women's coach of the year honors at the annual Ballon d'Or ceremony.",
+      "headline": "Jordan airstrikes hit militant positions in Syria",
+      "brief": "The Jordanian military launched retaliatory airstrikes destroying multiple militant positions inside Syria, killing and wounding numerous fighters linked to a recent deadly attack against a church.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/jordan-strikes-militant-groups-in-syria-after-church-attack/article71629645.ece",
+      "dateLocation": "2026-10-27 | Amman, Jordan / The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Israel holds first high-stakes election since October 7",
+      "brief": "Israeli voters are casting ballots for all 120 seats in the Knesset in a crucial election that tests Prime Minister Benjamin Netanyahu’s political survival following years of regional warfare.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/israel-elections-netanyahu-s-power-at-stake-gadi-eisenkots-challenge-wholl-win-and-possible-poll-outcomes-explained-11793065093131.html",
+      "dateLocation": "2026-10-27 | Jerusalem, Israel / Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Brazil court bars defeated Bolsonaro from leaving country",
+      "brief": "A Brazilian court has ordered former leader Jair Bolsonaro’s son and political allies to surrender their passports and prohibited them from leaving the country amid ongoing legal investigations.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-court-orders-defeated-flvio-bolsonaro-to-surrender-passports-bars-him-from-leaving/articleshow/135223231.cms",
+      "dateLocation": "2026-10-27 | Brasilia, Brazil / Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian opposition leader Rahul Gandhi acquitted in defamation case",
+      "brief": "Leading Indian television networks report that opposition leader Rahul Gandhi has been formally acquitted in a high-profile defamation case, providing a major political boost to his party.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXRIT3d4cVdiZ2stSmhyMjRvck9uYThSTlR4eVIwSmFHMDJHblJTT2laR3IyS1R6dmpWN2tOZEtsQkx3RTN4REdxcFZlNWFIT1pFS0VET3lxS2I1aVN2VHdOU2FDa2pSTVYyUXM3YmV0VkRFNmFHc29mcm1YVHNRN0pqQ3Vzb2M5czVhWnVqY3N3dWpHMGhGOURlTm9NSmhCc2ZoUklseWYyWUNWVklQczktcXl4TmxfQWU5ZjVZVTc?oc=5",
+      "dateLocation": "2026-10-27 | New Delhi, India / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Harry Kane makes history with dual Ballon d'Or victory",
+      "brief": "Bayern Munich striker Harry Kane secured the 2026 Ballon d'Or and the Gerd Müller Trophy, becoming the first player in history to win two individual awards in a single ceremony after scoring 73 goals.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/de-la-fuente-wins-mens-ballon-dor-coach-of-the-year-pere-romeu-bags-womens-award/article71628867.ece",
-      "dateLocation": "October 27, 2026 | Paris, France",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/harry-kane-wins-2026-ballon-dor-ends-englands-25-year-wait-and-makes-history-as-first-player-to-win-two-individual-awards-in-one-night/articleshow/135221643.cms",
+      "dateLocation": "2026-10-27 | Paris, France / Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cyclone Arnab Threatens India’s Eastern Coast",
-      "brief": "Authorities in eastern India are rapidly evacuating thousands of residents as severe Cyclone Arnab approaches coastal regions, threatening heavy infrastructural damage.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJXZlFWQnFMQ2dMTlpOeUtTcHUxZGR0UWRRR0Nuc0pHaHhrR05QYk01eUlCUUdwZzBWbEdmclA2RzI1RkZkQ1F2Qkc1N25Fd2YtLWNjMEVuaEN0cF9WNWRFaHE5SHpUZUROOWZNQTZCUkNiU3l5bTZpU1pxR285dVk0ZF9HTHZ4WjJVVlhvU0xCVlVqYS04WjhjdzNCU1FNMkhId0xRLV9GbUZFTHp3Mm1kdTBZUQ?oc=5",
-      "dateLocation": "October 27, 2026 | Bhubaneswar, India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Putellas claims 2026 Ballon d'Or Feminin award",
+      "brief": "Spanish football star Alexia Putellas added another prestigious accolade to her illustrious career by winning the 2026 Ballon d'Or Feminin award following a stellar season for club and country.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdi16Ny01RmxvOUZLWVB4UDFDak5LWFhweml3ZGFxaV9HYzkyS1hZMldjUUdZSng3YklkeVdCb1dYYXhpMG5KX3VmTWo5ZWtuQkJKMVNkMHZDMnQ1ZzZFeTdESHBSVmkxUWl3bWhVZTN4ZlNIbGJjTmNkbllqZGRVNUFoZmM0LTBvVTJJRllpTHJHeWtjWVdZNg?oc=5",
+      "dateLocation": "2026-10-27 | Paris, France / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Ather Energy logs first quarterly profit as shares jump",
+      "brief": "Electric scooter maker Ather Energy posted its maiden quarterly net profit, driving a 10% surge in its share price as domestic EV adoption accelerates across urban Indian markets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnhEVHdQMmhvSjlHM0h6dzZuNWJnQi14MW1wa1Q3T1dTekdSaVpxRjVUMGhTWTBHVjF0amdGMkd2ZVNGUDFtTFhXUG54aS0xWU5VYW9nQVZMS05EV2ZQN3RaWjNwYmw4Snh1YTFJckZ2NTd0ZzE4RF9LYmhlQVBUX2xBSl91WlJCY0x0TXQ5Y090YjRKQ19BQWJ1WWYxU1A4bU5OX284WG5MUUF2YTdV?oc=5",
+      "dateLocation": "2026-10-27 | Bengaluru, India / Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India weighs capital gains tax cut to lift sentiment",
+      "brief": "The Indian government is reportedly considering reductions to the long-term capital gains tax in the upcoming budget to bolster retail investor participation and stimulate stock market sentiment.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/budget-2027-28-may-consider-cutting-ltcg-to-boost-stock-market-sentiment-11793032875571.html",
+      "dateLocation": "2026-10-27 | New Delhi, India / Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
