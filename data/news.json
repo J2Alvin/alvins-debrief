@@ -1,124 +1,76 @@
 {
-  "lastUpdated": "2026-10-27T03:37:03.406Z",
+  "lastUpdated": "2026-10-27T11:33:54.955Z",
   "ticker": [
-    "Cyclone Arnab approaches Andhra-Odisha coast",
-    "Israel votes in first election post-Oct 7",
-    "Harry Kane wins historic 2026 Ballon d'Or",
-    "India approves $22B military purchases",
-    "Microsoft offers voluntary exits to 60,000 staff"
+    "Cyclone Arnab approaches Andhra coast",
+    "India thrashes New Zealand in T20I",
+    "Israel parliamentary elections underway",
+    "Maharashtra announces ₹7,500 crore drought relief",
+    "Ex-RBI chief warns against reserve depletion"
   ],
   "articles": [
     {
-      "headline": "Ambani and Adani outlets contest Indian privacy law",
-      "brief": "Major Indian media outlets backed by billionaires Mukesh Ambani and Gautam Adani are legally challenging provisions of Prime Minister Narendra Modi’s data privacy law, citing constitutional concerns over press freedom and reporting obligations.",
+      "headline": "Ex-RBI Chief Urges Caution on Rupee Defence",
+      "brief": "Former Reserve Bank of India chief Raghuram Rajan has stated that India should not deplete its foreign exchange reserves to defend the weakening rupee against global market pressures, advocating for structural economic stability instead.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUQ3WnA0SGYtbGQzZDB3SUVhRklXZHFWZWpERVFEU1I2cmZFVi03d25nREtBc1pPMHdmbnN5NUdxU2tuWVRZNFlNdmptR1VLZEY4NkcyaGJ1ckR6VU85dzRWWE9VZFR3SjI1c0phdEdJdHk5eURwTGZLeDdqdWUxTXBPXzF4OHRsMkVXUEFjOVF6c0lTb3kwVnFYaWFEZGF0NlBuRUNwMDZwQS1fOHZ1QXgxeDhzM1lXcEE?oc=5",
+      "dateLocation": "October 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Indian Media Groups Challenge Privacy Law in Court",
+      "brief": "Major Indian media publishers, including outlets linked to industrial giants, are legally contesting the government's digital personal data law, warning that compliance mandates pose severe shutdown risks for newsrooms across the country.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04WklBblBNQmhvM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
-      "dateLocation": "2026-10-27 | New Delhi, India / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZ6a0RNdDZHNVJ5M2xGeG5TR0x3VHNpSXBmaW95aTdjVS1nZDJRenJaNlZCUWltMUpzRnMwdlF4YTdPY0haaFJlSTI4bjNVRWdIR2ZWR19rWDQweElGYl94T1MyX3g4R3doWmxVYjRJX2JObDRWMVRqdFdNMzdKWl9pS1RRTEZISGhMY29FaF9FSVg1QVBKazlPRU1QWGtZcjBVV19uZ3NPVGZwel9mMGV1dzU?oc=5",
+      "dateLocation": "October 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India approves $22 billion in military hardware purchases",
-      "brief": "The Indian government has given in-principle approval for $22 billion worth of military purchases to bolster defense capabilities amid rising regional security tensions and ongoing modernization efforts.",
+      "headline": "Thousands Evacuate as Cyclone Arnab Nears Coast",
+      "brief": "Mass evacuations are underway along India's eastern coast as Cyclone Arnab rapidly intensifies, with authorities cancelling express trains, closing coastal areas, and putting disaster response teams on high alert ahead of landfall.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWtlUlNoTlFhQVdNR25NbFFTYUYtcTlOeWhtWnNfVENzOWo2cl9NZ1dpdlhRU3B6VVRvekhvVGdvVHpKMWx0N1Rick9xR0cweWwtRllzN0tLMVJydktMOGVQTGNnbnltSnVMRFVuMHJaaFV6OXVBbFVVbnhTUzgxdGs2NS1WNU5QVXYwaGJ4bk96RERnbkRyMEhjNHpmMEpIVEQxcA?oc=5",
-      "dateLocation": "2026-10-27 | New Delhi, India / Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTNPb2Z0WW9ZaHZ4QmJkc0J0dDlxcnR5d2xEWHU3TFpLMlBRMlZNMmtrU0I0Q3pobXR4ZGZ5dVpsOGV1TWJMejV3TTVqZDNrcXdQY3VWSHhsRkVmSFhpU19Ya0FGRDJXclUteFpyWldRZlBnZVA2eWtqaXNJOUV2T29mMGw5RUc5UmtXbXJscHhEcld0WlNuakNkNlFHMFRhUFlPdTZTRUQteTZLdDJHaWpOX2s1c28?oc=5",
+      "dateLocation": "October 27, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Cyclone Arnab prompts mass evacuations in eastern India",
-      "brief": "Authorities in Andhra Pradesh and Odisha are evacuating thousands of residents as Cyclone Arnab, classified as a very severe storm, nears the eastern coastline with heavy rainfall and destructive wind forecasts.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJXZlFWQnFMQ2dMTlpOeUtTcHUxZGR0UWRRR0Nuc0pHaHhrR05QYk01eUlCUUdwZzBWbEdmclA2RzI1RkZkQ1F2Qkc1N25Fd2YtLWNjMEVuaEN0cF9WNWRFaHE5SHpUZUROOWZNQTZCUkNiU3l5bTZpU1pxR285dVk0ZF9HTHZ4WjJVVlhvU0xCVlVqYS04WjhjdzNCU1FNMkhId0xRLV9GbUZFTHp3Mm1kdTBZUQ?oc=5",
-      "dateLocation": "2026-10-27 | Bhubaneswar, India / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Indian Minister Denies US Pressure on Oil",
+      "brief": "India's oil minister has clarified that the United States has exerted no pressure on the nation to cut down its crude oil imports from Russia, despite ongoing global geopolitical shifts and sanctions.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2RTRUViV01oOW1kdndvVWFsbGFMYzJNRWE1ZjloY19FMGRmUVozY3lQOG5Tck9PbDM4WGJnV0dLSG5CeEtvd3ZXd2NVR0UwbHdnT1FDbTFXczhDVkYwbVpXSVh1T21reUgxNHdXNVFpTkF3cFJiSkRkSlVlUDRrTW9TSzR0WnpmVF9tR24yWnlNUmtuQTNEdUdUc05Xcnd3NjB6OERDQmJ2dHpWRGk5VVRTUmE2QQ?oc=5",
+      "dateLocation": "October 27, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Microsoft offers voluntary exit packages to 60,000 staff",
-      "brief": "Microsoft has introduced voluntary exit packages impacting up to 60,000 employees globally, including select Indian teams, as major tech enterprises aggressively reallocate capital toward artificial intelligence investments.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece",
-      "dateLocation": "2026-10-27 | Bengaluru, India / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "US political candidates tailor messages for voter AI models",
-      "brief": "An exclusive report reveals that US political campaigns are increasingly custom-formatting their messaging to appeal directly to artificial intelligence models utilized by everyday voters for political research.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUQ1U254bkc5VjVYM2lpaUtFbXRXX29JU0NCQmpUSTQwbGg2MmJVdHFYeExvZW1oWGdfRVl1V0hMUGVxV1NFajFRWGM5ZWhDU3ZBNnR2cEw4VF83NlJ3RXN2aUJJLTJySm04RjU2X1NZcm1femNwVjhEZnBCMWxyYXZKOGEzVDVrT0Ztc1IzMWFoMEtROVJWSmJMak9KakhNaWt0UUd1UXhadzhSaTNVakQzMmJCckc5OU1UQ1FYc3I?oc=5",
-      "dateLocation": "2026-10-27 | Washington, USA / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Plant-based meat yields higher absorbable protein than meat",
-      "brief": "Recent laboratory tests indicate that certain plant-based meat substitutes offer a higher proportion of bioavailable, absorbable protein compared to traditional chicken counterparts, though scientists urge further health studies.",
+      "headline": "India's Anaemia Programme Lacks Crucial Data",
+      "brief": "Public health experts have raised concerns that India's ambitious governmental programmes to combat widespread anaemia are currently operating without updated metrics, as crucial survey data remains unreleased to the public.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece",
-      "dateLocation": "2026-10-27 | New Delhi, India / The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/indias-anaemia-problem-an-ambitious-programme-to-combat-it-but-no-data-to-measure-it/article71630040.ece",
+      "dateLocation": "October 27, 2026 | The Hindu",
       "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Jordan airstrikes hit militant positions in Syria",
-      "brief": "The Jordanian military launched retaliatory airstrikes destroying multiple militant positions inside Syria, killing and wounding numerous fighters linked to a recent deadly attack against a church.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/jordan-strikes-militant-groups-in-syria-after-church-attack/article71629645.ece",
-      "dateLocation": "2026-10-27 | Amman, Jordan / The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Instagram Tests 90-Minute Video Formats",
+      "brief": "Meta-owned Instagram is rolling out a new test feature allowing users to upload horizontal videos of up to 90 minutes, aiming to attract independent creators and challenge YouTube's dominance in long-form content.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/trends/instagram-tests-90-minute-videos-as-it-looks-to-challenge-youtube-and-retain-creators-what-is-features-11793097637883.html",
+      "dateLocation": "October 27, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Israel holds first high-stakes election since October 7",
-      "brief": "Israeli voters are casting ballots for all 120 seats in the Knesset in a crucial election that tests Prime Minister Benjamin Netanyahu’s political survival following years of regional warfare.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/israel-elections-netanyahu-s-power-at-stake-gadi-eisenkots-challenge-wholl-win-and-possible-poll-outcomes-explained-11793065093131.html",
-      "dateLocation": "2026-10-27 | Jerusalem, Israel / Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Brazil court bars defeated Bolsonaro from leaving country",
-      "brief": "A Brazilian court has ordered former leader Jair Bolsonaro’s son and political allies to surrender their passports and prohibited them from leaving the country amid ongoing legal investigations.",
+      "headline": "Maharashtra Announces ₹7,500 Crore Drought Relief",
+      "brief": "Maharashtra Chief Minister Fadnavis has announced an advance drought relief package worth ₹7,500 crore, ensuring that nearly 1.5 million eligible farming households receive direct financial assistance to mitigate crop failure losses.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-court-orders-defeated-flvio-bolsonaro-to-surrender-passports-bars-him-from-leaving/articleshow/135223231.cms",
-      "dateLocation": "2026-10-27 | Brasilia, Brazil / Times of India",
+      "sourceUrl": "https://www.livemint.com/news/india/maharashtra-drought-cm-fadnavis-announces-7-500-crore-relief-package-how-much-will-each-farmer-get-11793096484126.html",
+      "dateLocation": "October 27, 2026 | Livemint",
       "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Indian opposition leader Rahul Gandhi acquitted in defamation case",
-      "brief": "Leading Indian television networks report that opposition leader Rahul Gandhi has been formally acquitted in a high-profile defamation case, providing a major political boost to his party.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXRIT3d4cVdiZ2stSmhyMjRvck9uYThSTlR4eVIwSmFHMDJHblJTT2laR3IyS1R6dmpWN2tOZEtsQkx3RTN4REdxcFZlNWFIT1pFS0VET3lxS2I1aVN2VHdOU2FDa2pSTVYyUXM3YmV0VkRFNmFHc29mcm1YVHNRN0pqQ3Vzb2M5czVhWnVqY3N3dWpHMGhGOURlTm9NSmhCc2ZoUklseWYyWUNWVklQczktcXl4TmxfQWU5ZjVZVTc?oc=5",
-      "dateLocation": "2026-10-27 | New Delhi, India / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Harry Kane makes history with dual Ballon d'Or victory",
-      "brief": "Bayern Munich striker Harry Kane secured the 2026 Ballon d'Or and the Gerd Müller Trophy, becoming the first player in history to win two individual awards in a single ceremony after scoring 73 goals.",
+      "headline": "India Crushes New Zealand to Seal T20I Series",
+      "brief": "Riding on an explosive, record-breaking century from opener Abhishek Sharma, India secured a comfortable six-wicket victory over New Zealand, taking an unassailable 3-0 lead in the ongoing T20 international series.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/harry-kane-wins-2026-ballon-dor-ends-englands-25-year-wait-and-makes-history-as-first-player-to-win-two-individual-awards-in-one-night/articleshow/135221643.cms",
-      "dateLocation": "2026-10-27 | Paris, France / Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-118/0-in-36-balls-india-script-jaw-dropping-record-in-3rd-t20i-win-new-zealand/articleshow/135230243.cms",
+      "dateLocation": "October 27, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Putellas claims 2026 Ballon d'Or Feminin award",
-      "brief": "Spanish football star Alexia Putellas added another prestigious accolade to her illustrious career by winning the 2026 Ballon d'Or Feminin award following a stellar season for club and country.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdi16Ny01RmxvOUZLWVB4UDFDak5LWFhweml3ZGFxaV9HYzkyS1hZMldjUUdZSng3YklkeVdCb1dYYXhpMG5KX3VmTWo5ZWtuQkJKMVNkMHZDMnQ1ZzZFeTdESHBSVmkxUWl3bWhVZTN4ZlNIbGJjTmNkbllqZGRVNUFoZmM0LTBvVTJJRllpTHJHeWtjWVdZNg?oc=5",
-      "dateLocation": "2026-10-27 | Paris, France / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Ather Energy logs first quarterly profit as shares jump",
-      "brief": "Electric scooter maker Ather Energy posted its maiden quarterly net profit, driving a 10% surge in its share price as domestic EV adoption accelerates across urban Indian markets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnhEVHdQMmhvSjlHM0h6dzZuNWJnQi14MW1wa1Q3T1dTekdSaVpxRjVUMGhTWTBHVjF0amdGMkd2ZVNGUDFtTFhXUG54aS0xWU5VYW9nQVZMS05EV2ZQN3RaWjNwYmw4Snh1YTFJckZ2NTd0ZzE4RF9LYmhlQVBUX2xBSl91WlJCY0x0TXQ5Y090YjRKQ19BQWJ1WWYxU1A4bU5OX284WG5MUUF2YTdV?oc=5",
-      "dateLocation": "2026-10-27 | Bengaluru, India / Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India weighs capital gains tax cut to lift sentiment",
-      "brief": "The Indian government is reportedly considering reductions to the long-term capital gains tax in the upcoming budget to bolster retail investor participation and stimulate stock market sentiment.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/budget-2027-28-may-consider-cutting-ltcg-to-boost-stock-market-sentiment-11793032875571.html",
-      "dateLocation": "2026-10-27 | New Delhi, India / Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
