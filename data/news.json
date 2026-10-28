@@ -1,76 +1,132 @@
 {
-  "lastUpdated": "2026-10-28T03:53:49.978Z",
+  "lastUpdated": "2026-10-28T12:04:28.596Z",
   "ticker": [
-    "Cyclone Arnab makes landfall on India's east coast",
-    "OpenAI plans to purchase Google AI chips",
-    "Saudi refinery attacked, reigniting global oil supply concerns",
-    "India invites Pakistan minister for SCO dialogue",
-    "Flávio Bolsonaro flees to US following election defeat"
+    "Spain train crash kills dozens",
+    "Cyclone Arnab hits eastern India",
+    "Jio reaches $137B valuation",
+    "China implements new AI curbs",
+    "Qatari mediators propose Iran deal"
   ],
   "articles": [
     {
-      "headline": "Cyclone Arnab Makes Landfall on India's East Coast",
-      "brief": "Cyclone Arnab has made landfall near Andhra Pradesh, triggering heavy rainfall, strong winds, and widespread disruptions. Authorities have evacuated nearly 90,000 residents, deployed extra emergency forces, and suspended key rail and flight services across coastal districts in Andhra Pradesh and Odisha.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/cyclone-arnab-andhra-pradesh-evacuates-89-000-people-as-prepared-for-landfall-11793124963156.html",
-      "dateLocation": "2026-10-28 | India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Jio Reaches $137 Billion Valuation in India",
+      "brief": "Ambani’s Jio has hit a $137 billion valuation, making it India’s second-most valuable firm following a record IPO celebration.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5",
+      "dateLocation": "October 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "OpenAI Reportedly Plans to Purchase Google AI Chips",
-      "brief": "OpenAI is reportedly planning to acquire custom AI chips from Google, diversifying its hardware supply chain as the artificial intelligence race intensifies. This development follows OpenAI's recent announcements regarding custom processing hardware initiatives designed to meet escalating infrastructure demands.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
-      "dateLocation": "2026-10-28 | Global",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Saudi Arabian Refinery Hit, Renewing Global Supply Concerns",
-      "brief": "Crude oil prices surged after a drone attack targeted a major Saudi Arabian refinery, intensifying geopolitical supply worries in the Middle East. Yemen's Houthis claimed responsibility for the strike, raising immediate alarms across international energy markets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
-      "dateLocation": "2026-10-28 | Middle East",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Invites Pakistan Minister for SCO Civilisational Dialogue",
-      "brief": "In a notable diplomatic shift, India has invited a Pakistani minister to attend the inaugural SCO Civilisational Dialogue in New Delhi scheduled for November. Prime Minister Modi is set to inaugurate the event alongside representatives from over 25 nations.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/in-a-first-since-2023-delhi-invites-pakistan-minister-for-inaugural-sco-civilisational-dialogue-in-november/article71630539.ece",
-      "dateLocation": "2026-10-28 | New Delhi",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Flávio Bolsonaro Flees to US Following Election Defeat",
-      "brief": "Flávio Bolsonaro, son of former Brazilian President Jair Bolsonaro, fled to Florida following a stunning election defeat and impending criminal investigations. Brazilian President Lula da Silva strongly condemned the departure as shameful.",
+      "headline": "Cyclone Arnab Strikes Eastern India",
+      "brief": "Cyclone Arnab has hit eastern India, resulting in three deaths, widespread infrastructure and crop damage, and thousands of evacuations.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/after-stunning-election-defeat-fl-vio-bolsonaro-flees-to-us-brazils-president-lula-da-silva-calls-it-shameful-11793149546292.html",
-      "dateLocation": "2026-10-28 | Brazil",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlJDOVctdlFxT0xCaFRzd1dPMWJORzREWDItVWtGcHZyVGREWlRBeEd3VFV2Q1VzUjFSdkxqazFwekIxU181ZDdwVXBDTV9jU3Q2a0FHa0hVblVaSFpoaVhNMTdlYThKMUNHNnl5M3J2ZFp3MGlpRENFaklRTjJrajRiLWVoOXEwMUY4NFY2QTBFc2hTNW51QjJHSVNXbVNnTlJIbU9WOXNRZ1lOMDhJRWR6RzdiQjN5bU8wZFpn?oc=5",
+      "dateLocation": "October 28, 2026 | Reuters",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India Among Top Nations with High Infant Heatwave Exposure",
-      "brief": "A comprehensive new global report highlights India as one of the leading countries facing extreme heatwave exposure risks among infants and older adults, underscoring urgent public health vulnerabilities driven by climate change.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/india-among-top-countries-with-highest-heatwave-exposure-for-infants-older-adults-report/article71634194.ece",
-      "dateLocation": "2026-10-28 | India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "High-Speed Train Collision Kills Dozens in Spain",
+      "brief": "At least 30 people were killed when two high-speed trains collided in Spain, prompting emergency rescue operations and government investigations into operator error.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
+      "dateLocation": "October 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Abhishek Sharma Smashes World Record in New Zealand T20I",
-      "brief": "Indian cricketer Abhishek Sharma broke Rohit Sharma's all-time international record for most sixes in a calendar year during a dominant T20 victory over New Zealand. Sharma smashed 113 runs off 38 balls to secure a commanding series sweep.",
+      "headline": "China Implements New Export Curbs on AI",
+      "brief": "China has introduced strict new export curbs protecting its critical artificial intelligence technologies, drawing a sharp line around its domestic tech sector crown jewels.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
+      "dateLocation": "October 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Qatari Mediators Present New Iran Deal",
+      "brief": "Qatari mediators have officially presented Iran with a new diplomatic deal aimed at bringing an end to the ongoing conflict, according to official sources.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+      "dateLocation": "October 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Stellantis Operating Profit Rises on Cost Cuts",
+      "brief": "Automaker Stellantis reported an increase in operating profit as aggressive corporate cost-cutting measures successfully gained traction across global operations.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcy04bFRZODBHbmRnMHpGWWVIcW1ab0NoLWZVeXFkdWszd0dHYWwyQVI4dFJLVVdGTy1KbHZTa0lUYi1NNGtIVWg5eWlxcktWQ0lDMDR3VFd1al83ZFB5TlBnX1ZMdGlpVmhUNGJzNmVSQWUwbEFFcXluaWlQZ0NyUUtrXzlNMHJRZ2ZuNWJFeUpfS0VQTDd1T1hicWcxTzlSR0x5bDNjWmRoTGc?oc=5",
+      "dateLocation": "October 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Oil Prices Surge Following Refinery Attack",
+      "brief": "Crude oil prices rose over 1% after an attack on a Saudi Arabian refinery reignited global concerns over immediate energy supply risks.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+      "dateLocation": "October 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "OpenAI Plans to Purchase Google AI Chips",
+      "brief": "Reports indicate that OpenAI is planning to purchase artificial intelligence chips from rival tech giant Google to support its expanding workload requirements.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
+      "dateLocation": "October 28, 2026 | Reuters",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India and Mexico Launch Trade Talks",
+      "brief": "India and Mexico have officially begun negotiations for a new preferential trade agreement to boost bilateral merchandise trade and expand economic cooperation.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/india-mexico-preferential-trade-agreement-talks-11793174588986.html",
+      "dateLocation": "October 28, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Israel Opposition Urges Coalition with Arab Parties",
+      "brief": "Opposition figures in Israel are urging bloc leaders to form a governing coalition featuring Arab parties in order to successfully oust Prime Minister Netanyahu.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
+      "dateLocation": "October 28, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Microsoft Offers Buyouts to Global Employees",
+      "brief": "Microsoft has launched a voluntary exit offer providing buyouts to roughly 60,000 employees across multiple global regions, excluding sales teams, with a December deadline.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms",
+      "dateLocation": "October 28, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Series Drives Record Cricket Australia Revenue",
+      "brief": "Cricket Australia reported record financial revenue driven heavily by recent India series fixtures, helping offset heavy deficits incurred by shortened matches.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/abhishek-sharma-scripts-history-breaks-rohit-sharmas-all-time-world-record/articleshow/135248941.cms",
-      "dateLocation": "2026-10-28 | Wellington",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-series-drive-record-cricket-australia-revenue-two-day-ashes-tests-burn-a20m-hole-in-finances/articleshow/135257634.cms",
+      "dateLocation": "October 28, 2026 | Times of India",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Trump Drastically Loosens Biden-Era Federal Methane Regulations",
-      "brief": "The Trump administration has announced a sweeping relaxation of strict Biden-era methane emission regulations, citing potential corporate savings of billions. Environmental groups immediately raised concerns over increased greenhouse gas emissions.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-drastically-loosens-biden-era-methane-rules-to-save-45-billion-why-is-the-gas-so-dangerous-11793153818693.html",
-      "dateLocation": "2026-10-28 | Washington",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "headline": "Global Domestic Workers Earn 53% of Average",
+      "brief": "A new ILO estimate reveals that domestic workers globally earn only 53% of what other employees make, reflecting a continuous decline from previous years.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/domestic-workers-earn-just-53-of-what-other-employees-make-globally-down-from-56-in-2019-ilo-estimates-show-11793181699588.html",
+      "dateLocation": "October 28, 2026 | Livemint",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Real Madrid Apologizes for Mbappe Mao Comment",
+      "brief": "Real Madrid issued a formal apology to Chinese citizens following a backlash over remarks made by Kylian Mbappe regarding former leader Mao Zedong.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/football/real-madrid-apologises-to-china-after-mbappes-mao-dictator-comment-sparks-backlash/article71635558.ece",
+      "dateLocation": "October 28, 2026 | The Hindu",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Global Air Quality Study Wins Science Prize",
+      "brief": "A 15-year-old student from Florida won a national science prize for designing an affordable air sampler capable of collecting and analyzing airborne bacterial DNA.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/meet-bailey-quinn-frank-15-from-fort-lauderdale-who-built-an-air-sampler-with-a-small-fan-and-filter-paper-to-collect-bacterial-dna-she-has-now-won-a-25000-science-prize-among-nearly-2000-applicants/articleshow/135262046.cms",
+      "dateLocation": "October 28, 2026 | Times of India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
