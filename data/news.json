@@ -1,132 +1,110 @@
 {
-  "lastUpdated": "2026-10-28T12:04:28.596Z",
+  "lastUpdated": "2026-10-28T22:09:11.432Z",
   "ticker": [
-    "Spain train crash kills dozens",
-    "Cyclone Arnab hits eastern India",
-    "Jio reaches $137B valuation",
-    "China implements new AI curbs",
-    "Qatari mediators propose Iran deal"
+    "US Federal Reserve leaves interest rates unchanged",
+    "Cyclone Arnab hits eastern India leaving three dead",
+    "European gas prices touch €100 for first time since 2022",
+    "Microsoft offers buyouts to 60000 employees globally",
+    "World Bank projects commodity prices up 23% in 2026"
   ],
   "articles": [
     {
-      "headline": "Jio Reaches $137 Billion Valuation in India",
-      "brief": "Ambani’s Jio has hit a $137 billion valuation, making it India’s second-most valuable firm following a record IPO celebration.",
+      "headline": "Microsoft cloud revenue beats estimates on strong AI demand",
+      "brief": "Microsoft reported stronger-than-expected cloud revenue driven by surging adoption of artificial intelligence tools, easing investor concerns over heavy infrastructure spending and signaling that its massive AI bets are successfully paying off.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
+      "dateLocation": "October 2026 | Reuters"
+    },
+    {
+      "headline": "Google launches Gemini 4 Carbon AI with cybersecurity focus",
+      "brief": "Google has announced the release of its new Gemini 4 Carbon AI model, featuring advanced capabilities specifically tailored for enterprise cybersecurity threat detection and automated digital defense mechanisms.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5",
+      "dateLocation": "October 2026 | Reuters"
+    },
+    {
+      "headline": "Ambani's Jio reaches $137 billion valuation in India",
+      "brief": "Reliance Industries telecom arm Jio has attained a valuation of $137 billion, solidifying its position as India's second-most valuable corporate entity on the back of rapid digital subscriber growth and expanding service portfolios.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5",
-      "dateLocation": "October 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "October 2026 | Reuters"
     },
     {
-      "headline": "Cyclone Arnab Strikes Eastern India",
-      "brief": "Cyclone Arnab has hit eastern India, resulting in three deaths, widespread infrastructure and crop damage, and thousands of evacuations.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlJDOVctdlFxT0xCaFRzd1dPMWJORzREWDItVWtGcHZyVGREWlRBeEd3VFV2Q1VzUjFSdkxqazFwekIxU181ZDdwVXBDTV9jU3Q2a0FHa0hVblVaSFpoaVhNMTdlYThKMUNHNnl5M3J2ZFp3MGlpRENFaklRTjJrajRiLWVoOXEwMUY4NFY2QTBFc2hTNW51QjJHSVNXbVNnTlJIbU9WOXNRZ1lOMDhJRWR6RzdiQjN5bU8wZFpn?oc=5",
-      "dateLocation": "October 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "headline": "Textile ministry halves turnover threshold for PLI scheme",
+      "brief": "The Ministry of Textiles has reopened the Production-Linked Incentive application portal while reducing the mandatory annual turnover threshold by half to ₹100 crore, aiming to attract more manufacturers into the sector.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/textile-ministry-reopens-pli-scheme-halves-turnover-threshold-to-100-cr-11793197515898.html",
+      "dateLocation": "October 2026 | Livemint"
     },
     {
-      "headline": "High-Speed Train Collision Kills Dozens in Spain",
-      "brief": "At least 30 people were killed when two high-speed trains collided in Spain, prompting emergency rescue operations and government investigations into operator error.",
+      "headline": "US Federal Reserve holds interest rates steady",
+      "brief": "The US Federal Reserve voted to keep benchmark interest rates unchanged at its latest meeting while leaving the door open to potential future hikes should inflation pressures persist across the broader economy.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-keeps-rates-unchanged-leaves-door-open-to-further-hikes/articleshow/135278487.cms",
+      "dateLocation": "October 2026 | Times of India"
+    },
+    {
+      "headline": "US goods trade deficit widens due to AI imports",
+      "brief": "The United States goods trade deficit expanded significantly to $134.9 billion in September, driven heavily by record-high imports of technology hardware and equipment fueled by the ongoing artificial intelligence boom.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-goods-trade-deficit-widens-in-september-as-ai-boom-drives-imports-to-record-high-11793210830394.html",
+      "dateLocation": "October 2026 | Livemint"
+    },
+    {
+      "headline": "NDA wins majority in Bihar Legislative Council elections",
+      "brief": "The ruling NDA coalition dominated the recent Bihar MLC election results, capturing crucial seats while the opposition Congress party failed to secure a single victory across multiple contested constituencies.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-mlc-results-counting-updates/article71632702.ece",
+      "dateLocation": "October 2026 | The Hindu"
+    },
+    {
+      "headline": "India raises serious security concerns over US F-16 package",
+      "brief": "New Delhi has formally conveyed strong objections to Washington regarding military aid packages to neighboring countries, warning that advanced sensitive defense technology could easily be diverted to third parties.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-raises-concerns-over-f-16-package-to-pakistan/articleshow/135278896.cms",
+      "dateLocation": "October 2026 | Times of India"
+    },
+    {
+      "headline": "At least 68 killed in catastrophic Spanish train crash",
+      "brief": "Rescue operations continue following a major rail disaster in Spain that left at least 68 people dead, marking the country's second catastrophic train accident of the year and drawing widespread national mourning.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
-      "dateLocation": "October 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
+      "dateLocation": "October 2026 | Reuters"
     },
     {
-      "headline": "China Implements New Export Curbs on AI",
-      "brief": "China has introduced strict new export curbs protecting its critical artificial intelligence technologies, drawing a sharp line around its domestic tech sector crown jewels.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
-      "dateLocation": "October 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+      "headline": "Cyclone Arnab strikes eastern India, killing three people",
+      "brief": "Cyclone Arnab made landfall in eastern India, causing structural damage, widespread power outages, and displacing thousands of residents as emergency services scrambled to evacuate vulnerable coastal communities.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlJDOVctdlFxT0xCaFRzd1dPMWJORzREWDItVWtGcHZyVGREWlRBeEd3VFV2Q1VzUjFSdkxqazFwekIxU181ZDdwVXBDTV9jU3Q2a0FHa0hVblVaSFpoaVhNMTdlYThKMUNHNnl5M3J2ZFp3MGlpRENFaklRTjJrajRiLWVoOXEwMUY4NFY2QTBFc2hTNW51QjJHSVNXbVNnTlJIbU9WOXNRZ1lOMDhJRWR6RzdiQjN5bU8wZFpn?oc=5",
+      "dateLocation": "October 2026 | Reuters"
     },
     {
-      "headline": "Qatari Mediators Present New Iran Deal",
-      "brief": "Qatari mediators have officially presented Iran with a new diplomatic deal aimed at bringing an end to the ongoing conflict, according to official sources.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
-      "dateLocation": "October 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+      "headline": "Florida surgeon performs remote cancer surgery from afar",
+      "brief": "A medical team in Florida successfully completed a complex cancer removal procedure using an advanced robotic surgical system operated by a doctor located 35 miles away, raising new possibilities for remote healthcare.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/us-news/cancer-surgery-from-35-miles-away-how-a-florida-doctor-used-a-robotic-system-but-safety-questions-remain-details-11793202209832.html",
+      "dateLocation": "October 2026 | Livemint"
     },
     {
-      "headline": "Stellantis Operating Profit Rises on Cost Cuts",
-      "brief": "Automaker Stellantis reported an increase in operating profit as aggressive corporate cost-cutting measures successfully gained traction across global operations.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcy04bFRZODBHbmRnMHpGWWVIcW1ab0NoLWZVeXFkdWszd0dHYWwyQVI4dFJLVVdGTy1KbHZTa0lUYi1NNGtIVWg5eWlxcktWQ0lDMDR3VFd1al83ZFB5TlBnX1ZMdGlpVmhUNGJzNmVSQWUwbEFFcXluaWlQZ0NyUUtrXzlNMHJRZ2ZuNWJFeUpfS0VQTDd1T1hicWcxTzlSR0x5bDNjWmRoTGc?oc=5",
-      "dateLocation": "October 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+      "headline": "Global heat-related deaths surge 36% since Paris Agreement",
+      "brief": "A comprehensive public health study published by Lancet indicates that global heat-related fatalities have increased by 36 percent since the signing of the Paris climate accord, highlighting accelerating climate health hazards.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/heat-related-deaths-up-36-since-paris-agreement-lancet/articleshow/135279061.cms",
+      "dateLocation": "October 2026 | Economic Times"
     },
     {
-      "headline": "Oil Prices Surge Following Refinery Attack",
-      "brief": "Crude oil prices rose over 1% after an attack on a Saudi Arabian refinery reignited global concerns over immediate energy supply risks.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
-      "dateLocation": "October 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "OpenAI Plans to Purchase Google AI Chips",
-      "brief": "Reports indicate that OpenAI is planning to purchase artificial intelligence chips from rival tech giant Google to support its expanding workload requirements.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
-      "dateLocation": "October 28, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India and Mexico Launch Trade Talks",
-      "brief": "India and Mexico have officially begun negotiations for a new preferential trade agreement to boost bilateral merchandise trade and expand economic cooperation.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/india-mexico-preferential-trade-agreement-talks-11793174588986.html",
-      "dateLocation": "October 28, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Israel Opposition Urges Coalition with Arab Parties",
-      "brief": "Opposition figures in Israel are urging bloc leaders to form a governing coalition featuring Arab parties in order to successfully oust Prime Minister Netanyahu.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece",
-      "dateLocation": "October 28, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Microsoft Offers Buyouts to Global Employees",
-      "brief": "Microsoft has launched a voluntary exit offer providing buyouts to roughly 60,000 employees across multiple global regions, excluding sales teams, with a December deadline.",
+      "headline": "Pakistan reverses airspace ban on Taiwanese airlines",
+      "brief": "Pakistan has rescinded its previously imposed airspace restrictions against Taiwanese carriers, granting commercial airlines permission to utilize its flight corridors through early next year and normalizing regional routing.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms",
-      "dateLocation": "October 28, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
+      "sourceUrl": "https://www.livemint.com/news/world/pakistan-reverses-taiwan-airspace-ban-how-the-ban-would-have-changed-global-airspace-and-impacted-air-traffic-11793208650889.html",
+      "dateLocation": "October 2026 | Livemint"
     },
     {
-      "headline": "India Series Drives Record Cricket Australia Revenue",
-      "brief": "Cricket Australia reported record financial revenue driven heavily by recent India series fixtures, helping offset heavy deficits incurred by shortened matches.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-series-drive-record-cricket-australia-revenue-two-day-ashes-tests-burn-a20m-hole-in-finances/articleshow/135257634.cms",
-      "dateLocation": "October 28, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Global Domestic Workers Earn 53% of Average",
-      "brief": "A new ILO estimate reveals that domestic workers globally earn only 53% of what other employees make, reflecting a continuous decline from previous years.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/domestic-workers-earn-just-53-of-what-other-employees-make-globally-down-from-56-in-2019-ilo-estimates-show-11793181699588.html",
-      "dateLocation": "October 28, 2026 | Livemint",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Real Madrid Apologizes for Mbappe Mao Comment",
-      "brief": "Real Madrid issued a formal apology to Chinese citizens following a backlash over remarks made by Kylian Mbappe regarding former leader Mao Zedong.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/football/real-madrid-apologises-to-china-after-mbappes-mao-dictator-comment-sparks-backlash/article71635558.ece",
-      "dateLocation": "October 28, 2026 | The Hindu",
-      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Global Air Quality Study Wins Science Prize",
-      "brief": "A 15-year-old student from Florida won a national science prize for designing an affordable air sampler capable of collecting and analyzing airborne bacterial DNA.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/meet-bailey-quinn-frank-15-from-fort-lauderdale-who-built-an-air-sampler-with-a-small-fan-and-filter-paper-to-collect-bacterial-dna-she-has-now-won-a-25000-science-prize-among-nearly-2000-applicants/articleshow/135262046.cms",
-      "dateLocation": "October 28, 2026 | Times of India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+      "headline": "Indian Railways to switch off train chargers at night",
+      "brief": "Following recent safety incidents involving overheating power banks, Indian Railways announced strict enforcement of overnight mobile charging bans across long-distance trains to mitigate potential electrical fire hazards.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece",
+      "dateLocation": "October 2026 | The Hindu"
     }
   ]
 }
