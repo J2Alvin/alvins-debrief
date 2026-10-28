@@ -1,124 +1,76 @@
 {
-  "lastUpdated": "2026-10-27T21:47:26.275Z",
+  "lastUpdated": "2026-10-28T03:53:49.978Z",
   "ticker": [
-    "Cyclone Arnab makes landfall in Andhra Pradesh",
-    "Israel election exit polls indicate deadlock",
-    "India seals T20 series against New Zealand",
-    "Houthis claim attack on Saudi oil facility",
-    "GST rules and registration norms updated"
+    "Cyclone Arnab makes landfall on India's east coast",
+    "OpenAI plans to purchase Google AI chips",
+    "Saudi refinery attacked, reigniting global oil supply concerns",
+    "India invites Pakistan minister for SCO dialogue",
+    "Flávio Bolsonaro flees to US following election defeat"
   ],
   "articles": [
     {
-      "headline": "Cyclone Arnab makes severe landfall on Andhra coast",
-      "brief": "Very severe cyclonic storm Arnab has begun its landfall process near Narsapur and Yanam. Tens of thousands of residents have been evacuated, while flight and train services remain heavily disrupted across Andhra Pradesh and Odisha.",
+      "headline": "Cyclone Arnab Makes Landfall on India's East Coast",
+      "brief": "Cyclone Arnab has made landfall near Andhra Pradesh, triggering heavy rainfall, strong winds, and widespread disruptions. Authorities have evacuated nearly 90,000 residents, deployed extra emergency forces, and suspended key rail and flight services across coastal districts in Andhra Pradesh and Odisha.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece",
-      "dateLocation": "October 27, 2026 | Visakhapatnam, India",
+      "sourceUrl": "https://www.livemint.com/news/india/cyclone-arnab-andhra-pradesh-evacuates-89-000-people-as-prepared-for-landfall-11793124963156.html",
+      "dateLocation": "2026-10-28 | India",
       "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Israel election exit polls show tight parliamentary deadlock",
-      "brief": "Initial exit polls from the Israeli elections indicate a narrow edge for the opposition, leaving Prime Minister Benjamin Netanyahu and his rivals short of a clear majority. Coalition arithmetic will likely determine the final outcome.",
+      "headline": "OpenAI Reportedly Plans to Purchase Google AI Chips",
+      "brief": "OpenAI is reportedly planning to acquire custom AI chips from Google, diversifying its hardware supply chain as the artificial intelligence race intensifies. This development follows OpenAI's recent announcements regarding custom processing hardware initiatives designed to meet escalating infrastructure demands.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
+      "dateLocation": "2026-10-28 | Global",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Saudi Arabian Refinery Hit, Renewing Global Supply Concerns",
+      "brief": "Crude oil prices surged after a drone attack targeted a major Saudi Arabian refinery, intensifying geopolitical supply worries in the Middle East. Yemen's Houthis claimed responsibility for the strike, raising immediate alarms across international energy markets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+      "dateLocation": "2026-10-28 | Middle East",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "India Invites Pakistan Minister for SCO Civilisational Dialogue",
+      "brief": "In a notable diplomatic shift, India has invited a Pakistani minister to attend the inaugural SCO Civilisational Dialogue in New Delhi scheduled for November. Prime Minister Modi is set to inaugurate the event alongside representatives from over 25 nations.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/in-a-first-since-2023-delhi-invites-pakistan-minister-for-inaugural-sco-civilisational-dialogue-in-november/article71630539.ece",
+      "dateLocation": "2026-10-28 | New Delhi",
+      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Flávio Bolsonaro Flees to US Following Election Defeat",
+      "brief": "Flávio Bolsonaro, son of former Brazilian President Jair Bolsonaro, fled to Florida following a stunning election defeat and impending criminal investigations. Brazilian President Lula da Silva strongly condemned the departure as shameful.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece",
-      "dateLocation": "October 27, 2026 | Jerusalem, Israel",
+      "sourceUrl": "https://www.livemint.com/news/us-news/after-stunning-election-defeat-fl-vio-bolsonaro-flees-to-us-brazils-president-lula-da-silva-calls-it-shameful-11793149546292.html",
+      "dateLocation": "2026-10-28 | Brazil",
       "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "India secures T20 series victory over New Zealand",
-      "brief": "Team India clinched the T20 series in dominant fashion following a brilliant century from opening batsman Abhishek, which completely flattened the New Zealand bowling attack.",
+      "headline": "India Among Top Nations with High Infant Heatwave Exposure",
+      "brief": "A comprehensive new global report highlights India as one of the leading countries facing extreme heatwave exposure risks among infants and older adults, underscoring urgent public health vulnerabilities driven by climate change.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/india-among-top-countries-with-highest-heatwave-exposure-for-infants-older-adults-report/article71634194.ece",
+      "dateLocation": "2026-10-28 | India",
+      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
+    },
+    {
+      "headline": "Abhishek Sharma Smashes World Record in New Zealand T20I",
+      "brief": "Indian cricketer Abhishek Sharma broke Rohit Sharma's all-time international record for most sixes in a calendar year during a dominant T20 victory over New Zealand. Sharma smashed 113 runs off 38 balls to secure a commanding series sweep.",
       "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVJHck5ZOU1YWjlsVXQxOGZoLWduUllfSmNwbmhwRF9ldTRxc2d0RmR6dUtaSERjZ25fenhDam00UFlwdUtsc2xWMjh6ZXo4ekZEQjFZZmIyNzNGVkVkT2wySWx1T0FxRjhFazNkVkljTnF6U1BmX3pNRXhOVktlcUJ6RGEydEVEN3ptLXJRRXRuRUtvdDF6U0lqY2x2M3lRSTZNZS1tT2M0Zw?oc=5",
-      "dateLocation": "October 27, 2026 | Reuters",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/abhishek-sharma-scripts-history-breaks-rohit-sharmas-all-time-world-record/articleshow/135248941.cms",
+      "dateLocation": "2026-10-28 | Wellington",
       "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop"
     },
     {
-      "headline": "Houthis claim missile strike on Saudi oil refinery",
-      "brief": "Yemen's Houthi movement claimed responsibility for a missile attack targeting the Ras Tanura oil refinery in Saudi Arabia, prompting loud blasts to shake Riyadh and intensifying regional security concerns.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
-      "dateLocation": "October 27, 2026 | Reuters",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India court orders takedown of Adani-Modi documentary",
-      "brief": "An Indian court has issued an official order demanding the removal of a controversial documentary focusing on billionaire Gautam Adani and Prime Minister Narendra Modi.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXhzaUVOakxHWU5rUVV0TGR3bXZNZ0VnazRJTnM3dVNoVXB4ZzM2dUJLekprWkJTckZtS2lSS3FyUmJPYkZtR19GWWFYWlFodnFUQ0hwQTNJZ2dSd1B2OWY4WnN0SUIwZC11c053VExrajZWRktnU0dRYUIzaUdsdmVsM1hwNk83WGVTbjRjQS1SX1BVcDBGWFY4Y3JFdUZQ?oc=5",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Opposition plans public impeachment event against CEC",
-      "brief": "Following venue snubs in Delhi, opposition parties have announced plans to hold a mock public impeachment event against Chief Election Commissioner Rajiv Kumar at the residence of Mallikarjun Kharge.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/after-ashoka-hotels-snub-oppn-to-hold-public-impeachment-of-cec-at-kharges-residence/articleshow/135238768.cms",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Supreme Court warns pharma industry over free market",
-      "brief": "The Supreme Court of India stated that authorities cannot allow the pharmaceutical industry to run amok under the guise of a free market, emphasizing the need for strict consumer protection and pricing regulations.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-cannot-let-pharma-industry-run-amok-in-name-of-free-market/articleshow/135245670.cms",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Regional rural banks to establish cybersecurity centres",
-      "brief": "Regional rural banks across India are setting up dedicated cybersecurity centres to enhance digital infrastructure, develop advanced threat intelligence, and protect rural financial services from emerging cyber risks.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-to-set-up-cybersecurity-centres-develop-threat-intel/articleshow/135243325.cms",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Centre eases GST registration norms for MSME sector",
-      "brief": "The Central Board of Indirect Taxes and Customs has simplified GST registration norms for MSMEs by dropping mandatory Udyam proof requirements and establishing a strict seven-day approval timeline.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/gst-registration-gets-easier-as-cbic-drops-udyam-proof-sets-seven-day-limit-for-approvals/articleshow/135243010.cms",
-      "dateLocation": "October 27, 2026 | New Delhi, India",
-      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "India Inc seeks AI talent to transform manufacturing",
-      "brief": "Corporate leaders across India are actively hunting for specialized artificial intelligence talent to modernize factory floors, automate supply chains, and transform traditional manufacturing operations.",
+      "headline": "Trump Drastically Loosens Biden-Era Federal Methane Regulations",
+      "brief": "The Trump administration has announced a sweeping relaxation of strict Biden-era methane emission regulations, citing potential corporate savings of billions. Environmental groups immediately raised concerns over increased greenhouse gas emissions.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/india-inc-wants-ai-talent-to-transform-manufacturing-space/articleshow/135244962.cms",
-      "dateLocation": "October 27, 2026 | Mumbai, India",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-drastically-loosens-biden-era-methane-rules-to-save-45-billion-why-is-the-gas-so-dangerous-11793153818693.html",
+      "dateLocation": "2026-10-28 | Washington",
       "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Tata Electronics exports near one lakh crore rupees",
-      "brief": "Tata Electronics' exports are projected to approach Rs 1 lakh crore in fiscal year 2026, driven heavily by Apple's accelerating manufacturing and sourcing push inside the Indian market.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/tata-electronics-exports-near-rs-1-lakh-crore-in-fy26-as-apple-deepens-india-push/articleshow/135243662.cms",
-      "dateLocation": "October 27, 2026 | Bengaluru, India",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Microsoft evaluates voluntary exits for global staff",
-      "brief": "Microsoft's sweeping corporate exit plan could impact thousands of employees across its extensive workforce network, prompting major workforce transitions and tech sector discussions.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/microsoft-offers-voluntary-exits-to-60000-employees-whats-in-it-who-qualifies-and-will-indias-23000-strong-workforce-be-impacted/articleshow/135224139.cms",
-      "dateLocation": "October 27, 2026 | Redmond, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "San Diego student wins prize for wearable stethoscope",
-      "brief": "A high school student from San Diego has secured a prestigious national entrepreneurship prize for developing an innovative wearable stethoscope designed to dramatically improve respiratory diagnostics in rural clinics.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/meet-kayley-xu-a-san-diego-student-who-developed-aucura-a-wearable-stethoscope-designed-to-improve-respiratory-diagnostics-and-won-a-25000-national-entrepreneurship-prize/articleshow/135213253.cms",
-      "dateLocation": "October 27, 2026 | San Diego, USA",
-      "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop"
-    },
-    {
-      "headline": "Mumbai airport hit by severe check-in network outage",
-      "brief": "A major technical network outage at Mumbai Airport forced airline staff to switch to manual check-in procedures, causing widespread delays across hundreds of domestic and international flights.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/mumbai-airport-faces-network-outage-check-in-shifts-to-manual-mode-327-flights-delayed-11793124239765.html",
-      "dateLocation": "October 27, 2026 | Mumbai, India",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop"
     }
   ]
 }
