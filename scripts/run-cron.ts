@@ -14,17 +14,6 @@ const parser = new Parser({
   timeout: 5000,
 });
 
-const UNSPLASH_FALLBACKS: Record<string, string> = {
-  technology: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80&auto=format&fit=crop",
-  finance: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80&auto=format&fit=crop",
-  politics: "https://images.unsplash.com/photo-1524222835728-09191e3e7fde?w=800&q=80&auto=format&fit=crop",
-  business: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80&auto=format&fit=crop",
-  sports: "https://images.unsplash.com/photo-1461896836934-ffe145ab64f1?w=800&q=80&auto=format&fit=crop",
-  health: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&q=80&auto=format&fit=crop",
-  world: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80&auto=format&fit=crop",
-  general: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80&auto=format&fit=crop",
-};
-
 async function runCron() {
   try {
     console.log("Fetching RSS feeds...");
@@ -76,19 +65,12 @@ async function runCron() {
     const cleanedText = response.response.text().replace(/```json/gi, "").replace(/```/g, "").trim();
     const parsedData = JSON.parse(cleanedText);
 
-    // Assign ONLY Unsplash images based on category
-    parsedData.articles = parsedData.articles.map((article: any) => {
-      const categoryKey = article.category?.toLowerCase() || "general";
-      const assignedImage = UNSPLASH_FALLBACKS[categoryKey] || UNSPLASH_FALLBACKS.general;
-      return { ...article, imageUrl: assignedImage };
-    });
-
     const filePath = path.join(process.cwd(), "data", "news.json");
     const dir = path.dirname(filePath);
     if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 
     fs.writeFileSync(filePath, JSON.stringify(parsedData, null, 2), "utf-8");
-    console.log(`Cron successfully updated ${parsedData.articles.length} articles with Unsplash images.`);
+    console.log(`Cron successfully updated ${parsedData.articles.length} articles.`);
   } catch (error) {
     console.error("Cron script error:", error);
     process.exit(1);

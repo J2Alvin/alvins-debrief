@@ -5,7 +5,7 @@ import Marquee from "react-fast-marquee";
 interface Article {
   headline: string;
   brief: string;
-  imageUrl: string;
+  category: string;
   sourceUrl: string;
   dateLocation: string;
 }
@@ -14,6 +14,18 @@ interface NewsData {
   lastUpdated: string;
   ticker: string[];
   articles: Article[];
+}
+
+const CATEGORIES = ["technology", "finance", "politics", "business", "sports", "health", "world", "general"];
+const IMAGES_PER_CATEGORY = 3;
+
+// Picks one of the category's local images; stable per headline so covers never shuffle between renders.
+function getCoverImage(category: string, headline: string): string {
+  const key = category?.toLowerCase();
+  const cat = CATEGORIES.includes(key) ? key : "general";
+  let hash = 0;
+  for (let i = 0; i < headline.length; i++) hash = (hash * 31 + headline.charCodeAt(i)) >>> 0;
+  return `/category-images/${cat}_${(hash % IMAGES_PER_CATEGORY) + 1}.webp`;
 }
 
 function getNews(): NewsData {
@@ -111,7 +123,7 @@ export default function Home() {
                 {/* 2. One Image */}
                 <div className="w-full aspect-[16/9] bg-neutral-200 border border-[#111111] mb-4 overflow-hidden relative">
                   <img
-                    src={item.imageUrl}
+                    src={getCoverImage(item.category, item.headline)}
                     alt={item.headline}
                     className="w-full h-full object-cover grayscale group-hover:sepia-[40%] transition-all duration-300"
                   />

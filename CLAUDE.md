@@ -21,13 +21,13 @@ AI-curated daily news site. A cron job pulls RSS feeds, Gemini filters them to 1
 
 ## Data contract (`data/news.json`)
 - Top level: `lastUpdated`, `ticker` (5 headlines), `articles` (15–20)
-- Article: `headline`, `brief`, `category`, `sourceUrl`, `dateLocation`, `imageUrl`
+- Article: `headline`, `brief`, `category`, `sourceUrl`, `dateLocation` (no image field; covers are resolved in the page)
 - Categories: technology, finance, politics, business, sports, health, world, general (max 2 stories per category)
 - If you change this shape, update both `scripts/run-cron.ts` (prompt and output) and `app/page.tsx` (rendering)
 
 ## Conventions
 - Keep the editorial look: Tailwind theme colors `background`, `foreground`, `muted`, `accent` (#CC0000); fonts serif (Playfair Display), body (Lora), sans (Inter), mono (JetBrains Mono)
-- Images come from the `UNSPLASH_FALLBACKS` map in the cron script, keyed by category
+- Covers are local: `public/category-images/<category>_<1-3>.webp` (3 per category). `getCoverImage()` in `app/page.tsx` picks one by category + headline hash. No external image fetching. Keep the grayscale/hover-sepia classes on the `<img>`.
 - Header bar under the title shows a single centered line, "LAST REFRESHED TIME: <lastUpdated in IST>". Keep it to that one line.
 - Prefer server components; add `"use client"` only when needed
 
