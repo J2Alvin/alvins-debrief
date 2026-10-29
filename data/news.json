@@ -1,110 +1,117 @@
 {
-  "lastUpdated": "2026-10-28T22:09:11.432Z",
+  "lastUpdated": "2026-10-29T04:16:26.319Z",
   "ticker": [
-    "US Federal Reserve leaves interest rates unchanged",
-    "Cyclone Arnab hits eastern India leaving three dead",
-    "European gas prices touch €100 for first time since 2022",
-    "Microsoft offers buyouts to 60000 employees globally",
-    "World Bank projects commodity prices up 23% in 2026"
+    "Alphabet shares plunge following disappointing earnings report",
+    "Spain train collision results in 68 tragic fatalities",
+    "European gas prices touch €100 amid energy crisis",
+    "US and Japan announce joint missile production facility",
+    "Samsung warns chip shortages are worsening globally"
   ],
   "articles": [
     {
-      "headline": "Microsoft cloud revenue beats estimates on strong AI demand",
-      "brief": "Microsoft reported stronger-than-expected cloud revenue driven by surging adoption of artificial intelligence tools, easing investor concerns over heavy infrastructure spending and signaling that its massive AI bets are successfully paying off.",
+      "headline": "Alphabet Shares Plunge on Revenue Miss",
+      "brief": "Alphabet shares tumbled after reported search woes led to a revenue miss and worsening cash burn. Net profits slid 25 percent year-over-year to $26.2 billion, heavily impacting Wall Street futures and dragging down broader Asian market shares.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
+    },
+    {
+      "headline": "Microsoft Cloud Growth Offsets AI Spending Fears",
+      "brief": "Microsoft's robust cloud growth and healthy cash flow provided a welcome respite for investors worried about escalating artificial intelligence spending, easing concerns shared across the broader technology sector.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
-      "dateLocation": "October 2026 | Reuters"
+      "dateLocation": "2026-10-29 | Reuters"
     },
     {
-      "headline": "Google launches Gemini 4 Carbon AI with cybersecurity focus",
-      "brief": "Google has announced the release of its new Gemini 4 Carbon AI model, featuring advanced capabilities specifically tailored for enterprise cybersecurity threat detection and automated digital defense mechanisms.",
+      "headline": "European Gas Surges Past €100",
+      "brief": "European natural gas prices reached €100 for the first time since the 2022 energy crisis, placing severe financial pressure on consumers and industrial sectors alike as winter approaches.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZZVVJDOHFvUk81TDltQmFoQmlUOTZqaGNLVEJ6UEtDMnY4VUlJd0dJVTlEZWpMX2Y3NHNOWF92QVpKUjBvdG5ybWZfYlFsNHpTOVRIUlFhWmgtcDRkNFVqdmd0ejhKTU5EWWRlRUd1bTMzM05tYjR3b0RMSHdQb2ZoVGtvQ2hDa0V2blR1bHdlRHdoZF9kbVByNlJPdVd6bTFwZW5lczBfU0p3RU1LZmpJOWtMcnhVWFkxbk9salA?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
+    },
+    {
+      "headline": "Spain Train Collision Kills 68 People",
+      "brief": "A devastating train collision in Spain resulted in 68 deaths due to system failures and inexplicable operational decisions. Trade unions have subsequently demanded the transportation minister's immediate resignation.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/system-failure-inexplicable-decisions-68-deaths-how-spains-train-collision-unfolded/articleshow/135288022.cms",
+      "dateLocation": "2026-10-29 | Economic Times"
+    },
+    {
+      "headline": "US and Japan Establish Joint Missile Facility",
+      "brief": "The United States and Japan have agreed to establish a dedicated joint missile production facility in Japan, strengthening bilateral defense cooperation amidst rising regional security tensions in Asia.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/us-and-japan-to-establish-a-japanese-facility-for-joint-missile-production/articleshow/135287420.cms",
+      "dateLocation": "2026-10-29 | Economic Times"
+    },
+    {
+      "headline": "Samsung Sees Worsening Global Chip Shortages",
+      "brief": "Samsung executives reported that semiconductor shortages are worsening, though management kept investors in cautious suspense regarding future capital returns and production adjustments.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5",
-      "dateLocation": "October 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
     },
     {
-      "headline": "Ambani's Jio reaches $137 billion valuation in India",
-      "brief": "Reliance Industries telecom arm Jio has attained a valuation of $137 billion, solidifying its position as India's second-most valuable corporate entity on the back of rapid digital subscriber growth and expanding service portfolios.",
+      "headline": "Ambani’s Jio Reaches $137 Billion Valuation",
+      "brief": "Reliance Jio has achieved a staggering valuation of $137 billion, officially cementing its position as India's second-most valuable corporate enterprise following major digital expansion milestones.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5",
-      "dateLocation": "October 2026 | Reuters"
+      "dateLocation": "2026-10-29 | Reuters"
     },
     {
-      "headline": "Textile ministry halves turnover threshold for PLI scheme",
-      "brief": "The Ministry of Textiles has reopened the Production-Linked Incentive application portal while reducing the mandatory annual turnover threshold by half to ₹100 crore, aiming to attract more manufacturers into the sector.",
+      "headline": "Deadly Screwworm Detected in Arizona",
+      "brief": "New World screwworm has been detected in Arizona for the first time, found in a domestic dog, as health officials work to contain the accelerating parasite outbreak across the region.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/us-news/screwworm-detected-for-first-time-in-arizona-as-outbreak-spreads-11793231283631.html",
+      "dateLocation": "2026-10-29 | LiveMint"
+    },
+    {
+      "headline": "Neeraj Yadav Found Dead Beside SUV",
+      "brief": "Para-athlete Neeraj Yadav was found dead beside his SUV in Sonipat. Police launched an inquiry following statements from a close friend who met him hours before the tragic incident.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/neeraj-yadav-death-woman-friend-says-she-met-para-athlete-hours-before-he-was-found-beside-suv/articleshow/135288116.cms",
+      "dateLocation": "2026-10-29 | Times of India"
+    },
+    {
+      "headline": "Homeland Security Employee Data Leaked Online",
+      "brief": "A malicious data leak website has publicly released personal information regarding thousands of United States Homeland Security employees, prompting urgent cybersecurity and federal investigations.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkJfbVFuNlVmSmFPRUVEYzBEZ3k3RDhzb1JIUlU3eFoxS25sejEtUGFNdFVDMUI4NW5IR3R2M1hvX2hTc0U2RXBJX3VWNHlUWXJodW9ENzE5Ql93UkNGUFo2WkhwcmsxSnVhQ28tZUppZkdWX0lmTzZZNnJ0SjBxXzFFZ1o2NVc2clVZRUdJZXJDWGdqeWlBMDFRV2wybVRCRWxQdXNJdVhNR2lM?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
+    },
+    {
+      "headline": "Cruise Ship Residents Forced Ashore in Cambodia",
+      "brief": "Long-term residential cruise ship Villa Vie Odyssey was forced to disembark passengers in Cambodia after soaring fuel expenses caused operational costs to surge from $1,800 to $8,000.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/iran-war-fallout-cruise-ship-carrying-permanent-residents-suspends-voyages-over-soaring-fuel-costs/articleshow/135288607.cms",
+      "dateLocation": "2026-10-29 | Times of India"
+    },
+    {
+      "headline": "Congress Wins Key Nagpur MLC Seat in Setback to BJP",
+      "brief": "In a major political setback for the BJP, Congress candidate Abhijeet Wanjari secured victory in the Nagpur MLC election, defeating the BJP challenger in a closely contested local battle.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-election-congress-bjp-nagpur/article71638769.ece",
+      "dateLocation": "2026-10-29 | The Hindu"
+    },
+    {
+      "headline": "Silver Imports Surge Following New Indian Rules",
+      "brief": "Silver imports into India's premier bullion exchange have surged significantly following recent regulatory licensing rule changes introduced by the Directorate General of Foreign Trade.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/silver-imports-surge-at-india-s-bullion-exchange-after-new-licensing-rules-11793170482288.html",
+      "dateLocation": "2026-10-29 | LiveMint"
+    },
+    {
+      "headline": "Apple Unveils Touchscreen Laptops in First",
+      "brief": "Apple has officially announced its first-ever line of pricey touchscreen laptops, marking a historic design shift for the traditionally non-touch consumer electronics manufacturing giant.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/textile-ministry-reopens-pli-scheme-halves-turnover-threshold-to-100-cr-11793197515898.html",
-      "dateLocation": "October 2026 | Livemint"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
     },
     {
-      "headline": "US Federal Reserve holds interest rates steady",
-      "brief": "The US Federal Reserve voted to keep benchmark interest rates unchanged at its latest meeting while leaving the door open to potential future hikes should inflation pressures persist across the broader economy.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-keeps-rates-unchanged-leaves-door-open-to-further-hikes/articleshow/135278487.cms",
-      "dateLocation": "October 2026 | Times of India"
-    },
-    {
-      "headline": "US goods trade deficit widens due to AI imports",
-      "brief": "The United States goods trade deficit expanded significantly to $134.9 billion in September, driven heavily by record-high imports of technology hardware and equipment fueled by the ongoing artificial intelligence boom.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-goods-trade-deficit-widens-in-september-as-ai-boom-drives-imports-to-record-high-11793210830394.html",
-      "dateLocation": "October 2026 | Livemint"
-    },
-    {
-      "headline": "NDA wins majority in Bihar Legislative Council elections",
-      "brief": "The ruling NDA coalition dominated the recent Bihar MLC election results, capturing crucial seats while the opposition Congress party failed to secure a single victory across multiple contested constituencies.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-mlc-results-counting-updates/article71632702.ece",
-      "dateLocation": "October 2026 | The Hindu"
-    },
-    {
-      "headline": "India raises serious security concerns over US F-16 package",
-      "brief": "New Delhi has formally conveyed strong objections to Washington regarding military aid packages to neighboring countries, warning that advanced sensitive defense technology could easily be diverted to third parties.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-raises-concerns-over-f-16-package-to-pakistan/articleshow/135278896.cms",
-      "dateLocation": "October 2026 | Times of India"
-    },
-    {
-      "headline": "At least 68 killed in catastrophic Spanish train crash",
-      "brief": "Rescue operations continue following a major rail disaster in Spain that left at least 68 people dead, marking the country's second catastrophic train accident of the year and drawing widespread national mourning.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
-      "dateLocation": "October 2026 | Reuters"
-    },
-    {
-      "headline": "Cyclone Arnab strikes eastern India, killing three people",
-      "brief": "Cyclone Arnab made landfall in eastern India, causing structural damage, widespread power outages, and displacing thousands of residents as emergency services scrambled to evacuate vulnerable coastal communities.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlJDOVctdlFxT0xCaFRzd1dPMWJORzREWDItVWtGcHZyVGREWlRBeEd3VFV2Q1VzUjFSdkxqazFwekIxU181ZDdwVXBDTV9jU3Q2a0FHa0hVblVaSFpoaVhNMTdlYThKMUNHNnl5M3J2ZFp3MGlpRENFaklRTjJrajRiLWVoOXEwMUY4NFY2QTBFc2hTNW51QjJHSVNXbVNnTlJIbU9WOXNRZ1lOMDhJRWR6RzdiQjN5bU8wZFpn?oc=5",
-      "dateLocation": "October 2026 | Reuters"
-    },
-    {
-      "headline": "Florida surgeon performs remote cancer surgery from afar",
-      "brief": "A medical team in Florida successfully completed a complex cancer removal procedure using an advanced robotic surgical system operated by a doctor located 35 miles away, raising new possibilities for remote healthcare.",
+      "headline": "Seventh Grader Wins Award for AI Earthquake Tool",
+      "brief": "A 12-year-old student from California named Bowen Wang won a national technology award after building an artificial intelligence tool designed to accurately predict seismic aftershocks.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/cancer-surgery-from-35-miles-away-how-a-florida-doctor-used-a-robotic-system-but-safety-questions-remain-details-11793202209832.html",
-      "dateLocation": "October 2026 | Livemint"
-    },
-    {
-      "headline": "Global heat-related deaths surge 36% since Paris Agreement",
-      "brief": "A comprehensive public health study published by Lancet indicates that global heat-related fatalities have increased by 36 percent since the signing of the Paris climate accord, highlighting accelerating climate health hazards.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/heat-related-deaths-up-36-since-paris-agreement-lancet/articleshow/135279061.cms",
-      "dateLocation": "October 2026 | Economic Times"
-    },
-    {
-      "headline": "Pakistan reverses airspace ban on Taiwanese airlines",
-      "brief": "Pakistan has rescinded its previously imposed airspace restrictions against Taiwanese carriers, granting commercial airlines permission to utilize its flight corridors through early next year and normalizing regional routing.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/pakistan-reverses-taiwan-airspace-ban-how-the-ban-would-have-changed-global-airspace-and-impacted-air-traffic-11793208650889.html",
-      "dateLocation": "October 2026 | Livemint"
-    },
-    {
-      "headline": "Indian Railways to switch off train chargers at night",
-      "brief": "Following recent safety incidents involving overheating power banks, Indian Railways announced strict enforcement of overnight mobile charging bans across long-distance trains to mitigate potential electrical fire hazards.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/railways-to-strictly-enforce-overnight-mobile-charging-ban-on-trains/article71637074.ece",
-      "dateLocation": "October 2026 | The Hindu"
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/earth/meet-bowen-wang-the-san-carlos-seventh-grader-who-built-an-ai-tool-to-predict-earthquake-aftershocks-and-won-a-3500-first-place-national-technology-award/articleshow/135278996.cms",
+      "dateLocation": "2026-10-29 | Times of India"
     }
   ]
 }
