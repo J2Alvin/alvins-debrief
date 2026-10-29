@@ -1,117 +1,110 @@
 {
-  "lastUpdated": "2026-10-29T04:16:26.319Z",
+  "lastUpdated": "2026-10-29T12:15:18.514Z",
   "ticker": [
-    "Alphabet shares plunge following disappointing earnings report",
-    "Spain train collision results in 68 tragic fatalities",
-    "European gas prices touch €100 amid energy crisis",
-    "US and Japan announce joint missile production facility",
-    "Samsung warns chip shortages are worsening globally"
+    "Six killed as cyclone hits India's eastern coast",
+    "Russian drone attack kills 13 in Ukraine's Dnipro",
+    "Indian shares rally after Fed holds rates steady",
+    "Oracle opens cloud infrastructure to Google's AI chips",
+    "Supreme Court criticizes ministry over tribunal autonomy"
   ],
   "articles": [
     {
-      "headline": "Alphabet Shares Plunge on Revenue Miss",
-      "brief": "Alphabet shares tumbled after reported search woes led to a revenue miss and worsening cash burn. Net profits slid 25 percent year-over-year to $26.2 billion, heavily impacting Wall Street futures and dragging down broader Asian market shares.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
-      "dateLocation": "2026-10-29 | Reuters"
-    },
-    {
-      "headline": "Microsoft Cloud Growth Offsets AI Spending Fears",
-      "brief": "Microsoft's robust cloud growth and healthy cash flow provided a welcome respite for investors worried about escalating artificial intelligence spending, easing concerns shared across the broader technology sector.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
-      "dateLocation": "2026-10-29 | Reuters"
-    },
-    {
-      "headline": "European Gas Surges Past €100",
-      "brief": "European natural gas prices reached €100 for the first time since the 2022 energy crisis, placing severe financial pressure on consumers and industrial sectors alike as winter approaches.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZZVVJDOHFvUk81TDltQmFoQmlUOTZqaGNLVEJ6UEtDMnY4VUlJd0dJVTlEZWpMX2Y3NHNOWF92QVpKUjBvdG5ybWZfYlFsNHpTOVRIUlFhWmgtcDRkNFVqdmd0ejhKTU5EWWRlRUd1bTMzM05tYjR3b0RMSHdQb2ZoVGtvQ2hDa0V2blR1bHdlRHdoZF9kbVByNlJPdVd6bTFwZW5lczBfU0p3RU1LZmpJOWtMcnhVWFkxbk9salA?oc=5",
-      "dateLocation": "2026-10-29 | Reuters"
-    },
-    {
-      "headline": "Spain Train Collision Kills 68 People",
-      "brief": "A devastating train collision in Spain resulted in 68 deaths due to system failures and inexplicable operational decisions. Trade unions have subsequently demanded the transportation minister's immediate resignation.",
+      "headline": "Six Killed in Cyclone Off India's Eastern Coast",
+      "brief": "A powerful cyclone off India's eastern coast has resulted in six deaths, triggering severe weather conditions, heavy rainfall, and widespread disruptions across coastal regions and neighboring states.",
       "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/system-failure-inexplicable-decisions-68-deaths-how-spains-train-collision-unfolded/articleshow/135288022.cms",
-      "dateLocation": "2026-10-29 | Economic Times"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkY3UnV6Sm91dGRaTlVTTHlJbmJEN2pBYjBtdW5BcmtWR2d0eUZTUXdyUjRVd3pYYU96cHlLWml1YlZITk1KSWNQUkxfZ1FKTW9YNU1LMllGLTRsTndqOTM3N1hkWERaN0xIR0hreEFvazA5QjFZazlSeFcyMzhWNE5TU3hqNFJNTVlfaFo4YnA0SlNHYURheFBCejdMWlZ6SFE?oc=5",
+      "dateLocation": "2026-10-29 | India"
     },
     {
-      "headline": "US and Japan Establish Joint Missile Facility",
-      "brief": "The United States and Japan have agreed to establish a dedicated joint missile production facility in Japan, strengthening bilateral defense cooperation amidst rising regional security tensions in Asia.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/us-and-japan-to-establish-a-japanese-facility-for-joint-missile-production/articleshow/135287420.cms",
-      "dateLocation": "2026-10-29 | Economic Times"
+      "headline": "Russian Drone Attack on Train Station Kills 13",
+      "brief": "A deadly Russian drone strike targeting a railway station in Ukraine's Dnipro region has killed 13 people, escalating tensions and drawing swift international condemnation amid ongoing conflict.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
+      "dateLocation": "2026-10-29 | Ukraine"
     },
     {
-      "headline": "Samsung Sees Worsening Global Chip Shortages",
-      "brief": "Samsung executives reported that semiconductor shortages are worsening, though management kept investors in cautious suspense regarding future capital returns and production adjustments.",
+      "headline": "Oracle Opens Cloud Platform to Google AI Chips",
+      "brief": "Oracle Cloud Infrastructure announced plans to offer Google’s custom AI Tensor Processing Units starting in 2027, introducing new enterprise competition to traditional GPU market dominance.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
-      "dateLocation": "2026-10-29 | Reuters"
+      "sourceUrl": "https://www.thehindu.com/business/Industry/oracle-opens-cloud-to-googles-ai-chips-challenging-gpu-dominance/article71640128.ece",
+      "dateLocation": "2026-10-29 | Global"
     },
     {
-      "headline": "Ambani’s Jio Reaches $137 Billion Valuation",
-      "brief": "Reliance Jio has achieved a staggering valuation of $137 billion, officially cementing its position as India's second-most valuable corporate enterprise following major digital expansion milestones.",
+      "headline": "Chinese AI Model Executes Complex Cyberattacks in Tests",
+      "brief": "Researchers report that a Chinese artificial intelligence model successfully carried out sophisticated, multi-step cyberattacks during controlled testing environments, raising cybersecurity concerns.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5",
+      "dateLocation": "2026-10-29 | International"
+    },
+    {
+      "headline": "Indian Shares Rise Following Federal Reserve Rate Decision",
+      "brief": "Indian equity markets advanced after the US Federal Reserve kept interest rates steady, supported by positive corporate earnings updates that boosted investor sentiment across sectors.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHNOY0FUMC13dm8yaFFmRldOSzhIUkZnZGxNT1RidTVlSEN2dUZOODk0QmQ4dGY0cjBObExKUHRsTjFTbTV5dDdIcS1MN1IzRHB5R1d3c0RlR1pqMHJGLW14b1NFMXVjLUI4MnMyY2RJa2U3dTk1Mll4TGNlMGlTeF9GYUxZMVZXVUZCTFd5bVZtUGc0WmZqV1M3NEYtTkY5YmJPMFFUam0yLTN4NjZlUHJxS0ZaTHRhQ045UjR1UQ?oc=5",
+      "dateLocation": "2026-10-29 | India"
+    },
+    {
+      "headline": "Shell and Total Energies Post High Quarterly Profits",
+      "brief": "Energy giants Shell and TotalEnergies reported their highest quarterly profits since 2022, largely driven by strong refining margins and steady operational income across global markets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG1Cdmo4cUo0WUJ2TENLcXNfMERDQ2JWMVlRUUg4enp5RHBhM3FhUkJ3TzJBZG9TVGI2NVNMbVhHT2x6c0NETmdQaWdKRl9CQ0k1T3hGRFdicFBoNUZ0QUtsRnNwd05ndlNacXhGQmZ1RGktUFBoN3owbEFqQXVfRkY4NUozY0N6QVBKZ3kxU3RBb0RvUV8yN2tzdkRvVGp5QXRkSTZuSzluQWJOLS1MYWRuTWQ?oc=5",
+      "dateLocation": "2026-10-29 | Europe"
+    },
+    {
+      "headline": "Supreme Court Rebukes Corporate Affairs Ministry Over NCLT Autonomy",
+      "brief": "The Supreme Court strongly criticized the Ministry of Corporate Affairs, warning that growing executive control threatens the institutional independence of company law tribunals.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/completely-hijacked-supreme-court-rebukes-corporate-affairs-ministry-over-nclt-autonomy-11793262651062.html",
+      "dateLocation": "2026-10-29 | New Delhi"
+    },
+    {
+      "headline": "BJP Wins Majority in MLC Polls While Opposition Holds Ground",
+      "brief": "The BJP-led NDA secured major victories in legislative council elections across four states, though Congress and Samajwadi Party held key symbolic constituencies in Nagpur and Varanasi.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-wins-big-but-congress-and-samajwadi-party-send-a-message-from-nagpur-varanasi/articleshow/135298231.cms",
+      "dateLocation": "2026-10-29 | India"
+    },
+    {
+      "headline": "Karnataka Hikes Milk Prices Amid Farmer Strains",
+      "brief": "The Karnataka government has approved an eight-rupee per litre increase in milk prices, directly passing a significant portion of the hike to drought-struggling farmers starting November 1.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5",
-      "dateLocation": "2026-10-29 | Reuters"
+      "sourceUrl": "https://www.livemint.com/news/india/milk-price-hiked-in-karnataka/article71640242.ece",
+      "dateLocation": "2026-10-29 | Bengaluru"
     },
     {
-      "headline": "Deadly Screwworm Detected in Arizona",
-      "brief": "New World screwworm has been detected in Arizona for the first time, found in a domestic dog, as health officials work to contain the accelerating parasite outbreak across the region.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/screwworm-detected-for-first-time-in-arizona-as-outbreak-spreads-11793231283631.html",
-      "dateLocation": "2026-10-29 | LiveMint"
+      "headline": "IndiGo CEO Signals Potential Airfare Hikes Amid Soaring Fuel Costs",
+      "brief": "IndiGo leadership warned that airlines may have no choice but to raise ticket prices as jet fuel costs surge significantly compared to the previous year, impacting operating margins.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indigo-ceo-says-no-choice-but-to-consider-fare-hikes-as-fuel-costs-surge/articleshow/135307300.cms",
+      "dateLocation": "2026-10-29 | Mumbai"
     },
     {
-      "headline": "Neeraj Yadav Found Dead Beside SUV",
-      "brief": "Para-athlete Neeraj Yadav was found dead beside his SUV in Sonipat. Police launched an inquiry following statements from a close friend who met him hours before the tragic incident.",
+      "headline": "Elena Rybakina Secures Year-End World No. 1 Ranking",
+      "brief": "Tennis star Elena Rybakina officially clinched the year-end world number one ranking for the first time following a dominant season featuring multiple Grand Slam victories.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/neeraj-yadav-death-woman-friend-says-she-met-para-athlete-hours-before-he-was-found-beside-suv/articleshow/135288116.cms",
-      "dateLocation": "2026-10-29 | Times of India"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/elena-rybakina-clinches-year-end-world-no-1-ranking-for-first-time-ahead-of-wta-finals/articleshow/135301690.cms",
+      "dateLocation": "2026-10-29 | Tokyo"
     },
     {
-      "headline": "Homeland Security Employee Data Leaked Online",
-      "brief": "A malicious data leak website has publicly released personal information regarding thousands of United States Homeland Security employees, prompting urgent cybersecurity and federal investigations.",
+      "headline": "Mumbai Indians Part Ways with Lasith Malinga and Coaching Staff",
+      "brief": "Indian Premier League franchise Mumbai Indians announced a major overhaul of their coaching setup, parting ways with bowling legend Lasith Malinga and other key coaches ahead of the season.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/mumbai-indians-part-ways-with-malinga-mhambrey-and-hopkinson-end-of-an-era-for-sri-lankan-legend-lasith-malinga-paras-mhambrey-and-carl-hopkinson/articleshow/135300828.cms",
+      "dateLocation": "2026-10-29 | Mumbai"
+    },
+    {
+      "headline": "Supreme Court Seeks Compensation Framework for Digital Fraud Victims",
+      "brief": "The Supreme Court has called for robust compensation guidelines to protect digital fraud victims, holding banks accountable if institutions fail to maintain adequate due diligence.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkJfbVFuNlVmSmFPRUVEYzBEZ3k3RDhzb1JIUlU3eFoxS25sejEtUGFNdFVDMUI4NW5IR3R2M1hvX2hTc0U2RXBJX3VWNHlUWXJodW9ENzE5Ql93UkNGUFo2WkhwcmsxSnVhQ28tZUppZkdWX0lmTzZZNnJ0SjBxXzFFZ1o2NVc2clVZRUdJZXJDWGdqeWlBMDFRV2wybVRCRWxQdXNJdVhNR2lM?oc=5",
-      "dateLocation": "2026-10-29 | Reuters"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/sc-calls-for-compensation-to-digital-fraud-victims-if-banks-fail-due-diligence/articleshow/135306340.cms",
+      "dateLocation": "2026-10-29 | New Delhi"
     },
     {
-      "headline": "Cruise Ship Residents Forced Ashore in Cambodia",
-      "brief": "Long-term residential cruise ship Villa Vie Odyssey was forced to disembark passengers in Cambodia after soaring fuel expenses caused operational costs to surge from $1,800 to $8,000.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/iran-war-fallout-cruise-ship-carrying-permanent-residents-suspends-voyages-over-soaring-fuel-costs/articleshow/135288607.cms",
-      "dateLocation": "2026-10-29 | Times of India"
-    },
-    {
-      "headline": "Congress Wins Key Nagpur MLC Seat in Setback to BJP",
-      "brief": "In a major political setback for the BJP, Congress candidate Abhijeet Wanjari secured victory in the Nagpur MLC election, defeating the BJP challenger in a closely contested local battle.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-election-congress-bjp-nagpur/article71638769.ece",
-      "dateLocation": "2026-10-29 | The Hindu"
-    },
-    {
-      "headline": "Silver Imports Surge Following New Indian Rules",
-      "brief": "Silver imports into India's premier bullion exchange have surged significantly following recent regulatory licensing rule changes introduced by the Directorate General of Foreign Trade.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/silver-imports-surge-at-india-s-bullion-exchange-after-new-licensing-rules-11793170482288.html",
-      "dateLocation": "2026-10-29 | LiveMint"
-    },
-    {
-      "headline": "Apple Unveils Touchscreen Laptops in First",
-      "brief": "Apple has officially announced its first-ever line of pricey touchscreen laptops, marking a historic design shift for the traditionally non-touch consumer electronics manufacturing giant.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGg0QUZLRkZQUmg1ei1BVWZCUEZkcFdueUIyZDJFX3ljN09yRjUzSEE5V0JWVVpRaGRHdHNDaHAtNkRlNXZfWElQM3QxM0lpZTM1UHJYQWhKRmQ2X3JJNzAxRy1lcGIyalhUTEFhRGxyOTUxeU04S2U1X1RSWWUwcldiQndWUTZtYlB0SGZVTFM4eV9HZVV4VGdsRDAzc3h6TWhiZmVDNVF0dkRGMXI1eFhMekQ0TTU2?oc=5",
-      "dateLocation": "2026-10-29 | Reuters"
-    },
-    {
-      "headline": "Seventh Grader Wins Award for AI Earthquake Tool",
-      "brief": "A 12-year-old student from California named Bowen Wang won a national technology award after building an artificial intelligence tool designed to accurately predict seismic aftershocks.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/earth/meet-bowen-wang-the-san-carlos-seventh-grader-who-built-an-ai-tool-to-predict-earthquake-aftershocks-and-won-a-3500-first-place-national-technology-award/articleshow/135278996.cms",
-      "dateLocation": "2026-10-29 | Times of India"
+      "headline": "ISRO Prepares to Launch NVS-03 Navigation Satellite",
+      "brief": "The Indian Space Research Organisation is scheduled to launch the NVS-03 navigation satellite aboard a GSLV rocket to enhance regional navigation capabilities and test an indigenous atomic clock.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/what-is-nvs-03-isro-to-launch-satellite-on-october-30-why-nvs-02-was-not-successful-key-reasons-explained-11793270021063.html",
+      "dateLocation": "2026-10-29 | Sriharikota"
     }
   ]
 }
