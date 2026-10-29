@@ -1,110 +1,117 @@
 {
-  "lastUpdated": "2026-10-29T12:15:18.514Z",
+  "lastUpdated": "2026-10-29T22:24:44.577Z",
   "ticker": [
-    "Six killed as cyclone hits India's eastern coast",
-    "Russian drone attack kills 13 in Ukraine's Dnipro",
-    "Indian shares rally after Fed holds rates steady",
-    "Oracle opens cloud infrastructure to Google's AI chips",
-    "Supreme Court criticizes ministry over tribunal autonomy"
+    "US declares national power grid emergency across 13 states",
+    "ECB flags potential December hike as growth fears rise",
+    "Spain train crash death toll rises to 69 victims",
+    "IMF flags Super El Niño risks to India's economic growth",
+    "Canada seeks EU associate member status amid trade pressure"
   ],
   "articles": [
     {
-      "headline": "Six Killed in Cyclone Off India's Eastern Coast",
-      "brief": "A powerful cyclone off India's eastern coast has resulted in six deaths, triggering severe weather conditions, heavy rainfall, and widespread disruptions across coastal regions and neighboring states.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkY3UnV6Sm91dGRaTlVTTHlJbmJEN2pBYjBtdW5BcmtWR2d0eUZTUXdyUjRVd3pYYU96cHlLWml1YlZITk1KSWNQUkxfZ1FKTW9YNU1LMllGLTRsTndqOTM3N1hkWERaN0xIR0hreEFvazA5QjFZazlSeFcyMzhWNE5TU3hqNFJNTVlfaFo4YnA0SlNHYURheFBCejdMWlZ6SFE?oc=5",
-      "dateLocation": "2026-10-29 | India"
+      "headline": "Pine Labs profit surges on digital payments boom",
+      "brief": "Pine Labs reported a massive sixfold profit jump fueled by India's expanding digital payments sector, showcasing surging domestic demand for fintech infrastructure and robust financial transaction volumes.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeG14cEZMTjVMS0dPdEZ6R2lWYUdvYlpuVHFMS3gzNXFjTlNqOFM0SjhSZy1KSnVkVG9ISmRVZGlWRW8ydlpONjQybzJZVDM5NTQ4cTRkdExDYy03Ylh3OEdrYUVoMTlRRXZzbmtGU0U2VzJHSVJKOTQ1TElSUkFqbzZUUVc3Qnd3NUJxVG5wUmVYUDVGZk42eDM0T3dRM21mRFRsWGdWVkhTOU51ZDM4OXVycDlXTVpOMk1LbmF4VDZuWHc?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
     },
     {
-      "headline": "Russian Drone Attack on Train Station Kills 13",
-      "brief": "A deadly Russian drone strike targeting a railway station in Ukraine's Dnipro region has killed 13 people, escalating tensions and drawing swift international condemnation amid ongoing conflict.",
+      "headline": "ECB flags December rate hike amid yield concerns",
+      "brief": "European Central Bank officials signaled a potential interest rate hike in December while cautioning that rising bond yields could weigh heavily on broader regional economic growth.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
+    },
+    {
+      "headline": "US declares national emergency to secure power grid",
+      "brief": "The US government declared a national emergency across 13 states to protect bulk power systems from foreign-made equipment vulnerabilities, targeting potential cyberattacks and supply disruptions.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-the-us-department-of-energy-announced-power-grid-emergency-in-13-states-government-declares-national-emergency-to-secure-bulk-power-system-what-it-is-and-what-it-means-for-americans/articleshow/135298581.cms",
+      "dateLocation": "2026-10-29 | Times of India"
+    },
+    {
+      "headline": "Finland launches criminal probe into Google data center",
+      "brief": "Finnish authorities have initiated a formal criminal investigation into land clearance procedures associated with a planned Google data center development.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk1Mbjlqa3B2RFBxMXpXbTcwVjdMYVpwYkhDVmcyWkpKSEpDTDFzZG9QeHVWOERzNDRJYmNwRHFYWUY0dHV6RDRvaEl4QUYxVVZtOTFZNUNqa18zR2ZiVlJ5eTYtQ0hOcEswMGt3TzdCV0tJazJnMzlBZmZuWXdLZUhQRURmbEZfVTJFbUJKdUJGekNIY28zT182eFBlM2FnaWRJN0dRa3JhX0Exbm9xRTV5T1ptMl8tLUVYUFNmWUthLVQ0YVhMaFU1cw?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
+    },
+    {
+      "headline": "IMF warns of Super El Niño risks to India",
+      "brief": "The International Monetary Fund cautioned that a Super El Niño weather pattern poses material downside risks to India's economic growth trajectory, though the full impact remains pending.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/imf-flags-super-el-nio-risks-to-indias-growth-says-impact-yet-to-materialise/articleshow/135325476.cms",
+      "dateLocation": "2026-10-29 | Economic Times"
+    },
+    {
+      "headline": "Piyush Goyal targets $1 trillion exports milestone",
+      "brief": "Union Minister Piyush Goyal stated that India remains fully capable of achieving its ambitious $1 trillion export target this fiscal year despite prevailing global economic headwinds.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-can-achieve-1-trillion-exports-target-this-fiscal-despite-global-headwinds-piyush-goyal/articleshow/135322112.cms",
+      "dateLocation": "2026-10-29 | Economic Times"
+    },
+    {
+      "headline": "Netanyahu's bloc falls short in Israeli elections",
+      "brief": "Benjamin Netanyahu's political bloc secured 53 seats in the latest Israeli election, falling short of a governing majority and setting the stage for complex coalition negotiations.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/israel-election-results-netanyahus-bloc-wins-53-seats-falls-short-of-majority-as-coalition-talks-loom/articleshow/135325926.cms",
+      "dateLocation": "2026-10-29 | Times of India"
+    },
+    {
+      "headline": "China Communist Party conclave records high expulsions",
+      "brief": "China's ruling Communist Party wrapped up a high-level disciplinary conclave marked by a record number of official expulsions and absences as part of an ongoing anti-corruption drive.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUEtOURjOXhiX3AyUzZjeVhLOTByR2dqLXZyNkJLa3BCa1JLOWRFblV2NlJaWUZkemRuMGE4bDA1V2RDUGJjR3VCa1d3Z0VYYmhrYjJwdl9ZYWM5bW5yd2pjWDVCWDJvQmk2N0NlWFNvNkZTcTlvSEhpOEJGZ0J1ZDd1OUVpX3JHblJRT2VES3BFS0UtUnppTjV0eDhReE5selVOTVdLWTNCVEtpMkN0YXU0dUU1RmdMeGdXN1ZfUGY2RUVyVEdJS2VBc1g?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
+    },
+    {
+      "headline": "Russian drone strike kills 14 on Ukrainian rail platform",
+      "brief": "A deadly Russian drone strike hit a Ukrainian railway platform, resulting in the deaths of 14 people and drawing immediate international condemnation.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
-      "dateLocation": "2026-10-29 | Ukraine"
+      "dateLocation": "2026-10-29 | Reuters"
     },
     {
-      "headline": "Oracle Opens Cloud Platform to Google AI Chips",
-      "brief": "Oracle Cloud Infrastructure announced plans to offer Google’s custom AI Tensor Processing Units starting in 2027, introducing new enterprise competition to traditional GPU market dominance.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/oracle-opens-cloud-to-googles-ai-chips-challenging-gpu-dominance/article71640128.ece",
-      "dateLocation": "2026-10-29 | Global"
+      "headline": "Canada courts Europe amid US trade pressure",
+      "brief": "Facing mounting trade pressure and tariff threats from the United States, Canadian representatives are actively pursuing closer economic integration and associate status with the European Union.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-seeks-eu-associate-member-status-as-carney-counters-trumps-trade-pressure/articleshow/135330997.cms",
+      "dateLocation": "2026-10-29 | Times of India"
     },
     {
-      "headline": "Chinese AI Model Executes Complex Cyberattacks in Tests",
-      "brief": "Researchers report that a Chinese artificial intelligence model successfully carried out sophisticated, multi-step cyberattacks during controlled testing environments, raising cybersecurity concerns.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5",
-      "dateLocation": "2026-10-29 | International"
-    },
-    {
-      "headline": "Indian Shares Rise Following Federal Reserve Rate Decision",
-      "brief": "Indian equity markets advanced after the US Federal Reserve kept interest rates steady, supported by positive corporate earnings updates that boosted investor sentiment across sectors.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHNOY0FUMC13dm8yaFFmRldOSzhIUkZnZGxNT1RidTVlSEN2dUZOODk0QmQ4dGY0cjBObExKUHRsTjFTbTV5dDdIcS1MN1IzRHB5R1d3c0RlR1pqMHJGLW14b1NFMXVjLUI4MnMyY2RJa2U3dTk1Mll4TGNlMGlTeF9GYUxZMVZXVUZCTFd5bVZtUGc0WmZqV1M3NEYtTkY5YmJPMFFUam0yLTN4NjZlUHJxS0ZaTHRhQ045UjR1UQ?oc=5",
-      "dateLocation": "2026-10-29 | India"
-    },
-    {
-      "headline": "Shell and Total Energies Post High Quarterly Profits",
-      "brief": "Energy giants Shell and TotalEnergies reported their highest quarterly profits since 2022, largely driven by strong refining margins and steady operational income across global markets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG1Cdmo4cUo0WUJ2TENLcXNfMERDQ2JWMVlRUUg4enp5RHBhM3FhUkJ3TzJBZG9TVGI2NVNMbVhHT2x6c0NETmdQaWdKRl9CQ0k1T3hGRFdicFBoNUZ0QUtsRnNwd05ndlNacXhGQmZ1RGktUFBoN3owbEFqQXVfRkY4NUozY0N6QVBKZ3kxU3RBb0RvUV8yN2tzdkRvVGp5QXRkSTZuSzluQWJOLS1MYWRuTWQ?oc=5",
-      "dateLocation": "2026-10-29 | Europe"
-    },
-    {
-      "headline": "Supreme Court Rebukes Corporate Affairs Ministry Over NCLT Autonomy",
-      "brief": "The Supreme Court strongly criticized the Ministry of Corporate Affairs, warning that growing executive control threatens the institutional independence of company law tribunals.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/completely-hijacked-supreme-court-rebukes-corporate-affairs-ministry-over-nclt-autonomy-11793262651062.html",
-      "dateLocation": "2026-10-29 | New Delhi"
-    },
-    {
-      "headline": "BJP Wins Majority in MLC Polls While Opposition Holds Ground",
-      "brief": "The BJP-led NDA secured major victories in legislative council elections across four states, though Congress and Samajwadi Party held key symbolic constituencies in Nagpur and Varanasi.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-wins-big-but-congress-and-samajwadi-party-send-a-message-from-nagpur-varanasi/articleshow/135298231.cms",
-      "dateLocation": "2026-10-29 | India"
-    },
-    {
-      "headline": "Karnataka Hikes Milk Prices Amid Farmer Strains",
-      "brief": "The Karnataka government has approved an eight-rupee per litre increase in milk prices, directly passing a significant portion of the hike to drought-struggling farmers starting November 1.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/milk-price-hiked-in-karnataka/article71640242.ece",
-      "dateLocation": "2026-10-29 | Bengaluru"
-    },
-    {
-      "headline": "IndiGo CEO Signals Potential Airfare Hikes Amid Soaring Fuel Costs",
-      "brief": "IndiGo leadership warned that airlines may have no choice but to raise ticket prices as jet fuel costs surge significantly compared to the previous year, impacting operating margins.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indigo-ceo-says-no-choice-but-to-consider-fare-hikes-as-fuel-costs-surge/articleshow/135307300.cms",
-      "dateLocation": "2026-10-29 | Mumbai"
-    },
-    {
-      "headline": "Elena Rybakina Secures Year-End World No. 1 Ranking",
-      "brief": "Tennis star Elena Rybakina officially clinched the year-end world number one ranking for the first time following a dominant season featuring multiple Grand Slam victories.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/elena-rybakina-clinches-year-end-world-no-1-ranking-for-first-time-ahead-of-wta-finals/articleshow/135301690.cms",
-      "dateLocation": "2026-10-29 | Tokyo"
-    },
-    {
-      "headline": "Mumbai Indians Part Ways with Lasith Malinga and Coaching Staff",
-      "brief": "Indian Premier League franchise Mumbai Indians announced a major overhaul of their coaching setup, parting ways with bowling legend Lasith Malinga and other key coaches ahead of the season.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/mumbai-indians-part-ways-with-malinga-mhambrey-and-hopkinson-end-of-an-era-for-sri-lankan-legend-lasith-malinga-paras-mhambrey-and-carl-hopkinson/articleshow/135300828.cms",
-      "dateLocation": "2026-10-29 | Mumbai"
-    },
-    {
-      "headline": "Supreme Court Seeks Compensation Framework for Digital Fraud Victims",
-      "brief": "The Supreme Court has called for robust compensation guidelines to protect digital fraud victims, holding banks accountable if institutions fail to maintain adequate due diligence.",
+      "headline": "Spanish train crash death toll climbs to 69",
+      "brief": "Emergency responders confirmed that the death toll from a devastating train crash in Spain has risen to 69 as rescue and recovery operations continue at the scene.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/sc-calls-for-compensation-to-digital-fraud-victims-if-banks-fail-due-diligence/articleshow/135306340.cms",
-      "dateLocation": "2026-10-29 | New Delhi"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm9UODU2NnZwekhXd0lSNnVsalJxQmNPbllDOEJBdllTdUwyTFFwY2NIb0F5YXBfWWgzVmxLUUNIV2JnTXgyY2tZNEZGUy1pVTRxT2ozdGFJMXFSck40ZFhKNC1LRXBMQ0ZXd2NHbWg0bk1FT1IwM3oyNHVMbTZJTnB0TjV0eDhReE5selVOTVdLWTNCVEtpMkN0YXU0dUU1RmdMeGdXN1ZfUGY2RUVyVEdJS2VBc1g?oc=5",
+      "dateLocation": "2026-10-29 | Reuters"
     },
     {
-      "headline": "ISRO Prepares to Launch NVS-03 Navigation Satellite",
-      "brief": "The Indian Space Research Organisation is scheduled to launch the NVS-03 navigation satellite aboard a GSLV rocket to enhance regional navigation capabilities and test an indigenous atomic clock.",
+      "headline": "Actor Sir Patrick Stewart passes away at 86",
+      "brief": "Renowned British actor Sir Patrick Stewart, celebrated globally for his iconic roles in Star Trek and the X-Men franchise, has died at his Los Angeles home at age 86.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/what-is-nvs-03-isro-to-launch-satellite-on-october-30-why-nvs-02-was-not-successful-key-reasons-explained-11793270021063.html",
-      "dateLocation": "2026-10-29 | Sriharikota"
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sir-patrick-stewart-dies-at-86-star-trek-and-x-men-star-passes-away-at-his-home-in-los-angeles-after-battle-with-alzheimers-and-lewy-body-dementia/articleshow/135331464.cms",
+      "dateLocation": "2026-10-29 | Times of India"
+    },
+    {
+      "headline": "Kotian claims 11 wickets to anchor Mumbai victory",
+      "brief": "Tanush Kotian delivered a stellar bowling performance, taking 8 for 84 to complete a match haul of 11 wickets and steer Mumbai to a commanding domestic cricket win.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/kotian-caps-a-career-best-haul-to-set-up-mumbais-win/article71640337.ece",
+      "dateLocation": "2026-10-29 | The Hindu"
+    },
+    {
+      "headline": "Health insurers seek regulatory tweaks on expense caps",
+      "brief": "Industry representatives in India's health insurance sector have petitioned regulators for revisions to management expense caps to ensure sustainable growth and better product distribution.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/insure/health-insurers-seek-expense-cap-tweaks/articleshow/135330238.cms",
+      "dateLocation": "2026-10-29 | Economic Times"
+    },
+    {
+      "headline": "Study reveals geographic concentration of health PE",
+      "brief": "A new industry study indicates that the vast majority of private equity investments in India's healthcare sector remain heavily concentrated in the western and southern regions.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/most-of-private-equity-in-health-went-to-west-south-study/articleshow/135332703.cms",
+      "dateLocation": "2026-10-29 | Times of India"
     }
   ]
 }
