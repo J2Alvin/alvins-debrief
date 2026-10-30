@@ -27,7 +27,7 @@ AI-curated daily news site. A cron job pulls RSS feeds, Gemini filters them to 1
 
 ## Conventions
 - Keep the editorial look: Tailwind theme colors `background`, `foreground`, `muted`, `accent` (#CC0000); fonts serif (Playfair Display), body (Lora), sans (Inter), mono (JetBrains Mono)
-- Covers are local: `public/category-images/<category>_<1-3>.webp` (3 per category). `getCoverImage()` in `app/page.tsx` picks one by category + headline hash. No external image fetching. Keep the grayscale/hover-sepia classes on the `<img>`.
+- Covers are local: `public/category-images/<category>_<1-3>.webp` (3 per category). `getCoverImage()` in `app/page.tsx` picks one by category + headline hash. No external image fetching. Keep each cover ≤900px wide and under ~250 KB (WebP, quality ~72); oversized images wrecked mobile LCP before. Keep the grayscale/hover-sepia classes on the `<img>`.
 - Header bar under the title shows a single centered line, "LAST REFRESHED TIME: <lastUpdated in IST>". Keep it to that one line.
 - Prefer server components; add `"use client"` only when needed
 

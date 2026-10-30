@@ -125,6 +125,11 @@ export default function Home() {
                   <img
                     src={getCoverImage(item.category, item.headline)}
                     alt={item.headline}
+                    width={900}
+                    height={506}
+                    loading={index < 2 ? "eager" : "lazy"}
+                    fetchPriority={index === 0 ? "high" : "auto"}
+                    decoding="async"
                     className="w-full h-full object-cover grayscale group-hover:sepia-[40%] transition-all duration-300"
                   />
                 </div>
