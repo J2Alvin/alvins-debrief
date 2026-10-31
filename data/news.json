@@ -1,117 +1,82 @@
 {
-  "lastUpdated": "2026-10-31T16:46:34.086Z",
+  "lastUpdated": "2026-10-31T20:56:58.338Z",
   "ticker": [
-    "Nasdaq faces $2T loss over AI fears",
-    "Andhra Pradesh braces for cyclone threat",
-    "Delhi enforces strict winter pollution curbs",
-    "France braces for fresh civil unrest",
-    "India releases ₹1.09L crore tax devolution"
+    "Nasdaq faces massive October rout amid AI spending concerns",
+    "Canada and EU form new strategic alliance to counter US",
+    "Binance recovers 90 percent of funds from major cyber hack",
+    "Bangladesh dengue death toll continues rising into winter months",
+    "Quad nations announce 85 million dollar initiative for AI access"
   ],
   "articles": [
     {
-      "headline": "Bangladesh Dengue Death Toll Rises",
-      "brief": "The death toll from dengue in Bangladesh continues to surge. Health officials indicate that the crisis is unlikely to ease significantly before December.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5",
-      "dateLocation": "October 31, 2026 | Dhaka, Bangladesh"
-    },
-    {
-      "headline": "Binance Replenishes Stolen Assets",
-      "brief": "Cryptocurrency exchange Binance has successfully replenished ninety percent of the digital assets that were compromised and stolen during a recent major security incident.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
-      "dateLocation": "October 31, 2026 | Global"
-    },
-    {
-      "headline": "France Braces For Fresh Unrest",
-      "brief": "The French government has vowed to take a tough stance as the country braces itself for fresh rounds of public unrest and widespread demonstrations.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXk1S3NHdWFyaW5FR2xIZTNXczZnczhPU1NJUVRpU2NUeU5iajVUcDN0RVl6cGVjNmJGanQyU0F1UmQ2a2lKQnJZNXRROExfOEZISzdKcExIOHFua19XVUc3RmF5N0pCZEI4RXZ0Z1ZvMkw3T1l3bjB4T2syMllUeFBiYV8yeG53SmJfZWh1NEw3UGVjTm05T2ZOdzF4aHlRdi1sNU0xajFBdw?oc=5",
-      "dateLocation": "October 31, 2026 | Paris, France"
-    },
-    {
-      "headline": "Nasdaq Faces Trillion-Dollar Wipeout",
-      "brief": "The Nasdaq index faces a staggering two trillion dollar wipeout during October as growing anxieties and fears regarding corporate artificial intelligence spending deepen.",
+      "headline": "Nasdaq faces record wipeout as AI spending fears deepen",
+      "brief": "Global markets experience heavy tech volatility as investors grow increasingly concerned over massive capital expenditure in artificial intelligence without immediate proportional returns, driving steep index pullbacks.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
-      "dateLocation": "October 31, 2026 | New York, USA"
+      "dateLocation": "October 31, 2026 | Reuters"
     },
     {
-      "headline": "Andhra Pradesh Braces For Cyclone",
-      "brief": "Authorities in Andhra Pradesh have been placed on high alert as a depression over the southeast Bay of Bengal is forecasted to intensify into a cyclone.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-calls-for-high-alert-as-another-cyclone-threat-looms-over-andhra-pradesh/article71649991.ece",
-      "dateLocation": "October 31, 2026 | Vijayawada, India"
-    },
-    {
-      "headline": "Quad Expresses Economic Coercion Concerns",
-      "brief": "Ministers from the Quad alliance meeting in Georgia have expressed grave concerns regarding global economic coercion, including the use of arbitrary export restrictions.",
+      "headline": "Canada and EU forge strategic pact to reduce US reliance",
+      "brief": "Canada and the European Union have officially launched the Alliance for the Future, aiming to boost cooperation in defense, critical minerals, and trade to enhance strategic autonomy amid shifting Washington policies.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/quad-ministers-express-grave-concerns-over-economic-coercion/article71650501.ece",
-      "dateLocation": "October 31, 2026 | Atlanta, USA"
+      "sourceUrl": "https://www.livemint.com/news/world/why-canada-eu-are-forging-strategic-ties-to-reduce-us-dependence-amid-trump-threats-what-is-alliance-for-the-future-11793462723354.html",
+      "dateLocation": "October 31, 2026 | Livemint"
     },
     {
-      "headline": "Centre Releases ₹1.09 Lakh Crore",
-      "brief": "The central government has released an additional installment of tax devolution amounting to 1.09 lakh crore rupees to various states across the country.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece",
-      "dateLocation": "October 31, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "IBBI Notifies Developer Insolvency Rules",
-      "brief": "New regulations notified by the IBBI allow financial creditors to seek exemptions for healthy real estate projects from wider developer bankruptcy proceedings.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/ibbi-notifies-new-rules-to-shield-healthy-real-estate-projects-from-developer-insolvency-11793449278405.ece",
-      "dateLocation": "October 31, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Air Chief Marshal Ashutosh Dixit Takes Charge",
-      "brief": "Air Chief Marshal Ashutosh Dixit has officially taken charge as the new head of the Indian Air Force, bringing four decades of extensive service experience.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/who-is-ashutosh-dixit-air-chief-marshal-takes-charge-as-new-iaf-chief-he-was-part-of-operation-sindoor-op-rakshak-11793446061067.ece",
-      "dateLocation": "October 31, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Cursor Confirms Claude Code Compromise",
-      "brief": "Code editor Cursor reported that up to 5,000 users were potentially affected following a security incident involving a tampered Claude Code extension.",
+      "headline": "Meta partners with Fourier to build advanced humanoid robots",
+      "brief": "Technology giant Meta is reportedly collaborating with Chinese startup Fourier to develop advanced humanoid robotics, signaling a major push into physical automation and hardware integration.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSE5Sd2ZzblVoTHk3cWowdjBHOUlGQ25obHhuSkoyell3S2JWTUxqeXFFRnBMbTVaOENobjFKVFJXT0VhQi1VSzVBX0dSM3N5SGJ4N2VWSjhnX3NCQlJsSmdTX1RmSlpEeHN0NFFXVll0MzZRV1lfbUpkcDZ1dk9xQXpSWHBVUVJiMDJCYXgtMmlxMnQ1a2dxcmxBZlFBcTY0SUZMYXZyeHNZX3o1ejRUbkxmN3JqRlYtSnNCRnFiZkswLWx4S2c?oc=5",
-      "dateLocation": "October 31, 2026 | Global"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5",
+      "dateLocation": "October 31, 2026 | Reuters"
     },
     {
-      "headline": "Australia Slips In WTC Standings",
-      "brief": "Australia has dropped to third place in the World Test Championship standings after losing their hard-fought Test series 2-1 away to South Africa.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/updated-wtc-standings-australia-slip-after-series-defeat-in-south-africa-where-are-india/articleshow/135405840.cms",
-      "dateLocation": "October 31, 2026 | Sydney, Australia"
+      "headline": "Binance recovers 90% of funds following massive cyber breach",
+      "brief": "Cryptocurrency exchange Binance announced it has successfully recovered or covered 90 percent of the massive losses stemming from a historical 6.3 billion dollar security breach.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+      "dateLocation": "October 31, 2026 | Reuters"
     },
     {
-      "headline": "Delhi Imposes Strict Winter Pollution Curbs",
-      "brief": "Delhi has rolled out comprehensive winter pollution restrictions effective November 1, including fifty percent work-from-home mandates and heavily increased parking fees.",
+      "headline": "Bangladesh dengue death toll climbs as crisis persists",
+      "brief": "Health officials in Bangladesh report a continued surge in fatal dengue cases nationwide, with medical experts warning that the epidemic is unlikely to ease significantly before December.",
       "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5",
+      "dateLocation": "October 31, 2026 | Reuters"
+    },
+    {
+      "headline": "Quad nations commit funding to expand regional AI access",
+      "brief": "Leaders of the Quad alliance have announced an 85 million dollar financial package aimed at expanding artificial intelligence access across partner nations while flagging regional economic coercion concerns.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/quad-flags-economic-coercion-announces-85-million-to-expand-ai-access/articleshow/135410437.cms",
+      "dateLocation": "October 31, 2026 | Times of India"
+    },
+    {
+      "headline": "Ukrainian drone maker claims missions succeed without SpaceX",
+      "brief": "Ukrainian defense manufacturer Fire Point has publicly stated that its domestically produced military systems can successfully complete tactical missions without reliance on SpaceX satellite infrastructure.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI?oc=5",
+      "dateLocation": "October 31, 2026 | Reuters"
+    },
+    {
+      "headline": "Delhi introduces strict winter pollution curbs from November",
+      "brief": "The Delhi government has announced a comprehensive winter action plan, implementing fifty percent work-from-home mandates, higher parking levies, and stringent vehicle restrictions to combat severe seasonal air pollution.",
+      "category": "general",
       "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/delhi-pollution-restrictions-from-november-1-50-wfh-parking-charges-to-double-vehicle-curbs-and-more-check-full-list-under-winter-action-plan/articleshow/135404298.cms",
-      "dateLocation": "October 31, 2026 | New Delhi, India"
+      "dateLocation": "October 31, 2026 | Economic Times"
     },
     {
-      "headline": "PM Modi Slams Opposition Parties",
-      "brief": "Prime Minister Narendra Modi launched a scathing attack on the political opposition, accusing them of conspiring to divide the nation through foreign meetings.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/secret-meets-on-foreign-soil-pm-modi-says-opposition-conspiring-to-divide-nation/articleshow/135403686.cms",
-      "dateLocation": "October 31, 2026 | New Delhi, India"
+      "headline": "Indian-American voters shift preferences ahead of US midterms",
+      "brief": "Recent survey data reveals shifting political alignments among Indian-American voters ahead of upcoming US midterm elections, driven by growing economic anxieties, immigration policy concerns, and foreign relations.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/indianamericans-turning-away-from-donald-trump-what-surveys-reveal-ahead-of-us-midterms-11793470435538.html",
+      "dateLocation": "October 31, 2026 | Livemint"
     },
     {
-      "headline": "INDIA Bloc Protests Voter Roll Revisions",
-      "brief": "The INDIA political bloc has escalated protests against the Election Commission, organizing a major rally in Delhi to contest recent electoral-roll revisions.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
-      "dateLocation": "October 31, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Navy Halts Railways To Enter Final",
-      "brief": "The Navy sports team delivered a stellar performance to defeat Railways, successfully ending their tournament title hopes and advancing directly to the final.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/navy-ends-railways-title-hopes-enters-the-final/article71650531.ece",
-      "dateLocation": "October 31, 2026 | India"
+      "headline": "North Korea utilizes sophisticated cyber operations for funds",
+      "brief": "State-sponsored North Korean hackers continue to leverage advanced social engineering and cryptocurrency exploits to secure vital financial resources, bypassing international economic sanctions to support state priorities.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-uns-cyber-army-how-north-koreas-hackers-steal-billions-for-regime/articleshow/135403098.cms",
+      "dateLocation": "October 31, 2026 | Times of India"
     }
   ]
 }
