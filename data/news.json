@@ -1,117 +1,103 @@
 {
-  "lastUpdated": "2026-10-30T21:54:47.709Z",
+  "lastUpdated": "2026-10-31T03:57:18.883Z",
   "ticker": [
-    "Reliance profit surges 41% on refining",
-    "ISRO successfully launches NVS-03 navigation satellite",
-    "Nasdaq faces major rout amid AI fears",
-    "Census 2027 schedules self-enumeration phase",
-    "Binance hackers target $6.3 billion crypto heist"
+    "US approves $2.1 billion Patriot missile sale to Ukraine",
+    "Reliance Industries Q2 profit surges 41% to ₹25,548 crore",
+    "ISRO successfully launches third next-gen NVS-03 satellite",
+    "Tata Motors completes Iveco acquisition, appoints Chandrasekaran chairperson",
+    "Iran-US draft proposes uranium transfer and Hormuz reopening"
   ],
   "articles": [
     {
-      "headline": "Reliance Reports 41% Profit Jump on Refining Strength",
-      "brief": "Reliance Industries posted a 41% surge in quarterly profit, reaching ₹25,548 crore, driven by robust refining margins and strong performance from Jio Platforms. Revenue climbed 29%, cementing the conglomerate's powerhouse financial standing.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-profit-shoots-up-41-yoy-to-rs-25548-crore-revenue-up-12/articleshow/135361960.cms",
-      "dateLocation": "October 30, 2026 | New Delhi"
+      "headline": "US Approves $2.1 Billion Patriot Missile Sale to Ukraine",
+      "brief": "The United States has approved a $2.1 billion military sale of Patriot air defense missiles to Ukraine, bolstering the nation's defense capabilities following persistent calls for advanced interceptors.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno?oc=5",
+      "dateLocation": "October 31, 2026 | Washington / Reuters"
     },
     {
-      "headline": "ISRO Launches GSLV-F18 Carrying NVS-03 Navigation Satellite",
-      "brief": "The Indian Space Research Organisation successfully placed the next-generation navigation satellite NVS-03 into orbit using the GSLV-F18 rocket. Equipped with an indigenous atomic clock, the 12-year mission aims to restore the NavIC regional constellation and boost military independence.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.cms",
-      "dateLocation": "October 30, 2026 | Bengaluru"
+      "headline": "Iran-US Draft Proposes Uranium Transfer and Hormuz Reopening",
+      "brief": "A newly proposed US-Iran draft deal outlines plans for Iran to transfer its uranium stockpile abroad and reopen the strategic Strait of Hormuz within seven days, aiming to ease severe geopolitical and energy tensions.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-to-shift-uranium-stockpile-abroad-reopen-hormuz-within-7-days-under-draft-deal-report/articleshow/135385055.cms",
+      "dateLocation": "October 31, 2026 | Middle East / Times of India"
+    },
+    {
+      "headline": "Reliance Industries Q2 Profit Jumps 41% to ₹25,548 Crore",
+      "brief": "Reliance Industries reported a 41% surge in quarterly net profit, reaching ₹25,548 crore, driven by robust performance in its refining operations and strong subscriber additions in Jio.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-profit-shoots-up-41-yoy-to-rs-25548-crore-revenue-up-12/articleshow/135361960.cms",
+      "dateLocation": "October 31, 2026 | Mumbai / Economic Times"
     },
     {
       "headline": "Nasdaq Faces $2 Trillion Wipeout Amid AI Spending Fears",
-      "brief": "Global tech stocks suffered a massive selloff, with the Nasdaq staring at a staggering $2 trillion wipeout for October. Deepening investor anxieties over runaway AI infrastructure spending and sliding hardware demand triggered widespread panic across Wall Street.",
+      "brief": "The Nasdaq index is bracing for a historic $2 trillion monthly valuation wipeout in October, fueled by escalating investor anxieties over ballooning artificial intelligence capital expenditures.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
-      "dateLocation": "October 30, 2026 | New York"
+      "dateLocation": "October 31, 2026 | New York / Reuters"
     },
     {
-      "headline": "India Announces Schedule for Second Phase of Census 2027",
-      "brief": "The Ministry of Home Affairs notified the schedule for Census 2027, with self-enumeration slated to begin on January 10. The door-to-door population enumeration phase will run from January 25 to February 28, featuring an expanded questionnaire and a record 50-day timeline.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/census-2027-self-enumeration-to-begin-on-january-10-door-to-door-population-count-from-january-25-11793382891547.html",
-      "dateLocation": "October 30, 2026 | New Delhi"
+      "headline": "ISRO Successfully Launches NVS-03 Satellite for NavIC",
+      "brief": "ISRO successfully placed the advanced NVS-03 navigation satellite into orbit, restoring India's NavIC constellation to operational capacity and providing enhanced military strategic independence with domestic atomic clocks.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/isro-successfully-launches-nvs-03-satellite-to-boost-navic-navigation-system-pm-modi-congratulates-things-to-know-11793411611587.html",
+      "dateLocation": "October 31, 2026 | Bengaluru / Livemint"
     },
     {
-      "headline": "US Investigates Potential North Korean Link in Binance Heist",
-      "brief": "President Donald Trump stated that US authorities are actively investigating whether North Korean state-backed hackers orchestrated a massive $6.3 billion security breach targeting cryptocurrency exchange Binance, sending shockwaves through global digital asset markets.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-says-us-looking-at-whether-binance-hack-was-by-north-korea-11793395367546.html",
-      "dateLocation": "October 30, 2026 | Washington"
+      "headline": "Cursor Reports 5,000 Users Affected by Tampered Extension",
+      "brief": "AI coding platform Cursor confirmed that up to 5,000 users were impacted after a malicious third party distributed a tampered version of the Claude Code browser extension.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSE5Sd2ZzblVoTHk3cWowdjBHOUlGQ25obHhuSkoyell3S2JWTUxqeXFFRnBMbTVaOENobjFKVFJXT0VhQi1VSzVBX0dSM3N5SGJ4N2VWSjhnX3NCQlJsSmdTX1RmSlpEeHN0NFFXVll0MzZRV1lfbUpkcDZ1dk9xQXpSWHBVUVJiMDJCYXgtMmlxMnQ1a2dxcmxBZlFBcTY0SUZMYXZyeHNZX3o1ejRUbkxmN3JqRlYtSnNCRnFiZkswLWx4S2c?oc=5",
+      "dateLocation": "October 31, 2026 | San Francisco / Reuters"
+    },
+    {
+      "headline": "Tata Motors Acquires Iveco and Appoints Chandrasekaran Chairperson",
+      "brief": "Tata Motors has officially integrated Iveco into its corporate group under a $4.32 billion transaction, naming N. Chandrasekaran as the chairperson to spearhead global commercial vehicle expansion.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/tata-motors-says-iveco-is-now-part-of-group-chandrasekaran-appointed-chairperson/article71648097.ece",
+      "dateLocation": "October 31, 2026 | Mumbai / The Hindu"
     },
     {
       "headline": "India Orders Sun Pharma to Halt Eye-Care Drug Production",
-      "brief": "Indian regulators have ordered Sun Pharmaceutical Industries to halt the production of eye-care drugs at a key manufacturing facility following major quality control lapses discovered during inspections, dealing a blow to the pharmaceutical giant's compliance record.",
-      "category": "health",
+      "brief": "Indian regulatory authorities have directed Sun Pharma to immediately halt manufacturing operations at a major eye-care pharmaceutical facility following critical quality control lapses discovered during inspections.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUtZcEpHSm0xRzNpcmNyYTA5TjE0cnhlUWE0RGJkdU5vSjA4Y29tUGxyTmR1Z0pVT1Q1N0FLYlF6Ui12ZVppUXlrUmY5YmhNdlp3OGpFQ19QM1VQVEJuZ2hYSkFvUzZsQk1aM0pMamlQaDJRTHlCRjdKcXUybG1kVkQxOUVINEt4Mks0N3JVZC1VUHVRV3dRSEJIekZUN1htUVlMRVRDNzVLQ2tmYkRnMC1tNHhxT3JzVFZFdDYzVQ?oc=5",
-      "dateLocation": "October 30, 2026 | Mumbai"
+      "dateLocation": "October 31, 2026 | New Delhi / Reuters"
     },
     {
-      "headline": "Supreme Court Rules Consensual Relationship Regret Isn't Rape",
-      "brief": "The Supreme Court ruled that a failed or soured relationship cannot automatically convert consensual physical intimacy into rape. The bench carefully distinguished between consent obtained via deception and simple regret after a consensual affair ends.",
+      "headline": "US, South Korea, and Japan Vow Complete Denuclearisation",
+      "brief": "Top diplomats from the US, South Korea, and Japan have reaffirmed their unified commitment to the complete denuclearisation of North Korea amidst growing regional security provocations.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece",
-      "dateLocation": "October 30, 2026 | New Delhi"
+      "sourceUrl": "https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece",
+      "dateLocation": "October 31, 2026 | Seoul / The Hindu"
     },
     {
-      "headline": "China Deploys Stealth Attack Drone on Amphibious Ship",
-      "brief": "Beijing announced that its advanced stealth attack drone successfully completed its maiden takeoff and landing sequence aboard an amphibious assault ship, marking a significant milestone in naval aviation and power projection capabilities.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2VWQy1ja0pYZnMwNjRsalVpOWNRdW1haW42N19VLU1PMlpMUVpkWHlKY3laUjRqQkdqRHJ5RW9reGxKQ0sxSkJGcDdPanZLWk5RM1A1ZEpka2pfR0xMazlUYmU0cFVQdEVZU2JydDNuSmVXOE1veDVkdWdjLUluUkxra2hIUzNyS0kxemU4Sk43SWc2elVhTERXSEpFM1BqTVh3dm13RFdIZVNvSFM1RE9PU2dJRDlMeVdKckg3WEw?oc=5",
-      "dateLocation": "October 30, 2026 | Beijing"
-    },
-    {
-      "headline": "Poland Political Crisis Deepens as Top Court Chief Suspended",
-      "brief": "A major institutional clash erupted in Poland between the Prime Minister and the President after the chief of the top court was suspended. The judiciary branded the move an unconstitutional coup d'état as political instability grips Warsaw.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/pm-president-face-off-in-poland-top-court-chief-suspended-court-cries-coup-detat-as-nawrocki-returns/articleshow/135377285.cms",
-      "dateLocation": "October 30, 2026 | Warsaw"
-    },
-    {
-      "headline": "Glacial Lake Outburst Flood Wreaks Havoc in Bhutan",
-      "brief": "A sudden Glacial Lake Outburst Flood swept through parts of Bhutan, severely damaging critical road infrastructure and washing away a major bridge. Neighboring Assam districts have been placed on high alert as floodwaters progress downstream.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/glof-damages-roads-washes-away-bridge-in-bhutan/article71646476.ece",
-      "dateLocation": "October 30, 2026 | Thimphu"
-    },
-    {
-      "headline": "India's Diesel Exports Hit 13-Month High Amid Iran Conflict",
-      "brief": "India's diesel exports surged 19.6% month-on-month to hit a 13-month high in October. Domestic refiners capitalized heavily on global supply chain disruptions and elevated margins resulting from the ongoing Iran war and European energy crunches.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/world/indias-diesel-exports-hit-13-month-high-amid-iran-war-how-refiners-are-cashing-in-on-supply-disruptions-11793378163749.html",
-      "dateLocation": "October 30, 2026 | New Delhi"
-    },
-    {
-      "headline": "Cursor Reports Tampered Claude Code Extension Affects Users",
-      "brief": "AI code editor Cursor disclosed that up to 5,000 users were impacted by a compromised and tampered extension involving Claude Code. Developers have been urged to update their systems immediately as security audits continue.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSE5Sd2ZzblVoTHk3cWowdjBHOUlGQ25obHhuSkoyell3S2JWTUxqeXFFRnBMbTVaOENobjFKVFJXT0VhQi1VSzVBX0dSM3N5SGJ4N2VWSjhnX3NCQlJsSmdTX1RmSlpEeHN0NFFXVll0MzZRV1lfbUpkcDZ1dk9xQXpSWHBVUVJiMDJCYXgtMmlxMnQ1a2dxcmxBZlFBcTY0SUZMYXZyeHNZX3o1ejRUbkxmN3JqRlYtSnNCRnFiZkswLWx4S2c?oc=5",
-      "dateLocation": "October 30, 2026 | San Francisco"
-    },
-    {
-      "headline": "DOJ Seeks Grand Jury Indictment Against James Comey",
-      "brief": "Federal prosecutors announced that the US Department of Justice is actively pursuing a grand jury indictment against former FBI Director James Comey, alleging he directed the unauthorized sharing of sensitive national defense secrets.",
+      "headline": "INDIA Bloc Organizes Public Impeachment Protest Against CEC",
+      "brief": "Opposition parties under the INDIA bloc banner have gathered in New Delhi to stage a public demonstration and protest against Chief Election Commissioner Gyanesh Kumar.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/doj-seeks-grand-jury-indictment-of-comey-in-defense-secrets-case-11793385417059.html",
-      "dateLocation": "October 30, 2026 | Washington"
+      "sourceUrl": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+      "dateLocation": "October 31, 2026 | New Delhi / The Hindu"
     },
     {
-      "headline": "India Imposes Stricter Background Verification Rules for Jobs",
-      "brief": "The Uttar Pradesh government overhauled character verification regulations for state government jobs following recent Gen-Z protests. Candidates linked to violent organizations or specific criminal charges will now face strict legal bars from employment.",
+      "headline": "New Zealand Defeats India by 87 Runs in Fourth T20I",
+      "brief": "New Zealand posted a commanding target of 259 runs and defeated India by 87 runs in the fourth T20I encounter, reducing India's series lead to 3-1 as bowlers endured a tough night.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nitish-reddy-joins-unwanted-list-after-horror-outing-against-new-zealand/articleshow/135383020.cms",
+      "dateLocation": "October 31, 2026 | Auckland / Times of India"
+    },
+    {
+      "headline": "IMD Issues Heavy Rain Warning Due to New Depression",
+      "brief": "The India Meteorological Department has issued heavy rainfall alerts for coastal regions in Andhra Pradesh and Kerala as a low-pressure weather system intensifies over the Bay of Bengal.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/yogi-adityanaths-up-govt-tightens-job-rules-after-genz-protests-who-can-be-barred-from-government-jobs-11793378470792.html",
-      "dateLocation": "October 30, 2026 | Lucknow"
+      "sourceUrl": "https://www.livemint.com/news/india/weather-today-new-depression-to-bring-heavy-rain-to-andhra-kerala-no-showers-for-delhi-check-full-imd-forecast-11793408255525.html",
+      "dateLocation": "October 31, 2026 | New Delhi / Livemint"
     },
     {
-      "headline": "Competition Commission Clears Xavier Niel's Vodafone Stake Buy",
-      "brief": "India's Competition Commission has granted formal approval for French billionaire Xavier Niel to acquire a 16.2% stake in Vodafone, opening doors for expanded foreign investment and strategic repositioning within the Indian telecommunications market.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/telecom/french-billionaire-xavier-niel-gets-cci-approval-to-acquire-16-2-stake-in-vodafone/articleshow/135371297.cms",
-      "dateLocation": "October 30, 2026 | New Delhi"
+      "headline": "Six Killed in Himalayan State Helicopter Crash",
+      "brief": "A tragic helicopter crash in an Indian Himalayan state resulted in the deaths of six individuals, prompting immediate rescue operations and an aviation safety investigation.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNE1sY29zOFhReEg5Nk5QZVJpT2U5ZkhPTTdtUmhQV0I4aUh4NW5HMzU1bjF0U0hYc050ampWWDVMcHk3VnhLSExsMXExdTVVU0t4dEZ0MllwbTBsb2RkVWpNRVZ1eUlkX25FX1RKRGJIRlB2dFJ0RGJleC10WlFvY21jMDU5ZWxYel9fMGcwYXBQaTZlZk93TWRrdDlWZGpmYncyT3dRS1ZvYTFzeFVBa2hCNVZCdVk?oc=5",
+      "dateLocation": "October 31, 2026 | Uttarakhand / Reuters"
     }
   ]
 }
