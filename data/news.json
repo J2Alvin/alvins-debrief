@@ -1,82 +1,124 @@
 {
-  "lastUpdated": "2026-10-31T20:56:58.338Z",
+  "lastUpdated": "2026-11-01T04:14:12.341Z",
   "ticker": [
-    "Nasdaq faces massive October rout amid AI spending concerns",
-    "Canada and EU form new strategic alliance to counter US",
-    "Binance recovers 90 percent of funds from major cyber hack",
-    "Bangladesh dengue death toll continues rising into winter months",
-    "Quad nations announce 85 million dollar initiative for AI access"
+    "FBI Links North Korea to $6B Binance Hack",
+    "OPEC+ Agrees to Keep Oil Targets Steady",
+    "INDIA Bloc Protests Against CEC in Delhi",
+    "Canada and EU Launch Strategic 'Alliance for the Future'",
+    "US Judge Dismisses Trump’s $10B WSJ Lawsuit"
   ],
   "articles": [
     {
-      "headline": "Nasdaq faces record wipeout as AI spending fears deepen",
-      "brief": "Global markets experience heavy tech volatility as investors grow increasingly concerned over massive capital expenditure in artificial intelligence without immediate proportional returns, driving steep index pullbacks.",
+      "headline": "FBI Links North Korea to $6 Billion Binance Hack",
+      "brief": "The FBI has officially linked North Korea to the massive theft of $6 billion from cryptocurrency exchange Binance. Binance reported that it has successfully covered nearly all of the stolen funds from the security breach.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
-      "dateLocation": "October 31, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
+      "dateLocation": "2026-11-01 | Reuters"
     },
     {
-      "headline": "Canada and EU forge strategic pact to reduce US reliance",
-      "brief": "Canada and the European Union have officially launched the Alliance for the Future, aiming to boost cooperation in defense, critical minerals, and trade to enhance strategic autonomy amid shifting Washington policies.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/why-canada-eu-are-forging-strategic-ties-to-reduce-us-dependence-amid-trump-threats-what-is-alliance-for-the-future-11793462723354.html",
-      "dateLocation": "October 31, 2026 | Livemint"
+      "headline": "OPEC+ Agrees to Keep Oil Output Targets Steady",
+      "brief": "OPEC+ sources indicate an agreement in principle to keep oil output targets steady for December, maintaining current production levels amidst shifting global economic conditions and fluctuating energy demands.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5",
+      "dateLocation": "2026-11-01 | Reuters"
     },
     {
-      "headline": "Meta partners with Fourier to build advanced humanoid robots",
-      "brief": "Technology giant Meta is reportedly collaborating with Chinese startup Fourier to develop advanced humanoid robotics, signaling a major push into physical automation and hardware integration.",
+      "headline": "Meta Builds Humanoid Robot with Chinese Startup",
+      "brief": "Meta is reportedly collaborating with Chinese startup Fourier to build an advanced humanoid robot, according to reports from The Information, signaling major tech industry investments in robotics.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5",
-      "dateLocation": "October 31, 2026 | Reuters"
+      "dateLocation": "2026-11-01 | Reuters"
     },
     {
-      "headline": "Binance recovers 90% of funds following massive cyber breach",
-      "brief": "Cryptocurrency exchange Binance announced it has successfully recovered or covered 90 percent of the massive losses stemming from a historical 6.3 billion dollar security breach.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
-      "dateLocation": "October 31, 2026 | Reuters"
+      "headline": "Canada and EU Forge 'Alliance for the Future'",
+      "brief": "Canada and the European Union have launched the 'Alliance for the Future' partnership to deepen cooperation in defence, critical minerals, and technology, aiming to reduce dependence on Washington amidst shifting geopolitical tensions.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/why-canada-eu-s-are-forging-strategic-ties-to-reduce-us-dependence-amid-trump-threats-what-is-alliance-for-the-future-11793462723354.html",
+      "dateLocation": "2026-11-01 | Livemint"
     },
     {
-      "headline": "Bangladesh dengue death toll climbs as crisis persists",
-      "brief": "Health officials in Bangladesh report a continued surge in fatal dengue cases nationwide, with medical experts warning that the epidemic is unlikely to ease significantly before December.",
+      "headline": "INDIA Bloc Stages Mega Protest Rally in Delhi",
+      "brief": "Thousands of supporters and opposition leaders gathered at Delhi's Ramlila Maidan for the INDIA bloc's 'Vote Bachao, Desh Bachao' rally, demanding the resignation of Chief Election Commissioner Gyanesh Kumar over alleged voter list irregularities.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-row-live-updates-november-1-2026/article71651970.ece",
+      "dateLocation": "2026-11-01 | The Hindu"
+    },
+    {
+      "headline": "Ghana Announces Russia to Back 2,000 MW Nuclear Plant",
+      "brief": "Ghana has announced that Russia will support the development of a 2,000 MW nuclear power plant, marking a significant step in deepening bilateral energy ties between the two nations.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEU1TzJ6c1lISFlURGdCYlJscFltNmo3ay1SblgxNEtKU1lwcEhEcHZpMjg3TWE0VkVrdEtwSFF0dzhxRExVdUQtZTlkU2pENWpTRkdER3FHWEk1RzNRdFA2QlFVcmdzWWNSZ044MjNBejRPeFFNX3dwRUItTXRndW1UaXJxdHJkcThxUUtsVFo2d19MdFZVbVJFM245bW9iSEZwZENCQWk?oc=5",
+      "dateLocation": "2026-11-01 | Reuters"
+    },
+    {
+      "headline": "US Judge Dismisses Trump's $10 Billion WSJ Lawsuit",
+      "brief": "A federal judge has dismissed Donald Trump's $10 billion lawsuit against The Wall Street Journal regarding its publication of a controversial report on an alleged letter to Jeffrey Epstein.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/another-setback-for-trump-judge-dismisses-us-presidents-10-billion-lawsuit-against-wsj-all-you-need-to-know-11793504307002.html",
+      "dateLocation": "2026-11-01 | Livemint"
+    },
+    {
+      "headline": "Delhi Enters Strict Winter Pollution Control Mode",
+      "brief": "The Delhi government has implemented severe pollution control measures lasting through January, introducing vehicle entry limits, mandatory work-from-home guidelines for offices, and strict controls on outdoor construction.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/vehicle-curbs-wfh-and-ai-surveillance-delhi-steps-up-winter-pollution-fight/articleshow/135409703.cms",
+      "dateLocation": "2026-11-01 | Times of India"
+    },
+    {
+      "headline": "Bangladesh Dengue Death Toll Rises Amid High Spread",
+      "brief": "Bangladesh continues to grapple with a rising dengue death toll, with public health officials warning that the outbreak is severe and unlikely to ease significantly before December.",
       "category": "health",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5",
-      "dateLocation": "October 31, 2026 | Reuters"
+      "dateLocation": "2026-11-01 | Reuters"
     },
     {
-      "headline": "Quad nations commit funding to expand regional AI access",
-      "brief": "Leaders of the Quad alliance have announced an 85 million dollar financial package aimed at expanding artificial intelligence access across partner nations while flagging regional economic coercion concerns.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/quad-flags-economic-coercion-announces-85-million-to-expand-ai-access/articleshow/135410437.cms",
-      "dateLocation": "October 31, 2026 | Times of India"
-    },
-    {
-      "headline": "Ukrainian drone maker claims missions succeed without SpaceX",
-      "brief": "Ukrainian defense manufacturer Fire Point has publicly stated that its domestically produced military systems can successfully complete tactical missions without reliance on SpaceX satellite infrastructure.",
+      "headline": "US Senators Question Google Over Classroom AI Push",
+      "brief": "Two US senators have written a formal letter to Google CEO Sundar Pichai, outlining nine pressing questions concerning the integration of AI tools in schools and their potential impacts on children's mental health.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXRwTDRUaUQ3RG4yekIyZm1pRFFRVVBLcGZlMHdSVkFuR1Z5TURmcEdBZXJjUEZ0WVNaVEV6WW9zdmN6Qzl4bnVtQXJ3eEVZYkpPSHd1cUtRSVFqd25fMlRiTFNIUjl6Ynh4N0pDNjNlb0paTHEyWHZJOE9hM3J5R281dUxaWi1RcVk0NXBwcEpnRGlDQ1lscGtobGVhMkd3R25yMk5nWkloUm9CUEItaklUQmdla2ZWOUFlaXdrc0haenotVko4Q1NpWmVzVHBlamR6YXNtTTI?oc=5",
-      "dateLocation": "October 31, 2026 | Reuters"
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/two-us-senators-write-letter-to-google-ceo-sundar-pichai-asking-9-questions-as-company-pushes-for-ai-in-classrooms/articleshow/135415769.cms",
+      "dateLocation": "2026-11-01 | Times of India"
     },
     {
-      "headline": "Delhi introduces strict winter pollution curbs from November",
-      "brief": "The Delhi government has announced a comprehensive winter action plan, implementing fifty percent work-from-home mandates, higher parking levies, and stringent vehicle restrictions to combat severe seasonal air pollution.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/delhi-pollution-restrictions-from-november-1-50-wfh-parking-charges-to-double-vehicle-curbs-and-more-check-full-list-under-winter-action-plan/articleshow/135404298.cms",
-      "dateLocation": "October 31, 2026 | Economic Times"
-    },
-    {
-      "headline": "Indian-American voters shift preferences ahead of US midterms",
-      "brief": "Recent survey data reveals shifting political alignments among Indian-American voters ahead of upcoming US midterm elections, driven by growing economic anxieties, immigration policy concerns, and foreign relations.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/indianamericans-turning-away-from-donald-trump-what-surveys-reveal-ahead-of-us-midterms-11793470435538.html",
-      "dateLocation": "October 31, 2026 | Livemint"
-    },
-    {
-      "headline": "North Korea utilizes sophisticated cyber operations for funds",
-      "brief": "State-sponsored North Korean hackers continue to leverage advanced social engineering and cryptocurrency exploits to secure vital financial resources, bypassing international economic sanctions to support state priorities.",
+      "headline": "Commercial LPG Prices Hiked Across Major Indian Cities",
+      "brief": "Commercial LPG cylinder prices have been hiked by approximately ₹10 per cylinder, with prices in the national capital reaching ₹2,820 as per recent oil marketing company adjustments.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-uns-cyber-army-how-north-koreas-hackers-steal-billions-for-regime/articleshow/135403098.cms",
-      "dateLocation": "October 31, 2026 | Times of India"
+      "sourceUrl": "https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece",
+      "dateLocation": "2026-11-01 | The Hindu"
+    },
+    {
+      "headline": "India Prepares Final T20I Match Against New Zealand",
+      "brief": "The Indian cricket team prepares for the final T20I against New Zealand holding an unassailable 3-1 lead, with squad selections focused on giving key players opportunities before the upcoming ODI series preparations.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/ind-vs-nz-5th-will-sooryavanshi-kuldeep-feature-in-the-final-t20i/article71650926.ece",
+      "dateLocation": "2026-11-01 | The Hindu"
+    },
+    {
+      "headline": "Six Indian Tourists Reported Missing While Trekking in Nepal",
+      "brief": "Authorities have launched a search operation after six Indian tourists went missing during a trekking expedition towards Nepal's remote and deep Shey-Phoksundo Lake.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/six-indian-tourists-go-missing-during-trek-to-nepals-shey-phoksundo-lake/articleshow/135416519.cms",
+      "dateLocation": "2026-11-01 | Times of India"
+    },
+    {
+      "headline": "Virat Kohli and Rohit Sharma Step Up ODI Practice",
+      "brief": "Senior Indian batsmen Virat Kohli and Rohit Sharma intensified their training at Eden Park in Auckland, ramping up preparations ahead of the upcoming international fixtures.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-rohit-sharmas-day-out-in-auckland-booming-drives-plenty-of-edges-and-high-intensity/articleshow/135416274.cms",
+      "dateLocation": "2026-11-01 | Times of India"
+    },
+    {
+      "headline": "EPFO Launches Nationwide Campaign for Digital Life Certificates",
+      "brief": "The Employees' Provident Fund Organisation has kicked off a month-long nationwide campaign allowing pensioners to conveniently submit digital life certificates from home using smartphone facial authentication.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/epfo-news-pensioners-can-submit-digital-life-certificates-from-home-during-november-campaign-details-here-11793469888328.html",
+      "dateLocation": "2026-11-01 | Livemint"
+    },
+    {
+      "headline": "Global COVID-19 Criticism Hardened China's World View",
+      "brief": "India's Foreign Secretary Vikram Misri stated that intense global criticism during the COVID-19 pandemic significantly hardened China's foreign policy stance and attitude toward the international community.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/global-criticism-during-covid-19-hardened-chinas-attitude-towards-world-foreign-secretary-misri/article71652042.ece",
+      "dateLocation": "2026-11-01 | The Hindu"
     }
   ]
 }
