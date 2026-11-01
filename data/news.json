@@ -1,96 +1,82 @@
 {
-  "lastUpdated": "2026-11-01T12:38:50.115Z",
+  "lastUpdated": "2026-11-02T00:00:00.000Z",
   "ticker": [
-    "INDIA bloc stages massive rally against Chief Election Commissioner",
-    "Fresh ethnic violence leaves five dead in Manipur",
-    "Binance resumes withdrawals after covering $6.3B stolen funds",
-    "OPEC+ expected to keep oil output targets steady",
-    "Cyclone Murasu forms over Bay of Bengal, heavy rain alerts issued"
+    "OPEC+ holds December oil output steady",
+    "Binance resumes withdrawals after multi-billion hack",
+    "Cyclone Murasu triggers alerts across southern India",
+    "Thousands join Indian opposition anti-CEC protest",
+    "Trump holds direct call with Netanyahu over Iran war"
   ],
   "articles": [
     {
-      "headline": "Thousands join Indian opposition protest demanding poll chief's resignation",
-      "brief": "Thousands of opposition supporters joined the 'Chalo Dilli' protest in New Delhi, demanding the resignation of Chief Election Commissioner Gyanesh Kumar over alleged electoral malpractice. Top opposition leaders, including Rahul Gandhi and Mallikarjun Kharge, launched scathing attacks against Prime Minister Narendra Modi and Home Minister Amit Shah, accusing them of undermining democratic institutions.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakVrd3NyN2t0ZzZVTURGaTFwXzREVHc3eEUzd214OHdGOFcwQTdwYnMwSUN3dVhXV0RlTGtqNjJWV2xtSnVfbmJHUDBwX1c1R0VJaGx5V3IxTDdpUGttcHNrOGQxUWtMTk53WmhnempCczJLOUU3V0xfSjlJS0VicGQ3UEtxenEzaHhwNlYxeENNRmEtZUl4M0g1MjlkelRUdjZNdVc5SjBxQkoxVnhTNGFjd0oydWs?oc=5",
-      "dateLocation": "November 1, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Five killed in fresh ethnic violence in Manipur",
-      "brief": "Fresh ethnic clashes in India's northeastern state of Manipur have resulted in the deaths of at least five people. Security forces have been deployed in high numbers to control the escalating tensions and restore order in the volatile region.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObENRYjE1VmhhRnFuXzRTQjFkX2NZWlZySGVjV3diT0lld3ZBb0pEQ2ZjSmtEdjN1UTNWVzVSLVI3QllBYXdYYXdjeTVjckMxOURFUUFvWE5sdWdDUlBucFRJZy1HUk9hbnJDR29ZNE04LV9zRlVtN2xjYmNRSmkxemtwZF9MdjVpQlY0eXkzQUpHODQ1Q3g5amdXM0tWbHZaSWVTYlFYREpFaHNVaEE?oc=5",
-      "dateLocation": "November 1, 2026 | Manipur, India"
-    },
-    {
-      "headline": "India's October coal-fired power output jumps amid hydro slump",
-      "brief": "India's coal-fired power generation saw its largest jump in three years during October. The surge was driven by a significant slump in hydro generation, forcing power authorities to rely heavily on coal reserves to meet domestic energy demands.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0s3MDQ2QklmZmpMU05CQ2hDRmFhMUoyMnBsdUo0dVhzQm5KZWpUNktScUxlY3BTYmNsazJtUU5pU08wZHhveTlJR1VFcjlrNWVPNTV4QTR3aktmM0Y1WUZGSnZVUVQ1WUQyV1ZRRXpnVkR6VVI1VUd3Z2g3ZFBUTUV3aGVvUnZfZVIwNE1UdFpzTVVuWjNRNXhIZi1QcExzaFBSSTZQSUp2eGllcnpoc0F5N242empXRDR3Y2lIOA?oc=5",
-      "dateLocation": "November 1, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "OPEC+ set to keep oil output targets steady",
-      "brief": "Sources indicate that OPEC+ is unlikely to alter its current oil production targets during the upcoming ministerial meeting, opting to maintain steady output levels as global market conditions remain balanced.",
+      "headline": "OPEC+ keeps December oil output targets steady",
+      "brief": "OPEC+ decided to keep its December oil production targets unchanged as ongoing conflicts in the Middle East continue to disrupt Gulf exports. With several members pumping below their assigned quotas, the alliance faces mounting uncertainty regarding 2027 production levels amidst concerns over supply recovery through the Strait of Hormuz.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
-      "dateLocation": "November 1, 2026 | Vienna, Austria"
+      "dateLocation": "2026-11-02 | Reuters"
     },
     {
-      "headline": "Xiaomi's October EV deliveries top 50,000 units",
-      "brief": "Chinese tech giant Xiaomi announced that its electric vehicle deliveries exceeded 50,000 units in October, marking a record monthly high for the company's automotive division as production capacity scales up rapidly.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJQV25faktaWGFiUks0eTdlWmFhbkcwR0RWcXdFbk95UXJ6VjBmSUV1NjRaTk1oYXk0NEtKaGF1NTJBOWNFUm1sY2tiUVhjekJVU25tRWduZVpGVFNHMGFyOTN1FjRmS1lFcnNSRExoT216QUNtaFZjOTluU1g0d19EejFmR2pRWDJuSXc4WWQ3WHJ2UngzYmZRV3d0a2dmeHFycVhhZGdvN1dUbmc?oc=5",
-      "dateLocation": "November 1, 2026 | Beijing, China"
-    },
-    {
-      "headline": "Bangladesh forms wage board following violent garment protests",
-      "brief": "The Bangladesh government has established a new wage board to address workers' demands following days of violent protests in the vital garment manufacturing sector. Authorities hope the move will restore stability and protect export supply chains.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5",
-      "dateLocation": "November 1, 2026 | Dhaka, Bangladesh"
-    },
-    {
-      "headline": "Binance resumes withdrawals after covering $6.3B in stolen funds",
-      "brief": "Cryptocurrency exchange Binance has fully resumed user withdrawals for bitcoin and ether after successfully recovering and covering the bulk of $6.3 billion lost in a recent sophisticated security breach.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
-      "dateLocation": "November 1, 2026 | Global / Grand Cayman"
-    },
-    {
-      "headline": "Ghana partners with Russia to build 2,000 MW nuclear plant",
-      "brief": "The government of Ghana has announced a major energy agreement with Russia to construct a 2,000-megawatt nuclear power plant, aiming to deepen bilateral ties and secure long-term baseload electricity for industrial growth.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEU1TzJ6c1lISFlURGdCYlJscFltNmo3ay1SblgxNEtKU1lwcEhEcHZpMjg3TWE0VkVrdEtwSFF0dzhxRExVdUQtZTlkU2pENWpTRkdER3FHWEk1RzNRdFA2QlFVcmdzWWNSZ044MjNBejRPeFFNX3dwRUItTXRndW1UaXJxdHJkcThxUUtsVFo2d19MdFZVbVJFM245bW9iSEZwZENCQWk?oc=5",
-      "dateLocation": "November 1, 2026 | Accra, Ghana"
-    },
-    {
-      "headline": "India's gross GST collections jump 22.9% in October",
-      "brief": "India's gross Goods and Services Tax (GST) collections registered a strong 22.9% year-on-year increase in October, reaching Rs 2.31 lakh crore, driven by robust festive season consumer demand and improved tax compliance.",
+      "headline": "Binance resumes withdrawals after major security breach",
+      "brief": "Crypto exchange Binance is resuming withdrawals after recovering the majority of funds stolen in a massive $6 billion cyber heist. The FBI attributed the security breach to North Korea's TraderTraitor hacking group, which converted stolen assets into Ethereum.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/indias-october-gross-gst-collections-jump-22-9-to-rs-2-31-lakh-crore/articleshow/135420137.cms",
-      "dateLocation": "November 1, 2026 | New Delhi, India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckdSaWg1UnpYNmhtY1BWZzdiV2EyLUVQb3dKWC1vRGtHNzdFUTVsMjh1dUthY3lKWHd1d1JXTnNtRFNDUzVHY1BkS2J6emlQV0oyVmxFeHJEY21lVkIyeS03OEFjT2hWUEIwc0NOMm1QODBNS2ZFcGdaZmgyLTBwZmN4S0tPdnVpbmZpR2hraTkxVXFLQVY2eUdjdWxWTlRRa29vTEh4N3NpZDgwSEVxRUNUNURrNmd2MVNIbVBnNWNfdw?oc=5",
+      "dateLocation": "2026-11-02 | Reuters"
     },
     {
-      "headline": "Cyclone Murasu triggers heavy rainfall alerts across South India",
-      "brief": "Cyclone Murasu has formed over the Bay of Bengal, prompting meteorological departments to issue orange alerts for several districts in Telangana, Andhra Pradesh, Tamil Nadu, and Odisha ahead of severe downpours.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/cyclone-murasu-telangana-issues-orange-alert-for-6-districts-amid-heavy-rainfall-warning-on-nov-2-11793531992957.html",
-      "dateLocation": "November 1, 2026 | Hyderabad, India"
+      "headline": "Cyclone Murasu triggers severe weather alerts in India",
+      "brief": "Cyclonic storm Murasu has prompted orange and yellow alerts across multiple districts in Telangana, Andhra Pradesh, and Tamil Nadu. Authorities have announced school and college closures as the storm moves northwestward, expected to intensify into a severe cyclonic system.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+      "dateLocation": "2026-11-02 | The Hindu"
     },
     {
-      "headline": "Gautam Gambhir issues bold message after T20 series win",
-      "brief": "Following India's T20 series triumph against New Zealand, head coach Gautam Gambhir delivered a bold motivational message to his players, emphasizing fearlessness and continuous improvement in all departments.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-arshdeep-singh-creates-history-in-5th-t20i-equals-tim-southees-powerplay-wickets-record/articleshow/135423327.cms",
-      "dateLocation": "November 1, 2026 | Auckland, New Zealand"
+      "headline": "Indian opposition holds massive protest demanding poll chief resign",
+      "brief": "Thousands of opposition supporters gathered in a major demonstration to demand the resignation of India's chief election commissioner. Prominent opposition figures addressed the crowd, escalating political tensions over electoral integrity.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakVrd3NyN2t0ZzZVTURGaTFwXzREVHc3eEUzd214OHdGOFcwQTdwYnMwSUN3dVhXV0RlTGtqNjJWV2xtSnVfbmJHUDBwX1c1R0VJaGx5V3IxTDdpUGttcHNrOGQxUWtMTk53WmhnempCczJLOUU3V0xfSjlJS0VicGQ3UEtxenEzaHhwNlYxeENNRmEtZUl4M0g1MjlkelRUdjZNdVc5SjBxQkoxVnhTNGFjd0oydWs?oc=5",
+      "dateLocation": "2026-11-02 | Reuters"
     },
     {
-      "headline": "Interstellar comet 3I/ATLAS may be 7 billion years old",
-      "brief": "Recent astronomical analysis of the interstellar comet 3I/ATLAS reveals unusual chemical markers suggesting it formed roughly 7 billion years ago, long before the birth of our own solar system.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/interstellar-comet-3i/atlas-carries-a-bizarre-chemical-clue-suggesting-it-was-formed-7-billion-years-ago-long-before-our-sun-and-solar-system-existed/articleshow/135425886.cms",
-      "dateLocation": "November 1, 2026 | Washington, USA"
+      "headline": "Trump holds direct call with Netanyahu over Iran war",
+      "brief": "US President Donald Trump held a tense telephone conversation with Israeli Prime Minister Benjamin Netanyahu regarding the ongoing military operations and strategic objectives in the Iran conflict, according to sources.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
+      "dateLocation": "2026-11-02 | The Hindu"
+    },
+    {
+      "headline": "China's BYD extends sales growth streak on strong exports",
+      "brief": "Electric vehicle manufacturer BYD extended its robust sales growth streak, driven heavily by increasing international demand and strong export performance across global markets.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21scll6NjBGOTVLUm15YmNsNE9saEN4SE1oLU4zV0VCWFA3dWlVV0tHM09hcUtKMmdsOGVHZGtSVzNvenVmRndlMml1eHVSUzBsR0JPNFI3SjVTdFRncURKX1RRdV95T2s3bzdKMmFtNUNNalVzaTNpdkpzYVZoVHVBYTItSWV1VXpmVTdZRmZyN3NZQnExcnlpYmlCTmNMQ3cxQVRwSE9oODJsLUF6Q0xfMk1JZy1VTWpF?oc=5",
+      "dateLocation": "2026-11-02 | Reuters"
+    },
+    {
+      "headline": "Xiaomi October EV deliveries surpass 50,000 units",
+      "brief": "Technology giant Xiaomi reported that its electric vehicle deliveries exceeded 50,000 units in October, marking a record monthly high for the company's automotive division.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJQV25faktaWGFiUks0eTdlWmFhbkcwR0RWcXdFbk95UXJ6VjBmSUV1NjRaTk1oYXk0NEtKaGF1NTJBOWNFUm1sY2tiUVhjekJVU25tRWduZVpGVFNHMGFyOTN1RjRmS1lFcnNSRExoT216QUNtaFZjOTluU1g0d19EejFmR2pRWDJuSXc4WWQ3WHJ2UngzYmZRV3d0a2dmeHFycVhhZGdvN1dUbmc?oc=5",
+      "dateLocation": "2026-11-02 | Reuters"
+    },
+    {
+      "headline": "Elon Musk weighs potential Tesla and SpaceX merger",
+      "brief": "Elon Musk is reportedly exploring a merger between Tesla and SpaceX to form an enormous technology and aerospace conglomerate. A combined entity could unlock synergies in artificial intelligence, robotics, and semiconductor manufacturing.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/world/why-elon-musk-is-weighing-a-tesla-spacex-merger-what-a-combined-entity-could-mean-for-his-business-empire-and-investors-11793540891578.html",
+      "dateLocation": "2026-11-02 | Livemint"
+    },
+    {
+      "headline": "Fresh ethnic violence in India's Manipur claims five lives",
+      "brief": "At least five people were killed in a fresh outbreak of ethnic violence in India's northeastern state of Manipur, prompting authorities to reinforce security measures in volatile districts.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObENRYjE1VmhhRnFuXzRTQjFkX2NZWlZySGVjV3diT0lld3ZBb0pEQ2ZjSmtEdjN1UTNWVzVSLVI3QllBYXdYYXdjeTVjckMxOURFUUFvWE5sdWdDUlBucFRJZy1HUk9hbnJDR29ZNE04LV9zRlVtN2xjYmNRSmkxemtwZF9MdjVpQlY0eXkzQUpHODQ1Q3g5amdXM0tWbHZaSWVTYlFYREpFaHNVaEE?oc=5",
+      "dateLocation": "2026-11-02 | Reuters"
+    },
+    {
+      "headline": "German engineering workers begin industrial wage strikes",
+      "brief": "Workers across Germany's key engineering and industrial sectors have initiated coordinated wage strikes to demand higher compensation amidst persistent inflation and rising living costs.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUxlWnZDNVAtUjJJU1dFSHZBM1E5Ul9nc3N3c295TzgtSnVKTGtTNk1fMXNZN29wV3lGdGthdkUtOHBnclpaSFJGdGdidTA5cFhwY3c0bGlycVNadFpUR2ZGNS12WGFDZ01lMThyMmxydzNmdXNXSDljelItc1JleWhfekhDNTZLN3VHSjdTQlFNd0ZTTDI1SXhKZkFFYTJWUENMeXpONUJtWVB6M18xNUdpSQ?oc=5",
+      "dateLocation": "2026-11-02 | Reuters"
     }
   ]
 }
