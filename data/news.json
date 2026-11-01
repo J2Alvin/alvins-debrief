@@ -1,124 +1,96 @@
 {
-  "lastUpdated": "2026-11-01T04:14:12.341Z",
+  "lastUpdated": "2026-11-01T12:38:50.115Z",
   "ticker": [
-    "FBI Links North Korea to $6B Binance Hack",
-    "OPEC+ Agrees to Keep Oil Targets Steady",
-    "INDIA Bloc Protests Against CEC in Delhi",
-    "Canada and EU Launch Strategic 'Alliance for the Future'",
-    "US Judge Dismisses Trump’s $10B WSJ Lawsuit"
+    "INDIA bloc stages massive rally against Chief Election Commissioner",
+    "Fresh ethnic violence leaves five dead in Manipur",
+    "Binance resumes withdrawals after covering $6.3B stolen funds",
+    "OPEC+ expected to keep oil output targets steady",
+    "Cyclone Murasu forms over Bay of Bengal, heavy rain alerts issued"
   ],
   "articles": [
     {
-      "headline": "FBI Links North Korea to $6 Billion Binance Hack",
-      "brief": "The FBI has officially linked North Korea to the massive theft of $6 billion from cryptocurrency exchange Binance. Binance reported that it has successfully covered nearly all of the stolen funds from the security breach.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
-      "dateLocation": "2026-11-01 | Reuters"
-    },
-    {
-      "headline": "OPEC+ Agrees to Keep Oil Output Targets Steady",
-      "brief": "OPEC+ sources indicate an agreement in principle to keep oil output targets steady for December, maintaining current production levels amidst shifting global economic conditions and fluctuating energy demands.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5",
-      "dateLocation": "2026-11-01 | Reuters"
-    },
-    {
-      "headline": "Meta Builds Humanoid Robot with Chinese Startup",
-      "brief": "Meta is reportedly collaborating with Chinese startup Fourier to build an advanced humanoid robot, according to reports from The Information, signaling major tech industry investments in robotics.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5",
-      "dateLocation": "2026-11-01 | Reuters"
-    },
-    {
-      "headline": "Canada and EU Forge 'Alliance for the Future'",
-      "brief": "Canada and the European Union have launched the 'Alliance for the Future' partnership to deepen cooperation in defence, critical minerals, and technology, aiming to reduce dependence on Washington amidst shifting geopolitical tensions.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/why-canada-eu-s-are-forging-strategic-ties-to-reduce-us-dependence-amid-trump-threats-what-is-alliance-for-the-future-11793462723354.html",
-      "dateLocation": "2026-11-01 | Livemint"
-    },
-    {
-      "headline": "INDIA Bloc Stages Mega Protest Rally in Delhi",
-      "brief": "Thousands of supporters and opposition leaders gathered at Delhi's Ramlila Maidan for the INDIA bloc's 'Vote Bachao, Desh Bachao' rally, demanding the resignation of Chief Election Commissioner Gyanesh Kumar over alleged voter list irregularities.",
+      "headline": "Thousands join Indian opposition protest demanding poll chief's resignation",
+      "brief": "Thousands of opposition supporters joined the 'Chalo Dilli' protest in New Delhi, demanding the resignation of Chief Election Commissioner Gyanesh Kumar over alleged electoral malpractice. Top opposition leaders, including Rahul Gandhi and Mallikarjun Kharge, launched scathing attacks against Prime Minister Narendra Modi and Home Minister Amit Shah, accusing them of undermining democratic institutions.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-row-live-updates-november-1-2026/article71651970.ece",
-      "dateLocation": "2026-11-01 | The Hindu"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakVrd3NyN2t0ZzZVTURGaTFwXzREVHc3eEUzd214OHdGOFcwQTdwYnMwSUN3dVhXV0RlTGtqNjJWV2xtSnVfbmJHUDBwX1c1R0VJaGx5V3IxTDdpUGttcHNrOGQxUWtMTk53WmhnempCczJLOUU3V0xfSjlJS0VicGQ3UEtxenEzaHhwNlYxeENNRmEtZUl4M0g1MjlkelRUdjZNdVc5SjBxQkoxVnhTNGFjd0oydWs?oc=5",
+      "dateLocation": "November 1, 2026 | New Delhi, India"
     },
     {
-      "headline": "Ghana Announces Russia to Back 2,000 MW Nuclear Plant",
-      "brief": "Ghana has announced that Russia will support the development of a 2,000 MW nuclear power plant, marking a significant step in deepening bilateral energy ties between the two nations.",
+      "headline": "Five killed in fresh ethnic violence in Manipur",
+      "brief": "Fresh ethnic clashes in India's northeastern state of Manipur have resulted in the deaths of at least five people. Security forces have been deployed in high numbers to control the escalating tensions and restore order in the volatile region.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObENRYjE1VmhhRnFuXzRTQjFkX2NZWlZySGVjV3diT0lld3ZBb0pEQ2ZjSmtEdjN1UTNWVzVSLVI3QllBYXdYYXdjeTVjckMxOURFUUFvWE5sdWdDUlBucFRJZy1HUk9hbnJDR29ZNE04LV9zRlVtN2xjYmNRSmkxemtwZF9MdjVpQlY0eXkzQUpHODQ1Q3g5amdXM0tWbHZaSWVTYlFYREpFaHNVaEE?oc=5",
+      "dateLocation": "November 1, 2026 | Manipur, India"
+    },
+    {
+      "headline": "India's October coal-fired power output jumps amid hydro slump",
+      "brief": "India's coal-fired power generation saw its largest jump in three years during October. The surge was driven by a significant slump in hydro generation, forcing power authorities to rely heavily on coal reserves to meet domestic energy demands.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0s3MDQ2QklmZmpMU05CQ2hDRmFhMUoyMnBsdUo0dVhzQm5KZWpUNktScUxlY3BTYmNsazJtUU5pU08wZHhveTlJR1VFcjlrNWVPNTV4QTR3aktmM0Y1WUZGSnZVUVQ1WUQyV1ZRRXpnVkR6VVI1VUd3Z2g3ZFBUTUV3aGVvUnZfZVIwNE1UdFpzTVVuWjNRNXhIZi1QcExzaFBSSTZQSUp2eGllcnpoc0F5N242empXRDR3Y2lIOA?oc=5",
+      "dateLocation": "November 1, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "OPEC+ set to keep oil output targets steady",
+      "brief": "Sources indicate that OPEC+ is unlikely to alter its current oil production targets during the upcoming ministerial meeting, opting to maintain steady output levels as global market conditions remain balanced.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+      "dateLocation": "November 1, 2026 | Vienna, Austria"
+    },
+    {
+      "headline": "Xiaomi's October EV deliveries top 50,000 units",
+      "brief": "Chinese tech giant Xiaomi announced that its electric vehicle deliveries exceeded 50,000 units in October, marking a record monthly high for the company's automotive division as production capacity scales up rapidly.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJQV25faktaWGFiUks0eTdlWmFhbkcwR0RWcXdFbk95UXJ6VjBmSUV1NjRaTk1oYXk0NEtKaGF1NTJBOWNFUm1sY2tiUVhjekJVU25tRWduZVpGVFNHMGFyOTN1FjRmS1lFcnNSRExoT216QUNtaFZjOTluU1g0d19EejFmR2pRWDJuSXc4WWQ3WHJ2UngzYmZRV3d0a2dmeHFycVhhZGdvN1dUbmc?oc=5",
+      "dateLocation": "November 1, 2026 | Beijing, China"
+    },
+    {
+      "headline": "Bangladesh forms wage board following violent garment protests",
+      "brief": "The Bangladesh government has established a new wage board to address workers' demands following days of violent protests in the vital garment manufacturing sector. Authorities hope the move will restore stability and protect export supply chains.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5",
+      "dateLocation": "November 1, 2026 | Dhaka, Bangladesh"
+    },
+    {
+      "headline": "Binance resumes withdrawals after covering $6.3B in stolen funds",
+      "brief": "Cryptocurrency exchange Binance has fully resumed user withdrawals for bitcoin and ether after successfully recovering and covering the bulk of $6.3 billion lost in a recent sophisticated security breach.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
+      "dateLocation": "November 1, 2026 | Global / Grand Cayman"
+    },
+    {
+      "headline": "Ghana partners with Russia to build 2,000 MW nuclear plant",
+      "brief": "The government of Ghana has announced a major energy agreement with Russia to construct a 2,000-megawatt nuclear power plant, aiming to deepen bilateral ties and secure long-term baseload electricity for industrial growth.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEU1TzJ6c1lISFlURGdCYlJscFltNmo3ay1SblgxNEtKU1lwcEhEcHZpMjg3TWE0VkVrdEtwSFF0dzhxRExVdUQtZTlkU2pENWpTRkdER3FHWEk1RzNRdFA2QlFVcmdzWWNSZ044MjNBejRPeFFNX3dwRUItTXRndW1UaXJxdHJkcThxUUtsVFo2d19MdFZVbVJFM245bW9iSEZwZENCQWk?oc=5",
-      "dateLocation": "2026-11-01 | Reuters"
+      "dateLocation": "November 1, 2026 | Accra, Ghana"
     },
     {
-      "headline": "US Judge Dismisses Trump's $10 Billion WSJ Lawsuit",
-      "brief": "A federal judge has dismissed Donald Trump's $10 billion lawsuit against The Wall Street Journal regarding its publication of a controversial report on an alleged letter to Jeffrey Epstein.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/another-setback-for-trump-judge-dismisses-us-presidents-10-billion-lawsuit-against-wsj-all-you-need-to-know-11793504307002.html",
-      "dateLocation": "2026-11-01 | Livemint"
-    },
-    {
-      "headline": "Delhi Enters Strict Winter Pollution Control Mode",
-      "brief": "The Delhi government has implemented severe pollution control measures lasting through January, introducing vehicle entry limits, mandatory work-from-home guidelines for offices, and strict controls on outdoor construction.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/vehicle-curbs-wfh-and-ai-surveillance-delhi-steps-up-winter-pollution-fight/articleshow/135409703.cms",
-      "dateLocation": "2026-11-01 | Times of India"
-    },
-    {
-      "headline": "Bangladesh Dengue Death Toll Rises Amid High Spread",
-      "brief": "Bangladesh continues to grapple with a rising dengue death toll, with public health officials warning that the outbreak is severe and unlikely to ease significantly before December.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhJWWhSQmlnbnVWNzVkN18yWnhPUEg5LTlOZVpQQXZVcF8yWU5CMGJ6QVVUbzJUa2UwXzlJeS1TU1IteEdfdGVIVmRZcTJuSDllOE96YjAtLWlfR3JvblFzZE9tenFGRVdwdkMtYzU4bldVS2ZzX3NxaEF5Q2x5RS1MVVl2OTdsTG5peGd0VlJDYWgtOUZ4Q3dKb01KTE1pYzJ5Sjljdk1WajJRR1VOVGIzMkNpcmd2QkV3RTVMbW9qS20xTkZuYUFGaFd4bFFwNWc?oc=5",
-      "dateLocation": "2026-11-01 | Reuters"
-    },
-    {
-      "headline": "US Senators Question Google Over Classroom AI Push",
-      "brief": "Two US senators have written a formal letter to Google CEO Sundar Pichai, outlining nine pressing questions concerning the integration of AI tools in schools and their potential impacts on children's mental health.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/two-us-senators-write-letter-to-google-ceo-sundar-pichai-asking-9-questions-as-company-pushes-for-ai-in-classrooms/articleshow/135415769.cms",
-      "dateLocation": "2026-11-01 | Times of India"
-    },
-    {
-      "headline": "Commercial LPG Prices Hiked Across Major Indian Cities",
-      "brief": "Commercial LPG cylinder prices have been hiked by approximately ₹10 per cylinder, with prices in the national capital reaching ₹2,820 as per recent oil marketing company adjustments.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece",
-      "dateLocation": "2026-11-01 | The Hindu"
-    },
-    {
-      "headline": "India Prepares Final T20I Match Against New Zealand",
-      "brief": "The Indian cricket team prepares for the final T20I against New Zealand holding an unassailable 3-1 lead, with squad selections focused on giving key players opportunities before the upcoming ODI series preparations.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/ind-vs-nz-5th-will-sooryavanshi-kuldeep-feature-in-the-final-t20i/article71650926.ece",
-      "dateLocation": "2026-11-01 | The Hindu"
-    },
-    {
-      "headline": "Six Indian Tourists Reported Missing While Trekking in Nepal",
-      "brief": "Authorities have launched a search operation after six Indian tourists went missing during a trekking expedition towards Nepal's remote and deep Shey-Phoksundo Lake.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/six-indian-tourists-go-missing-during-trek-to-nepals-shey-phoksundo-lake/articleshow/135416519.cms",
-      "dateLocation": "2026-11-01 | Times of India"
-    },
-    {
-      "headline": "Virat Kohli and Rohit Sharma Step Up ODI Practice",
-      "brief": "Senior Indian batsmen Virat Kohli and Rohit Sharma intensified their training at Eden Park in Auckland, ramping up preparations ahead of the upcoming international fixtures.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-rohit-sharmas-day-out-in-auckland-booming-drives-plenty-of-edges-and-high-intensity/articleshow/135416274.cms",
-      "dateLocation": "2026-11-01 | Times of India"
-    },
-    {
-      "headline": "EPFO Launches Nationwide Campaign for Digital Life Certificates",
-      "brief": "The Employees' Provident Fund Organisation has kicked off a month-long nationwide campaign allowing pensioners to conveniently submit digital life certificates from home using smartphone facial authentication.",
+      "headline": "India's gross GST collections jump 22.9% in October",
+      "brief": "India's gross Goods and Services Tax (GST) collections registered a strong 22.9% year-on-year increase in October, reaching Rs 2.31 lakh crore, driven by robust festive season consumer demand and improved tax compliance.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/epfo-news-pensioners-can-submit-digital-life-certificates-from-home-during-november-campaign-details-here-11793469888328.html",
-      "dateLocation": "2026-11-01 | Livemint"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/indias-october-gross-gst-collections-jump-22-9-to-rs-2-31-lakh-crore/articleshow/135420137.cms",
+      "dateLocation": "November 1, 2026 | New Delhi, India"
     },
     {
-      "headline": "Global COVID-19 Criticism Hardened China's World View",
-      "brief": "India's Foreign Secretary Vikram Misri stated that intense global criticism during the COVID-19 pandemic significantly hardened China's foreign policy stance and attitude toward the international community.",
+      "headline": "Cyclone Murasu triggers heavy rainfall alerts across South India",
+      "brief": "Cyclone Murasu has formed over the Bay of Bengal, prompting meteorological departments to issue orange alerts for several districts in Telangana, Andhra Pradesh, Tamil Nadu, and Odisha ahead of severe downpours.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/global-criticism-during-covid-19-hardened-chinas-attitude-towards-world-foreign-secretary-misri/article71652042.ece",
-      "dateLocation": "2026-11-01 | The Hindu"
+      "sourceUrl": "https://www.livemint.com/news/india/cyclone-murasu-telangana-issues-orange-alert-for-6-districts-amid-heavy-rainfall-warning-on-nov-2-11793531992957.html",
+      "dateLocation": "November 1, 2026 | Hyderabad, India"
+    },
+    {
+      "headline": "Gautam Gambhir issues bold message after T20 series win",
+      "brief": "Following India's T20 series triumph against New Zealand, head coach Gautam Gambhir delivered a bold motivational message to his players, emphasizing fearlessness and continuous improvement in all departments.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-arshdeep-singh-creates-history-in-5th-t20i-equals-tim-southees-powerplay-wickets-record/articleshow/135423327.cms",
+      "dateLocation": "November 1, 2026 | Auckland, New Zealand"
+    },
+    {
+      "headline": "Interstellar comet 3I/ATLAS may be 7 billion years old",
+      "brief": "Recent astronomical analysis of the interstellar comet 3I/ATLAS reveals unusual chemical markers suggesting it formed roughly 7 billion years ago, long before the birth of our own solar system.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/interstellar-comet-3i/atlas-carries-a-bizarre-chemical-clue-suggesting-it-was-formed-7-billion-years-ago-long-before-our-sun-and-solar-system-existed/articleshow/135425886.cms",
+      "dateLocation": "November 1, 2026 | Washington, USA"
     }
   ]
 }
