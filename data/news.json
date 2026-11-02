@@ -1,82 +1,117 @@
 {
-  "lastUpdated": "2026-11-02T00:00:00.000Z",
+  "lastUpdated": "2026-11-02T04:16:44.906Z",
   "ticker": [
-    "OPEC+ holds December oil output steady",
-    "Binance resumes withdrawals after multi-billion hack",
-    "Cyclone Murasu triggers alerts across southern India",
-    "Thousands join Indian opposition anti-CEC protest",
-    "Trump holds direct call with Netanyahu over Iran war"
+    "Five killed in Manipur ethnic clashes",
+    "Cyclone Murasu approaches southern India",
+    "Nine killed in Florida Learjet crash",
+    "OPEC+ holds December oil targets steady",
+    "Delhi air quality hits hazardous levels"
   ],
   "articles": [
     {
-      "headline": "OPEC+ keeps December oil output targets steady",
-      "brief": "OPEC+ decided to keep its December oil production targets unchanged as ongoing conflicts in the Middle East continue to disrupt Gulf exports. With several members pumping below their assigned quotas, the alliance faces mounting uncertainty regarding 2027 production levels amidst concerns over supply recovery through the Strait of Hormuz.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
-    },
-    {
-      "headline": "Binance resumes withdrawals after major security breach",
-      "brief": "Crypto exchange Binance is resuming withdrawals after recovering the majority of funds stolen in a massive $6 billion cyber heist. The FBI attributed the security breach to North Korea's TraderTraitor hacking group, which converted stolen assets into Ethereum.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckdSaWg1UnpYNmhtY1BWZzdiV2EyLUVQb3dKWC1vRGtHNzdFUTVsMjh1dUthY3lKWHd1d1JXTnNtRFNDUzVHY1BkS2J6emlQV0oyVmxFeHJEY21lVkIyeS03OEFjT2hWUEIwc0NOMm1QODBNS2ZFcGdaZmgyLTBwZmN4S0tPdnVpbmZpR2hraTkxVXFLQVY2eUdjdWxWTlRRa29vTEh4N3NpZDgwSEVxRUNUNURrNmd2MVNIbVBnNWNfdw?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
-    },
-    {
-      "headline": "Cyclone Murasu triggers severe weather alerts in India",
-      "brief": "Cyclonic storm Murasu has prompted orange and yellow alerts across multiple districts in Telangana, Andhra Pradesh, and Tamil Nadu. Authorities have announced school and college closures as the storm moves northwestward, expected to intensify into a severe cyclonic system.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-      "dateLocation": "2026-11-02 | The Hindu"
-    },
-    {
-      "headline": "Indian opposition holds massive protest demanding poll chief resign",
-      "brief": "Thousands of opposition supporters gathered in a major demonstration to demand the resignation of India's chief election commissioner. Prominent opposition figures addressed the crowd, escalating political tensions over electoral integrity.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakVrd3NyN2t0ZzZVTURGaTFwXzREVHc3eEUzd214OHdGOFcwQTdwYnMwSUN3dVhXV0RlTGtqNjJWV2xtSnVfbmJHUDBwX1c1R0VJaGx5V3IxTDdpUGttcHNrOGQxUWtMTk53WmhnempCczJLOUU3V0xfSjlJS0VicGQ3UEtxenEzaHhwNlYxeENNRmEtZUl4M0g1MjlkelRUdjZNdVc5SjBxQkoxVnhTNGFjd0oydWs?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
-    },
-    {
-      "headline": "Trump holds direct call with Netanyahu over Iran war",
-      "brief": "US President Donald Trump held a tense telephone conversation with Israeli Prime Minister Benjamin Netanyahu regarding the ongoing military operations and strategic objectives in the Iran conflict, according to sources.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
-      "dateLocation": "2026-11-02 | The Hindu"
-    },
-    {
-      "headline": "China's BYD extends sales growth streak on strong exports",
-      "brief": "Electric vehicle manufacturer BYD extended its robust sales growth streak, driven heavily by increasing international demand and strong export performance across global markets.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21scll6NjBGOTVLUm15YmNsNE9saEN4SE1oLU4zV0VCWFA3dWlVV0tHM09hcUtKMmdsOGVHZGtSVzNvenVmRndlMml1eHVSUzBsR0JPNFI3SjVTdFRncURKX1RRdV95T2s3bzdKMmFtNUNNalVzaTNpdkpzYVZoVHVBYTItSWV1VXpmVTdZRmZyN3NZQnExcnlpYmlCTmNMQ3cxQVRwSE9oODJsLUF6Q0xfMk1JZy1VTWpF?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
-    },
-    {
-      "headline": "Xiaomi October EV deliveries surpass 50,000 units",
-      "brief": "Technology giant Xiaomi reported that its electric vehicle deliveries exceeded 50,000 units in October, marking a record monthly high for the company's automotive division.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJQV25faktaWGFiUks0eTdlWmFhbkcwR0RWcXdFbk95UXJ6VjBmSUV1NjRaTk1oYXk0NEtKaGF1NTJBOWNFUm1sY2tiUVhjekJVU25tRWduZVpGVFNHMGFyOTN1RjRmS1lFcnNSRExoT216QUNtaFZjOTluU1g0d19EejFmR2pRWDJuSXc4WWQ3WHJ2UngzYmZRV3d0a2dmeHFycVhhZGdvN1dUbmc?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
-    },
-    {
-      "headline": "Elon Musk weighs potential Tesla and SpaceX merger",
-      "brief": "Elon Musk is reportedly exploring a merger between Tesla and SpaceX to form an enormous technology and aerospace conglomerate. A combined entity could unlock synergies in artificial intelligence, robotics, and semiconductor manufacturing.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/world/why-elon-musk-is-weighing-a-tesla-spacex-merger-what-a-combined-entity-could-mean-for-his-business-empire-and-investors-11793540891578.html",
-      "dateLocation": "2026-11-02 | Livemint"
-    },
-    {
-      "headline": "Fresh ethnic violence in India's Manipur claims five lives",
-      "brief": "At least five people were killed in a fresh outbreak of ethnic violence in India's northeastern state of Manipur, prompting authorities to reinforce security measures in volatile districts.",
+      "headline": "Five Killed in Manipur Ethnic Violence",
+      "brief": "Fresh ethnic violence in India's Manipur state has left five people dead, exacerbating ongoing regional tensions and prompting urgent calls for increased security measures from local authorities.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObENRYjE1VmhhRnFuXzRTQjFkX2NZWlZySGVjV3diT0lld3ZBb0pEQ2ZjSmtEdjN1UTNWVzVSLVI3QllBYXdYYXdjeTVjckMxOURFUUFvWE5sdWdDUlBucFRJZy1HUk9hbnJDR29ZNE04LV9zRlVtN2xjYmNRSmkxemtwZF9MdjVpQlY0eXkzQUpHODQ1Q3g5amdXM0tWbHZaSWVTYlFYREpFaHNVaEE?oc=5",
       "dateLocation": "2026-11-02 | Reuters"
     },
     {
-      "headline": "German engineering workers begin industrial wage strikes",
-      "brief": "Workers across Germany's key engineering and industrial sectors have initiated coordinated wage strikes to demand higher compensation amidst persistent inflation and rising living costs.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUxlWnZDNVAtUjJJU1dFSHZBM1E5Ul9nc3N3c295TzgtSnVKTGtTNk1fMXNZN29wV3lGdGthdkUtOHBnclpaSFJGdGdidTA5cFhwY3c0bGlycVNadFpUR2ZGNS12WGFDZ01lMThyMmxydzNmdXNXSDljelItc1JleWhfekhDNTZLN3VHSjdTQlFNd0ZTTDI1SXhKZkFFYTJWUENMeXpONUJtWVB6M18xNUdpSQ?oc=5",
+      "headline": "OPEC+ Keeps December Oil Targets Steady",
+      "brief": "OPEC+ has decided to maintain its December oil output targets unchanged, navigating market stability while preparing for more challenging quota negotiations ahead of 2027.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
       "dateLocation": "2026-11-02 | Reuters"
+    },
+    {
+      "headline": "China's BYD Extends Sales Growth Streak",
+      "brief": "Chinese electric vehicle maker BYD has continued its robust sales expansion driven by strong international export performance, defying broader domestic market cooling trends.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21scll6NjBGOTVLUm15YmNsNE9saEN4SE1oLU4zV0VCWFA3dWlVV0tHM09hcUtKMmdsOGVHZGtSVzNvenVmRndlMml1eHVSUzBsR0JPNFI3SjVTdFRncURKX1RRdV95T2s3bzdKMmFtNUNNalVzaTNpdkpzYVZoVHVBYTItSWV1VXpmVTdZRfZyN3NZQnExcnlpYmlCTmNMQ3cxQVRwSE9oODJsLUF6Q0xfMk1JZy1VTWpF?oc=5",
+      "dateLocation": "2026-11-02 | Reuters"
+    },
+    {
+      "headline": "Cyclone Murasu Threatens Southern India",
+      "brief": "Cyclone Murasu has intensified into a severe cyclonic storm, triggering high alerts across Tamil Nadu and Andhra Pradesh as authorities prepare for heavy rainfall and landfall.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-update-cyclone-murasu-to-make-landfall-on-nov-3-tamil-nadu-odisha-on-high-alert-11793580778128.html",
+      "dateLocation": "2026-11-02 | Livemint"
+    },
+    {
+      "headline": "Delhi Air Quality Plummets to Hazardous",
+      "brief": "Delhi's air quality has deteriorated into the very poor to hazardous categories, prompting the immediate enforcement of strict anti-pollution vehicle curbs and public advisories.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/delhis-air-quality-plummets-to-hazardous-levels-as-aqi-hits-428/articleshow/135443181.cms",
+      "dateLocation": "2026-11-02 | Economic Times"
+    },
+    {
+      "headline": "Nine Killed in Florida Plane Crash",
+      "brief": "A private Learjet crashed into a residential area in Greenacres, Florida, resulting in the deaths of all nine people on board after reporting severe turbulence and icing.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/looked-like-a-missile-jet-crash-leaves-massive-crater-in-florida-neighbourhood-video/articleshow/135442688.cms",
+      "dateLocation": "2026-11-02 | Times of India"
+    },
+    {
+      "headline": "Ebola Fatality Rate Tops 50% in Congo",
+      "brief": "The Democratic Republic of Congo's Ebola fatality rate surged above 50% following the inclusion of hundreds of previously unallocated historical deaths into the national health toll.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/ebola-fatality-rate-tops-50-after-hundreds-of-deaths-added-to-congo-toll-11793579054406.html",
+      "dateLocation": "2026-11-02 | Livemint"
+    },
+    {
+      "headline": "US Explores Russian Gas Route via Ukraine",
+      "brief": "The United States is reportedly exploring a proposal to resume Russian natural gas transit through Ukraine to advance broader energy ceasefire and European peace initiatives.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/us-explores-route-to-bring-russian-gas-back-to-europe-through-ukraine-report/articleshow/135443376.cms",
+      "dateLocation": "2026-11-02 | Times of India"
+    },
+    {
+      "headline": "China's Robot Makers Chase Brains",
+      "brief": "Chinese humanoid robot manufacturers have successfully developed advanced physical mobility and are now fiercely competing to build sophisticated artificial intelligence operating systems.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
+      "dateLocation": "2026-11-02 | Reuters"
+    },
+    {
+      "headline": "Elon Musk Admits Financial Hurdle for AI",
+      "brief": "Elon Musk highlighted severe financial pressures facing generative artificial intelligence enterprises, noting that staggering operational expenses are crippling startup profitability.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-just-admitted-for-his-companys-chatbot-what-is-also-the-biggest-problem-of-all-ai-companies-making-some-bankrupt-and-bleeding-others-of-hard-cash/articleshow/135442279.cms",
+      "dateLocation": "2026-11-02 | Times of India"
+    },
+    {
+      "headline": "Republicans Scramble Ahead of Midterms",
+      "brief": "US Republican strategists are urgently working to counter a surging Democratic momentum ahead of the midterm elections, fueled by record early voting figures nationwide.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/trumps-republicans-scramble-to-stop-democratic-midterms-wave/article71655246.ece",
+      "dateLocation": "2026-11-02 | The Hindu"
+    },
+    {
+      "headline": "Michigan Senate Primary Rival Crosses Party Lines",
+      "brief": "In a stunning political shift, a prominent Michigan Democrat has endorsed Republican candidate Mike Rogers following deep internal party fractures and primary bitter feuds.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/michigan-senate-race-democrat-endorses-republican-after-bitter-feud-with-abdul-el-sayed-what-led-to-stunning-switch-11793585286054.html",
+      "dateLocation": "2026-11-02 | Livemint"
+    },
+    {
+      "headline": "Kimi Antonelli Secures Historic F1 Title",
+      "brief": "Twenty-year-old racing driver Kimi Antonelli has claimed a historic Formula 1 world championship title following a stellar performance at the Mexico City Grand Prix.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/motorsport/kimi-antonellis-historic-title-winning-f1-season-five-key-moments/article71655281.ece",
+      "dateLocation": "2026-11-02 | The Hindu"
+    },
+    {
+      "headline": "Lionel Messi Lifts Inter Miami to Second",
+      "brief": "Lionel Messi delivered a masterclass performance, scoring a brilliant individual goal to secure victory for Inter Miami over the New England Revolution in MLS action.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/football/lionel-messi-lifts-inter-miami-past-revolution-to-move-into-second-place-in-east/article71655247.ece",
+      "dateLocation": "2026-11-02 | The Hindu"
+    },
+    {
+      "headline": "India Likely to Meet FY27 Fiscal Deficit",
+      "brief": "Goldman Sachs reports that India is well-positioned to achieve its fiscal deficit target for the 2027 financial year despite lingering government spending pressures.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/india-likely-to-meet-fy27-fiscal-deficit-target-despite-spending-pressures-goldman-sachs/articleshow/135442780.cms",
+      "dateLocation": "2026-11-02 | Economic Times"
     }
   ]
 }
