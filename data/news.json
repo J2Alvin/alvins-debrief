@@ -1,117 +1,96 @@
 {
-  "lastUpdated": "2026-11-02T04:16:44.906Z",
+  "lastUpdated": "2026-11-02T14:42:51.316Z",
   "ticker": [
-    "Five killed in Manipur ethnic clashes",
-    "Cyclone Murasu approaches southern India",
-    "Nine killed in Florida Learjet crash",
-    "OPEC+ holds December oil targets steady",
-    "Delhi air quality hits hazardous levels"
+    "Cyclone Murasu hits Andhra coast",
+    "Delhi AQI reaches 324, GRAP-2 invoked",
+    "US midterm elections approach",
+    "Reliance posts strong market gains",
+    "OpenAI signs major UAE deal"
   ],
   "articles": [
     {
-      "headline": "Five Killed in Manipur Ethnic Violence",
-      "brief": "Fresh ethnic violence in India's Manipur state has left five people dead, exacerbating ongoing regional tensions and prompting urgent calls for increased security measures from local authorities.",
+      "headline": "Cyclone Murasu intensifies toward Andhra Pradesh coast",
+      "brief": "Cyclone Murasu is projected to cross the south Andhra Pradesh coast with winds reaching up to 120 kmph, bringing severe heavy rainfall. Multiple states are on high alert as authorities evacuate thousands and preposition disaster response teams.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObENRYjE1VmhhRnFuXzRTQjFkX2NZWlZySGVjV3diT0lld3ZBb0pEQ2ZjSmtEdjN1UTNWVzVSLVI3QllBYXdYYXdjeTVjckMxOURFUUFvWE5sdWdDUlBucFRJZy1HUk9hbnJDR29ZNE04LV9zRlVtN2xjYmNRSmkxemtwZF9MdjVpQlY0eXkzQUpHODQ1Q3g5amdXM0tWbHZaSWVTYlFYREpFaHNVaEE?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cyclone-murasu-to-make-landfall-near-at-andhra-coast-tonight-120-kmph-winds-expected/articleshow/135464816.cms",
+      "dateLocation": "Nov 2, 2026 | New Delhi, India"
     },
     {
-      "headline": "OPEC+ Keeps December Oil Targets Steady",
-      "brief": "OPEC+ has decided to maintain its December oil output targets unchanged, navigating market stability while preparing for more challenging quota negotiations ahead of 2027.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
-    },
-    {
-      "headline": "China's BYD Extends Sales Growth Streak",
-      "brief": "Chinese electric vehicle maker BYD has continued its robust sales expansion driven by strong international export performance, defying broader domestic market cooling trends.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21scll6NjBGOTVLUm15YmNsNE9saEN4SE1oLU4zV0VCWFA3dWlVV0tHM09hcUtKMmdsOGVHZGtSVzNvenVmRndlMml1eHVSUzBsR0JPNFI3SjVTdFRncURKX1RRdV95T2s3bzdKMmFtNUNNalVzaTNpdkpzYVZoVHVBYTItSWV1VXpmVTdZRfZyN3NZQnExcnlpYmlCTmNMQ3cxQVRwSE9oODJsLUF6Q0xfMk1JZy1VTWpF?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
-    },
-    {
-      "headline": "Cyclone Murasu Threatens Southern India",
-      "brief": "Cyclone Murasu has intensified into a severe cyclonic storm, triggering high alerts across Tamil Nadu and Andhra Pradesh as authorities prepare for heavy rainfall and landfall.",
+      "headline": "Delhi air quality drops to 'very poor'",
+      "brief": "Delhi's air quality index deteriorated to 324, prompting the Commission for Air Quality Management to invoke Stage-II of the Graded Response Action Plan. Authorities implemented strict border checks, dust control measures, and vehicle restrictions across the national capital region.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-update-cyclone-murasu-to-make-landfall-on-nov-3-tamil-nadu-odisha-on-high-alert-11793580778128.html",
-      "dateLocation": "2026-11-02 | Livemint"
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-records-seasons-first-very-poor-aqi-at-324-grap-2-curbs-imposed-border-checks-snarl-traffic/articleshow/135463669.cms",
+      "dateLocation": "Nov 2, 2026 | New Delhi, India"
     },
     {
-      "headline": "Delhi Air Quality Plummets to Hazardous",
-      "brief": "Delhi's air quality has deteriorated into the very poor to hazardous categories, prompting the immediate enforcement of strict anti-pollution vehicle curbs and public advisories.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/delhis-air-quality-plummets-to-hazardous-levels-as-aqi-hits-428/articleshow/135443181.cms",
-      "dateLocation": "2026-11-02 | Economic Times"
+      "headline": "US Democrats eye Senate control in midterms",
+      "brief": "Democrats are pushing to flip crucial Republican-held Senate seats as voters head to the polls in the upcoming midterm elections. Ongoing voter concerns over the economy, cost of living, and administrative approval ratings are expected to heavily influence the final outcomes.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/us-midterms-2026-can-democrats-flip-four-republican-held-senate-seats-11-key-races-to-watch-from-texas-to-ohio-11793620887314.html",
+      "dateLocation": "Nov 2, 2026 | Washington, USA"
     },
     {
-      "headline": "Nine Killed in Florida Plane Crash",
-      "brief": "A private Learjet crashed into a residential area in Greenacres, Florida, resulting in the deaths of all nine people on board after reporting severe turbulence and icing.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/looked-like-a-missile-jet-crash-leaves-massive-crater-in-florida-neighbourhood-video/articleshow/135442688.cms",
-      "dateLocation": "2026-11-02 | Times of India"
-    },
-    {
-      "headline": "Ebola Fatality Rate Tops 50% in Congo",
-      "brief": "The Democratic Republic of Congo's Ebola fatality rate surged above 50% following the inclusion of hundreds of previously unallocated historical deaths into the national health toll.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/ebola-fatality-rate-tops-50-after-hundreds-of-deaths-added-to-congo-toll-11793579054406.html",
-      "dateLocation": "2026-11-02 | Livemint"
-    },
-    {
-      "headline": "US Explores Russian Gas Route via Ukraine",
-      "brief": "The United States is reportedly exploring a proposal to resume Russian natural gas transit through Ukraine to advance broader energy ceasefire and European peace initiatives.",
+      "headline": "Reliance stock surges on strong outlook",
+      "brief": "India's Reliance Industries posted its best single-day market performance in over six years, driven by robust oil business earnings and promising outlooks from Jio Platforms. The rally significantly lifted broader market benchmarks.",
       "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/us-explores-route-to-bring-russian-gas-back-to-europe-through-ukraine-report/articleshow/135443376.cms",
-      "dateLocation": "2026-11-02 | Times of India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5",
+      "dateLocation": "Nov 2, 2026 | Mumbai, India"
     },
     {
-      "headline": "China's Robot Makers Chase Brains",
-      "brief": "Chinese humanoid robot manufacturers have successfully developed advanced physical mobility and are now fiercely competing to build sophisticated artificial intelligence operating systems.",
+      "headline": "OpenAI signs strategic partnership in UAE",
+      "brief": "Abu Dhabi's ADNOC and G42 have signed a landmark agreement with OpenAI during Sam Altman's visit to the region, highlighting expanding artificial intelligence infrastructure investments and enterprise collaborations across the Middle East.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
-      "dateLocation": "2026-11-02 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+      "dateLocation": "Nov 2, 2026 | Abu Dhabi, UAE"
     },
     {
-      "headline": "Elon Musk Admits Financial Hurdle for AI",
-      "brief": "Elon Musk highlighted severe financial pressures facing generative artificial intelligence enterprises, noting that staggering operational expenses are crippling startup profitability.",
+      "headline": "UK to reveal major migrant settlement overhaul",
+      "brief": "The United Kingdom government is set to unveil a comprehensive overhaul of its migrant settlement policies following months of intense parliamentary debate and policy reviews aimed at restructuring the domestic immigration framework.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHlDMjA3R2E1a0lESG95YlBSVWYxTFJOWnQtajNkQ3otV2dmTEFUd3AzWFlreFpjd0hfY0NZVGhDQ0Z3ZDhUUThtTjlOZWktY3BJUHFMb3Ytcy1QUXNVOWt4NjJoMlBoemtjWDVyQkxWaXZTRVFpX1pCZ3EweFdoYUUyTlhzWHlVX2M2Rkt4VUs2RGpKclo3WTByRm94RWpucjBpbQ?oc=5",
+      "dateLocation": "Nov 2, 2026 | London, UK"
+    },
+    {
+      "headline": "Palantir's Alex Karp buys Swedish forest",
+      "brief": "Palantir CEO Alex Karp has acquired 15,000 hectares of forest land in Sweden through his investment firm Cladonia Skog AB for approximately $22 million, leading to the termination of local hunting leases as preservation plans take effect.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-just-admitted-for-his-companys-chatbot-what-is-also-the-biggest-problem-of-all-ai-companies-making-some-bankrupt-and-bleeding-others-of-hard-cash/articleshow/135442279.cms",
-      "dateLocation": "2026-11-02 | Times of India"
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/palantirs-alex-karp-is-now-a-forest-owner-buys-37000-acres-in-sweden-for-reported-22-million-why-hunters-can-no-longer-enter-it/articleshow/135460621.cms",
+      "dateLocation": "Nov 2, 2026 | Stockholm, Sweden"
     },
     {
-      "headline": "Republicans Scramble Ahead of Midterms",
-      "brief": "US Republican strategists are urgently working to counter a surging Democratic momentum ahead of the midterm elections, fueled by record early voting figures nationwide.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/trumps-republicans-scramble-to-stop-democratic-midterms-wave/article71655246.ece",
-      "dateLocation": "2026-11-02 | The Hindu"
+      "headline": "Markets regulator backs capital gains tax removal",
+      "brief": "India's market regulator has reportedly expressed support for removing long-term capital gains tax for foreign portfolio investors, a move intended to attract higher foreign capital inflows into domestic equity markets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5",
+      "dateLocation": "Nov 2, 2026 | Mumbai, India"
     },
     {
-      "headline": "Michigan Senate Primary Rival Crosses Party Lines",
-      "brief": "In a stunning political shift, a prominent Michigan Democrat has endorsed Republican candidate Mike Rogers following deep internal party fractures and primary bitter feuds.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/michigan-senate-race-democrat-endorses-republican-after-bitter-feud-with-abdul-el-sayed-what-led-to-stunning-switch-11793585286054.html",
-      "dateLocation": "2026-11-02 | Livemint"
+      "headline": "Ukraine and Russia emergency apps hit by cyberattacks",
+      "brief": "Emergency alert applications in both Ukraine and Russia experienced widespread cyberattacks, resulting in unauthorized tampering and the dissemination of fake nuclear radiation warnings to users before services were temporarily suspended.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/ukraine-russia-emergency-alert-apps-hit-by-cyberattacks-fake-nuclear-radiation-alerts-sent-to-users-what-we-know-11793616267791.html",
+      "dateLocation": "Nov 2, 2026 | Kyiv/Moscow"
     },
     {
-      "headline": "Kimi Antonelli Secures Historic F1 Title",
-      "brief": "Twenty-year-old racing driver Kimi Antonelli has claimed a historic Formula 1 world championship title following a stellar performance at the Mexico City Grand Prix.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/motorsport/kimi-antonellis-historic-title-winning-f1-season-five-key-moments/article71655281.ece",
-      "dateLocation": "2026-11-02 | The Hindu"
-    },
-    {
-      "headline": "Lionel Messi Lifts Inter Miami to Second",
-      "brief": "Lionel Messi delivered a masterclass performance, scoring a brilliant individual goal to secure victory for Inter Miami over the New England Revolution in MLS action.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/football/lionel-messi-lifts-inter-miami-past-revolution-to-move-into-second-place-in-east/article71655247.ece",
-      "dateLocation": "2026-11-02 | The Hindu"
-    },
-    {
-      "headline": "India Likely to Meet FY27 Fiscal Deficit",
-      "brief": "Goldman Sachs reports that India is well-positioned to achieve its fiscal deficit target for the 2027 financial year despite lingering government spending pressures.",
+      "headline": "PM Modi warns fossil fuels threaten global economy",
+      "brief": "Prime Minister Narendra Modi emphasized that excessive dependence on fossil fuels poses a direct threat to global economic stability and energy security, urging accelerated international transitions toward clean and sustainable energy frameworks.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/india-likely-to-meet-fy27-fiscal-deficit-target-despite-spending-pressures-goldman-sachs/articleshow/135442780.cms",
-      "dateLocation": "2026-11-02 | Economic Times"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/energy-securitys-future-lies-in-clean-energy-pm-modi-says-fossil-fuel-dependence-disrupts-global-economy/articleshow/135464120.cms",
+      "dateLocation": "Nov 2, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "BCCI announces India A squad for Asia Cup",
+      "brief": "The Board of Control for Cricket in India has officially announced the India A squad for the upcoming Asia Cup tournament, featuring promising young talents led by Tilak Varma alongside standout performers.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-announces-india-a-squad-for-asia-cup/articleshow/135462592.cms",
+      "dateLocation": "Nov 2, 2026 | Mumbai, India"
+    },
+    {
+      "headline": "Apple plans major iPad refresh for 2027",
+      "brief": "Technology giant Apple is reportedly preparing a major hardware refresh for its iPad lineup scheduled for 2027, featuring updated iterations of both iPad Air and iPad Pro models with advanced internal specifications.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-plans-major-ipad-refresh-in-2027-new-ipad-air-and-pro-models-expected-latest-model-launch-iphone-duo/articleshow/135463825.cms",
+      "dateLocation": "Nov 2, 2026 | Cupertino, USA"
     }
   ]
 }
