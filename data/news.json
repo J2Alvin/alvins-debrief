@@ -1,103 +1,117 @@
 {
-  "lastUpdated": "2026-11-03T13:35:33.278Z",
+  "lastUpdated": "2026-11-03T22:52:31.406Z",
   "ticker": [
-    "US Midterms Underway with Senate Races Tight",
-    "Air Pollution Chokes Delhi and Lahore",
-    "Oil Prices Rise as Iran Conflict Persists",
-    "Cyclone Murasu Strikes India's Eastern Coast",
-    "Bomb Threats Disrupt Multiple European Flights"
+    "US Midterm Elections 2026 Underway",
+    "Ambani's Jio Explores Comcast & Charter Tech Talks",
+    "Fairfax's IDBI Bank Deal Faces Opposition",
+    "Super Micro Forecasts Strong AI Server Revenue",
+    "Binance Hackers Used Fake Job Interview in $6.3B Attack"
   ],
   "articles": [
     {
-      "headline": "Fairfax's IDBI Bank Bid Faces Opposition",
-      "brief": "Fairfax's $5.5 billion proposed acquisition of India's IDBI Bank has encountered significant political and employee resistance, complicating the high-profile financial transaction.",
+      "headline": "Jio Explores Tech-For-Equity Talks With Comcast And Charter",
+      "brief": "Ambani's Reliance Jio is reportedly exploring tech-for-equity discussions with US telecom giants Comcast and Charter, according to industry sources familiar with the ongoing strategic exploratory talks.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVk1sUHd5bUdEcHFJdHJrQTlmV0tSY3Y4dzh3R09TTWpKOTlvT2NUTXlISU9pSlpZY3Bpei14aDFjclduRVRQTU5pUTRVR0o4LWQ5QlgwZmVObHdDTmZqQUhCb1E4dWllX3Q1QkZCdXhyVDZ4M29tV2FpaHZlcDVUT0M2TlFHc2lQei1kQmROQlZBUXF0Y3pINHRYeHp0WEM4ZzVsWUJRc2p0bThCU2tubno4alU0V1Vham8wYkxRbVBBTHlaUlNSVU5OcDJrMzg?oc=5",
+      "dateLocation": "November 2026 | Reuters"
+    },
+    {
+      "headline": "Super Micro Forecasts Strong Quarterly Revenue On AI Demand",
+      "brief": "Super Micro Computer has forecasted quarterly revenue above Wall Street estimates, driven by an accelerating global demand for advanced artificial intelligence server infrastructure.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGxzdV85Qy15NnlQQ1Z0b0Rxbno1UFp3STZ6YVhKS0N5cUpyREUwR2c4ajMxRjJEUWE5SEdoMmJWR0Q2YnhfV3ExZHpvNVlKZ0ItUVE2S0E5QmZ4c0ZoUVJsaUNwX181dVI5aXdtZGpBLTBqZWlWYkMwYjc0YU1landiYkg2SVN5YjlqeEVNYURfX0ZBajlOM2pmU1pfMmpqaHFkTGFicmYzSlRaTnlpZ29WV05TckpKcVBqZGwycmktUQ?oc=5",
+      "dateLocation": "November 2026 | Reuters"
+    },
+    {
+      "headline": "Fairfax's $5.5 Billion IDBI Bank Bid Faces Opposition",
+      "brief": "Fairfax’s proposed $5.5 billion acquisition of India's IDBI Bank has encountered significant employee pushback and political resistance, creating hurdles for the mega financial transaction.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdnYyd1d6NDhFVHN5Y2diNGdPa29fb1NwWVJrQkloMjlneFZyZTEyOUVLTFItb3o4STloUUxnOE55b2xZNUpJWDI5RXNDZjBpUFJPdXF4enE5WHpxaXYxY3ctRW8xdS0yTjYxd2lzem1sOF8zb2pUaGdvdWFFVE95V3ZOOE0xY0hmOFhFRUktXzRRd3BXTV9aZ3lEcUJSbWs5STlOalFOa1lwU2taYVBHMFdzTVZ2NjVEQ3FkeXU2cUFZdVk?oc=5",
-      "dateLocation": "Nov 3, 2026 | Reuters"
+      "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "India Sees 2026 Gold Demand Dropping",
-      "brief": "Driven by a sustained surge in prices, India's gold demand is projected to decline to a six-year low, signaling a shift in retail consumer investment patterns.",
-      "category": "business",
+      "headline": "India's Gold Demand Projected To Fall To Six-Year Low",
+      "brief": "India's gold demand is anticipated to drop to a six-year low as continuous price surges cool retail buying sentiment across the world's second-biggest consumer market.",
+      "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUE0SkF5VEdGaDktM2p1UmtpczI2QnFrSGFYU2VrNl9FSkFBZWxDb05oU0dYWDN4SXpIYUxyVzc4Si1iNG9QcGJLTXhzUHlKMTljSFhTSHdCMG5FZkx3WU5SN2R3bUFscjV1YzNYdk80YU5taEQtUUEyam04RVlvOExYWk51YVhZRnUxb3J2bjlsQ0VCeTJmbXpMMGYtLUxGckVqM0tZNjB1ZFI3?oc=5",
-      "dateLocation": "Nov 3, 2026 | Reuters"
+      "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "India Faces Prolonged Food Inflation Pressures",
-      "brief": "Consumers across India are grappling with extended food inflation impacting essential staples, including grains, chicken, and milk, prompting ongoing concern among economists.",
+      "headline": "Spain's Transport Minister Resigns Following Deadly Train Crash",
+      "brief": "Spain's transport minister announced his immediate resignation in the wake of another deadly train crash that has sparked nationwide outrage and intense safety scrutiny.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGEzd1ZNVFk3X2NudFhxN2Y2ZFVMVVVhMTNVNG5uem9QLXRZTF9FZEZGZkFCZnYtYW1lc2VueGFiQ1JJcW1qX2IxTFRGNDhZc2hPeFFvcFRTLXBTWC1uZEszTmI2RXhlNllBc1hxLWk2Mlp2VXAwQWxwMkZrdTY4OGhrS1pUUWw5OG5MNlp2ZDRNejVsVl9UUW9OZnktZEJraFVvV19tVE9vcUdhZHpKZUE4X3FmV3ZpZVFOTTVYaGwyNmd6?oc=5",
+      "dateLocation": "November 2026 | Reuters"
+    },
+    {
+      "headline": "US Midterm Elections 2026 Begin With Control of Congress at Stake",
+      "brief": "Voters head to the polls across the United States for the 2026 midterm elections, which will decide control of both the House and Senate amid high-stakes political tension.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece",
+      "dateLocation": "November 2026 | The Hindu"
+    },
+    {
+      "headline": "Supreme Court Rules Right to Protest Doesn't Justify Endless Occupation",
+      "brief": "India's Supreme Court ruled that the fundamental right to protest cannot be used to justify the indefinite and disruptive occupation of public spaces and sites.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/right-to-protest-cant-justify-endless-occupation-of-a-site-sc/articleshow/135512694.cms",
+      "dateLocation": "November 2026 | Times of India"
+    },
+    {
+      "headline": "Air India Seeks More Wide-Body Jets, Eyes Near-Term Profitability",
+      "brief": "Air India CEO announced that the airline is aggressively pursuing additional wide-body aircraft orders and expects to achieve sustainable profitability in the very near future.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEY1QllfLVNKb1piQ2RycTlUWkNueG4tWnppZzVxaFJFcUZoVXZFOXJDa1lwNENhdGhNU0twTFgyMXUtRGJWcXc3QTBjQnRqdEprLUgtYlg4Y2VyVW1KbHhFSDBTX2V4OUtDUmEwaEpITmxnNnJXMnlLMkVnLUJ1alFyNHhkbjFLLWN4MTFSSGQzYS1zR0ZtTjBmMEFMTUlscllycTlqTzNSek1SZzM4NklCSVVZcUVxYlhabU1B?oc=5",
+      "dateLocation": "November 2026 | Reuters"
+    },
+    {
+      "headline": "India Faces Prolonged Food Inflation Across Grains, Milk and Chicken",
+      "brief": "Persistent domestic supply chain challenges and erratic weather patterns have left India grappling with stubborn, prolonged food inflation affecting staples from grains to poultry and milk.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWNMZUNRMk9yWkZHQTk3Z09uRTRzWVNPMTFVTTBpZjRVNWlqUm5CeFU1ajhvbTlMb2M5Z2lsdFpkNWdvOS1ZS3NvOFRfMl9lYlV6b1I2cjY2WG1iZUtYb09VWTJrUlFLeWhmMnphcDlJQzE1ZHUtZkxsWk5USUZpbHp2NjVwUTUzcV94LTJvejhTQXVoTW44WWI2bFE2NzdBSHBvd3ZQNA?oc=5",
-      "dateLocation": "Nov 3, 2026 | Reuters"
+      "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "Air India Seeks Wide-Body Jets for Growth",
-      "brief": "Air India's CEO announced plans to acquire additional wide-body aircraft, noting that the carrier expects to achieve profitability in the near future.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEY1QllfLVNKb1piQ2RycTlUWkNueG4tWnppZzVxaFJFcUZoVXZFOXJDa1lwNENhdGhNU0twTFgyMXUtRGJWcXc3QTBjQnRqdEprLUgtYlg4Y2VyVW1KbHhFSDBTX2V4OUtDUmEwaEpITmxnNnJXMnlLMkVnLUJ1alFyNHhkbjFLLWN4MTFSSGQzYS1zR0ZtTjBmMEFMTUlscllycTlqTzNSek1SZzM4NklCSVVZcUVxYlhabU1B?oc=5",
-      "dateLocation": "Nov 3, 2026 | Reuters"
-    },
-    {
-      "headline": "Cyclone Murasu Makes Landfall on Eastern Coast",
-      "brief": "Cyclone Murasu has officially made landfall on India's eastern coast, prompting emergency control rooms to activate and authorities to issue local safety advisories.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjBFTFduRXdIeGJiVnJ5cW1pTHpxa0hGTk1jLVJBeGdwemxmUzBYZ09CNEpkdG9FQzBITi1uSE5MdDgtMnZ3dWRWck55cV9Wa212STB5RXJ5TlFGa3p3NkdLV2VUbld2bjFmZllQUUpka2gxaDBPY0FzaEF6WVpGUGVfdEc0M2dQWk1Qc3BPWmw0Q2Q1bVJLUElqbEY3Y1RrOWF3N09tNTRhbTB2RVROdnF6U2ZLUQ?oc=5",
-      "dateLocation": "Nov 3, 2026 | Reuters"
-    },
-    {
-      "headline": "Severe Air Pollution Chokes Delhi and Lahore",
-      "brief": "Hazardous smog and spikes in air pollution levels have severely impacted major urban centers across South Asia, with Delhi's AQI soaring past critical thresholds.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHBVRUY1eTVrLXhSQ05QeUs1WWtXZkxkTVdRQzBTOTByNm5lOFNpZ1ExSV9TTHVyU2pubVdkbHd5Y2ppTjNPYU41X18yQm5aYVdHREc2cE96Rmgyb0Q0QjdLRVg5SjRjc0FtVUYzV01BUDFXMWhiM3JlT2tzam9ydVh4Z0JNQ3V5M1piakhhS2x5ME9xcXNsME02dUpNWHd0aVh5dGdCUUdJSjlfUjhubE5Mcw?oc=5",
-      "dateLocation": "Nov 3, 2026 | Reuters"
-    },
-    {
-      "headline": "Global Oil Prices Rise Amid Iran Conflict",
-      "brief": "Crude oil prices advanced as Tehran signaled that a diplomatic resolution remains distant following recent military escalations and US airstrikes in the region.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5",
-      "dateLocation": "Nov 3, 2026 | Reuters"
-    },
-    {
-      "headline": "Bomb Threats Force Operations Disruption in Warsaw",
-      "brief": "Security alerts triggered by bomb threats disrupted scheduled flight operations at airports in Warsaw, impacting incoming international commercial services.",
+      "headline": "Binance Hackers Exploited Fake Job Interviews in $6.3B Breach",
+      "brief": "Investigators reveal that hackers targeted cryptocurrency exchange Binance using sophisticated fake job interview ploys as an entry vector in a massive $6.3 billion security breach.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/bomb-threats-disrupt-operations-at-warsaw-airports/article71660977.ece",
-      "dateLocation": "Nov 3, 2026 | The Hindu"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5",
+      "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "India to Champion Equitable Climate Finance at COP31",
-      "brief": "Union Environment Minister Bhupender Yadav stated that India will advocate for predictable, non-debt climate support for the Global South at the upcoming COP31 summit.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/india/india-to-push-for-equitable-climate-finance-practical-solutions-at-cop31-11793707012705.html",
-      "dateLocation": "Nov 3, 2026 | Livemint"
+      "headline": "Cyclone Murasu Makes Landfall Along India's Eastern Coast",
+      "brief": "Cyclone Murasu has officially made landfall on India's eastern coast, prompting emergency evacuations, disaster response deployments, and heavy rainfall alerts across coastal districts.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjBFTFduRXdIeGJiVnJ5cW1pTHpxa0hGTk1jLVJBeGdwemxmUzBYZ09CNEpkdG9FQzBITi1uSE5MdDgtMnZ3dWRWck55cV9Wa212STB5RXJ5TlFGa3p3NkdLV2VUbld2bjFmZllQUUpka2gxaDBPY0FzaEF6WVpGUGVfdEc0M2dQWk1Qc3BPWmluNGQ1bVJLUElqbEY3Y1RrOWF3N09tNTRhbTB2RVROdnF6U2ZLUQ?oc=5",
+      "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "US Midterms: Democrats Gain Edge in Senate Bets",
-      "brief": "Prediction markets and polling data indicate strong competitive momentum for Democratic candidates across several key battleground Senate races in the ongoing midterm elections.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-midterm-elections-2026-prediction-markets-bet-on-democrats-winning-senate-republicans-face-tough-battleground-fight-11793705871831.html",
-      "dateLocation": "Nov 3, 2026 | Livemint"
-    },
-    {
-      "headline": "Tata-Iveco Combination to Form Major CV Group",
-      "brief": "Tata Motors and Iveco are reportedly uniting to establish the world's fourth largest commercial vehicle group, boasting massive combined annual revenue.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-iveco-combination-to-form-worlds-4th-largest-cv-group-with-rs-2-28-lakh-cr-in-revenue/articleshow/135501084.cms",
-      "dateLocation": "Nov 3, 2026 | Economic Times"
-    },
-    {
-      "headline": "Vaishnavi Sharma Climbs ICC ODI Rankings",
-      "brief": "Following a stellar bowling performance against Zimbabwe, Indian cricketer Vaishnavi Sharma made a massive fifty-spot leap in the latest international ODI player rankings.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/up-53-spots-vaishnavi-sharma-makes-giant-leap-in-icc-odi-rankings-after-stunning-spells-against-zimbabwe/articleshow/135497039.cms",
-      "dateLocation": "Nov 3, 2026 | Times of India"
-    },
-    {
-      "headline": "Health Ministry Seeks Better Pollution Tracking",
-      "brief": "Amid worsening winter smog crises, India's health ministry has instructed state administrations to implement rigorous standardized coding and tracking for pollution-linked illnesses.",
+      "headline": "Authorities Seize And Destroy 7,000 Kg of Unhygienic Khoya in Delhi",
+      "brief": "Delhi authorities seized and destroyed 7,000 kilograms of foul-smelling, unhygienic khoya after dozens of preliminary food safety tests failed at mobile testing checkpoints.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/india-seeks-clearer-evidence-of-air-pollutions-health-impact-as-smog-worsens-11793693651332.html",
-      "dateLocation": "Nov 3, 2026 | Livemint"
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/7000-kg-of-unhygienic-foul-smelling-khoya-seized-destroyed-delhi-cmo/article71661985.ece",
+      "dateLocation": "November 2026 | The Hindu"
+    },
+    {
+      "headline": "Indian Drugmakers May Face Mandatory Batch Certification Experts",
+      "brief": "India's booming $60 billion pharmaceutical industry faces stricter regulatory requirements, potentially necessitating designated certified experts to oversee batch releases before market sale.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/pharma-industry-drug-batch-release-medicines-market-11793721164354.html",
+      "dateLocation": "November 2026 | LiveMint"
+    },
+    {
+      "headline": "Bracewell Anticipates Even Contests in Upcoming One-Day Cricket Series",
+      "brief": "Ahead of upcoming limited-overs fixtures, coach Bracewell highlighted the evolving tactical challenges spinners face and expects balanced, highly competitive contests in ODI cricket.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/bracewell-expects-even-contests-in-one-dayers/article71662828.ece",
+      "dateLocation": "November 2026 | The Hindu"
+    },
+    {
+      "headline": "NASCAR Driver Carson Hocevar Suspended After Martinsville Incident",
+      "brief": "Spire Motorsports has suspended NASCAR driver Carson Hocevar following aggressive driving maneuvers and repeated brake-checking directed at Austin Cindric during the Martinsville race.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/why-nascars-carson-hocevar-was-suspended-by-spire-motorsports-after-repeatedly-brake-checking-austin-cindric-at-martinsville/articleshow/135513458.cms",
+      "dateLocation": "November 2026 | Economic Times"
     }
   ]
 }
