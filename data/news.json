@@ -1,96 +1,117 @@
 {
-  "lastUpdated": "2026-11-02T14:42:51.316Z",
+  "lastUpdated": "2026-11-03T00:28:18.969Z",
   "ticker": [
-    "Cyclone Murasu hits Andhra coast",
-    "Delhi AQI reaches 324, GRAP-2 invoked",
-    "US midterm elections approach",
-    "Reliance posts strong market gains",
-    "OpenAI signs major UAE deal"
+    "Cyclone Murasu makes landfall in Andhra Pradesh with severe gales",
+    "Apple beats Wall Street Q2 expectations on strong iPhone sales",
+    "Ukraine reports 24 dead following Russian strike on aid center",
+    "India and UK move closer to resolving Scotch tariff dispute",
+    "Reliance Industries posts historic stock surge on strong oil outlook"
   ],
   "articles": [
     {
-      "headline": "Cyclone Murasu intensifies toward Andhra Pradesh coast",
-      "brief": "Cyclone Murasu is projected to cross the south Andhra Pradesh coast with winds reaching up to 120 kmph, bringing severe heavy rainfall. Multiple states are on high alert as authorities evacuate thousands and preposition disaster response teams.",
+      "headline": "India Moves to Resolve Scotch Tariff Dispute with UK",
+      "brief": "India is working to resolve a long-standing Scotch whisky tariff dispute under the framework of an upcoming UK trade pact, according to insider sources. The breakthrough aims to lower import duties on British spirits, satisfying a key demand from UK negotiators and paving the way for a comprehensive bilateral trade agreement.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejNZeU16MndWU3VSckp3bDJ4YXgzQ0Rnb1Ftb2daeWRlVHZsQkxjY2U4ODVvRUJrM1VtMXl6UnQ5STlfcFVtYzF1YnpCaUZfWExkLUhkaEU4SFE4T2tQRHZoN3J0QVBUbUtCSThZcF8yYVJCbndSeFFVTjZCa0Y3RE5iUS1hUUM4d1dIQjRvVlZMNFViTWd4cllEVmdHWTJfQ0x5Tjk5SzlDeUtmMXRfM0hsSm9TX294dTJv?oc=5",
+      "dateLocation": "November 3, 2026 | New Delhi"
+    },
+    {
+      "headline": "Severe Cyclone Murasu Makes Landfall Near Ongole",
+      "brief": "Severe Cyclone Murasu has commenced its landfall close to Ongole in Andhra Pradesh, bringing destructive gale-force winds up to 120 kmph. Thousands of residents have been evacuated from coastal areas, and widespread transport disruptions, including dozens of flight cancellations, are reported across multiple airports as authorities monitor the severe weather threat.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/cyclone-murasu-to-make-landfall-near-at-andhra-coast-tonight-120-kmph-winds-expected/articleshow/135464816.cms",
-      "dateLocation": "Nov 2, 2026 | New Delhi, India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamt2aGgxc1Nia3g0N3czYnM3M1Qxa2VNR19DN1hYUTdkVWkxMzRxdlJuUXluTm9NdDRQdHZxTU4zOV9BVzV2a0dfQUVPQlRObDRDU0pmbWVXWnBEdlFIQ2NtY2NWdmRGREtLYUJNeDNMeFFlSUs5ZTRRM0NRMmh4cFYwUWVxOXVNczJmajh3LWIzT2lHalNFaDJxMlJVc25tWTZjODFpR01KODU2?oc=5",
+      "dateLocation": "November 3, 2026 | Andhra Pradesh"
     },
     {
-      "headline": "Delhi air quality drops to 'very poor'",
-      "brief": "Delhi's air quality index deteriorated to 324, prompting the Commission for Air Quality Management to invoke Stage-II of the Graded Response Action Plan. Authorities implemented strict border checks, dust control measures, and vehicle restrictions across the national capital region.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-records-seasons-first-very-poor-aqi-at-324-grap-2-curbs-imposed-border-checks-snarl-traffic/articleshow/135463669.cms",
-      "dateLocation": "Nov 2, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "US Democrats eye Senate control in midterms",
-      "brief": "Democrats are pushing to flip crucial Republican-held Senate seats as voters head to the polls in the upcoming midterm elections. Ongoing voter concerns over the economy, cost of living, and administrative approval ratings are expected to heavily influence the final outcomes.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/us-midterms-2026-can-democrats-flip-four-republican-held-senate-seats-11-key-races-to-watch-from-texas-to-ohio-11793620887314.html",
-      "dateLocation": "Nov 2, 2026 | Washington, USA"
-    },
-    {
-      "headline": "Reliance stock surges on strong outlook",
-      "brief": "India's Reliance Industries posted its best single-day market performance in over six years, driven by robust oil business earnings and promising outlooks from Jio Platforms. The rally significantly lifted broader market benchmarks.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5",
-      "dateLocation": "Nov 2, 2026 | Mumbai, India"
-    },
-    {
-      "headline": "OpenAI signs strategic partnership in UAE",
-      "brief": "Abu Dhabi's ADNOC and G42 have signed a landmark agreement with OpenAI during Sam Altman's visit to the region, highlighting expanding artificial intelligence infrastructure investments and enterprise collaborations across the Middle East.",
+      "headline": "Apple Q2 Results Beat Wall Street Expectations",
+      "brief": "Apple reported quarterly financial results that surpassed Wall Street consensus estimates, largely driven by unexpectedly robust iPhone sales globally. The tech giant's performance helped soothe investor anxieties regarding consumer electronics demand and broader macroeconomic headwinds facing major hardware manufacturers.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
-      "dateLocation": "Nov 2, 2026 | Abu Dhabi, UAE"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE?oc=5",
+      "dateLocation": "November 3, 2026 | Cupertino"
     },
     {
-      "headline": "UK to reveal major migrant settlement overhaul",
-      "brief": "The United Kingdom government is set to unveil a comprehensive overhaul of its migrant settlement policies following months of intense parliamentary debate and policy reviews aimed at restructuring the domestic immigration framework.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHlDMjA3R2E1a0lESG95YlBSVWYxTFJOWnQtajNkQ3otV2dmTEFUd3AzWFlreFpjd0hfY0NZVGhDQ0Z3ZDhUUThtTjlOZWktY3BJUHFMb3Ytcy1QUXNVOWt4NjJoMlBoemtjWDVyQkxWaXZTRVFpX1pCZ3EweFdoYUUyTlhzWHlVX2M2Rkt4VUs2RGpKclo3WTByRm94RWpucjBpbQ?oc=5",
-      "dateLocation": "Nov 2, 2026 | London, UK"
-    },
-    {
-      "headline": "Palantir's Alex Karp buys Swedish forest",
-      "brief": "Palantir CEO Alex Karp has acquired 15,000 hectares of forest land in Sweden through his investment firm Cladonia Skog AB for approximately $22 million, leading to the termination of local hunting leases as preservation plans take effect.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/palantirs-alex-karp-is-now-a-forest-owner-buys-37000-acres-in-sweden-for-reported-22-million-why-hunters-can-no-longer-enter-it/articleshow/135460621.cms",
-      "dateLocation": "Nov 2, 2026 | Stockholm, Sweden"
-    },
-    {
-      "headline": "Markets regulator backs capital gains tax removal",
-      "brief": "India's market regulator has reportedly expressed support for removing long-term capital gains tax for foreign portfolio investors, a move intended to attract higher foreign capital inflows into domestic equity markets.",
+      "headline": "India Regulator Backs Scrapping Foreign Capital Gains Tax",
+      "brief": "India's financial market regulator has reportedly backed proposals to scrap long-term capital gains tax for foreign investors. Sources indicate the move is designed to boost overseas portfolio inflows and enhance the global competitiveness of Indian capital markets.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5",
-      "dateLocation": "Nov 2, 2026 | Mumbai, India"
+      "dateLocation": "November 3, 2026 | Mumbai"
     },
     {
-      "headline": "Ukraine and Russia emergency apps hit by cyberattacks",
-      "brief": "Emergency alert applications in both Ukraine and Russia experienced widespread cyberattacks, resulting in unauthorized tampering and the dissemination of fake nuclear radiation warnings to users before services were temporarily suspended.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/ukraine-russia-emergency-alert-apps-hit-by-cyberattacks-fake-nuclear-radiation-alerts-sent-to-users-what-we-know-11793616267791.html",
-      "dateLocation": "Nov 2, 2026 | Kyiv/Moscow"
+      "headline": "Reliance Posts Record Gains on Oil and Jio Growth",
+      "brief": "Reliance Industries recorded its best single-day stock rally in over six years, propelled by optimistic outlooks for its core oil business and Jio Platforms. The massive surge significantly boosted billionaire Mukesh Ambani's net worth and injected fresh momentum into broader equity markets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5",
+      "dateLocation": "November 3, 2026 | Mumbai"
     },
     {
-      "headline": "PM Modi warns fossil fuels threaten global economy",
-      "brief": "Prime Minister Narendra Modi emphasized that excessive dependence on fossil fuels poses a direct threat to global economic stability and energy security, urging accelerated international transitions toward clean and sustainable energy frameworks.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/energy-securitys-future-lies-in-clean-energy-pm-modi-says-fossil-fuel-dependence-disrupts-global-economy/articleshow/135464120.cms",
-      "dateLocation": "Nov 2, 2026 | New Delhi, India"
+      "headline": "ADNOC and G42 Partner with OpenAI in Strategic Deal",
+      "brief": "Abu Dhabi's state oil firm ADNOC and tech group G42 have signed a strategic agreement with OpenAI. The partnership was finalized during Sam Altman's high-profile visit to the United Arab Emirates, marking another major milestone in the region's aggressive push into artificial intelligence infrastructure.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+      "dateLocation": "November 3, 2026 | Abu Dhabi"
     },
     {
-      "headline": "BCCI announces India A squad for Asia Cup",
-      "brief": "The Board of Control for Cricket in India has officially announced the India A squad for the upcoming Asia Cup tournament, featuring promising young talents led by Tilak Varma alongside standout performers.",
+      "headline": "Glenn Maxwell Announces Retirement from International Cricket",
+      "brief": "Australia all-rounder Glenn Maxwell has officially concluded his illustrious international cricket career. Having already retired from one-day internationals last year and test matches in 2017, Maxwell's final departure closes the door on a dynamic career defined by explosive limited-overs performances.",
       "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-announces-india-a-squad-for-asia-cup/articleshow/135462592.cms",
-      "dateLocation": "Nov 2, 2026 | Mumbai, India"
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/australias-glenn-maxwell-calls-time-on-international-career/article71659185.ece",
+      "dateLocation": "November 3, 2026 | Sydney"
     },
     {
-      "headline": "Apple plans major iPad refresh for 2027",
-      "brief": "Technology giant Apple is reportedly preparing a major hardware refresh for its iPad lineup scheduled for 2027, featuring updated iterations of both iPad Air and iPad Pro models with advanced internal specifications.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-plans-major-ipad-refresh-in-2027-new-ipad-air-and-pro-models-expected-latest-model-launch-iphone-duo/articleshow/135463825.cms",
-      "dateLocation": "Nov 2, 2026 | Cupertino, USA"
+      "headline": "NCP Leaders Express Dissatisfaction Following Amit Shah Talks",
+      "brief": "Senior Nationalist Congress Party leaders expressed deep discontent during a core committee meeting following discussions with Union Home Minister Amit Shah. The disgruntled faction reportedly voiced frustrations regarding internal party management under Sunetra Pawar and Parth Pawar, signaling potential turbulence within the political alliance.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/ncp-leaders-express-discontent-in-core-committee-meeting-after-talks-with-amit-shah/article71658188.ece",
+      "dateLocation": "November 3, 2026 | New Delhi"
+    },
+    {
+      "headline": "Rahul Gandhi Challenges PM Modi to Open Foreign Help Debate",
+      "brief": "Congress leader Rahul Gandhi has publicly challenged Prime Minister Narendra Modi to an open debate regarding allegations of foreign assistance in domestic politics. The challenge escalates ongoing political friction after the Prime Minister accused opposition parties of soliciting foreign intervention to destabilize the government.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/rahul-gandhi-challenges-pm-modi-to-open-debate-on-foreign-help/article71657690.ece",
+      "dateLocation": "November 3, 2026 | New Delhi"
+    },
+    {
+      "headline": "Novartis Heart Drug Trial Failure Leaves Doctors Searching for Answers",
+      "brief": "The recent clinical trial failure of a prominent Novartis heart drug has left medical professionals searching for alternative evidence regarding genetic cholesterol targets. The setback raises clinical questions about treating specific lipid pathways and forces researchers to reevaluate current drug pipelines.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORklJSEw2b2RtMkNSZS1JbWpJNEhiUTIwTzlqbmVzclg2Um5vWkc3MDl0N2hBclhYSWVnTlJmWjZLdGkyaUxMTGVDTkNiR2NqM1pUYndMQ0s0ZVdyYWdsRDBoMU5KczJjQ1oxRnlHb0h0VzF5WGE5QzE2U25TbW92bXI4cmVMMmlGT2NkLURGUEtHZW4yM053VGlZbWJpcTc5MlhtaFdmRGJmNFNJVjh3cTlFYXpLTlFEZEVaOE9la2hWenNnVHp6dWl5ckU5RWY5YkcycGZtc29seTJlVGJzTTJ3bTVNdw?oc=5",
+      "dateLocation": "November 3, 2026 | Geneva"
+    },
+    {
+      "headline": "Russian Strike on Ukrainian Aid Center Kills 24",
+      "brief": "A deadly Russian air strike hit a humanitarian aid center in southern Ukraine, resulting in the deaths of at least 24 civilians. Local authorities condemned the attack as part of an ongoing pattern of assaults targeting non-military infrastructure and driving up civilian casualties across the region.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/ukraine-says-russian-strike-on-humanitarian-aid-center-kills-24-11793651572830.html",
+      "dateLocation": "November 3, 2026 | Kyiv"
+    },
+    {
+      "headline": "India Inks ₹53,866 Crore Deal for Eight Warships",
+      "brief": "The Indian government has finalized contracts worth ₹53,866 crore with domestic shipyards to construct eight next-generation corvettes for the Navy. Equipped with advanced weaponry and sensors, these warships are designed to substantially bolster national maritime security, coastal defense, and indigenous shipbuilding capabilities.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/why-india-inked-53-866-crore-deal-for-8-new-warships-how-next-generation-corvettes-will-boost-navys-capabilities-11793642579701.html",
+      "dateLocation": "November 3, 2026 | New Delhi"
+    },
+    {
+      "headline": "Supreme Court Restricts Firecrackers to Specified Diwali Hours",
+      "brief": "The Supreme Court has permitted the use of certified green firecrackers in the Delhi-NCR region specifically for November 7 and 8, strictly limiting bursting to designated morning and evening hours. The ruling aims to balance traditional celebrations with air pollution mitigation measures.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/diwali-2026-with-green-crackers-what-are-approvals-required-by-firework-manufacturers-as-sc-allows-bursting-on-nov-7-8-11793643481423.html",
+      "dateLocation": "November 3, 2026 | New Delhi"
+    },
+    {
+      "headline": "Indian Navy Rescues 20 Crew Members from Somali Pirates",
+      "brief": "The Indian Navy successfully rescued 20 crew members of a commercial fishing vessel from armed pirates during an operation conducted over 3,000 kilometers from Mumbai. Defense officials praised the coordinated 48-hour mission for safeguarding regional shipping lanes.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/navy-rescues-20-crew-members-of-fishing-vessel-from-armed-pirates-over-3000km-from-mumbai-rajnath-praises-48-hr-op/articleshow/135473804.cms",
+      "dateLocation": "November 3, 2026 | New Delhi"
+    },
+    {
+      "headline": "Supreme Court Rules Marital Discord Not Ground for Abortion",
+      "brief": "India's Supreme Court has ruled that marital discord between spouses does not constitute a valid legal ground for the termination of pregnancy under current statutory provisions. The judgment clarifies the boundaries of medical termination rights amidst complex family disputes.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/marital-discord-no-ground-for-termination-of-pregnancy-sc/articleshow/135477214.cms",
+      "dateLocation": "November 3, 2026 | New Delhi"
     }
   ]
 }
