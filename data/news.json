@@ -1,117 +1,103 @@
 {
-  "lastUpdated": "2026-11-03T00:28:18.969Z",
+  "lastUpdated": "2026-11-03T13:35:33.278Z",
   "ticker": [
-    "Cyclone Murasu makes landfall in Andhra Pradesh with severe gales",
-    "Apple beats Wall Street Q2 expectations on strong iPhone sales",
-    "Ukraine reports 24 dead following Russian strike on aid center",
-    "India and UK move closer to resolving Scotch tariff dispute",
-    "Reliance Industries posts historic stock surge on strong oil outlook"
+    "US Midterms Underway with Senate Races Tight",
+    "Air Pollution Chokes Delhi and Lahore",
+    "Oil Prices Rise as Iran Conflict Persists",
+    "Cyclone Murasu Strikes India's Eastern Coast",
+    "Bomb Threats Disrupt Multiple European Flights"
   ],
   "articles": [
     {
-      "headline": "India Moves to Resolve Scotch Tariff Dispute with UK",
-      "brief": "India is working to resolve a long-standing Scotch whisky tariff dispute under the framework of an upcoming UK trade pact, according to insider sources. The breakthrough aims to lower import duties on British spirits, satisfying a key demand from UK negotiators and paving the way for a comprehensive bilateral trade agreement.",
+      "headline": "Fairfax's IDBI Bank Bid Faces Opposition",
+      "brief": "Fairfax's $5.5 billion proposed acquisition of India's IDBI Bank has encountered significant political and employee resistance, complicating the high-profile financial transaction.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdnYyd1d6NDhFVHN5Y2diNGdPa29fb1NwWVJrQkloMjlneFZyZTEyOUVLTFItb3o4STloUUxnOE55b2xZNUpJWDI5RXNDZjBpUFJPdXF4enE5WHpxaXYxY3ctRW8xdS0yTjYxd2lzem1sOF8zb2pUaGdvdWFFVE95V3ZOOE0xY0hmOFhFRUktXzRRd3BXTV9aZ3lEcUJSbWs5STlOalFOa1lwU2taYVBHMFdzTVZ2NjVEQ3FkeXU2cUFZdVk?oc=5",
+      "dateLocation": "Nov 3, 2026 | Reuters"
+    },
+    {
+      "headline": "India Sees 2026 Gold Demand Dropping",
+      "brief": "Driven by a sustained surge in prices, India's gold demand is projected to decline to a six-year low, signaling a shift in retail consumer investment patterns.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejNZeU16MndWU3VSckp3bDJ4YXgzQ0Rnb1Ftb2daeWRlVHZsQkxjY2U4ODVvRUJrM1VtMXl6UnQ5STlfcFVtYzF1YnpCaUZfWExkLUhkaEU4SFE4T2tQRHZoN3J0QVBUbUtCSThZcF8yYVJCbndSeFFVTjZCa0Y3RE5iUS1hUUM4d1dIQjRvVlZMNFViTWd4cllEVmdHWTJfQ0x5Tjk5SzlDeUtmMXRfM0hsSm9TX294dTJv?oc=5",
-      "dateLocation": "November 3, 2026 | New Delhi"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUE0SkF5VEdGaDktM2p1UmtpczI2QnFrSGFYU2VrNl9FSkFBZWxDb05oU0dYWDN4SXpIYUxyVzc4Si1iNG9QcGJLTXhzUHlKMTljSFhTSHdCMG5FZkx3WU5SN2R3bUFscjV1YzNYdk80YU5taEQtUUEyam04RVlvOExYWk51YVhZRnUxb3J2bjlsQ0VCeTJmbXpMMGYtLUxGckVqM0tZNjB1ZFI3?oc=5",
+      "dateLocation": "Nov 3, 2026 | Reuters"
     },
     {
-      "headline": "Severe Cyclone Murasu Makes Landfall Near Ongole",
-      "brief": "Severe Cyclone Murasu has commenced its landfall close to Ongole in Andhra Pradesh, bringing destructive gale-force winds up to 120 kmph. Thousands of residents have been evacuated from coastal areas, and widespread transport disruptions, including dozens of flight cancellations, are reported across multiple airports as authorities monitor the severe weather threat.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamt2aGgxc1Nia3g0N3czYnM3M1Qxa2VNR19DN1hYUTdkVWkxMzRxdlJuUXluTm9NdDRQdHZxTU4zOV9BVzV2a0dfQUVPQlRObDRDU0pmbWVXWnBEdlFIQ2NtY2NWdmRGREtLYUJNeDNMeFFlSUs5ZTRRM0NRMmh4cFYwUWVxOXVNczJmajh3LWIzT2lHalNFaDJxMlJVc25tWTZjODFpR01KODU2?oc=5",
-      "dateLocation": "November 3, 2026 | Andhra Pradesh"
+      "headline": "India Faces Prolonged Food Inflation Pressures",
+      "brief": "Consumers across India are grappling with extended food inflation impacting essential staples, including grains, chicken, and milk, prompting ongoing concern among economists.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWNMZUNRMk9yWkZHQTk3Z09uRTRzWVNPMTFVTTBpZjRVNWlqUm5CeFU1ajhvbTlMb2M5Z2lsdFpkNWdvOS1ZS3NvOFRfMl9lYlV6b1I2cjY2WG1iZUtYb09VWTJrUlFLeWhmMnphcDlJQzE1ZHUtZkxsWk5USUZpbHp2NjVwUTUzcV94LTJvejhTQXVoTW44WWI2bFE2NzdBSHBvd3ZQNA?oc=5",
+      "dateLocation": "Nov 3, 2026 | Reuters"
     },
     {
-      "headline": "Apple Q2 Results Beat Wall Street Expectations",
-      "brief": "Apple reported quarterly financial results that surpassed Wall Street consensus estimates, largely driven by unexpectedly robust iPhone sales globally. The tech giant's performance helped soothe investor anxieties regarding consumer electronics demand and broader macroeconomic headwinds facing major hardware manufacturers.",
+      "headline": "Air India Seeks Wide-Body Jets for Growth",
+      "brief": "Air India's CEO announced plans to acquire additional wide-body aircraft, noting that the carrier expects to achieve profitability in the near future.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGFsc2NMYXRUbERoRkphY2hPVWNDM0ZRRmw3OHZzNnlfN0h1aEowUG9uaHZraTJPNlcyVFVYZGVjYmx2Ui01d09OTm9YejM3UGF1aUJKcHVUSUxxb0ZGNTktQmVuRVF0X0pKYTF2clJ6YnJpVmNmUEZESHc4ZWRqMkt1d0VyMEV2RVZlUkYtUE9EcW03ZXB5RzFmQk01endLRWtzNFpnVGd4el90TFUxLWhxaXRxYUsyT1lmbjIySjQ2NXcxdVE?oc=5",
-      "dateLocation": "November 3, 2026 | Cupertino"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEY1QllfLVNKb1piQ2RycTlUWkNueG4tWnppZzVxaFJFcUZoVXZFOXJDa1lwNENhdGhNU0twTFgyMXUtRGJWcXc3QTBjQnRqdEprLUgtYlg4Y2VyVW1KbHhFSDBTX2V4OUtDUmEwaEpITmxnNnJXMnlLMkVnLUJ1alFyNHhkbjFLLWN4MTFSSGQzYS1zR0ZtTjBmMEFMTUlscllycTlqTzNSek1SZzM4NklCSVVZcUVxYlhabU1B?oc=5",
+      "dateLocation": "Nov 3, 2026 | Reuters"
     },
     {
-      "headline": "India Regulator Backs Scrapping Foreign Capital Gains Tax",
-      "brief": "India's financial market regulator has reportedly backed proposals to scrap long-term capital gains tax for foreign investors. Sources indicate the move is designed to boost overseas portfolio inflows and enhance the global competitiveness of Indian capital markets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5",
-      "dateLocation": "November 3, 2026 | Mumbai"
-    },
-    {
-      "headline": "Reliance Posts Record Gains on Oil and Jio Growth",
-      "brief": "Reliance Industries recorded its best single-day stock rally in over six years, propelled by optimistic outlooks for its core oil business and Jio Platforms. The massive surge significantly boosted billionaire Mukesh Ambani's net worth and injected fresh momentum into broader equity markets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5",
-      "dateLocation": "November 3, 2026 | Mumbai"
-    },
-    {
-      "headline": "ADNOC and G42 Partner with OpenAI in Strategic Deal",
-      "brief": "Abu Dhabi's state oil firm ADNOC and tech group G42 have signed a strategic agreement with OpenAI. The partnership was finalized during Sam Altman's high-profile visit to the United Arab Emirates, marking another major milestone in the region's aggressive push into artificial intelligence infrastructure.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
-      "dateLocation": "November 3, 2026 | Abu Dhabi"
-    },
-    {
-      "headline": "Glenn Maxwell Announces Retirement from International Cricket",
-      "brief": "Australia all-rounder Glenn Maxwell has officially concluded his illustrious international cricket career. Having already retired from one-day internationals last year and test matches in 2017, Maxwell's final departure closes the door on a dynamic career defined by explosive limited-overs performances.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/australias-glenn-maxwell-calls-time-on-international-career/article71659185.ece",
-      "dateLocation": "November 3, 2026 | Sydney"
-    },
-    {
-      "headline": "NCP Leaders Express Dissatisfaction Following Amit Shah Talks",
-      "brief": "Senior Nationalist Congress Party leaders expressed deep discontent during a core committee meeting following discussions with Union Home Minister Amit Shah. The disgruntled faction reportedly voiced frustrations regarding internal party management under Sunetra Pawar and Parth Pawar, signaling potential turbulence within the political alliance.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/ncp-leaders-express-discontent-in-core-committee-meeting-after-talks-with-amit-shah/article71658188.ece",
-      "dateLocation": "November 3, 2026 | New Delhi"
-    },
-    {
-      "headline": "Rahul Gandhi Challenges PM Modi to Open Foreign Help Debate",
-      "brief": "Congress leader Rahul Gandhi has publicly challenged Prime Minister Narendra Modi to an open debate regarding allegations of foreign assistance in domestic politics. The challenge escalates ongoing political friction after the Prime Minister accused opposition parties of soliciting foreign intervention to destabilize the government.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/rahul-gandhi-challenges-pm-modi-to-open-debate-on-foreign-help/article71657690.ece",
-      "dateLocation": "November 3, 2026 | New Delhi"
-    },
-    {
-      "headline": "Novartis Heart Drug Trial Failure Leaves Doctors Searching for Answers",
-      "brief": "The recent clinical trial failure of a prominent Novartis heart drug has left medical professionals searching for alternative evidence regarding genetic cholesterol targets. The setback raises clinical questions about treating specific lipid pathways and forces researchers to reevaluate current drug pipelines.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORklJSEw2b2RtMkNSZS1JbWpJNEhiUTIwTzlqbmVzclg2Um5vWkc3MDl0N2hBclhYSWVnTlJmWjZLdGkyaUxMTGVDTkNiR2NqM1pUYndMQ0s0ZVdyYWdsRDBoMU5KczJjQ1oxRnlHb0h0VzF5WGE5QzE2U25TbW92bXI4cmVMMmlGT2NkLURGUEtHZW4yM053VGlZbWJpcTc5MlhtaFdmRGJmNFNJVjh3cTlFYXpLTlFEZEVaOE9la2hWenNnVHp6dWl5ckU5RWY5YkcycGZtc29seTJlVGJzTTJ3bTVNdw?oc=5",
-      "dateLocation": "November 3, 2026 | Geneva"
-    },
-    {
-      "headline": "Russian Strike on Ukrainian Aid Center Kills 24",
-      "brief": "A deadly Russian air strike hit a humanitarian aid center in southern Ukraine, resulting in the deaths of at least 24 civilians. Local authorities condemned the attack as part of an ongoing pattern of assaults targeting non-military infrastructure and driving up civilian casualties across the region.",
+      "headline": "Cyclone Murasu Makes Landfall on Eastern Coast",
+      "brief": "Cyclone Murasu has officially made landfall on India's eastern coast, prompting emergency control rooms to activate and authorities to issue local safety advisories.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/ukraine-says-russian-strike-on-humanitarian-aid-center-kills-24-11793651572830.html",
-      "dateLocation": "November 3, 2026 | Kyiv"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjBFTFduRXdIeGJiVnJ5cW1pTHpxa0hGTk1jLVJBeGdwemxmUzBYZ09CNEpkdG9FQzBITi1uSE5MdDgtMnZ3dWRWck55cV9Wa212STB5RXJ5TlFGa3p3NkdLV2VUbld2bjFmZllQUUpka2gxaDBPY0FzaEF6WVpGUGVfdEc0M2dQWk1Qc3BPWmw0Q2Q1bVJLUElqbEY3Y1RrOWF3N09tNTRhbTB2RVROdnF6U2ZLUQ?oc=5",
+      "dateLocation": "Nov 3, 2026 | Reuters"
     },
     {
-      "headline": "India Inks ₹53,866 Crore Deal for Eight Warships",
-      "brief": "The Indian government has finalized contracts worth ₹53,866 crore with domestic shipyards to construct eight next-generation corvettes for the Navy. Equipped with advanced weaponry and sensors, these warships are designed to substantially bolster national maritime security, coastal defense, and indigenous shipbuilding capabilities.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/why-india-inked-53-866-crore-deal-for-8-new-warships-how-next-generation-corvettes-will-boost-navys-capabilities-11793642579701.html",
-      "dateLocation": "November 3, 2026 | New Delhi"
-    },
-    {
-      "headline": "Supreme Court Restricts Firecrackers to Specified Diwali Hours",
-      "brief": "The Supreme Court has permitted the use of certified green firecrackers in the Delhi-NCR region specifically for November 7 and 8, strictly limiting bursting to designated morning and evening hours. The ruling aims to balance traditional celebrations with air pollution mitigation measures.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/diwali-2026-with-green-crackers-what-are-approvals-required-by-firework-manufacturers-as-sc-allows-bursting-on-nov-7-8-11793643481423.html",
-      "dateLocation": "November 3, 2026 | New Delhi"
-    },
-    {
-      "headline": "Indian Navy Rescues 20 Crew Members from Somali Pirates",
-      "brief": "The Indian Navy successfully rescued 20 crew members of a commercial fishing vessel from armed pirates during an operation conducted over 3,000 kilometers from Mumbai. Defense officials praised the coordinated 48-hour mission for safeguarding regional shipping lanes.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/navy-rescues-20-crew-members-of-fishing-vessel-from-armed-pirates-over-3000km-from-mumbai-rajnath-praises-48-hr-op/articleshow/135473804.cms",
-      "dateLocation": "November 3, 2026 | New Delhi"
-    },
-    {
-      "headline": "Supreme Court Rules Marital Discord Not Ground for Abortion",
-      "brief": "India's Supreme Court has ruled that marital discord between spouses does not constitute a valid legal ground for the termination of pregnancy under current statutory provisions. The judgment clarifies the boundaries of medical termination rights amidst complex family disputes.",
+      "headline": "Severe Air Pollution Chokes Delhi and Lahore",
+      "brief": "Hazardous smog and spikes in air pollution levels have severely impacted major urban centers across South Asia, with Delhi's AQI soaring past critical thresholds.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/marital-discord-no-ground-for-termination-of-pregnancy-sc/articleshow/135477214.cms",
-      "dateLocation": "November 3, 2026 | New Delhi"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHBVRUY1eTVrLXhSQ05QeUs1WWtXZkxkTVdRQzBTOTByNm5lOFNpZ1ExSV9TTHVyU2pubVdkbHd5Y2ppTjNPYU41X18yQm5aYVdHREc2cE96Rmgyb0Q0QjdLRVg5SjRjc0FtVUYzV01BUDFXMWhiM3JlT2tzam9ydVh4Z0JNQ3V5M1piakhhS2x5ME9xcXNsME02dUpNWHd0aVh5dGdCUUdJSjlfUjhubE5Mcw?oc=5",
+      "dateLocation": "Nov 3, 2026 | Reuters"
+    },
+    {
+      "headline": "Global Oil Prices Rise Amid Iran Conflict",
+      "brief": "Crude oil prices advanced as Tehran signaled that a diplomatic resolution remains distant following recent military escalations and US airstrikes in the region.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5",
+      "dateLocation": "Nov 3, 2026 | Reuters"
+    },
+    {
+      "headline": "Bomb Threats Force Operations Disruption in Warsaw",
+      "brief": "Security alerts triggered by bomb threats disrupted scheduled flight operations at airports in Warsaw, impacting incoming international commercial services.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/international/bomb-threats-disrupt-operations-at-warsaw-airports/article71660977.ece",
+      "dateLocation": "Nov 3, 2026 | The Hindu"
+    },
+    {
+      "headline": "India to Champion Equitable Climate Finance at COP31",
+      "brief": "Union Environment Minister Bhupender Yadav stated that India will advocate for predictable, non-debt climate support for the Global South at the upcoming COP31 summit.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/india-to-push-for-equitable-climate-finance-practical-solutions-at-cop31-11793707012705.html",
+      "dateLocation": "Nov 3, 2026 | Livemint"
+    },
+    {
+      "headline": "US Midterms: Democrats Gain Edge in Senate Bets",
+      "brief": "Prediction markets and polling data indicate strong competitive momentum for Democratic candidates across several key battleground Senate races in the ongoing midterm elections.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-midterm-elections-2026-prediction-markets-bet-on-democrats-winning-senate-republicans-face-tough-battleground-fight-11793705871831.html",
+      "dateLocation": "Nov 3, 2026 | Livemint"
+    },
+    {
+      "headline": "Tata-Iveco Combination to Form Major CV Group",
+      "brief": "Tata Motors and Iveco are reportedly uniting to establish the world's fourth largest commercial vehicle group, boasting massive combined annual revenue.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-iveco-combination-to-form-worlds-4th-largest-cv-group-with-rs-2-28-lakh-cr-in-revenue/articleshow/135501084.cms",
+      "dateLocation": "Nov 3, 2026 | Economic Times"
+    },
+    {
+      "headline": "Vaishnavi Sharma Climbs ICC ODI Rankings",
+      "brief": "Following a stellar bowling performance against Zimbabwe, Indian cricketer Vaishnavi Sharma made a massive fifty-spot leap in the latest international ODI player rankings.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/up-53-spots-vaishnavi-sharma-makes-giant-leap-in-icc-odi-rankings-after-stunning-spells-against-zimbabwe/articleshow/135497039.cms",
+      "dateLocation": "Nov 3, 2026 | Times of India"
+    },
+    {
+      "headline": "Health Ministry Seeks Better Pollution Tracking",
+      "brief": "Amid worsening winter smog crises, India's health ministry has instructed state administrations to implement rigorous standardized coding and tracking for pollution-linked illnesses.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/india-seeks-clearer-evidence-of-air-pollutions-health-impact-as-smog-worsens-11793693651332.html",
+      "dateLocation": "Nov 3, 2026 | Livemint"
     }
   ]
 }
