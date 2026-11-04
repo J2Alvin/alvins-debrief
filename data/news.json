@@ -1,124 +1,103 @@
 {
-  "lastUpdated": "2026-11-04T13:44:24.017Z",
+  "lastUpdated": "2026-11-04T23:10:30.029Z",
   "ticker": [
-    "US Democrats win control of both chambers of Congress",
-    "IndiGo in advanced talks to buy 100 Embraer jets",
-    "India allocates ₹2,814 crore for critical mineral processing",
-    "England family doctors introduce early cancer blood tests",
-    "Novo Nordisk raises 2026 outlook following Wegovy success"
+    "Democrats sweep US midterms amid fallout from Iran war",
+    "India draws $400 bn in renewable energy pledges",
+    "Qualcomm signs major 5G Starlink infrastructure deal",
+    "US slaps sanctions on Indian and Turkish firms over Iran",
+    "India rolls back contentious Agnipath military recruitment provision"
   ],
   "articles": [
     {
-      "headline": "IndiGo Explores Major Acquisition of 100 Embraer Jets",
-      "brief": "India's largest airline, IndiGo, is reportedly in discussions with aircraft manufacturer Embraer to procure up to 100 jets. This potential mega-deal marks a significant strategic move as the carrier looks to expand its regional connectivity and fleet capacity to meet surging domestic aviation demand.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk94NTBhbjRkdzdPVjBhUTBsdnp4WWhud2dpNWJNcUh4Zl9HeWdCN3ZHN3VWTWN1RERINVlILTk1Y3lVT1JHUjRSc1ZEMTRnRlRBMmQ3YUlfWEdjek1hRW0wbHJUUVQ1bkZDdjhMbU9YcDM3eGlPeWlueTVXb2JKcFE4Zmhwb2VBTXVJbUdPcW9lSEpYVExTWXhBeGVBWnpwazRZ?oc=5",
+      "headline": "US Slaps Sanctions on Indian and Turkish Firms for Iran",
+      "brief": "The United States has imposed new sanctions targeting firms and individuals in India and Turkey over their alleged involvement in aiding Iran, impacting international trade and diplomatic ties.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5",
       "dateLocation": "2026-11-04 | Reuters"
     },
     {
-      "headline": "Cabinet Approves ₹2,814 Crore Critical Mineral Scheme",
-      "brief": "The Indian government has greenlit a ₹2,814 crore scheme aimed at boosting domestic critical mineral processing capabilities. The initiative is designed to secure reliable supply chains for strategic sectors, positioning the country more competitively in advanced technology and manufacturing supply chains.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/cabinet-approves-2814-crore-scheme-to-promote-critical-mineral-processing/articleshow/135533548.cms",
-      "dateLocation": "2026-11-04 | Economic Times"
-    },
-    {
-      "headline": "England Introduces World-First Blood Tests for Early Cancer",
-      "brief": "Family doctors across England are set to utilize innovative blood tests designed to spot cancer early, marking a world-first implementation in primary care. The rollout aims to drastically improve survival rates by catching aggressive malignancies before conventional symptoms manifest.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5",
+      "headline": "Turkey Set to Ratify Defense Pact Amid Houthi Attacks",
+      "brief": "Turkey's parliament is preparing to ratify a major defense pact involving Saudi Arabia and Pakistan as regional Houthi attacks continue to escalate across the Middle East.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORDg5Y29OampmTGVlcU05M3BFOUVIOGhxY0pwcHBtb2owY29CQTVvZ3FkQUVwblFaRHkwTWpfSjRhTk1FOHB5czhNYkx4THRja1I0ZlRsMFVTWFI1WWFWY3ZLTk5fTGJOZEN5bVlCaTFXN2ZIZnEtZUFmaHNzOU05dUpLaHBKSUJMRGJ2ZC1kMHRWYUlZNE4zRXp5THp3TU41V3plWFh3Q2ZrSGMwb3N2dFl6cWo3VXdBTHFYWHp1WUhRZlBTR2dqSWY0OA?oc=5",
       "dateLocation": "2026-11-04 | Reuters"
     },
     {
-      "headline": "Novo Nordisk Raises 2026 Outlook on Wegovy Success",
-      "brief": "Pharmaceutical giant Novo Nordisk has upgraded its financial outlook for 2026 once again, driven by strong market adoption and stellar performance from its Wegovy pill. The milestone reflects soaring global demand for advanced weight-loss and metabolic therapies.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXNSTmhfQVhISGNaNGRPM1A5R1hwalZvbm93d3lkc0thd0dZMGdLZ3h6WTI4NnVQeGxZYVdhc2IzY3M3UXUtMlBQVmtZWlMtQmhDYXhCZ1JuREQzZlhwQVVRR0tiTEZybndZdHBKbG5ZcXR1c2p6Tm5yNHRXYVNNVUs2VjViQVB6dWc3c24tTHd3UkNRN1NIdXZ1alB3TkljNGNXSUZn?oc=5",
+      "headline": "Qualcomm Signs 5G Starlink Infrastructure Deal with SpaceX",
+      "brief": "Qualcomm has finalized a major 5G infrastructure agreement with SpaceX to bolster connectivity for the Starlink Mobile network, expanding global satellite-to-cellular capabilities.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZCaVBsMkw1X24ydGtHeEN2cVhCZ09DcV9TTG9pQkJYMXlhUDZLOElIS21YbEdyeDdxM2RRY2dCazN1MXRFdUNNeEtHck05SFNUd2lpVkw4N1FiakdlTk1kWDFpZ08ycjlSajV0V29sdkJsZEVDbTZOc21ON2t2dkxtbDRDRmx0OFVIdWMyWXo3RUd0ckswYkRyV3RnekU5bmJyNXlvelR6VTRVeElGM2U2Wll4azlpbmNvbURfWDhDX29CMnRkN3ZWaHF6S3VHTTdPOQ?oc=5",
       "dateLocation": "2026-11-04 | Reuters"
     },
     {
-      "headline": "Democrats Win Both Chambers of US Congress in Midterms",
-      "brief": "In a major political shift, the Democratic Party has secured control of both the House and Senate in the 2026 midterm elections. The decisive surge presents substantial legislative roadblocks for Donald Trump's administration and impacts key federal policies.",
+      "headline": "Qualcomm Smartphone Chip Sales Miss Estimates, Shares Fall",
+      "brief": "Qualcomm reported quarterly smartphone chip sales that fell short of Wall Street estimates, triggering a decline in the company's stock price amid shifting market demand.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1J5TU1haGNMUk9CVzZLSmN4d09oZXdTLUFSTEJOMVAxZURhWE5JRVgzVU41TXdHSV92TEJkODQ2Q1NFLUdLSjh6UThlVUVFTUJUS3gxb25ta1VHYjJEMWQ5LUxwTTRzNXpfaUdPOVJxeGhQaDhqMzg5eDRkTENkeUhNa3lwT1k1cEVQQWR6SEl1R1dkVUtFalp2eHVMTDR5VUhiM1JHUjNPRkt5MW1Td2U2UE9SejRBUTJJR0cyaWE?oc=5",
+      "dateLocation": "2026-11-04 | Reuters"
+    },
+    {
+      "headline": "Democrats Clinch Congress Control in Sweeping Midterm Win",
+      "brief": "Democrats secured majorities in both chambers of Congress in a sweeping midterm election defeat for Republicans, fueled by voter anger over inflation and fallout from the Iran war.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/us-midterms-2026-how-democrats-congress-victory-puts-trump-s-ai-data-centre-push-tech-billionaires-on-notice-11793791750299.html",
-      "dateLocation": "2026-11-04 | Livemint"
-    },
-    {
-      "headline": "Rahul Gandhi Issues Fresh Open Debate Challenge to Modi",
-      "brief": "Congress leader Rahul Gandhi has stepped up his political offensive against Prime Minister Narendra Modi, renewing an open challenge for a public debate. Gandhi criticized government policies while addressing supporters during ongoing campaign events.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/will-prove-in-5-minutes-that-modi-is-anti-national-rahul-reiterates-open-debate-dare-to-pm/article71666027.ece",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece",
       "dateLocation": "2026-11-04 | The Hindu"
     },
     {
-      "headline": "Google Extends Voluntary Buyout Offers Globally",
-      "brief": "Tech giant Google has initiated voluntary buyout offers for employees across several international operations. The move is part of an ongoing corporate restructuring effort to streamline operations and optimize workforce distribution amid economic shifts.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3N5M3JKaG93ZWY0OHkzNkZuaXNvcllrWV9EZTJocmdSZ19NTWU5Nzg4aVV3VTF1dUIxdHZoczZkZU1MYjVpaEJRQ0txUG44c214NjFDeFNvN21nbnltZFBUZ0F4YkVobEI2R3F2ZXJqUW56N3psczhCSWM2RXBMMEd2VXJjV1VqeFFsWnA5R1A0dnpOUTZGc2ZEVXNCTWNHME4tSU9yaTdSRzhWbzlaRF9QRXM3OVJSS3N5Q2diU2JKT00?oc=5",
+      "headline": "Trump Admits Iran War Contributed to Midterm Losses",
+      "brief": "Former US President Donald Trump acknowledged that the military conflict with Iran was a major factor behind the Republican Party's heavy losses in the 2026 midterm elections.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/largely-true-trump-backs-vances-claim-that-iran-war-cost-gop-midterms-says-hed-do-it-again/articleshow/135551312.cms",
+      "dateLocation": "2026-11-04 | Times of India"
+    },
+    {
+      "headline": "India Draws $400 Billion in Renewable Energy Pledges",
+      "brief": "India has received preliminary investment commitments worth $400 billion at the Bharat Renewable Energy Summit, aiming to expand non-fossil capacity and grid-scale storage.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india-receives-investment-commitment-worth-400-billion-at-bharat-renewable-energy-summit-pralhad-joshi-11793806667651.html",
+      "dateLocation": "2026-11-04 | LiveMint"
+    },
+    {
+      "headline": "Indian Cabinet Approves Rs 25,473 Crore Multi-Sector Package",
+      "brief": "The Indian cabinet has approved a financial package spanning four sectors, including critical mineral processing support and a two-year extension under the Agnipath military scheme.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/cabinet-energy-storage-critical-minerals-fast-track-courts-agniveer-11793792794809.html",
+      "dateLocation": "2026-11-04 | LiveMint"
+    },
+    {
+      "headline": "India Puts Food Security First as El Niño Dents Ethanol",
+      "brief": "Severe weather patterns driven by El Niño have disrupted India's ethanol ambitions, forcing the government to prioritize domestic food production over fuel blending targets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcVNWMnRrUzVmMnRMM3lSRTNBX2FTblVRejJzWmtYejJ3NU5xem1IZWpYN214Z2h6TGJqbEJPOG9TWjVabkUtTGdhZ3lXUVNVS0MyUUxOa28zdFFFTlkwNURYclo5ekNjWHozY1VFdTZSa3pLMS1yZ2ZUdUZtVjNVT3RJY2twdUJZSzNXcmVBd052bVFuUjFOd3JPTnV6cmQ4LVdmSXJTZWk1NVhQUmxJ?oc=5",
       "dateLocation": "2026-11-04 | Reuters"
     },
     {
-      "headline": "Sam Altman Responds to Backlash Over PC RAM Remarks",
-      "brief": "OpenAI CEO Sam Altman temporarily changed his online handle after facing intense social media criticism over comments regarding the inefficiency of dedicated DRAM in personal computers. Critics argued his perspective overlooked practical consumer hardware needs.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/trends/sam-altman-turns-ram-altman-as-backlash-erupts-over-his-wasteful-pc-ram-remarks-11793795062258.html",
-      "dateLocation": "2026-11-04 | Livemint"
-    },
-    {
       "headline": "Indian Stocks Post Longest Winning Streak in Five Months",
-      "brief": "Benchmark Indian equity indices extended their winning run to post their longest consecutive winning streak in nearly five months. Investor sentiment was largely buoyed by expectations of robust foreign portfolio investor inflows and favorable macroeconomic data.",
+      "brief": "Benchmark Indian stock indices notched their longest winning streak in nearly five months, driven largely by renewed foreign portfolio investor inflows and positive economic sentiment.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0tFa0Z0bnRlSFU3NTdYOFVXaGdid3Fad1NTRnViRDBTUWg2Um1BQ21RVlNkSWdjR2Y1Z2VXdV9fWXdjY19GZkJDZ2F0ZFFvckRQY2V0eDRwVzZJMkJ5a29mbGlLZUQyQkFzX1VwVThZdEQtZEdiUVJMRzJxeGFXQUxmclZST2l1RzN6elNobi1IZC11a2N2cFJDZEdQNVo1MmgxWlFBaHA3VXlLWHc?oc=5",
       "dateLocation": "2026-11-04 | Reuters"
     },
     {
-      "headline": "Gold Prices Surge 3% Following US Midterm Results",
-      "brief": "Gold prices rallied approximately 3% as the US dollar weakened in the wake of significant Democratic gains in the midterm elections. Safe-haven demand intensified as markets priced in potential political gridlock and shifting fiscal dynamics.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
-      "dateLocation": "2026-11-04 | Reuters"
-    },
-    {
-      "headline": "Jacob Duffy Reflects on Virat Kohli's Brilliant Knock",
-      "brief": "New Zealand bowler Jacob Duffy shared his perspective on Virat Kohli's commanding performance during India's recent ODI victory in Auckland. Duffy acknowledged the challenges posed by Kohli's aggressive yet composed batting style on a difficult pitch.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-was-annoying-jacob-duffys-hilarious-take-on-virat-kohli-after-indias-auckland-victory/articleshow/135538089.cms",
-      "dateLocation": "2026-11-04 | Times of India"
-    },
-    {
-      "headline": "India Secures Five-Wicket Triumph Over New Zealand",
-      "brief": "The Indian cricket team secured a comfortable five-wicket victory over New Zealand in their latest limited-overs fixture. Disciplined bowling restricted the visitors to a modest total before seasoned batsmen chased down the target with clinical efficiency.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-was-annoying-jacob-duffys-hilarious-take-on-virat-kohli-after-indias-auckland-victory/articleshow/135538089.cms",
-      "dateLocation": "2026-11-04 | Times of India"
-    },
-    {
-      "headline": "Israel Begins Coalition Talks Following Uncontested Election",
-      "brief": "Following an election audit confirming no widespread fraud, Israeli leaders Benjamin Netanyahu and Benny Gantz have initiated formal coalition talks. The outcome of these negotiations will determine the formation of the next governing administration.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/israel-election-no-fraud-found-netanyahu-eisenkot-begin-coalition-talks-govt-formation-process-timeline-explained-11793791610075.html",
-      "dateLocation": "2026-11-04 | Livemint"
-    },
-    {
-      "headline": "French Blood Plasma Storage Targeted in Cyberattack",
-      "brief": "Critical facilities managing French blood plasma storage have been hit by a sophisticated cyberattack as part of an expanding malicious campaign. Health authorities are working to secure infrastructure and ensure ongoing medical supply chain safety.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/french-blood-plasma-storage-hit-by-hackers-in-widening-cyberattack-campaign/articleshow/135540237.cms",
-      "dateLocation": "2026-11-04 | Times of India"
-    },
-    {
-      "headline": "Delhi Air Quality Drops to 'Very Poor' Category",
-      "brief": "The national capital's air quality deteriorated into the 'very poor' category as thick smog blanketed Delhi ahead of the festive season. Meteorological factors and early winter pollution triggers have raised fresh concerns over public health.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/delhi-chokes-on-very-poor-air-after-cleanest-october-in-years-11793798144875.html",
-      "dateLocation": "2026-11-04 | Livemint"
-    },
-    {
-      "headline": "Expert Panel Proposes 10-Year Stray Dog Management Plan",
-      "brief": "A committee of experts in Kerala has proposed a comprehensive ten-year roadmap to address the stray dog population issue. The recommendations shift focus from traditional catch-and-release programs toward institutional adoption and scientific waste management.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/panel-proposes-10-year-roadmap-for-stray-dog-issue-in-keralam/article71656523.ece",
+      "headline": "High Court Rules Schools Must Address Gender Identity Bullying",
+      "brief": "In a landmark directive, the High Court ordered schools to actively address and prevent bullying based on gender identity and sexual orientation following a student tragedy.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/haryana/schools-must-address-bullying-based-on-gender-identity-sexual-orientation-high-court/article71666482.ece",
       "dateLocation": "2026-11-04 | The Hindu"
+    },
+    {
+      "headline": "Bihar Health Department to Launch Recruitment for 11,000 Posts",
+      "brief": "The Bihar government announced upcoming recruitment drives to fill more than 11,000 vacant medical and administrative posts across all 38 districts via the State Health Society.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/recruitment-for-more-than-11000-posts-in-bihars-health-department-to-begin-soon/article71666903.ece",
+      "dateLocation": "2026-11-04 | The Hindu"
+    },
+    {
+      "headline": "Ex-Indian Hockey Captain Somaya's Olympic Medal Stolen",
+      "brief": "Former Indian hockey captain MM Somaya's 1980 Moscow Olympics gold medal has been reported stolen from his Bengaluru residence, prompting a police investigation.",
+      "category": "sports",
+      "sourceUrl": "https://www.livemint.com/news/india/exindian-hockey-captain-mm-somayas-1980-moscow-olympics-gold-medal-stolen-from-bengaluru-residence-11793805863313.html",
+      "dateLocation": "2026-11-04 | LiveMint"
     }
   ]
 }
