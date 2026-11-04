@@ -1,96 +1,124 @@
 {
-  "lastUpdated": "2026-11-04T04:44:49.236Z",
+  "lastUpdated": "2026-11-04T13:44:24.017Z",
   "ticker": [
-    "Democrats flip key seats in US midterm elections",
-    "Super Micro beats quarterly revenue estimates on AI demand",
-    "Spain's transport minister resigns over deadly train crash",
-    "Binance hackers exploited fake job interviews in $6.3B breach",
-    "India faces prolonged food inflation and drought challenges"
+    "US Democrats win control of both chambers of Congress",
+    "IndiGo in advanced talks to buy 100 Embraer jets",
+    "India allocates ₹2,814 crore for critical mineral processing",
+    "England family doctors introduce early cancer blood tests",
+    "Novo Nordisk raises 2026 outlook following Wegovy success"
   ],
   "articles": [
     {
-      "headline": "Democrats Score Major Gains in US Midterm Elections",
-      "brief": "Democrats made significant gains in the 2026 U.S. midterm elections, flipping key gubernatorial and Senate seats to deliver a striking rebuke to Donald Trump's party amid widespread voter dissatisfaction.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece",
-      "dateLocation": "Nov 4, 2026 | Washington"
-    },
-    {
-      "headline": "Amy Acton Defeats Vivek Ramaswamy in Ohio",
-      "brief": "Dr. Amy Acton secured a historic victory in the Ohio gubernatorial race, defeating Trump-backed Vivek Ramaswamy and capturing the office for Democrats for the first time in two decades.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-election-results-amy-acton-defeats-donald-trump-backed-vivek-ramaswamy-to-become-ohios-first-woman-governor/articleshow/135522936.cms",
-      "dateLocation": "Nov 4, 2026 | Ohio"
-    },
-    {
-      "headline": "Super Micro Forecasts Strong AI Server Demand Growth",
-      "brief": "Super Micro has forecasted quarterly revenue above Wall Street estimates, driven by a sustained and robust surge in global demand for artificial intelligence infrastructure servers.",
+      "headline": "IndiGo Explores Major Acquisition of 100 Embraer Jets",
+      "brief": "India's largest airline, IndiGo, is reportedly in discussions with aircraft manufacturer Embraer to procure up to 100 jets. This potential mega-deal marks a significant strategic move as the carrier looks to expand its regional connectivity and fleet capacity to meet surging domestic aviation demand.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGxzdV85Qy15NnlQQ1Z0b0Rxbno1UFp3STZ6YVhKS0N5cUpyREUwR2c4ajMxRjJEUWE5SEdoMmJWR0Q2YnhfV3ExZHpvNVlKZ0ItUVE2S0E5QmZ4c0ZoUVJsaUNwX181dVI5aXdtZGpBLTBqZWlWYkMwYjc0YU1landiYkg2SVN5YjlqeEVNYURfX0ZBajlOM2pmU1pfMmpqaHFkTGFicmYzSlRaTnlpZ29WV05TckpKcVBqZGwycmktUQ?oc=5",
-      "dateLocation": "Nov 4, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk94NTBhbjRkdzdPVjBhUTBsdnp4WWhud2dpNWJNcUh4Zl9HeWdCN3ZHN3VWTWN1RERINVlILTk1Y3lVT1JHUjRSc1ZEMTRnRlRBMmQ3YUlfWEdjek1hRW0wbHJUUVQ1bkZDdjhMbU9YcDM3eGlPeWlueTVXb2JKcFE4Zmhwb2VBTXVJbUdPcW9lSEpYVExTWXhBeGVBWnpwazRZ?oc=5",
+      "dateLocation": "2026-11-04 | Reuters"
     },
     {
-      "headline": "Canva Announces Major Layoffs After Hardest Year",
-      "brief": "Design platform Canva has announced a massive workforce reduction, cutting 1,271 employees or 22% of its total staff, as the company navigates growth slowdowns and restructures into agile teams.",
+      "headline": "Cabinet Approves ₹2,814 Crore Critical Mineral Scheme",
+      "brief": "The Indian government has greenlit a ₹2,814 crore scheme aimed at boosting domestic critical mineral processing capabilities. The initiative is designed to secure reliable supply chains for strategic sectors, positioning the country more competitively in advanced technology and manufacturing supply chains.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/after-admitting-hardest-year-yet-in-its-13-year-history-canva-announces-major-job-cuts-ceo-sends-long-layoff-email/articleshow/135523057.cms",
-      "dateLocation": "Nov 4, 2026 | Times of India"
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/cabinet-approves-2814-crore-scheme-to-promote-critical-mineral-processing/articleshow/135533548.cms",
+      "dateLocation": "2026-11-04 | Economic Times"
     },
     {
-      "headline": "Ambani's Jio Explores Tech Talks with Comcast",
-      "brief": "Reliance Industries' Jio is reportedly exploring strategic tech-for-equity discussions with major American telecommunications providers Comcast and Charter, according to industry sources.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVk1sUHd5bUdEcHFJdHJrQTlmV0tSY3Y4dzh3R09TTWpKOTlvT2NUTXlISU9pSlpZY3Bpei14aDFjclduRVRQTU5pUTRVR0o4LWQ5QlgwZmVObHdDTmZqQUhCb1E4dWllX3Q1QkZCdXhyVDZ4M29tV2FpaHZlcDVUT0M2TlFHc2lQei1kQmROQlZBUXF0Y3pINHRYeHp0WEM4ZzVsWUJRc2p0bThCU2tubno4alU0V1Vham8wYkxRbVBBTHlaUlNSVU5OcDJrMzg?oc=5",
-      "dateLocation": "Nov 4, 2026 | Reuters"
-    },
-    {
-      "headline": "India's 2026 Gold Demand Projected to Fall",
-      "brief": "India's gold demand is expected to drop to a six-year low due to continuous steep price increases, significantly altering retail consumer purchasing patterns across the subcontinent.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUE0SkF5VEdGaDktM2p1UmtpczI2QnFrSGFYU2VrNl9FSkFBZWxDb05oU0dYWDN4SXpIYUxyVzc4Si1iNG9QcGJLTXhzUHlKMTljSFhTSHdCMG5FZkx3WU5SN2R3bUFscjV1YzNYdk80YU5taEQtUUEyam04RVlvOExYWk51YVhZRnUxb3J2bjlsQ0VCeTJmbXpMMGYtLUxGckVqM0tZNjB1ZFI3?oc=5",
-      "dateLocation": "Nov 4, 2026 | Reuters"
-    },
-    {
-      "headline": "Binance Hackers Used Fake Job Interviews in Breach",
-      "brief": "Investigators revealed that hackers behind a massive $6.3 billion cyberattack on Binance utilized sophisticated social engineering tactics involving fake job interviews to gain entry.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5",
-      "dateLocation": "Nov 4, 2026 | Reuters"
-    },
-    {
-      "headline": "OpenAI Employees Warned Over Security Lapses",
-      "brief": "Internal sources indicate that OpenAI staff raised concerns about operational security vulnerabilities for years, warning that controls were lax enough for outsiders to access proprietary models.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/openai-employees-warned-about-operational-security-lapses-for-years-sources-say/article71663807.ece",
-      "dateLocation": "Nov 4, 2026 | The Hindu"
-    },
-    {
-      "headline": "Spain Transport Minister Resigns After Crash",
-      "brief": "Spain's transport minister announced his immediate resignation following the latest fatal railway crash in the country, accepting political responsibility for the catastrophic incident.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGEzd1ZNVFk3X2NudFhxN2Y2ZFVMVVVhMTNVNG5uem9QLXRZTF9FZEZGZkFCZnYtYW1lc2VueGFiQ1JJcW1qX2IxTFRGNDhZc2hPeFFvcFRTLXBTWC1uZEszTmI2RXhlNllBc1hxLWk2Mlp2VXAwQWxwMkZrdTY4OGhrS1pUUWw5OG5MNlp2ZDRNejVsVl9UUW9OZnktZEJraFVvV19tVE9vcUdhZHpKZUE4X3FmV3ZpZVFOTTVYaGwyNmd6?oc=5",
-      "dateLocation": "Nov 4, 2026 | Reuters"
-    },
-    {
-      "headline": "Trump Says No Immediate Plans to Strike Iran",
-      "brief": "U.S. President Donald Trump clarified that Washington has no immediate plans for military strikes against Iran, though the military remains fully prepared to act if negotiations stall.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/no-immediate-plans-donald-trump-says-amid-report-of-possible-us-strike-against-iran-as-early-as-tomorrow-11793762007376.html",
-      "dateLocation": "Nov 4, 2026 | Livemint"
-    },
-    {
-      "headline": "India Faces Prolonged Food Inflation Pressures",
-      "brief": "From grains to poultry and milk, consumers across India are grappling with persistent food inflation driven by structural supply bottlenecks and erratic weather patterns.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWNMZUNRMk9yWkZHQTk3Z09uRTRzWVNPMTFVTTBpZjRVNWlqUm5CeFU1ajhvbTlMb2M5Z2lsdFpkNWdvOS1ZS3NvOFRfMl9lYlV6b1I2cjY2WG1iZUtYb09VWTJrUlFLeWhmMnphcDlJQzE1ZHUtZkxsWk5USUZpbHp2NjVwUTUzcV94LTJvejhTQXVoTW44WWI2bFE2NzdBSHBvd3ZQNA?oc=5",
-      "dateLocation": "Nov 4, 2026 | Reuters"
-    },
-    {
-      "headline": "Delhi Reeling Under Severe Air Pollution Levels",
-      "brief": "Multiple parts of New Delhi plunged into the 'severe' air quality category, with the 24-hour average Air Quality Index hovering at alarming highs according to the CPCB.",
+      "headline": "England Introduces World-First Blood Tests for Early Cancer",
+      "brief": "Family doctors across England are set to utilize innovative blood tests designed to spot cancer early, marking a world-first implementation in primary care. The rollout aims to drastically improve survival rates by catching aggressive malignancies before conventional symptoms manifest.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/many-parts-of-delhi-reel-under-severe-level-air-pollution/article71663953.ece",
-      "dateLocation": "Nov 4, 2026 | New Delhi"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5",
+      "dateLocation": "2026-11-04 | Reuters"
+    },
+    {
+      "headline": "Novo Nordisk Raises 2026 Outlook on Wegovy Success",
+      "brief": "Pharmaceutical giant Novo Nordisk has upgraded its financial outlook for 2026 once again, driven by strong market adoption and stellar performance from its Wegovy pill. The milestone reflects soaring global demand for advanced weight-loss and metabolic therapies.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXNSTmhfQVhISGNaNGRPM1A5R1hwalZvbm93d3lkc0thd0dZMGdLZ3h6WTI4NnVQeGxZYVdhc2IzY3M3UXUtMlBQVmtZWlMtQmhDYXhCZ1JuREQzZlhwQVVRR0tiTEZybndZdHBKbG5ZcXR1c2p6Tm5yNHRXYVNNVUs2VjViQVB6dWc3c24tTHd3UkNRN1NIdXZ1alB3TkljNGNXSUZn?oc=5",
+      "dateLocation": "2026-11-04 | Reuters"
+    },
+    {
+      "headline": "Democrats Win Both Chambers of US Congress in Midterms",
+      "brief": "In a major political shift, the Democratic Party has secured control of both the House and Senate in the 2026 midterm elections. The decisive surge presents substantial legislative roadblocks for Donald Trump's administration and impacts key federal policies.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/us-midterms-2026-how-democrats-congress-victory-puts-trump-s-ai-data-centre-push-tech-billionaires-on-notice-11793791750299.html",
+      "dateLocation": "2026-11-04 | Livemint"
+    },
+    {
+      "headline": "Rahul Gandhi Issues Fresh Open Debate Challenge to Modi",
+      "brief": "Congress leader Rahul Gandhi has stepped up his political offensive against Prime Minister Narendra Modi, renewing an open challenge for a public debate. Gandhi criticized government policies while addressing supporters during ongoing campaign events.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/will-prove-in-5-minutes-that-modi-is-anti-national-rahul-reiterates-open-debate-dare-to-pm/article71666027.ece",
+      "dateLocation": "2026-11-04 | The Hindu"
+    },
+    {
+      "headline": "Google Extends Voluntary Buyout Offers Globally",
+      "brief": "Tech giant Google has initiated voluntary buyout offers for employees across several international operations. The move is part of an ongoing corporate restructuring effort to streamline operations and optimize workforce distribution amid economic shifts.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3N5M3JKaG93ZWY0OHkzNkZuaXNvcllrWV9EZTJocmdSZ19NTWU5Nzg4aVV3VTF1dUIxdHZoczZkZU1MYjVpaEJRQ0txUG44c214NjFDeFNvN21nbnltZFBUZ0F4YkVobEI2R3F2ZXJqUW56N3psczhCSWM2RXBMMEd2VXJjV1VqeFFsWnA5R1A0dnpOUTZGc2ZEVXNCTWNHME4tSU9yaTdSRzhWbzlaRF9QRXM3OVJSS3N5Q2diU2JKT00?oc=5",
+      "dateLocation": "2026-11-04 | Reuters"
+    },
+    {
+      "headline": "Sam Altman Responds to Backlash Over PC RAM Remarks",
+      "brief": "OpenAI CEO Sam Altman temporarily changed his online handle after facing intense social media criticism over comments regarding the inefficiency of dedicated DRAM in personal computers. Critics argued his perspective overlooked practical consumer hardware needs.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/trends/sam-altman-turns-ram-altman-as-backlash-erupts-over-his-wasteful-pc-ram-remarks-11793795062258.html",
+      "dateLocation": "2026-11-04 | Livemint"
+    },
+    {
+      "headline": "Indian Stocks Post Longest Winning Streak in Five Months",
+      "brief": "Benchmark Indian equity indices extended their winning run to post their longest consecutive winning streak in nearly five months. Investor sentiment was largely buoyed by expectations of robust foreign portfolio investor inflows and favorable macroeconomic data.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0tFa0Z0bnRlSFU3NTdYOFVXaGdid3Fad1NTRnViRDBTUWg2Um1BQ21RVlNkSWdjR2Y1Z2VXdV9fWXdjY19GZkJDZ2F0ZFFvckRQY2V0eDRwVzZJMkJ5a29mbGlLZUQyQkFzX1VwVThZdEQtZEdiUVJMRzJxeGFXQUxmclZST2l1RzN6elNobi1IZC11a2N2cFJDZEdQNVo1MmgxWlFBaHA3VXlLWHc?oc=5",
+      "dateLocation": "2026-11-04 | Reuters"
+    },
+    {
+      "headline": "Gold Prices Surge 3% Following US Midterm Results",
+      "brief": "Gold prices rallied approximately 3% as the US dollar weakened in the wake of significant Democratic gains in the midterm elections. Safe-haven demand intensified as markets priced in potential political gridlock and shifting fiscal dynamics.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
+      "dateLocation": "2026-11-04 | Reuters"
+    },
+    {
+      "headline": "Jacob Duffy Reflects on Virat Kohli's Brilliant Knock",
+      "brief": "New Zealand bowler Jacob Duffy shared his perspective on Virat Kohli's commanding performance during India's recent ODI victory in Auckland. Duffy acknowledged the challenges posed by Kohli's aggressive yet composed batting style on a difficult pitch.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-was-annoying-jacob-duffys-hilarious-take-on-virat-kohli-after-indias-auckland-victory/articleshow/135538089.cms",
+      "dateLocation": "2026-11-04 | Times of India"
+    },
+    {
+      "headline": "India Secures Five-Wicket Triumph Over New Zealand",
+      "brief": "The Indian cricket team secured a comfortable five-wicket victory over New Zealand in their latest limited-overs fixture. Disciplined bowling restricted the visitors to a modest total before seasoned batsmen chased down the target with clinical efficiency.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-was-annoying-jacob-duffys-hilarious-take-on-virat-kohli-after-indias-auckland-victory/articleshow/135538089.cms",
+      "dateLocation": "2026-11-04 | Times of India"
+    },
+    {
+      "headline": "Israel Begins Coalition Talks Following Uncontested Election",
+      "brief": "Following an election audit confirming no widespread fraud, Israeli leaders Benjamin Netanyahu and Benny Gantz have initiated formal coalition talks. The outcome of these negotiations will determine the formation of the next governing administration.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/israel-election-no-fraud-found-netanyahu-eisenkot-begin-coalition-talks-govt-formation-process-timeline-explained-11793791610075.html",
+      "dateLocation": "2026-11-04 | Livemint"
+    },
+    {
+      "headline": "French Blood Plasma Storage Targeted in Cyberattack",
+      "brief": "Critical facilities managing French blood plasma storage have been hit by a sophisticated cyberattack as part of an expanding malicious campaign. Health authorities are working to secure infrastructure and ensure ongoing medical supply chain safety.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/french-blood-plasma-storage-hit-by-hackers-in-widening-cyberattack-campaign/articleshow/135540237.cms",
+      "dateLocation": "2026-11-04 | Times of India"
+    },
+    {
+      "headline": "Delhi Air Quality Drops to 'Very Poor' Category",
+      "brief": "The national capital's air quality deteriorated into the 'very poor' category as thick smog blanketed Delhi ahead of the festive season. Meteorological factors and early winter pollution triggers have raised fresh concerns over public health.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-chokes-on-very-poor-air-after-cleanest-october-in-years-11793798144875.html",
+      "dateLocation": "2026-11-04 | Livemint"
+    },
+    {
+      "headline": "Expert Panel Proposes 10-Year Stray Dog Management Plan",
+      "brief": "A committee of experts in Kerala has proposed a comprehensive ten-year roadmap to address the stray dog population issue. The recommendations shift focus from traditional catch-and-release programs toward institutional adoption and scientific waste management.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/panel-proposes-10-year-roadmap-for-stray-dog-issue-in-keralam/article71656523.ece",
+      "dateLocation": "2026-11-04 | The Hindu"
     }
   ]
 }
