@@ -1,110 +1,117 @@
 {
-  "lastUpdated": "2026-11-06T03:53:13.498Z",
+  "lastUpdated": "2026-11-06T04:58:59.033Z",
   "ticker": [
-    "US Democrats sweep midterm elections",
-    "Paraguay President impeached over bank collapse",
-    "Oil prices face weekly drop",
-    "Delhi air pollution hits severe levels",
-    "Cristiano Ronaldo announces retirement"
+    "Wall Street suffers worst slump since 2020",
+    "Dalal Street hits ₹500 lakh cr milestone",
+    "Delhi AQI reaches severe levels at 389",
+    "Paraguay President impeached amid protests",
+    "Cristiano Ronaldo announces international retirement"
   ],
   "articles": [
     {
-      "headline": "Adani Ports acquires Dutch Evos for $2.88 billion",
-      "brief": "India's Adani Ports has announced the acquisition of Dutch liquid storage operator Evos in a major $2.88 billion deal, expanding its global footprint and strategic storage capabilities across Europe.",
+      "headline": "Wall Street Tech Stocks Suffer Worst Slump Since 2020",
+      "brief": "US markets experienced a severe market selloff, wiping out $3 trillion as AI trade fears and potential new regulations triggered massive stock declines across major indices.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0RkWTlHZG5ua3hFdjJqeDctNGdzQTlKNU54VzJsdFV2dC05QV9jQVJKVV9GOURPUDVaczBXWTdJYzl4NXZ5YTN6TF9uRjU1dFhYQzZqQV9VdHRHZ0NOZy03ZV9zdGtwWEtJbmc4NkM1KjB3TjZ1SDBNQ1pZdFBqbDh5V1k3aw?oc=5",
-      "dateLocation": "November 6, 2026 | Reuters"
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-plunges-1800-pts-nasdaq-5-5-on-fears-of-ai-regulations-sp-500-wipes-out-3-trillion/articleshow/135586450.cms",
+      "dateLocation": "Nov 6, 2026 | New York"
     },
     {
-      "headline": "India in final-stage talks for expanded missile exports",
-      "brief": "India is reportedly in advanced, final-stage negotiations with the Philippines to significantly expand its missile sales, highlighting deepening defense cooperation between the two nations amid regional geopolitical shifts.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV000QWU5a0lPSXVaZDVhb0pJOXkzUjN0MWVXMVNZemNfS2E3SFhXMEdwNzVyLWw5UGU4dlFaYzVlUzkwQ0RGUlgxZUg1ZEJQTWd0aDdLWlpza2hZR1NMZzRJTEV5U1U2cjZ3bnVpZUtjc3lKdzZKd3dDY2VscFk1ejhiTHNJYWIxdm01SV85YzBxU0dnWHB6c1ROd01wZURpSE5MQnVLVThUbnlRSXNHR0dDZWIzSmRjRXRjZWFuTQ?oc=5",
-      "dateLocation": "November 6, 2026 | Reuters"
-    },
-    {
-      "headline": "Tankers hit in Hormuz amid rising geopolitical tensions",
-      "brief": "Multiple oil tankers have reportedly been struck in the Strait of Hormuz as Iran maintains military pressure following the US midterm elections, sparking immediate global concerns over maritime security and energy supply stability.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5",
-      "dateLocation": "November 6, 2026 | Reuters"
-    },
-    {
-      "headline": "AI backlash threatens upcoming Anthropic IPO timeline",
-      "brief": "Growing regulatory scrutiny and public backlash against artificial intelligence technologies are threatening the proposed initial public offering timeline for AI startup Anthropic, according to potential investors and industry insiders.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
-      "dateLocation": "November 6, 2026 | Reuters"
-    },
-    {
-      "headline": "Uber reveals low consumer demand for autonomous AI agents",
-      "brief": "A recent earnings report from ride-hailing giant Uber indicates that autonomous AI agents are experiencing surprisingly low usage rates on its platform, with customers preferring native apps for booking efficiency.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/uber-shares-one-number-to-tell-everyone-how-unpopular-ai-agents-may-be-on-platform/articleshow/135590488.cms",
-      "dateLocation": "November 6, 2026 | Times of India"
-    },
-    {
-      "headline": "Paraguay President impeached following Ueno Bank collapse",
-      "brief": "Paraguayan President Santiago Peña has been impeached in a 78-0 vote after the collapse of Ueno Bank froze millions in citizen savings and sparked days of intense civil demonstrations across the capital city.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/paraguay-president-santiago-pe-a-impeached-after-ueno-bank-collapse-freezes-millions-in-savings-sparks-protests-11793901642551.html",
-      "dateLocation": "November 6, 2026 | LiveMint"
-    },
-    {
-      "headline": "US Democrats secure historic majorities in midterm wave",
-      "brief": "Democrats have secured significant legislative gains across the House, Senate, and governorships in a historic midterm wave that represents a major political rebuke of the Trump administration's policy trajectory.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/data/us-midterm-elections-the-numbers-behind-the-historic-democrat-wave/article71670710.ece",
-      "dateLocation": "November 6, 2026 | The Hindu"
-    },
-    {
-      "headline": "ABB chief highlights automation's employment boost in India",
-      "brief": "The chief executive of ABB India noted that industrial automation has successfully boosted overall employment and increased the hiring of low-skilled workers, as the firm commits $75 million to expand operations.",
+      "headline": "Dalal Street Market Capitalisation Crosses ₹500 Lakh Crore",
+      "brief": "The Bombay Stock Exchange market capitalization officially crossed the monumental ₹500 lakh crore milestone, driven by robust IPO activity and a steady post-Diwali economic recovery.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/business/automation-has-boosted-employment-hiring-of-low-skilled-workers-in-india-says-abb-chief/article71669637.ece",
-      "dateLocation": "November 6, 2026 | The Hindu"
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/bse-market-cap-crosses-rs-500-lakh-crore-driven-by-ipos-steady-recovery/articleshow/135589188.cms",
+      "dateLocation": "Nov 6, 2026 | Mumbai"
     },
     {
-      "headline": "India's Samvardhana Motherson reports strong quarterly profit",
-      "brief": "Samvardhana Motherson has posted a robust jump in its quarterly net profit, driven by high global demand for automotive wiring harnesses and steady manufacturing performance across international markets.",
+      "headline": "Adani Ports Acquires Dutch Storage Operator Evos",
+      "brief": "India's Adani Ports has finalized a deal to purchase Dutch liquid bulk storage operator Evos in an international acquisition valued at $2.88 billion.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaG1vV0xEd0lOYTRZRm9nWXRJVVJJblVQRnEwQ1poclMxME1QWFFjLUh3QUppWHZDZlJ1Z0Y2VUZwdVAxd3NkQkdvWGVzajFYdW16RGlEc2UzSDhBSFRuT2FaazVWUHFxaGl6T0FpRC1PSzlCNXpGLXlSb2RoX0k4NnQ1NkhEaF9CNXQ3cTg2QnFDNDJOQlJ2bGRrWHFrSmljZjhKa2lGejNCM2lQZjh0VzZnRWN4ZHV4QzhObzBEaXVGUWtn?oc=5",
-      "dateLocation": "November 6, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0RkWTlHZG5ua3hFdjJqeDctNGdzQTlKNU54VzJsdFV2dC05QV9jQVJKVV9GOURPUDVaczBXWTdJYzl4NXZ5YTN6TF9uRjU1dFhYQzZqQV9VdHRHZ0NOZy03ZV9zdGtwWEtJbmc4NkM1QkcwS2pqOUFnODJsc0JHSnJQUm9EQjV3SFFqNEljT0U5LU1GR08wU0xEcE1BbnNsUmRwZkdwNVhJeDB3TjZ1SDBNQ1pZdFBqbDh5V1k3aw?oc=5",
+      "dateLocation": "Nov 6, 2026 | New Delhi"
     },
     {
-      "headline": "Cristiano Ronaldo announces retirement from international football",
-      "brief": "Portuguese football icon Cristiano Ronaldo has officially announced his retirement from international competition, concluding a legendary career that included three major international trophies and numerous global scoring records.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
-      "dateLocation": "November 6, 2026 | Reuters"
-    },
-    {
-      "headline": "Wisconsin reports first measles death in 36 years",
-      "brief": "Health officials in Wisconsin confirmed the state's first measles fatality in over three decades, underscoring rising public health concerns regarding declining vaccination rates and the resurgence of preventable viruses.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/wisconsin-baby-dies-of-measles-in-first-state-death-in-36-years-11793911558446.html",
-      "dateLocation": "November 6, 2026 | LiveMint"
-    },
-    {
-      "headline": "New study warns of fatal noise stress on global wildlife",
-      "brief": "An extensive scientific analysis across six continents reveals that anthropogenic noise pollution is imposing severe, fatal stress on aquatic and terrestrial species, altering specific survival traits in 80% of studied animals.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
-      "dateLocation": "November 6, 2026 | The Hindu"
-    },
-    {
-      "headline": "Delhi air quality hits severe levels with AQI near 390",
-      "brief": "Delhi's overall Air Quality Index worsened significantly to reach 389, with multiple monitoring stations pushing into the 'severe' category, prompting immediate distress among residents and fresh rounds of anti-pollution trials.",
+      "headline": "Delhi Air Quality Reaches Severe Levels at 389 AQI",
+      "brief": "Delhi's air quality index touched 389 with several areas entering the severe zone, prompting local discomfort, breathing complaints, and blame targeted at ongoing regional stubble burning.",
       "category": "general",
       "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhis-aqi-at-389-several-areas-record-severe-pollution-residents-complain-of-breathing-difficulties/articleshow/135591573.cms",
-      "dateLocation": "November 6, 2026 | Times of India"
+      "dateLocation": "Nov 6, 2026 | New Delhi"
     },
     {
-      "headline": "Massive commercial fire breaks out in Delhi's Karol Bagh",
-      "brief": "A massive fire erupted at a commercial building in Delhi's Gaffar Market, severely damaging mobile accessory shops stored with lithium batteries. Over twenty-two fire tenders were rushed to contain the blaze.",
+      "headline": "Paraguay President Santiago Peña Impeached After Bank Collapse",
+      "brief": "Paraguayan lawmakers voted 78-0 to impeach President Santiago Peña following widespread protests triggered by the sudden collapse of Ueno Bank, which froze millions of citizen savings.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/world/paraguay-president-santiago-pe-a-impeached-after-ueno-bank-collapse-freezes-millions-in-savings-sparks-protests-11793901642551.html",
+      "dateLocation": "Nov 6, 2026 | Asunción"
+    },
+    {
+      "headline": "Cristiano Ronaldo Announces Retirement From International Football",
+      "brief": "Portugal football legend Cristiano Ronaldo has officially announced his retirement from international play, concluding a historic career that brought his home nation three major international trophies.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/from-siu-to-see-you-cristiano-ronaldo-says-goodbye-to-international-football/articleshow/135591171.cms",
+      "dateLocation": "Nov 6, 2026 | Lisbon"
+    },
+    {
+      "headline": "Wisconsin Reports First Measles Death in 36 Years",
+      "brief": "Health officials confirmed the death of an infant from measles in Wisconsin, marking the state's first fatality from the preventable virus in over three decades amid surging anti-vaccine sentiment.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/us-news/wisconsin-baby-dies-of-measles-in-first-state-death-in-36-years-11793911558446.html",
+      "dateLocation": "Nov 6, 2026 | Wisconsin"
+    },
+    {
+      "headline": "Israel Intelligence Claims Iran Developing Chemical Weapon Delivery Systems",
+      "brief": "Israeli intelligence has reportedly warned US counterparts that Iran is rapidly advancing technology to deploy chemical weapons via missiles and drones or smuggle them for external attacks.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/iran-could-deploy-chemical-weapons-through-missiles-or-drones-what-israeli-intelligence-claims-11793902388198.html",
+      "dateLocation": "Nov 6, 2026 | Jerusalem"
+    },
+    {
+      "headline": "India Defies Asia Tech Rout Through Strong Foreign Buying",
+      "brief": "Indian equity markets successfully defied the broader Asian tech sector selloff, cushioned by a slide in global oil prices and sustained foreign institutional buying.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
+      "dateLocation": "Nov 6, 2026 | Mumbai"
+    },
+    {
+      "headline": "France Sees Massive Protests as 575,000 Demonstrate Across Cities",
+      "brief": "An estimated 575,000 demonstrators took to the streets across France in the largest wave of civil unrest since September, resulting in clashes with police forces in Paris and Lyon.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/france-protest-575-000-people-take-part-in-demonstrations-across-major-cities-70-000-police-deployed-what-we-know-11793936686266.html",
+      "dateLocation": "Nov 6, 2026 | Paris"
+    },
+    {
+      "headline": "Cellophane Bees Produce Biodegradable Polymer Nest Linings",
+      "brief": "Scientific researchers have discovered that ground-nesting cellophane bees secrete a translucent, resilient material that acts as a natural, rapidly degrading plastic alternative.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
+      "dateLocation": "Nov 6, 2026 | Washington"
+    },
+    {
+      "headline": "Elon Musk Deletes Pro-Republican Social Media Posts",
+      "brief": "Billionaire entrepreneur Elon Musk deleted posts supporting Republican candidates on X following major Democratic victories in the US midterm elections after spending heavily on campaigns.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/vote-red-today-elon-musk-deletes-pro-Republican-posts-after-spending-458-million/articleshow/135590708.cms",
+      "dateLocation": "Nov 6, 2026 | Washington"
+    },
+    {
+      "headline": "India and Philippines in Final Talks for Expanded Missile Sale",
+      "brief": "Diplomatic sources confirm that India and the Philippines are in the final stages of negotiations to expand ongoing defense agreements regarding advanced missile exports.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/massive-fire-breaks-out-at-shop-in-delhis-karol-bagh-22-fire-tenders-at-scene/articleshow/135590147.cms",
-      "dateLocation": "November 6, 2026 | Times of India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV000QWU5a0lPSXVaZDVhb0pJOXkzUjN0MWVXMVNZemNfS2E3SFhXMEdwNzVyLWw5UGU4dlFaYzVlUzkwQ0RGUlgxZUg1ZEJQTWd0aDdLWlpza2hZR1NMZzRJTEV5U1U2cjZ3bnVpZUtjc3lKdzZKd3dDY2VscFk1ejhiTHNJYWIxdm01SV85YzBxU0dnWHB6c1ROd01wZURpSE5MQnVLVThUbnlRSXNHR0dDZWIzSmRjRXRjZWFuTQ?oc=5",
+      "dateLocation": "Nov 6, 2026 | New Delhi"
+    },
+    {
+      "headline": "AI Trade Volatility Sparks Security Concern for Wall Street",
+      "brief": "The ongoing technology sector correction has prompted intense financial discussions among market analysts and investors as high-flying AI stocks undergo heavy profit-taking.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL?oc=5",
+      "dateLocation": "Nov 6, 2026 | New York"
+    },
+    {
+      "headline": "Jamie Dimon Vows Opposition to Yield-Paying Stablecoins",
+      "brief": "JPMorgan Chase CEO Jamie Dimon has signaled continued resistance against regulatory allowances for yield-paying stablecoins, citing heightened financial risk to traditional banking.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jamie-dimon-said-on-clarity-act-allowing-yield-paying-stablecoins-that-jp-morgan-will-fight-it-if-we-lose-we-lose-heres-how-democrat-win-means-end-of-/articleshow/135592947.cms",
+      "dateLocation": "Nov 6, 2026 | Washington"
     }
   ]
 }
