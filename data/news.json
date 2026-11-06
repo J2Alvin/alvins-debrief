@@ -1,96 +1,117 @@
 {
-  "lastUpdated": "2026-11-06T13:42:17.804Z",
+  "lastUpdated": "2026-11-06T22:40:57.678Z",
   "ticker": [
-    "Sensex and Nifty post strongest weekly gains in five years",
-    "Delhi invokes GRAP 3 restrictions as AQI nears severe levels",
-    "Adani Ports acquires Dutch storage operator Evos for $2.88B",
-    "Brent oil benchmark on track for largest weekly drop since 2020",
-    "Supreme Court issues contempt notice to Kerala Congress over post"
+    "Indian stocks post best week in six years",
+    "Trump replaces Susie Wiles with Stephen Miller",
+    "US sanctions Canadian firms over Iran transactions",
+    "Bharti Airtel reclaims No. 2 spot",
+    "ONGC targets Venezuelan oil projects"
   ],
   "articles": [
     {
-      "headline": "Coforge joins SpaceX partner network to deploy Grok AI",
-      "brief": "Coforge has joined the SpaceX partner network to deploy advanced Grok AI tools for enterprise clients, marking a major expansion of enterprise artificial intelligence integration across global markets.",
+      "headline": "India's Voltas names Noel Tata as chairman emeritus",
+      "brief": "Voltas has announced the appointment of Noel Tata as its chairman emeritus, honoring his extensive contributions and leadership legacy within the corporate sector.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdldlQU04ci1VVld4bHZ1OVU5UUxMWVg1aEZ4aGR3Um5qVkRKMXZQSF9BTW5Tai1xVlNaNVhYSGhZcHpuRzQ3aXo5d1RYdU4yRi1SSzQ2ajc1aVY1S2Q4RHo0OTNLbXp1R2xiZ3Uxdi1PNHJjenJRdFFPdHQ3V09hNC00SjFqUjhJcUQ2cm1CYTNwTVFrRHY3RGMycw?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
+    },
+    {
+      "headline": "Britannia CEO plays down Reliance pricing threat",
+      "brief": "Britannia Industries CEO has minimized the competitive pricing threat posed by Reliance in the Indian biscuit market, expressing confidence in the company's strong brand equity and market positioning.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVlOR2J3dnN1SmxrdnlwOXhpUndzSXdsc3U0SzY2Vk9xV1JvZTdaRTVOMjdwOFN2RkxNYUp3ZFR1cjFnQlRRUUIxbnhsWFFzMGhjUU5MOW5ZalJxMExITHo1SXJHNVlRMS1YMWM3dDBwRUg0ZGdxSXRKYTJrc1FObmk2UlpiOE13cFV2eDVFajNnMkd5NFdEZWRHMVhmaUh0WmpSMTFjQUFkSGtMMnhQc3E2eVdKbG4wX3c?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
+    },
+    {
+      "headline": "ONGC hopes to operate Venezuelan oil projects",
+      "brief": "India's ONGC expects to secure operational rights for two key Venezuelan oil projects within the next six months, aiming to bolster the country's energy security and overseas asset portfolio.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
+    },
+    {
+      "headline": "Indian stocks post best week in six years",
+      "brief": "Bucking the broader global tech rout, Indian equities surged significantly to post their best weekly performance in six years, driven by strong buying momentum and positive economic indicators.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
+    },
+    {
+      "headline": "TSMC considers manufacturing advanced memory chips",
+      "brief": "According to industry reports, semiconductor giant TSMC is actively considering expanding its manufacturing operations to include advanced memory chips to meet rising artificial intelligence demands.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm1rN0dhNG5aaDhDRVRyQVpMaXVROE8wbUFRVUJLZnYwaUQwZF9jMGtfX0doQjVZM3JaRFZHd2FSNFRvODVIUy1TeXJ3d09OZEZPMDB6cEE0eWhHdDNGa3FTRWRCRkhjaERjTnhudVNMTDV6RmdBX0ZqOTNjbDZFblljUE9INGpzN05KSV81YzdHTlVFS1lKeExydFBaaHVLV0pzR2tyQTBSbHV5SUF3VEY3STZHX0gzZzM1S1VYOWtpSEZsRXhKWjl3YzhQQUpy?oc=5",
-      "dateLocation": "Nov 6, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
     },
     {
-      "headline": "Adani Ports to acquire Dutch storage operator Evos",
-      "brief": "Adani Ports has announced plans to purchase Dutch storage operator Evos in a strategic international transaction valued at $2.88 billion, expanding its footprint in European logistics.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0RkWTlHZG5ua3hFdjJqeDctNGdzQTlKNU54VzJsdFV2dC05QV9jQVJKVV9GOURPUDVaczBXWTdJYzl4NXZ5YTN6TF9uRjU1dFhYQzZqQV9VdHRHZ0NOZy03ZV9zdGtwWEtJbmc4NkM1QkcwS2pqOUFnODJsc0JHSnJQUm9EQjV3SFFqNEljT0U5LU1GR08wU0xEcE1BbnNsUmRwZkdwNVhJeDB3TjZ1SDBNQ1pZdFBqbDh5V1k3aw?oc=5",
-      "dateLocation": "Nov 6, 2026 | Reuters"
+      "headline": "Alphabet acquires stake in Qualcomm for data centers",
+      "brief": "Alphabet has invested $548 million to acquire a stake in its partner Qualcomm, signaling a major strategic push to enhance data center infrastructure and advanced hardware capabilities.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
     },
     {
-      "headline": "Sensex and Nifty record best weekly performance in years",
-      "brief": "Indian stock exchanges added over 29 lakh crore in investor wealth as Sensex and Nifty rallied, driven by massive foreign institutional buying and lower global crude oil prices.",
-      "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rs-29-57-lakh-crore-added-to-investor-wealth-why-sensex-nifty-had-best-week-in-over-5-years/articleshow/135606969.cms",
-      "dateLocation": "Nov 6, 2026 | Times of India"
-    },
-    {
-      "headline": "Delhi invokes GRAP 3 restrictions as air quality worsens",
-      "brief": "Authorities have enforced Stage III of the Graded Response Action Plan across Delhi-NCR as air quality approaches severe thresholds ahead of festive celebrations, prompting strict localized bans.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/grap-3-invoked-across-delhi-ncr-ahead-of-diwali-several-areas-in-severe-zone/articleshow/135605507.cms",
-      "dateLocation": "Nov 6, 2026 | Times of India"
-    },
-    {
-      "headline": "New Zealand election enters final day too close to call",
-      "brief": "The New Zealand general election campaign has entered its final day with polls indicating a razor-thin margin between major political contenders, leaving the ultimate outcome highly unpredictable.",
+      "headline": "Trump replaces chief of staff after midterm defeat",
+      "brief": "Following the Republican Party's midterm election losses, Donald Trump has replaced Susie Wiles with Stephen Miller as his new chief of staff, shaking up his inner circle.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbDlEdnNfY2h6X3NELXg0d2tvZ2JwUmp0UXZaalN5LWd6cmptYzZXSXluNGZwR09XMl9JWThiY09QX05FZEZuWE1USzdUYnpYQjJrSVJWX2l5Q0ZsSS1KYXVUOFh2VmdFMVI2c0R3aFpLTmV1cDM1VEZXanpWY0NVSkRsVTRTY1hianF5QWtMV2FUZ1Q1Wk02RDlURFM3Zk9BSDdwQkJzbXlTdDhQWUJxd1ozNTM3WVNWcXNGY1RvcTU0Q0g4cmtoWXFFQkFoUQ?oc=5",
-      "dateLocation": "Nov 6, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnRXOWRIUkRMTjJUVHA5MERSRnEzbUpJLWdYbjJwUkhyMUlkaVBELWNFWWhyVDl5RTNqQkhUSTdacElqLUhNRk9RSlg2SXpvRkQwTENWZ1MzRFlfYW1OcFBMRHFRQ0RfRDZ1MkVBbHJYTncyWXVOSnh6UTBFMklGLVRiSGNoN21PNURKcUtGSXpWYnkxM19zcDNCbldTeGc4bzJrRmVZNGt4Slp3NmFHcGpLMWNTSFJr?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
     },
     {
-      "headline": "Brent oil benchmark on track for major weekly drop",
-      "brief": "Global crude oil benchmark Brent is heading toward its steepest weekly decline since 2020 amid mounting evidence of demand destruction and emerging supply surpluses globally.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5",
-      "dateLocation": "Nov 6, 2026 | Reuters"
+      "headline": "US sanctions Canadian companies over Iran transactions",
+      "brief": "The United States has imposed strict economic sanctions on eight Canadian entities, alleging they played a crucial role in enabling international financial transactions involving Iran.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-sanctions-eight-canadian-companies-over-iran-transactions-11794003533770.html",
+      "dateLocation": "November 6, 2026 | Livemint"
     },
     {
-      "headline": "CBI books Future Retail and Kishore Biyani over fraud",
-      "brief": "The Central Bureau of Investigation has registered a formal case against Kishore Biyani and Future Retail in connection with an alleged banking fraud exceeding ₹904 crore.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/cbi-books-kishore-biyani-future-retail-in-rs-904-crore-bank-fraud-case/articleshow/135605209.cms",
-      "dateLocation": "Nov 6, 2026 | Economic Times"
+      "headline": "Saudi Arabia extends $3 billion financial lifeline to Pakistan",
+      "brief": "Saudi Arabia has rolled over a $3 billion financial support package to Pakistan, providing Islamabad vital relief from external debt pressures amid growing strategic defense cooperation.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/why-saudi-arabia-is-extending-3-bn-lifeline-to-pak-reasons-riyadh-continues-to-bankroll-islamabad-s-struggling-economy-11793988099638.html",
+      "dateLocation": "November 6, 2026 | Livemint"
     },
     {
-      "headline": "Supreme Court issues contempt notice to Kerala Congress",
-      "brief": "The Supreme Court has issued a formal contempt notice to Kerala Congress leaders over controversial social media commentary regarding the appointment and position of the Chief Justice of India.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-be-dealt-with-iron-hand-sc-issues-contempt-notice-to-kerala-congress-over-controversial-cji-post/articleshow/135600201.cms",
-      "dateLocation": "Nov 6, 2026 | Times of India"
-    },
-    {
-      "headline": "Gujarat Energy signs long-term LNG agreement with Adnoc",
-      "brief": "Gujarat Energy has entered into a long-term contract with Adnoc to procure 4 million tonnes of liquefied natural gas annually over a ten-year period starting in 2028.",
+      "headline": "Delhi Police files FIR over child abuse material online",
+      "brief": "Acting on National Human Rights Commission directions, Delhi Police's Special Cell registered an FIR regarding the alleged circulation of child sexual abuse material on Meta platforms.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/gujarat-energy-signs-long-term-pact-with-adnoc-for-4-mn-tonne-lng-11793966351432.html",
-      "dateLocation": "Nov 6, 2026 | LiveMint"
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-police-registers-fir-over-alleged-circulation-of-child-sexual-abuse-material-on-facebook-instagram-and-whatsapp-11793984360120.html",
+      "dateLocation": "November 6, 2026 | Livemint"
     },
     {
-      "headline": "At least two children killed in eastern France bus crash",
-      "brief": "Local authorities confirmed that a tragic bus collision in eastern France resulted in the deaths of at least two children, prompting immediate emergency response and investigation.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDM4YlUwUzVPa0VhbS1wVTlvVXpPbWZ5Y1EwUUFfSG1Cbk5xR1NSeTNLZnhNLU1Lekk0eDVuaWtCQndUSTd0bDRELWNXdGJJYllrYmJUYkRqMkl4b0VwWVRCWF9Tc2doN3lIRm42eV9YQlBha3JfNHByNDFLb1RxV3RkdkZyRFZJRnVsc0VybnBGUzdJRUw5LXVMMl9zMGNrb05EeWFXVm5KYnVnNGYzMTNQd3oxcGJDZVlVUlFDTlJSeHAtUGc?oc=5",
-      "dateLocation": "Nov 6, 2026 | Reuters"
+      "headline": "Finance Ministry urges ministries to prioritize capital expenditure",
+      "brief": "The Union finance ministry has instructed central departments to keep their capital expenditure engines running to sustain productive investment and hedge against mounting external risks.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/finance-ministry-tells-central-ministries-and-depts-to-keep-capex-engine-running-11793955240379.html",
+      "dateLocation": "November 6, 2026 | Livemint"
     },
     {
-      "headline": "Saudi-led coalition intercepts Houthi drone over Medina",
-      "brief": "The Saudi-led coalition reported intercepting and destroying an explosive drone over Medina, though Houthi representatives denied launching any attacks targeting the holy city.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/saudi-led-coalition-says-it-downs-houthi-drone-over-medina-houthis-deny-attack/article71674467.ece",
-      "dateLocation": "Nov 6, 2026 | The Hindu"
-    },
-    {
-      "headline": "Carnatic mridangist Sridhar Parthasarathy passes away on stage",
-      "brief": "Renowned Carnatic percussionist Sridhar Parthasarathy suffered a fatal heart attack and passed away while performing live during a classical music concert in Pune.",
+      "headline": "Bharti Airtel reclaims No. 2 spot as valuable company",
+      "brief": "Bharti Airtel has successfully reclaimed the number two spot among India's most valuable companies, overtaking major competitors following recent market shifts.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/entertainment/music/mridangist-sridhar-parthasarathy-passes-away-while-performing-on-stage/article71674162.ece",
-      "dateLocation": "Nov 6, 2026 | The Hindu"
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-reclaims-no-2-spot-among-indias-most-valuable-companies-overtakes-jio-platforms-reliance-at-top-spot/articleshow/135605274.cms",
+      "dateLocation": "November 6, 2026 | Economic Times"
+    },
+    {
+      "headline": "CBI books Future Retail and Kishore Biyani in fraud case",
+      "brief": "The Central Bureau of Investigation has booked Kishore Biyani and Future Retail in connection with an alleged bank fraud amounting to ₹904 crores.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/cbi-books-kishore-biyani-future-retail-in-rs-904-crore-bank-fraud-case/articleshow/135605209.cms",
+      "dateLocation": "November 6, 2026 | Economic Times"
+    },
+    {
+      "headline": "CBSE announces Class 10 and 12 board exam dates",
+      "brief": "The Central Board of Secondary Education has officially released the subject-wise date sheets and timetables for the upcoming Class 10 and 12 board examinations beginning next year.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/jobs/exams-results/cbse-announces-class-10-12-board-exam-dates-check-when-february-papers-begin-in-2027/articleshow/135611218.cms",
+      "dateLocation": "November 6, 2026 | Economic Times"
+    },
+    {
+      "headline": "Supreme Court rules on Himachal Pradesh power arrears",
+      "brief": "The Supreme Court has delivered a verdict favoring Himachal Pradesh in a decades-old dispute regarding its 7.19% share of power generation arrears from the BBMB projects.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
+      "dateLocation": "November 6, 2026 | The Hindu"
     }
   ]
 }
