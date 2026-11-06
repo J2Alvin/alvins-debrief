@@ -1,117 +1,110 @@
 {
-  "lastUpdated": "2026-11-05T04:59:25.908Z",
+  "lastUpdated": "2026-11-06T03:53:13.498Z",
   "ticker": [
     "US Democrats sweep midterm elections",
-    "Oil prices plunge below $100",
-    "Delhi AQI reaches severe levels",
-    "India Supreme Court drops two-child penalty",
-    "US slaps sanctions on Iranian oil network"
+    "Paraguay President impeached over bank collapse",
+    "Oil prices face weekly drop",
+    "Delhi air pollution hits severe levels",
+    "Cristiano Ronaldo announces retirement"
   ],
   "articles": [
     {
-      "headline": "US Democrats Secure Sweeping Congressional Midterm Victories",
-      "brief": "US Democrats achieved a major electoral victory in the midterm elections, capturing control of both chambers of Congress. The political shift introduces new legislative guardrails against the administration's current foreign and domestic agenda, sending ripples through global financial markets and triggering significant policy debates.",
+      "headline": "Adani Ports acquires Dutch Evos for $2.88 billion",
+      "brief": "India's Adani Ports has announced the acquisition of Dutch liquid storage operator Evos in a major $2.88 billion deal, expanding its global footprint and strategic storage capabilities across Europe.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0RkWTlHZG5ua3hFdjJqeDctNGdzQTlKNU54VzJsdFV2dC05QV9jQVJKVV9GOURPUDVaczBXWTdJYzl4NXZ5YTN6TF9uRjU1dFhYQzZqQV9VdHRHZ0NOZy03ZV9zdGtwWEtJbmc4NkM1KjB3TjZ1SDBNQ1pZdFBqbDh5V1k3aw?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
+    },
+    {
+      "headline": "India in final-stage talks for expanded missile exports",
+      "brief": "India is reportedly in advanced, final-stage negotiations with the Philippines to significantly expand its missile sales, highlighting deepening defense cooperation between the two nations amid regional geopolitical shifts.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV000QWU5a0lPSXVaZDVhb0pJOXkzUjN0MWVXMVNZemNfS2E3SFhXMEdwNzVyLWw5UGU4dlFaYzVlUzkwQ0RGUlgxZUg1ZEJQTWd0aDdLWlpza2hZR1NMZzRJTEV5U1U2cjZ3bnVpZUtjc3lKdzZKd3dDY2VscFk1ejhiTHNJYWIxdm01SV85YzBxU0dnWHB6c1ROd01wZURpSE5MQnVLVThUbnlRSXNHR0dDZWIzSmRjRXRjZWFuTQ?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
+    },
+    {
+      "headline": "Tankers hit in Hormuz amid rising geopolitical tensions",
+      "brief": "Multiple oil tankers have reportedly been struck in the Strait of Hormuz as Iran maintains military pressure following the US midterm elections, sparking immediate global concerns over maritime security and energy supply stability.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
+    },
+    {
+      "headline": "AI backlash threatens upcoming Anthropic IPO timeline",
+      "brief": "Growing regulatory scrutiny and public backlash against artificial intelligence technologies are threatening the proposed initial public offering timeline for AI startup Anthropic, according to potential investors and industry insiders.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
+    },
+    {
+      "headline": "Uber reveals low consumer demand for autonomous AI agents",
+      "brief": "A recent earnings report from ride-hailing giant Uber indicates that autonomous AI agents are experiencing surprisingly low usage rates on its platform, with customers preferring native apps for booking efficiency.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/uber-shares-one-number-to-tell-everyone-how-unpopular-ai-agents-may-be-on-platform/articleshow/135590488.cms",
+      "dateLocation": "November 6, 2026 | Times of India"
+    },
+    {
+      "headline": "Paraguay President impeached following Ueno Bank collapse",
+      "brief": "Paraguayan President Santiago Peña has been impeached in a 78-0 vote after the collapse of Ueno Bank froze millions in citizen savings and sparked days of intense civil demonstrations across the capital city.",
       "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
-      "dateLocation": "November 5, 2026 | Washington"
+      "sourceUrl": "https://www.livemint.com/news/world/paraguay-president-santiago-pe-a-impeached-after-ueno-bank-collapse-freezes-millions-in-savings-sparks-protests-11793901642551.html",
+      "dateLocation": "November 6, 2026 | LiveMint"
     },
     {
-      "headline": "Global Markets Rally Following US Midterm Election Results",
-      "brief": "Global stock markets surged, with Indian benchmarks hitting three-month highs as oil prices slid following the Democratic sweep in the US. Investors welcomed the political shift and potential easing of geopolitical tensions, fueling a massive rally across major tech and equity sectors.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
-      "dateLocation": "November 5, 2026 | Mumbai"
+      "headline": "US Democrats secure historic majorities in midterm wave",
+      "brief": "Democrats have secured significant legislative gains across the House, Senate, and governorships in a historic midterm wave that represents a major political rebuke of the Trump administration's policy trajectory.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/data/us-midterm-elections-the-numbers-behind-the-historic-democrat-wave/article71670710.ece",
+      "dateLocation": "November 6, 2026 | The Hindu"
     },
     {
-      "headline": "US Imposes Sanctions on Indian and Turkish Entities Over Iran",
-      "brief": "The United States has levied fresh sanctions against Indian and Turkish individuals and companies accused of facilitating the transportation of Iranian oil through fake vessel registrations and supporting Iranian aviation. The move marks an escalation in Washington's crackdown on Tehran's petroleum trade network.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5",
-      "dateLocation": "November 5, 2026 | Washington"
-    },
-    {
-      "headline": "India's IndiGo Discusses Acquisition of 100 Jets with Embraer",
-      "brief": "India's largest airline, IndiGo, is reportedly in advanced discussions with Brazilian aircraft manufacturer Embraer to purchase up to 100 regional jets. This prospective mega-order highlights the carrier's aggressive strategy to expand its domestic and regional footprint amid booming aviation demand across South Asia.",
+      "headline": "ABB chief highlights automation's employment boost in India",
+      "brief": "The chief executive of ABB India noted that industrial automation has successfully boosted overall employment and increased the hiring of low-skilled workers, as the firm commits $75 million to expand operations.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk94NTBhbjRkdzdPVjBhUTBsdnp4WWhud2dpNWJNcUh4Zl9HeWdCN3ZHN3VWTWN1RERINVlILTk1Y3lVT1JHUjRSc1ZEMTRnRlRBMmQ3YUlfWEdjek1hRW0wbHJUUVQ1bkZDdjhMbU9YcDM3eGlPeWlueTVXb2JKcFE4Zmhwb2VBTXVJbUdPcW9lSEpYVExTWXhBeGVBWnpwazRZ?oc=5",
-      "dateLocation": "November 5, 2026 | New Delhi"
+      "sourceUrl": "https://www.thehindu.com/business/automation-has-boosted-employment-hiring-of-low-skilled-workers-in-india-says-abb-chief/article71669637.ece",
+      "dateLocation": "November 6, 2026 | The Hindu"
     },
     {
-      "headline": "Qualcomm Partners with SpaceX for Starlink Mobile 5G Network",
-      "brief": "Chipmaker Qualcomm has signed a definitive infrastructure agreement with SpaceX to integrate 5G capabilities with the Starlink Mobile network. The strategic partnership aims to bridge global connectivity gaps by delivering direct-to-cell satellite broadband services to standard smartphones worldwide.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZCaVBsMkw1X24ydGtHeEN2cVhCZ09DcV9TTG9pQkJYMXlhUDZLOElIS21YbEdyeDdxM2RRY2dCazN1MXRFdUNNeEtHck05SFNUd2lpVkw4N1FiakdlTk1kWDFpZ08ycjlSajV0V29sdkJsZEVDbTZOc21ON2t2dkxtbDRDRmx0OFVIdWMyWXo3RUd0ckswYkRyV3RnekU5bmJyNXlvelR6VTRVeElGM2U2Wll4azlpbmNvbURfWDhDX29CMnRkN3ZWaHF6S3VHTTdPOQ?oc=5",
-      "dateLocation": "November 5, 2026 | San Francisco"
-    },
-    {
-      "headline": "Supreme Court Rules India's Two-Child Population Penalties Outdated",
-      "brief": "India's Supreme Court declared that two-child statutory penalties for local governance roles are outdated, noting that falling fertility rates and demographic shifts have neutralized historical overpopulation fears. The bench emphasized that the rolling impact of decelerating population growth presents long-term socio-economic challenges.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
-      "dateLocation": "November 5, 2026 | New Delhi"
-    },
-    {
-      "headline": "Delhi Grapples with Severe Air Pollution Crisis as AQI Hits 482",
-      "brief": "Delhi's air quality deteriorated to severe categories, with multiple monitoring stations recording an Air Quality Index peaking at 482. Local authorities have implemented strict vehicular and industrial restrictions utilizing AI-enabled control centers, while healthcare facilities report an alarming surge in patients suffering from acute respiratory distress.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-pollution-worsens-aqi-hits-482-as-7-stations-record-severe-levels/articleshow/135557055.cms",
-      "dateLocation": "November 5, 2026 | New Delhi"
-    },
-    {
-      "headline": "India Draws $400 Billion in Preliminary Renewable Energy Pledges",
-      "brief": "The Indian government has secured approximately $400 billion in preliminary investment commitments at the Bharat Renewable Energy Summit. Officials will review the proposals to advance grid-scale storage infrastructure and accelerate national targets for expanding non-fossil power generation capacity.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india-receives-investment-commitment-worth-400-billion-at-bharat-renewable-energy-summit-pralhad-joshi-11793806667651.html",
-      "dateLocation": "November 5, 2026 | New Delhi"
-    },
-    {
-      "headline": "Pentagon CTO Acknowledges Ukraine's Advanced Drone Innovations",
-      "brief": "Pentagon Chief Technology Officer Emil Michael admitted that Ukrainian forces developed crucial drone and combat technologies independently because standard US military stockpiles lacked them. The conflict has exposed gaps in Western defense manufacturing and prompted a strategic reassessment of modern warfare capabilities.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-cto-emil-michael-we-helped-ukrainians-a-ton-fighting-russia-but-they-invented-the-technology-they-actually-needed-because-we-didnt-have-it-and-it-is-/articleshow/135558404.cms",
-      "dateLocation": "November 5, 2026 | Washington"
-    },
-    {
-      "headline": "NASA's Swift Satellite Telescope Ends Mission in Fiery Reentry",
-      "brief": "NASA's 22-year-old Swift satellite telescope has completed its operational lifespan, burning up during an uncontrolled atmospheric reentry over the Earth. Launched in 2004, the observatory revolutionized astrophysics by detecting and tracking gamma-ray bursts across deep space.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUG9OVmM2ZmxVb0dKYUFDTmw0QXpVakp5SmdOVGg5QmF0Zy1fdzdLSFkwYVJLWk9rWjV2akVCX1pLTDFfQWxkVkk4eENGTUZqVGlldjZsT0U1VHh0TWd1c3c2Ymg2RlBmVmhCSkdGWHJ0R05kNmdKRXduelFLMGZ2dXNsMnlqMVFhUzdINDJfdWFzeTRCbXc5RTRnM0dtVnRCZUxsTTVJaERxSEN0eU03TVFn?oc=5",
-      "dateLocation": "November 5, 2026 | Washington"
-    },
-    {
-      "headline": "India Accuses Beverage Giants of Misleading Energy Drink Labeling",
-      "brief": "Indian consumer protection regulators have stated that PepsiCo and Monster Beverage marketed certain products under 'energy drink' labels to mislead buyers. Authorities argue the branding practices obscure ingredient compositions, prompting closer scrutiny of marketing compliance within the domestic beverage sector.",
+      "headline": "India's Samvardhana Motherson reports strong quarterly profit",
+      "brief": "Samvardhana Motherson has posted a robust jump in its quarterly net profit, driven by high global demand for automotive wiring harnesses and steady manufacturing performance across international markets.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDhDUE4wNmt4SlJOXzNpSzZRdUZmaGsxM09sUFdndVZJbUxSaXhiRFpubE9tNWtURmZISGdneEdxaWk5a2hjREQyTVlNd0x1Q0ZXTXZMVmZrMjNzem5Pc3RycWpWNHNweDVvSWZEaU9qV1YtdEVQbm9UUEctNm5RNVVLaldmNF9fLUwteEdFTXZwYVoybFhzY254RGpsMS1fMHNQZExWd2tNS1JsZUdSTkF0azZLYmljSVJ4MXBoQQ?oc=5",
-      "dateLocation": "November 5, 2026 | New Delhi"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaG1vV0xEd0lOYTRZRm9nWXRJVVJJblVQRnEwQ1poclMxME1QWFFjLUh3QUppWHZDZlJ1Z0Y2VUZwdVAxd3NkQkdvWGVzajFYdW16RGlEc2UzSDhBSFRuT2FaazVWUHFxaGl6T0FpRC1PSzlCNXpGLXlSb2RoX0k4NnQ1NkhEaF9CNXQ3cTg2QnFDNDJOQlJ2bGRrWHFrSmljZjhKa2lGejNCM2lQZjh0VzZnRWN4ZHV4QzhObzBEaXVGUWtn?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
     },
     {
-      "headline": "Indian Tyre Manufacturers Face Margin Pressures Amid High Rubber Costs",
-      "brief": "Major Indian tyre producers, including JK Tyre and CEAT, reported sharp declines in quarterly profits and EBITDA due to escalating natural rubber prices. Companies are weighing further retail price hikes to offset input cost pressures that continue to squeeze automotive sector earnings.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/tyre-makers-rubber-prices-raw-material-earnings-automobile-11793702486661.html",
-      "dateLocation": "November 5, 2026 | Mumbai"
-    },
-    {
-      "headline": "Virat Kohli Celebrates 38th Birthday Amid Continued Cricket Legacy",
-      "brief": "Veteran Indian batsman Virat Kohli celebrated his 38th birthday, marking a storied career defined by numerous international batting records and a 2011 World Cup title. Observers continue to evaluate his fitness and form as he eyes future milestones, including the upcoming 2027 ODI World Cup.",
+      "headline": "Cristiano Ronaldo announces retirement from international football",
+      "brief": "Portuguese football icon Cristiano Ronaldo has officially announced his retirement from international competition, concluding a legendary career that included three major international trophies and numerous global scoring records.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohlis-38th-birthday-38-stats-the-king-the-records-and-a-legacy-like-no-other/articleshow/135556372.cms",
-      "dateLocation": "November 5, 2026 | New Delhi"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
+      "dateLocation": "November 6, 2026 | Reuters"
     },
     {
-      "headline": "Two Oil Tankers and Tugboat Catch Fire in Strait of Hormuz",
-      "brief": "Two oil tankers and an accompanying tugboat caught fire in the strategic Strait of Hormuz following an unspecified maritime incident. Emergency marine units responded to the disaster as regional security forces monitor potential disruptions to vital international petroleum transit routes.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/iran-irgc-two-oil-tankers-tugboat-catch-fire-strait-of-hormuz/articleshow/135558809.cms",
-      "dateLocation": "November 5, 2026 | Tehran"
-    },
-    {
-      "headline": "India Prioritizes Food Security Over Ethanol Goals Amid El Niño",
-      "brief": "The Indian government has recalibrated its domestic biofuel roadmap, prioritizing food grain availability over ethanol blending ambitions. Persistent weather anomalies and agricultural strain caused by El Niño conditions compelled policymakers to safeguard domestic food supplies against inflationary pressures.",
+      "headline": "Wisconsin reports first measles death in 36 years",
+      "brief": "Health officials in Wisconsin confirmed the state's first measles fatality in over three decades, underscoring rising public health concerns regarding declining vaccination rates and the resurgence of preventable viruses.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcVNWMnRrUzVmMnRMM3lSRTNBX2FTblVRejJzWmtYejJ3NU5xem1IZWpYN214Z2h6TGJqbEJPOG9TWjVabkUtTGdhZ3lXUVNVS0MyUUxOa28zdFFFTlkwNURYclo5ekNjWHozY1VFdTZSa3pLMS1yZ2ZUdUZtVjNVT3RJY2twdUJZSzNXcmVBd052bVFuUjFOd3JPTnV6cmQ4LVdmSXJTZWk1NVhQUmxJ?oc=5",
-      "dateLocation": "November 5, 2026 | New Delhi"
+      "sourceUrl": "https://www.livemint.com/news/us-news/wisconsin-baby-dies-of-measles-in-first-state-death-in-36-years-11793911558446.html",
+      "dateLocation": "November 6, 2026 | LiveMint"
+    },
+    {
+      "headline": "New study warns of fatal noise stress on global wildlife",
+      "brief": "An extensive scientific analysis across six continents reveals that anthropogenic noise pollution is imposing severe, fatal stress on aquatic and terrestrial species, altering specific survival traits in 80% of studied animals.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
+      "dateLocation": "November 6, 2026 | The Hindu"
+    },
+    {
+      "headline": "Delhi air quality hits severe levels with AQI near 390",
+      "brief": "Delhi's overall Air Quality Index worsened significantly to reach 389, with multiple monitoring stations pushing into the 'severe' category, prompting immediate distress among residents and fresh rounds of anti-pollution trials.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhis-aqi-at-389-several-areas-record-severe-pollution-residents-complain-of-breathing-difficulties/articleshow/135591573.cms",
+      "dateLocation": "November 6, 2026 | Times of India"
+    },
+    {
+      "headline": "Massive commercial fire breaks out in Delhi's Karol Bagh",
+      "brief": "A massive fire erupted at a commercial building in Delhi's Gaffar Market, severely damaging mobile accessory shops stored with lithium batteries. Over twenty-two fire tenders were rushed to contain the blaze.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/massive-fire-breaks-out-at-shop-in-delhis-karol-bagh-22-fire-tenders-at-scene/articleshow/135590147.cms",
+      "dateLocation": "November 6, 2026 | Times of India"
     }
   ]
 }
