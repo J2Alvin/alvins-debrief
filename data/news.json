@@ -1,117 +1,117 @@
 {
-  "lastUpdated": "2026-11-07T12:24:32.978Z",
+  "lastUpdated": "2026-11-07T21:24:56.549Z",
   "ticker": [
-    "Delhi ranks as world's most polluted major city on Diwali eve",
-    "Russian officials to join high-level talks with US and Ukraine",
-    "Missiles strike Iran's Qeshm Island amid rising regional tensions",
-    "Alphabet acquires $548 million stake in partner Qualcomm",
-    "India announces all Agniveers eligible for regular tenure extensions"
+    "Delhi ranks as world's most polluted major city on Diwali eve.",
+    "Israeli President taps Gadi Eisenkot to form new government.",
+    "US military looks to restrict Iranian land commerce and blockades.",
+    "At least six killed in shocking mass shooting incident in Krakow.",
+    "Bangladesh's Towhid Hridoy hits historic double century against West Indies."
   ],
   "articles": [
     {
       "headline": "Delhi Ranked World's Most Polluted Major City",
-      "brief": "Delhi emerged as the world's most polluted major city on the eve of Diwali, triggering stringent anti-pollution measures. Authorities escalated restrictions from Stage II to Stage III under the GRAP framework, curbing older vehicles, restricting construction activities, and implementing remote work policies across the national capital region to combat hazardous air quality levels.",
+      "brief": "Delhi has been named the world's most polluted major city on the eve of Diwali by a Swiss group, sparking fresh concerns over air quality as officials urge citizens to adopt greener celebration methods and minimize harmful emissions.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
-      "dateLocation": "2026-11-07 | New Delhi / Reuters"
+      "dateLocation": "November 7, 2026 | New Delhi, India"
     },
     {
-      "headline": "Russian Officials to Join US and Ukraine Talks",
-      "brief": "The Kremlin announced that Russian diplomats and military officials will participate in upcoming talks alongside the United States and Ukraine. The diplomatic engagement comes as fighting continues, marked by heavy overnight airstrikes hitting targets in and around Kyiv, signaling potential shifts in diplomatic channels amidst ongoing military escalations.",
+      "headline": "Gadi Eisenkot Tapped to Form Israeli Government",
+      "brief": "Israeli President has selected former military chief and Netanyahu rival Gadi Eisenkot to try to form a new government following ongoing political shifts and negotiations within the parliament.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+      "dateLocation": "November 7, 2026 | Jerusalem"
+    },
+    {
+      "headline": "US Military Targets Iranian Land Commerce",
+      "brief": "Expanding beyond traditional naval blockades, the US military is reportedly looking into new strategies to restrict Iranian land commerce to counter regional threats and economic flows.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
+      "dateLocation": "November 7, 2026 | Washington D.C."
+    },
+    {
+      "headline": "Berkshire Hathaway Speeds Up Stock Buybacks",
+      "brief": "Berkshire Hathaway has accelerated its stock buyback initiatives despite reporting a general fall in overall corporate profits during the latest quarter, according to financial disclosures.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5",
+      "dateLocation": "November 7, 2026 | Omaha, Nebraska"
+    },
+    {
+      "headline": "Mass Shooting in Krakow Leaves Six Dead",
+      "brief": "Poland is in a state of shock after at least six people were killed following a tragic mass shooting incident in the popular tourist hotspot of Krakow, prompting heightened security measures.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
-      "dateLocation": "2026-11-07 | Moscow / Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+      "dateLocation": "November 7, 2026 | Krakow, Poland"
     },
     {
-      "headline": "Alphabet Takes $548 Million Stake in Qualcomm",
-      "brief": "Alphabet has acquired a $548 million stake in its technology partner Qualcomm to bolster its expanding data center infrastructure push. The strategic investment underlines Alphabet's ongoing efforts to secure advanced hardware components and chip partnerships as competition in cloud computing and artificial intelligence processing intensifies globally.",
+      "headline": "Microsoft Winds Down Oracle Cloud AI Deal",
+      "brief": "Microsoft is reportedly winding down an existing agreement with Oracle to rent cloud capacity for artificial intelligence operations, shifting focus toward internal infrastructure developments.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5",
-      "dateLocation": "2026-11-07 | San Francisco / Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0g4UzRRaV9OckNuUjZYeVcybWl4SnhZUHVRR3pXVTFUdVMtWENOSWRKdjhUQThNTWlRWXd3YVJFTUVaM1hOaFI2UWJ6cDlWZjM4Q3NXTWZDVlJFSTdnS3RqNExHcG93anIxTDhpNXJTRGduSEgxcWNaYnNRYTdOdWF4SzBoZzBLV3o1Wi1ZaEVPWkFXZVJSSWhYZWFSdE9BRFlINGtWWjhhM2FLUEdaYjJQOTBLQ0VCLVIyXw?oc=5",
+      "dateLocation": "November 7, 2026 | San Francisco"
     },
     {
-      "headline": "TSMC Considers Manufacturing Advanced Memory Chips",
-      "brief": "Taiwan Semiconductor Manufacturing Co is reportedly considering expanding its production capabilities to include advanced memory chips. According to industry reports, entering the advanced memory sector would allow TSMC to better cater to high-performance computing and artificial intelligence hardware developers seeking tightly integrated packaging solutions.",
+      "headline": "Coca-Cola India Bottler Files For IPO",
+      "brief": "Hindustan Coca-Cola, the major bottling arm of Coca-Cola in India, has officially filed preliminary paperwork to launch an initial public offering in the country.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczVmZ1Z5a2JtX2N0cndmT0dZV1ZVXzZwWlZPQTRQczlJeUQ4aldhdXdmZngzWVhJby1TQmlHZEFSZzFfR0pZbGE4aFVwVE5ZRW42R2tqVWNWc0JRYlktdVN0c29WX3dnakctZTZSUFRJRGswcXNrV1MwdHZQblhjdENjY2o0R0JULVlrRnM4NkZyUHNJVldqVy1jbTBNSTFIdXJTcA?oc=5",
+      "dateLocation": "November 7, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "Towhid Hridoy Hits Record Double Century",
+      "brief": "Towhid Hridoy made history for Bangladesh by scoring a record-breaking double century during the second Test match against the West Indies, surpassing previous national batting milestones.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/towhid-hridoy-hits-record-breaking-double-century-for-bangladesh-in-second-test-against-west-indies/article71679460.ece",
+      "dateLocation": "November 7, 2026 | Dhaka, Bangladesh"
+    },
+    {
+      "headline": "Supreme Court Upholds Somnath Temple Food Ban",
+      "brief": "The Supreme Court has refused to lift restrictions on non-vegetarian food sales near the Somnath Temple in Gujarat, instructing the local High Court to address challenges swiftly.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/somnath-temple-non-veg-food-ban-why-supreme-court-refused-to-lift-restrictions-and-what-the-judges-said-11794075226820.html",
+      "dateLocation": "November 7, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "TSMC Considers Advanced Memory Chip Production",
+      "brief": "Semiconductor manufacturing giant TSMC is reportedly exploring options to expand its portfolio by producing advanced memory chips to meet rising global technological demand.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5",
-      "dateLocation": "2026-11-07 | Taipei / Reuters"
+      "dateLocation": "November 7, 2026 | Taipei, Taiwan"
     },
     {
-      "headline": "India's ONGC Targets Venezuelan Oil Projects",
-      "brief": "State-backed Oil and Natural Gas Corporation of India aims to secure operational rights for two Venezuelan oil projects within the next six months. The move reflects India's ongoing efforts to diversify its crude oil sourcing and secure long-term energy supplies amidst shifting geopolitical sanctions and international market dynamics.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5",
-      "dateLocation": "2026-11-07 | New Delhi / Reuters"
-    },
-    {
-      "headline": "Kishore Biyani and FRL Booked in SBI Fraud Case",
-      "brief": "The Central Bureau of Investigation has formally booked Kishore Biyani and Future Retail Ltd in connection with an alleged ₹904 crore fraud involving the State Bank of India. The investigation focuses on financial irregularities and default issues stemming from the collapse of the retail conglomerate's debt obligations.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/cbi-books-kishore-biyani-and-frl-in-904-crore-sbi-fraud-case/articleshow/135619292.cms",
-      "dateLocation": "2026-11-07 | New Delhi / Economic Times"
-    },
-    {
-      "headline": "All Agniveers Eligible for Regular Tenure Extensions",
-      "brief": "Defence Minister Rajnath Singh announced that all Agniveers will be given an opportunity for regular military enrollment following a two-year tenure extension. Retention will depend on individual willingness and meeting established operational selection criteria, modifying the initial recruitment structure to offer greater career security.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/all-agniveers-eligible-for-regular-enrollment-post-2-year-tenure-extension-rajnath-singh/article71678219.ece",
-      "dateLocation": "2026-11-07 | New Delhi / The Hindu"
-    },
-    {
-      "headline": "Karnataka High Court Rules ED Is Not 'Super Cop'",
-      "brief": "The Karnataka High Court has ruled that the Enforcement Directorate cannot act as a 'super cop' by filing private complaints when local investigative agencies decline to act on its shared information. The observation came as the court quashed pending ED cases against a state legislator.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
-      "dateLocation": "2026-11-07 | Bengaluru / The Hindu"
-    },
-    {
-      "headline": "Iran Distributes Iodine Pills Near Nuclear Sites",
-      "brief": "Amid heightened fears of potential US military strikes, Iranian authorities have begun distributing iodine tablets to residents living near major nuclear facilities. The distribution accompanies regional diplomatic tensions and concerns regarding potential escalation following discussions within the Trump administration regarding fresh military actions.",
+      "headline": "FSSAI Suspends Over One Thousand Licences",
+      "brief": "The Food Safety and Standards Authority of India has suspended 1,133 licences nationwide following extensive inspections and a massive crackdown on food safety violations.",
       "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-distributes-iodine-pills-near-nuclear-sites-as-trump-weighs-fresh-strikes-report/articleshow/135635140.cms",
-      "dateLocation": "2026-11-07 | Tehran / Times of India"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/10000-notices-1133-suspended-licences-and-3279-tonnes-of-seized-food-fssais-nationwide-crackdown-exposes-food-safety-violations-across-india/articleshow/135642900.cms",
+      "dateLocation": "November 7, 2026 | New Delhi, India"
     },
     {
-      "headline": "Nivetha Wins AFC Youth Female Coach of the Year",
-      "brief": "Indian football coach Nivetha has been awarded the prestigious AFC Youth Female Coach of the Year title. The accolade recognizes her exceptional contributions to developing young female football talent and advancing women's football coaching standards across the Asian continent.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/football/womens-football/article71677785.ece",
-      "dateLocation": "2026-11-07 | New Delhi / The Hindu"
-    },
-    {
-      "headline": "India Struggles Against New Zealand in Wellington ODI",
-      "brief": "India's top order faced severe challenges against New Zealand's aggressive bowling attack on a seaming Wellington pitch during a low-scoring ODI thriller. Despite a modest target, the visitors experienced a dramatic batting collapse, highlighting ongoing vulnerabilities when confronting bouncy conditions and quality pace bowling.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/from-run-fest-to-a-spicy-feast-a-tale-of-two-113s-in-wellington/articleshow/135635513.cms",
-      "dateLocation": "2026-11-07 | Wellington / Times of India"
-    },
-    {
-      "headline": "Paraguayan President Santiago Peña Impeached",
-      "brief": "Paraguayan President Santiago Peña was impeached and placed under house arrest by the Senate following the collapse of a major government-linked bank. The financial failure left nearly half of the nation's population locked out of their savings, triggering widespread political upheaval and immediate constitutional removal.",
+      "headline": "EPFO Expects 25 Percent Contribution Surge",
+      "brief": "The Employees' Provident Fund Organisation anticipates a twenty-five percent increase in total contributions by fiscal year 2027-2028 following upcoming wage ceiling adjustments.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/world/why-was-paraguayan-president-santiago-pe-a-impeached-and-placed-under-house-arrest-all-about-the-case-and-its-fallout-11794024451508.html",
-      "dateLocation": "2026-11-07 | Asunción / LiveMint"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/epfo-total-contributions-expected-to-rise-by-25-in-2027-28-due-to-wage-ceiling-increase/articleshow/135619527.cms",
+      "dateLocation": "November 7, 2026 | New Delhi, India"
     },
     {
-      "headline": "Amazon Faces $309.5 Million Refund Lawsuit Payout",
-      "brief": "Amazon is facing a massive $309.5 million refund payout following a major consumer protection lawsuit settlement in the United States. The legal action addresses disputed billing and return practices, obligating the e-commerce giant to compensate eligible consumers under court supervision.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/amazon-return-refund-lawsuit-claims-jeff-bezos-company-to-pay-309-5-million-to-americans-check-eligibility-and-deadline/articleshow/135635099.cms",
-      "dateLocation": "2026-11-07 | Washington / Economic Times"
+      "headline": "Trump Proposes Dana White for Press Secretary",
+      "brief": "Former US President Donald Trump has suggested that UFC chief executive Dana White would make an ideal White House press secretary in future political campaigns.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFiMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
+      "dateLocation": "November 7, 2026 | Washington D.C."
     },
     {
-      "headline": "Finland Considers Tank Barriers Amid Russian Rearmament",
-      "brief": "Finland is actively considering the implementation of Ukraine-style anti-tank barriers along its borders as Russia continues its military rearmament. Finnish defense planners are evaluating how heavy fortification structures would withstand harsh northern weather conditions to bolster national security.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/finland-considers-ukraine-style-tank-barriers-as-russia-rearms-11794035989983.html",
-      "dateLocation": "2026-11-07 | Helsinki / LiveMint"
+      "headline": "Hardik Pandya Traded to Punjab Kings",
+      "brief": "In a major upcoming Indian Premier League development, star cricketer Hardik Pandya is set to move to Punjab Kings in exchange for fast bowler Arshdeep Singh.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/hardik-pandya-to-leave-mumbai-indians-for-punjab-kings-in-exchange-for-arshdeep-singh-ahead-of-ipl-auction/articleshow/135638278.cms",
+      "dateLocation": "November 7, 2026 | Mumbai, India"
     },
     {
-      "headline": "CBSE Announces Marks Distribution for 2027 Exams",
-      "brief": "The Central Board of Secondary Education has officially released the detailed marks bifurcation guidelines for Class 10 and Class 12 board examinations for the year 2027. The revised framework outlines specific weight distributions between theory papers, practical assessments, and internal evaluations.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/cbse-marks-bifurcation-2027-class-10-12-students-check-how-marks-will-be-divided-between-theory-papers-practicals-and-internal-assessments/articleshow/135635307.cms",
-      "dateLocation": "2026-11-07 | New Delhi / Economic Times"
+      "headline": "China Expands Mining Footprint in Africa",
+      "brief": "China is aggressively tightening its control over critical global minerals with a massive $16 billion mining investment push across Africa amid rising geopolitical rivalry with the United States.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/world/how-china-is-tightening-its-grip-on-critical-minerals-with-16-billion-mining-push-in-africa-amid-us-rivalry-11794059301484.html",
+      "dateLocation": "November 7, 2026 | Beijing"
     }
   ]
 }
