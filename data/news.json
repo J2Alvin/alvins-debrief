@@ -1,110 +1,117 @@
 {
-  "lastUpdated": "2026-11-07T04:32:02.060Z",
+  "lastUpdated": "2026-11-07T12:24:32.978Z",
   "ticker": [
-    "US carries out targeted strikes on Iran",
-    "Delhi imposes GRAP-III restrictions as AQI worsens",
-    "Microsoft ends Oracle AI cloud capacity deal",
-    "ONGC targets Venezuelan oil project operations",
-    "US sanctions Canadian entities over Iran ties"
+    "Delhi ranks as world's most polluted major city on Diwali eve",
+    "Russian officials to join high-level talks with US and Ukraine",
+    "Missiles strike Iran's Qeshm Island amid rising regional tensions",
+    "Alphabet acquires $548 million stake in partner Qualcomm",
+    "India announces all Agniveers eligible for regular tenure extensions"
   ],
   "articles": [
     {
-      "headline": "US carries out targeted strikes on Iranian targets",
-      "brief": "The US military executed fresh targeted strikes in Iran, knocking out anti-aircraft devices as Tehran weighs mediator proposals and distributes iodine pills amid escalating fears.",
+      "headline": "Delhi Ranked World's Most Polluted Major City",
+      "brief": "Delhi emerged as the world's most polluted major city on the eve of Diwali, triggering stringent anti-pollution measures. Authorities escalated restrictions from Stage II to Stage III under the GRAP framework, curbing older vehicles, restricting construction activities, and implementing remote work policies across the national capital region to combat hazardous air quality levels.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
-      "dateLocation": "Nov 7 | Washington/Tehran"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
+      "dateLocation": "2026-11-07 | New Delhi / Reuters"
     },
     {
-      "headline": "US sanctions Canadian companies over Iran transactions",
-      "brief": "The United States Treasury has imposed sanctions on eight Canadian entities and money services firms accused of enabling unauthorized international transactions involving Iran.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-sanctions-eight-canadian-companies-over-iran-transactions-11794003533770.html",
-      "dateLocation": "Nov 7 | Washington"
+      "headline": "Russian Officials to Join US and Ukraine Talks",
+      "brief": "The Kremlin announced that Russian diplomats and military officials will participate in upcoming talks alongside the United States and Ukraine. The diplomatic engagement comes as fighting continues, marked by heavy overnight airstrikes hitting targets in and around Kyiv, signaling potential shifts in diplomatic channels amidst ongoing military escalations.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
+      "dateLocation": "2026-11-07 | Moscow / Reuters"
     },
     {
-      "headline": "Delhi enforces GRAP-III restrictions as AQI hits toxic levels",
-      "brief": "With Delhi's average air quality index soaring to 382 near severe thresholds ahead of Diwali, the Commission for Air Quality Management has invoked strict GRAP Stage III restrictions.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/caqm-imposes-grap-iii-in-delhi-ncr-ahead-of-diwali-as-aqi-soars-to-382-here-s-what-s-allowed-and-restricted-11794022821945.html",
-      "dateLocation": "Nov 7 | New Delhi"
-    },
-    {
-      "headline": "Microsoft winds down Oracle AI cloud capacity rental deal",
-      "brief": "Microsoft is terminating its multi-year AI cloud rental agreement with Oracle, prompting Oracle's free cash flow to drop and its stock to decline significantly following reassessed commitments.",
+      "headline": "Alphabet Takes $548 Million Stake in Qualcomm",
+      "brief": "Alphabet has acquired a $548 million stake in its technology partner Qualcomm to bolster its expanding data center infrastructure push. The strategic investment underlines Alphabet's ongoing efforts to secure advanced hardware components and chip partnerships as competition in cloud computing and artificial intelligence processing intensifies globally.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0g4UzRRaV9OckNuUjZYeVcybWl4SnhZUHVRR3pXVTFUdVMtWENOSWRKdjhUQThNTWlRWXd3YVJFTUVaM1hOaFI2UWJ6cDlWZjM4O3NXTWZDVlJFSTdnS3RqNExHcG93anIxTDhpNXJTRGduSEgxcWNaYnNRYTdOdWF4SzBoZzBLV3o1Wi1ZaEVPWkFXZVJSSWhYZWFSdE9BRFlINGtWWjhhM2FLUEdaYjJQOTBLQ0VCLVIyXw?oc=5",
-      "dateLocation": "Nov 7 | Reuters"
-    },
-    {
-      "headline": "Alphabet acquires stake in Qualcomm to drive data center push",
-      "brief": "Google parent Alphabet has secured a $548 million stake in technology partner Qualcomm as part of an aggressive strategic push into expanding advanced data center capabilities.",
-      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5",
-      "dateLocation": "Nov 7 | Reuters"
+      "dateLocation": "2026-11-07 | San Francisco / Reuters"
     },
     {
-      "headline": "India's ONGC targets Venezuelan oil project operations",
-      "brief": "State-owned ONGC expects to secure operational rights for two critical Venezuelan oil projects within the next six months, bolstering international energy cooperation.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5",
-      "dateLocation": "Nov 7 | Reuters"
-    },
-    {
-      "headline": "India stocks post best week in six years",
-      "brief": "Bucking a broader global technology rout, Indian stock markets closed a stellar week with significant gains, marking their strongest weekly performance in six years.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
-      "dateLocation": "Nov 7 | Reuters"
-    },
-    {
-      "headline": "India bowlers dominate New Zealand in ODI clash",
-      "brief": "Mirroring historic bowling performances, Indian pacers utilized testing conditions to keep New Zealand batters under intense pressure, continuing their dominant series form.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/seven-years-later-india-bowlers-recreate-new-zealands-2019-world-cup-semifinal-nightmare/articleshow/135626169.cms",
-      "dateLocation": "Nov 7 | Times of India"
-    },
-    {
-      "headline": "Supreme Court clarifies creamy layer verdict applicability",
-      "brief": "The Supreme Court of India ruled that its recent creamy layer judgment will exclusively apply to individuals who formally challenged the government's contested decision.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/creamy-layer-verdict-only-for-those-who-challenged-govt-decision-says-sc/articleshow/135623909.cms",
-      "dateLocation": "Nov 7 | New Delhi"
-    },
-    {
-      "headline": "TSMC explores expanding into advanced memory chip manufacturing",
-      "brief": "Semiconductor giant TSMC is reportedly evaluating plans to venture into advanced memory chip production to meet soaring AI hardware and computing demands.",
+      "headline": "TSMC Considers Manufacturing Advanced Memory Chips",
+      "brief": "Taiwan Semiconductor Manufacturing Co is reportedly considering expanding its production capabilities to include advanced memory chips. According to industry reports, entering the advanced memory sector would allow TSMC to better cater to high-performance computing and artificial intelligence hardware developers seeking tightly integrated packaging solutions.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5",
-      "dateLocation": "Nov 7 | Reuters"
+      "dateLocation": "2026-11-07 | Taipei / Reuters"
     },
     {
-      "headline": "France braces for widespread yellow vest disobedience protests",
-      "brief": "French authorities are preparing for mass demonstrations and civil disobedience protests called by yellow vest movements across major cities amid rising economic tensions.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/france-braces-for-protests-on-saturday-as-yellow-vests-urge-mass-disobedience/articleshow/135624682.cms",
-      "dateLocation": "Nov 7 | Paris"
-    },
-    {
-      "headline": "Enforcement Directorate probes foreign funds meddling in India",
-      "brief": "India's Enforcement Directorate is tracking a $1.5 million international funding trail across multiple countries, investigating alleged foreign interference in domestic affairs.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/ed-probes-1-5-million-foreign-funding-trail-across-six-countries-over-alleged-meddling-in-indias-domestic-affairs/articleshow/135625666.cms",
-      "dateLocation": "Nov 7 | New Delhi"
-    },
-    {
-      "headline": "Amazon introduces text-based shopping integration with Alexa",
-      "brief": "Amazon has rolled out a new text-based shopping feature on Alexa, allowing users to effortlessly research, compare products, track price drops, and complete purchases.",
+      "headline": "India's ONGC Targets Venezuelan Oil Projects",
+      "brief": "State-backed Oil and Natural Gas Corporation of India aims to secure operational rights for two Venezuelan oil projects within the next six months. The move reflects India's ongoing efforts to diversify its crude oil sourcing and secure long-term energy supplies amidst shifting geopolitical sanctions and international market dynamics.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/amazon-rolls-out-text-based-shopping-through-alexa/article71677218.ece",
-      "dateLocation": "Nov 7 | Seattle"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5",
+      "dateLocation": "2026-11-07 | New Delhi / Reuters"
     },
     {
-      "headline": "Maharashtra leases reservoir land for fodder in drought areas",
-      "brief": "To mitigate severe livestock shortages during the ongoing dry season, the Maharashtra government is leasing reservoir land for fodder cultivation across 304 drought-hit talukas.",
+      "headline": "Kishore Biyani and FRL Booked in SBI Fraud Case",
+      "brief": "The Central Bureau of Investigation has formally booked Kishore Biyani and Future Retail Ltd in connection with an alleged ₹904 crore fraud involving the State Bank of India. The investigation focuses on financial irregularities and default issues stemming from the collapse of the retail conglomerate's debt obligations.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/cbi-books-kishore-biyani-and-frl-in-904-crore-sbi-fraud-case/articleshow/135619292.cms",
+      "dateLocation": "2026-11-07 | New Delhi / Economic Times"
+    },
+    {
+      "headline": "All Agniveers Eligible for Regular Tenure Extensions",
+      "brief": "Defence Minister Rajnath Singh announced that all Agniveers will be given an opportunity for regular military enrollment following a two-year tenure extension. Retention will depend on individual willingness and meeting established operational selection criteria, modifying the initial recruitment structure to offer greater career security.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/all-agniveers-eligible-for-regular-enrollment-post-2-year-tenure-extension-rajnath-singh/article71678219.ece",
+      "dateLocation": "2026-11-07 | New Delhi / The Hindu"
+    },
+    {
+      "headline": "Karnataka High Court Rules ED Is Not 'Super Cop'",
+      "brief": "The Karnataka High Court has ruled that the Enforcement Directorate cannot act as a 'super cop' by filing private complaints when local investigative agencies decline to act on its shared information. The observation came as the court quashed pending ED cases against a state legislator.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
+      "dateLocation": "2026-11-07 | Bengaluru / The Hindu"
+    },
+    {
+      "headline": "Iran Distributes Iodine Pills Near Nuclear Sites",
+      "brief": "Amid heightened fears of potential US military strikes, Iranian authorities have begun distributing iodine tablets to residents living near major nuclear facilities. The distribution accompanies regional diplomatic tensions and concerns regarding potential escalation following discussions within the Trump administration regarding fresh military actions.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/iran-distributes-iodine-pills-near-nuclear-sites-as-trump-weighs-fresh-strikes-report/articleshow/135635140.cms",
+      "dateLocation": "2026-11-07 | Tehran / Times of India"
+    },
+    {
+      "headline": "Nivetha Wins AFC Youth Female Coach of the Year",
+      "brief": "Indian football coach Nivetha has been awarded the prestigious AFC Youth Female Coach of the Year title. The accolade recognizes her exceptional contributions to developing young female football talent and advancing women's football coaching standards across the Asian continent.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/football/womens-football/article71677785.ece",
+      "dateLocation": "2026-11-07 | New Delhi / The Hindu"
+    },
+    {
+      "headline": "India Struggles Against New Zealand in Wellington ODI",
+      "brief": "India's top order faced severe challenges against New Zealand's aggressive bowling attack on a seaming Wellington pitch during a low-scoring ODI thriller. Despite a modest target, the visitors experienced a dramatic batting collapse, highlighting ongoing vulnerabilities when confronting bouncy conditions and quality pace bowling.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/from-run-fest-to-a-spicy-feast-a-tale-of-two-113s-in-wellington/articleshow/135635513.cms",
+      "dateLocation": "2026-11-07 | Wellington / Times of India"
+    },
+    {
+      "headline": "Paraguayan President Santiago Peña Impeached",
+      "brief": "Paraguayan President Santiago Peña was impeached and placed under house arrest by the Senate following the collapse of a major government-linked bank. The financial failure left nearly half of the nation's population locked out of their savings, triggering widespread political upheaval and immediate constitutional removal.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/world/why-was-paraguayan-president-santiago-pe-a-impeached-and-placed-under-house-arrest-all-about-the-case-and-its-fallout-11794024451508.html",
+      "dateLocation": "2026-11-07 | Asunción / LiveMint"
+    },
+    {
+      "headline": "Amazon Faces $309.5 Million Refund Lawsuit Payout",
+      "brief": "Amazon is facing a massive $309.5 million refund payout following a major consumer protection lawsuit settlement in the United States. The legal action addresses disputed billing and return practices, obligating the e-commerce giant to compensate eligible consumers under court supervision.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/amazon-return-refund-lawsuit-claims-jeff-bezos-company-to-pay-309-5-million-to-americans-check-eligibility-and-deadline/articleshow/135635099.cms",
+      "dateLocation": "2026-11-07 | Washington / Economic Times"
+    },
+    {
+      "headline": "Finland Considers Tank Barriers Amid Russian Rearmament",
+      "brief": "Finland is actively considering the implementation of Ukraine-style anti-tank barriers along its borders as Russia continues its military rearmament. Finnish defense planners are evaluating how heavy fortification structures would withstand harsh northern weather conditions to bolster national security.",
       "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/maharashtra-to-lease-reservoir-land-for-fodder-cultivation-in-304-drought-hit-talukas/article71675170.ece",
-      "dateLocation": "Nov 7 | Mumbai"
+      "sourceUrl": "https://www.livemint.com/news/world/finland-considers-ukraine-style-tank-barriers-as-russia-rearms-11794035989983.html",
+      "dateLocation": "2026-11-07 | Helsinki / LiveMint"
+    },
+    {
+      "headline": "CBSE Announces Marks Distribution for 2027 Exams",
+      "brief": "The Central Board of Secondary Education has officially released the detailed marks bifurcation guidelines for Class 10 and Class 12 board examinations for the year 2027. The revised framework outlines specific weight distributions between theory papers, practical assessments, and internal evaluations.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/cbse-marks-bifurcation-2027-class-10-12-students-check-how-marks-will-be-divided-between-theory-papers-practicals-and-internal-assessments/articleshow/135635307.cms",
+      "dateLocation": "2026-11-07 | New Delhi / Economic Times"
     }
   ]
 }
