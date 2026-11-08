@@ -1,68 +1,124 @@
 {
-  "lastUpdated": "2026-11-08T04:18:57.094Z",
+  "lastUpdated": "2026-11-08T12:42:43.631Z",
   "ticker": [
-    "Delhi Air Quality Hits Severe Levels on Diwali",
-    "Strong Earthquake Strikes Central Japan",
-    "US Military Moves to Restrict Iranian Land Commerce",
-    "Dana White Declines White House Press Secretary Offer",
-    "Saudi Airstrikes Reported in Yemen Village"
+    "Zaporizhzhia nuclear plant on generators after power loss",
+    "Explosions reported in southern Iran amid escalating tensions",
+    "Saudi Aramco building damaged by falling debris in Riyadh",
+    "Delhi ranks as world's most polluted major city ahead of Diwali",
+    "US military launches task force to restrict Iranian land commerce"
   ],
   "articles": [
     {
-      "headline": "Delhi Ranks as World's Most Polluted Major City",
-      "brief": "Delhi's air quality plunged to severe categories on the eve of Diwali, driven by vehicular emissions, local pollution sources, and peak stubble-burning seasons, according to a Swiss group's report.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDQ21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
-      "dateLocation": "November 8, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Israel's President Tasks Gadi Eisenkot with Forming Government",
-      "brief": "Israeli President has chosen Gadi Eisenkot, a political rival of Benjamin Netanyahu, to attempt to form a new government amid ongoing political shifts and regional security challenges.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
-      "dateLocation": "November 8, 2026 | Jerusalem"
-    },
-    {
-      "headline": "US Military Targets Iranian Land Commerce Routes",
-      "brief": "Expanding beyond traditional naval blockades, the US military has established a task force to disrupt and restrict Iranian ground supply routes and land commerce across the region.",
+      "headline": "Zaporizhzhia plant relies on backup generators following power cut",
+      "brief": "The Zaporizhzhia nuclear power plant is once again relying on emergency diesel generators after losing its external power supply, raising fresh nuclear safety concerns amid ongoing regional conflict.",
       "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
+      "dateLocation": "November 8, 2026 | Reuters"
+    },
+    {
+      "headline": "Explosions reported across southern Iran according to local media",
+      "brief": "Multiple explosions have been heard in various areas across southern Iran, according to state and local media reports, as regional tensions continue to escalate sharply.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyO3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
+      "dateLocation": "November 8, 2026 | Reuters"
+    },
+    {
+      "headline": "US military establishes new task force targeting Iranian land trade",
+      "brief": "Expanding beyond the existing naval blockade, the United States military has launched a specialized task force aimed at restricting Iranian land commerce and supply routes.",
+      "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
-      "dateLocation": "November 8, 2026 | Washington"
+      "dateLocation": "November 8, 2026 | Reuters"
     },
     {
-      "headline": "Strong Earthquake Rattles Central Japan",
-      "brief": "A magnitude 5.7 earthquake struck central Japan near Shizuoka Prefecture, shattering store windows, disrupting bullet train services, and injuring at least twenty-two people.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/strong-earthquake-strikes-japan/article71680450.ece",
-      "dateLocation": "November 8, 2026 | Tokyo, Japan"
+      "headline": "Democratic wins in state AG races challenge Trump agenda",
+      "brief": "Incoming Democratic state attorneys general are preparing to halt cooperation with federal immigration operations, fortify abortion access, and file multistate legal challenges against upcoming Trump administration policies.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/democratic-wins-in-stateag-races-give-trump-a-new-headache/article71680926.ece",
+      "dateLocation": "November 8, 2026 | The Hindu"
     },
     {
-      "headline": "FSSAI Seizes Tons of Contaminated Food Ahead of Diwali",
-      "brief": "The Food Safety and Standards Authority of India seized 3,280 tons of non-compliant food items and canceled numerous licenses during a nationwide enforcement drive targeting adulterated sweets and dairy.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece",
-      "dateLocation": "November 8, 2026 | New Delhi, India"
+      "headline": "Delhi ranks as world's most polluted major city ahead of Diwali",
+      "brief": "A Swiss group analysis has identified Delhi as the world's most polluted major city on the eve of the Diwali festival, amid growing air quality concerns.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
+      "dateLocation": "November 8, 2026 | Reuters"
     },
     {
-      "headline": "Tesla Adds Shift to Clear Cybertruck Orders",
-      "brief": "Tesla is introducing a final manufacturing shift for the Cybertruck to clear existing order backlogs before permanently dismantling the production line next year.",
+      "headline": "Nearly 100 fall ill after consuming street food in Uttar Pradesh",
+      "brief": "Roughly 100 residents in Siddharthnagar village fell ill with vomiting and severe diarrhea after consuming contaminated pani puri and tikki from a local street vendor, prompting local health department interventions.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/nearly-100-fall-ill-after-eating-pani-puri-tikki-from-street-vendor-in-up-villages/articleshow/135658035.cms",
+      "dateLocation": "November 8, 2026 | Times of India"
+    },
+    {
+      "headline": "Microsoft employees describe work as joyless amid buyout offers",
+      "brief": "Thousands of Microsoft employees have signed an open letter criticizing the company's aggressive AI strategy at the expense of culture, coinciding with massive global buyout offers extended to 60,000 staff members.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-offers-buyouts-to-60000-employees-staff-write-open-letter-says-working-at-microsoft-has-become-joyless-and-/articleshow/135657463.cms",
+      "dateLocation": "November 8, 2026 | Times of India"
+    },
+    {
+      "headline": "Tesla to add Cybertruck production shift ahead of line closure",
+      "brief": "Tesla plans to introduce an additional Cybertruck shift in order to clear existing customer orders before permanently dismantling the manufacturing line next year.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
-      "dateLocation": "November 8, 2026 | Austin, Texas"
+      "dateLocation": "November 8, 2026 | Reuters"
     },
     {
-      "headline": "Dana White Declines White House Press Secretary Offer",
-      "brief": "UFC Chief Executive Dana White has reportedly declined Donald Trump's offer to take over as the White House press secretary, citing his current leadership responsibilities.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/dana-white-declines-trumps-offer-to-become-white-house-press-secretary-report/articleshow/135649493.cms",
-      "dateLocation": "November 8, 2026 | Washington"
+      "headline": "India's ONGC targets operational rights for two Venezuelan oil fields",
+      "brief": "State-run Indian oil firm ONGC expects to secure rights to operate two major Venezuelan oil projects within the next six months following recent regulatory adjustments.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5",
+      "dateLocation": "November 8, 2026 | Reuters"
     },
     {
-      "headline": "Berkshire Hathaway Speeds Up Stock Buybacks Despite Profit Dip",
-      "brief": "Warren Buffett's Berkshire Hathaway accelerated its share buyback program during the latest quarter even as overall corporate operating profits experienced a modest decline.",
+      "headline": "Saudi Aramco building in Riyadh damaged following attempted attack",
+      "brief": "A Saudi Aramco building in Riyadh sustained minor structural damage and shattered glass from falling debris following an attempted missile and aerial attack intercepted by civil defense forces.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
+      "dateLocation": "November 8, 2026 | Reuters"
+    },
+    {
+      "headline": "Reserve Bank of India rejects rumors of new cheque book rules",
+      "brief": "The Reserve Bank of India has officially dismissed circulating rumors, clarifying that no new nationwide cheque book validation rules or formats will become effective in January.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5",
-      "dateLocation": "November 8, 2026 | Omaha, Nebraska"
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-rejects-rumors-no-new-cheque-book-rules-effective-january-2027/articleshow/135652950.cms",
+      "dateLocation": "November 8, 2026 | The Economic Times"
+    },
+    {
+      "headline": "Consumer court penalizes Karnataka society over unfulfilled fixed deposit",
+      "brief": "A consumer disputes redressal forum has ordered a Karnataka financial cooperative society to pay Rs 17.63 lakh to a depositor after the institution failed to return funds promised with high interest upon maturity.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/woman-expects-12-interest-on-fixed-deposit-puts-rs-9-5-lakh-in-karnataka-society-fails-to-recover-money-after-maturity-consumer-court-orders-society-to-pay-rs-17-63-lakh/articleshow/135653525.cms",
+      "dateLocation": "November 8, 2026 | The Economic Times"
+    },
+    {
+      "headline": "Pakistan U-19 cricket team suffers embarrassing fielding blunder",
+      "brief": "Pakistan's youth cricket team went viral during the U-19 Asia Cup after three fielders collided and failed to catch a high-ball, gifting India an easy passage of play during a crucial group encounter.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-pak-pakistans-hilarious-fielding-blunder-against-india-at-u19-asia-cup-goes-viral-watch/articleshow/135658043.cms",
+      "dateLocation": "November 8, 2026 | Times of India"
+    },
+    {
+      "headline": "Rinku Singh appointed India A vice-captain for Rising Stars Asia Cup",
+      "brief": "Hard-hitting batsman Rinku Singh has been named vice-captain of the India A squad for the upcoming Rising Stars Asia Cup following Rajat Patidar's withdrawal from the tournament.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/rinku-singh-named-india-a-vice-captain-for-rising-stars-asia-cup-after-patidar-withdraws/articleshow/135653380.cms",
+      "dateLocation": "November 8, 2026 | The Economic Times"
+    },
+    {
+      "headline": "Federal judge orders probe into illegal tree cutting at Trump golf course",
+      "brief": "A federal judge has appointed a former prosecutor to investigate whether government lawyers misled the court regarding the unapproved felling of over 400 trees at Donald Trump's Washington-area golf course.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/after-more-than-400-trees-were-cut-at-trumps-washington-golf-course-a-federal-judge-names-a-former-prosecutor-to-investigate-whether-government-lawyers-misled-her-about-plans-to-continue-redevelopment/articleshow/135655361.cms",
+      "dateLocation": "November 8, 2026 | Times of India"
+    },
+    {
+      "headline": "JNU student arrested for attempted murder following campus assault",
+      "brief": "Delhi Police arrested a Jawaharlal Nehru University student for allegedly attempting to murder a fellow peer with multiple weapon strikes inside campus premises following a personal dispute.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/jnu-student-arrested-for-attempt-to-murder-fellow-student-over-friendship-with-woman-4-injured/articleshow/135655825.cms",
+      "dateLocation": "November 8, 2026 | Times of India"
     }
   ]
 }
