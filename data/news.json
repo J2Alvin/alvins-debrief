@@ -1,124 +1,96 @@
 {
-  "lastUpdated": "2026-11-08T12:42:43.631Z",
+  "lastUpdated": "2026-11-09T00:00:00.000Z",
   "ticker": [
-    "Zaporizhzhia nuclear plant on generators after power loss",
-    "Explosions reported in southern Iran amid escalating tensions",
-    "Saudi Aramco building damaged by falling debris in Riyadh",
-    "Delhi ranks as world's most polluted major city ahead of Diwali",
-    "US military launches task force to restrict Iranian land commerce"
+    "Eisenkot tasked with forming new Israeli government",
+    "Egypt train collision leaves 7 dead and dozens injured",
+    "Anthropic secures $3.4B AI data center generator deal",
+    "Power restored to Zaporizhzhia nuclear plant, IAEA confirms",
+    "Pakistan beats India in U-19 Asia Cup thriller"
   ],
   "articles": [
     {
-      "headline": "Zaporizhzhia plant relies on backup generators following power cut",
-      "brief": "The Zaporizhzhia nuclear power plant is once again relying on emergency diesel generators after losing its external power supply, raising fresh nuclear safety concerns amid ongoing regional conflict.",
+      "headline": "Israeli President Tasks Gadi Eisenkot to Form Government",
+      "brief": "Israeli President Isaac Herzog has assigned Netanyahu rival Gadi Eisenkot the responsibility of forming the next government. Eisenkot secured recommendations from 67 lawmakers but faces uphill coalition-building challenges.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+      "dateLocation": "November 9, 2026 | Jerusalem/Reuters"
+    },
+    {
+      "headline": "Egypt Train Collision Kills at Least Seven People",
+      "brief": "A tragic train collision in Egypt has killed at least seven people and injured over a hundred others. The railway authority reported that a regional service crashed into the rear of a stationary passenger train.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
+      "dateLocation": "November 9, 2026 | Cairo/Reuters"
+    },
+    {
+      "headline": "Anthropic Secures $3.4 Billion Generator Deal for AI",
+      "brief": "Anthropic has reportedly secured a massive $3.4 billion generator deal to power its growing network of energy-intensive AI data centers, according to Financial Times reports.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+      "dateLocation": "November 9, 2026 | London/Reuters"
+    },
+    {
+      "headline": "Trump Says Iran Strikes Unlikely If Diplomacy Progresses",
+      "brief": "Former U.S. President Donald Trump stated that ordering fresh military strikes against Iran is highly unlikely, provided current nuclear negotiations and regional diplomatic efforts continue to show positive progress.",
       "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
+      "dateLocation": "November 9, 2026 | Washington/Reuters"
+    },
+    {
+      "headline": "Power Restored to Zaporizhzhia Nuclear Plant, IAEA Says",
+      "brief": "The International Atomic Energy Agency confirmed that external power has been successfully restored to the Zaporizhzhia nuclear power plant following recent disruptions that heightened safety concerns at the facility.",
+      "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
-      "dateLocation": "November 8, 2026 | Reuters"
+      "dateLocation": "November 9, 2026 | Vienna/Reuters"
     },
     {
-      "headline": "Explosions reported across southern Iran according to local media",
-      "brief": "Multiple explosions have been heard in various areas across southern Iran, according to state and local media reports, as regional tensions continue to escalate sharply.",
+      "headline": "Europeans to Join Ukraine Talks in Abu Dhabi",
+      "brief": "European diplomats are set to participate in upcoming Ukraine peace and security talks hosted in Abu Dhabi, aiming to coordinate diplomatic strategies with international partners, according to the French foreign minister.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyO3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
-      "dateLocation": "November 8, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+      "dateLocation": "November 9, 2026 | Paris/Reuters"
     },
     {
-      "headline": "US military establishes new task force targeting Iranian land trade",
-      "brief": "Expanding beyond the existing naval blockade, the United States military has launched a specialized task force aimed at restricting Iranian land commerce and supply routes.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
-      "dateLocation": "November 8, 2026 | Reuters"
-    },
-    {
-      "headline": "Democratic wins in state AG races challenge Trump agenda",
-      "brief": "Incoming Democratic state attorneys general are preparing to halt cooperation with federal immigration operations, fortify abortion access, and file multistate legal challenges against upcoming Trump administration policies.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/democratic-wins-in-stateag-races-give-trump-a-new-headache/article71680926.ece",
-      "dateLocation": "November 8, 2026 | The Hindu"
-    },
-    {
-      "headline": "Delhi ranks as world's most polluted major city ahead of Diwali",
-      "brief": "A Swiss group analysis has identified Delhi as the world's most polluted major city on the eve of the Diwali festival, amid growing air quality concerns.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
-      "dateLocation": "November 8, 2026 | Reuters"
-    },
-    {
-      "headline": "Nearly 100 fall ill after consuming street food in Uttar Pradesh",
-      "brief": "Roughly 100 residents in Siddharthnagar village fell ill with vomiting and severe diarrhea after consuming contaminated pani puri and tikki from a local street vendor, prompting local health department interventions.",
-      "category": "health",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/nearly-100-fall-ill-after-eating-pani-puri-tikki-from-street-vendor-in-up-villages/articleshow/135658035.cms",
-      "dateLocation": "November 8, 2026 | Times of India"
-    },
-    {
-      "headline": "Microsoft employees describe work as joyless amid buyout offers",
-      "brief": "Thousands of Microsoft employees have signed an open letter criticizing the company's aggressive AI strategy at the expense of culture, coinciding with massive global buyout offers extended to 60,000 staff members.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-offers-buyouts-to-60000-employees-staff-write-open-letter-says-working-at-microsoft-has-become-joyless-and-/articleshow/135657463.cms",
-      "dateLocation": "November 8, 2026 | Times of India"
-    },
-    {
-      "headline": "Tesla to add Cybertruck production shift ahead of line closure",
-      "brief": "Tesla plans to introduce an additional Cybertruck shift in order to clear existing customer orders before permanently dismantling the manufacturing line next year.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
-      "dateLocation": "November 8, 2026 | Reuters"
-    },
-    {
-      "headline": "India's ONGC targets operational rights for two Venezuelan oil fields",
-      "brief": "State-run Indian oil firm ONGC expects to secure rights to operate two major Venezuelan oil projects within the next six months following recent regulatory adjustments.",
+      "headline": "Production Suspended at Iraq Khor Mor Field After Attack",
+      "brief": "Gas production at Iraq's Khor Mor field has been suspended following a drone attack that struck a storage facility. Crews were ordered into shelters as precautionary security measures were implemented.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5",
-      "dateLocation": "November 8, 2026 | Reuters"
+      "sourceUrl": "https://www.thehindu.com/news/international/iraq-khor-mor-gas-field-drone-attack-november-9-2026/article71681223.ece",
+      "dateLocation": "November 9, 2026 | Baghdad/The Hindu"
     },
     {
-      "headline": "Saudi Aramco building in Riyadh damaged following attempted attack",
-      "brief": "A Saudi Aramco building in Riyadh sustained minor structural damage and shattered glass from falling debris following an attempted missile and aerial attack intercepted by civil defense forces.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
-      "dateLocation": "November 8, 2026 | Reuters"
+      "headline": "Pakistan Defeats India by Three Wickets in U-19 Asia Cup",
+      "brief": "Pakistan's under-19 cricket team secured a narrow three-wicket victory over arch-rivals India in a competitive encounter during the ongoing youth regional tournament.",
+      "category": "sports",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-beat-india-by-three-wickets-in-u-19-asia-cup/articleshow/135660028.cms",
+      "dateLocation": "November 9, 2026 | New Delhi/Economic Times"
     },
     {
-      "headline": "Reserve Bank of India rejects rumors of new cheque book rules",
-      "brief": "The Reserve Bank of India has officially dismissed circulating rumors, clarifying that no new nationwide cheque book validation rules or formats will become effective in January.",
+      "headline": "Nvidia CEO Jensen Huang Admits Affair, Board Orders Review",
+      "brief": "Nvidia CEO Jensen Huang publicly disclosed an extramarital affair with a Singapore-based CEO. The company's board has launched an independent security review over potential national security vulnerabilities.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-admits-affair-with-singapore-based-companys-ceo-read-his-email-to-nvidias-employees/articleshow/135665758.cms",
+      "dateLocation": "November 9, 2026 | San Francisco/Times of India"
+    },
+    {
+      "headline": "Indian Shares Consolidate in Special Diwali Session",
+      "brief": "Indian benchmark equity indices consolidated during the festive Diwali trading session, pausing slightly after posting a strong seven-session consecutive winning streak.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSURhQVo2bnpTNGJqSFRaSk5Tc1ZFcmxGcTU0MXNiVkR4b2tQekR0VXlhVktMZzYwMWdHUnpkWWdyM1lGTUowOXhLR19tMl9wd1BpS3J4MWpvNnJxaUpUSXg5M2pyTUtCaUFaRy16dTdKRDBGekI1czdXSGcwMjR4MnJDVGxLbDdPREdyMms4cFlpbTl6U3FxeHY5NXI4NHQ4VVR3VTQyT2cyU2wwa2Iw?oc=5",
+      "dateLocation": "November 9, 2026 | Mumbai/Reuters"
+    },
+    {
+      "headline": "RBI Clarifies No New Checkbook Rules in January",
+      "brief": "The Reserve Bank of India has officially rejected viral market rumors, confirming that no new operational guidelines or sweeping changes to checkbook rules will take effect in January.",
       "category": "finance",
       "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-rejects-rumors-no-new-cheque-book-rules-effective-january-2027/articleshow/135652950.cms",
-      "dateLocation": "November 8, 2026 | The Economic Times"
+      "dateLocation": "November 9, 2026 | Mumbai/Economic Times"
     },
     {
-      "headline": "Consumer court penalizes Karnataka society over unfulfilled fixed deposit",
-      "brief": "A consumer disputes redressal forum has ordered a Karnataka financial cooperative society to pay Rs 17.63 lakh to a depositor after the institution failed to return funds promised with high interest upon maturity.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/woman-expects-12-interest-on-fixed-deposit-puts-rs-9-5-lakh-in-karnataka-society-fails-to-recover-money-after-maturity-consumer-court-orders-society-to-pay-rs-17-63-lakh/articleshow/135653525.cms",
-      "dateLocation": "November 8, 2026 | The Economic Times"
-    },
-    {
-      "headline": "Pakistan U-19 cricket team suffers embarrassing fielding blunder",
-      "brief": "Pakistan's youth cricket team went viral during the U-19 Asia Cup after three fielders collided and failed to catch a high-ball, gifting India an easy passage of play during a crucial group encounter.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-pak-pakistans-hilarious-fielding-blunder-against-india-at-u19-asia-cup-goes-viral-watch/articleshow/135658043.cms",
-      "dateLocation": "November 8, 2026 | Times of India"
-    },
-    {
-      "headline": "Rinku Singh appointed India A vice-captain for Rising Stars Asia Cup",
-      "brief": "Hard-hitting batsman Rinku Singh has been named vice-captain of the India A squad for the upcoming Rising Stars Asia Cup following Rajat Patidar's withdrawal from the tournament.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/rinku-singh-named-india-a-vice-captain-for-rising-stars-asia-cup-after-patidar-withdraws/articleshow/135653380.cms",
-      "dateLocation": "November 8, 2026 | The Economic Times"
-    },
-    {
-      "headline": "Federal judge orders probe into illegal tree cutting at Trump golf course",
-      "brief": "A federal judge has appointed a former prosecutor to investigate whether government lawyers misled the court regarding the unapproved felling of over 400 trees at Donald Trump's Washington-area golf course.",
+      "headline": "Tens of Thousands March in Amsterdam Over Gaza War",
+      "brief": "A massive 'Red Line' demonstration brought central Amsterdam to a standstill as tens of thousands of protesters demanded that the Dutch government enforce stricter trade sanctions and halt arms sales to Israel.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/after-more-than-400-trees-were-cut-at-trumps-washington-golf-course-a-federal-judge-names-a-former-prosecutor-to-investigate-whether-government-lawyers-misled-her-about-plans-to-continue-redevelopment/articleshow/135655361.cms",
-      "dateLocation": "November 8, 2026 | Times of India"
-    },
-    {
-      "headline": "JNU student arrested for attempted murder following campus assault",
-      "brief": "Delhi Police arrested a Jawaharlal Nehru University student for allegedly attempting to murder a fellow peer with multiple weapon strikes inside campus premises following a personal dispute.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/jnu-student-arrested-for-attempt-to-murder-fellow-student-over-friendship-with-woman-4-injured/articleshow/135655825.cms",
-      "dateLocation": "November 8, 2026 | Times of India"
+      "sourceUrl": "https://www.thehindu.com/news/international/tens-of-thousands-march-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
+      "dateLocation": "November 9, 2026 | Amsterdam/The Hindu"
     }
   ]
 }
