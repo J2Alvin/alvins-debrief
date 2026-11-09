@@ -1,96 +1,89 @@
 {
-  "lastUpdated": "2026-11-09T00:00:00.000Z",
+  "lastUpdated": "2026-11-09T04:33:21.894Z",
   "ticker": [
-    "Eisenkot tasked with forming new Israeli government",
-    "Egypt train collision leaves 7 dead and dozens injured",
-    "Anthropic secures $3.4B AI data center generator deal",
-    "Power restored to Zaporizhzhia nuclear plant, IAEA confirms",
-    "Pakistan beats India in U-19 Asia Cup thriller"
+    "Delhi AQI hits severe levels post-Diwali",
+    "Nvidia CEO admits affair, board probes security",
+    "Trump meets Qatar PM amid Iran diplomacy hurdles",
+    "Sheikh Hasina seeks new passport for December return",
+    "Asian stocks steady as regional jitters recede"
   ],
   "articles": [
     {
-      "headline": "Israeli President Tasks Gadi Eisenkot to Form Government",
-      "brief": "Israeli President Isaac Herzog has assigned Netanyahu rival Gadi Eisenkot the responsibility of forming the next government. Eisenkot secured recommendations from 67 lawmakers but faces uphill coalition-building challenges.",
+      "headline": "Asian Stocks Steady Amid Easing AI and Mideast Jitters",
+      "brief": "Asian markets held steady as concerns regarding artificial intelligence and Middle East tensions receded, while the dollar remained firm driven by Federal Reserve rate expectations.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
+      "dateLocation": "November 9, 2026 | Reuters"
+    },
+    {
+      "headline": "China's Factory-Gate Inflation Hits Multi-Year High",
+      "brief": "China reported its fastest factory-gate inflation in nearly four and a half years for October, even as consumer price index rises moderated across the country.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ?oc=5",
+      "dateLocation": "November 9, 2026 | Reuters"
+    },
+    {
+      "headline": "Sheikh Hasina Seeks New Passport for Bangladesh Return",
+      "brief": "Former Bangladesh Prime Minister Sheikh Hasina has requested a new passport and national identity card ahead of a planned December return, while the government pushes for her extradition.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQy1pMFQtX2ZjVFVyZTJSR296WXMzdl9haTFsMEk5S2RWR0wwWWpzNG12Mld0VFVIYVpnOEZnVHVBa3ppeTJVZHNjZlNyQXhxWTBDVFhiSU1nbDJUSXdlaUZzdzl5d2twLWZKMW9DazVxNFNiamQyY1h6cDM2WDUyRFM0ZjVWSTlhWWFkaWtSREtmVFVNV29qT3U3d0dBcGx1eHNBblZZQTc3ajF4Q1dQWVln?oc=5",
+      "dateLocation": "November 9, 2026 | Reuters"
+    },
+    {
+      "headline": "Trump Meets Qatar PM as Iran Diplomacy Faces Hurdles",
+      "brief": "US President Donald Trump is set to meet Qatar's prime minister as diplomatic efforts regarding Iran encounter major hurdles and conflicting regional demands.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
-      "dateLocation": "November 9, 2026 | Jerusalem/Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5",
+      "dateLocation": "November 9, 2026 | Reuters"
     },
     {
-      "headline": "Egypt Train Collision Kills at Least Seven People",
-      "brief": "A tragic train collision in Egypt has killed at least seven people and injured over a hundred others. The railway authority reported that a regional service crashed into the rear of a stationary passenger train.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
-      "dateLocation": "November 9, 2026 | Cairo/Reuters"
+      "headline": "Iraq Gas Field Production Suspended After Drone Attack",
+      "brief": "Production at Iraq's Khor Mor gas field has been entirely suspended following a drone attack, according to industry sources close to the operation.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSjc4dFNBUmN3UHp3Uk5FLUhNOElWeTVLRDNzSHZsSTAyUWZ4elN0eHdYUVJ5MDZBb0Y3MDNaNzlWbTRHMnctUFY5dGdNWWtKUnZTdHRPeXl1UUhlUE9mdTU0d2ZWTk9Hak9HaHVXaVBJQ3PhVXdfZnFxelF2aUc1MEV1U0JFQ1lDQ0s3RXhtRnk2dmoxZ2h4a3FRazE4Y3VpbGlDYW1zdE1DcDYxU3R4aE9zOWxkdTNuRVFxMzRlTDEtMDNHRmpr?oc=5",
+      "dateLocation": "November 9, 2026 | Reuters"
     },
     {
-      "headline": "Anthropic Secures $3.4 Billion Generator Deal for AI",
-      "brief": "Anthropic has reportedly secured a massive $3.4 billion generator deal to power its growing network of energy-intensive AI data centers, according to Financial Times reports.",
+      "headline": "Israel: Netanyahu Rival Eisenkot Seeks Wide Government",
+      "brief": "Gadi Eisenkot has received a mandate to form a government in Israel after a tight election, though his path to building a stable coalition remains uncertain.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejJnOTcwYVNEbnpEdVN4M0cwM3BsNEVBbXBpd21YUEcyM3RfX0FKUWsxaHk2dDVmc2NZZXR5cmNZY1NyY0o2MzlMSzU3SW1oVFpadFRLWjlTWHlWY3UxN2FXbUNQeFB4TlZrNlRyRW5jal9zQ2NaQWE2aGNfbHQxb1Zxb3VHcjRxcnNFaDZpdEw0Vm14eHNPLTVhM2l1ejJiYkMyQU51YzZRWEZSdm51ck5HOUh2NFNaQW5ONnhn?oc=5",
+      "dateLocation": "November 9, 2026 | Reuters"
+    },
+    {
+      "headline": "Nvidia Probes CEO Huang Over Affair and Spying Risk",
+      "brief": "Nvidia CEO Jensen Huang admitted to an extramarital affair, prompting the company's board to initiate an independent security review regarding potential foreign espionage targeting him.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
-      "dateLocation": "November 9, 2026 | London/Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
+      "dateLocation": "November 9, 2026 | Reuters"
     },
     {
-      "headline": "Trump Says Iran Strikes Unlikely If Diplomacy Progresses",
-      "brief": "Former U.S. President Donald Trump stated that ordering fresh military strikes against Iran is highly unlikely, provided current nuclear negotiations and regional diplomatic efforts continue to show positive progress.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
-      "dateLocation": "November 9, 2026 | Washington/Reuters"
+      "headline": "Delhi Air Quality Plunges to Severe Category Post-Diwali",
+      "brief": "Delhi's air quality index surged above 400 into the severe category after residents defied firecracker bans during Deepavali, spreading thick smog across major neighboring cities.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/national/post-diwali-air-pollution-delhi-hits-severe-as-air-quality-index-soars-across-major-indian-cities/article71681352.ece",
+      "dateLocation": "November 9, 2026 | The Hindu"
     },
     {
-      "headline": "Power Restored to Zaporizhzhia Nuclear Plant, IAEA Says",
-      "brief": "The International Atomic Energy Agency confirmed that external power has been successfully restored to the Zaporizhzhia nuclear power plant following recent disruptions that heightened safety concerns at the facility.",
+      "headline": "Anthropic Secures $3.4 Billion Generator Deal for AI Hubs",
+      "brief": "Anthropic has finalized commitments for 1.7 gigawatts of heavy-duty power generators from OnePWR Solutions to support its rapidly expanding artificial intelligence data center infrastructure.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
-      "dateLocation": "November 9, 2026 | Vienna/Reuters"
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
+      "dateLocation": "November 9, 2026 | The Hindu"
     },
     {
-      "headline": "Europeans to Join Ukraine Talks in Abu Dhabi",
-      "brief": "European diplomats are set to participate in upcoming Ukraine peace and security talks hosted in Abu Dhabi, aiming to coordinate diplomatic strategies with international partners, according to the French foreign minister.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
-      "dateLocation": "November 9, 2026 | Paris/Reuters"
+      "headline": "Hacked Records Reveal 400,000 Russian Casualties in Ukraine",
+      "brief": "Confidential internal data from Russia's statistics agency Rosstat indicates that approximately 400,000 Russian soldiers have died fighting in the ongoing war against Ukraine.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/world/hacked-records-show-400-000-russians-killed-in-war-on-ukraine-11794157943924.html",
+      "dateLocation": "November 9, 2026 | Livemint"
     },
     {
-      "headline": "Production Suspended at Iraq Khor Mor Field After Attack",
-      "brief": "Gas production at Iraq's Khor Mor field has been suspended following a drone attack that struck a storage facility. Crews were ordered into shelters as precautionary security measures were implemented.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/iraq-khor-mor-gas-field-drone-attack-november-9-2026/article71681223.ece",
-      "dateLocation": "November 9, 2026 | Baghdad/The Hindu"
-    },
-    {
-      "headline": "Pakistan Defeats India by Three Wickets in U-19 Asia Cup",
-      "brief": "Pakistan's under-19 cricket team secured a narrow three-wicket victory over arch-rivals India in a competitive encounter during the ongoing youth regional tournament.",
+      "headline": "Rohit Sharma Focuses on Series Win Against New Zealand",
+      "brief": "India enters the third ODI against New Zealand holding a 2-0 series lead, with captain Shubman Gill and senior batter Rohit Sharma looking to capitalize in bowler-friendly conditions.",
       "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-beat-india-by-three-wickets-in-u-19-asia-cup/articleshow/135660028.cms",
-      "dateLocation": "November 9, 2026 | New Delhi/Economic Times"
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang Admits Affair, Board Orders Review",
-      "brief": "Nvidia CEO Jensen Huang publicly disclosed an extramarital affair with a Singapore-based CEO. The company's board has launched an independent security review over potential national security vulnerabilities.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-admits-affair-with-singapore-based-companys-ceo-read-his-email-to-nvidias-employees/articleshow/135665758.cms",
-      "dateLocation": "November 9, 2026 | San Francisco/Times of India"
-    },
-    {
-      "headline": "Indian Shares Consolidate in Special Diwali Session",
-      "brief": "Indian benchmark equity indices consolidated during the festive Diwali trading session, pausing slightly after posting a strong seven-session consecutive winning streak.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSURhQVo2bnpTNGJqSFRaSk5Tc1ZFcmxGcTU0MXNiVkR4b2tQekR0VXlhVktMZzYwMWdHUnpkWWdyM1lGTUowOXhLR19tMl9wd1BpS3J4MWpvNnJxaUpUSXg5M2pyTUtCaUFaRy16dTdKRDBGekI1czdXSGcwMjR4MnJDVGxLbDdPREdyMms4cFlpbTl6U3FxeHY5NXI4NHQ4VVR3VTQyT2cyU2wwa2Iw?oc=5",
-      "dateLocation": "November 9, 2026 | Mumbai/Reuters"
-    },
-    {
-      "headline": "RBI Clarifies No New Checkbook Rules in January",
-      "brief": "The Reserve Bank of India has officially rejected viral market rumors, confirming that no new operational guidelines or sweeping changes to checkbook rules will take effect in January.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-rejects-rumors-no-new-cheque-book-rules-effective-january-2027/articleshow/135652950.cms",
-      "dateLocation": "November 9, 2026 | Mumbai/Economic Times"
-    },
-    {
-      "headline": "Tens of Thousands March in Amsterdam Over Gaza War",
-      "brief": "A massive 'Red Line' demonstration brought central Amsterdam to a standstill as tens of thousands of protesters demanded that the Dutch government enforce stricter trade sanctions and halt arms sales to Israel.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/tens-of-thousands-march-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
-      "dateLocation": "November 9, 2026 | Amsterdam/The Hindu"
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-third-odi-in-hamilton-on-november-10-2026/article71681389.ece",
+      "dateLocation": "November 9, 2026 | The Hindu"
     }
   ]
 }
