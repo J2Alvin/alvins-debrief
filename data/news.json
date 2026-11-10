@@ -1,110 +1,110 @@
 {
-  "lastUpdated": "2026-11-10T14:16:53.821Z",
+  "lastUpdated": "2026-11-10T22:48:11.235Z",
   "ticker": [
-    "Three workers die at Tata iPhone parts factory in Tamil Nadu",
-    "Pentagon chief Hegseth calls impeachment moves a farce",
-    "US State Department serves India summons in Pannun lawsuit",
-    "China's trade surplus tops $1 trillion for second consecutive year",
-    "US-mediated Russia-Ukraine peace talks begin in Abu Dhabi"
+    "Microsoft tops Nvidia market cap",
+    "Three workers die at Tata iPhone factory",
+    "India offers 3-part Ukraine de-escalation plan",
+    "Gold falls nearly 3% after hot CPI",
+    "Portugal braces for incoming Storm Charles"
   ],
   "articles": [
     {
-      "headline": "Three Workers Die at Tata iPhone Parts Factory",
-      "brief": "Three contract workers tragically died from gas inhalation while inspecting a tank at Tata Electronics’ iPhone components factory in Tamil Nadu. Both Apple and Tata have launched full investigations into the safety incident, while subcontractor Nalco Water pledged complete cooperation with local authorities.",
+      "headline": "Three workers die at Tata iPhone parts factory",
+      "brief": "Three workers have died at a Tata Electronics iPhone components facility in India following a severe safety incident. Authorities and company officials are investigating the operational failures that led to the fatal accident.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzVBU0RlVDBETXZNRDZhMHB0REwwZC1fMTNzdzc5VHZFc0pwZjl2ZW5mUGk2QXJ6Zmx4Q1puUUtoTXppdndSZl9iYUdaTXk1RlVBWEgwTTRObEpLdkpKbjJ1NUdGakxETkRrZUdyWENUa2c0VFRrcXVXUEszNm5hRzZ1UFRwTGdlV3poVlZTR051MTUxZElBZk1WbWRMaHViM0dfVnlsS05vajlQYWtqZU9IaTFiTTg4UXZHOGpodF9URHlLR004?oc=5",
-      "dateLocation": "November 2026 | Reuters"
+      "dateLocation": "2026-11-10 | Reuters"
     },
     {
-      "headline": "Pentagon Chief Hegseth Defends Actions Amid Impeachment Push",
-      "brief": "US Secretary of Defense Pete Hegseth dismissed efforts to impeach him over lawful military operations in Iran as a farce destined to fail. Speaking at a press conference following the introduction of eight articles of impeachment by Representative Thomas Massie, Hegseth defended his record.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/article71686563.ece",
-      "dateLocation": "November 2026 | Washington"
-    },
-    {
-      "headline": "US State Department Serves India Summons in Pannun Lawsuit",
-      "brief": "The US State Department has formally served India with summonses in a civil lawsuit filed by Sikh separatist Gurpatwant Singh Pannun. The lawsuit involves an alleged failed assassination plot investigated by US authorities, though the State Department clarified it takes no position on the case.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/uss-news/us-state-department-serves-summons-to-government-of-india-in-civil-lawsuit-by-khalistan-separatist-gurpatwant-pannun-11794301265628.html",
-      "dateLocation": "November 2026 | New Delhi"
-    },
-    {
-      "headline": "China Trade Surplus Tops $1 Trillion For Second Year",
-      "brief": "China's trade surplus surpassed $1 trillion in the first ten months of the year, powered by a massive 35.2% jump in October exports. High-tech goods and AI-related hardware drove the surge, though Beijing continues to face mounting trade tensions with the United States and European Union.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/world/chinas-trade-surplus-tops-1-trn-for-second-year-in-a-row-exports-jump-35-2-in-october-whats-leading-the-surge-11794300199631.html",
-      "dateLocation": "November 2026 | Beijing"
-    },
-    {
-      "headline": "US-Mediated Russia-Ukraine Peace Talks Begin in Abu Dhabi",
-      "brief": "New diplomatic efforts to end the prolonged conflict have commenced as US-mediated peace talks between Russian and Ukrainian representatives opened in Abu Dhabi. Meanwhile, Ukrainian leadership continues to express skepticism over territorial concessions for peace.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/articleshow/135709980.cms",
-      "dateLocation": "November 2026 | Abu Dhabi"
-    },
-    {
-      "headline": "FDA Flags Potential Vision Loss Risk From Weight-Loss Drugs",
-      "brief": "An extensive FDA analysis of numerous clinical trials involving GLP-1 weight-loss medications has indicated a higher incidence of non-arteritic anterior ischemic optic neuropathy. Users of these popular diabetes and anti-obesity drugs are advised to remain vigilant about potential vision risks.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/fda-flags-potential-vision-loss-risk-linked-to-glp-1-drugs-what-users-of-weight-loss-medications-should-know-11794304730495.html",
-      "dateLocation": "November 2026 | Washington"
-    },
-    {
-      "headline": "Microsoft Presses Trump to Scuttle Chinese Data Center Ban",
-      "brief": "Tech giant Microsoft is reportedly lobbying the Trump administration to scrap an anticipated ban on Chinese data center technology. The intervention highlights intense corporate concerns over supply chains and regulatory roadblocks facing infrastructure investments.",
+      "headline": "IBM to end visa sponsorship for most consulting roles",
+      "brief": "Tech giant IBM is reportedly ending green card and visa sponsorships for the vast majority of positions within its global consulting division, impacting foreign professionals across numerous regional offices.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5",
-      "dateLocation": "November 2026 | Washington"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVZScURucjRfQ1FmYkxYLXhJeTRrbzRXMzBMX0tUUWNjQVRzTXVKV0cxamRiOEY5bGhueWJPRDZndGNYODVvdXBXemdhbkcwMGVMNUJEMjhYTW9xd2MyRmJFbVd5SGsxeFFFN3FfUkI5cmo4dElPUlhWZkdXV0kwOFVLSHM4TW0wNmZyZU5VdExWWkV1MVpXa3VRTGxJemFoNDMxdFkwYmo0SFZWZ3BzeEFR?oc=5",
+      "dateLocation": "2026-11-10 | Reuters"
     },
     {
-      "headline": "India Unveils Massive Push for Grid-Scale Energy Storage",
-      "brief": "The Indian government has launched a substantial funding initiative to deploy 92 GWh of grid-scale energy storage, including pumped hydro and battery systems. The project aims to integrate rising renewable energy capacity, stabilize the electrical grid, and minimize regional power outages.",
+      "headline": "Microsoft surpasses Nvidia in global market capitalization",
+      "brief": "Microsoft has reclaimed the top spot over Nvidia in total market valuation for the first time since June 2025, driven by shifting investor sentiment across artificial intelligence and cloud computing infrastructure.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/14500-crore-push-92-gwh-energy-storage-indias-green-energy-transition-11794292010675.html",
-      "dateLocation": "November 2026 | New Delhi"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGpwLVRZNGJRQ3diMmx2QnhNaERXa3RCdzR1MThDdk04TGprcXF5Z3djdXFrUnlPN25udC1qNU5BNVRhN2ZnWWd1dk5sR0lUN0FhdDR5dWFIeWZqQ2UwMGFFdmpvbkxFazJfNy1HTjR4aHZJN3ZRTnFmMFhvcm43YjRhYXB0a29LbllQYUFxNkY5WUZ1MlJ4U0tELVNTa3c3Vkl1YlJyOA?oc=5",
+      "dateLocation": "2026-11-10 | Reuters"
     },
     {
-      "headline": "India Highlights Climate Finance Obligations at Global Forum",
-      "brief": "During international climate discussions, India urged developed economies to honor their financial commitments to help developing nations adapt to rising environmental hazards. New Delhi emphasized that a fair and rapid transition to cleaner energy requires substantial international support.",
+      "headline": "Gold plunges nearly 3% following hot CPI figures",
+      "brief": "Precious metals dropped sharply as higher-than-forecasted consumer price index data boosted the US dollar and Treasury yields, dampening immediate investor demand for non-yielding bullion assets.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
+      "dateLocation": "2026-11-10 | Reuters"
+    },
+    {
+      "headline": "Portugal braces for Storm Charles with school closures",
+      "brief": "Portuguese authorities have ordered school closures and mobilized emergency rescue personnel as the nation prepares for the arrival of severe weather system Storm Charles, bringing heavy winds and floods.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/india/india-flags-rich-nations-climate-finance-energy-transition-cop31-antalya-11794311323660.html",
-      "dateLocation": "November 2026 | Antalya"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdndjVVY4Nm84RWV4bjBLUldOM0JlZUdFQjQ3UTB3Y3U2d0w0bG84dFNPRm9BVE5fbzV0NnNzRTNGdkhmQXg4Uy1NSXowMTYwYmtKUDBDMTJjNjZ3ZkU4T0hoa3VIeFVaTVk0eklpRDFCcE9RUU5icXMydjJkNHNycHhRZHI3U3M1aVpHUGpubjVzR1ktbmRYQTQyWVg0dmZrRFZnUl9ldzJQc0puZXQtUy1scURjXzhFVnc?oc=5",
+      "dateLocation": "2026-11-10 | Reuters"
     },
     {
-      "headline": "India Unemployment Rate Falls to 5.1% in Recent Quarter",
-      "brief": "Official macroeconomic data reveals that India's unemployment rate dropped to 5.1% during the July-September quarter. The improvement was largely driven by a significant contraction in rural joblessness as agricultural and localized labor markets strengthened.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-unemployment-rate-falls-to-5-1-in-july-september-as-rural-joblessness-declines/articleshow/135709920.cms",
-      "dateLocation": "November 2026 | New Delhi"
+      "headline": "India proposes 3-part framework to de-escalate Ukraine war",
+      "brief": "India has formally introduced a comprehensive three-part diplomatic strategy aimed at facilitating de-escalation and restarting peace talks between Russia and Ukraine, emphasizing dialogue and humanitarian aid.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-offers-3-part-plan-to-de-escalate-ukraine-war/articleshow/135718689.cms",
+      "dateLocation": "2026-11-10 | Economic Times"
     },
     {
-      "headline": "Nvidia CEO's Alleged Ties to China Chip Shipments Scrutinized",
-      "brief": "Recent investigative reports suggest that personal ties involving Nvidia CEO Jensen Huang intersected with substantial high-end microchip shipments to China. The revelations have intensified scrutiny from regulators tracking semiconductor export controls.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
-      "dateLocation": "November 2026 | San Francisco"
-    },
-    {
-      "headline": "India Criticizes US Court Summons Over Pannun Case",
-      "brief": "New Delhi forcefully rejected a US court order involving top Indian security officials in the Pannun legal dispute, labeling the move a malicious and fabricated attack. Ministry of External Affairs officials condemned the proceedings as legally baseless.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/fabricated-malicious-attacks-india-rejects-us-court-order-involving-officials-in-sikh-seperatist-pannun-case/articleshow/135711030.cms",
-      "dateLocation": "November 2026 | New Delhi"
-    },
-    {
-      "headline": "India Uncertified Allied Health Workers Given Path to Register",
-      "brief": "Draft regulations released under the National Commission for Allied and Healthcare Professions offer a four-year transition window. Uncertified lab technicians and radiographers can now formalize their credentials or face restrictions on future practice.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/uncertified-allied-health-workers-formalize-credentials-11794279959794.html",
-      "dateLocation": "November 2026 | New Delhi"
-    },
-    {
-      "headline": "Blackstone Acquires Stake in IIFL Finance in Capital Boost",
-      "brief": "Global investment firm Blackstone has injected substantial capital into IIFL Finance, acquiring a major equity stake to bolster the non-banking financial company's balance sheet amid shifting market conditions.",
+      "headline": "Andhra Pradesh clears massive investments in AI and tech",
+      "brief": "The Andhra Pradesh cabinet has approved strategic policy frameworks to attract large-scale capital investments into artificial intelligence, electronics manufacturing, and renewable energy, including a massive green data centre project.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/blackstone-to-acquire-16-stake-in-iifl-finance-as-nbfc-announces-rs-6414-crore-capital-raise-led-by-global-investor/articleshow/135709294.cms",
-      "dateLocation": "November 2026 | Mumbai"
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
+      "dateLocation": "2026-11-10 | The Hindu"
+    },
+    {
+      "headline": "US baby food and formula prices surge to record highs",
+      "brief": "American families are facing unprecedented financial strain after baby food and formula prices experienced their largest single-month surge on record, compounding everyday cost-of-living challenges.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-parents-face-record-surge-in-baby-food-and-formula-costs-11794349425464.html",
+      "dateLocation": "2026-11-10 | Livemint"
+    },
+    {
+      "headline": "GLP-1 weight loss drugs linked to rare vision loss risks",
+      "brief": "Medical researchers have flagged a potential connection between popular GLP-1 receptor agonist weight-loss medications like Ozempic and severe ischemic optic neuropathy, prompting calls for closer patient monitoring.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/glp-1-drugs-weight-loss-ozempic-wegovy-linked-to-vision-loss-what-is-naion-who-is-at-risk-and-what-symptoms-should-users-watch-for/articleshow/135718578.cms",
+      "dateLocation": "2026-11-10 | Economic Times"
+    },
+    {
+      "headline": "Jannik Sinner plans late-December return at exhibition",
+      "brief": "Top tennis star Jannik Sinner intends to return to competitive action at a Saudi exhibition tournament later this month, marking his first appearance since recovering from a persistent knee injury.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/tennis/jannik-sinner-plans-late-december-return-at-saudi-exhibition-ahead-of-australian-open/article71687381.ece",
+      "dateLocation": "2026-11-10 | The Hindu"
+    },
+    {
+      "headline": "Formula One confirms standard 2026 calendar ending in Qatar",
+      "brief": "Formula One organizers have reaffirmed that the current championship season will conclude in Qatar and Abu Dhabi as originally scheduled, following unanimous support from all competing constructor teams.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/motorsport/f1-season-to-end-in-qatar-abu-dhabi-as-scheduled/article71687378.ece",
+      "dateLocation": "2026-11-10 | The Hindu"
+    },
+    {
+      "headline": "Google Cloud integrates Meta AI models into managed APIs",
+      "brief": "Google has expanded its cloud capabilities by integrating Meta's latest artificial intelligence models into its managed APIs, allowing enterprise customers to utilize advanced tools for software development and workflow automation.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/sundar-pichai-sends-welcome-note-to-mark-zuckerberg-says-excited-to-serve-our-googles-/articleshow/135699570.cms",
+      "dateLocation": "2026-11-10 | Times of India"
+    },
+    {
+      "headline": "MEA strongly condemns US court summons to former RAW chief",
+      "brief": "India's Ministry of External Affairs has dismissed recent US court summons directed at former intelligence officials as frivolous and legally baseless, rejecting allegations regarding foreign assassination plots.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms",
+      "dateLocation": "2026-11-10 | Times of India"
+    },
+    {
+      "headline": "Jim Jordan elected House Republican leader following setbacks",
+      "brief": "US House Republicans have chosen Jim Jordan to lead their legislative caucus following the party's recent midterm election results, setting the stage for renewed policy clashes in Congress.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/jim-jordan-elected-house-republican-leader-after-partys-midterm-defeat/articleshow/135719643.cms",
+      "dateLocation": "2026-11-10 | Times of India"
     }
   ]
 }
