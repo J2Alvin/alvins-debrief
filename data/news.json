@@ -1,124 +1,117 @@
 {
-  "lastUpdated": "2026-11-09T15:05:55.398Z",
+  "lastUpdated": "2026-11-10T01:08:57.645Z",
   "ticker": [
-    "Nvidia shares plunge 8% amid probe into CEO Jensen Huang",
-    "Delhi air quality hits severe levels following illegal Diwali fireworks",
-    "South African voters reject ANC in historic shift toward coalitions",
-    "Disney and Adobe partner to develop custom media AI models",
-    "PM Modi and President Zelenskyy discuss Russia-Ukraine peace efforts"
+    "Trump backs Nvidia CEO Huang amid probe",
+    "Zelenskyy seeks Modi aid for ceasefire talks",
+    "Delhi AQI plummets to worst in 5 years",
+    "White House lockdown after security breaches",
+    "Anthropic drops faster, cheaper Claude AI models"
   ],
   "articles": [
     {
-      "headline": "Delhi AQI Plummets Following Diwali Fireworks",
-      "brief": "Delhi's air quality dropped sharply as revellers defied bans to mark Diwali with illegal fireworks, pushing North India's pollution levels into the severe zone and triggering emergency restrictions.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGx1MWNEOVh3bHVlWE9rZl9JVFlHUnFSM2tLc3hTWUt3OElhOFRISUJEbTZLOFBwMHBqbU81ZGNaT2d5MmdCb0NrXzBxUHZIY0Y5a0FKRUo5UW1yZFBDdkhvUUcxbTY3SjIyOEN4Z21XXzJtRTdGMzAtclZkQU1DakxHU2RLczNXQVFNbzlEX2FpQzFyeldfZUNHOWJSSmtxWE9VeVpBZWtXY1I2X1NuOGVBdFVSYkdfSVJsRmlWU1ZvWjdiM1gtMDR3a24?oc=5",
-      "dateLocation": "2026-11-09 | New Delhi, India"
+      "headline": "Trump Says U.S. Military Action Against Iran Unnecessary",
+      "brief": "President Donald Trump stated that military action against Iran is currently unnecessary, though the U.S. remains prepared to strike if circumstances change, noting that regional partners desire a peaceful resolution.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5",
+      "dateLocation": "November 10, 2026 | Reuters"
     },
     {
-      "headline": "Disney and Adobe Partner for Custom AI Models",
-      "brief": "Entertainment giant Disney and software maker Adobe have announced a partnership to co-develop custom artificial intelligence models tailored specifically for media production and creative workflows.",
+      "headline": "Zelenskyy Speaks to Modi Ahead of Ukraine-Russia Talks",
+      "brief": "Ukrainian President Volodymyr Zelenskiy held discussions with Indian Prime Minister Narendra Modi, seeking international support and diplomatic assistance regarding energy security and ceasefire initiatives ahead of upcoming peace talks.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWZZUjlKNXFxRjZNbUZGcVFVdUFEZzJBY1pJZ2JVYVJHd3FuWkVrMllmcnhZU1NKbEVJdDNfbkI3MXhsOTh1V3ItQlZocXcyOWZNN0hsX1hiRWRDVzRGUEhRS20zX1RDNmlJalM5dGNJZ2ZtM194QnZPOWNPVXVSQ3ZrUVRkZGpzYzFYRnFoNmlSdXZ4WjNiNm96MGU?oc=5",
+      "dateLocation": "November 10, 2026 | Reuters"
+    },
+    {
+      "headline": "Disney and Adobe Partner for Custom Media AI Models",
+      "brief": "Entertainment giant Disney and software leader Adobe announced a strategic partnership to co-develop custom artificial intelligence models tailored specifically for media production and creative workflows.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlk2TV9jQUFndDhlTS1XZzhXZjJFTERQaGIxamc0c09Xcnl4TlRaeDFuZ2FoTVd3Y0ZMdnVVZktNcDRzdGwxdDlnQXhFWkhUcFA0YUNIREZYTmpoTU9xV1pzeGVycHZRemRkLU1ES2pxU0NpeFVmbkVwYWVZemVJTWU0MHhiRG43b3IzNVgzZTB0bzFLN0VBUE9lZ0JKSEJ1NHdCNVJyYW84eHZyQ3NHTTJacHUtY1AwTHRiLQ?oc=5",
-      "dateLocation": "2026-11-09 | Reuters"
+      "dateLocation": "November 10, 2026 | Reuters"
     },
     {
-      "headline": "AI Boom Drives Scramble for Aged Gas Turbines",
-      "brief": "The massive power requirements of expanding artificial intelligence data centres have sparked an unusual global rush to acquire second-hand gas turbines and jet engines to avoid power shortages.",
+      "headline": "Anthropic Unveils Faster and Cheaper Claude AI Models",
+      "brief": "AI startup Anthropic has released a new iteration of its Claude models, boasting faster processing speeds and lower costs as the company scales operations ahead of an anticipated major initial public offering.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFFRQWRkVjczS1ZIelZTc0pKUVhEVzFLaWFDSS1GcnNCMEZld21WVEM3UDJ5U2h5MDhwdDVPLTliSnhjX1lfUi1XR3VhQ0tJS3hscF9PbXpLMjY5dm1FWDhiOGtnUERDNUZ4NjdEZXI1bEszeFpPVThMQTJiRkRRQzNpWGpQcjBMZFJVY2FFTUFwajFlbWZOX2MwNTZXWmNQRGFiV0F1RUVnRmo0eWdTdzF2MUVzSkxhUlBweXZJZC1WMkZwRkZRSQ?oc=5",
-      "dateLocation": "2026-11-09 | Reuters"
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
+      "dateLocation": "November 10, 2026 | Times of India"
     },
     {
-      "headline": "Gold Rises as Lower Oil Prices Ease Inflation Fears",
-      "brief": "Gold prices gained traction in global markets as declining crude oil prices helped alleviate broader investor anxieties regarding persistent inflation and macroeconomic pressures.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
-      "dateLocation": "2026-11-09 | Reuters"
-    },
-    {
-      "headline": "Nvidia Stocks Drop Amid Independent Probe into CEO",
-      "brief": "Nvidia shares plunged following news that an independent committee of directors launched an investigation into CEO Jensen Huang regarding alleged compliance and personal conduct concerns.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/nvidia-shares-plunge-on-november-9-2026-amid-investigation-into-ceo-jensen-huangs-affair-with-alleged-chinese-spy-alice-huang/articleshow/135683466.cms",
-      "dateLocation": "2026-11-09 | Times of India"
-    },
-    {
-      "headline": "South African Voters Rebuff ANC in Election Shift",
-      "brief": "South African voters decisively rejected the long-ruling African National Congress, accelerating a structural shift toward multi-party coalition politics across the country.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0RIU1gtMURBQXJvZkZSTnI4MXVuYUdfdU9HNVRlUzMwZzE1TG9tY19LRnRNTjRYb2cyN0FqU2ZodTNrVTk5TW1zcER6WTQ1WFZ3SjdKWlhkYW5ZZExGaTUwU2IxcUFQSWt5dXhDTFNzaFRJaThHeEthYTZOS2RUUEhVb21ralBsa3poUHZTSlRSdFQ2ci1UeXAwcVR2VDJ3bzZocFJZWDVGTEszUFp2VTRuNU9IQVBLM0E?oc=5",
-      "dateLocation": "2026-11-09 | Reuters"
-    },
-    {
-      "headline": "Cardiologists Urge Review of Single-Use Device Ban",
-      "brief": "Medical specialists have requested a policy review regarding the ban on reusing single-use cardiac devices, arguing that regulated reuse could significantly reduce angioplasty treatment costs.",
+      "headline": "FDA Issues New Eye Risk Warnings for Ozempic and Zepbound",
+      "brief": "The U.S. Food and Drug Administration has mandated updated product labeling for popular weight-loss and diabetes treatments Ozempic and Zepbound to incorporate new warnings regarding potential eye health risks.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/cardiologists-seek-review-of-dghs-order-banning-re-use-of-single-use-medical-devices-to-reduce-angioplasty-costs/article71683041.ece",
-      "dateLocation": "2026-11-09 | The Hindu"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG9HX0xJekVOS0FKR3BLMDJBSVJ6SEFrd2FSTU1aUmp1bTR0Vzl6V2Ewand4MTNVbGlTSXhFZEtGM19WZzhieEZrN3paaW1PWUVkZHlWdy1YalQ1OFlWblV4REdtc1hMQzlzTWJmWFRVRmNnNDdVY05oS292b00yTHQtZnh5djFrbTBpdGJDUnJ3akQ0ZlZoRzhaUXRDMXRURFhuM3lySkg4bnBmeDQyN0NjYXJIMDJJRW1LSUhxNHR0Zw?oc=5",
+      "dateLocation": "November 10, 2026 | Reuters"
     },
     {
-      "headline": "Goa Beach Ranks Sixth Globally in Beach Index",
-      "brief": "Palolem Beach in South Goa has achieved international acclaim, securing the top spot in Asia and ranking sixth worldwide in the latest global beach index rankings.",
+      "headline": "Board of Peace Blames Israel and Hamas for Gaza Emergency",
+      "brief": "The international Board of Peace warned of an immediate humanitarian crisis in Gaza following severe seasonal flooding, assigning blame to both Israel and Hamas for failing to uphold ceasefire and aid commitments.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/board-of-peace-blames-both-israel-and-hamas-for-gaza-emergency-11794263162139.html",
+      "dateLocation": "November 10, 2026 | Livemint"
+    },
+    {
+      "headline": "Delhi Air Quality Plummets to Worst Level in Five Years",
+      "brief": "Delhi's air quality deteriorated sharply to a five-year low as revellers disregarded bans to mark Diwali with widespread illegal fireworks, compounded by several local monitoring stations going offline.",
       "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/this-goa-beach-is-asias-no-1-and-ranks-among-the-worlds-top-10-check-its-global-position-11794235027330.html",
-      "dateLocation": "2026-11-09 | Livemint"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGx1MWNEOVh3bHVlWE9rZl9JVFlHUnFSM2tLc3hTWUt3OElhOFRISUJEbTZLOFBwMHBqbU81ZGNaT2d5MmdCb0NrXzBxUHZIY0Y5a0FKRUo5UW1yZFBDdkhvUUcxbTY3SjIyOEN4Z21XXzJtRTdGMzAtclZkQU1DakxHU2RLczNXQVFNbzlEX2FpQzFyeldfZUNHOWJSSmtxWE9VeVpBZWtXY1I2X1NuOGVBdFVSYkdfSVJsRmlWU1ZvWjdiM1gtMDR3a24?oc=5",
+      "dateLocation": "November 10, 2026 | Reuters"
     },
     {
-      "headline": "UAE Linked to Colombian Mercenaries in Sudan War",
-      "brief": "A United Nations report has revealed that the United Arab Emirates helped finance and train Colombian mercenaries deployed to support paramilitary forces involved in the Sudanese conflict.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/uae-backed-colombian-mercenaries-fighting-in-sudan-un-finds-11794227021157.html",
-      "dateLocation": "2026-11-09 | Livemint"
-    },
-    {
-      "headline": "Smriti Mandhana to Captain India Across Formats",
-      "brief": "Star batter Smriti Mandhana has been named captain of the Indian women's cricket team across all three formats ahead of their upcoming tour of South Africa in December.",
+      "headline": "Pune and Vadodara Emerge as Potential IPL Franchises",
+      "brief": "The Indian Premier League is reportedly heading toward a major expansion ahead of the 2028 media rights cycle, with Pune and Vadodara identified as leading candidates to host billion-dollar cricket franchises.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/smriti-mandhana-to-lead-india-across-all-three-formats-on-south-africa-tour/articleshow/135684267.cms",
-      "dateLocation": "2026-11-09 | Times of India"
+      "sourceUrl": "https://www.livemint.com/news/ipl-cricket-franchise-pune-vadodara-sports-media-bcci-11794210787395.html",
+      "dateLocation": "November 10, 2026 | Livemint"
     },
     {
-      "headline": "PM Modi Discusses Ukraine Peace with Zelenskyy",
-      "brief": "Indian Prime Minister Narendra Modi held a diplomatic conversation with Ukrainian President Volodymyr Zelenskyy, discussing ongoing international efforts to achieve a peaceful resolution.",
+      "headline": "White House Placed on Brief Lockdown After Security Incident",
+      "brief": "The White House experienced a brief lockdown while President Donald Trump was inside after a vehicle crashed near the North Lawn and a separate individual breached perimeter security barricades.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-with-zelenskyy-discusses-efforts-for-russia-ukraine-peace-deal/articleshow/135684263.cms",
-      "dateLocation": "2026-11-09 | Times of India"
+      "sourceUrl": "https://www.livemint.com/news/us-news/white-house-lockdown-as-car-crashes-near-north-lawn-driver-clashes-with-secret-service-trump-inside-premises-11794239095126.html",
+      "dateLocation": "November 10, 2026 | Livemint"
     },
     {
-      "headline": "Russell Brand Sentenced to Prison for Rape",
-      "brief": "British comedian and actor Russell Brand has been sentenced to ten and a half years in prison after being convicted on multiple counts of rape and sexual assault.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/comedian-actor-russell-brand-sentenced-to-10-5-years-in-prison-for-rape-sexual-assaults-judge-calls-him-sexual-predator/articleshow/135685232.cms",
-      "dateLocation": "2026-11-09 | Economic Times"
-    },
-    {
-      "headline": "National Health Authority Plans Model Digital Hospitals",
-      "brief": "The National Health Authority is spearheading an initiative to build model digitalized hospitals across districts, introducing QR-based registration and unified electronic health records.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/digitalized-hospitals-cut-patient-tripura-model-healthcare-ai-qr-based-registration-patient-records-diagnostics-nha-11793954679847.html",
-      "dateLocation": "2026-11-09 | Livemint"
-    },
-    {
-      "headline": "Britannia CEO Questions Reliance Biscuit Strategy",
-      "brief": "Britannia Industries chief executive officer has expressed skepticism over Reliance's ability to easily disrupt the domestic biscuit market in the same manner as previous consumer ventures.",
+      "headline": "India Expands Solar Cell Manufacturing Capacity for Export Markets",
+      "brief": "India is aggressively pursuing solar cell export opportunities as domestic manufacturing capacity surges ahead of local demand, targeting emerging renewable energy markets across Europe and Africa.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/reliance-may-find-it-difficult-to-replicate-cola-disruption-in-biscuits-britannia-ceo-md/articleshow/135681762.cms",
-      "dateLocation": "2026-11-09 | Economic Times"
+      "sourceUrl": "https://www.livemint.com/news/solar-cells-export-renewable-energy-pralhad-joshi-interview-11793961012906.html",
+      "dateLocation": "November 10, 2026 | Livemint"
     },
     {
-      "headline": "Athletes Elected in IOA Sportspersons Polls",
-      "brief": "Eminent sportsperson representatives including Saina Nehwal and Anju Bobby George were successfully elected in the six-way Indian Olympic Association merit elections.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/pt-usha-loses-ioa-som-elections-saina-nehwal-anju-bobby-george-among-four-come-through-in-six-way-ioa-som-elections/articleshow/135683730.cms",
-      "dateLocation": "2026-11-09 | Times of India"
+      "headline": "Supreme Court Upholds Government Authority to Retire Staff",
+      "brief": "The Supreme Court ruled that the government possesses broad administrative powers to compulsorily retire underperforming employees in order to improve institutional efficiency and accountability.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-govt-has-wide-powers-to-compulsorily-retire-staffer-improve-efficiency/articleshow/135692813.cms",
+      "dateLocation": "November 10, 2026 | Times of India"
     },
     {
-      "headline": "Indian Rupee Snaps Winning Streak on Dollar Bids",
-      "brief": "The Indian rupee halted its six-day winning streak following sustained dollar demand from state-run banks amid shifting foreign exchange market conditions.",
+      "headline": "Global Stocks Rally as Oil Prices Drop Amid Market Shifts",
+      "brief": "Global stock markets rallied strongly driven by positive investor sentiment, even as shares of tech heavyweight Nvidia faced downward pressure and international crude oil prices experienced a notable decline.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmRYMGNidi13ZTlOWEpSRUR4cTdxV0ctVlowT2htXzZFMzJTUHhhSUdmcmtJczFKWFBkaWdrR1hCNUJpay1aNmVlRlNhUVZaWmpUc0pxU01ia0hUbWgwNnlaTEZmbkRNaE9GZUpoQjNpejA5ejA0akU0dWhQUmJQZG9wVFJLTF9kdE80NElJaFZZU2Y1UmhTdA?oc=5",
-      "dateLocation": "2026-11-09 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
+      "dateLocation": "November 10, 2026 | Reuters"
+    },
+    {
+      "headline": "India's Greenhouse Gas Emissions Projected to Rise 4.4%",
+      "brief": "A new research study indicates that India's total carbon emissions are expected to increase by 4.4% this year, bucking the broader global trend of declining industrial emissions.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-emissions-to-rise-4-4-despite-global-dip-study/articleshow/135691538.cms",
+      "dateLocation": "November 10, 2026 | Economic Times"
+    },
+    {
+      "headline": "Defense Secretary Hegseth Directs Military Academies on Victory",
+      "brief": "U.S. Defense Secretary Pete Hegseth ordered curriculum overhauls at senior military service colleges, demanding that the education of future military leaders prioritize winning wars over academic theory.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/hegseth-orders-senior-military-schools-to-focus-on-victory-11794254746643.html",
+      "dateLocation": "November 10, 2026 | Livemint"
+    },
+    {
+      "headline": "Bangladesh Denies Ousted Leader Sheikh Hasina Passport Renewal",
+      "brief": "Bangladesh's interim government rejected an application for a new passport by ousted former Prime Minister Sheikh Hasina, who remains in exile and faces potential extradition requests.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQy1pMFQtX2ZjVFVyZTJSR296WXMzdl9haTFsMEk5S2RWR0wwWWpzNG12Mld0VFVIYVpnOEZnVHVBa3ppeTJVZHNjZlNyQXhxWTBDVFhiSU1nbDJUSXdlaUZzdzl5d2twLWZKMW9DazVxNFNiamQyY1h6cDM2WDUyRFM0ZjVWSTlhWWFkaWtSREtmVFVNV29qT3U3d0dBcGx1eHNBblZZQTc3ajF4Q1dQWVln?oc=5",
+      "dateLocation": "November 10, 2026 | Reuters"
     }
   ]
 }
