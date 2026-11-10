@@ -1,117 +1,110 @@
 {
-  "lastUpdated": "2026-11-10T01:08:57.645Z",
+  "lastUpdated": "2026-11-10T14:16:53.821Z",
   "ticker": [
-    "Trump backs Nvidia CEO Huang amid probe",
-    "Zelenskyy seeks Modi aid for ceasefire talks",
-    "Delhi AQI plummets to worst in 5 years",
-    "White House lockdown after security breaches",
-    "Anthropic drops faster, cheaper Claude AI models"
+    "Three workers die at Tata iPhone parts factory in Tamil Nadu",
+    "Pentagon chief Hegseth calls impeachment moves a farce",
+    "US State Department serves India summons in Pannun lawsuit",
+    "China's trade surplus tops $1 trillion for second consecutive year",
+    "US-mediated Russia-Ukraine peace talks begin in Abu Dhabi"
   ],
   "articles": [
     {
-      "headline": "Trump Says U.S. Military Action Against Iran Unnecessary",
-      "brief": "President Donald Trump stated that military action against Iran is currently unnecessary, though the U.S. remains prepared to strike if circumstances change, noting that regional partners desire a peaceful resolution.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5",
-      "dateLocation": "November 10, 2026 | Reuters"
-    },
-    {
-      "headline": "Zelenskyy Speaks to Modi Ahead of Ukraine-Russia Talks",
-      "brief": "Ukrainian President Volodymyr Zelenskiy held discussions with Indian Prime Minister Narendra Modi, seeking international support and diplomatic assistance regarding energy security and ceasefire initiatives ahead of upcoming peace talks.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWZZUjlKNXFxRjZNbUZGcVFVdUFEZzJBY1pJZ2JVYVJHd3FuWkVrMllmcnhZU1NKbEVJdDNfbkI3MXhsOTh1V3ItQlZocXcyOWZNN0hsX1hiRWRDVzRGUEhRS20zX1RDNmlJalM5dGNJZ2ZtM194QnZPOWNPVXVSQ3ZrUVRkZGpzYzFYRnFoNmlSdXZ4WjNiNm96MGU?oc=5",
-      "dateLocation": "November 10, 2026 | Reuters"
-    },
-    {
-      "headline": "Disney and Adobe Partner for Custom Media AI Models",
-      "brief": "Entertainment giant Disney and software leader Adobe announced a strategic partnership to co-develop custom artificial intelligence models tailored specifically for media production and creative workflows.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlk2TV9jQUFndDhlTS1XZzhXZjJFTERQaGIxamc0c09Xcnl4TlRaeDFuZ2FoTVd3Y0ZMdnVVZktNcDRzdGwxdDlnQXhFWkhUcFA0YUNIREZYTmpoTU9xV1pzeGVycHZRemRkLU1ES2pxU0NpeFVmbkVwYWVZemVJTWU0MHhiRG43b3IzNVgzZTB0bzFLN0VBUE9lZ0JKSEJ1NHdCNVJyYW84eHZyQ3NHTTJacHUtY1AwTHRiLQ?oc=5",
-      "dateLocation": "November 10, 2026 | Reuters"
-    },
-    {
-      "headline": "Anthropic Unveils Faster and Cheaper Claude AI Models",
-      "brief": "AI startup Anthropic has released a new iteration of its Claude models, boasting faster processing speeds and lower costs as the company scales operations ahead of an anticipated major initial public offering.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
-      "dateLocation": "November 10, 2026 | Times of India"
-    },
-    {
-      "headline": "FDA Issues New Eye Risk Warnings for Ozempic and Zepbound",
-      "brief": "The U.S. Food and Drug Administration has mandated updated product labeling for popular weight-loss and diabetes treatments Ozempic and Zepbound to incorporate new warnings regarding potential eye health risks.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG9HX0xJekVOS0FKR3BLMDJBSVJ6SEFrd2FSTU1aUmp1bTR0Vzl6V2Ewand4MTNVbGlTSXhFZEtGM19WZzhieEZrN3paaW1PWUVkZHlWdy1YalQ1OFlWblV4REdtc1hMQzlzTWJmWFRVRmNnNDdVY05oS292b00yTHQtZnh5djFrbTBpdGJDUnJ3akQ0ZlZoRzhaUXRDMXRURFhuM3lySkg4bnBmeDQyN0NjYXJIMDJJRW1LSUhxNHR0Zw?oc=5",
-      "dateLocation": "November 10, 2026 | Reuters"
-    },
-    {
-      "headline": "Board of Peace Blames Israel and Hamas for Gaza Emergency",
-      "brief": "The international Board of Peace warned of an immediate humanitarian crisis in Gaza following severe seasonal flooding, assigning blame to both Israel and Hamas for failing to uphold ceasefire and aid commitments.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/board-of-peace-blames-both-israel-and-hamas-for-gaza-emergency-11794263162139.html",
-      "dateLocation": "November 10, 2026 | Livemint"
-    },
-    {
-      "headline": "Delhi Air Quality Plummets to Worst Level in Five Years",
-      "brief": "Delhi's air quality deteriorated sharply to a five-year low as revellers disregarded bans to mark Diwali with widespread illegal fireworks, compounded by several local monitoring stations going offline.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGx1MWNEOVh3bHVlWE9rZl9JVFlHUnFSM2tLc3hTWUt3OElhOFRISUJEbTZLOFBwMHBqbU81ZGNaT2d5MmdCb0NrXzBxUHZIY0Y5a0FKRUo5UW1yZFBDdkhvUUcxbTY3SjIyOEN4Z21XXzJtRTdGMzAtclZkQU1DakxHU2RLczNXQVFNbzlEX2FpQzFyeldfZUNHOWJSSmtxWE9VeVpBZWtXY1I2X1NuOGVBdFVSYkdfSVJsRmlWU1ZvWjdiM1gtMDR3a24?oc=5",
-      "dateLocation": "November 10, 2026 | Reuters"
-    },
-    {
-      "headline": "Pune and Vadodara Emerge as Potential IPL Franchises",
-      "brief": "The Indian Premier League is reportedly heading toward a major expansion ahead of the 2028 media rights cycle, with Pune and Vadodara identified as leading candidates to host billion-dollar cricket franchises.",
-      "category": "sports",
-      "sourceUrl": "https://www.livemint.com/news/ipl-cricket-franchise-pune-vadodara-sports-media-bcci-11794210787395.html",
-      "dateLocation": "November 10, 2026 | Livemint"
-    },
-    {
-      "headline": "White House Placed on Brief Lockdown After Security Incident",
-      "brief": "The White House experienced a brief lockdown while President Donald Trump was inside after a vehicle crashed near the North Lawn and a separate individual breached perimeter security barricades.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/white-house-lockdown-as-car-crashes-near-north-lawn-driver-clashes-with-secret-service-trump-inside-premises-11794239095126.html",
-      "dateLocation": "November 10, 2026 | Livemint"
-    },
-    {
-      "headline": "India Expands Solar Cell Manufacturing Capacity for Export Markets",
-      "brief": "India is aggressively pursuing solar cell export opportunities as domestic manufacturing capacity surges ahead of local demand, targeting emerging renewable energy markets across Europe and Africa.",
+      "headline": "Three Workers Die at Tata iPhone Parts Factory",
+      "brief": "Three contract workers tragically died from gas inhalation while inspecting a tank at Tata Electronics’ iPhone components factory in Tamil Nadu. Both Apple and Tata have launched full investigations into the safety incident, while subcontractor Nalco Water pledged complete cooperation with local authorities.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/solar-cells-export-renewable-energy-pralhad-joshi-interview-11793961012906.html",
-      "dateLocation": "November 10, 2026 | Livemint"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzVBU0RlVDBETXZNRDZhMHB0REwwZC1fMTNzdzc5VHZFc0pwZjl2ZW5mUGk2QXJ6Zmx4Q1puUUtoTXppdndSZl9iYUdaTXk1RlVBWEgwTTRObEpLdkpKbjJ1NUdGakxETkRrZUdyWENUa2c0VFRrcXVXUEszNm5hRzZ1UFRwTGdlV3poVlZTR051MTUxZElBZk1WbWRMaHViM0dfVnlsS05vajlQYWtqZU9IaTFiTTg4UXZHOGpodF9URHlLR004?oc=5",
+      "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "Supreme Court Upholds Government Authority to Retire Staff",
-      "brief": "The Supreme Court ruled that the government possesses broad administrative powers to compulsorily retire underperforming employees in order to improve institutional efficiency and accountability.",
+      "headline": "Pentagon Chief Hegseth Defends Actions Amid Impeachment Push",
+      "brief": "US Secretary of Defense Pete Hegseth dismissed efforts to impeach him over lawful military operations in Iran as a farce destined to fail. Speaking at a press conference following the introduction of eight articles of impeachment by Representative Thomas Massie, Hegseth defended his record.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/pentagon-chief-hegseth-calls-moves-to-impeach-him-a-farce-that-will-fail/article71686563.ece",
+      "dateLocation": "November 2026 | Washington"
+    },
+    {
+      "headline": "US State Department Serves India Summons in Pannun Lawsuit",
+      "brief": "The US State Department has formally served India with summonses in a civil lawsuit filed by Sikh separatist Gurpatwant Singh Pannun. The lawsuit involves an alleged failed assassination plot investigated by US authorities, though the State Department clarified it takes no position on the case.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/uss-news/us-state-department-serves-summons-to-government-of-india-in-civil-lawsuit-by-khalistan-separatist-gurpatwant-pannun-11794301265628.html",
+      "dateLocation": "November 2026 | New Delhi"
+    },
+    {
+      "headline": "China Trade Surplus Tops $1 Trillion For Second Year",
+      "brief": "China's trade surplus surpassed $1 trillion in the first ten months of the year, powered by a massive 35.2% jump in October exports. High-tech goods and AI-related hardware drove the surge, though Beijing continues to face mounting trade tensions with the United States and European Union.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/world/chinas-trade-surplus-tops-1-trn-for-second-year-in-a-row-exports-jump-35-2-in-october-whats-leading-the-surge-11794300199631.html",
+      "dateLocation": "November 2026 | Beijing"
+    },
+    {
+      "headline": "US-Mediated Russia-Ukraine Peace Talks Begin in Abu Dhabi",
+      "brief": "New diplomatic efforts to end the prolonged conflict have commenced as US-mediated peace talks between Russian and Ukrainian representatives opened in Abu Dhabi. Meanwhile, Ukrainian leadership continues to express skepticism over territorial concessions for peace.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-govt-has-wide-powers-to-compulsorily-retire-staffer-improve-efficiency/articleshow/135692813.cms",
-      "dateLocation": "November 10, 2026 | Times of India"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/articleshow/135709980.cms",
+      "dateLocation": "November 2026 | Abu Dhabi"
     },
     {
-      "headline": "Global Stocks Rally as Oil Prices Drop Amid Market Shifts",
-      "brief": "Global stock markets rallied strongly driven by positive investor sentiment, even as shares of tech heavyweight Nvidia faced downward pressure and international crude oil prices experienced a notable decline.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
-      "dateLocation": "November 10, 2026 | Reuters"
-    },
-    {
-      "headline": "India's Greenhouse Gas Emissions Projected to Rise 4.4%",
-      "brief": "A new research study indicates that India's total carbon emissions are expected to increase by 4.4% this year, bucking the broader global trend of declining industrial emissions.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-emissions-to-rise-4-4-despite-global-dip-study/articleshow/135691538.cms",
-      "dateLocation": "November 10, 2026 | Economic Times"
-    },
-    {
-      "headline": "Defense Secretary Hegseth Directs Military Academies on Victory",
-      "brief": "U.S. Defense Secretary Pete Hegseth ordered curriculum overhauls at senior military service colleges, demanding that the education of future military leaders prioritize winning wars over academic theory.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/hegseth-orders-senior-military-schools-to-focus-on-victory-11794254746643.html",
-      "dateLocation": "November 10, 2026 | Livemint"
-    },
-    {
-      "headline": "Bangladesh Denies Ousted Leader Sheikh Hasina Passport Renewal",
-      "brief": "Bangladesh's interim government rejected an application for a new passport by ousted former Prime Minister Sheikh Hasina, who remains in exile and faces potential extradition requests.",
+      "headline": "FDA Flags Potential Vision Loss Risk From Weight-Loss Drugs",
+      "brief": "An extensive FDA analysis of numerous clinical trials involving GLP-1 weight-loss medications has indicated a higher incidence of non-arteritic anterior ischemic optic neuropathy. Users of these popular diabetes and anti-obesity drugs are advised to remain vigilant about potential vision risks.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQy1pMFQtX2ZjVFVyZTJSR296WXMzdl9haTFsMEk5S2RWR0wwWWpzNG12Mld0VFVIYVpnOEZnVHVBa3ppeTJVZHNjZlNyQXhxWTBDVFhiSU1nbDJUSXdlaUZzdzl5d2twLWZKMW9DazVxNFNiamQyY1h6cDM2WDUyRFM0ZjVWSTlhWWFkaWtSREtmVFVNV29qT3U3d0dBcGx1eHNBblZZQTc3ajF4Q1dQWVln?oc=5",
-      "dateLocation": "November 10, 2026 | Reuters"
+      "sourceUrl": "https://www.livemint.com/news/us-news/fda-flags-potential-vision-loss-risk-linked-to-glp-1-drugs-what-users-of-weight-loss-medications-should-know-11794304730495.html",
+      "dateLocation": "November 2026 | Washington"
+    },
+    {
+      "headline": "Microsoft Presses Trump to Scuttle Chinese Data Center Ban",
+      "brief": "Tech giant Microsoft is reportedly lobbying the Trump administration to scrap an anticipated ban on Chinese data center technology. The intervention highlights intense corporate concerns over supply chains and regulatory roadblocks facing infrastructure investments.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5",
+      "dateLocation": "November 2026 | Washington"
+    },
+    {
+      "headline": "India Unveils Massive Push for Grid-Scale Energy Storage",
+      "brief": "The Indian government has launched a substantial funding initiative to deploy 92 GWh of grid-scale energy storage, including pumped hydro and battery systems. The project aims to integrate rising renewable energy capacity, stabilize the electrical grid, and minimize regional power outages.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/14500-crore-push-92-gwh-energy-storage-indias-green-energy-transition-11794292010675.html",
+      "dateLocation": "November 2026 | New Delhi"
+    },
+    {
+      "headline": "India Highlights Climate Finance Obligations at Global Forum",
+      "brief": "During international climate discussions, India urged developed economies to honor their financial commitments to help developing nations adapt to rising environmental hazards. New Delhi emphasized that a fair and rapid transition to cleaner energy requires substantial international support.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/india/india-flags-rich-nations-climate-finance-energy-transition-cop31-antalya-11794311323660.html",
+      "dateLocation": "November 2026 | Antalya"
+    },
+    {
+      "headline": "India Unemployment Rate Falls to 5.1% in Recent Quarter",
+      "brief": "Official macroeconomic data reveals that India's unemployment rate dropped to 5.1% during the July-September quarter. The improvement was largely driven by a significant contraction in rural joblessness as agricultural and localized labor markets strengthened.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-unemployment-rate-falls-to-5-1-in-july-september-as-rural-joblessness-declines/articleshow/135709920.cms",
+      "dateLocation": "November 2026 | New Delhi"
+    },
+    {
+      "headline": "Nvidia CEO's Alleged Ties to China Chip Shipments Scrutinized",
+      "brief": "Recent investigative reports suggest that personal ties involving Nvidia CEO Jensen Huang intersected with substantial high-end microchip shipments to China. The revelations have intensified scrutiny from regulators tracking semiconductor export controls.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+      "dateLocation": "November 2026 | San Francisco"
+    },
+    {
+      "headline": "India Criticizes US Court Summons Over Pannun Case",
+      "brief": "New Delhi forcefully rejected a US court order involving top Indian security officials in the Pannun legal dispute, labeling the move a malicious and fabricated attack. Ministry of External Affairs officials condemned the proceedings as legally baseless.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/fabricated-malicious-attacks-india-rejects-us-court-order-involving-officials-in-sikh-seperatist-pannun-case/articleshow/135711030.cms",
+      "dateLocation": "November 2026 | New Delhi"
+    },
+    {
+      "headline": "India Uncertified Allied Health Workers Given Path to Register",
+      "brief": "Draft regulations released under the National Commission for Allied and Healthcare Professions offer a four-year transition window. Uncertified lab technicians and radiographers can now formalize their credentials or face restrictions on future practice.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/uncertified-allied-health-workers-formalize-credentials-11794279959794.html",
+      "dateLocation": "November 2026 | New Delhi"
+    },
+    {
+      "headline": "Blackstone Acquires Stake in IIFL Finance in Capital Boost",
+      "brief": "Global investment firm Blackstone has injected substantial capital into IIFL Finance, acquiring a major equity stake to bolster the non-banking financial company's balance sheet amid shifting market conditions.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/blackstone-to-acquire-16-stake-in-iifl-finance-as-nbfc-announces-rs-6414-crore-capital-raise-led-by-global-investor/articleshow/135709294.cms",
+      "dateLocation": "November 2026 | Mumbai"
     }
   ]
 }
