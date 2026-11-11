@@ -1,110 +1,117 @@
 {
-  "lastUpdated": "2026-11-10T22:48:11.235Z",
+  "lastUpdated": "2026-11-11T13:30:27.227Z",
   "ticker": [
-    "Microsoft tops Nvidia market cap",
-    "Three workers die at Tata iPhone factory",
-    "India offers 3-part Ukraine de-escalation plan",
-    "Gold falls nearly 3% after hot CPI",
-    "Portugal braces for incoming Storm Charles"
+    "Nvidia faces deep scrutiny over China chip ties and CEO affair",
+    "Ukrainian attacks reduce Russia's oil processing capacity by 30%",
+    "Union cabinet raises rabi fertilizer subsidy by 64% to ₹62,370 crore",
+    "Twelve dead, fifty injured in Bulgarian motorway pile-up",
+    "Anthropic eyes $1.4 trillion IPO valuation in tech sector test"
   ],
   "articles": [
     {
+      "headline": "Nvidia faces intense scrutiny over China chip ties",
+      "brief": "Nvidia is facing mounting scrutiny following revelations regarding CEO Jensen Huang's relationship with an executive tied to a network of firms that allegedly moved banned H100 and H200 AI chips into China, prompting formal board investigations into the security and compliance breaches.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+      "dateLocation": "2026-11-11 | Reuters"
+    },
+    {
+      "headline": "Anthropic eyes $1.4 trillion IPO valuation",
+      "brief": "Anthropic is reportedly eyeing an ambitious $1.4 trillion IPO valuation, marking a definitive major test of Wall Street's enduring fervor for artificial intelligence companies as investor demand for generative AI leaders reaches unprecedented heights.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
+      "dateLocation": "2026-11-11 | Reuters"
+    },
+    {
+      "headline": "Ukraine strikes reduce Russian oil processing capacity",
+      "brief": "Recent strategic Ukrainian drone and missile attacks have successfully reduced Russia's domestic oil processing capacity by an estimated 30%, according to industry sources closely monitoring the ongoing conflict's impact on energy infrastructure.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXJUZnFVTVJmR25VaW9YQkhwMTJEM0FzTWVHLXRZOFpXV09zN18zd1RIOThGTHdiVUVmbVFnbnJqRUhfQzdSQzBDTHFLUUxtSEI3YkZyNFQ0RzdlQ3oxMVRHb1d2YUNBa3hIbWQ3VWxmYTBNaWpiVmdjOXB4ZDlzMFhQQk10a1FZWkhWem81TGNaS0JFc25FNUV6eFVhd2RIYldEQTlCU051VUFlalpnSlBoYzdOVFFFNVN4cjNjRjVuX05jNGc?oc=5",
+      "dateLocation": "2026-11-11 | Reuters"
+    },
+    {
+      "headline": "US House blocks Defense Secretary Hegseth impeachment",
+      "brief": "The United States House of Representatives officially blocked a legislative bid to impeach Defense Secretary Hegseth, defusing an escalating political showdown in Washington amid sharp partisan divisions over executive branch leadership and policy.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+      "dateLocation": "2026-11-11 | Reuters"
+    },
+    {
+      "headline": "Twelve dead in Bulgarian motorway pile-up",
+      "brief": "At least twelve people have been killed and fifty others injured following a massive multi-vehicle motorway pile-up in Bulgaria, prompting an emergency response from local authorities and medical transport teams.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlFFZTl0aVRsZGZUcGswcDE0ZVdyZGsxV0pqeXg2Z2xUUDl3dDNBS2tNX3RuVUs5ZkFKaGFMbW5sV3A0SEpYMWFoQ0sxYV9Qb21uM0pmZ25xYmNKdHh2aDgyRnhDZEdNSmx0UEFDVDJSYXp6WFk1TldsMEI5Y1J6SG1BUEdKNFBD?oc=5",
+      "dateLocation": "2026-11-11 | Reuters"
+    },
+    {
       "headline": "Three workers die at Tata iPhone parts factory",
-      "brief": "Three workers have died at a Tata Electronics iPhone components facility in India following a severe safety incident. Authorities and company officials are investigating the operational failures that led to the fatal accident.",
+      "brief": "Three workers have tragically died at a Tata electronics iPhone parts manufacturing facility in India, marking the latest serious safety incident to draw scrutiny regarding industrial working conditions and factory protocol enforcement.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzVBU0RlVDBETXZNRDZhMHB0REwwZC1fMTNzdzc5VHZFc0pwZjl2ZW5mUGk2QXJ6Zmx4Q1puUUtoTXppdndSZl9iYUdaTXk1RlVBWEgwTTRObEpLdkpKbjJ1NUdGakxETkRrZUdyWENUa2c0VFRrcXVXUEszNm5hRzZ1UFRwTGdlV3poVlZTR051MTUxZElBZk1WbWRMaHViM0dfVnlsS05vajlQYWtqZU9IaTFiTTg4UXZHOGpodF9URHlLR004?oc=5",
-      "dateLocation": "2026-11-10 | Reuters"
+      "dateLocation": "2026-11-11 | Reuters"
     },
     {
-      "headline": "IBM to end visa sponsorship for most consulting roles",
-      "brief": "Tech giant IBM is reportedly ending green card and visa sponsorships for the vast majority of positions within its global consulting division, impacting foreign professionals across numerous regional offices.",
+      "headline": "Cabinet approves ₹2,390 crore Noida metro rail link",
+      "brief": "The Union Cabinet, chaired by Prime Minister Narendra Modi, has approved a ₹2,390 crore metro rail link extending from Noida Sector 51 to Greater Noida Sector 4, significantly enhancing urban transport infrastructure in the national capital region.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/cabinet-approves-2390-crore-metro-rail-link-from-noida-sector-51-to-greater-noida-sector-4/article71689686.ece",
+      "dateLocation": "2026-11-11 | The Hindu"
+    },
+    {
+      "headline": "Union cabinet raises rabi fertilizer subsidy by 64%",
+      "brief": "The Central government has raised the rabi fertilizer subsidy by 64% to ₹62,370 crore for the upcoming agricultural season, alongside approving substantial credit guarantees to support disadvantaged micro-entrepreneurs and farmers nationwide.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html",
+      "dateLocation": "2026-11-11 | Livemint"
+    },
+    {
+      "headline": "Mother Dairy and Amul hike milk prices",
+      "brief": "Major dairy distributors Mother Dairy and Amul have announced price hikes of up to ₹6 per litre across various milk variants in the Delhi-NCR region, driven by escalating production costs and dwindling supply chains.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-milk-gets-costlier-dairy-giant-hikes-rate-by-rs-2-4-per-litre-from-thursday-check-prices/articleshow/135727078.cms",
+      "dateLocation": "2026-11-11 | Times of India"
+    },
+    {
+      "headline": "Niraj Kumar wins historic World Championship bronze medal",
+      "brief": "Shooter Niraj Kumar secured a bronze medal in the men's 50m rifle 3 positions event at the ISSF World Championships, successfully earning an official quota place for India ahead of the Los Angeles 2028 Olympic Games.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/niraj-kumar-scripts-history-with-world-championships-bronze-secures-la-2028-olympic-quota/articleshow/135737606.cms",
+      "dateLocation": "2026-11-11 | Times of India"
+    },
+    {
+      "headline": "Qualcomm India faces over 1,000 job cuts in global restructuring",
+      "brief": "Qualcomm India is bracing for over 1,000 job cuts as part of a performance-focused global workforce reduction ordered by CEO Cristiano Amon, with severance packages offering up to three months of salary.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVZScURucjRfQ1FmYkxYLXhJeTRrbzRXMzBMX0tUUWNjQVRzTXVKV0cxamRiOEY5bGhueWJPRDZndGNYODVvdXBXemdhbkcwMGVMNUJEMjhYTW9xd2MyRmJFbVd5SGsxeFFFN3FfUkI5cmo4dElPUlhWZkdXV0kwOFVLSHM4TW0wNmZyZU5VdExWWkV1MVpXa3VRTGxJemFoNDMxdFkwYmo0SFZWZ3BzeEFR?oc=5",
-      "dateLocation": "2026-11-10 | Reuters"
+      "sourceUrl": "https://www.thehindu.com/business/Industry/qualcomm-india-layoffs-over-1000-jobs-at-risk-amid-global-cuts/article71689532.ece",
+      "dateLocation": "2026-11-11 | The Hindu"
     },
     {
-      "headline": "Microsoft surpasses Nvidia in global market capitalization",
-      "brief": "Microsoft has reclaimed the top spot over Nvidia in total market valuation for the first time since June 2025, driven by shifting investor sentiment across artificial intelligence and cloud computing infrastructure.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGpwLVRZNGJRQ3diMmx2QnhNaERXa3RCdzR1MThDdk04TGprcXF5Z3djdXFrUnlPN25udC1qNU5BNVRhN2ZnWWd1dk5sR0lUN0FhdDR5dWFIeWZqQ2UwMGFFdmpvbkxFazJfNy1HTjR4aHZJN3ZRTnFmMFhvcm43YjRhYXB0a29LbllQYUFxNkY5WUZ1MlJ4U0tELVNTa3c3Vkl1YlJyOA?oc=5",
-      "dateLocation": "2026-11-10 | Reuters"
-    },
-    {
-      "headline": "Gold plunges nearly 3% following hot CPI figures",
-      "brief": "Precious metals dropped sharply as higher-than-forecasted consumer price index data boosted the US dollar and Treasury yields, dampening immediate investor demand for non-yielding bullion assets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
-      "dateLocation": "2026-11-10 | Reuters"
-    },
-    {
-      "headline": "Portugal braces for Storm Charles with school closures",
-      "brief": "Portuguese authorities have ordered school closures and mobilized emergency rescue personnel as the nation prepares for the arrival of severe weather system Storm Charles, bringing heavy winds and floods.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdndjVVY4Nm84RWV4bjBLUldOM0JlZUdFQjQ3UTB3Y3U2d0w0bG84dFNPRm9BVE5fbzV0NnNzRTNGdkhmQXg4Uy1NSXowMTYwYmtKUDBDMTJjNjZ3ZkU4T0hoa3VIeFVaTVk0eklpRDFCcE9RUU5icXMydjJkNHNycHhRZHI3U3M1aVpHUGpubjVzR1ktbmRYQTQyWVg0dmZrRFZnUl9ldzJQc0puZXQtUy1scURjXzhFVnc?oc=5",
-      "dateLocation": "2026-11-10 | Reuters"
-    },
-    {
-      "headline": "India proposes 3-part framework to de-escalate Ukraine war",
-      "brief": "India has formally introduced a comprehensive three-part diplomatic strategy aimed at facilitating de-escalation and restarting peace talks between Russia and Ukraine, emphasizing dialogue and humanitarian aid.",
-      "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-offers-3-part-plan-to-de-escalate-ukraine-war/articleshow/135718689.cms",
-      "dateLocation": "2026-11-10 | Economic Times"
-    },
-    {
-      "headline": "Andhra Pradesh clears massive investments in AI and tech",
-      "brief": "The Andhra Pradesh cabinet has approved strategic policy frameworks to attract large-scale capital investments into artificial intelligence, electronics manufacturing, and renewable energy, including a massive green data centre project.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
-      "dateLocation": "2026-11-10 | The Hindu"
-    },
-    {
-      "headline": "US baby food and formula prices surge to record highs",
-      "brief": "American families are facing unprecedented financial strain after baby food and formula prices experienced their largest single-month surge on record, compounding everyday cost-of-living challenges.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-parents-face-record-surge-in-baby-food-and-formula-costs-11794349425464.html",
-      "dateLocation": "2026-11-10 | Livemint"
-    },
-    {
-      "headline": "GLP-1 weight loss drugs linked to rare vision loss risks",
-      "brief": "Medical researchers have flagged a potential connection between popular GLP-1 receptor agonist weight-loss medications like Ozempic and severe ischemic optic neuropathy, prompting calls for closer patient monitoring.",
+      "headline": "Supreme Court directs strict measures on polluting vehicles",
+      "brief": "The Supreme Court has directed government authorities across Delhi, Uttar Pradesh, Haryana, and Rajasthan to submit comprehensive action plans within two weeks to tackle severe vehicular air pollution plaguing the national capital region.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/glp-1-drugs-weight-loss-ozempic-wegovy-linked-to-vision-loss-what-is-naion-who-is-at-risk-and-what-symptoms-should-users-watch-for/articleshow/135718578.cms",
-      "dateLocation": "2026-11-10 | Economic Times"
+      "sourceUrl": "https://www.livemint.com/news/india/delhincr-air-pollution-what-sc-wants-delhi-and-3-neighbouring-states-to-do-about-polluting-vehicles-11794395580794.html",
+      "dateLocation": "2026-11-11 | Livemint"
     },
     {
-      "headline": "Jannik Sinner plans late-December return at exhibition",
-      "brief": "Top tennis star Jannik Sinner intends to return to competitive action at a Saudi exhibition tournament later this month, marking his first appearance since recovering from a persistent knee injury.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/tennis/jannik-sinner-plans-late-december-return-at-saudi-exhibition-ahead-of-australian-open/article71687381.ece",
-      "dateLocation": "2026-11-10 | The Hindu"
-    },
-    {
-      "headline": "Formula One confirms standard 2026 calendar ending in Qatar",
-      "brief": "Formula One organizers have reaffirmed that the current championship season will conclude in Qatar and Abu Dhabi as originally scheduled, following unanimous support from all competing constructor teams.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/motorsport/f1-season-to-end-in-qatar-abu-dhabi-as-scheduled/article71687378.ece",
-      "dateLocation": "2026-11-10 | The Hindu"
-    },
-    {
-      "headline": "Google Cloud integrates Meta AI models into managed APIs",
-      "brief": "Google has expanded its cloud capabilities by integrating Meta's latest artificial intelligence models into its managed APIs, allowing enterprise customers to utilize advanced tools for software development and workflow automation.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/sundar-pichai-sends-welcome-note-to-mark-zuckerberg-says-excited-to-serve-our-googles-/articleshow/135699570.cms",
-      "dateLocation": "2026-11-10 | Times of India"
-    },
-    {
-      "headline": "MEA strongly condemns US court summons to former RAW chief",
-      "brief": "India's Ministry of External Affairs has dismissed recent US court summons directed at former intelligence officials as frivolous and legally baseless, rejecting allegations regarding foreign assassination plots.",
+      "headline": "Trump signals readiness for Iran strikes if diplomacy fails",
+      "brief": "Former US President Donald Trump stated that regional powers like Qatar and Saudi Arabia desire a peaceful resolution with Iran, while affirming that the United States remains fully prepared to execute military strikes if negotiations break down.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms",
-      "dateLocation": "2026-11-10 | Times of India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5",
+      "dateLocation": "2026-11-11 | Reuters"
     },
     {
-      "headline": "Jim Jordan elected House Republican leader following setbacks",
-      "brief": "US House Republicans have chosen Jim Jordan to lead their legislative caucus following the party's recent midterm election results, setting the stage for renewed policy clashes in Congress.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/jim-jordan-elected-house-republican-leader-after-partys-midterm-defeat/articleshow/135719643.cms",
-      "dateLocation": "2026-11-10 | Times of India"
+      "headline": "Singapore Airlines flight makes emergency landing in Australia",
+      "brief": "A Singapore Airlines flight was forced to execute an emergency landing at an Australian airport after smoke was detected in the cabin, prompting an immediate safety inspection by aviation authorities.",
+      "category": "world",
+      "sourceUrl": "https://economictimes.indiatimes.com/nri/latest-updates/singapore-airlines-flight-makes-emergency-landing-in-australia-after-smoke-detected/articleshow/135736082.cms",
+      "dateLocation": "2026-11-11 | Economic Times"
+    },
+    {
+      "headline": "Delhi student wins Diana Award for low-cost air purifier",
+      "brief": "Krish Aggarwal, a student at Delhi's Sanskriti School, won the 2026 Diana Award for co-founding an initiative that converts ordinary classroom cooling fans into affordable air purifiers across underprivileged schools.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/trends/delhi-student-krish-aggarwal-wins-2026-diana-award-for-low-cost-filter-that-turns-ordinary-fans-into-air-purifiers-11794392982926.html",
+      "dateLocation": "2026-11-11 | Livemint"
     }
   ]
 }
