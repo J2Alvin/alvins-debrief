@@ -1,117 +1,103 @@
 {
-  "lastUpdated": "2026-11-11T13:30:27.227Z",
+  "lastUpdated": "2026-11-12T00:00:20.416Z",
   "ticker": [
-    "Nvidia faces deep scrutiny over China chip ties and CEO affair",
-    "Ukrainian attacks reduce Russia's oil processing capacity by 30%",
-    "Union cabinet raises rabi fertilizer subsidy by 64% to ₹62,370 crore",
-    "Twelve dead, fifty injured in Bulgarian motorway pile-up",
-    "Anthropic eyes $1.4 trillion IPO valuation in tech sector test"
+    "Moody's Lifts India Growth Forecast",
+    "IBM Ends Visa Sponsorship for Consultants",
+    "Amul Hikes Milk Prices by 5.5%",
+    "Trump Defends Iran War Stance",
+    "India Simplifies Visa Processing Rules"
   ],
   "articles": [
     {
-      "headline": "Nvidia faces intense scrutiny over China chip ties",
-      "brief": "Nvidia is facing mounting scrutiny following revelations regarding CEO Jensen Huang's relationship with an executive tied to a network of firms that allegedly moved banned H100 and H200 AI chips into China, prompting formal board investigations into the security and compliance breaches.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
-      "dateLocation": "2026-11-11 | Reuters"
-    },
-    {
-      "headline": "Anthropic eyes $1.4 trillion IPO valuation",
-      "brief": "Anthropic is reportedly eyeing an ambitious $1.4 trillion IPO valuation, marking a definitive major test of Wall Street's enduring fervor for artificial intelligence companies as investor demand for generative AI leaders reaches unprecedented heights.",
+      "headline": "Fairfax likely to exit India's IIFL Finance",
+      "brief": "Investment firm Fairfax is reportedly preparing to exit its stake in India's IIFL Finance, according to people familiar with the matter. The potential divestment marks a significant shift for the financial services company.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
-      "dateLocation": "2026-11-11 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZTVGWVFtenhFUEpMTDB3SzFhck1wOWFjZzExcGhsY3N6elVJMWJGVVRnQi1MWjcyN05yczRnZWpCaF93RXplcm92a1p2dVRIa25GdVJESU5wVkVwUVJXYnZJWTJnYV84VzdmcE9iREhpRzJabkR0ZHpqM1NTUi1GRW9sZE1wUTVpamt3WUx4ak9ieTBTRVRydzMtNDJIWkRSaDQ1T3JnbzNwOW8?oc=5",
+      "dateLocation": "November 12, 2026 | Reuters"
     },
     {
-      "headline": "Ukraine strikes reduce Russian oil processing capacity",
-      "brief": "Recent strategic Ukrainian drone and missile attacks have successfully reduced Russia's domestic oil processing capacity by an estimated 30%, according to industry sources closely monitoring the ongoing conflict's impact on energy infrastructure.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXJUZnFVTVJmR25VaW9YQkhwMTJEM0FzTWVHLXRZOFpXV09zN18zd1RIOThGTHdiVUVmbVFnbnJqRUhfQzdSQzBDTHFLUUxtSEI3YkZyNFQ0RzdlQ3oxMVRHb1d2YUNBa3hIbWQ3VWxmYTBNaWpiVmdjOXB4ZDlzMFhQQk10a1FZWkhWem81TGNaS0JFc25FNUV6eFVhd2RIYldEQTlCU051VUFlalpnSlBoYzdOVFFFNVN4cjNjRjVuX05jNGc?oc=5",
-      "dateLocation": "2026-11-11 | Reuters"
-    },
-    {
-      "headline": "US House blocks Defense Secretary Hegseth impeachment",
-      "brief": "The United States House of Representatives officially blocked a legislative bid to impeach Defense Secretary Hegseth, defusing an escalating political showdown in Washington amid sharp partisan divisions over executive branch leadership and policy.",
+      "headline": "India orders website takedowns on fake court orders",
+      "brief": "An exclusive investigation reveals that Indian authorities ordered website takedowns following the circulation of fake court orders, prompting an active police probe into the sophisticated forgery operation.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
-      "dateLocation": "2026-11-11 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDR0QVdTSXBVU09DWk80R05TdzQ4ZF9LNVc1N3RWTjYzeGlaTjBzN0J0Y2ZEUHdPY2Y3RElqempwWEhQNGs3YlZaNUxEcTU3WmVVRmZaMlRCSjlCdHdFdDl3bUxONUxWNWk3UEZYdUd0WVJNRzZ1Q0RWMnIyQTN0cWgzWkdpR29QamdSTklBNGhWQ1J5Y0podndzaWJ6aEVQejh1SEtTdGw2bnJMc1pQblBZM0xoeW5XWHEw?oc=5",
+      "dateLocation": "November 12, 2026 | Reuters"
     },
     {
-      "headline": "Twelve dead in Bulgarian motorway pile-up",
-      "brief": "At least twelve people have been killed and fifty others injured following a massive multi-vehicle motorway pile-up in Bulgaria, prompting an emergency response from local authorities and medical transport teams.",
-      "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlFFZTl0aVRsZGZUcGswcDE0ZVdyZGsxV0pqeXg2Z2xUUDl3dDNBS2tNX3RuVUs5ZkFKaGFMbW5sV3A0SEpYMWFoQ0sxYV9Qb21uM0pmZ25xYmNKdHh2aDgyRnhDZEdNSmx0UEFDVDJSYXp6WFk1TldsMEI5Y1J6SG1BUEdKNFBD?oc=5",
-      "dateLocation": "2026-11-11 | Reuters"
+      "headline": "Eleven Pakistani police personnel feared killed in attack",
+      "brief": "A rescue group reports that at least eleven Pakistani police personnel are feared killed following a severe militant attack in the region. Emergency response teams have launched rescue operations in the affected area.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUWlXQkNQUTNPdVoydjk3YmNZdkszY2w2cVI0QWxwdWpKR29YaFktM1RDNnhJQmlCVW1NY3NLWjV3bktFenpOZjlmZHBQczE3elZJZ0VrWmZGQ09pNzBWNmwwdEsyR3Rfd2xNZVc4eXpadEF6b21TcFltbDJsU2NYcVdPQ2ZDVWdMemh1UnlDUWNwX1JOVDlSUEcxNllxQ3F5ZV96dUNCVDV5SlU3TTVTa2xCcUNZY0d3UXlGS1hWa3FYR0FVNkE?oc=5",
+      "dateLocation": "November 12, 2026 | Reuters"
     },
     {
-      "headline": "Three workers die at Tata iPhone parts factory",
-      "brief": "Three workers have tragically died at a Tata electronics iPhone parts manufacturing facility in India, marking the latest serious safety incident to draw scrutiny regarding industrial working conditions and factory protocol enforcement.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzVBU0RlVDBETXZNRDZhMHB0REwwZC1fMTNzdzc5VHZFc0pwZjl2ZW5mUGk2QXJ6Zmx4Q1puUUtoTXppdndSZl9iYUdaTXk1RlVBWEgwTTRObEpLdkpKbjJ1NUdGakxETkRrZUdyWENUa2c0VFRrcXVXUEszNm5hRzZ1UFRwTGdlV3poVlZTR051MTUxZElBZk1WbWRMaHViM0dfVnlsS05vajlQYWtqZU9IaTFiTTg4UXZHOGpodF9URHlLR004?oc=5",
-      "dateLocation": "2026-11-11 | Reuters"
-    },
-    {
-      "headline": "Cabinet approves ₹2,390 crore Noida metro rail link",
-      "brief": "The Union Cabinet, chaired by Prime Minister Narendra Modi, has approved a ₹2,390 crore metro rail link extending from Noida Sector 51 to Greater Noida Sector 4, significantly enhancing urban transport infrastructure in the national capital region.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/cabinet-approves-2390-crore-metro-rail-link-from-noida-sector-51-to-greater-noida-sector-4/article71689686.ece",
-      "dateLocation": "2026-11-11 | The Hindu"
-    },
-    {
-      "headline": "Union cabinet raises rabi fertilizer subsidy by 64%",
-      "brief": "The Central government has raised the rabi fertilizer subsidy by 64% to ₹62,370 crore for the upcoming agricultural season, alongside approving substantial credit guarantees to support disadvantaged micro-entrepreneurs and farmers nationwide.",
+      "headline": "Moody's lifts India economic growth forecast to 7%",
+      "brief": "Moody's Ratings has upgraded India's growth outlook, noting that the domestic economy is exceptionally well-positioned to sustain near 7% GDP growth driven by robust fundamentals and steady investment.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/union-cabinet-raises-rabi-fertilizer-subsidy-by-64-to-62-370-crore-11794397334259.html",
-      "dateLocation": "2026-11-11 | Livemint"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1Bhc253SGlMZGdtdjFTWk9raTg0ckVuNEJuM0YycUtidDd4dll4Z2RIM0t3TXlxX1hvZnpxZG1FanQzOTFDeW9BalFwLTVrSnRGbDJVa0tzMHNQZUdkR3pwQUZMYTlDOFhCOGhuSzgyZW1aQkVCcE9rRkhUU3Jtd3dmbW1PMV9Gd0NCZHNRN2xfeUdmeFZxb2cxTEp0VjhNRFVnWWlmNW40WUFJQUlpNzNnS1g0QTA2Vi0tYkRIb09paUxB?oc=5",
+      "dateLocation": "November 12, 2026 | Reuters"
     },
     {
-      "headline": "Mother Dairy and Amul hike milk prices",
-      "brief": "Major dairy distributors Mother Dairy and Amul have announced price hikes of up to ₹6 per litre across various milk variants in the Delhi-NCR region, driven by escalating production costs and dwindling supply chains.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-milk-gets-costlier-dairy-giant-hikes-rate-by-rs-2-4-per-litre-from-thursday-check-prices/articleshow/135727078.cms",
-      "dateLocation": "2026-11-11 | Times of India"
-    },
-    {
-      "headline": "Niraj Kumar wins historic World Championship bronze medal",
-      "brief": "Shooter Niraj Kumar secured a bronze medal in the men's 50m rifle 3 positions event at the ISSF World Championships, successfully earning an official quota place for India ahead of the Los Angeles 2028 Olympic Games.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/niraj-kumar-scripts-history-with-world-championships-bronze-secures-la-2028-olympic-quota/articleshow/135737606.cms",
-      "dateLocation": "2026-11-11 | Times of India"
-    },
-    {
-      "headline": "Qualcomm India faces over 1,000 job cuts in global restructuring",
-      "brief": "Qualcomm India is bracing for over 1,000 job cuts as part of a performance-focused global workforce reduction ordered by CEO Cristiano Amon, with severance packages offering up to three months of salary.",
+      "headline": "Meta infrastructure head Janardhan to depart in 2027",
+      "brief": "Meta's long-serving infrastructure chief, Janardhan, has announced plans to step down from his leadership role in early 2027. The tech giant will begin transitioning his responsibilities over the coming months.",
       "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/qualcomm-india-layoffs-over-1000-jobs-at-risk-amid-global-cuts/article71689532.ece",
-      "dateLocation": "2026-11-11 | The Hindu"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXJEeF82djRSOW5XTTdlVThvUVpDRGxwRUtOdHZfREI1LTZIc1J1VEFLVWYtejJST0tQcVJwTzN4OFN1Nkh0eEtnNExhXzNfR3NCU2hfS0pLRmRUdk5hczVRblRIQXlTUmdFTm9URlVkUUE5c3dzT1k2N1pib1lsU0NhT0J3a2ZpbV9XOEs2RDQxUE1DQjgwMzVxT29qeFJNbFFzeDBmb1JIUWF1NWc?oc=5",
+      "dateLocation": "November 12, 2026 | Reuters"
     },
     {
-      "headline": "Supreme Court directs strict measures on polluting vehicles",
-      "brief": "The Supreme Court has directed government authorities across Delhi, Uttar Pradesh, Haryana, and Rajasthan to submit comprehensive action plans within two weeks to tackle severe vehicular air pollution plaguing the national capital region.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/delhincr-air-pollution-what-sc-wants-delhi-and-3-neighbouring-states-to-do-about-polluting-vehicles-11794395580794.html",
-      "dateLocation": "2026-11-11 | Livemint"
+      "headline": "China Singles Day festival tests new AI selling power",
+      "brief": "China's massive Singles Day shopping festival has commenced, serving as a major commercial proving ground for advanced artificial intelligence selling power and automated consumer engagement tools across major e-commerce platforms.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZRNDVrTEpZSnpqaDdwU01NX2c3SElnV09nZEsyQlpSSHlFR3FDQkt3Y1hYS0twOFJxMzk1Vm93aFZxTzZwUWlsRDJaZ1JtS0NJTE02VkdZaWpwMzFKYnRjV3BSYmxyTEtmYjhFRXZOZ1dnWEZfN0RCUVBsSUpkUGZQUUhCa3pSRW9IV1o5dkpacWxkVzVfcWthaXc2T0VwNG5ESVVFZW5tQ2dUcTYzM1RlWk1jaVBQMVhHNzdiY0UtQQ?oc=5",
+      "dateLocation": "November 12, 2026 | Reuters"
     },
     {
-      "headline": "Trump signals readiness for Iran strikes if diplomacy fails",
-      "brief": "Former US President Donald Trump stated that regional powers like Qatar and Saudi Arabia desire a peaceful resolution with Iran, while affirming that the United States remains fully prepared to execute military strikes if negotiations break down.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2o4T2dDT1ZqQmlqM0JxZEViaHZzWjRPeGtRd2N5MEZweXhTWXV1b0RybWgxNzZrMUJmOXFDMGMtTGE1RzJCMHBNdkctTVZpWXhBUUcxYUhnOTRqOEpQZUpPWjdsZHgtTWc4cWYxYnRtZEgzb191X2tlOUVVYXh4SFpnejMxYXRidEhFalZMeDlSSlhmUm5IR0Nyd2hybHhWVjVrcXA1ODVaYWo1ODhFSEhNMFZxdmdaN3VLTEc0dE1MZ21pVGxFMFh0TQ?oc=5",
-      "dateLocation": "2026-11-11 | Reuters"
-    },
-    {
-      "headline": "Singapore Airlines flight makes emergency landing in Australia",
-      "brief": "A Singapore Airlines flight was forced to execute an emergency landing at an Australian airport after smoke was detected in the cabin, prompting an immediate safety inspection by aviation authorities.",
+      "headline": "Trump defends Iran war during Veterans Day address",
+      "brief": "In a Veterans Day address, former US President Donald Trump defended the military conflict with Iran, stating that the long-standing hostility was initiated by Tehran rather than Washington.",
       "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/nri/latest-updates/singapore-airlines-flight-makes-emergency-landing-in-australia-after-smoke-detected/articleshow/135736082.cms",
-      "dateLocation": "2026-11-11 | Economic Times"
+      "sourceUrl": "https://www.thehindu.com/news/international/usa-president-donald-trump-veterans-day-address-iran-war/article71691407.ece",
+      "dateLocation": "November 12, 2026 | The Hindu"
     },
     {
-      "headline": "Delhi student wins Diana Award for low-cost air purifier",
-      "brief": "Krish Aggarwal, a student at Delhi's Sanskriti School, won the 2026 Diana Award for co-founding an initiative that converts ordinary classroom cooling fans into affordable air purifiers across underprivileged schools.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/trends/delhi-student-krish-aggarwal-wins-2026-diana-award-for-low-cost-filter-that-turns-ordinary-fans-into-air-purifiers-11794392982926.html",
-      "dateLocation": "2026-11-11 | Livemint"
+      "headline": "AAP questions CAQM over alleged Delhi AQI manipulation",
+      "brief": "The Aam Aadmi Party met with the Commission for Air Quality Management, raising serious concerns regarding alleged manipulation of air quality index readings at monitoring stations across the capital.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/aap-meets-caqm-complains-about-alleged-aqi-manipulation/article71691036.ece",
+      "dateLocation": "November 12, 2026 | The Hindu"
+    },
+    {
+      "headline": "India slashes visa categories and application form fields",
+      "brief": "The Ministry of Home Affairs has streamlined India's visa process by reducing categories from 13 to 9 and cutting application form columns by up to 70 percent to enhance ease of travel.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/india-reduces-visa-categories-from-13-to-9-cuts-application-form-columns-by-up-to-70-check-when-it-comes-into-effect-11794418675068.html",
+      "dateLocation": "November 12, 2026 | Livemint"
+    },
+    {
+      "headline": "Net direct tax collections rise 11.8% in FY27",
+      "brief": "India's net direct tax collections grew by 11.76% to reach ₹14.42 trillion, led by strong corporate tax receipts despite higher refunds moderating overall net figures.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/net-direct-tax-collections-rise-11-8-to-rs-14-42-trillion-corporate-tax-leads-11794414077304.html",
+      "dateLocation": "November 12, 2026 | Livemint"
+    },
+    {
+      "headline": "Amul announces 5.5% milk price hike from November 12",
+      "brief": "Amul has announced a price hike of ₹2 to ₹4 per litre across major markets effective November 12, citing rising production, cattle feed, and processing expenditures.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/amul-announces-price-hike-after-mother-dairy-milk-to-get-costlier-by-5-5-from-12-november-check-new-rates-11794407330282.html",
+      "dateLocation": "November 12, 2026 | Livemint"
+    },
+    {
+      "headline": "Record FPI buying pushes Sensex near nine-month high",
+      "brief": "Foreign portfolio investors poured over ₹73,200 crore into Indian equities in November, driving benchmark indices like the Sensex to near nine-month highs amid positive corporate earnings.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/record-fpi-buying-in-november-sends-sensex-to-near-9-month-high/articleshow/135750919.cms",
+      "dateLocation": "November 12, 2026 | Times of India"
+    },
+    {
+      "headline": "IBM tells visa holders to relocate or leave by year-end",
+      "brief": "IBM is ending US visa and green card sponsorships for most roles within its massive consulting division, giving affected employees the choice to relocate abroad or depart by the end of the year.",
+      "category": "general",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-tells-visa-holders-in-its-150000-people-consulting-unit-to-move-abroad-or-leave-by-year-end-company-says-we-have-opted-to-discontinue-/articleshow/135726102.cms",
+      "dateLocation": "November 12, 2026 | Times of India"
     }
   ]
 }
