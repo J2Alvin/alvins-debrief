@@ -1,96 +1,117 @@
 {
-  "lastUpdated": "2026-11-13T04:57:17.353Z",
+  "lastUpdated": "2026-11-13T13:53:04.065Z",
   "ticker": [
-    "Nvidia CEO Jensen Huang resigns amid spy scandal",
-    "Microsoft hit by major global Outlook and Teams outage",
-    "Indian markets open lower on oil surge and inflation",
-    "US freezes $2.7 billion following North Korea Binance hack",
-    "Trump issues strong warning to Iran amid rising tensions"
+    "Microsoft 365 global outage stretches past 16 hours",
+    "Jensen Huang steps down as Nvidia CEO amid spy row",
+    "India October trade deficit hits one-year high of $39B",
+    "Delhi overtakes Lahore as world's most polluted city",
+    "SpaceX prepares for first land Starship recovery"
   ],
   "articles": [
     {
-      "headline": "Nvidia CEO Jensen Huang Resigns Amid Spy Scandal",
-      "brief": "Nvidia CEO Jensen Huang has resigned following controversies surrounding an alleged relationship with a woman suspected of Chinese espionage, sending shockwaves through the tech sector and drawing sharp reactions from US lawmakers and President Trump.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
-      "dateLocation": "November 13, 2026 | Reuters"
-    },
-    {
-      "headline": "Microsoft Outage Disrupts Global Business and Government Systems",
-      "brief": "A major Microsoft outage has dragged on for hours, severely disrupting Outlook and Teams for numerous businesses and government agencies worldwide as the tech giant struggles to apply server fixes.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWpWeUZnbllhcFk4WktZS0s3T1N6T3k3Vnhhd3pfSE9SWF9iRmRIQUljdHZXN0UtWS1uZS1rbUNZSlVPd1NXLXRtVUVtc3NQNTgxMVFMWjVnT3pPb09EX1g1YUx3WkF2VHk0bUMwWlhkRHdpT0JFRE5SQ3pQRkdmSnpUOHNXLUo1dXNSY3lFdkpSdU5laDdwSlhWRDVnNjBFcUh2Y0FwMXNldE8tSFpPaw?oc=5",
-      "dateLocation": "November 13, 2026 | Reuters"
-    },
-    {
-      "headline": "Indian Shares Open Lower Amid Oil Surge and Inflation",
-      "brief": "Indian equity markets opened lower following a three-day rally, weighed down by rising global crude oil prices, ongoing inflation jitters, and broader economic concerns across Asian markets.",
+      "headline": "India's October Trade Deficit Hits One-Year High",
+      "brief": "India's trade deficit widened to $39.88 billion in October, driven largely by a sharp surge in gold imports, according to recent trade figures released by Reuters.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX1E4QjJWZklPblVub0xweU1jNXRDdDlBdDFpbDFlZDl1d21idHhkbnAtTkZOcGEzZ3dSRnh0dWhQOFRPQXRuQVR2QkE0RFVvbnVSM2N3MmtWZjhsa0FhSGRLTlVtZUxXeTVGQUlUWTQyTjlwNm9HT2pvek1nZ0JXWkVWd0FVdEdvMFpZbkxuU2VlcHFUbDMtNzlzc09oeVB1eVVLaE12MHE1QXh6eEFIZ3lyUlUyRks0eU8tbA?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVC1qbUMzMG9XdFpsRGZQQzNVa3d1R2hfem5KQUplcU1DZWd4amxfa0Z0cTQ0QkU2SkkybmlacTlaNFlNSlB0UkJ6OWJZTUxzZ19lbDlZcmt2RHFMeUF3UjhvRHpFWnVwYzU0RkN1WF9MWFFuOThuMHJUaTdPdDh4VWtQMm9pVEZDZFdjcmVicDZzVDlhSzdHUTBsNWF4VkV2Y1FtRlAyT0tYZmhCdWFyUERaQy1JNDJuVU0tSw?oc=5",
       "dateLocation": "November 13, 2026 | Reuters"
     },
     {
-      "headline": "US Details $2.7 Billion Freeze After North Korea Binance Hack",
-      "brief": "The US Justice Department has announced a major asset freeze involving stablecoin issuers to secure nearly half of the funds stolen during a massive $6 billion cyber heist on the Binance cryptocurrency exchange linked to North Korean hackers.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-details-2-7-billion-freeze-after-north-korea-s-binance-hack-11794521427219.html",
-      "dateLocation": "November 13, 2026 | Livemint"
-    },
-    {
-      "headline": "US Democrats Probe Nvidia China Chip Sales Deal",
-      "brief": "US lawmakers and congressional Democrats have launched an official investigation into a controversial Trump administration agreement allowing Nvidia to export advanced AI chips to China in exchange for a percentage of sales revenue.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-democrats-probe-nvidia-s-china-chip-sales-deal-with-trump-admin-question-26-million-in-donations-from-company-11794538729267.html",
-      "dateLocation": "November 13, 2026 | Livemint"
-    },
-    {
-      "headline": "Kalshi Ends Donald Trump Jr Advisory Contract Over Polymarket",
-      "brief": "Prediction market platform Kalshi has officially terminated Donald Trump Jr's advisory contract, citing potential conflicts of interest related to competing platform Polymarket.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlQ3N0FyWHE3WUp4cHZOWWJRVUFVWFJuT1Jic05nVVBBWFNsYkFzbk1zeWRTbDA5c2k1Wk55UGFVdDBYeF9CY1U2YjhNV1pKd1h3aThoSm1jVEpmcEZtRDE5RldpeHhZaEphT1VfREFGd2Y1NG5BWVBiWFdQREFHeHQ4UjEtT2w4ZksyVldLNkpTRGpfYkdTZXpTblZFdEpNbGUta25VM2RpbDYzb0NWSkdCV3h2ZUhPamJBXy1iYzA?oc=5",
+      "headline": "Delhi Overtakes Lahore as World's Most Polluted City",
+      "brief": "Air quality levels in Delhi plummeted significantly, pushing the Indian capital past Lahore to become the most polluted major city globally as winter smog sets in.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5",
       "dateLocation": "November 13, 2026 | Reuters"
     },
     {
-      "headline": "Murdoch and Shankar Firm Acquires South Indian Food Chain",
-      "brief": "A joint investment firm backed by Murdoch and Shankar has agreed to acquire a majority stake in a prominent south Indian restaurant food chain for $180 million.",
+      "headline": "Amazon Plans Product Data Domination to Counter AI Agents",
+      "brief": "E-commerce giant Amazon is reportedly rolling out aggressive strategies to consolidate global product data and counter emerging autonomous AI shopping assistants.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+      "dateLocation": "November 13, 2026 | Reuters"
+    },
+    {
+      "headline": "World Oil Market Returning to Surplus, Says IEA",
+      "brief": "The International Energy Agency reported that the global oil market is shifting back toward a surplus as production and exports from the Gulf region successfully recover.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnJBQzluM21RdXVDMXRUOGEtQU8taHotZnUxVi1oWGxnYjA0MmFway0tcldiOWZlbFZnN19aa2JIZ0t6THdtQ3QwNTlBUHo4QXpBdktOVkpKd0xRb0FCeXg1ZnRjcnh4NkV1c21uQ24zaGJyUW9HM3RwME9BbGJsNHRxSHZUdS0yVnc5aHVJUFhQTFVpX1NnOXJ4ZF9udjJ3LWp3QWRuaUh1TzZHb09YcHpMNnd1dVNWQjBYY1UxcG96Zw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5",
       "dateLocation": "November 13, 2026 | Reuters"
     },
     {
-      "headline": "Prime Minister Modi to Attend ASEAN Summit in Manila",
-      "brief": "Indian Prime Minister Narendra Modi is scheduled to travel to Manila to participate in the upcoming ASEAN summit, engaging regional leaders on trade, security, and diplomatic partnerships.",
+      "headline": "SpaceX to Attempt First Land Starship Recovery",
+      "brief": "Aviation pioneer SpaceX announced plans to attempt its first-ever land-based recovery of a Starship spacecraft during the upcoming 15th integrated flight test.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
+      "dateLocation": "November 13, 2026 | Reuters"
+    },
+    {
+      "headline": "Fintech Firm Razorpay Receives Regulatory Nod for IPO",
+      "brief": "Indian fintech major Razorpay has secured formal regulatory clearance to move forward with its initial public offering, expected to target around $600 million.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTd6ZmE1VGk5N3o2dUpJNG9Tbmh0U3o5MHlrWFRvdmxqcTFmSURtV3liZXlvWWJKZmFxczMwNWNFTGp0alYyZ25KTFJPOTlTZVNselhfY2lLWkl6dWlvSERDVmppeTFNWjV0aHZYdmNWS0d4T1BVSGtvLWNaY0I2Wm9kakNhRFBjOWdaUnh1eGl0UEIxblRPR2dpcXY4ZVI5NVdWU0hPQQ?oc=5",
-      "dateLocation": "November 13, 2026 | Reuters"
-    },
-    {
-      "headline": "Harry Kane Scores on Record-Breaking Night for England",
-      "brief": "England captain Harry Kane netted another crucial goal during a historic performance in the UEFA Nations League, while Italy secured a notable victory against France in group stage action.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/football/nations-league-harry-kane-scores-for-england-on-his-record-breaking-night-italy-beats-france/article71696544.ece",
+      "sourceUrl": "https://www.thehindu.com/business/indian-fintech-firm-razorpay-gets-regulatory-nod-for-ipo/article71698143.ece",
       "dateLocation": "November 13, 2026 | The Hindu"
     },
     {
-      "headline": "Delhi Air Quality Reaches Severe Levels Near 500 AQI",
-      "brief": "Delhi's air quality index approached severe levels near 500 on Friday morning, accompanied by dense fog and drastically reduced visibility, prompting health warnings across the entire National Capital Region.",
+      "headline": "Tragic Minibus Collision Kills 23 Near Kaziranga Park",
+      "brief": "A high-speed collision between a minibus and a trailer truck on National Highway 715 near Assam's Kaziranga National Park left 23 people dead and several injured.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/top-news-of-the-day-november-13-2026/article71698171.ece",
+      "dateLocation": "November 13, 2026 | The Hindu"
+    },
+    {
+      "headline": "Manchester United Appoints Mauricio Pochettino as Manager",
+      "brief": "English Premier League club Manchester United has officially named Mauricio Pochettino as their new manager on a two-and-a-half-year contract running through 2029.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/manchester-united-name-pochettino-as-new-manager/article71698306.ece",
+      "dateLocation": "November 13, 2026 | The Hindu"
+    },
+    {
+      "headline": "Jensen Huang Steps Down as Nvidia Chief Executive",
+      "brief": "Nvidia CEO Jensen Huang has stepped down from his position following a controversy involving a Chinese businesswoman linked to regional intelligence networks.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/jensen-huang-s-nvidia-exit-ahead-of-apec-could-the-china-spy-controversy-complicate-trump-s-meeting-with-xi-jinping-11794555855138.html",
+      "dateLocation": "November 13, 2026 | LiveMint"
+    },
+    {
+      "headline": "Bulk Scotch Whisky Imports Stalled at Indian Ports",
+      "brief": "Indian Commerce and Finance ministries held emergency discussions to resolve an ongoing dispute regarding customs duties on bulk Scotch whisky imports under the bilateral FTA.",
+      "category": "politics",
+      "sourceUrl": "https://www.livemint.com/news/india/bulk-scotch-whisky-imports-held-up-at-indian-ports-commerce-finance-ministries-meet-to-resolve-dispute-over-duties-11794551143056.html",
+      "dateLocation": "November 13, 2026 | LiveMint"
+    },
+    {
+      "headline": "Microsoft Struggles to Restore Services After Outage",
+      "brief": "Microsoft 365 services experienced extensive disruptions entering a second day, with enterprise users globally facing persistent email delivery delays and server timeouts.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/delhis-aqi-nears-500-reaches-severe-levels-in-many-areas-visibility-drops-amid-dense-fog-11794540220255.html",
-      "dateLocation": "November 13, 2026 | Livemint"
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-365-outage-outlook-and-teams-see-incremental-improvement-but-company-says-issues-are-not-fully-fixed-yet/articleshow/135799684.cms",
+      "dateLocation": "November 13, 2026 | Times of India"
     },
     {
-      "headline": "Oil Tanker Struck Off UAE Coast With Crew Safe",
-      "brief": "An oil tanker off the coast of the United Arab Emirates near Ras Al-Khaimah was reportedly struck by an unknown projectile, though all crew members were safely accounted for without serious injury.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDlHRUduYXpITEh6ZXlxdm9Zc3hiVXlhZXhzbzUySkFvNkMyQ1pFYWlxbnZKUmR4T0tieF9rZHhWYnFzUXI2a0J4M2VOLUZPcGt3ckxrUzNrSFFfeXpXNDJjRzVIS2p6OWI5d1BhMHVzVVY4TktOaWJQYTJpenFZOXpISzBiUDZ5ZG5vVGE2U0U5RnFjQmlaRmNnUDk0YV9DRnl6UVRkOEtGR1RJdUF2VmxNRmVpN1lDeXRINVdYQ0xabGJkMTMwazNR?oc=5",
-      "dateLocation": "November 13, 2026 | Reuters"
+      "headline": "Virat Kohli Equals Sachin Tendulkar's Unwanted ODI Record",
+      "brief": "Star Indian batsman Virat Kohli registered his 20th duck in One Day International cricket, tying Sachin Tendulkar for the most ducks by an Indian player.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/most-ducks-in-odis-virat-kohli-equals-sachin-tendulkars-unwanted-india-record/articleshow/135798067.cms",
+      "dateLocation": "November 13, 2026 | Times of India"
     },
     {
-      "headline": "Iran Revolutionary Guards Target US Radar Station in Bahrain",
-      "brief": "Iran's Islamic Revolutionary Guard Corps claimed responsibility for targeting a US military early-warning radar installation situated in Bahrain amid escalating regional military tensions.",
+      "headline": "Trump Signals Push for Iranian Regime Change",
+      "brief": "US President Donald Trump stated that the survival of Iran's ruling administration represents a failure of his foreign policy, urging citizens to challenge the regime.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
-      "dateLocation": "November 13, 2026 | Reuters"
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/no-regime-change-no-victory-trumps-iran-endgame-netanyahus-mission/articleshow/135804661.cms",
+      "dateLocation": "November 13, 2026 | Times of India"
+    },
+    {
+      "headline": "India's Foreign Exchange Reserves Rise by $2.49 Billion",
+      "brief": "The Reserve Bank of India reported that the nation's total foreign exchange reserves increased to $719.55 billion during the week ending November 6.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-rise-2-49-billion-to-719-55-billion-in-week-ended-november-6/articleshow/135801849.cms",
+      "dateLocation": "November 13, 2026 | Economic Times"
+    },
+    {
+      "headline": "NCP Merger Talks at Preliminary Stage, Says Bhujbal",
+      "brief": "Nationalist Congress Party leader Chhagan Bhujbal confirmed that discussions regarding a potential party merger are currently moving forward at a preliminary stage.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/no-final-decision-yet-bhujbal-says-ncp-merger-talks-at-preliminary-stage/articleshow/135804120.cms",
+      "dateLocation": "November 13, 2026 | Times of India"
     }
   ]
 }
