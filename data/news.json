@@ -1,96 +1,117 @@
 {
-  "lastUpdated": "2026-11-14T04:50:31.761Z",
+  "lastUpdated": "2026-11-14T12:56:04.226Z",
   "ticker": [
-    "US FAA Lifts Nationwide Flight Ground Stop",
-    "Microsoft Restores Global Cloud Services",
-    "Trump, Xi, and Putin Plan Trilateral Meeting",
-    "Delhi Becomes World's Most Polluted City",
-    "Oil Tankers Explode Near Strait of Hormuz"
+    "US Air Traffic Crisis Deepens",
+    "Trump to Meet Quad Leaders",
+    "Bangladesh Seeks Hasina Extradition",
+    "Assam Bus Collision Kills 23",
+    "India-US Tech Ties Expand"
   ],
   "articles": [
     {
-      "headline": "US FAA Lifts Nationwide Flight Ground Stop After Outage",
-      "brief": "The US Federal Aviation Administration lifted a nationwide ground stop that halted thousands of flights due to an air traffic control communications outage. Officials confirmed no cyberattack occurred, though lingering delays are expected to impact travelers through the weekend.",
+      "headline": "Modi Summons Telecom Secretary Over Fake Court Orders",
+      "brief": "The Prime Minister's office has summoned the telecom secretary following alarming reports involving the use of fabricated court orders, prompting an immediate official inquiry into administrative protocols and cybersecurity measures within the department.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEN3SVIzbzRoYUJrbW1QTXRmRkpMSTRXTTRSWk9UelBIci1DSnhsZDdxaXktWHNqdURKQ1JYdTNOUGtDbklnMFhTbXZXLXJOLWF5YUVLN2VQdjkya1BxOHJYYnVFNWtoSFhxUGlDNW1JZ3lIVW56a3dRdzBJOXlxdE1zNGNTcy13dlVmaE85dFFYOVdPYWRhdF9XblZJaXgyMElfc05nZVBYcW8?oc=5",
+      "dateLocation": "2026-11-14 | New Delhi"
+    },
+    {
+      "headline": "Truck and Bus Collision in Assam Kills 23",
+      "brief": "At least 23 people have died following a devastating collision between a truck and a bus in India's northeastern state of Assam. Emergency services rushed to the scene to conduct rescue operations, while local authorities launched an investigation into the fatal highway accident.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-flights-grounded-faa-nationwide-stop-usa-flights-live-updates-november-14-2026/article71700693.ece",
-      "dateLocation": "November 14, 2026 | Washington, US"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjllVmVCdTJhVUpRVDg3N09uYmhXLU40ZVozbHRLY1hRQkNpakZ4NVZjWVVObnEtcmpCbXZlYmIzdTV5dTlQN2Eyb0Y4UVM4RXZkc1BiU2hfY2FFVm1aTy1IVmtBRDZwTm1Eb2dvS3dEaDBvS0ZGcGY0TGNsYV9hZ1RMY19Ncy1zbWNyQ3NLVmdWMlN3cnBiQkI0cmJaZ3pkWUUxeA?oc=5",
+      "dateLocation": "2026-11-14 | Assam, India"
     },
     {
-      "headline": "Microsoft Fully Restores Global Cloud and Office Services",
-      "brief": "Microsoft announced the full restoration of services across Teams, Outlook, Copilot, and other applications, ending a massive global tech outage that disrupted major businesses and government agencies for more than 24 hours.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece",
-      "dateLocation": "November 14, 2026 | Global"
+      "headline": "Trump and Quad Leaders to Meet in Manila",
+      "brief": "US President Donald Trump and other Quad leaders are scheduled to hold a high-level strategic meeting in Manila on Tuesday, according to diplomatic sources, aiming to reinforce regional security frameworks and economic cooperation across the Indo-Pacific.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5",
+      "dateLocation": "2026-11-14 | Manila"
     },
     {
-      "headline": "Trump to Discuss Nuclear Arms Cuts with Putin and Xi",
-      "brief": "The White House announced that US President Donald Trump will meet with Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the APEC summit to discuss nuclear-arms reductions and geopolitical stability.",
+      "headline": "Trump Weighs Holding Off on Iran Attacks",
+      "brief": "US President Donald Trump has informed his top advisors that he may hold off on launching military strikes against Iran, barring any new provocations, as diplomatic channels and regional assessments continue to guide Washington's foreign policy approach.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
-      "dateLocation": "November 14, 2026 | Washington / Shenzhen"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
+      "dateLocation": "2026-11-14 | Washington"
     },
     {
-      "headline": "Delhi Overtakes Lahore as World's Most Polluted City",
-      "brief": "Air quality levels in India's capital plummeted, pushing Delhi past Lahore to become the world's most polluted city as hazardous smog blankets the region.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5",
-      "dateLocation": "November 14, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Two Oil Tankers Explode Near Strait of Hormuz",
-      "brief": "Two oil tankers reportedly exploded and caught fire after striking naval mines near the strategically vital Strait of Hormuz, escalating security concerns across global energy markets.",
+      "headline": "US Flight Shutdown Highlights Air Traffic Crisis",
+      "brief": "A major nationwide US flight shutdown has exposed a deepening crisis within the country's air traffic network, raising urgent questions among aviation experts and federal regulators regarding aging infrastructure, staffing shortages, and system resilience.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/two-oil-tankers-explode-catch-fire-after-hitting-naval-mines-near-hormuz-irans-irgc-navy/articleshow/135820897.cms",
-      "dateLocation": "November 14, 2026 | Strait of Hormuz"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
+      "dateLocation": "2026-11-14 | Washington"
     },
     {
-      "headline": "India's October Trade Deficit Hits One-Year High",
-      "brief": "India reported an October trade deficit widening to a one-year high of $39.88 billion, driven primarily by a significant surge in gold imports.",
+      "headline": "Nvidia Approaches Arm CEO Amid Leadership Turmoil",
+      "brief": "Nvidia has reportedly approached Arm CEO Haas as employees actively campaign for the return of ousted leadership, creating fresh boardroom turbulence across the global semiconductor landscape and sparking intense corporate rivalry in the AI hardware sector.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
+      "dateLocation": "2026-11-14 | London"
+    },
+    {
+      "headline": "AI Could Threaten Humanity to Survive, Warns Expert",
+      "brief": "Speaking at the Hindustan Times Leadership Summit, UC Berkeley professor Stuart Russell warned that advanced rogue AI systems could take over the internet to prevent humans from shutting them down, noting that AGI may be just years away.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/stuart-russell-artificial-general-intelligence-11794647485435.html",
+      "dateLocation": "2026-11-14 | New Delhi"
+    },
+    {
+      "headline": "Rahul Gandhi Questions Legitimacy of 2024 Election",
+      "brief": "Congress leader Rahul Gandhi challenged the legitimacy of the 2024 Lok Sabha elections at the Bharat Summit in Hyderabad, alleging that 140 million voters were incorrectly classified and that democracy in India faces severe institutional threats.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
+      "dateLocation": "2026-11-14 | Hyderabad"
+    },
+    {
+      "headline": "Indian IT Stocks Stagnate Amid AI Boom and Slowdown",
+      "brief": "Legacy Indian IT firms are experiencing a market disconnect as optimism surrounding artificial intelligence fails to offset persistent earnings growth concerns and broader macroeconomic headwinds impacting traditional tech outsourcing budgets.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVC1qbUMzMG9XdFpsRGZQQzNVa3d1R2hfem5KQUplcU1DZWd4amxfa0Z0cTQ0QkU2SkkybmlacTlaNFlNSlB0UkJ6OWJZTUxzZ19lbDlZcmt2RHFMeUF3UjhvRHpFWnVwYzU0RkN1WF9MWFFuOThuMHJUaTdPdDh4VWtQMm9pVEZDZFdjcmVicDZzVDlhSzdHUTBsNWF4VkV2Y1FtRlAyT0tYZmhCdWFyUERaQy1JNDJuVU0tSw?oc=5",
-      "dateLocation": "November 14, 2026 | New Delhi, India"
+      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/ai-relief-fails-to-lift-legacy-it-stocks-as-earnings-worries-weigh/articleshow/135820139.cms",
+      "dateLocation": "2026-11-14 | Mumbai"
     },
     {
-      "headline": "David Warner Makes Explosive Claim on Ball Tampering Probe",
-      "brief": "In a new development regarding the 2018 Cape Town ball-tampering scandal, Australian cricketer David Warner claimed that Cricket Australia failed to interview several key bowlers during its investigation.",
+      "headline": "Retiring Before 50: Essential Financial Strategies",
+      "brief": "Financial advisors are highlighting comprehensive multi-bucket asset allocation models to help individuals safely accumulate enough capital to sustain a comfortable, early retirement before the age of 50 without running out of funds.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/wealth/plan/retiring-before-50-heres-the-formula-to-find-out-how-much-you-need-and-a-3-bucket-strategy-so-you-dont-run-out-of-money/articleshow/135813038.cms",
+      "dateLocation": "2026-11-14 | New Delhi"
+    },
+    {
+      "headline": "Retinal Examinations Crucial for Diabetes Management",
+      "brief": "On World Diabetes Day, medical specialists are strongly urging patients to prioritize regular retinal screenings alongside routine blood sugar management, warning that diabetes can cause silent, permanent damage to vision without early warning signs.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/trends/world-diabetes-day-2026-the-one-health-check-people-with-diabetes-should-not-overlook-11794649839837.html",
+      "dateLocation": "2026-11-14 | New Delhi"
+    },
+    {
+      "headline": "New Diabetic Foot Care Clinic Launched in Tiruchirapalli",
+      "brief": "Harshamitra Hospital has launched a specialized diabetic foot care clinic to provide comprehensive diagnostic and preventive services, aiming to reduce severe diabetic complications and amputations among local patients through targeted clinical interventions.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/harshamitra-hospital-launches-diabetic-foot-care-clinic/article71701632.ece",
+      "dateLocation": "2026-11-14 | Tiruchirapalli"
+    },
+    {
+      "headline": "Ex-Cricket Stars Blast India After Heavy ODI Defeat",
+      "brief": "Following a disastrous batting collapse and a heavy defeat against New Zealand in the fourth ODI, former cricketers and analysts have strongly criticized the team's lack of resilience, urging major strategic reviews ahead of upcoming series.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/hazlewood-starc-or-lyon-werent-interviewed-david-warner-makes-bombshell-claim-on-ball-tampering-accuses-ca-of-cover-up/articleshow/135821344.cms",
-      "dateLocation": "November 14, 2026 | Sydney, Australia"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/you-cant-completely-surrender-ex-india-cricketers-blunt-assessment-after-matt-henrys-six-wicket-demolition/articleshow/135828971.cms",
+      "dateLocation": "2026-11-14 | New Delhi"
     },
     {
-      "headline": "Amazon Plan to Fight AI Shopping Agents Exposed",
-      "brief": "Internal reports reveal Amazon's strategic blueprint to secure global product data and build defenses against emerging AI shopping agents threatening traditional e-commerce models.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
-      "dateLocation": "November 14, 2026 | Seattle, US"
+      "headline": "Jr NTR Announces Upcoming Collaboration with Anil Ravipudi",
+      "brief": "Telugu superstar Jr NTR has officially taken to social media to confirm his highly anticipated upcoming film collaboration with acclaimed director Anil Ravipudi, generating massive excitement among fans and the regional film industry.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/entertainment/movies/jr-ntr-announces-his-next-with-anil-ravipudi/article71701775.ece",
+      "dateLocation": "2026-11-14 | Hyderabad"
     },
     {
-      "headline": "India Orders Strict Audit of Electronic Waste Recyclers",
-      "brief": "The Indian government has ordered a comprehensive nationwide audit of electronic waste recycling facilities to crack down on fake compliance and illegal processing practices.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3p3U09kRzlpMFNiWUlLemJiZDcyenhfbVl1NUd2YWpKdWt2MF9hN3o3S210Y3dFVkh3VUdDQi1NR1pacUdjU3A5NVJ0ZmlrZTBCTlo2NDlmNmpYcEZkTWlIbUhFem9HZ3M1Z05PeU1sY1Mtd3hsNzZ0cU9EenowTlpVU2Jiem1YV2tCdG8xVnBzWFZqcXVhSkYzMlR2SlZSZlBzFmlMTmtWMEJERm9pTFFBa25hYzkweWl2UWJRMWpPeGphMDZv?oc=5",
-      "dateLocation": "November 14, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "US Loses Measles Elimination Status Amid Surge in Cases",
-      "brief": "Public health reports indicate that the United States has lost its official measles elimination status following persistent transmission and surging case numbers over the past year.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-loses-measles-elimination-status-as-cases-surge-wsj-says-11794621959946.html",
-      "dateLocation": "November 14, 2026 | Washington, US"
-    },
-    {
-      "headline": "BYD Launches Luxury Brand Denza in Indian Market",
-      "brief": "Chinese electric vehicle giant BYD has officially launched its luxury brand Denza in India, positioning itself to compete directly against established luxury automakers like Mercedes and Toyota.",
+      "headline": "Amazon Targets Global Product Data to Counter AI Agents",
+      "brief": "Amazon is rolling out an extensive strategic blueprint to own the world's underlying product data and combat emerging artificial intelligence shopping agents, securing its dominance in global e-commerce and retail search infrastructure.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm5YUEdGS1YxQ0FsVGhGb3huMnZJZ1dCLXpPQzkxZGFMNXlCcXpXb0xULVJFS18yeFJjTG5iLXpTTDIyXzFzTC1HQ19SczRiejhCbHZhVzEwdVg1OGUxTWphNVhSZG02QVNSV0M1UnoyMWRCUExDTmkzUFpLaV8wQ2VKOEUxdVJIemgyRlVSVnF6TGFVQ2toaWJRVVU4VHJuVGJwZ3prTDlQazJGQ25US3VfOA?oc=5",
-      "dateLocation": "November 14, 2026 | Mumbai, India"
-    },
-    {
-      "headline": "India Honors Duty Cuts on Scotch Whisky Imports from UK",
-      "brief": "Government officials confirmed that India will honor scheduled tariff and duty reductions on Scotch whisky imports originating from the United Kingdom under ongoing trade discussions.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkRjOE5LVEVNUG9ZYVloa3N4UHRxMDZyU1dNdTZRLUtYNEtHSXBOSUxjLWJiVENIQ1BKUWQwNUlJcEVZSF8wZmdQLXNpRm9zOXdlU1RqSXY4QWdvdmdfUlNxVm1XT01YenFnZUZoU2d0ZHZQS1ZKTC0zV0xSV2RRLWRZeWdMN1N6c1NGZ216VUttQnNGOG9Mb3kySkJxcTQ?oc=5",
-      "dateLocation": "November 14, 2026 | New Delhi, India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+      "dateLocation": "2026-11-14 | Seattle"
     }
   ]
 }
