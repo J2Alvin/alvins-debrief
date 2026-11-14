@@ -1,103 +1,96 @@
 {
-  "lastUpdated": "2026-11-13T23:13:09.010Z",
+  "lastUpdated": "2026-11-14T04:50:31.761Z",
   "ticker": [
-    "Microsoft services recover from massive global outage",
-    "India trade deficit hits one-year high in October",
-    "Delhi overtakes Lahore as world's most polluted city",
-    "US grounds departing flights over safety concerns",
-    "World oil market returning to surplus as Gulf exports recover"
+    "US FAA Lifts Nationwide Flight Ground Stop",
+    "Microsoft Restores Global Cloud Services",
+    "Trump, Xi, and Putin Plan Trilateral Meeting",
+    "Delhi Becomes World's Most Polluted City",
+    "Oil Tankers Explode Near Strait of Hormuz"
   ],
   "articles": [
     {
+      "headline": "US FAA Lifts Nationwide Flight Ground Stop After Outage",
+      "brief": "The US Federal Aviation Administration lifted a nationwide ground stop that halted thousands of flights due to an air traffic control communications outage. Officials confirmed no cyberattack occurred, though lingering delays are expected to impact travelers through the weekend.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-flights-grounded-faa-nationwide-stop-usa-flights-live-updates-november-14-2026/article71700693.ece",
+      "dateLocation": "November 14, 2026 | Washington, US"
+    },
+    {
+      "headline": "Microsoft Fully Restores Global Cloud and Office Services",
+      "brief": "Microsoft announced the full restoration of services across Teams, Outlook, Copilot, and other applications, ending a massive global tech outage that disrupted major businesses and government agencies for more than 24 hours.",
+      "category": "technology",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece",
+      "dateLocation": "November 14, 2026 | Global"
+    },
+    {
+      "headline": "Trump to Discuss Nuclear Arms Cuts with Putin and Xi",
+      "brief": "The White House announced that US President Donald Trump will meet with Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the APEC summit to discuss nuclear-arms reductions and geopolitical stability.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
+      "dateLocation": "November 14, 2026 | Washington / Shenzhen"
+    },
+    {
+      "headline": "Delhi Overtakes Lahore as World's Most Polluted City",
+      "brief": "Air quality levels in India's capital plummeted, pushing Delhi past Lahore to become the world's most polluted city as hazardous smog blankets the region.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5",
+      "dateLocation": "November 14, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "Two Oil Tankers Explode Near Strait of Hormuz",
+      "brief": "Two oil tankers reportedly exploded and caught fire after striking naval mines near the strategically vital Strait of Hormuz, escalating security concerns across global energy markets.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/two-oil-tankers-explode-catch-fire-after-hitting-naval-mines-near-hormuz-irans-irgc-navy/articleshow/135820897.cms",
+      "dateLocation": "November 14, 2026 | Strait of Hormuz"
+    },
+    {
       "headline": "India's October Trade Deficit Hits One-Year High",
-      "brief": "India's trade deficit reached a one-year high of $39.88 billion in October, driven largely by a sharp surge in gold imports and robust economic demand.",
+      "brief": "India reported an October trade deficit widening to a one-year high of $39.88 billion, driven primarily by a significant surge in gold imports.",
       "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVC1qbUMzMG9XdFpsRGZQQzNVa3d1R2hfem5KQUplcU1DZWd4amxfa0Z0cTQ0QkU2SkkybmlacTlaNFlNSlB0UkJ6OWJZTUxzZ19lbDlZcmt2RHFMeUF3UjhvRHpFWnVwYzU0RkN1WF9MWFFuOThuMHJUaTdPdDh4VWtQMm9pVEZDZFdjcmVicDZzVDlhSzdHUTBsNWF4VkV2Y1FtRlAyT0tYZmhCdWFyUERaQy1JNDJuVU0tSw?oc=5",
-      "dateLocation": "2026-11-13 | Reuters"
+      "dateLocation": "November 14, 2026 | New Delhi, India"
     },
     {
-      "headline": "BYD Launches Luxury Denza Brand in India",
-      "brief": "Electric vehicle manufacturer BYD has introduced its luxury brand Denza to the Indian market, positioning itself to compete directly with established luxury automakers like Mercedes and Toyota.",
+      "headline": "David Warner Makes Explosive Claim on Ball Tampering Probe",
+      "brief": "In a new development regarding the 2018 Cape Town ball-tampering scandal, Australian cricketer David Warner claimed that Cricket Australia failed to interview several key bowlers during its investigation.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/hazlewood-starc-or-lyon-werent-interviewed-david-warner-makes-bombshell-claim-on-ball-tampering-accuses-ca-of-cover-up/articleshow/135821344.cms",
+      "dateLocation": "November 14, 2026 | Sydney, Australia"
+    },
+    {
+      "headline": "Amazon Plan to Fight AI Shopping Agents Exposed",
+      "brief": "Internal reports reveal Amazon's strategic blueprint to secure global product data and build defenses against emerging AI shopping agents threatening traditional e-commerce models.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+      "dateLocation": "November 14, 2026 | Seattle, US"
+    },
+    {
+      "headline": "India Orders Strict Audit of Electronic Waste Recyclers",
+      "brief": "The Indian government has ordered a comprehensive nationwide audit of electronic waste recycling facilities to crack down on fake compliance and illegal processing practices.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3p3U09kRzlpMFNiWUlLemJiZDcyenhfbVl1NUd2YWpKdWt2MF9hN3o3S210Y3dFVkh3VUdDQi1NR1pacUdjU3A5NVJ0ZmlrZTBCTlo2NDlmNmpYcEZkTWlIbUhFem9HZ3M1Z05PeU1sY1Mtd3hsNzZ0cU9EenowTlpVU2Jiem1YV2tCdG8xVnBzWFZqcXVhSkYzMlR2SlZSZlBzFmlMTmtWMEJERm9pTFFBa25hYzkweWl2UWJRMWpPeGphMDZv?oc=5",
+      "dateLocation": "November 14, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "US Loses Measles Elimination Status Amid Surge in Cases",
+      "brief": "Public health reports indicate that the United States has lost its official measles elimination status following persistent transmission and surging case numbers over the past year.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-loses-measles-elimination-status-as-cases-surge-wsj-says-11794621959946.html",
+      "dateLocation": "November 14, 2026 | Washington, US"
+    },
+    {
+      "headline": "BYD Launches Luxury Brand Denza in Indian Market",
+      "brief": "Chinese electric vehicle giant BYD has officially launched its luxury brand Denza in India, positioning itself to compete directly against established luxury automakers like Mercedes and Toyota.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm5YUEdGS1YxQ0FsVGhGb3huMnZJZ1dCLXpPQzkxZGFMNXlCcXpXb0xULVJFS18yeFJjTG5iLXpTTDIyXzFzTC1HQ19SczRiejhCbHZhVzEwdVg1OGUxTWphNVhSZG02QVNSV0M1UnoyMWRCUExDTmkzUFpLaV8wQ2VKOEUxdVJIemgyRlVSVnF6TGFVQ2toaWJRVVU4VHJuVGJwZ3prTDlQazJGQ25US3VfOA?oc=5",
-      "dateLocation": "2026-11-13 | Reuters"
+      "dateLocation": "November 14, 2026 | Mumbai, India"
     },
     {
-      "headline": "Delhi Becomes World's Most Polluted City",
-      "brief": "Air quality levels in India's capital have plummeted, causing Delhi to surpass Lahore as the world's most polluted city amidst worsening seasonal smog.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5",
-      "dateLocation": "2026-11-13 | Reuters"
-    },
-    {
-      "headline": "Global Microsoft Outage Disrupts Businesses Worldwide",
-      "brief": "A massive global technical outage has severely disrupted Microsoft services including Outlook and Teams across more than 70 countries, leaving millions without access for nearly 18 hours.",
-      "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-      "dateLocation": "2026-11-13 | The Hindu"
-    },
-    {
-      "headline": "New Orleans River Cruise Boat Collides with Tanker",
-      "brief": "A large commercial tanker collided with a docked river cruise boat in New Orleans on the Mississippi River, causing partial sinking and triggering urgent emergency rescue operations.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/new-orleans-usa-tanker-ship-river-cruise-crash-updates/article71699607.ece",
-      "dateLocation": "2026-11-13 | The Hindu"
-    },
-    {
-      "headline": "Urgent Climate Finance Pleas Face Slow COP31 Response",
-      "brief": "Delegates at COP31 face sluggish responses to urgent climate finance requests as political priorities shift in Western governments and ongoing global conflicts inflate security spending.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
-      "dateLocation": "2026-11-13 | The Hindu"
-    },
-    {
-      "headline": "Gambhir Highlights Concerns Over India's Batting Collapses",
-      "brief": "Indian cricket coach Gautam Gambhir has expressed strong concerns regarding recurring batting collapses following low scores ahead of the upcoming international World Cup fixtures.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/gambhir-concerned-about-indias-batting-collapses-ahead-of-world-cup/article71699589.ece",
-      "dateLocation": "2026-11-13 | The Hindu"
-    },
-    {
-      "headline": "CAG Launches Two-Year Audit on Urea Diversion",
-      "brief": "The Comptroller and Auditor General has initiated an extensive two-year audit across 169 districts to trace urea consumption patterns and eliminate massive agricultural subsidy leakages.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/india/cag-begins-two-year-audit-to-check-urea-diversion-plug-subsidy-leakages-11794579329784.html",
-      "dateLocation": "2026-11-13 | Livemint"
-    },
-    {
-      "headline": "Modi Heads to Manila for ASEAN-India Summit",
-      "brief": "Prime Minister Narendra Modi is traveling to Manila for the ASEAN-India Summit to expand economic cooperation and navigate regional trade imbalances amid rising Chinese geopolitical clout.",
+      "headline": "India Honors Duty Cuts on Scotch Whisky Imports from UK",
+      "brief": "Government officials confirmed that India will honor scheduled tariff and duty reductions on Scotch whisky imports originating from the United Kingdom under ongoing trade discussions.",
       "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/can-india-bridge-trade-gap-with-southeast-asia-as-pm-modi-heads-to-manila-for-asean-amid-china-s-growing-clout-11794578664909.html",
-      "dateLocation": "2026-11-13 | Livemint"
-    },
-    {
-      "headline": "US Assures India of Favorable Tariffs in Trade Deal",
-      "brief": "United States trade officials have reportedly assured India of preferential tariff structures compared to regional peers, signaling a breakthrough in bilateral trade negotiations.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-assures-india-lower-tariffs-than-peers-in-trade-deal/articleshow/135805660.cms",
-      "dateLocation": "2026-11-13 | Economic Times"
-    },
-    {
-      "headline": "Turkey and Qatar Sign Mutual Defence Agreement",
-      "brief": "Turkey and Qatar have formalized a strategic mutual defense pact, strengthening their military and security cooperation in the volatile West Asian geopolitical landscape.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says/articleshow/135809416.cms",
-      "dateLocation": "2026-11-13 | Economic Times"
-    },
-    {
-      "headline": "US Grounds All Departing Flights Over Safety Concerns",
-      "brief": "Federal aviation authorities in the United States have ordered a temporary grounding of all departing flights nationwide due to extraordinary safety and security concerns.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms",
-      "dateLocation": "2026-11-13 | Times of India"
-    },
-    {
-      "headline": "Nvidia Approached Arm CEO Haas to Succeed Huang",
-      "brief": "Financial reports indicate that Nvidia recently approached Arm Chief Executive Rene Haas to potentially succeed Jensen Huang as the chip giant's leader.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
-      "dateLocation": "2026-11-13 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkRjOE5LVEVNUG9ZYVloa3N4UHRxMDZyU1dNdTZRLUtYNEtHSXBOSUxjLWJiVENIQ1BKUWQwNUlJcEVZSF8wZmdQLXNpRm9zOXdlU1RqSXY4QWdvdmdfUlNxVm1XT01YenFnZUZoU2d0ZHZQS1ZKTC0zV0xSV2RRLWRZeWdMN1N6c1NGZ216VUttQnNGOG9Mb3kySkJxcTQ?oc=5",
+      "dateLocation": "November 14, 2026 | New Delhi, India"
     }
   ]
 }
