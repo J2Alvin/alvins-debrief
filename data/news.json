@@ -1,124 +1,117 @@
 {
-  "lastUpdated": "2026-11-15T04:42:29.973Z",
+  "lastUpdated": "2026-11-15T13:24:29.537Z",
   "ticker": [
-    "SpaceX Starship aces orbital return test",
-    "Delhi air quality hits hazardous levels",
-    "Iran war shapes US automotive shifts",
-    "Trump, Xi, Putin plan trilateral summit",
-    "Italy fines Meta $887 million"
+    "Jordan sentences three to death over church attack",
+    "SpaceX Starship successfully returns from orbit",
+    "Yemeni forces withdraw from Bab el-Mandeb Strait",
+    "US Army officer arrested over alleged Russian espionage",
+    "India beats New Zealand to seal ODI series"
   ],
   "articles": [
     {
-      "headline": "SpaceX Starship Completes Historic Orbital Return",
-      "brief": "SpaceX's Starship successfully returned from orbit to its landing pad, marking a major milestone for reusable rocket technology and drawing praise from tech leaders globally.",
+      "headline": "Jordan sentences three men to death over church attack",
+      "brief": "A Jordanian court has handed down death sentences to three men convicted for their roles in a deadly church attack, delivering a stern message against sectarian violence and bolstering security measures across the region.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5",
+      "dateLocation": "November 15, 2026 | Amman, Jordan"
+    },
+    {
+      "headline": "Yemeni government forces withdraw from Bab el-Mandeb area",
+      "brief": "Yemeni government forces have pulled back from a strategic area near the critical Bab el-Mandeb Strait, leaving Houthi forces in control of the vital maritime chokepoint and sparking new international shipping security concerns.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
+      "dateLocation": "November 15, 2026 | Sana'a, Yemen"
+    },
+    {
+      "headline": "SpaceX Starship aces orbital test by returning to pad",
+      "brief": "SpaceX achieved a major milestone in reusable rocket technology as the Starship spacecraft successfully returned from orbit and executed a precision landing on the pad, advancing commercial spaceflight capabilities.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5",
-      "dateLocation": "2026-11-15 | Reuters"
+      "dateLocation": "November 15, 2026 | Boca Chica, Texas"
     },
     {
-      "headline": "OpenAI Disbands Robotics Unit Again",
-      "brief": "OpenAI has shut down its internal robotics team for the second time in six years, opting to integrate its research into broader general-purpose artificial intelligence models.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/openai-shuts-down-robot-unit-second-time-in-six-years-but-wants-everyone-to-know-that-the-company-is-committed-to-/articleshow/135846511.cms",
-      "dateLocation": "2026-11-15 | Times of India"
-    },
-    {
-      "headline": "Italy Fines Meta Over Android Data",
-      "brief": "Italian regulators have slapped Meta with an $887 million fine concerning the platform's access to and handling of Android user data.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
-      "dateLocation": "2026-11-15 | Reuters"
-    },
-    {
-      "headline": "Tata Sons Public Listing Sparks Debate",
-      "brief": "Noel Tata warned that a public listing for Tata Sons could shift the traditional corporate culture away from its foundational focus on philanthropy toward profit maximization.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/public-listing-may-change-tata-way-put-profits-ahead-of-philanthropy-noel-tata/articleshow/135837824.cms",
-      "dateLocation": "2026-11-15 | Economic Times"
-    },
-    {
-      "headline": "Modi's Office Summons Telecom Secretary",
-      "brief": "The Prime Minister's office has summoned the telecom secretary following investigations into the unauthorized use of fake court orders within official channels.",
+      "headline": "Modi's office summons telecom secretary over fake orders",
+      "brief": "The Prime Minister's Office in India has summoned the top telecom secretary following an alarming security breach involving the circulation and utilization of fabricated court orders within administrative channels.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEN3SVIzbzRoYUJrbW1QTXRmRkpMSTRXTTRSWk9UelBIci1DSnhsZDdxaXktWHNqdURKQ1JYdTNOUGtDbklnMFhTbXZXLXJOLWF5YUVLN2VQdjkya1BxOHJYYnVFNWtoSFhxUGlDNW1JZ3lIVW56a3dRdzBJOXlxdE1zNGNTcy13dlVmaE85dFFYOVdPYWRhdF9XblZJaXgyMElfc05nZVBYcW8?oc=5",
-      "dateLocation": "2026-11-15 | Reuters"
+      "dateLocation": "November 15, 2026 | New Delhi, India"
     },
     {
-      "headline": "Trump, Xi, Putin Trilateral Summit Planned",
-      "brief": "Global leaders Donald Trump, Vladimir Putin, and Xi Jinping are reportedly scheduled for an unprecedented trilateral meeting on the sidelines of the APEC summit to discuss geopolitical conflicts.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trumpxiputin-trilateral-meeting-next-week-iran-war-on-agenda-but-nvidia-and-ukraine-likely-off-the-table-11794714010404.html",
-      "dateLocation": "2026-11-15 | LiveMint"
-    },
-    {
-      "headline": "Iran War Shifts US Automotive Market",
-      "brief": "Ongoing conflict involving Iran is heavily reshaping the American auto sector, causing a notable surge in demand for hybrid vehicles while electric vehicle growth slows.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/iran-war-reshapes-us-auto-market-as-hybrids-gain-ground-and-evs-lose-pace/articleshow/135846485.cms",
-      "dateLocation": "2026-11-15 | Economic Times"
-    },
-    {
-      "headline": "H-1B Visa Scrutiny Widens for IT Firms",
-      "brief": "Major Indian IT outsourcing firms including Infosys, TCS, and Wipro are facing renewed federal regulatory crackdowns regarding employment-based green card and H-1B visa programs.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/us-news/h1b-is-not-a-business-model-infosys-tcs-wipro-face-fresh-scrutiny-as-us-visa-crackdown-widens-11794714759722.html",
-      "dateLocation": "2026-11-15 | LiveMint"
-    },
-    {
-      "headline": "India's Sooryavanshi Sets T20 Captaincy Record",
-      "brief": "Young cricketer Sooryavanshi has etched his name in the record books by becoming the youngest captain in men's T20 cricket history.",
+      "headline": "India's Sooryavanshi becomes youngest men's T20 captain",
+      "brief": "Young cricketer Sooryavanshi has etched his name in sports history by becoming the youngest captain in men's T20 cricket history, showcasing exceptional leadership potential at a remarkably tender age.",
       "category": "sports",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV9YOGZqQ183c2N0U2phWWFPNGtQQVpweVo2OWRJQVVYWVl0WFltRVJ6YVpXZXlKX3BfVkZuUjQ5YnJFWDQtZldRNE9GWmxfWk93QVN1SXJHamNrOEkxa001cTh2V2lwcE5qTHlIWVJRaVlCd1pDV2tCSlR5bmxtUjlhSlNrSEpBdlV3SHJmWGN3Rll5ZENqSWJ4blprLXN0UFh1Qzd3WkljLWY2ckR5cW5B?oc=5",
-      "dateLocation": "2026-11-15 | Reuters"
+      "dateLocation": "November 15, 2026 | Mumbai, India"
     },
     {
-      "headline": "India Dramatically Wins U-19 Asia Cup",
-      "brief": "The Indian under-19 cricket squad pulled off a stunning comeback from the brink of defeat to defeat Pakistan and secure the U-19 Asia Cup title.",
+      "headline": "Bahrain intercepts Iranian aerial attacks near US base",
+      "brief": "Bahraini defense forces successfully intercepted multiple incoming Iranian aerial attacks amid Tehran's claims of targeting a regional US military installation, sharply escalating Gulf security tensions.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3?oc=5",
+      "dateLocation": "November 15, 2026 | Manama, Bahrain"
+    },
+    {
+      "headline": "Owner of minibus in Assam accident arrested",
+      "brief": "Police in Assam have arrested the owner of a minibus involved in a horrific crash near Kaziranga National Park that killed 26 people, following suspicions that mandatory speed regulators were tampered with.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/national/assam/owner-of-minibus-in-assam-accident-that-killed-26-arrested/article71704816.ece",
+      "dateLocation": "November 15, 2026 | Nagaon, India"
+    },
+    {
+      "headline": "Delhi airport taxi trips plunge 80% due to BS-VI curbs",
+      "brief": "Strict BS-VI environmental regulations have caused daily cab arrivals from neighboring states at Delhi airport to drop from over 100,000 to fewer than 20,000, severely disrupting regional transport trade.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-airport-taxi-trips-from-neighbouring-states-plunge-80-as-bs-vi-curbs-slam-brakes-on-trade/article71704875.ece",
+      "dateLocation": "November 15, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "Fertilizer demand to recover, but water stress clouds outlook",
+      "brief": "While increased government subsidies are expected to revive fertilizer demand during the rabi season following a weak kharif period, critically depleted southern water reservoirs threaten full agricultural recovery.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/fertilizer-demand-set-to-recover-in-rabi-but-water-stress-clouds-outlook-11794741964653.html",
+      "dateLocation": "November 15, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "Government health spending triples, lowering household burden",
+      "brief": "A new government report reveals public healthcare expenditure has nearly tripled over the past decade, successfully driving down out-of-pocket medical expenses for households from 64.2% to 42.7%.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/public-health-spending-triples-over-a-decade-as-out-of-pocket-burden-drops-to-42-7-govt-report-medicine-tests-11794738055661.html",
+      "dateLocation": "November 15, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "AIIMS performs India's first foetal surgery for nerve damage",
+      "brief": "Doctors at AIIMS Delhi have successfully completed India's first-of-its-kind intrauterine surgery on an unborn baby to prevent permanent spinal nerve damage, marking a historic breakthrough in fetal medicine.",
+      "category": "health",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/aiims-delhi-performs-first-of-its-kind-foetal-surgery-to-prevent-spinal-nerve-damage-report/articleshow/135851381.cms",
+      "dateLocation": "November 15, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "China's 19-seat electric passenger plane completes maiden flight",
+      "brief": "China has marked a major aviation milestone with the successful maiden flight of the CE-25A, a 19-seat electric passenger aircraft featuring advanced distributed propulsion and a 400-kilometer range.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/chinas-19-seat-electric-passenger-plane-completes-maiden-flight-targets-400-km-range/articleshow/135854337.cms",
+      "dateLocation": "November 15, 2026 | Shandong, China"
+    },
+    {
+      "headline": "US Army officer arrested in UK over Russian espionage",
+      "brief": "Lieutenant Colonel Brandon Carroll Tyner has been detained in the United Kingdom under suspicion of passing classified intelligence to Russian handlers in a joint operation involving the FBI and British counter-terrorism.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-army-names-officer-held-in-uk-over-suspected-russian-espionage-at-nato-base/articleshow/135856352.cms",
+      "dateLocation": "November 15, 2026 | London, United Kingdom"
+    },
+    {
+      "headline": "India secures preferential US market access under trade pact",
+      "brief": "Commerce Minister Piyush Goyal announced that India is poised to secure favorable market access with substantially lower tariffs than competing rivals under the upcoming bilateral trade framework.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/will-india-get-preferential-us-market-access-lower-tariffs-than-rivals-heres-what-piyush-goyal-said-11794739193904.html",
+      "dateLocation": "November 15, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "India defeats New Zealand to clinch ODI cricket series",
+      "brief": "A disciplined bowling performance powered India to defend a modest total of 209 against New Zealand, securing a 22-run victory and clinching a thrilling one-day international series triumph away from home.",
       "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkFDbXJPZE5wbHNmNnQ4clhkYzJ3YWo5RW5CbWNMSllSX0x2UnRWYmJOWWRfQi1sQnM0ZkUtUTRuY1FZMm81WWNCc2lWMW8xdXZoVEFnS1JoMWFkM3U5VG44MlhuaG9vVklqTzJ4Mm9UR3NGVEtpZEkwVkRCRmppQXZNZE5ad2ppLVd5cnFZRG5sMHR6S3lsV25DRVRCeXFVUmUw?oc=5",
-      "dateLocation": "2026-11-15 | Reuters"
-    },
-    {
-      "headline": "Delhi Air Quality Reaches Hazardous Levels",
-      "brief": "Air pollution in India's capital worsened severely, with monitoring stations recording an Air Quality Index surpassing 500, prompting urgent health advisories for residents.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/delhi-aqi-at-511-breathing-capitals-toxic-air-equals-smoking-375-cigarettes-a-month-chances-of-asthma-heart-issues-11794710065305.html",
-      "dateLocation": "2026-11-15 | LiveMint"
-    },
-    {
-      "headline": "Telangana Cracks Down on Illegal Oocyte Racket",
-      "brief": "The Telangana Women's Commission has issued strict legal notices to eight Assisted Reproductive Technology centers implicated in an ongoing illegal oocyte trading investigation.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Hyderabad/telangana-womens-commission-issues-notices-to-eight-art-centres-in-illegal-oocyte-racket-case/article71698872.ece",
-      "dateLocation": "2026-11-15 | The Hindu"
-    },
-    {
-      "headline": "Bahrain Issues Security Alerts Near US Navy Base",
-      "brief": "Bahrain's Interior Ministry issued urgent public safety alerts warning of potential security threats targeting areas surrounding the U.S. Navy's Fifth Fleet installation.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/bahrain-interior-ministry-potential-threats-us-navys-fifth-fleet-attack-on-november-15/article71704092.ece",
-      "dateLocation": "2026-11-15 | The Hindu"
-    },
-    {
-      "headline": "Zelenskyy Accuses SpaceX Over Starshield Curbs",
-      "brief": "Ukrainian President Volodymyr Zelenskyy criticized SpaceX, alleging that operational speed limits on Starshield terminals are driven by political motives rather than technical limits.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/zelenskyy-accuses-musk-s-spacex-of-lying-about-restrictions-for-starshield-says-curbs-more-political-than-technical-11794709483082.html",
-      "dateLocation": "2026-11-15 | LiveMint"
-    },
-    {
-      "headline": "Odisha Braces for Third Cyclone in Weeks",
-      "brief": "India's eastern coastline has been placed on high alert as meteorological agencies warn that Odisha is bracing for its third cyclonic storm in three consecutive weeks.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-update-odisha-braces-for-3rd-cyclone-in-three-weeks-andhra-bengal-and-andaman-on-high-alert-11794704521000.html",
-      "dateLocation": "2026-11-15 | LiveMint"
-    },
-    {
-      "headline": "Prince William and Kate Plan India Visit",
-      "brief": "Britain's Prince William and Kate Middleton are scheduled to visit India for the upcoming Earthshot Prize ceremony, marking their first joint overseas trip since her recovery.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/2026-earthshot-prize-prince-william-kate-middleton-to-visit-india-taj-mahal-kaziranga-mumbai-delhi-on-itinerary-11794714082243.html",
-      "dateLocation": "2026-11-15 | LiveMint"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/indias-pace-attack-defends-209-to-seal-22-run-win-third-odi-series-triumph-in-new-zealand/articleshow/135852929.cms",
+      "dateLocation": "November 15, 2026 | Auckland, New Zealand"
     }
   ]
 }
