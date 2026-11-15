@@ -1,117 +1,124 @@
 {
-  "lastUpdated": "2026-11-14T12:56:04.226Z",
+  "lastUpdated": "2026-11-15T04:42:29.973Z",
   "ticker": [
-    "US Air Traffic Crisis Deepens",
-    "Trump to Meet Quad Leaders",
-    "Bangladesh Seeks Hasina Extradition",
-    "Assam Bus Collision Kills 23",
-    "India-US Tech Ties Expand"
+    "SpaceX Starship aces orbital return test",
+    "Delhi air quality hits hazardous levels",
+    "Iran war shapes US automotive shifts",
+    "Trump, Xi, Putin plan trilateral summit",
+    "Italy fines Meta $887 million"
   ],
   "articles": [
     {
-      "headline": "Modi Summons Telecom Secretary Over Fake Court Orders",
-      "brief": "The Prime Minister's office has summoned the telecom secretary following alarming reports involving the use of fabricated court orders, prompting an immediate official inquiry into administrative protocols and cybersecurity measures within the department.",
+      "headline": "SpaceX Starship Completes Historic Orbital Return",
+      "brief": "SpaceX's Starship successfully returned from orbit to its landing pad, marking a major milestone for reusable rocket technology and drawing praise from tech leaders globally.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5",
+      "dateLocation": "2026-11-15 | Reuters"
+    },
+    {
+      "headline": "OpenAI Disbands Robotics Unit Again",
+      "brief": "OpenAI has shut down its internal robotics team for the second time in six years, opting to integrate its research into broader general-purpose artificial intelligence models.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/openai-shuts-down-robot-unit-second-time-in-six-years-but-wants-everyone-to-know-that-the-company-is-committed-to-/articleshow/135846511.cms",
+      "dateLocation": "2026-11-15 | Times of India"
+    },
+    {
+      "headline": "Italy Fines Meta Over Android Data",
+      "brief": "Italian regulators have slapped Meta with an $887 million fine concerning the platform's access to and handling of Android user data.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
+      "dateLocation": "2026-11-15 | Reuters"
+    },
+    {
+      "headline": "Tata Sons Public Listing Sparks Debate",
+      "brief": "Noel Tata warned that a public listing for Tata Sons could shift the traditional corporate culture away from its foundational focus on philanthropy toward profit maximization.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/public-listing-may-change-tata-way-put-profits-ahead-of-philanthropy-noel-tata/articleshow/135837824.cms",
+      "dateLocation": "2026-11-15 | Economic Times"
+    },
+    {
+      "headline": "Modi's Office Summons Telecom Secretary",
+      "brief": "The Prime Minister's office has summoned the telecom secretary following investigations into the unauthorized use of fake court orders within official channels.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEN3SVIzbzRoYUJrbW1QTXRmRkpMSTRXTTRSWk9UelBIci1DSnhsZDdxaXktWHNqdURKQ1JYdTNOUGtDbklnMFhTbXZXLXJOLWF5YUVLN2VQdjkya1BxOHJYYnVFNWtoSFhxUGlDNW1JZ3lIVW56a3dRdzBJOXlxdE1zNGNTcy13dlVmaE85dFFYOVdPYWRhdF9XblZJaXgyMElfc05nZVBYcW8?oc=5",
-      "dateLocation": "2026-11-14 | New Delhi"
+      "dateLocation": "2026-11-15 | Reuters"
     },
     {
-      "headline": "Truck and Bus Collision in Assam Kills 23",
-      "brief": "At least 23 people have died following a devastating collision between a truck and a bus in India's northeastern state of Assam. Emergency services rushed to the scene to conduct rescue operations, while local authorities launched an investigation into the fatal highway accident.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjllVmVCdTJhVUpRVDg3N09uYmhXLU40ZVozbHRLY1hRQkNpakZ4NVZjWVVObnEtcmpCbXZlYmIzdTV5dTlQN2Eyb0Y4UVM4RXZkc1BiU2hfY2FFVm1aTy1IVmtBRDZwTm1Eb2dvS3dEaDBvS0ZGcGY0TGNsYV9hZ1RMY19Ncy1zbWNyQ3NLVmdWMlN3cnBiQkI0cmJaZ3pkWUUxeA?oc=5",
-      "dateLocation": "2026-11-14 | Assam, India"
-    },
-    {
-      "headline": "Trump and Quad Leaders to Meet in Manila",
-      "brief": "US President Donald Trump and other Quad leaders are scheduled to hold a high-level strategic meeting in Manila on Tuesday, according to diplomatic sources, aiming to reinforce regional security frameworks and economic cooperation across the Indo-Pacific.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5",
-      "dateLocation": "2026-11-14 | Manila"
-    },
-    {
-      "headline": "Trump Weighs Holding Off on Iran Attacks",
-      "brief": "US President Donald Trump has informed his top advisors that he may hold off on launching military strikes against Iran, barring any new provocations, as diplomatic channels and regional assessments continue to guide Washington's foreign policy approach.",
+      "headline": "Trump, Xi, Putin Trilateral Summit Planned",
+      "brief": "Global leaders Donald Trump, Vladimir Putin, and Xi Jinping are reportedly scheduled for an unprecedented trilateral meeting on the sidelines of the APEC summit to discuss geopolitical conflicts.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
-      "dateLocation": "2026-11-14 | Washington"
+      "sourceUrl": "https://www.livemint.com/news/us-news/trumpxiputin-trilateral-meeting-next-week-iran-war-on-agenda-but-nvidia-and-ukraine-likely-off-the-table-11794714010404.html",
+      "dateLocation": "2026-11-15 | LiveMint"
     },
     {
-      "headline": "US Flight Shutdown Highlights Air Traffic Crisis",
-      "brief": "A major nationwide US flight shutdown has exposed a deepening crisis within the country's air traffic network, raising urgent questions among aviation experts and federal regulators regarding aging infrastructure, staffing shortages, and system resilience.",
+      "headline": "Iran War Shifts US Automotive Market",
+      "brief": "Ongoing conflict involving Iran is heavily reshaping the American auto sector, causing a notable surge in demand for hybrid vehicles while electric vehicle growth slows.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
-      "dateLocation": "2026-11-14 | Washington"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/business/iran-war-reshapes-us-auto-market-as-hybrids-gain-ground-and-evs-lose-pace/articleshow/135846485.cms",
+      "dateLocation": "2026-11-15 | Economic Times"
     },
     {
-      "headline": "Nvidia Approaches Arm CEO Amid Leadership Turmoil",
-      "brief": "Nvidia has reportedly approached Arm CEO Haas as employees actively campaign for the return of ousted leadership, creating fresh boardroom turbulence across the global semiconductor landscape and sparking intense corporate rivalry in the AI hardware sector.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
-      "dateLocation": "2026-11-14 | London"
-    },
-    {
-      "headline": "AI Could Threaten Humanity to Survive, Warns Expert",
-      "brief": "Speaking at the Hindustan Times Leadership Summit, UC Berkeley professor Stuart Russell warned that advanced rogue AI systems could take over the internet to prevent humans from shutting them down, noting that AGI may be just years away.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/stuart-russell-artificial-general-intelligence-11794647485435.html",
-      "dateLocation": "2026-11-14 | New Delhi"
-    },
-    {
-      "headline": "Rahul Gandhi Questions Legitimacy of 2024 Election",
-      "brief": "Congress leader Rahul Gandhi challenged the legitimacy of the 2024 Lok Sabha elections at the Bharat Summit in Hyderabad, alleging that 140 million voters were incorrectly classified and that democracy in India faces severe institutional threats.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/how-were-2024-elections-legitimate-rahul-accuses-ec-of-declaring-140-million-who-voted-illegal/articleshow/135832504.cms",
-      "dateLocation": "2026-11-14 | Hyderabad"
-    },
-    {
-      "headline": "Indian IT Stocks Stagnate Amid AI Boom and Slowdown",
-      "brief": "Legacy Indian IT firms are experiencing a market disconnect as optimism surrounding artificial intelligence fails to offset persistent earnings growth concerns and broader macroeconomic headwinds impacting traditional tech outsourcing budgets.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/markets/stocks/news/ai-relief-fails-to-lift-legacy-it-stocks-as-earnings-worries-weigh/articleshow/135820139.cms",
-      "dateLocation": "2026-11-14 | Mumbai"
-    },
-    {
-      "headline": "Retiring Before 50: Essential Financial Strategies",
-      "brief": "Financial advisors are highlighting comprehensive multi-bucket asset allocation models to help individuals safely accumulate enough capital to sustain a comfortable, early retirement before the age of 50 without running out of funds.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/wealth/plan/retiring-before-50-heres-the-formula-to-find-out-how-much-you-need-and-a-3-bucket-strategy-so-you-dont-run-out-of-money/articleshow/135813038.cms",
-      "dateLocation": "2026-11-14 | New Delhi"
-    },
-    {
-      "headline": "Retinal Examinations Crucial for Diabetes Management",
-      "brief": "On World Diabetes Day, medical specialists are strongly urging patients to prioritize regular retinal screenings alongside routine blood sugar management, warning that diabetes can cause silent, permanent damage to vision without early warning signs.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/trends/world-diabetes-day-2026-the-one-health-check-people-with-diabetes-should-not-overlook-11794649839837.html",
-      "dateLocation": "2026-11-14 | New Delhi"
-    },
-    {
-      "headline": "New Diabetic Foot Care Clinic Launched in Tiruchirapalli",
-      "brief": "Harshamitra Hospital has launched a specialized diabetic foot care clinic to provide comprehensive diagnostic and preventive services, aiming to reduce severe diabetic complications and amputations among local patients through targeted clinical interventions.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/harshamitra-hospital-launches-diabetic-foot-care-clinic/article71701632.ece",
-      "dateLocation": "2026-11-14 | Tiruchirapalli"
-    },
-    {
-      "headline": "Ex-Cricket Stars Blast India After Heavy ODI Defeat",
-      "brief": "Following a disastrous batting collapse and a heavy defeat against New Zealand in the fourth ODI, former cricketers and analysts have strongly criticized the team's lack of resilience, urging major strategic reviews ahead of upcoming series.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/you-cant-completely-surrender-ex-india-cricketers-blunt-assessment-after-matt-henrys-six-wicket-demolition/articleshow/135828971.cms",
-      "dateLocation": "2026-11-14 | New Delhi"
-    },
-    {
-      "headline": "Jr NTR Announces Upcoming Collaboration with Anil Ravipudi",
-      "brief": "Telugu superstar Jr NTR has officially taken to social media to confirm his highly anticipated upcoming film collaboration with acclaimed director Anil Ravipudi, generating massive excitement among fans and the regional film industry.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/entertainment/movies/jr-ntr-announces-his-next-with-anil-ravipudi/article71701775.ece",
-      "dateLocation": "2026-11-14 | Hyderabad"
-    },
-    {
-      "headline": "Amazon Targets Global Product Data to Counter AI Agents",
-      "brief": "Amazon is rolling out an extensive strategic blueprint to own the world's underlying product data and combat emerging artificial intelligence shopping agents, securing its dominance in global e-commerce and retail search infrastructure.",
+      "headline": "H-1B Visa Scrutiny Widens for IT Firms",
+      "brief": "Major Indian IT outsourcing firms including Infosys, TCS, and Wipro are facing renewed federal regulatory crackdowns regarding employment-based green card and H-1B visa programs.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
-      "dateLocation": "2026-11-14 | Seattle"
+      "sourceUrl": "https://www.livemint.com/news/us-news/h1b-is-not-a-business-model-infosys-tcs-wipro-face-fresh-scrutiny-as-us-visa-crackdown-widens-11794714759722.html",
+      "dateLocation": "2026-11-15 | LiveMint"
+    },
+    {
+      "headline": "India's Sooryavanshi Sets T20 Captaincy Record",
+      "brief": "Young cricketer Sooryavanshi has etched his name in the record books by becoming the youngest captain in men's T20 cricket history.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV9YOGZqQ183c2N0U2phWWFPNGtQQVpweVo2OWRJQVVYWVl0WFltRVJ6YVpXZXlKX3BfVkZuUjQ5YnJFWDQtZldRNE9GWmxfWk93QVN1SXJHamNrOEkxa001cTh2V2lwcE5qTHlIWVJRaVlCd1pDV2tCSlR5bmxtUjlhSlNrSEpBdlV3SHJmWGN3Rll5ZENqSWJ4blprLXN0UFh1Qzd3WkljLWY2ckR5cW5B?oc=5",
+      "dateLocation": "2026-11-15 | Reuters"
+    },
+    {
+      "headline": "India Dramatically Wins U-19 Asia Cup",
+      "brief": "The Indian under-19 cricket squad pulled off a stunning comeback from the brink of defeat to defeat Pakistan and secure the U-19 Asia Cup title.",
+      "category": "sports",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkFDbXJPZE5wbHNmNnQ4clhkYzJ3YWo5RW5CbWNMSllSX0x2UnRWYmJOWWRfQi1sQnM0ZkUtUTRuY1FZMm81WWNCc2lWMW8xdXZoVEFnS1JoMWFkM3U5VG44MlhuaG9vVklqTzJ4Mm9UR3NGVEtpZEkwVkRCRmppQXZNZE5ad2ppLVd5cnFZRG5sMHR6S3lsV25DRVRCeXFVUmUw?oc=5",
+      "dateLocation": "2026-11-15 | Reuters"
+    },
+    {
+      "headline": "Delhi Air Quality Reaches Hazardous Levels",
+      "brief": "Air pollution in India's capital worsened severely, with monitoring stations recording an Air Quality Index surpassing 500, prompting urgent health advisories for residents.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-aqi-at-511-breathing-capitals-toxic-air-equals-smoking-375-cigarettes-a-month-chances-of-asthma-heart-issues-11794710065305.html",
+      "dateLocation": "2026-11-15 | LiveMint"
+    },
+    {
+      "headline": "Telangana Cracks Down on Illegal Oocyte Racket",
+      "brief": "The Telangana Women's Commission has issued strict legal notices to eight Assisted Reproductive Technology centers implicated in an ongoing illegal oocyte trading investigation.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Hyderabad/telangana-womens-commission-issues-notices-to-eight-art-centres-in-illegal-oocyte-racket-case/article71698872.ece",
+      "dateLocation": "2026-11-15 | The Hindu"
+    },
+    {
+      "headline": "Bahrain Issues Security Alerts Near US Navy Base",
+      "brief": "Bahrain's Interior Ministry issued urgent public safety alerts warning of potential security threats targeting areas surrounding the U.S. Navy's Fifth Fleet installation.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/bahrain-interior-ministry-potential-threats-us-navys-fifth-fleet-attack-on-november-15/article71704092.ece",
+      "dateLocation": "2026-11-15 | The Hindu"
+    },
+    {
+      "headline": "Zelenskyy Accuses SpaceX Over Starshield Curbs",
+      "brief": "Ukrainian President Volodymyr Zelenskyy criticized SpaceX, alleging that operational speed limits on Starshield terminals are driven by political motives rather than technical limits.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/zelenskyy-accuses-musk-s-spacex-of-lying-about-restrictions-for-starshield-says-curbs-more-political-than-technical-11794709483082.html",
+      "dateLocation": "2026-11-15 | LiveMint"
+    },
+    {
+      "headline": "Odisha Braces for Third Cyclone in Weeks",
+      "brief": "India's eastern coastline has been placed on high alert as meteorological agencies warn that Odisha is bracing for its third cyclonic storm in three consecutive weeks.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-update-odisha-braces-for-3rd-cyclone-in-three-weeks-andhra-bengal-and-andaman-on-high-alert-11794704521000.html",
+      "dateLocation": "2026-11-15 | LiveMint"
+    },
+    {
+      "headline": "Prince William and Kate Plan India Visit",
+      "brief": "Britain's Prince William and Kate Middleton are scheduled to visit India for the upcoming Earthshot Prize ceremony, marking their first joint overseas trip since her recovery.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/2026-earthshot-prize-prince-william-kate-middleton-to-visit-india-taj-mahal-kaziranga-mumbai-delhi-on-itinerary-11794714082243.html",
+      "dateLocation": "2026-11-15 | LiveMint"
     }
   ]
 }
