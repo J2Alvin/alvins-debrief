@@ -1,117 +1,110 @@
 {
-  "lastUpdated": "2026-11-15T13:24:29.537Z",
+  "lastUpdated": "2026-11-16T04:39:14.660Z",
   "ticker": [
-    "Jordan sentences three to death over church attack",
-    "SpaceX Starship successfully returns from orbit",
-    "Yemeni forces withdraw from Bab el-Mandeb Strait",
-    "US Army officer arrested over alleged Russian espionage",
-    "India beats New Zealand to seal ODI series"
+    "Historic Xi-Trump-Putin summit scheduled",
+    "Delhi AQI reaches hazardous level of 800",
+    "Yemeni forces retreat in major Houthi setback",
+    "India joins US-led AI supply chain pact",
+    "Amazon satellite payload destroyed in launch failure"
   ],
   "articles": [
     {
-      "headline": "Jordan sentences three men to death over church attack",
-      "brief": "A Jordanian court has handed down death sentences to three men convicted for their roles in a deadly church attack, delivering a stern message against sectarian violence and bolstering security measures across the region.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5",
-      "dateLocation": "November 15, 2026 | Amman, Jordan"
+      "headline": "Historic Xi-Trump-Putin Summit Set for Shenzhen",
+      "brief": "China has officially confirmed that a historic trilateral summit involving leaders Xi Jinping, Donald Trump, and Vladimir Putin will take place in Shenzhen, marking a major diplomatic development on the global stage.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/historic-xi-trump-putin-trilateral-summit-scheduled-for-november-19-in-shenzhen-china/articleshow/135871473.cms",
+      "dateLocation": "November 16, 2026 | Beijing / Economic Times"
     },
     {
-      "headline": "Yemeni government forces withdraw from Bab el-Mandeb area",
-      "brief": "Yemeni government forces have pulled back from a strategic area near the critical Bab el-Mandeb Strait, leaving Houthi forces in control of the vital maritime chokepoint and sparking new international shipping security concerns.",
+      "headline": "US and Russia Oppose Autonomous Weapons Limits",
+      "brief": "The United States and Russia have announced their joint opposition to upcoming international talks aimed at limiting the development and deployment of lethal autonomous weapons systems.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUS1qMHhiR1ozLTIyenNWclR0dVZYNnBsSG01eHJkN0VMSGFnSnIxNjc5Q01HNFJma2JEazF2aWh2U3VlWnNwYm82NUFWZGM1ME5CVTZaTWxseU5nRmppbWVDalBPODdzVWJBUDNEemdteXhFbXNXdEVvNnZiZ1FSRWIyS1JNSVBFUkxGVEoyaUNZTDNHQndZ?oc=5",
+      "dateLocation": "November 16, 2026 | Reuters"
+    },
+    {
+      "headline": "Yemeni Forces Retreat in Major Houthi Setback",
+      "brief": "Yemeni government forces have suffered a significant operational setback, retreating from a vital strategic strait amid escalating regional conflicts involving anti-Houthi positions and recent strikes.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
-      "dateLocation": "November 15, 2026 | Sana'a, Yemen"
+      "dateLocation": "November 16, 2026 | Reuters"
     },
     {
-      "headline": "SpaceX Starship aces orbital test by returning to pad",
-      "brief": "SpaceX achieved a major milestone in reusable rocket technology as the Starship spacecraft successfully returned from orbit and executed a precision landing on the pad, advancing commercial spaceflight capabilities.",
+      "headline": "India Joins US-Led AI Supply Chain Pact",
+      "brief": "India has officially joined the US-led San Francisco Declaration, an international pact aimed at safeguarding critical artificial intelligence and semiconductor supply chains from external vulnerabilities and geopolitical competition.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3BNak83bkJ3N2NOejJudW5NdDlHQl9tTmZ1OUFSak9iRTZmMlo1OFAyWVJnU25GdjRLbVNOSllnekdvdm1tcFlxbnJRY2RnRks4WG4ybjZlX3dnNE1HQ3E5S0dpVGxwNDZqLTVwM3JlLWJmMDYtNjhZVXgycFJjbzFPME50Z0ViRHNWTDhYSmdfeW80UDl4NlduZGdLR0R5ZmpIa05B?oc=5",
-      "dateLocation": "November 15, 2026 | Boca Chica, Texas"
+      "sourceUrl": "https://www.livemint.com/news/india/india-joins-us-led-pact-to-safeguard-ai-supply-chains-from-china-what-is-san-francisco-declaration-11794800825567.html",
+      "dateLocation": "November 16, 2026 | Livemint"
     },
     {
-      "headline": "Modi's office summons telecom secretary over fake orders",
-      "brief": "The Prime Minister's Office in India has summoned the top telecom secretary following an alarming security breach involving the circulation and utilization of fabricated court orders within administrative channels.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEN3SVIzbzRoYUJrbW1QTXRmRkpMSTRXTTRSWk9UelBIci1DSnhsZDdxaXktWHNqdURKQ1JYdTNOUGtDbklnMFhTbXZXLXJOLWF5YUVLN2VQdjkya1BxOHJYYnVFNWtoSFhxUGlDNW1JZ3lIVW56a3dRdzBJOXlxdE1zNGNTcy13dlVmaE85dFFYOVdPYWRhdF9XblZJaXgyMElfc05nZVBYcW8?oc=5",
-      "dateLocation": "November 15, 2026 | New Delhi, India"
+      "headline": "Boeing-Lockheed Rocket Fails, Destroying Satellites",
+      "brief": "A rocket manufactured by the Boeing-Lockheed joint venture suffered a mid-flight failure, completely destroying its payload of commercial Amazon broadband satellites in a severe blow to the aerospace initiative.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5",
+      "dateLocation": "November 16, 2026 | Reuters"
     },
     {
-      "headline": "India's Sooryavanshi becomes youngest men's T20 captain",
-      "brief": "Young cricketer Sooryavanshi has etched his name in sports history by becoming the youngest captain in men's T20 cricket history, showcasing exceptional leadership potential at a remarkably tender age.",
-      "category": "sports",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRV9YOGZqQ183c2N0U2phWWFPNGtQQVpweVo2OWRJQVVYWVl0WFltRVJ6YVpXZXlKX3BfVkZuUjQ5YnJFWDQtZldRNE9GWmxfWk93QVN1SXJHamNrOEkxa001cTh2V2lwcE5qTHlIWVJRaVlCd1pDV2tCSlR5bmxtUjlhSlNrSEpBdlV3SHJmWGN3Rll5ZENqSWJ4blprLXN0UFh1Qzd3WkljLWY2ckR5cW5B?oc=5",
-      "dateLocation": "November 15, 2026 | Mumbai, India"
+      "headline": "Oil Prices Slide on Supply Surplus Forecasts",
+      "brief": "Crude oil prices experienced a downward trend as global markets digested incoming forecasts predicting a notable supply surplus in the near-term future, pressuring major energy producers.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFe2lfUQ?oc=5",
+      "dateLocation": "November 16, 2026 | Reuters"
     },
     {
-      "headline": "Bahrain intercepts Iranian aerial attacks near US base",
-      "brief": "Bahraini defense forces successfully intercepted multiple incoming Iranian aerial attacks amid Tehran's claims of targeting a regional US military installation, sharply escalating Gulf security tensions.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3?oc=5",
-      "dateLocation": "November 15, 2026 | Manama, Bahrain"
+      "headline": "Gold Holds Steady as Rate Cut Signals Awaited",
+      "brief": "Gold prices remained stable in early trading sessions as global investors held back major moves, awaiting upcoming economic remarks for definitive signals regarding future interest rate adjustments.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
+      "dateLocation": "November 16, 2026 | Reuters"
     },
     {
-      "headline": "Owner of minibus in Assam accident arrested",
-      "brief": "Police in Assam have arrested the owner of a minibus involved in a horrific crash near Kaziranga National Park that killed 26 people, following suspicions that mandatory speed regulators were tampered with.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/national/assam/owner-of-minibus-in-assam-accident-that-killed-26-arrested/article71704816.ece",
-      "dateLocation": "November 15, 2026 | Nagaon, India"
-    },
-    {
-      "headline": "Delhi airport taxi trips plunge 80% due to BS-VI curbs",
-      "brief": "Strict BS-VI environmental regulations have caused daily cab arrivals from neighboring states at Delhi airport to drop from over 100,000 to fewer than 20,000, severely disrupting regional transport trade.",
+      "headline": "India's Solar Manufacturing Capacity Hits 116 GW",
+      "brief": "India's domestic solar manufacturing sector has reached a milestone of 116 gigawatts, propelled by strong governmental backing through the Production-Linked Incentive scheme aimed at boosting domestic output.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/delhi-airport-taxi-trips-from-neighbouring-states-plunge-80-as-bs-vi-curbs-slam-brakes-on-trade/article71704875.ece",
-      "dateLocation": "November 15, 2026 | New Delhi, India"
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/renewables/indias-solar-manufacturing-hits-116-gw-as-pli-scheme-boosts-domestic-output/articleshow/135870947.cms",
+      "dateLocation": "November 16, 2026 | Economic Times"
     },
     {
-      "headline": "Fertilizer demand to recover, but water stress clouds outlook",
-      "brief": "While increased government subsidies are expected to revive fertilizer demand during the rabi season following a weak kharif period, critically depleted southern water reservoirs threaten full agricultural recovery.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/fertilizer-demand-set-to-recover-in-rabi-but-water-stress-clouds-outlook-11794741964653.html",
-      "dateLocation": "November 15, 2026 | New Delhi, India"
+      "headline": "Canada May Turn to Chinese Autos If US Talks Fail",
+      "brief": "Canadian trade representatives suggested that the nation could explore commercial partnerships with Chinese automakers if ongoing trade negotiations with the United States collapse, contingent on local manufacturing.",
+      "category": "business",
+      "sourceUrl": "https://www.thehindu.com/news/international/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article71706703.ece",
+      "dateLocation": "November 16, 2026 | The Hindu"
     },
     {
-      "headline": "Government health spending triples, lowering household burden",
-      "brief": "A new government report reveals public healthcare expenditure has nearly tripled over the past decade, successfully driving down out-of-pocket medical expenses for households from 64.2% to 42.7%.",
+      "headline": "Delhi AQI Reaches Hazardous Level of 800",
+      "brief": "Air quality in India's capital plummeted to hazardous levels with the live Air Quality Index touching 800, placing Delhi among the most polluted urban centers globally and prompting urgent health concerns.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/public-health-spending-triples-over-a-decade-as-out-of-pocket-burden-drops-to-42-7-govt-report-medicine-tests-11794738055661.html",
-      "dateLocation": "November 15, 2026 | New Delhi, India"
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-aqi-at-800-today-india-s-capital-breathes-poison-as-it-ranks-6th-among-the-world-s-most-polluted-cities-11794798175346.html",
+      "dateLocation": "November 16, 2026 | Livemint"
     },
     {
-      "headline": "AIIMS performs India's first foetal surgery for nerve damage",
-      "brief": "Doctors at AIIMS Delhi have successfully completed India's first-of-its-kind intrauterine surgery on an unborn baby to prevent permanent spinal nerve damage, marking a historic breakthrough in fetal medicine.",
-      "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/aiims-delhi-performs-first-of-its-kind-foetal-surgery-to-prevent-spinal-nerve-damage-report/articleshow/135851381.cms",
-      "dateLocation": "November 15, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "China's 19-seat electric passenger plane completes maiden flight",
-      "brief": "China has marked a major aviation milestone with the successful maiden flight of the CE-25A, a 19-seat electric passenger aircraft featuring advanced distributed propulsion and a 400-kilometer range.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/chinas-19-seat-electric-passenger-plane-completes-maiden-flight-targets-400-km-range/articleshow/135854337.cms",
-      "dateLocation": "November 15, 2026 | Shandong, China"
-    },
-    {
-      "headline": "US Army officer arrested in UK over Russian espionage",
-      "brief": "Lieutenant Colonel Brandon Carroll Tyner has been detained in the United Kingdom under suspicion of passing classified intelligence to Russian handlers in a joint operation involving the FBI and British counter-terrorism.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-army-names-officer-held-in-uk-over-suspected-russian-espionage-at-nato-base/articleshow/135856352.cms",
-      "dateLocation": "November 15, 2026 | London, United Kingdom"
-    },
-    {
-      "headline": "India secures preferential US market access under trade pact",
-      "brief": "Commerce Minister Piyush Goyal announced that India is poised to secure favorable market access with substantially lower tariffs than competing rivals under the upcoming bilateral trade framework.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/will-india-get-preferential-us-market-access-lower-tariffs-than-rivals-heres-what-piyush-goyal-said-11794739193904.html",
-      "dateLocation": "November 15, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "India defeats New Zealand to clinch ODI cricket series",
-      "brief": "A disciplined bowling performance powered India to defend a modest total of 209 against New Zealand, securing a 22-run victory and clinching a thrilling one-day international series triumph away from home.",
+      "headline": "Mirra Andreeva Wins WTA Finals and Claims No. 2 Spot",
+      "brief": "Mirra Andreeva secured a stellar victory over Elina Svitolina in the WTA Finals championship match, a triumph that elevates her career-ranking to world number two in women's tennis.",
       "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/indias-pace-attack-defends-209-to-seal-22-run-win-third-odi-series-triumph-in-new-zealand/articleshow/135852929.cms",
-      "dateLocation": "November 15, 2026 | Auckland, New Zealand"
+      "sourceUrl": "https://www.thehindu.com/sport/tennis/mirra-andreeva-beats-elina-svitolina-to-win-wta-finals-ascends-to-no-2-in-rankings/article71706751.ece",
+      "dateLocation": "November 16, 2026 | The Hindu"
+    },
+    {
+      "headline": "England Level ODI Series Against Australia in Adelaide",
+      "brief": "England delivered a commanding batting performance at the Adelaide Oval, defeating Australia by 135 runs to successfully level the current bilateral ODI series 1-1.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/australia-vs-england-second-odi-in-adelaide/article71704366.ece",
+      "dateLocation": "November 16, 2026 | The Hindu"
+    },
+    {
+      "headline": "IMD Issues Cyclone Alert for Andhra and Odisha",
+      "brief": "The India Meteorological Department has issued high alerts for coastal Andhra Pradesh and Odisha as a deep depression over the Bay of Bengal rapidly intensifies toward a severe cyclonic storm.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-update-andhra-odisha-on-high-alert-as-third-cyclone-brews-over-bay-of-bengal-in-3-weeks-11794790988201.html",
+      "dateLocation": "November 16, 2026 | Livemint"
+    },
+    {
+      "headline": "Vande Bharat Train Runs 463 km Without Proper Brakes",
+      "brief": "Railway authorities initiated an inquiry after a Vande Bharat express train reportedly operated for over 463 kilometers despite reported braking deficiencies highlighted by operating loco pilots.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/vande-bharat-runs-for-463-km-without-proper-brakes-two-loco-pilots-report-poor-braking-but-railway-staff-allow-the-empty-train-to-continue-without-fixing-the-problem/articleshow/135871366.cms",
+      "dateLocation": "November 16, 2026 | Economic Times"
     }
   ]
 }
