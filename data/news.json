@@ -1,110 +1,117 @@
 {
-  "lastUpdated": "2026-11-16T04:39:14.660Z",
+  "lastUpdated": "2026-11-17T01:31:58.057Z",
   "ticker": [
-    "Historic Xi-Trump-Putin summit scheduled",
-    "Delhi AQI reaches hazardous level of 800",
-    "Yemeni forces retreat in major Houthi setback",
-    "India joins US-led AI supply chain pact",
-    "Amazon satellite payload destroyed in launch failure"
+    "Gold sinks to one-year low against surging US dollar",
+    "Major US banks hit by sudden technical outages",
+    "China's economy falters as factory output undershoots expectations",
+    "Supreme Court rejects Trump administration bid to end DEI grants",
+    "Cyclone Akvan brews over the Bay of Bengal"
   ],
   "articles": [
     {
-      "headline": "Historic Xi-Trump-Putin Summit Set for Shenzhen",
-      "brief": "China has officially confirmed that a historic trilateral summit involving leaders Xi Jinping, Donald Trump, and Vladimir Putin will take place in Shenzhen, marking a major diplomatic development on the global stage.",
+      "headline": "Gold Sinks to One-Year Low Amid Dollar Surge",
+      "brief": "Gold prices dropped to a one-year low, driven by rising Treasury yields and a strengthening US dollar, setting the precious metal on track for its worst annual performance since 2015.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkNEMWt0MEpVV2U4c0tCZEQ0N3FJRnBMWEFJRktVNVpBNGZ4RWFjVXA0TnR0VE8yam5OenZaaF9KWVhuc3RCQkZXWGlwb0pPRElEM0JoU0Rsb3BpX2ZTUjBLUG52SUM1V2RkcHRKLVdLR1ZmeXFISlplcTRQU0xJMzZHcFBFbUZPVWtYeGpqbWxKU1gtQjMxZXBMZU5rdldKOTRaWXpNSkZqd3MwajRHUzVvSVI2QTBOb1dJMGc3U3VzdTFP?oc=5",
+      "dateLocation": "2026-11-17 | Reuters"
+    },
+    {
+      "headline": "China's Factory Output and Retail Sales Miss Expectations",
+      "brief": "China's economic recovery faced renewed headwinds as both industrial output and retail sales figures undershot analyst expectations, pointing to persistent domestic demand weakness.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5",
+      "dateLocation": "2026-11-17 | Reuters"
+    },
+    {
+      "headline": "Major US Banks Hit by Online Outages",
+      "brief": "Customers of major US financial institutions including JPMorgan Chase and Bank of America reported widespread technical issues accessing online accounts, though banks ruled out cyberattacks.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/customers-of-bank-of-america-chase-jp-morgan-wells-fargo-and-zelle-report-issues-accessing-accounts-online/articleshow/135901095.cms",
+      "dateLocation": "2026-11-17 | Times of India"
+    },
+    {
+      "headline": "Renault to Add EV Roles While Cutting White-Collar Jobs",
+      "brief": "French automaker Renault announced plans to create 2,000 new positions focused on electric vehicle production while simultaneously cutting up to 1,000 administrative jobs.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdW5wd3RMMjZWUF9Da1I5M2x5RWJyS2RLUkpNaWhIdHprSUFvV1VHOEJHR0FSaE5obU9VMDcxVy1EUEVuYkNoakZac0YwOHdkd1hRX0ZKMXQtV1FIYU9ibC1yUXFwU2NEY0p0aXVRUnBXSXFiUHR1OTQwQUZBaWZKemlVRXRaZTBvTmZXYTdmT0hwdGRUVVM4QkNKR3BmdUZPUVhKSGFIMDNhYm5fX1ZQb0N1RnVXWG9tc296azhYV1UxNGY4UURnaG5HQmNIVVF3RnZ3V3Rn?oc=5",
+      "dateLocation": "2026-11-17 | Reuters"
+    },
+    {
+      "headline": "Supreme Court Rejects Trump Administration Bid on DEI Grants",
+      "brief": "The US Supreme Court dealt a setback to the Trump administration by leaving intact a ruling that blocked attempts to cancel billions of dollars in federal research grants.",
       "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/historic-xi-trump-putin-trilateral-summit-scheduled-for-november-19-in-shenzhen-china/articleshow/135871473.cms",
-      "dateLocation": "November 16, 2026 | Beijing / Economic Times"
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-rejected-by-supreme-court-in-bid-to-end-dei-grants-11794860057756.html",
+      "dateLocation": "2026-11-17 | LiveMint"
     },
     {
-      "headline": "US and Russia Oppose Autonomous Weapons Limits",
-      "brief": "The United States and Russia have announced their joint opposition to upcoming international talks aimed at limiting the development and deployment of lethal autonomous weapons systems.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUS1qMHhiR1ozLTIyenNWclR0dVZYNnBsSG01eHJkN0VMSGFnSnIxNjc5Q01HNFJma2JEazF2aWh2U3VlWnNwYm82NUFWZGM1ME5CVTZaTWxseU5nRmppbWVDalBPODdzVWJBUDNEemdteXhFbXNXdEVvNnZiZ1FSRWIyS1JNSVBFUkxGVEoyaUNZTDNHQndZ?oc=5",
-      "dateLocation": "November 16, 2026 | Reuters"
+      "headline": "US Proposes Rule Change Impacting H-1B Visa Extensions",
+      "brief": "The Department of Homeland Security proposed a rule change removing deference to prior visa approvals, potentially leading to increased requests for evidence and longer processing times for H-1B workers.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-is-proposing-one-sentence-change-in-uscis-rules-that-would-change-every-h-1b-visa-extension-form-with-thousands-losing-their-approval/articleshow/135886323.cms",
+      "dateLocation": "2026-11-17 | Times of India"
     },
     {
-      "headline": "Yemeni Forces Retreat in Major Houthi Setback",
-      "brief": "Yemeni government forces have suffered a significant operational setback, retreating from a vital strategic strait amid escalating regional conflicts involving anti-Houthi positions and recent strikes.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
-      "dateLocation": "November 16, 2026 | Reuters"
-    },
-    {
-      "headline": "India Joins US-Led AI Supply Chain Pact",
-      "brief": "India has officially joined the US-led San Francisco Declaration, an international pact aimed at safeguarding critical artificial intelligence and semiconductor supply chains from external vulnerabilities and geopolitical competition.",
-      "category": "technology",
-      "sourceUrl": "https://www.livemint.com/news/india/india-joins-us-led-pact-to-safeguard-ai-supply-chains-from-china-what-is-san-francisco-declaration-11794800825567.html",
-      "dateLocation": "November 16, 2026 | Livemint"
-    },
-    {
-      "headline": "Boeing-Lockheed Rocket Fails, Destroying Satellites",
-      "brief": "A rocket manufactured by the Boeing-Lockheed joint venture suffered a mid-flight failure, completely destroying its payload of commercial Amazon broadband satellites in a severe blow to the aerospace initiative.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5",
-      "dateLocation": "November 16, 2026 | Reuters"
-    },
-    {
-      "headline": "Oil Prices Slide on Supply Surplus Forecasts",
-      "brief": "Crude oil prices experienced a downward trend as global markets digested incoming forecasts predicting a notable supply surplus in the near-term future, pressuring major energy producers.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFe2lfUQ?oc=5",
-      "dateLocation": "November 16, 2026 | Reuters"
-    },
-    {
-      "headline": "Gold Holds Steady as Rate Cut Signals Awaited",
-      "brief": "Gold prices remained stable in early trading sessions as global investors held back major moves, awaiting upcoming economic remarks for definitive signals regarding future interest rate adjustments.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
-      "dateLocation": "November 16, 2026 | Reuters"
-    },
-    {
-      "headline": "India's Solar Manufacturing Capacity Hits 116 GW",
-      "brief": "India's domestic solar manufacturing sector has reached a milestone of 116 gigawatts, propelled by strong governmental backing through the Production-Linked Incentive scheme aimed at boosting domestic output.",
+      "headline": "Bangladesh Garment Industry Unrest May Benefit Indian Suppliers",
+      "brief": "Fresh wage protests in Bangladesh have forced the closure of numerous garment factories, prompting global retailers to explore supply chain diversification toward regional competitors like India.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/renewables/indias-solar-manufacturing-hits-116-gw-as-pli-scheme-boosts-domestic-output/articleshow/135870947.cms",
-      "dateLocation": "November 16, 2026 | Economic Times"
+      "sourceUrl": "https://www.livemint.com/news/world/bangladeshs-40-billion-garment-industry-faces-fresh-protests-over-wages-could-supply-chain-disruptions-benefit-india-11794850623967.html",
+      "dateLocation": "2026-11-17 | LiveMint"
     },
     {
-      "headline": "Canada May Turn to Chinese Autos If US Talks Fail",
-      "brief": "Canadian trade representatives suggested that the nation could explore commercial partnerships with Chinese automakers if ongoing trade negotiations with the United States collapse, contingent on local manufacturing.",
+      "headline": "Cyclone Akvan Brews Over the Bay of Bengal",
+      "brief": "Meteorological authorities report that Cyclone Akvan is intensifying into a severe storm over the Bay of Bengal, prompting regional disaster management preparations.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/national/cyclone-akvan-what-you-need-to-know-about-the-third-bay-of-bengal-storm-in-three-weeks/article71706612.ece",
+      "dateLocation": "2026-11-17 | The Hindu"
+    },
+    {
+      "headline": "Delhi Seeks World Bank Support for Regional Air Pollution Strategy",
+      "brief": "The Delhi government has initiated talks with the World Bank to implement an airshed-based coordination strategy with neighboring states to effectively tackle regional air pollution.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-air-pollution-airshed-approach-world-bank-neighbouring-states-11794815789018.html",
+      "dateLocation": "2026-11-17 | LiveMint"
+    },
+    {
+      "headline": "Drone Warfare Eliminates Safe Zones Across Sudan",
+      "brief": "Military analysts highlight how the escalating use of unmanned drone strikes in Sudan is expanding combat zones into residential areas, markets, and hospitals, worsening the humanitarian crisis.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/news-analysis-drone-warfare-leaves-no-safe-zones-in-sudan/article71708328.ece",
+      "dateLocation": "2026-11-17 | The Hindu"
+    },
+    {
+      "headline": "Mitchell Santner Ruled Out of India Test Series",
+      "brief": "New Zealand suffered a major blow ahead of their upcoming Test series against India after all-rounder Mitchell Santner was sidelined due to a hand fracture sustained during an ODI match.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/mitchell-santner-ruled-out-of-india-test-series-with-hand-fracture-dean-foxcroft-named-replacement-ind-vs-nz/articleshow/135906582.cms",
+      "dateLocation": "2026-11-17 | Times of India"
+    },
+    {
+      "headline": "Grammy Award Nominations Led by Raye and Rosalia",
+      "brief": "Artists Raye and Rosalia have secured the leading number of nominations for the upcoming Grammy Awards, announced music industry organizers.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUNOOHZZRTFXR1hRUXJQQzAzY1RlNVM2UmNtam12RFJTLTAtOFpkSTBRV09yaHd6dXloZmVvRFNWcHI5UDlNT0pkMFV3NzNpWmE3X2ZjcUxodGhTSHFLelBydVBKQzhMYmFXSHJFck94LXRnWE1FZ1Rmazd3U2tTTmpmcktxLXlaTHNTY3UwY1FzeWY2MjRVVGtTVTBVbFJSNzBUaUpwT21Gd0hiOGdkU3ZxNnlmUi1u?oc=5",
+      "dateLocation": "2026-11-17 | Reuters"
+    },
+    {
+      "headline": "Jordan and Iraq Block Telegram Over National Security",
+      "brief": "Authorities in Jordan and Iraq have restricted access to the Telegram messaging application, citing growing national security concerns and failure to comply with local regulations.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaFBWWG9mbXFqcE9KaUVUWXAyVmI4Z3BYS1Q1b0k5N2ZxYVhhZ3BYZVQwc1F2bWMxc1NKTmJOSGlVdGJ2QURDaUNmRGRlNVR5OE5KUHQzdFRzUHlYc1RXWE5jT3FqeEFXd0Ztb09MeTczYUcyRUdjZXlZckpvSVp0ak80TFZJa0EzQmh6amVKbkxRaTBzUFNZLVBVa1VMd1J6c1lscE9KTmplZm5nMHF4bXVEYU4tYW9r?oc=5",
+      "dateLocation": "2026-11-17 | Reuters"
+    },
+    {
+      "headline": "India Hikes Export Duty on Diesel and ATF",
+      "brief": "The Indian government has increased export levies on diesel and aviation turbine fuel to meet domestic supply needs amidst a volatile global energy market.",
       "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article71706703.ece",
-      "dateLocation": "November 16, 2026 | The Hindu"
+      "sourceUrl": "https://www.thehindu.com/business/Industry/export-duty-on-diesel-hiked-25litre-atf-15litre-petrol-remains-nil/article71710215.ece",
+      "dateLocation": "2026-11-17 | The Hindu"
     },
     {
-      "headline": "Delhi AQI Reaches Hazardous Level of 800",
-      "brief": "Air quality in India's capital plummeted to hazardous levels with the live Air Quality Index touching 800, placing Delhi among the most polluted urban centers globally and prompting urgent health concerns.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/delhi-aqi-at-800-today-india-s-capital-breathes-poison-as-it-ranks-6th-among-the-world-s-most-polluted-cities-11794798175346.html",
-      "dateLocation": "November 16, 2026 | Livemint"
-    },
-    {
-      "headline": "Mirra Andreeva Wins WTA Finals and Claims No. 2 Spot",
-      "brief": "Mirra Andreeva secured a stellar victory over Elina Svitolina in the WTA Finals championship match, a triumph that elevates her career-ranking to world number two in women's tennis.",
+      "headline": "Supreme Court Grants Bail to Two Convicts in Bilkis Bano Case",
+      "brief": "The Supreme Court suspended sentences and granted bail to two convicts in the Bilkis Bano case, noting they had served over 17 years in prison.",
       "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/tennis/mirra-andreeva-beats-elina-svitolina-to-win-wta-finals-ascends-to-no-2-in-rankings/article71706751.ece",
-      "dateLocation": "November 16, 2026 | The Hindu"
-    },
-    {
-      "headline": "England Level ODI Series Against Australia in Adelaide",
-      "brief": "England delivered a commanding batting performance at the Adelaide Oval, defeating Australia by 135 runs to successfully level the current bilateral ODI series 1-1.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/australia-vs-england-second-odi-in-adelaide/article71704366.ece",
-      "dateLocation": "November 16, 2026 | The Hindu"
-    },
-    {
-      "headline": "IMD Issues Cyclone Alert for Andhra and Odisha",
-      "brief": "The India Meteorological Department has issued high alerts for coastal Andhra Pradesh and Odisha as a deep depression over the Bay of Bengal rapidly intensifies toward a severe cyclonic storm.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-update-andhra-odisha-on-high-alert-as-third-cyclone-brews-over-bay-of-bengal-in-3-weeks-11794790988201.html",
-      "dateLocation": "November 16, 2026 | Livemint"
-    },
-    {
-      "headline": "Vande Bharat Train Runs 463 km Without Proper Brakes",
-      "brief": "Railway authorities initiated an inquiry after a Vande Bharat express train reportedly operated for over 463 kilometers despite reported braking deficiencies highlighted by operating loco pilots.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/transportation/railways/vande-bharat-runs-for-463-km-without-proper-brakes-two-loco-pilots-report-poor-braking-but-railway-staff-allow-the-empty-train-to-continue-without-fixing-the-problem/articleshow/135871366.cms",
-      "dateLocation": "November 16, 2026 | Economic Times"
+      "sourceUrl": "https://www.thehindu.com/news/national/bilkis-bano-case-supreme-court-suspends-sentence-grants-bail-to-two-convicts/article71707334.ece",
+      "dateLocation": "2026-11-17 | The Hindu"
     }
   ]
 }
