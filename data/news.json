@@ -1,117 +1,68 @@
 {
-  "lastUpdated": "2026-11-18T23:51:28.193Z",
+  "lastUpdated": "2026-11-19T05:49:21.732Z",
   "ticker": [
-    "India to charge bulk Scotch imports 162.5% duty",
-    "Gold drops to 14-month low amid hawkish Fed",
-    "Security forces eliminate Kashmir's last active terrorist",
-    "Hakeem Jeffries nominated as first Black US House Speaker",
-    "India opts to field against New Zealand in 1st Test"
+    "Trump, Xi, and Putin hold historic trilateral talks in China.",
+    "Cyclone Akvan approaches Odisha and Andhra Pradesh coasts with heavy rain.",
+    "India to charge bulk Scotch imports 162.5% duty and tax.",
+    "Gold drops to a 14-month low amid hawkish Federal Reserve rhetoric.",
+    "Microsoft CEO warns that AI replacing human workers threatens democracy."
   ],
   "articles": [
     {
       "headline": "India Imposes 162.5% Duty on Bulk Scotch Imports",
-      "brief": "India plans to charge bulk Scotch imports a hefty 162.5% duty and tax amid a brewing trade pact standoff with the United Kingdom, presenting fresh hurdles for international beverage companies trying to expand their footprint in the lucrative South Asian market.",
-      "category": "business",
+      "brief": "India is set to impose a heavy 162.5% duty and tax on bulk Scotch whisky imports amid an ongoing standoff with the United Kingdom regarding trade pact negotiations.",
+      "category": "finance",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-      "dateLocation": "November 18, 2026 | Reuters"
+      "dateLocation": "November 19, 2026 | Reuters"
     },
     {
-      "headline": "Gold Plummets to 14-Month Low on Strong Dollar",
-      "brief": "Gold prices dropped to a 14-month low as the surging U.S. dollar and rising Treasury yields pressured bullion demand. The sharp correction followed hawkish remarks from Federal Reserve officials signaling a firmer stance on interest rates.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
-      "dateLocation": "November 18, 2026 | Reuters"
-    },
-    {
-      "headline": "Tanker Sunk Off Bulgaria Struck by Projectiles",
-      "brief": "An LPG tanker that sank off the coast of Bulgaria was confirmed to have been hit by projectiles, raising immediate international security concerns regarding maritime navigation routes and escalating regional conflict dynamics in the Black Sea.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWVUzZGRjYm9CTmNMSnBBZ21xeS1sbVJ5QmJFSkw5eHNLZkNZNDdRTWhUa1lLbFdlSmtTYzBBMnh0NHhQa0lwelZVRld2VzljZUd1VVlUYUlrdjZycVhDWTdTU2dmdVc5dzNIcnJLaUM5eUxXWUJWc1hvVWFDdFQ5eWFrY09mZlBUWVBVTWJNd0tsbjZybVFKVWZLQ1JiY0R4dGlpYkZUX3FucFMzZDB0d3IwbjV1Y3IyMjRONQ?oc=5",
-      "dateLocation": "November 18, 2026 | Reuters"
-    },
-    {
-      "headline": "Ford Ships First Battery Cells Using CATL Tech",
-      "brief": "Automotive giant Ford has officially shipped its first batch of battery cells utilizing cutting-edge CATL technology, marking a crucial milestone in its electrification strategy and supply chain diversification efforts.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5",
-      "dateLocation": "November 18, 2026 | Reuters"
-    },
-    {
-      "headline": "Governments Issue Urgent Warning Over Critical Java Flaw",
-      "brief": "Global cybersecurity agencies issued severe warnings after discovering a critical vulnerability in widespread Java software, leaving major enterprise computer systems vulnerable to hostile intrusions and malicious cyber attacks.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRE5uQWVHVHVQV19VTmJrT29QT1lKV0xQQzhUZWp6Wk5aSWZCV3ZKbHNKZ3NBMmlhYzNsT1J6V1AxQjBxR2QzWWk2ODlfaTBEU1JCLXFVWE1adHFQU0M2Rk1fZXhYYzQ5bmczU1lyWHc5WjNFVi1SLXF0NkJSaWlMQUNGdmZfX1ZETWtxZ05UUER6VVpxRDZBaUkzUTZMSGRsWVRacEJkSTUxYkRyeVc2dGJvWUpSNVNPbGc?oc=5",
-      "dateLocation": "November 18, 2026 | Reuters"
-    },
-    {
-      "headline": "Los Angeles Issues Mudslide Alerts Amid Atmospheric River",
-      "brief": "Southern California authorities issued urgent evacuation warnings for parts of Los Angeles as a powerful atmospheric river slammed the coast, threatening dangerous mud and debris flows across recent wildfire burn scars.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/los-angeles-on-mudslide-alert-as-atmospheric-river-slams-coast-11795040696942.html",
-      "dateLocation": "November 18, 2026 | Livemint"
-    },
-    {
-      "headline": "Trump Administration Unveils National Cybercrime Initiative",
-      "brief": "The Trump administration launched a sweeping federal initiative aimed at dismantling offshore cybercriminal syndicates responsible for a surge in sophisticated financial frauds and cryptocurrency scams targeting American citizens.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/us-news/trump-administration-unveils-project-to-combat-cybercrime-11795038759016.html",
-      "dateLocation": "November 18, 2026 | Livemint"
-    },
-    {
-      "headline": "Hakeem Jeffries Nominated as First Black House Speaker",
-      "brief": "Congressional Democrats nominated Hakeem Jeffries for Speaker of the House, putting him on a historic path to become the first Black American to hold the prominent leadership post ahead of the upcoming legislative term.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/world/hakeem-jeffries-nominated-as-house-speaker-set-to-become-first-black-american-to-hold-the-post-11795021164420.html",
-      "dateLocation": "November 18, 2026 | Livemint"
-    },
-    {
-      "headline": "India Seeks 20% Capital Expenditure Hike for Defense",
-      "brief": "India's Ministry of Defense has formally requested a substantial 20% increase in its upcoming capital expenditure outlay to accelerate domestic military modernization programs and upgrade strategic defense infrastructure.",
+      "headline": "Gold Plunges to 14-Month Low on Hawkish Fed Rhetoric",
+      "brief": "Gold prices fell sharply to a 14-month low as the strengthening U.S. dollar and rising Treasury yields weighed heavily on the precious metal following hawkish commentary from Federal Reserve officials.",
       "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/defence-ministry-seeks-20-hike-in-capex-outlay/articleshow/135970501.cms",
-      "dateLocation": "November 18, 2026 | The Economic Times"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+      "dateLocation": "November 19, 2026 | Reuters"
     },
     {
-      "headline": "Security Forces Eliminate Kashmir's Last Active Local Terrorist",
-      "brief": "In a major counter-terrorism milestone, security forces neutralized Mohammad Lateef Bhat, the last remaining active local militant in Kashmir, following an intensive operation in the Kulgam district.",
+      "headline": "Severe Cyclone Akvan Forces Mass Evacuations in India",
+      "brief": "Nearly 50,000 residents have been evacuated as Severe Cyclonic Storm Akvan tracks northward over the Bay of Bengal, threatening a direct landfall between Andhra Pradesh and Odisha coasts.",
       "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/35-yrs-on-a-landmark-moment-forces-kill-kashmirs-last-active-local-terrorist/articleshow/135971607.cms",
-      "dateLocation": "November 18, 2026 | The Times of India"
+      "sourceUrl": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+      "dateLocation": "November 19, 2026 | The Hindu"
     },
     {
-      "headline": "India Win Toss, Opt to Field Against New Zealand",
-      "brief": "India elected to field first after winning the toss in the opening Test match against New Zealand, capitalizing on favorable pitch conditions that traditionally aid pace bowlers during the initial days of the encounter.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-opening-test-match-day-1-updates/article71717678.ece",
-      "dateLocation": "November 18, 2026 | The Hindu"
+      "headline": "Trump, Xi, and Putin Meet in Historic Trilateral Summit",
+      "brief": "U.S. President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin convened for landmark trilateral discussions on the sidelines of the APEC summit in China, addressing global security and trade.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/videos/watch-trump-xi-and-putin-to-hold-historic-trilateral-talks-in-china-on-apec-sidelines/article71718808.ece",
+      "dateLocation": "November 19, 2026 | The Hindu"
     },
     {
-      "headline": "India's CSR Spending Leaves Critical Gaps in Healthcare",
-      "brief": "A new impact report reveals that corporate social responsibility funding in India largely overlooks chronic non-communicable diseases outside of cancer, exposing severe gaps in national health and water security investments.",
+      "headline": "Microsoft CEO Warns AI Replacing Labor Threatens Democracy",
+      "brief": "Microsoft CEO Satya Nadella cautioned that widespread displacement of human workers by artificial intelligence could destabilize democratic institutions, emphasizing the critical balance required between capital and labor.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-has-a-warning-about-what-happens-when-ai-replaces-human-workers-if-theres-only-capital-and-theres-no-labor-i-dont-know-/articleshow/135977594.cms",
+      "dateLocation": "November 19, 2026 | Times of India"
+    },
+    {
+      "headline": "Governments Issue Urgent Warnings Over Critical Java Flaw",
+      "brief": "Global cybersecurity authorities have issued severe warnings regarding a newly uncovered vulnerability in Java that leaves numerous computer systems and enterprise networks vulnerable to malicious attacks.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRE5uQWVHVHVQV19VTmJrT29QT1lKV0xQQzhUZWp6Wk5aSWZCV3ZKbHNKZ3NBMmlhYzNsT1J6V1AxQjBxR2QzWWk2ODlfaTBEU1JCLXFVWE1adHFQU0M2Rk1fZXhYYzQ5bmczU1lyWHc5WjNFVi1SLXF0NkJSaWlMQUNGdmZfX1ZETWtxZ05UUER6VVpxRDZBaUkzUTZMSGRsWVRacEJkSTUxYkRyeVc2dGJvWUpSNVNPbGc?oc=5",
+      "dateLocation": "November 19, 2026 | Reuters"
+    },
+    {
+      "headline": "India Proposes Legal Quality Mandates for Blood Centres",
+      "brief": "In an effort to tighten medical safety standards, the Indian government is planning to make external quality check participation legally binding under the Drugs Rules for all registered blood centres.",
       "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
-      "dateLocation": "November 18, 2026 | The Hindu"
+      "sourceUrl": "https://www.livemint.com/news/india/blood-centres-external-quality-checks-fail-face-testing-curbs-drugs-rules-1945-11794995236870.html",
+      "dateLocation": "November 19, 2026 | Livemint"
     },
     {
-      "headline": "Milk Prices Rise Across India Despite Winter Flush",
-      "brief": "Milk prices across India have climbed further, placing an added financial strain on household budgets as structural supply constraints continue to affect the dairy sector despite the arrival of the traditional winter flush season.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/food/milk-prices-rise-despite-winter-flush-and-more-pain-may-lie-ahead/articleshow/135953958.cms",
-      "dateLocation": "November 18, 2026 | The Economic Times"
-    },
-    {
-      "headline": "India Leaving Out Mohammed Siraj for First NZ Test",
-      "brief": "The Indian team management left out senior fast bowler Mohammed Siraj, opting instead for a four-man pace attack featuring Jasprit Bumrah and debutants in the opening Test against New Zealand.",
+      "headline": "Sunil Questions Omission of Mohammed Siraj from Playing XI",
+      "brief": "Cricket legend Sunil Gavaskar has publicly questioned the team management's decision to omit pacer Mohammed Siraj, noting his strong track record and consistent performances for the national side.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-leave-out-mohammed-siraj-ravindra-jadeja-pick-four-man-pace-attack-for-first-new-zealand-test/articleshow/135971882.cms",
-      "dateLocation": "November 18, 2026 | The Times of India"
-    },
-    {
-      "headline": "Study Highlights Surge in Non-Communicable Disease Deaths",
-      "brief": "Public health metrics indicate that non-communicable diseases now account for 60% of total deaths in India, up significantly from previous decades, prompting urgent calls for diversified medical funding and localized preventative strategies.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
-      "dateLocation": "November 18, 2026 | The Hindu"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/you-havent-picked-him-sunil-gavaskar-questions-mohammed-sirajs-omission-says-pacer-has-never-let-india-down/articleshow/135978053.cms",
+      "dateLocation": "November 19, 2026 | Times of India"
     }
   ]
 }
