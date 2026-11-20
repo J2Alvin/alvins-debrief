@@ -1,124 +1,110 @@
 {
-  "lastUpdated": "2026-11-19T15:12:28.844Z",
+  "lastUpdated": "2026-11-20T14:51:35.401Z",
   "ticker": [
-    "Saudi Arabia overtakes UAE as India's No. 2 oil supplier",
-    "Trump, Xi, Putin sign historic trilateral peace declaration",
-    "South Korea hits $1 trillion exports on AI chip boom",
-    "COP31 draft climate agreement drops mention of fossil fuels",
-    "PM Modi urges India Inc to prioritize workforce compensation"
+    "Rupee climbs past 93/USD as investors seek Indian stock shelter",
+    "US Senate passes Trump-backed bill making AI data centers pay grid costs",
+    "Core sector output growth surges to 10.9% in October",
+    "India exposes Pakistani Army's resource grab at United Nations",
+    "US religious freedom panel targets India in voter roll revisions"
   ],
   "articles": [
     {
-      "headline": "Saudi Arabia overtakes UAE as India's second-largest oil supplier",
-      "brief": "Saudi Arabia has surpassed the United Arab Emirates to become India's second-largest oil supplier, while Russia retains its leading position in the market amid shifting global energy dynamics and trade routes.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGFFLXpheVdRTVdEZmh5dzNVdWpQR3RJRnJSbjZMMkNscHBaZWlNWTFLT0RpN3RGVU5xbHh1WFJoYTQyVGROQnRDcjZxaW9QaTZKZ2tkWGhDdUpRWnNHNXY5ay1PN3BZcmY2TFcxYnF0OFBtWUUxZzlfblZrZU9tVFZ6aDRaOFhuZjlyX3ctVS1wQ3h0VzFrRUd3eWNvRlJTakkxZjMtOWFsaVJjWDBLVnZ5aFV1QVMxb044M1pYbS0?oc=5",
-      "dateLocation": "November 19, 2026 | Reuters"
-    },
-    {
-      "headline": "South Korea hits $1 trillion in exports driven by AI",
-      "brief": "South Korea has officially become the fourth country globally to achieve $1 trillion in exports, fueled heavily by the ongoing global boom in artificial intelligence and semiconductor chips.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjJyUW83NEllOTVXWDNHUnY0UW85MjF2dzVVQ1NxOVBGaW1EY0trbjRZZU5zZWFLUnZnQ1RGUkhiM3ZmZVA2VUxZNm5UQlpJR2F2OXotX0EzOUJJdHNkZlhCUXVnM2xqaEZ1Zmh6R19sSmUyelZzSVJSSkVTZHBvd2ZUQkNJOFZPaEZ6amhLd1BGWlcxd2M4N0pLa0J5Z28taFE2M293Z1puMWViY3FhZDh6WXd4SjFsNzg0dkZ3?oc=5",
-      "dateLocation": "November 19, 2026 | Reuters"
-    },
-    {
-      "headline": "Lenovo posts 48% revenue jump driven by AI sales",
-      "brief": "Lenovo has reported a massive 48% surge in quarterly revenue, beating analyst estimates, as strong demand for artificial intelligence-related hardware and devices continues to drive growth across its product lines.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakF2dUtyWGhnNzlUeGQ4cWxIb3hGSjFWWU5Qb05STXdtelBYV1ppOE1nX05nbDdvbmk0ekNNYmJnODFHYndqVXRlX2dkWW9ucldzdFBCdTVIcW01WjhaR08tVjFrMHhxZnFCR0taQV9pY2pnMFh2X0RVX2ItZENzcjB2TVJ2RXZBNXdfRDNTOVQ2Z2FFSmM1cGhQVTNad1FneE9PRHNNTUp4ZHpBZVd4Zw?oc=5",
-      "dateLocation": "November 19, 2026 | Reuters"
-    },
-    {
-      "headline": "Trump, Xi, and Putin sign historic trilateral peace declaration",
-      "brief": "Leaders Donald Trump, Xi Jinping, and Vladimir Putin signed a joint declaration toward peace during a high-profile historic trilateral summit held alongside the APEC meetings in China, committing to major geopolitical pledges.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/historic-trilateral-summit-trump-xi-putin-sign-declaration-toward-peace-take-4-big-pledges/articleshow/135989588.cms",
-      "dateLocation": "November 19, 2026 | Times of India"
-    },
-    {
-      "headline": "COP31 draft climate agreement omits any mention of fossil fuels",
-      "brief": "The revised COP31 draft climate deal released in Turkey has sparked intense debate by completely dropping references to fossil fuels, revealing deep divisions among nations balancing energy security against global warming commitments.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/fighting-global-warming-without-naming-its-biggest-driver-cop31-draft-drops-mention-of-fossil-fuels/articleshow/135994132.cms",
-      "dateLocation": "November 19, 2026 | Times of India"
-    },
-    {
-      "headline": "PM Modi criticizes industry leaders over lack of jobs",
-      "brief": "Prime Minister Narendra Modi delivered a blunt message at the FICCI AGM, pulling up industrialists for prioritizing high profit margins and failing to sufficiently expand the workforce or boost employee compensation despite recent tax cuts.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bhookh-itni-hai-pet-bharta-hi-nhi-pm-modi-pulls-up-industrialists-over-lack-of-jobs-low-pay-despite-tax-cuts/articleshow/135992230.cms",
-      "dateLocation": "November 19, 2026 | Times of India"
-    },
-    {
-      "headline": "Amit Shah calls for international cooperation to hunt fugitives",
-      "brief": "Union Home Minister Amit Shah strongly emphasized the need for global collaboration to combat terrorism and organized crime, pushing for the extradition of dangerous fugitives hiding abroad during an anti-terror conference.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bring-them-back-to-end-terror-amit-shah-pushes-to-hunt-down-fugitives-hiding-abroad/articleshow/135995196.cms",
-      "dateLocation": "November 19, 2026 | Times of India"
-    },
-    {
-      "headline": "Gold prices recover from 14-month low amid Fed outlook",
-      "brief": "Gold prices managed to recoup some losses from a 14-month low, though a tighter monetary policy outlook from the US Federal Reserve capped potential upward gains for the precious metal.",
+      "headline": "Rupee climbs past 93 against USD",
+      "brief": "The Indian rupee climbed past 93 per US dollar as investors sought shelter in domestic stocks and shorts unwound. The currency movement comes amid broader global market shifts and robust foreign buying in India's non-AI driven market sectors.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
-      "dateLocation": "November 19, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2pFbUd4enR6VTI3UkVVSllkdl92SkJ3d2hNVkZkQTBlQW9FMnBEMHBmUkRkdkhUUFB2NHV0UHNaYUlKS05JaDJOaEswOXF5N0hlaEo3anZHRHdnSU43cEltdkJfM3lEM1VfSWZLTUwxa3MxM3VRZmlhMkxYRWJjVXRxMGh3TW9uZEJFMG1mXzR0MDZuVXo3ejRMQ1FjSXFZRHMwWHczSURscU56TUVFcDV1dHFMdWgxQ0tn?oc=5",
+      "dateLocation": "2026-11-20 | Reuters"
     },
     {
-      "headline": "EPFO approves systematic withdrawal plan for PF retirees",
-      "brief": "The Employees' Provident Fund Organisation has approved a systematic withdrawal plan to benefit hundreds of thousands of members aged 55 and above with substantial provident fund accumulations.",
+      "headline": "India's AI-free appeal draws record foreign buying",
+      "brief": "India's stock market continues to draw record foreign inflows due to its distinct AI-free appeal, though corporate earnings will ultimately dictate if the trend lasts. Markets rose for the fourth straight week as global tech routs deepened.",
       "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/epfo-approves-swp-for-pf-retirees-reduces-minimum-balance-need-how-it-benefits-you-check-calculations/articleshow/135994334.cms",
-      "dateLocation": "November 19, 2026 | Times of India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU21DUWtpTjhoc0dIZjQzWWxidVJxMTFackxWYktTUTBWc0xqMVRqMHpTTWlVZ05XSjVNZm90bjE5ektHd3l1MDNyeFFCdDkzb0hZMDI3aDNSOWg3QW1GWmhfMGtpRVNTWGhqbzB0dDhHUEhiOGlOU1R1LVFKRnY2R21tU25xUWFmaDFWdkt4b1VIcFdsQjZ2bWZVbE1GczlFeVBheTlrc1RURG9oalpscGs0T1Zka3lEdm10Tjh1M1BnUQ?oc=5",
+      "dateLocation": "2026-11-20 | Reuters"
     },
     {
-      "headline": "South Africa dethrones New Zealand in WTC points table",
-      "brief": "Following a decisive victory against Bangladesh, South Africa has surged to the top of the World Test Championship standings with a 75 points percentage, overtaking both New Zealand and Australia.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/wtc-2025-27-points-table-south-africa-dethrone-new-zealand-to-claim-no-1-spot-where-does-india-stand/articleshow/135994928.cms",
-      "dateLocation": "November 19, 2026 | Times of India"
+      "headline": "US religious freedom panel targets India voter rolls",
+      "brief": "The US Commission on International Religious Freedom has claimed that India is deliberately targeting religious minorities during ongoing voter roll revisions. New Delhi has consistently rejected external commentary on its domestic electoral and administrative processes.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjZydHNTbTktUl9veXVtNGlFZk1iVEQ1SW9jUndaRW9DU1g4d2Joa1JKZnpQdDdnY1dfU1hMQjJZRE82WFpBZlV0d3R3MXNjSUpYcUhaTUFhdFVXTG5WY3hHR3BwR1QyajRycE9LWmxicTR3U2FfZGV3aFBFZDNVcDZBS1pfQlhwNzhjNUhnM0ZoVmlRbUEycWJBZ0ZIZW1HNXlITmRzTjFUZVFhQ1ZEVXNPX2gzblQ3eFJwRg?oc=5",
+      "dateLocation": "2026-11-20 | Reuters"
     },
     {
-      "headline": "Shoaib Akhtar addresses historical ball-tampering allegations",
-      "brief": "Former fast bowler Shoaib Akhtar reacted to recent ball-tampering claims in cricket, asserting that various teams used unorthodox methods in past eras and urging observers to move past historic controversies.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-used-bottle-tops-not-sandpaper-shoaib-akhtar-asks-people-to-stop-making-fuss-over-khawajas-claims/articleshow/135990542.cms",
-      "dateLocation": "November 19, 2026 | Times of India"
-    },
-    {
-      "headline": "Why data interoperability is critical to modern hospital care",
-      "brief": "Experts emphasize that the future of critical hospital care relies heavily on seamless data interoperability, determining how effectively medical information is connected, interpreted, and applied across departments.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/why-data-interoperability-is-critical-to-the-future-of-hospital-care/article71697394.ece",
-      "dateLocation": "November 19, 2026 | The Hindu"
-    },
-    {
-      "headline": "Telangana sanctions thousands of new pensions for critical patients",
-      "brief": "The Telangana government has sanctioned thousands of additional Cheyutha welfare pensions specifically targeted at supporting vulnerable patients suffering from filariasis, AIDS, and ongoing dialysis treatments.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/telangana/telangana-sanctions-11275-more-cheyutha-pensions-for-filariasis-aids-and-dialysis-patients/article71720419.ece",
-      "dateLocation": "November 19, 2026 | The Hindu"
-    },
-    {
-      "headline": "China's proposed tech export curbs threaten solar manufacturing",
-      "brief": "India is actively evaluating the potential impact of draft export restrictions proposed by China on solar manufacturing technologies, as domestic firms strive to meet ambitious renewable capacity targets by 2030.",
+      "headline": "Citi underestimated risky assets by $35 billion",
+      "brief": "Internal sources reveal that banking giant Citi underestimated its risky assets by $35 billion following a series of incorrectly recorded trades. The miscalculation has drawn internal scrutiny regarding risk management protocols and reporting accuracy.",
       "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/mnre-commerce-ministry-industry-concerns-china-export-curbs-solar-technology-11795080620551.html",
-      "dateLocation": "November 19, 2026 | Livemint"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVloeGlhUlExUC1jX2NqaXZkd0owdTFnbnNHSFpDN0lEcjhkeXdSZ0M1ZFg3MkIzMHVaUHE4dko2cFJSWDNXRXlDMElNRTcyVUxMNnZBRFY4cTVYaTVWblZWRWIxWEFlWFF1T1hsNWJPVU4tT0J3LXNtR0VIUmZMYXhCc1ZtWEhVRHdHUERnNkZZX1RVS0pPZ1JfX3ByZURXd2IxcGhucDNBNjZWaTZPcHdCZV83Nmg2bWRybE16QlA2c1k?oc=5",
+      "dateLocation": "2026-11-20 | Reuters"
     },
     {
-      "headline": "Rockstar developers face layoff concerns after GTA VI launch",
-      "brief": "Despite building one of the largest and most expensive video games in history with Grand Theft Auto VI, developers at Rockstar Games are reportedly facing looming uncertainty and fears of post-launch layoffs.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/gta-vi-rockstar-games-developers-built-the-biggest-most-expensive-game-of-all-time-now-they-fear-layoffs/articleshow/135991116.cms",
-      "dateLocation": "November 19, 2026 | The Economic Times"
+      "headline": "US Senate passes bill for AI data centers grid costs",
+      "brief": "The US Senate has passed a landmark energy bill requiring large AI data centers to cover more of their local electricity grid upgrade expenses. Lawmakers hope the legislation will mitigate rising consumer utility costs driven by tech expansion.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/donald-trump-urged-senators-to-back-an-energy-bill-he-said-would-lower-electricity-costs-the-us-senate-has-now-passed-it-62-33-requiring-large-ai-data-centres-to-pay-more-of-their-grid-upgrade-costs/articleshow/136024090.cms",
+      "dateLocation": "2026-11-20 | Times of India"
     },
     {
-      "headline": "India named top global travel destination for 2027",
-      "brief": "Following India being named the top travel destination for 2027, industry leaders have urged central and state governments to urgently establish hassle-free tourist circuits to sustainably handle the anticipated influx of visitors.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/trends/dont-just-celebrate-act-why-anand-mahindra-said-this-as-india-was-named-top-travel-destination-for-2027-11795097148561.html",
-      "dateLocation": "November 19, 2026 | Livemint"
+      "headline": "India exposes Pakistani Army's resource grab at UN",
+      "brief": "India used the United Nations platform to expose the Pakistani Army's exploitation of mineral wealth for personal and institutional gain. New Delhi linked these ambitions directly to internal political turmoil, regional insurgencies, and economic marginalization.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/india-exposes-pakistani-army-s-resource-grab-at-un-from-asim-munir-s-mineral-box-to-political-unrest-what-s-at-stake-11795178901221.html",
+      "dateLocation": "2026-11-20 | LiveMint"
+    },
+    {
+      "headline": "India develops first indigenous H5N1 bird flu vaccine",
+      "brief": "India has launched its first indigenous H5N1 bird flu vaccine, priced affordably at one to two rupees per dose. The government stated the rollout will help curb poultry losses from recurring outbreaks and enhance national disease preparedness.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
+      "dateLocation": "2026-11-20 | LiveMint"
+    },
+    {
+      "headline": "FDA sets up post-market review council for therapies",
+      "brief": "The US Food and Drug Administration has established a new council focused on the post-market review of advanced vaccines and gene therapies. The initiative is intended to boost accountability and regulatory transparency for increasingly complex biological products.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/fda-sets-up-council-for-post-market-review-of-vaccines-gene-therapies/article71723948.ece",
+      "dateLocation": "2026-11-20 | The Hindu"
+    },
+    {
+      "headline": "Canada lists Goldy Brar as most-wanted criminal",
+      "brief": "The National Investigation Agency welcomed Canada naming gangster Satinderjeet Singh, alias Goldy Brar, as a most-wanted criminal following a murder investigation. Canadian authorities have announced a significant bounty to secure his capture.",
+      "category": "world",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-put-him-out-of-circulation-nia-chief-welcomes-canada-naming-goldy-brar-most-wanted-criminal/articleshow/136030092.cms",
+      "dateLocation": "2026-11-20 | Times of India"
+    },
+    {
+      "headline": "PM Modi delivers civilisational dialogue message at SCO",
+      "brief": "Prime Minister Narendra Modi addressed the Shanghai Cooperation Organisation summit, emphasizing dialogue on civilization rather than military conflict. His remarks stressed regional cooperation, economic stability, and shared security challenges.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dialogue-on-civilisation-not-war-pm-modis-message-at-sco-summit-top-quotes/articleshow/136029829.cms",
+      "dateLocation": "2026-11-20 | Times of India"
+    },
+    {
+      "headline": "Core sector output growth jumps to 10.9% in October",
+      "brief": "India's core sector output growth experienced a sharp acceleration, jumping to 10.9% in October. The robust performance was driven by significant gains in key industrial production indices and infrastructure development projects across the country.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/core-sector-output-growth-rises-to-10-9-percent-in-october/articleshow/136025435.cms",
+      "dateLocation": "2026-11-20 | Economic Times"
+    },
+    {
+      "headline": "Magnus Carlsen forfeit controversy divides chess world",
+      "brief": "Grandmaster Magnus Carlsen's decision to forfeit two rapid games against Vladislav Artemiev has sparked fierce debate across the chess community. Top international grandmasters have expressed varied stances, pointing to tournament rule loopholes and calling for reform.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-forfeit-controversy-viswanathan-anand-anish-giri-and-other-top-grandmasters-react/articleshow/136025362.cms",
+      "dateLocation": "2026-11-20 | Times of India"
+    },
+    {
+      "headline": "India boycotts Blind Asia Cup trophy ceremony",
+      "brief": "The Indian cricket team boycotted the trophy presentation ceremony of the Men's Blind Cricket Asia Cup after Pakistan was awarded the title following a rain-abandoned final. The Indian association termed the decision unfair and unilateral.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-boycott-trophy-ceremony-after-pakistan-handed-blind-asia-cup-title-following-washout/articleshow/136029621.cms",
+      "dateLocation": "2026-11-20 | Times of India"
+    },
+    {
+      "headline": "Anthropic gears up for major stock market debut",
+      "brief": "Artificial intelligence startup Anthropic is preparing for its highly anticipated stock market debut, drawing intense interest from global retail and institutional investors. Market analysts have issued warnings regarding high volatility and leveraged ETF options.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/anthropics-stock-market-debut-how-can-indians-buy-anthropic-shares/articleshow/136028600.cms",
+      "dateLocation": "2026-11-20 | Times of India"
     }
   ]
 }
