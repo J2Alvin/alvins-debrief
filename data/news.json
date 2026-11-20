@@ -1,109 +1,95 @@
 {
-  "lastUpdated": "2026-11-20T14:51:35.401Z",
+  "lastUpdated": "2026-11-20T23:39:21.155Z",
   "ticker": [
-    "Rupee climbs past 93/USD as investors seek Indian stock shelter",
-    "US Senate passes Trump-backed bill making AI data centers pay grid costs",
-    "Core sector output growth surges to 10.9% in October",
-    "India exposes Pakistani Army's resource grab at United Nations",
-    "US religious freedom panel targets India in voter roll revisions"
+    "Global markets plunge amid tech stock selloff",
+    "US weighs potential ban on Chinese-made vehicles",
+    "Nvidia faces US SEC investigation over accounting practices",
+    "Bitcoin slides significantly as crypto market corrects",
+    "Trump discusses trade deals and offshore data center taxes"
   ],
   "articles": [
     {
-      "headline": "Rupee climbs past 93 against USD",
-      "brief": "The Indian rupee climbed past 93 per US dollar as investors sought shelter in domestic stocks and shorts unwound. The currency movement comes amid broader global market shifts and robust foreign buying in India's non-AI driven market sectors.",
+      "headline": "Global Markets Hit by Severe Tech and Asset Selloff",
+      "brief": "Global financial markets experienced a snowballing selloff as investors dumped tech stocks and sought refuge in safe-haven assets, with Treasury yields and bullion prices also reacting heavily.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2pFbUd4enR6VTI3UkVVSllkdl92SkJ3d2hNVkZkQTBlQW9FMnBEMHBmUkRkdkhUUFB2NHV0UHNaYUlKS05JaDJOaEswOXF5N0hlaEo3anZHRHdnSU43cEltdkJfM3lEM1VfSWZLTUwxa3MxM3VRZmlhMkxYRWJjVXRxMGh3TW9uZEJFMG1mXzR0MDZuVXo3ejRMQ1FjSXFZRHMwWHczSURscU56TUVFcDV1dHFMdWgxQ0tn?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
       "dateLocation": "2026-11-20 | Reuters"
     },
     {
-      "headline": "India's AI-free appeal draws record foreign buying",
-      "brief": "India's stock market continues to draw record foreign inflows due to its distinct AI-free appeal, though corporate earnings will ultimately dictate if the trend lasts. Markets rose for the fourth straight week as global tech routs deepened.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU21DUWtpTjhoc0dIZjQzWWxidVJxMTFackxWYktTUTBWc0xqMVRqMHpTTWlVZ05XSjVNZm90bjE5ektHd3l1MDNyeFFCdDkzb0hZMDI3aDNSOWg3QW1GWmhfMGtpRVNTWGhqbzB0dDhHUEhiOGlOU1R1LVFKRnY2R21tU25xUWFmaDFWdkt4b1VIcFdsQjZ2bWZVbE1GczlFeVBheTlrc1RURG9oalpscGs0T1Zka3lEdm10Tjh1M1BnUQ?oc=5",
-      "dateLocation": "2026-11-20 | Reuters"
-    },
-    {
-      "headline": "US religious freedom panel targets India voter rolls",
-      "brief": "The US Commission on International Religious Freedom has claimed that India is deliberately targeting religious minorities during ongoing voter roll revisions. New Delhi has consistently rejected external commentary on its domestic electoral and administrative processes.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjZydHNTbTktUl9veXVtNGlFZk1iVEQ1SW9jUndaRW9DU1g4d2Joa1JKZnpQdDdnY1dfU1hMQjJZRE82WFpBZlV0d3R3MXNjSUpYcUhaTUFhdFVXTG5WY3hHR3BwR1QyajRycE9LWmxicTR3U2FfZGV3aFBFZDNVcDZBS1pfQlhwNzhjNUhnM0ZoVmlRbUEycWJBZ0ZIZW1HNXlITmRzTjFUZVFhQ1ZEVXNPX2gzblQ3eFJwRg?oc=5",
-      "dateLocation": "2026-11-20 | Reuters"
-    },
-    {
-      "headline": "Citi underestimated risky assets by $35 billion",
-      "brief": "Internal sources reveal that banking giant Citi underestimated its risky assets by $35 billion following a series of incorrectly recorded trades. The miscalculation has drawn internal scrutiny regarding risk management protocols and reporting accuracy.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVloeGlhUlExUC1jX2NqaXZkd0owdTFnbnNHSFpDN0lEcjhkeXdSZ0M1ZFg3MkIzMHVaUHE4dko2cFJSWDNXRXlDMElNRTcyVUxMNnZBRFY4cTVYaTVWblZWRWIxWEFlWFF1T1hsNWJPVU4tT0J3LXNtR0VIUmZMYXhCc1ZtWEhVRHdHUERnNkZZX1RVS0pPZ1JfX3ByZURXd2IxcGhucDNBNjZWaTZPcHdCZV83Nmg2bWRybE16QlA2c1k?oc=5",
-      "dateLocation": "2026-11-20 | Reuters"
-    },
-    {
-      "headline": "US Senate passes bill for AI data centers grid costs",
-      "brief": "The US Senate has passed a landmark energy bill requiring large AI data centers to cover more of their local electricity grid upgrade expenses. Lawmakers hope the legislation will mitigate rising consumer utility costs driven by tech expansion.",
+      "headline": "Nvidia Under Investigation by SEC Over Accounting Practices",
+      "brief": "The US Securities and Exchange Commission has launched an investigation into Nvidia's financial disclosures and accounting practices, focusing on geographic revenue reporting and overseas links.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/donald-trump-urged-senators-to-back-an-energy-bill-he-said-would-lower-electricity-costs-the-us-senate-has-now-passed-it-62-33-requiring-large-ai-data-centres-to-pay-more-of-their-grid-upgrade-costs/articleshow/136024090.cms",
-      "dateLocation": "2026-11-20 | Times of India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
+      "dateLocation": "2026-11-20 | Reuters"
     },
     {
-      "headline": "India exposes Pakistani Army's resource grab at UN",
-      "brief": "India used the United Nations platform to expose the Pakistani Army's exploitation of mineral wealth for personal and institutional gain. New Delhi linked these ambitions directly to internal political turmoil, regional insurgencies, and economic marginalization.",
+      "headline": "US Considers Total Ban on Chinese Vehicles",
+      "brief": "The United States is reportedly considering a sweeping ban on Chinese-manufactured cars before the end of the year, driven by ongoing geopolitical tensions and national security concerns.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/india-exposes-pakistani-army-s-resource-grab-at-un-from-asim-munir-s-mineral-box-to-political-unrest-what-s-at-stake-11795178901221.html",
-      "dateLocation": "2026-11-20 | LiveMint"
-    },
-    {
-      "headline": "India develops first indigenous H5N1 bird flu vaccine",
-      "brief": "India has launched its first indigenous H5N1 bird flu vaccine, priced affordably at one to two rupees per dose. The government stated the rollout will help curb poultry losses from recurring outbreaks and enhance national disease preparedness.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
-      "dateLocation": "2026-11-20 | LiveMint"
-    },
-    {
-      "headline": "FDA sets up post-market review council for therapies",
-      "brief": "The US Food and Drug Administration has established a new council focused on the post-market review of advanced vaccines and gene therapies. The initiative is intended to boost accountability and regulatory transparency for increasingly complex biological products.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/fda-sets-up-council-for-post-market-review-of-vaccines-gene-therapies/article71723948.ece",
-      "dateLocation": "2026-11-20 | The Hindu"
-    },
-    {
-      "headline": "Canada lists Goldy Brar as most-wanted criminal",
-      "brief": "The National Investigation Agency welcomed Canada naming gangster Satinderjeet Singh, alias Goldy Brar, as a most-wanted criminal following a murder investigation. Canadian authorities have announced a significant bounty to secure his capture.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-put-him-out-of-circulation-nia-chief-welcomes-canada-naming-goldy-brar-most-wanted-criminal/articleshow/136030092.cms",
-      "dateLocation": "2026-11-20 | Times of India"
-    },
-    {
-      "headline": "PM Modi delivers civilisational dialogue message at SCO",
-      "brief": "Prime Minister Narendra Modi addressed the Shanghai Cooperation Organisation summit, emphasizing dialogue on civilization rather than military conflict. His remarks stressed regional cooperation, economic stability, and shared security challenges.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/dialogue-on-civilisation-not-war-pm-modis-message-at-sco-summit-top-quotes/articleshow/136029829.cms",
-      "dateLocation": "2026-11-20 | Times of India"
-    },
-    {
-      "headline": "Core sector output growth jumps to 10.9% in October",
-      "brief": "India's core sector output growth experienced a sharp acceleration, jumping to 10.9% in October. The robust performance was driven by significant gains in key industrial production indices and infrastructure development projects across the country.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/core-sector-output-growth-rises-to-10-9-percent-in-october/articleshow/136025435.cms",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/lame-duck-session-us-mulls-ban-on-chinese-cars-by-end-of-year/articleshow/136037811.cms",
       "dateLocation": "2026-11-20 | Economic Times"
     },
     {
-      "headline": "Magnus Carlsen forfeit controversy divides chess world",
-      "brief": "Grandmaster Magnus Carlsen's decision to forfeit two rapid games against Vladislav Artemiev has sparked fierce debate across the chess community. Top international grandmasters have expressed varied stances, pointing to tournament rule loopholes and calling for reform.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-forfeit-controversy-viswanathan-anand-anish-giri-and-other-top-grandmasters-react/articleshow/136025362.cms",
-      "dateLocation": "2026-11-20 | Times of India"
-    },
-    {
-      "headline": "India boycotts Blind Asia Cup trophy ceremony",
-      "brief": "The Indian cricket team boycotted the trophy presentation ceremony of the Men's Blind Cricket Asia Cup after Pakistan was awarded the title following a rain-abandoned final. The Indian association termed the decision unfair and unilateral.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-boycott-trophy-ceremony-after-pakistan-handed-blind-asia-cup-title-following-washout/articleshow/136029621.cms",
-      "dateLocation": "2026-11-20 | Times of India"
-    },
-    {
-      "headline": "Anthropic gears up for major stock market debut",
-      "brief": "Artificial intelligence startup Anthropic is preparing for its highly anticipated stock market debut, drawing intense interest from global retail and institutional investors. Market analysts have issued warnings regarding high volatility and leveraged ETF options.",
+      "headline": "SpaceX's Cursor Phasing Out Chinese AI Models",
+      "brief": "SpaceX-linked entity Cursor is weighing the removal of Chinese artificial intelligence models from its systems due to rising geopolitical risks and strict technological boundaries.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/anthropics-stock-market-debut-how-can-indians-buy-anthropic-shares/articleshow/136028600.cms",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeWlDTVU0ZkVnYWE3bk1yYkRRUUdLTV9YNFBQam8wYjRheXdjUnRqTFBjOWJPU0k4WmdydmZyU0hvQ0RnckFXSnVEQ2VTQy1YU1hzRDBMY1ktbnVqVUwyZ1ktaVdrSXUzS2hWeVlJanE1QXZwQW5uT0I5YjlDcWhDUS1wN0JOSVpTTU5qTGRzZjRQZEFKMEhVX2gtTlNDTENCWThBNFlqTUt1ZnA1ZjZZWEdSbTctTWR1VWxqSFBKb1d2RWFQd0I2MTlHbzBLakR5NzdwMA?oc=5",
+      "dateLocation": "2026-11-20 | Reuters"
+    },
+    {
+      "headline": "Trump Warns Tech Firms Over Offshore AI Data Centers",
+      "brief": "US President Donald Trump has warned domestic technology corporations that they will face severe taxation if they choose to build critical artificial intelligence data centers overseas.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trump-warns-us-tech-firms-of-tremendous-tax-if-they-build-ai-data-centres-overseas-11795197681638.html",
+      "dateLocation": "2026-11-20 | LiveMint"
+    },
+    {
+      "headline": "India Cyber Agency Warns of Unauthorized Payment Transactions",
+      "brief": "India's national cybersecurity agency has issued an urgent advisory warning citizens and financial institutions regarding an increase in fraudulent and unauthorized digital payment activities.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVBjYmYzYWxqaFJPbzVjTUhKX1RMLW16dnlpT1lLdHJVOTc5VHZMUTMyRXM1bF85bFB3Rkg2d0wxT29aUmpYUHZoOHpuamhBc2JTdXptTl9QTHN6Q1g5Y1VVcDBwc3BDYmFMdjFldV9DbU9XRFN1LWh4TU5EQjJ5VW8zVmJMNFVuWlJIUExfOExIWEpPMmltVUdZd3l6QWpMQlFZSUZvSmpLbklq?oc=5",
+      "dateLocation": "2026-11-20 | Reuters"
+    },
+    {
+      "headline": "Supreme Court Suggests Law to Curb Inter-Relative Marriages",
+      "brief": "The Supreme Court of India has formally suggested that the federal government consider introducing legislative measures to curb marriages between close relatives based on health concerns.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/consider-law-to-curb-marriage-between-relatives-sc-to-government/articleshow/136039466.cms",
+      "dateLocation": "2026-11-20 | Times of India"
+    },
+    {
+      "headline": "India and Japan Deepen Defense Ties with Joint Drills",
+      "brief": "During high-level diplomatic visits, India and Japan agreed to deepen strategic defense cooperation, which will include Japanese forces conducting live-fire military drills at Indian firing ranges.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/world/japan-to-conduct-military-drills-at-indian-firing-ranges-what-jaishankar-s-tokyo-visit-means-for-india-s-defence-agenda-11795199150603.html",
+      "dateLocation": "2026-11-20 | LiveMint"
+    },
+    {
+      "headline": "Congress Proposes Four-Point Delimitation Formula",
+      "brief": "The Indian National Congress has proposed a comprehensive four-point formula regarding constituency delimitation, advocating for a long-term freeze and seat distribution preservation.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece",
+      "dateLocation": "2026-11-20 | The Hindu"
+    },
+    {
+      "headline": "Nations Criticize Fossil Fuel Sway at UN Climate Deal",
+      "brief": "Delegates from Europe, Central America, and the Pacific openly criticized ongoing UN climate negotiations, accusing the oil and gas sector of exercising undue influence over the final text.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/nations-blast-fossil-fuel-sector-s-sway-on-un-climate-deal-11795207329082.html",
+      "dateLocation": "2026-11-20 | LiveMint"
+    },
+    {
+      "headline": "India Boycotts Asia Cup Presentation After Dispute",
+      "brief": "The Indian delegation boycotted the official post-tournament presentation ceremony after Pakistan was declared the Asia Cup champion, citing rule disputes and technical committee disagreements.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/deserved-justice-why-india-boycotted-presentation-ceremony-after-pakistan-won-asia-cup-explained/articleshow/136039556.cms",
+      "dateLocation": "2026-11-20 | Times of India"
+    },
+    {
+      "headline": "DGCA Issues Strict Notice to SpiceJet Over Violations",
+      "brief": "India's aviation regulator, the DGCA, has issued a formal warning notice to SpiceJet airlines following a series of repeated safety and operational violations.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/dgca-notice-to-spicejet-for-repeated-violations/articleshow/136041788.cms",
       "dateLocation": "2026-11-20 | Times of India"
     }
   ]
