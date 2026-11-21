@@ -1,117 +1,110 @@
 {
-  "lastUpdated": "2026-11-21T14:10:10.739Z",
+  "lastUpdated": "2026-11-21T22:44:57.394Z",
   "ticker": [
-    "Meta offices in India hit by opposition protests",
-    "Bitcoin falls to its lowest level in two years",
-    "Putin ready to accept NATO-like shield for Ukraine",
-    "Oracle says OpenAI infrastructure deal fully funded",
-    "Pentagon releases new files on decades of UFO mysteries"
+    "CrowdStrike in talks to acquire Zscaler",
+    "Mexico captures top drug lord 'El Chapo Isidro'",
+    "European shares post worst week as AI trade unravels",
+    "Oracle says OpenAI infrastructure deal is fully funded",
+    "UK maritime agency reports two tanker incidents near Oman"
   ],
   "articles": [
     {
-      "headline": "Meta offices in India hit by opposition protests",
-      "brief": "The Indian Youth Congress staged protests outside Meta offices in Gurugram, Hyderabad, and Mumbai following the removal of several member accounts on Instagram, demanding transparency regarding content restrictions.",
+      "headline": "CrowdStrike in acquisition talks with Zscaler",
+      "brief": "Cybersecurity firm CrowdStrike is reportedly in discussions to acquire Zscaler, a move that could significantly reshape the enterprise security landscape. Sources indicate talks are ongoing, though no final agreement has been reached yet.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmdhX3h3bjctYVFyRXFLZHQ5Zm9aTmQ3cS15R01pWHFxdnRySDBDa1JJbFBHVEZmMm9scHV0VW1xOVlHT19FWlpWaWcxN25aZ3NUQjR6SkFRU2RwQ3Y0YVg5X3A3bTZDT0FXV0JBeEF0SHRjUUM5UWg0cm80YVNyT2JlWHVYR0Iwc2pDZGZKcFNyaG1EWmEtenViMnBDajltODNOUUg2QWo4Yk5sdTllelNGUEdiNGxPWjNKYkthdkg?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelZkLVhGN0lQVWs3SVJrWU00RjF6LV9tUEUyaDlySnhaQ29EVW1mUWFBajFfMmpTckxRUHY3aUxDTHRYV3kxSm1zbDNUdTQ3UnFuRVVULVk1bXlOaDNRc3hrM3k4dDQ2OVBtTHRNR1dlSzQweG1Ya2RjTVNGNk0xLVlKTzBHQjRtTHhhQVBUeW5ZMm1YZ3lUWUNfbGUtNk0?oc=5",
       "dateLocation": "2026-11-21 | Reuters"
     },
     {
       "headline": "Oracle confirms OpenAI infrastructure deal is fully funded",
-      "brief": "Oracle announced that its massive infrastructure agreement with OpenAI is completely secured following the successful conclusion of a final capital raise, solidifying their long-term technological partnership.",
+      "brief": "Oracle announced that its massive infrastructure partnership with OpenAI is fully secured following a final capital raise, ensuring the deployment of necessary computing power for advanced artificial intelligence research.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
       "dateLocation": "2026-11-21 | Reuters"
     },
     {
-      "headline": "Bitcoin hits lowest valuation in two years",
-      "brief": "Cryptocurrency markets experienced significant downturns as Bitcoin's price plunged to its lowest trading level in two years, triggering widespread liquidations across global exchanges.",
+      "headline": "European shares tumble in worst week over unraveling AI trade",
+      "brief": "European stock markets recorded their worst weekly performance in over a year as investor enthusiasm for the artificial intelligence trade began to unravel, dragging down major indexes across the continent.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTRUN3RabW5hOWVFMWhrajEweXFyWWRURWthSmRXYlVrTF9jcGJyRGFoQ0xyZzlpeXNBWkJqTU9UaDAySmluOU5FZkd5eTZ2R0pZT1dIODdaQktHX1BrVGlhVUZjVjhUb20zZnYyY19yTWNCdVppTmJTQmREaUktRXhJXzdkMGdCT0YtYlplSGxOR2NVb2xrRHdyWW44QlBHV0R3dk1kOA?oc=5",
       "dateLocation": "2026-11-21 | Reuters"
     },
     {
-      "headline": "Global markets suffer snowballing selloff amid economic fears",
-      "brief": "Investors rushed to offload risk assets as a severe selloff swept through international stock markets, driven by escalating concerns over monetary policy trajectories and growth forecasts.",
+      "headline": "Beijing to bar young red-chip firms from overseas listings",
+      "brief": "China is reportedly preparing to restrict young offshore incorporated 'red-chip' enterprises from listing their shares outside of mainland China, tightening regulatory oversight over domestic capital outflow and tech firms.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
       "dateLocation": "2026-11-21 | Reuters"
     },
     {
-      "headline": "UK maritime agency reports tanker incidents near Oman",
-      "brief": "The United Kingdom Maritime Trade Operations reported two separate tanker incidents close to the coast of Oman, while Iranian state sources claimed a vessel struck a mine east of the Strait of Hormuz.",
+      "headline": "India Congress warns of further protests against Meta",
+      "brief": "India's opposition Congress party has criticized local police actions and warned of expanded protests against Meta following recent clashes, escalating political tensions over tech platform policies and public demonstrations.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmdhX3h3bjctYVFyRXFLZHQ5Zm9aTmQ3cS15R01pWHFxdnRySDBDa1JJbFBHVEZmMm9scHV0VW1xOVlHT19FWlpWaWcxN25aZ3NUQjR6SkFRU2RwQ3Y0YVg5X3A3bTZDT0FXV0JBeEF0SHRjUUM5UWg0cm80YVNyT2JlWHVYR0Iwc2pDZGZKcFNyaG1EWmEtenViMnBDajltODNOUUg2QWo4Yk5sdTllelNGUEdiNGxPWjNKYkthdkg?oc=5",
+      "dateLocation": "2026-11-21 | Reuters"
+    },
+    {
+      "headline": "Nepal Prime Minister arrives in Delhi for bilateral talks",
+      "brief": "Nepal's Prime Minister has arrived in New Delhi for his first official foreign bilateral visit, signaling a critical shift in diplomatic relations and addressing key regional cooperation issues between the two nations.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/nepal-pm-balendra-shah-to-reach-delhi-on-sunday-for-his-first-foreign-bilateral-trip-whats-on-agenda/articleshow/136057927.cms",
+      "dateLocation": "2026-11-21 | Times of India"
+    },
+    {
+      "headline": "India wheat cultivation set for major multi-year decline",
+      "brief": "Indian farmers are increasingly switching to alternative crops, pushing the country's upcoming wheat cultivation area toward its steepest drop in 26 years as weather patterns and market dynamics influence agricultural choices.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2o1UU9tRU9zcmFpc1RtTjRCS3k5X1d3YWFfWFh5SnMxNDRJS0RjOXVLU2VfdUp5cGhUb2RRQnJ6RjlYc0Q5U3FJZjdlYzZ5bGJzeW9IdFZVaTJyNjFqT3IwSGc4SlZSYmJkcmZMMFBsUTZWd0lnR25qUlA1TGZnc0U4OVl2ZVFhNUJGY1JfdU1xbWdZNlVNMmhPYkt3cmdONm1rYm5yWUxIR3ZwWmZ5a01wVGQ1VXpGYmVKMjZ3?oc=5",
+      "dateLocation": "2026-11-21 | Reuters"
+    },
+    {
+      "headline": "Maharashtra FDA cancels numerous food and eatery licenses",
+      "brief": "In a stringent statewide crackdown led by official Tukaram Mundhe, the Maharashtra FDA has cancelled numerous licenses of major food delivery operations and eateries while seizing unauthorized stock and penalizing misleading promotions.",
+      "category": "business",
+      "sourceUrl": "https://www.livemint.com/news/india/zepto-blink-commerce-pizza-hut-among-38-cancelled-licences-of-eateries-by-tukaram-mundhes-maha-fda-11795277058197.html",
+      "dateLocation": "2026-11-21 | Livemint"
+    },
+    {
+      "headline": "Mexico captures top drug cartel leader 'El Chapo Isidro'",
+      "brief": "Mexican authorities successfully captured high-profile drug lord 'El Chapo Isidro,' marking a significant milestone in ongoing law enforcement operations that subsequently triggered localized security incidents and violence.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+      "dateLocation": "2026-11-21 | Reuters"
+    },
+    {
+      "headline": "Tanker incidents reported near Oman amid regional maritime alerts",
+      "brief": "The UK maritime trade operations agency reported two separate tanker incidents close to Oman, while Iranian state reports indicated a vessel struck a mine east of the Strait of Hormuz, heightening naval security concerns.",
       "category": "world",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWE4czlabDhxX0p1R0pxTHh1TVdxWDVDWG1PeTFucUVvb0FIODBPUU5CcHNyekU3OU1QM3VuN3FjMmxCTm1uWXJUUnRmVWJYUDFkbFJHT080OUNzYkw5OW1hSGxxUUtKVFNLblFyZldZRmZ1RUhscnBaa1FoVkdpQ1Rocndtc25iWS1fY0ctTW05b1dOQTJoZ3VxWDhZZ1h0RjlPc3htR3FQQTBQbjYzQ29QOA?oc=5",
       "dateLocation": "2026-11-21 | Reuters"
     },
     {
-      "headline": "Putin signals openness to security guarantees for Ukraine",
-      "brief": "Russian leadership has shown potential readiness to explore NATO-like security guarantees for Ukraine under specific conditions, potentially clearing a path toward a sustainable ceasefire agreement.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/putin-ready-to-accept-nato-like-shield-for-ukraine-but-with-a-catch/articleshow/136053382.cms",
+      "headline": "Government considers review of PG medical seat blocking",
+      "brief": "With over 10,000 postgraduate medical seats caught in a blocked category, government regulators are reportedly considering an urgent review of the current float and counseling systems to ensure fair allocation for candidates.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/over-10k-postgraduate-medical-seats-in-blocked-category-govt-may-review-float-system/articleshow/136063107.cms",
       "dateLocation": "2026-11-21 | Times of India"
     },
     {
-      "headline": "PM Modi inaugurates major infrastructure projects in Bihar",
-      "brief": "Prime Minister Narendra Modi inaugurated various development works worth over thirty thousand crores in Bihar, emphasizing the region's accelerated infrastructure and economic growth trajectory.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/pm-modi-inaugurates-nitish-setu-other-projects-worth-rs-34470-crore-in-bihar/articleshow/136049666.cms",
-      "dateLocation": "2026-11-21 | Economic Times"
-    },
-    {
-      "headline": "Karnataka legislature winter session to prioritize regional growth",
-      "brief": "The upcoming winter session of the Karnataka legislature in Belagavi will focus heavily on regional development initiatives and pressing socio-economic issues concerning North Karnataka.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/belagavi-winter-session-to-focus-on-development-and-north-karnataka-issues-presiding-officers-stress-smooth-conduct-of-house-proceedings/article71728169.ece",
+      "headline": "Tamil Nadu establishes statewide online registry for rare blood",
+      "brief": "To streamline emergency healthcare responses, the Tamil Nadu government has initiated a comprehensive statewide online registry specifically tracking voluntary donors with rare blood groups to connect them swiftly with patients.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/news/cities/chennai/tn-to-set-up-statewide-online-registry-of-voluntary-donors-with-rare-blood-groups/article71728378.ece",
       "dateLocation": "2026-11-21 | The Hindu"
     },
     {
-      "headline": "India's wealthiest philanthropists increase donations significantly",
-      "brief": "India's top philanthropic contributors scaled up their charitable donations to over eleven thousand crore rupees in the latest fiscal year, reflecting a growing culture of structured giving.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/indias-richest-donate-11-554-crore-the-most-generous-philanthropist-gives-away-7-1-crore-every-day-check-who-11795253608707.html",
-      "dateLocation": "2026-11-21 | Livemint"
-    },
-    {
       "headline": "IndusInd Bank terminates ex-CEO and pursues pay recovery",
-      "brief": "IndusInd Bank officially terminated the employment status of its former chief executive officer and initiated legal avenues to claw back previously disbursed executive compensation.",
-      "category": "business",
+      "brief": "India's IndusInd Bank has officially ended the employment of its former CEO Kathpalia and initiated legal and administrative steps to recover previously disbursed compensation following internal governance reviews.",
+      "category": "general",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZi1LVTUydU8xYWRNR3E3TGNiWWo4UDBoQ3p2TXE2NVJkVWdwNmFfUEdpTHo0dTJXcmt0OEdQeE1Kd0tFbV9SMVhvMl9ZSEltNkJpZmRKRmZULVFRQUFreU5ybmdOS2dKdmlCV1V4djdxeDZEV0tXalV4Y2tfdUtROGlXZHQwSFBiWWNENWhZTTVnNU40dVR4TTlvZndDN0dyZ3lmTmd3M3BVRTNMSEZLRGZNUnFtT2JPMDJnMw?oc=5",
       "dateLocation": "2026-11-21 | Reuters"
     },
     {
-      "headline": "Pentagon declassifies decades of historical UFO investigative files",
-      "brief": "The Pentagon released an extensive archive of historical documentation covering decades of unidentified aerial phenomena investigations, offering detailed accounts of military and civilian sightings.",
+      "headline": "Russian cargo ship targeted by drone strike in Baltic Sea",
+      "brief": "A Russian cargo vessel caught fire in the Baltic Sea after sustaining a direct drone strike, prompting an immediate evacuation of the crew as emergency maritime services responded to the burning ship.",
       "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/from-secret-vaults-to-ufo-encounters-pentagon-releases-43-files-on-decades-old-mysteries/articleshow/136055388.cms",
-      "dateLocation": "2026-11-21 | Times of India"
-    },
-    {
-      "headline": "Van Gogh painting achieves record auction price in New York",
-      "brief": "Vincent van Gogh's 1890 masterwork sold for a staggering sum at a Sotheby's auction in New York, setting a historic sales benchmark for the renowned Dutch post-impressionist artist.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/world/who-is-the-buyer-william-acquavella-vincent-van-gogh-s-1890-painting-sets-new-auction-record-sells-for-190-4-million-11795197282283.html",
-      "dateLocation": "2026-11-21 | Livemint"
-    },
-    {
-      "headline": "Health authorities manage cardiac emergencies at Sabarimala pilgrimage",
-      "brief": "Medical teams deployed across the Sabarimala pilgrimage route successfully treated numerous cardiac arrest victims, providing critical emergency care to thousands of visiting devotees.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/health-dept-saves-11-heart-attack-victims-at-sabarimala-13029-pilgrims-seek-treatment-in-five-days/article71728324.ece",
-      "dateLocation": "2026-11-21 | The Hindu"
-    },
-    {
-      "headline": "School students attend disaster preparedness workshop in Kerala",
-      "brief": "Hundreds of students from districts affected by recent climate anomalies participated in specialized academic workshops focused on disaster resilience, risk assessment, and environmental safety.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/school-students-from-wayanad-kozhikode-attend-iim-k-workshop-on-disaster-preparedness/article71728398.ece",
-      "dateLocation": "2026-11-21 | The Hindu"
-    },
-    {
-      "headline": "Lehmann reflects on emotional fallout from cricket scandal",
-      "brief": "Former national cricket coach Darren Lehmann spoke candidly about the intense psychological toll and professional challenges he faced following the infamous 2018 ball-tampering incident.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/we-all-made-mistakes-darren-lehmann-stands-by-sandpapergate-version-reveals-dark-place-after-2018-scandal/articleshow/136053515.cms",
-      "dateLocation": "2026-11-21 | Times of India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+      "dateLocation": "2026-11-21 | Reuters"
     }
   ]
 }
