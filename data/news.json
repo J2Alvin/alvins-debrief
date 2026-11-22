@@ -1,116 +1,116 @@
 {
-  "lastUpdated": "2026-11-22T13:59:43.482Z",
+  "lastUpdated": "2026-11-22T23:11:40.544Z",
   "ticker": [
-    "Russian cargo ship on fire off Finland following attack",
-    "At least 11 dead after toxic alcohol outbreak in India",
-    "India's wheat cultivation area sees largest drop in 26 years",
-    "Global climate talks push for final text after fossil fuel rifts",
-    "Over 80 million Americans face major Thanksgiving travel storm alerts"
+    "COP31 Climate Talks Collapse",
+    "Trump Threatens New Iran Strikes",
+    "Nvidia Chip Sales Under US Scrutiny",
+    "San Francisco Braces For Major Floods",
+    "Tata Sons Weighs Public Listing Decision"
   ],
   "articles": [
     {
-      "headline": "Russian Cargo Ship Stays Aflame Off Coast of Finland",
-      "brief": "A Russian cargo ship remains on fire in international waters off the coast of Finland following an undisclosed attack. Emergency crews are monitoring the situation closely as environmental and safety assessments continue.",
+      "headline": "COP31 Climate Talks Collapse Without Agreement",
+      "brief": "Global climate negotiations at COP31 collapsed after participating countries failed to reach a consensus regarding fossil fuel phase-outs and crucial climate finance promises, marking the first breakdown of its kind since 2009.",
       "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
       "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "Deadly Adulterated Alcohol Outbreak Kills 11 in Manipur",
-      "brief": "At least 11 people have died and several others fell severely ill after consuming spurious, adulterated alcohol in India's northeastern state of Manipur. Local authorities have launched a sweeping investigation into illicit bootlegging rings operating in the region.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmtoMXFDRXVaZThycjJERTZDcEp5X0ktVzgyTnBxRF80d3REZnZIZXZ3ZkhoUFZ2ZTlTbXFZdnNYSFFWRExwTl9uNkJXLWh6czVWNjF4MGt3Q01ObVQ1aWJFdm5oN1ctS3RVYzluWVpRby1fdEJvd1BMUXpMNC1iVjF2Q005SGotZVB5ZFRxdmtOYWVMTGlBYi04TnktYTNHd1cxT2lrakllNk01OGMwYTFWSHhCaTQ?oc=5",
-      "dateLocation": "November 2026 | Reuters"
-    },
-    {
-      "headline": "India's Wheat Planting Sees Historic Drop as Farmers Switch",
-      "brief": "India's wheat cultivation area is tracking toward its steepest decline in 26 years as farmers increasingly pivot to alternative, more lucrative crops. The shift could impact long-term domestic supply dynamics and agricultural export policies.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2o1UU9tRU9zcmFpc1RtTjRCS3k5X1d3YWFfWFh5SnMxNDRJS0RjOXVLU2VfdUp5cGhUb2RRQnJ6RjlYc0Q5U3FJZjdlYzZ5bGJzeW9IdFZVaTJyNjFqT3IwSGc4SlZSYmJkcmZMMFBsUTZWd0lnR25qUlA1TGZnc0U4OVl2ZVFhNUJGY1JfdU1xbWdZNlVNMmhPYkt3cmdONm1rYm5yWUxIR3ZwWmZ5a01wVGQ1VXpGYmVKMjZ3?oc=5",
-      "dateLocation": "November 2026 | Reuters"
-    },
-    {
-      "headline": "Climate Talks Advance After Intense Overtime Rifts on Finance",
-      "brief": "Negotiators at the annual United Nations climate summit pushed forward a compromise text after grueling overtime sessions characterized by deep divisions over fossil fuel phase-outs and green transition financing.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/climate-talks-push-for-pact-after-rifts-on-fossil-fuels-finance-11795332862463.html",
-      "dateLocation": "November 2026 | Livemint"
-    },
-    {
-      "headline": "Beijing Set to Bar Young Red-Chip Firms From Foreign Listings",
-      "brief": "Chinese regulators are reportedly preparing new rules to block young red-chip companies from pursuing initial public offerings outside mainland China, aiming to keep domestic capital and technology firms close to home.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRFSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
-      "dateLocation": "November 2026 | Reuters"
-    },
-    {
-      "headline": "Ex-Google Engineer Warns AI Poses Severe Extinction Risk",
-      "brief": "Nate Soares, president of the Machine Intelligence Research Institute and a former Google engineer, warned that rapid advancements in artificial intelligence could present existential threats to humanity within the decade if safety protocols fail.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ex-google-engineer-says-he-believes-right-now-it-looks-like-humans-dont-have-more-than-10-years-on-the-clock/articleshow/136073448.cms",
+      "headline": "Trump Threatens Fresh Military Strikes On Iran",
+      "brief": "US President Donald Trump issued a warning threatening fresh military strikes against Iran after the New Year if ongoing negotiations fail, accusing Tehran of stalling diplomatic talks and increasing regional aggression.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/trump-threatens-fresh-strikes-on-iran-after-new-year-if-talks-accepts/articleshow/136083179.cms",
       "dateLocation": "November 2026 | Times of India"
     },
     {
-      "headline": "India's Congress Warns of Escalating Protests Against Meta",
-      "brief": "India's opposition Congress party has criticized local authorities and warned of continued demonstrations against Meta following recent violent clashes between police forces and protesters outside corporate offices.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmdhX3h3bjctYVFyRXFLZHQ5Zm9aTmQ3cS15R01pWHFxdnRySDBDa1JJbFBHVEZmMm9scHV0VW1xOVlHT19FWlpWaWcxN25aZ3NUQjR6SkFRU2RwQ3Y0YVg5X3A3bTZDT0FXV0JBeEF0SHRjUUM5UWg0cm80YVNyT2JlWHVYR0Iwc2pDZGZKcFNyaG1EWmEtenViMnBDajltODNOUUg2QWo4Yk5sdTllelNGUEdiNGxPWjNKYkthdkg?oc=5",
+      "headline": "US Seeks Answers On Nvidia Chip Sales To China",
+      "brief": "US officials are pressing for clarifications regarding Nvidia's ongoing semiconductor sales to Chinese entities, as trade authorities intensify scrutiny over technology export controls and clandestine supply chains.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
       "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "German Union IG Metall Extends Walkouts Across Shipyards",
-      "brief": "Industrial action in Germany intensified as the IG Metall union expanded strike mandates to cover major automotive and shipyard manufacturing facilities amid stalled wage negotiations and persistent inflation pressures.",
+      "headline": "Tata Sons Gears Up For Major Decision",
+      "brief": "The board of Tata Sons is preparing to decide whether to go public or remain private, navigating internal divisions alongside regulatory nudges from the Reserve Bank of India regarding compulsory listing timelines.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFBhS1Fub3hkTjloT0lrX2FKMEl1aG5pTDFrRzJTZnNtSGpRUmwtdm9tc0RwQnFOajR6WVBoZXE1Q3ZTVmtjMXB1cWdELVk0ckhFdjBiLUZzVmR2UWgzajdRSi03NXFjaThXX0J4U002R0ZpajI4QXRJRUVYdG82ejM2N2IyVzFNUkQ4YkRGbnV4eEZjdVpuM2l6bUt6NUhveXNoRnNPWF9Fa0dDMzExYTBDbURKYkROVGdmQmR6WHBDalFrOHRaWg?oc=5",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/go-public-or-stay-private-tata-sons-gears-up-for-decision-this-week/articleshow/136083498.cms",
+      "dateLocation": "November 2026 | Times of India"
+    },
+    {
+      "headline": "Carlos Alcaraz Wins Historic ATP Finals Match",
+      "brief": "Tennis star Carlos Alcaraz scripted history by securing a major victory at the ATP Finals against Alexander Zverev, becoming just the fourth player ever to achieve a rare milestone at a remarkably young age.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/carlos-alcaraz-scripts-history-becomes-just-fourth-tennis-player-ever-to-achieve-rare-feat-with-atp-finals-win-over-zverev/articleshow/136083784.cms",
+      "dateLocation": "November 2026 | Times of India"
+    },
+    {
+      "headline": "Bisleri Faces Court Action Over Water Quality",
+      "brief": "India's food safety regulator has initiated court prosecution against Bisleri International after packaged drinking water samples allegedly failed safety tests, revealing excess levels of specific chemical contaminants.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVhZanItQzQtSUpybTFaaC1hd3JSdEhmSmtRRm9lNmUydjNfcktzWGhJaWd6UUxoYTY5aEZCdDF0OUZ5MU5iXzUwQkxZS2xrYTlVa3RTdjFzZUlTNzQzNTdtdUQ2VEdiSmJJYjdjeHNOckRRMnFmeVJFWW1fbmJQM2FYV0xZTDdOeUN5WmVqWlp4bVBWSzYtblktOXFtRXBqQzUzNFZhclowSWU0d0JGRVlFYVNVZHA1MUF0ZkR2V29JaDlkRWI0ZEY1c1dxXy1nN002dDJR?oc=5",
       "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "Maruti Suzuki Hikes Car Prices Due to Cost Pressures",
-      "brief": "Automotive giant Maruti Suzuki announced a fresh round of price increases across select models, citing sustained increases in input costs and supply chain constraints affecting manufacturing margins.",
+      "headline": "San Francisco Braces For Historic Flood Threat",
+      "brief": "San Francisco is preparing for potential historic coastal flooding as unusually high tides and a powerful approaching storm threaten low-lying neighborhoods and roads during the peak Thanksgiving travel season.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/us-news/san-francisco-faces-historic-flood-threat-as-major-storm-nears-11795381749295.html",
+      "dateLocation": "November 2026 | Livemint"
+    },
+    {
+      "headline": "Crypto Platforms Ordered To Review Cross-Border Deals",
+      "brief": "Regulatory authorities have instructed cryptocurrency platforms to thoroughly review their financial products, compliance frameworks, and cross-border transactions to mitigate potential systemic financial risks.",
       "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/auto/auto-news/maruti-suzuki-raises-prices-of-select-cars-as-cost-pressures-persist/articleshow/136069228.cms",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/crypto-platforms-told-to-review-products-cross-border-deals/articleshow/136082351.cms",
       "dateLocation": "November 2026 | Economic Times"
     },
     {
-      "headline": "Anthropic Runs Unusual IPO Process, Chafing Wall Street",
-      "brief": "AI firm Anthropic structured an unconventional public offering process reminiscent of SpaceX, sparking friction among traditional investment bankers who sought more conventional underwriting controls and allocation terms.",
+      "headline": "Anthropic Runs Unusual IPO Process Like SpaceX",
+      "brief": "AI startup Anthropic adopted an unconventional initial public offering process reminiscent of SpaceX, sparking discussions and frustration among institutional Wall Street bankers managing the equity debut.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
       "dateLocation": "November 2026 | Reuters"
     },
     {
-      "headline": "Severe Winter Storm Threatens US Thanksgiving Travel Plans",
-      "brief": "Over 80 million American travelers face major holiday disruptions as a potent weather system carrying heavy rain, high winds, and potential tropical storm conditions targets Florida, New York, and East Coast transit hubs.",
+      "headline": "Pernod Ricard Weighs Major India IPO Plans",
+      "brief": "Beverage giant Pernod Ricard is actively considering an initial public offering for its Indian operations as the local market rapidly closes in on the United States in terms of global sales volume.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/liquor/pernod-ricard-weighs-india-ipo-as-market-closes-in-on-us-in-global-sales/articleshow/136081688.cms",
+      "dateLocation": "November 2026 | Economic Times"
+    },
+    {
+      "headline": "German Army Tests AI Targeting Drones In Lithuania",
+      "brief": "The German military has commenced tactical field testing of advanced kamikaze drones equipped with artificial intelligence targeting tools at defense installations deployed across Lithuania.",
       "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/thanksgiving-weather-alert-81-million-americans-face-travel-disruptions-as-potential-tropical-storm-heavy-rain-flooding-and-60-mph-winds-threaten-florida-new-york-and-major-east-coast-cities/articleshow/136075337.cms",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZNb1cwZkRsWmFUN0Nkc0dfTGt4SUVDaXNCSHphV2VrQTBXYnQzTWN2Z0tkOEdiUnRyRnJqX2NST1pmYXJrYVFUQ204QllMNFRtelc0cEtUZy1MWlFMeXRfemNPS0pGQU1veHZyMU1XTWdJNE5pcWstLXUtZ0d4QXRMVzAzZFJKNzlteEZlWUVRbHpIeTJyanFWSlJVMlY4R0NOODNIN1RSLWJDdnQyM25KcDNNbDRvMHZkT1Nfenl6SUl2YUoxalBLT1RqQQ?oc=5",
+      "dateLocation": "November 2026 | Reuters"
+    },
+    {
+      "headline": "Union Budget Expected To Slash Manufacturing Duties",
+      "brief": "The upcoming government budget may introduce import duty cuts ranging between one and three percent across numerous manufacturing inputs to strengthen domestic production competitiveness.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/budget-2027-may-see-1-3-duty-cut-on-115-manufacturing-inputs/articleshow/136081921.cms",
       "dateLocation": "November 2026 | Economic Times"
     },
     {
-      "headline": "Rahul Gandhi Launches Scathing Attack on BJP and RSS",
-      "brief": "Senior opposition leader Rahul Gandhi issued sharp criticisms against the ruling BJP and RSS ideology, accusing leadership of fostering deep socio-economic inequalities and exclusionary cultural policies across India.",
-      "category": "politics",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-calls-bjp-rss-uncouth-greedy-casteist-male-chauvinists/articleshow/136072873.cms",
-      "dateLocation": "November 2026 | Economic Times"
-    },
-    {
-      "headline": "Jasprit Bumrah Matches Historic 2007 Test Bowling Feat",
-      "brief": "Indian fast bowler Jasprit Bumrah matched a notable record last achieved by Zaheer Khan in 2007 by dismissing New Zealand's Tom Latham for ducks in both innings during a dominant Test match performance.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/jasprit-bumrah-achieves-rare-feat-last-accomplished-by-zaheer-khan-in-2007/articleshow/136071826.cms",
-      "dateLocation": "November 2026 | Times of India"
-    },
-    {
-      "headline": "Harshit Rana Sparked Confrontation in India A-Pakistan Match",
-      "brief": "Pacer Harshit Rana delivered an aggressive spell for India A against Pakistan A, keying an intense contest characterized by fiery bowling exchanges and crucial breakthrough dismissals during the tournament.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-harshit-rana-turns-up-the-heat-against-pakistan-gives-shamyl-hussain-an-aggressive-send-off/articleshow/136073376.cms",
-      "dateLocation": "November 2026 | Times of India"
-    },
-    {
-      "headline": "Kerala Teen Suffers Kidney Complications From Face Cream",
-      "brief": "A teenager in Kerala experienced severe kidney complications after applying an unregulated cosmetic face cream recommended through social media platform video tutorials, prompting fresh public health warnings.",
+      "headline": "Adulterated Alcohol Claims Eleven Lives In Manipur",
+      "brief": "At least eleven people have died following the consumption of toxic adulterated alcohol in India's northeastern state of Manipur, prompting immediate local administrative investigations and police raids.",
       "category": "health",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/kerala-teen-tries-face-cream-after-watching-instagram-reels-but-instead-of-removing-pimples-it-gives-her-serious-kidney-condition/articleshow/136072481.cms",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmtoMXFDRXVaZThycjJERTZDcEp5X0ktVzgyTnBxRF80d3REZnZIZXZ3ZkhoUFZ2ZTlTbXFZdnNYSFFWRExwTl9uNkJXLWh6czVWNjF4MGt3Q01ObVQ1aWJFdm5oN1ctS3RVYzluWVpRby1fdEJvd1BMUXpMNC1iVjF2Q005SGotZVB5ZFRxdmtOYWVMTGlBYi04TnktYTNHd1cxT2lrakllNk01OGMwYTFWSHhCaTQ?oc=5",
+      "dateLocation": "November 2026 | Reuters"
+    },
+    {
+      "headline": "Israel Coalition Talks End Without Formal Agreement",
+      "brief": "Political negotiations between Benjamin Netanyahu's party and opposition factions regarding the formation of a broader governing coalition have concluded without reaching a final cooperative deal.",
+      "category": "politics",
+      "sourceUrl": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-government/article71732431.ece",
+      "dateLocation": "November 2026 | The Hindu"
+    },
+    {
+      "headline": "Microsoft Automation Glitch Delays US Flights",
+      "brief": "A major technical outage linked to automated aviation systems disrupted holiday schedules, causing more than a thousand flight delays across major US airports including Atlanta and New York.",
+      "category": "general",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/delta-flights-alert-after-microsoft-outage-and-faa-ground-stops-1000-flights-delayed-at-atlanta-newark-new-york-and-other-us-airports-as-new-automation-glitch-disrupts-thanksgiving-travel/articleshow/136080047.cms",
       "dateLocation": "November 2026 | Economic Times"
     }
   ]
