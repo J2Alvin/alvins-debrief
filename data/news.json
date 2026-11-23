@@ -1,117 +1,124 @@
 {
-  "lastUpdated": "2026-11-22T23:11:40.544Z",
+  "lastUpdated": "2026-11-23T05:39:11.038Z",
   "ticker": [
-    "COP31 Climate Talks Collapse",
-    "Trump Threatens New Iran Strikes",
-    "Nvidia Chip Sales Under US Scrutiny",
-    "San Francisco Braces For Major Floods",
-    "Tata Sons Weighs Public Listing Decision"
+    "COP31 Climate Summit Collapses Without Final Deal",
+    "Delhi Air Quality Plunges Into Hazardous Category",
+    "U.S. Panel Urges India Dialogue on Dalai Lama Succession",
+    "Tata Steel Acquires 26.6% Stake in APL Apollo",
+    "NHS Launches World's Largest AI Breast Cancer Trial"
   ],
   "articles": [
     {
-      "headline": "COP31 Climate Talks Collapse Without Agreement",
-      "brief": "Global climate negotiations at COP31 collapsed after participating countries failed to reach a consensus regarding fossil fuel phase-outs and crucial climate finance promises, marking the first breakdown of its kind since 2009.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
-      "dateLocation": "November 2026 | Reuters"
-    },
-    {
-      "headline": "Trump Threatens Fresh Military Strikes On Iran",
-      "brief": "US President Donald Trump issued a warning threatening fresh military strikes against Iran after the New Year if ongoing negotiations fail, accusing Tehran of stalling diplomatic talks and increasing regional aggression.",
+      "headline": "U.S. Panel Urges India Dialogue on Dalai Lama Succession",
+      "brief": "A U.S. Congressional panel recommends establishing a senior-level channel with India for succession contingency planning regarding the 14th Dalai Lama, warning that China may turn the process into an international legitimacy contest.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/trump-threatens-fresh-strikes-on-iran-after-new-year-if-talks-accepts/articleshow/136083179.cms",
-      "dateLocation": "November 2026 | Times of India"
+      "sourceUrl": "https://www.thehindu.com/news/international/us-panel-urges-india-dialogue-for-dalai-lama-succession-warns-of-china-legitimacy-contest/article71733447.ece",
+      "dateLocation": "November 23, 2026 | Washington/New Delhi"
     },
     {
-      "headline": "US Seeks Answers On Nvidia Chip Sales To China",
-      "brief": "US officials are pressing for clarifications regarding Nvidia's ongoing semiconductor sales to Chinese entities, as trade authorities intensify scrutiny over technology export controls and clandestine supply chains.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
-      "dateLocation": "November 2026 | Reuters"
+      "headline": "Indonesia Factory Blaze Leaves Dozens Dead and Missing",
+      "brief": "Authorities investigate a devastating fire at a confectionery factory in Banten province, Indonesia, which has left 24 people dead while rescue teams search for dozens still missing.",
+      "category": "world",
+      "sourceUrl": "https://www.thehindu.com/news/international/indonesia-banten-factory-fire-death-toll-people-missing/article71733448.ece",
+      "dateLocation": "November 23, 2026 | Jakarta, Indonesia"
     },
     {
-      "headline": "Tata Sons Gears Up For Major Decision",
-      "brief": "The board of Tata Sons is preparing to decide whether to go public or remain private, navigating internal divisions alongside regulatory nudges from the Reserve Bank of India regarding compulsory listing timelines.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/go-public-or-stay-private-tata-sons-gears-up-for-decision-this-week/articleshow/136083498.cms",
-      "dateLocation": "November 2026 | Times of India"
-    },
-    {
-      "headline": "Carlos Alcaraz Wins Historic ATP Finals Match",
-      "brief": "Tennis star Carlos Alcaraz scripted history by securing a major victory at the ATP Finals against Alexander Zverev, becoming just the fourth player ever to achieve a rare milestone at a remarkably young age.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/carlos-alcaraz-scripts-history-becomes-just-fourth-tennis-player-ever-to-achieve-rare-feat-with-atp-finals-win-over-zverev/articleshow/136083784.cms",
-      "dateLocation": "November 2026 | Times of India"
-    },
-    {
-      "headline": "Bisleri Faces Court Action Over Water Quality",
-      "brief": "India's food safety regulator has initiated court prosecution against Bisleri International after packaged drinking water samples allegedly failed safety tests, revealing excess levels of specific chemical contaminants.",
+      "headline": "FSSAI Sanctions Prosecution Against Bisleri Over Water Tests",
+      "brief": "The FSSAI has sanctioned prosecution against Bisleri International after water samples were declared unsafe due to elevated bromate levels and detected polycyclic aromatic hydrocarbons, though the company strongly disputes the findings.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVhZanItQzQtSUpybTFaaC1hd3JSdEhmSmtRRm9lNmUydjNfcktzWGhJaWd6UUxoYTY5aEZCdDF0OUZ5MU5iXzUwQkxZS2xrYTlVa3RTdjFzZUlTNzQzNTdtdUQ2VEdiSmJJYjdjeHNOckRRMnFmeVJFWW1fbmJQM2FYV0xZTDdOeUN5WmVqWlp4bVBWSzYtblktOXFtRXBqQzUzNFZhclowSWU0d0JGRVlFYVNVZHA1MUF0ZkR2V29JaDlkRWI0ZEY1c1dxXy1nN002dDJR?oc=5",
-      "dateLocation": "November 2026 | Reuters"
+      "sourceUrl": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
+      "dateLocation": "November 23, 2026 | New Delhi, India"
     },
     {
-      "headline": "San Francisco Braces For Historic Flood Threat",
-      "brief": "San Francisco is preparing for potential historic coastal flooding as unusually high tides and a powerful approaching storm threaten low-lying neighborhoods and roads during the peak Thanksgiving travel season.",
+      "headline": "Delhi Air Quality Enters Severe and Hazardous Category",
+      "brief": "Delhi's Air Quality Index surged to hazardous levels, reaching 456 on Monday morning. Officials noted that pollution levels are soaring twenty times above WHO limits, prompting strict public health advisories.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/delhi-aqi-today-november-23-air-quality-turns-hazardous-at-456-pollution-20-times-above-who-limit-11795402252647.html",
+      "dateLocation": "November 23, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "Longest UN Climate Talks COP31 Collapse Without Deal",
+      "brief": "The COP31 climate summit collapsed after hitting a historic deadlock, with nations failing to reach a consensus on a final text as deep geopolitical divisions and disagreements over fossil fuels paralyzed negotiations.",
+      "category": "world",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "dateLocation": "November 23, 2026 | Global / Climate Summit"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang Scrutinized Over Intelligence Links",
+      "brief": "Reports reveal U.S. authorities and lawmakers are scrutinizing former Nvidia CEO Jensen Huang over a past relationship tied to intelligence concerns regarding advanced chip export controls to China.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/new-report-further-confirms-alice-huang-as-chinese-spy-during-her-affair-with-jensen-huang/articleshow/136089149.cms",
+      "dateLocation": "November 23, 2026 | Washington, D.C."
+    },
+    {
+      "headline": "L&T Secures Major Deal to Deploy NVIDIA GPUs in Chennai",
+      "brief": "L&T has bagged a substantial deal ranging between Rs 2,500 and 5,000 crore to deploy advanced NVIDIA B300 GPUs at its newly developing data center facility in Chennai.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/lt-secures-rs-2500-5000-crore-deal-to-deploy-nvidia-b300-gpus-at-its-chennai-data-centre/articleshow/136089129.cms",
+      "dateLocation": "November 23, 2026 | Mumbai, India"
+    },
+    {
+      "headline": "Tata Steel to Acquire 26.6% Stake in APL Apollo",
+      "brief": "Tata Steel has announced a major strategic acquisition of a 26.6% promoter stake in APL Apollo for a massive transaction value of Rs 15,510 crore.",
+      "category": "finance",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/tata-steel-to-acquire-26-6-promoter-stake-in-apl-apollo-for-rs-15510-crore/articleshow/136089987.cms",
+      "dateLocation": "November 23, 2026 | Mumbai, India"
+    },
+    {
+      "headline": "India and New Zealand Draw Wellington Test After Resistance",
+      "brief": "The first Test between India and New Zealand ended in a tense draw at the Basin Reserve as Daryl Mitchell and Glenn Phillips put up a stubborn blockathon to deny India victory.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealands-blockathon-frustrates-india-as-wellington-test-ends-in-a-draw/articleshow/136089728.cms",
+      "dateLocation": "November 23, 2026 | Wellington, New Zealand"
+    },
+    {
+      "headline": "NHS Launches World's Largest AI Breast Cancer Trial",
+      "brief": "The UK's NHS has initiated the world's largest clinical trial utilizing artificial intelligence for breast cancer screenings, aiming to drastically improve early detection rates and alleviate health service pressures.",
+      "category": "health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+      "dateLocation": "November 23, 2026 | London, United Kingdom"
+    },
+    {
+      "headline": "India's First Bullet Train Project Energizes Surat-Bilimora Span",
+      "brief": "The Mumbai-Ahmedabad high-speed rail corridor achieved a major engineering milestone after successfully energizing the 50-kilometer elevated section running between Surat and Bilimora.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/mumbai-ahmedabad-bullet-train-corridor-indias-high-speed-train-project-achieves-power-milestone-as-50-km-surat-bilimora-section-is-energised-surat-vapi-operations-deadline-now-stands-at-late-2027/articleshow/136078531.cms",
+      "dateLocation": "November 23, 2026 | Gujarat, India"
+    },
+    {
+      "headline": "Bangladesh Urges India to Initiate Ganga Treaty Renewal Talks",
+      "brief": "Ahead of the 1996 bilateral water-sharing agreement's expiry on December 12, Bangladesh has officially urged India to initiate negotiations for the renewal of the Ganga Water Treaty.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/dhaka-seeks-ganga-treaty-renewal-drops-demand-for-fresh-deal/articleshow/136086308.cms",
+      "dateLocation": "November 23, 2026 | Dhaka, Bangladesh"
+    },
+    {
+      "headline": "ITAT Rules No Tax on Dividend Earnings From REITs and InvITs",
+      "brief": "In a landmark relief for retail investors, the Income Tax Appellate Tribunal ruled that dividends earned up to Rs 50 lakh from REITs and InvITs are exempt from additional taxation.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/wealth/tax/earned-rs-49-64-lakh-dividend-from-reits-and-invits-paid-no-income-tax-received-income-tax-notice-investor-fights-back-and-wins-in-itat-ahmedabad/articleshow/136089045.cms",
+      "dateLocation": "November 23, 2026 | Ahmedabad, India"
+    },
+    {
+      "headline": "Soviet Era Dominance Examined in World Chess Championship",
+      "brief": "As the global chess community gathers for the World Chess Championship, historians look back at the legendary Soviet systematic rule that shaped the game across sixty-four squares and beyond.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/world-chess-championship-the-soviet-rule-over-the-64-squares-and-beyond/article71732162.ece",
+      "dateLocation": "November 23, 2026 | New Delhi, India"
+    },
+    {
+      "headline": "San Francisco Issues Severe Warning for Historic Coastal Flood",
+      "brief": "San Francisco is bracing for potentially historic coastal flooding as an approaching major storm and unusually high tides threaten to submerge low-lying neighborhoods during the Thanksgiving holiday travel period.",
       "category": "general",
       "sourceUrl": "https://www.livemint.com/news/us-news/san-francisco-faces-historic-flood-threat-as-major-storm-nears-11795381749295.html",
-      "dateLocation": "November 2026 | Livemint"
+      "dateLocation": "November 23, 2026 | San Francisco, United States"
     },
     {
-      "headline": "Crypto Platforms Ordered To Review Cross-Border Deals",
-      "brief": "Regulatory authorities have instructed cryptocurrency platforms to thoroughly review their financial products, compliance frameworks, and cross-border transactions to mitigate potential systemic financial risks.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/crypto-platforms-told-to-review-products-cross-border-deals/articleshow/136082351.cms",
-      "dateLocation": "November 2026 | Economic Times"
-    },
-    {
-      "headline": "Anthropic Runs Unusual IPO Process Like SpaceX",
-      "brief": "AI startup Anthropic adopted an unconventional initial public offering process reminiscent of SpaceX, sparking discussions and frustration among institutional Wall Street bankers managing the equity debut.",
+      "headline": "AI-Driven Biotech Careers Surge Amid Cross-Industry Applications",
+      "brief": "Biotechnology is rapidly emerging as a premier career choice for modern graduates, with cross-disciplinary applications spanning pharmaceuticals, agriculture, and computational health technologies.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
-      "dateLocation": "November 2026 | Reuters"
-    },
-    {
-      "headline": "Pernod Ricard Weighs Major India IPO Plans",
-      "brief": "Beverage giant Pernod Ricard is actively considering an initial public offering for its Indian operations as the local market rapidly closes in on the United States in terms of global sales volume.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/cons-products/liquor/pernod-ricard-weighs-india-ipo-as-market-closes-in-on-us-in-global-sales/articleshow/136081688.cms",
-      "dateLocation": "November 2026 | Economic Times"
-    },
-    {
-      "headline": "German Army Tests AI Targeting Drones In Lithuania",
-      "brief": "The German military has commenced tactical field testing of advanced kamikaze drones equipped with artificial intelligence targeting tools at defense installations deployed across Lithuania.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZNb1cwZkRsWmFUN0Nkc0dfTGt4SUVDaXNCSHphV2VrQTBXYnQzTWN2Z0tkOEdiUnRyRnJqX2NST1pmYXJrYVFUQ204QllMNFRtelc0cEtUZy1MWlFMeXRfemNPS0pGQU1veHZyMU1XTWdJNE5pcWstLXUtZ0d4QXRMVzAzZFJKNzlteEZlWUVRbHpIeTJyanFWSlJVMlY4R0NOODNIN1RSLWJDdnQyM25KcDNNbDRvMHZkT1Nfenl6SUl2YUoxalBLT1RqQQ?oc=5",
-      "dateLocation": "November 2026 | Reuters"
-    },
-    {
-      "headline": "Union Budget Expected To Slash Manufacturing Duties",
-      "brief": "The upcoming government budget may introduce import duty cuts ranging between one and three percent across numerous manufacturing inputs to strengthen domestic production competitiveness.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/budget-2027-may-see-1-3-duty-cut-on-115-manufacturing-inputs/articleshow/136081921.cms",
-      "dateLocation": "November 2026 | Economic Times"
-    },
-    {
-      "headline": "Adulterated Alcohol Claims Eleven Lives In Manipur",
-      "brief": "At least eleven people have died following the consumption of toxic adulterated alcohol in India's northeastern state of Manipur, prompting immediate local administrative investigations and police raids.",
-      "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmtoMXFDRXVaZThycjJERTZDcEp5X0ktVzgyTnBxRF80d3REZnZIZXZ3ZkhoUFZ2ZTlTbXFZdnNYSFFWRExwTl9uNkJXLWh6czVWNjF4MGt3Q01ObVQ1aWJFdm5oN1ctS3RVYzluWVpRby1fdEJvd1BMUXpMNC1iVjF2Q005SGotZVB5ZFRxdmtOYWVMTGlBYi04TnktYTNHd1cxT2lrakllNk01OGMwYTFWSHhCaTQ?oc=5",
-      "dateLocation": "November 2026 | Reuters"
-    },
-    {
-      "headline": "Israel Coalition Talks End Without Formal Agreement",
-      "brief": "Political negotiations between Benjamin Netanyahu's party and opposition factions regarding the formation of a broader governing coalition have concluded without reaching a final cooperative deal.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-government/article71732431.ece",
-      "dateLocation": "November 2026 | The Hindu"
-    },
-    {
-      "headline": "Microsoft Automation Glitch Delays US Flights",
-      "brief": "A major technical outage linked to automated aviation systems disrupted holiday schedules, causing more than a thousand flight delays across major US airports including Atlanta and New York.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/delta-flights-alert-after-microsoft-outage-and-faa-ground-stops-1000-flights-delayed-at-atlanta-newark-new-york-and-other-us-airports-as-new-automation-glitch-disrupts-thanksgiving-travel/articleshow/136080047.cms",
-      "dateLocation": "November 2026 | Economic Times"
+      "sourceUrl": "https://www.thehindu.com/education/why-biotechnology-is-emerging-as-a-promising-career-choice/article71708401.ece",
+      "dateLocation": "November 23, 2026 | Bengaluru, India"
     }
   ]
 }
