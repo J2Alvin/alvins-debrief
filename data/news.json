@@ -1,124 +1,110 @@
 {
-  "lastUpdated": "2026-11-23T05:39:11.038Z",
+  "lastUpdated": "2026-11-24T03:46:41.630Z",
   "ticker": [
-    "COP31 Climate Summit Collapses Without Final Deal",
-    "Delhi Air Quality Plunges Into Hazardous Category",
-    "U.S. Panel Urges India Dialogue on Dalai Lama Succession",
-    "Tata Steel Acquires 26.6% Stake in APL Apollo",
-    "NHS Launches World's Largest AI Breast Cancer Trial"
+    "Jensen Huang returns to Nvidia as AI stocks rally",
+    "5.3 magnitude earthquake strikes Nepal, tremors hit India",
+    "India announces $1.62B aid package for flood-hit Nepal",
+    "NATO deploys early-warning aircraft to Poland",
+    "Tajikistan exits ICC amid growing diplomatic pressures"
   ],
   "articles": [
     {
-      "headline": "U.S. Panel Urges India Dialogue on Dalai Lama Succession",
-      "brief": "A U.S. Congressional panel recommends establishing a senior-level channel with India for succession contingency planning regarding the 14th Dalai Lama, warning that China may turn the process into an international legitimacy contest.",
-      "category": "politics",
-      "sourceUrl": "https://www.thehindu.com/news/international/us-panel-urges-india-dialogue-for-dalai-lama-succession-warns-of-china-legitimacy-contest/article71733447.ece",
-      "dateLocation": "November 23, 2026 | Washington/New Delhi"
-    },
-    {
-      "headline": "Indonesia Factory Blaze Leaves Dozens Dead and Missing",
-      "brief": "Authorities investigate a devastating fire at a confectionery factory in Banten province, Indonesia, which has left 24 people dead while rescue teams search for dozens still missing.",
-      "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/indonesia-banten-factory-fire-death-toll-people-missing/article71733448.ece",
-      "dateLocation": "November 23, 2026 | Jakarta, Indonesia"
-    },
-    {
-      "headline": "FSSAI Sanctions Prosecution Against Bisleri Over Water Tests",
-      "brief": "The FSSAI has sanctioned prosecution against Bisleri International after water samples were declared unsafe due to elevated bromate levels and detected polycyclic aromatic hydrocarbons, though the company strongly disputes the findings.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
-      "dateLocation": "November 23, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Delhi Air Quality Enters Severe and Hazardous Category",
-      "brief": "Delhi's Air Quality Index surged to hazardous levels, reaching 456 on Monday morning. Officials noted that pollution levels are soaring twenty times above WHO limits, prompting strict public health advisories.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/india/delhi-aqi-today-november-23-air-quality-turns-hazardous-at-456-pollution-20-times-above-who-limit-11795402252647.html",
-      "dateLocation": "November 23, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "Longest UN Climate Talks COP31 Collapse Without Deal",
-      "brief": "The COP31 climate summit collapsed after hitting a historic deadlock, with nations failing to reach a consensus on a final text as deep geopolitical divisions and disagreements over fossil fuels paralyzed negotiations.",
-      "category": "world",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "dateLocation": "November 23, 2026 | Global / Climate Summit"
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang Scrutinized Over Intelligence Links",
-      "brief": "Reports reveal U.S. authorities and lawmakers are scrutinizing former Nvidia CEO Jensen Huang over a past relationship tied to intelligence concerns regarding advanced chip export controls to China.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/new-report-further-confirms-alice-huang-as-chinese-spy-during-her-affair-with-jensen-huang/articleshow/136089149.cms",
-      "dateLocation": "November 23, 2026 | Washington, D.C."
-    },
-    {
-      "headline": "L&T Secures Major Deal to Deploy NVIDIA GPUs in Chennai",
-      "brief": "L&T has bagged a substantial deal ranging between Rs 2,500 and 5,000 crore to deploy advanced NVIDIA B300 GPUs at its newly developing data center facility in Chennai.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/lt-secures-rs-2500-5000-crore-deal-to-deploy-nvidia-b300-gpus-at-its-chennai-data-centre/articleshow/136089129.cms",
-      "dateLocation": "November 23, 2026 | Mumbai, India"
-    },
-    {
-      "headline": "Tata Steel to Acquire 26.6% Stake in APL Apollo",
-      "brief": "Tata Steel has announced a major strategic acquisition of a 26.6% promoter stake in APL Apollo for a massive transaction value of Rs 15,510 crore.",
+      "headline": "Asian Stocks Rally as Jensen Huang Returns to Nvidia",
+      "brief": "Asian markets experienced a significant boost as Jensen Huang returned to helm Nvidia, reviving the broader artificial intelligence trade and inspiring strong investor confidence across regional stock exchanges.",
       "category": "finance",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/tata-steel-to-acquire-26-6-promoter-stake-in-apl-apollo-for-rs-15510-crore/articleshow/136089987.cms",
-      "dateLocation": "November 23, 2026 | Mumbai, India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
+      "dateLocation": "2026-11-24 | Reuters"
     },
     {
-      "headline": "India and New Zealand Draw Wellington Test After Resistance",
-      "brief": "The first Test between India and New Zealand ended in a tense draw at the Basin Reserve as Daryl Mitchell and Glenn Phillips put up a stubborn blockathon to deny India victory.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealands-blockathon-frustrates-india-as-wellington-test-ends-in-a-draw/articleshow/136089728.cms",
-      "dateLocation": "November 23, 2026 | Wellington, New Zealand"
+      "headline": "India Announces $1.62 Billion Package for Nepal",
+      "brief": "India has committed a major $1.62 billion financial and infrastructural package to bolster ties with flood-hit Nepal, targeting trade, rail links, hydropower projects, and comprehensive regional development.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWpDakZzTzdkdDFwdmNHcHlTc0Q0SDBxWEN3Uk5ZcmZaZXJzdzV3RXNtZkUzZzk1RlJKVFdkNkp5aVI2cVNaeVBBMFRBcXZ5S00xVVRvN3JuNXJUcXpvaVdrTnZPRmVhTUhuNHNEdDZtQmF4bFEyRVB4NG93c19Ub3hsQnJZNUJURGZjcndld1ZTVGViQnFDaGFzeExYaGVxZkE0SXdR?oc=5",
+      "dateLocation": "2026-11-24 | Reuters"
     },
     {
-      "headline": "NHS Launches World's Largest AI Breast Cancer Trial",
-      "brief": "The UK's NHS has initiated the world's largest clinical trial utilizing artificial intelligence for breast cancer screenings, aiming to drastically improve early detection rates and alleviate health service pressures.",
-      "category": "health",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
-      "dateLocation": "November 23, 2026 | London, United Kingdom"
-    },
-    {
-      "headline": "India's First Bullet Train Project Energizes Surat-Bilimora Span",
-      "brief": "The Mumbai-Ahmedabad high-speed rail corridor achieved a major engineering milestone after successfully energizing the 50-kilometer elevated section running between Surat and Bilimora.",
-      "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/mumbai-ahmedabad-bullet-train-corridor-indias-high-speed-train-project-achieves-power-milestone-as-50-km-surat-bilimora-section-is-energised-surat-vapi-operations-deadline-now-stands-at-late-2027/articleshow/136078531.cms",
-      "dateLocation": "November 23, 2026 | Gujarat, India"
-    },
-    {
-      "headline": "Bangladesh Urges India to Initiate Ganga Treaty Renewal Talks",
-      "brief": "Ahead of the 1996 bilateral water-sharing agreement's expiry on December 12, Bangladesh has officially urged India to initiate negotiations for the renewal of the Ganga Water Treaty.",
+      "headline": "NATO Deploys Early-Warning Aircraft to Poland",
+      "brief": "Following a serious missile incident near the border, NATO announced the deployment of specialized early-warning system aircraft to Poland to enhance airspace surveillance and regional defense readiness.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/dhaka-seeks-ganga-treaty-renewal-drops-demand-for-fresh-deal/articleshow/136086308.cms",
-      "dateLocation": "November 23, 2026 | Dhaka, Bangladesh"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEhFQnBrZnZEa0dZclBpTkZMV3BBNS1tN3NjeGhINDZKcllFTERwWnR6NlpzM0Q0WTZkbGM3SXpVWGZ2bGFFaW4xV2M4T3BIUE1VUkxMX19wa0RwM0JaTDBEM3l4R1ROZlVwSjE1LWVUYnp6SU40WjMyeFlFZjlJYjV0ZE9LVTZkR0pIblp0cXdzeE5fLTNhbkR3QVFfa3pDU2M4blFEMlI4dm5XUTRDUExwTUpyLXJxU0ZiRjBZcFhQWVBFQ294SllhMld3UQ?oc=5",
+      "dateLocation": "2026-11-24 | Reuters"
     },
     {
-      "headline": "ITAT Rules No Tax on Dividend Earnings From REITs and InvITs",
-      "brief": "In a landmark relief for retail investors, the Income Tax Appellate Tribunal ruled that dividends earned up to Rs 50 lakh from REITs and InvITs are exempt from additional taxation.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/wealth/tax/earned-rs-49-64-lakh-dividend-from-reits-and-invits-paid-no-income-tax-received-income-tax-notice-investor-fights-back-and-wins-in-itat-ahmedabad/articleshow/136089045.cms",
-      "dateLocation": "November 23, 2026 | Ahmedabad, India"
+      "headline": "Tajikistan Withdraws from ICC Following US Diplomatic Push",
+      "brief": "Tajikistan has officially become the fourth nation to withdraw from the International Criminal Court, following an intensive diplomatic initiative led by the United States.",
+      "category": "world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXBGX0NyVFZrd0hBMEctVUxNOUJxTmRmaDZiRHA1c3V1VFNxTkNZdTExd080Qk1yOVEyYkpneTZIQUUzcGdsbkxpdV8zUWdYaHFaS09LaG9iaFZ4OEc0RFkyWGJvTW1LWG9OeFRCTk5YY3NvTUdYeF81SDdrbkh1NGZhM0pFazdvbDZGMG9QRnU3WmV0eDlJZ0hETFNQVm92ZHp3dEN3dWVmeF9sa1N3MExEdEpNUVhPZEEzbmJNb3h1RGJh?oc=5",
+      "dateLocation": "2026-11-24 | Reuters"
     },
     {
-      "headline": "Soviet Era Dominance Examined in World Chess Championship",
-      "brief": "As the global chess community gathers for the World Chess Championship, historians look back at the legendary Soviet systematic rule that shaped the game across sixty-four squares and beyond.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/world-chess-championship-the-soviet-rule-over-the-64-squares-and-beyond/article71732162.ece",
-      "dateLocation": "November 23, 2026 | New Delhi, India"
-    },
-    {
-      "headline": "San Francisco Issues Severe Warning for Historic Coastal Flood",
-      "brief": "San Francisco is bracing for potentially historic coastal flooding as an approaching major storm and unusually high tides threaten to submerge low-lying neighborhoods during the Thanksgiving holiday travel period.",
-      "category": "general",
-      "sourceUrl": "https://www.livemint.com/news/us-news/san-francisco-faces-historic-flood-threat-as-major-storm-nears-11795381749295.html",
-      "dateLocation": "November 23, 2026 | San Francisco, United States"
-    },
-    {
-      "headline": "AI-Driven Biotech Careers Surge Amid Cross-Industry Applications",
-      "brief": "Biotechnology is rapidly emerging as a premier career choice for modern graduates, with cross-disciplinary applications spanning pharmaceuticals, agriculture, and computational health technologies.",
+      "headline": "Anthropic Launches Claude Ship for Developers",
+      "brief": "AI firm Anthropic has rolled out a new developer tool named Claude Ship, designed to streamline coding processes and help engineering teams ship software products faster.",
       "category": "technology",
-      "sourceUrl": "https://www.thehindu.com/education/why-biotechnology-is-emerging-as-a-promising-career-choice/article71708401.ece",
-      "dateLocation": "November 23, 2026 | Bengaluru, India"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5",
+      "dateLocation": "2026-11-24 | Reuters"
+    },
+    {
+      "headline": "Earthquake of Magnitude 5.3 Strikes Nepal",
+      "brief": "A 5.3 magnitude earthquake jolted Nepal's Koshi province near the Chinese border, triggering distinct tremors across parts of North Bengal, Sikkim, and neighboring regions.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/international/earthquake-strikes-nepals-koshi-province-close-to-china-border/article71737092.ece",
+      "dateLocation": "2026-11-24 | The Hindu"
+    },
+    {
+      "headline": "Man Arrested After Stabbing Nine Police in Delhi",
+      "brief": "A 30-year-old individual stabbed nine police personnel during twin knife attacks in the vicinity of Delhi's Jama Masjid before being shot and apprehended by law enforcement.",
+      "category": "general",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/man-stabs-9-delhi-policemen-in-twin-knife-attacks-at-jama-masjid-shot-eight-times/article71735372.ece",
+      "dateLocation": "2026-11-24 | The Hindu"
+    },
+    {
+      "headline": "China Mega Dam Project Near Arunachal Raises Concerns",
+      "brief": "Recent satellite data reveals significant construction progress on China's massive 60 GW Medog hydropower project near the border, sparking downstream environmental concerns in India.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/chinas-mega-dam-takes-shape-near-arunachal-satellite-data/articleshow/136111992.cms",
+      "dateLocation": "2026-11-24 | Times of India"
+    },
+    {
+      "headline": "Ball-Tampering Allegations Surface From 2018 Australia Test",
+      "brief": "New historical reports indicate that Australian players discussed using mints for ball-tampering during a 2018 Test against Pakistan before team leadership intervened to stop it.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/whos-got-the-mints-fresh-allegations-of-ball-tampering-during-2018-pakistan-test-put-justin-langer-tim-paine-in-spotlight/articleshow/136117645.cms",
+      "dateLocation": "2026-11-24 | Times of India"
+    },
+    {
+      "headline": "China to Launch Pakistani Astronaut on Shenzhou-24",
+      "brief": "In a milestone international space partnership, China announced plans to send a Pakistani astronaut aboard the upcoming Shenzhou-24 mission to its space station.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/china-to-launch-shenzhou-24-with-pakistani-astronaut-first-foreigner-on-space-station/articleshow/136117969.cms",
+      "dateLocation": "2026-11-24 | Economic Times"
+    },
+    {
+      "headline": "Banks Roll Out Relief Measures for Agri Loan Stress",
+      "brief": "Facing deficient monsoon conditions and agricultural stress, lenders across multiple states are rolling out relief measures and loan recasts to protect a ₹12 trillion farm book.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/lenders-ease-recovery-offer-loan-recasts-to-shield-rs-12-trillion-agri-book-11795424843565.html",
+      "dateLocation": "2026-11-24 | Livemint"
+    },
+    {
+      "headline": "IMD Issues Heavy Rain Alerts for Southern India",
+      "brief": "The India Meteorological Department has issued heavy rainfall alerts for coastal areas of Tamil Nadu and Kerala through November 27, while temperatures begin dropping across North India.",
+      "category": "health",
+      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-update-heavy-rain-alert-for-tamil-nadu-kerala-till-nov-27-mercury-set-to-dip-across-north-india-11795485586022.html",
+      "dateLocation": "2026-11-24 | Livemint"
+    },
+    {
+      "headline": "New Haven Agrees to $30 Million Wrongful Conviction Settlement",
+      "brief": "The city of New Haven has agreed to a $30 million settlement resolving the wrongful murder convictions of two men who spent decades behind bars before being exonerated.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/new-haven-agrees-to-pay-30-million-to-george-gould-who-spent-nearly-27-years-in-prison-and-the-estate-of-ronald-taylor-who-died-in-2011-after-their-convictions-in-a-1993-murder-were-thrown-out/articleshow/136100368.cms",
+      "dateLocation": "2026-11-24 | Times of India"
+    },
+    {
+      "headline": "Euler Motors in Talks to Raise $150 Million",
+      "brief": "Commercial electric vehicle manufacturer Euler Motors is currently in advanced discussions to raise between $100 million and $150 million at a valuation approaching $500 million.",
+      "category": "business",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/funding/euler-motors-in-talks-to-raise-100-150-million-at-up-to-500-million-valuation/articleshow/136110396.cms",
+      "dateLocation": "2026-11-24 | Economic Times"
     }
   ]
 }
