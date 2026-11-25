@@ -1,110 +1,68 @@
 {
-  "lastUpdated": "2026-11-24T03:46:41.630Z",
+  "lastUpdated": "2026-11-25T01:53:06.075Z",
   "ticker": [
-    "Jensen Huang returns to Nvidia as AI stocks rally",
-    "5.3 magnitude earthquake strikes Nepal, tremors hit India",
-    "India announces $1.62B aid package for flood-hit Nepal",
-    "NATO deploys early-warning aircraft to Poland",
-    "Tajikistan exits ICC amid growing diplomatic pressures"
+    "US administration unveils new tariffs after excess capacity probe",
+    "US spy agencies hit by significant unclassified cybersecurity breach",
+    "China and India set for record Russian oil imports in 2026",
+    "CrowdStrike buys Jay Chaudhry's Zscaler in massive $44bn deal",
+    "Israel opposition leaders clinch crucial coalition pact to oust Netanyahu"
   ],
   "articles": [
     {
-      "headline": "Asian Stocks Rally as Jensen Huang Returns to Nvidia",
-      "brief": "Asian markets experienced a significant boost as Jensen Huang returned to helm Nvidia, reviving the broader artificial intelligence trade and inspiring strong investor confidence across regional stock exchanges.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
-      "dateLocation": "2026-11-24 | Reuters"
-    },
-    {
-      "headline": "India Announces $1.62 Billion Package for Nepal",
-      "brief": "India has committed a major $1.62 billion financial and infrastructural package to bolster ties with flood-hit Nepal, targeting trade, rail links, hydropower projects, and comprehensive regional development.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWpDakZzTzdkdDFwdmNHcHlTc0Q0SDBxWEN3Uk5ZcmZaZXJzdzV3RXNtZkUzZzk1RlJKVFdkNkp5aVI2cVNaeVBBMFRBcXZ5S00xVVRvN3JuNXJUcXpvaVdrTnZPRmVhTUhuNHNEdDZtQmF4bFEyRVB4NG93c19Ub3hsQnJZNUJURGZjcndld1ZTVGViQnFDaGFzeExYaGVxZkE0SXdR?oc=5",
-      "dateLocation": "2026-11-24 | Reuters"
-    },
-    {
-      "headline": "NATO Deploys Early-Warning Aircraft to Poland",
-      "brief": "Following a serious missile incident near the border, NATO announced the deployment of specialized early-warning system aircraft to Poland to enhance airspace surveillance and regional defense readiness.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEhFQnBrZnZEa0dZclBpTkZMV3BBNS1tN3NjeGhINDZKcllFTERwWnR6NlpzM0Q0WTZkbGM3SXpVWGZ2bGFFaW4xV2M4T3BIUE1VUkxMX19wa0RwM0JaTDBEM3l4R1ROZlVwSjE1LWVUYnp6SU40WjMyeFlFZjlJYjV0ZE9LVTZkR0pIblp0cXdzeE5fLTNhbkR3QVFfa3pDU2M4blFEMlI4dm5XUTRDUExwTUpyLXJxU0ZiRjBZcFhQWVBFQ294SllhMld3UQ?oc=5",
-      "dateLocation": "2026-11-24 | Reuters"
-    },
-    {
-      "headline": "Tajikistan Withdraws from ICC Following US Diplomatic Push",
-      "brief": "Tajikistan has officially become the fourth nation to withdraw from the International Criminal Court, following an intensive diplomatic initiative led by the United States.",
-      "category": "world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXBGX0NyVFZrd0hBMEctVUxNOUJxTmRmaDZiRHA1c3V1VFNxTkNZdTExd080Qk1yOVEyYkpneTZIQUUzcGdsbkxpdV8zUWdYaHFaS09LaG9iaFZ4OEc0RFkyWGJvTW1LWG9OeFRCTk5YY3NvTUdYeF81SDdrbkh1NGZhM0pFazdvbDZGMG9QRnU3WmV0eDlJZ0hETFNQVm92ZHp3dEN3dWVmeF9sa1N3MExEdEpNUVhPZEEzbmJNb3h1RGJh?oc=5",
-      "dateLocation": "2026-11-24 | Reuters"
-    },
-    {
-      "headline": "Anthropic Launches Claude Ship for Developers",
-      "brief": "AI firm Anthropic has rolled out a new developer tool named Claude Ship, designed to streamline coding processes and help engineering teams ship software products faster.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5",
-      "dateLocation": "2026-11-24 | Reuters"
-    },
-    {
-      "headline": "Earthquake of Magnitude 5.3 Strikes Nepal",
-      "brief": "A 5.3 magnitude earthquake jolted Nepal's Koshi province near the Chinese border, triggering distinct tremors across parts of North Bengal, Sikkim, and neighboring regions.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/international/earthquake-strikes-nepals-koshi-province-close-to-china-border/article71737092.ece",
-      "dateLocation": "2026-11-24 | The Hindu"
-    },
-    {
-      "headline": "Man Arrested After Stabbing Nine Police in Delhi",
-      "brief": "A 30-year-old individual stabbed nine police personnel during twin knife attacks in the vicinity of Delhi's Jama Masjid before being shot and apprehended by law enforcement.",
-      "category": "general",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/man-stabs-9-delhi-policemen-in-twin-knife-attacks-at-jama-masjid-shot-eight-times/article71735372.ece",
-      "dateLocation": "2026-11-24 | The Hindu"
-    },
-    {
-      "headline": "China Mega Dam Project Near Arunachal Raises Concerns",
-      "brief": "Recent satellite data reveals significant construction progress on China's massive 60 GW Medog hydropower project near the border, sparking downstream environmental concerns in India.",
+      "headline": "US Administration Unveils New Tariffs Following Capacity Probe",
+      "brief": "The U.S. Trade Representative’s office is preparing to propose new duties stacking on top of existing tariffs following a comprehensive investigation into excess industrial manufacturing capacity across international markets.",
       "category": "business",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/chinas-mega-dam-takes-shape-near-arunachal-satellite-data/articleshow/136111992.cms",
-      "dateLocation": "2026-11-24 | Times of India"
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+      "dateLocation": "November 25, 2026 | Washington / Reuters"
     },
     {
-      "headline": "Ball-Tampering Allegations Surface From 2018 Australia Test",
-      "brief": "New historical reports indicate that Australian players discussed using mints for ball-tampering during a 2018 Test against Pakistan before team leadership intervened to stop it.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/whos-got-the-mints-fresh-allegations-of-ball-tampering-during-2018-pakistan-test-put-justin-langer-tim-paine-in-spotlight/articleshow/136117645.cms",
-      "dateLocation": "2026-11-24 | Times of India"
+      "headline": "US Intelligence Agencies Suffer Unclassified Cybersecurity Breach",
+      "brief": "The CIA and the Office of the Director of National Intelligence have detected a cybersecurity breach involving unclassified data. Initial assessments point toward potential foreign involvement utilizing advanced artificial intelligence tools.",
+      "category": "world",
+      "sourceUrl": "https://www.livemint.com/news/us-news/us-spy-agencies-hit-by-cybersecurity-breach-cia-and-dni-s-office-affected-unclassified-information-exposed-11795569734020.html",
+      "dateLocation": "November 25, 2026 | Washington / LiveMint"
     },
     {
-      "headline": "China to Launch Pakistani Astronaut on Shenzhou-24",
-      "brief": "In a milestone international space partnership, China announced plans to send a Pakistani astronaut aboard the upcoming Shenzhou-24 mission to its space station.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/china-to-launch-shenzhou-24-with-pakistani-astronaut-first-foreigner-on-space-station/articleshow/136117969.cms",
-      "dateLocation": "2026-11-24 | Economic Times"
-    },
-    {
-      "headline": "Banks Roll Out Relief Measures for Agri Loan Stress",
-      "brief": "Facing deficient monsoon conditions and agricultural stress, lenders across multiple states are rolling out relief measures and loan recasts to protect a ₹12 trillion farm book.",
+      "headline": "China and India Eye Record Russian Oil Imports",
+      "brief": "Driven by ongoing Middle East conflicts disrupting conventional supply routes, both China and India are projected to reach record Russian crude oil import volumes, though demand is expected to peak soon.",
       "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/lenders-ease-recovery-offer-loan-recasts-to-shield-rs-12-trillion-agri-book-11795424843565.html",
-      "dateLocation": "2026-11-24 | Livemint"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEl6LThLbVZLWTlSU3lNdHJLa2dnanBPQjdqRGdaeDd2bGU4VmpzVnRRZ1VETzdRelFLWnI0QVVkUE0tUUE0TDkyR2lpcEMzUGNFS09iWW1LREpvOHJkb25Fdkd2MWFSYWZQRkwwbGpQR21sYkxvRXI5ZHBJTGcxTzVDdGNWdjktUFQ2OTRsYmlUSEkyRU5qUWJKeTNkbF9FX2dYNTJsdXN1RlBsVDZVc3EzUGxOeFNZNm53?oc=5",
+      "dateLocation": "November 25, 2026 | New Delhi / Reuters"
     },
     {
-      "headline": "IMD Issues Heavy Rain Alerts for Southern India",
-      "brief": "The India Meteorological Department has issued heavy rainfall alerts for coastal areas of Tamil Nadu and Kerala through November 27, while temperatures begin dropping across North India.",
+      "headline": "CrowdStrike Acquired Zscaler in $44 Billion Cloud Security Merger",
+      "brief": "In a historic tech transaction, cybersecurity giant CrowdStrike has officially acquired Jay Chaudhry’s cloud security company Zscaler in a massive $44 billion buyout deal, reshaping the global enterprise security landscape.",
+      "category": "technology",
+      "sourceUrl": "https://economictimes.indiatimes.com/nri/latest-updates/zscaler-buyout-deal-crowdstrike-to-buy-jay-chaudhrys-cloud-security-company-a-himachal-mans-art-of-trusting-nobody-becomes-a-44-billion-success-story-merger-and-acquisition-latest-news-cyber-security-anti-virus/articleshow/136118418.cms",
+      "dateLocation": "November 25, 2026 | New Delhi / Economic Times"
+    },
+    {
+      "headline": "Israel Opposition Leaders Form Strategic Coalition Agreement",
+      "brief": "Gadi Eisenkot and Avigdor Lieberman have finalized a landmark coalition agreement, forming a unified political alliance in an intensified legislative push to challenge and unseat Prime Minister Benjamin Netanyahu.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
+      "dateLocation": "November 25, 2026 | Jerusalem / Reuters"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang Discusses Accountability and Therapy",
+      "brief": "Following his sudden reinstatement as Nvidia CEO, Jensen Huang addressed employees candidly about personal conduct violations, announcing enhanced performance frameworks and daily therapy as part of his personal accountability efforts.",
       "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-update-heavy-rain-alert-for-tamil-nadu-kerala-till-nov-27-mercury-set-to-dip-across-north-india-11795485586022.html",
-      "dateLocation": "2026-11-24 | Livemint"
+      "sourceUrl": "https://www.thehindu.com/news/international/nvidias-jensen-huang-says-he-is-in-therapy-as-comeback-rally-failures/article71740890.ece",
+      "dateLocation": "November 25, 2026 | San Francisco / The Hindu"
     },
     {
-      "headline": "New Haven Agrees to $30 Million Wrongful Conviction Settlement",
-      "brief": "The city of New Haven has agreed to a $30 million settlement resolving the wrongful murder convictions of two men who spent decades behind bars before being exonerated.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/new-haven-agrees-to-pay-30-million-to-george-gould-who-spent-nearly-27-years-in-prison-and-the-estate-of-ronald-taylor-who-died-in-2011-after-their-convictions-in-a-1993-murder-were-thrown-out/articleshow/136100368.cms",
-      "dateLocation": "2026-11-24 | Times of India"
+      "headline": "Gukesh Secures Tactical Draw against Javokhir Sindarov",
+      "brief": "Grandmaster Gukesh demonstrated exceptional defensive resilience during the opening round of the World Chess Championship, neutralising Javokhir Sindarov’s aggressive attack under severe time pressure to secure a psychologically vital draw.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-round-1-how-gukesh-won-psychologically-in-38-move-draw-over-javokhir-sindarov/articleshow/136145018.cms",
+      "dateLocation": "November 25, 2026 | Times of India"
     },
     {
-      "headline": "Euler Motors in Talks to Raise $150 Million",
-      "brief": "Commercial electric vehicle manufacturer Euler Motors is currently in advanced discussions to raise between $100 million and $150 million at a valuation approaching $500 million.",
-      "category": "business",
-      "sourceUrl": "https://economictimes.indiatimes.com/tech/funding/euler-motors-in-talks-to-raise-100-150-million-at-up-to-500-million-valuation/articleshow/136110396.cms",
-      "dateLocation": "2026-11-24 | Economic Times"
+      "headline": "Tamil Nadu State Secures Over $5.38 Billion Investment Deals",
+      "brief": "Industry sources report that India's Tamil Nadu state government is finalizing major corporate investment agreements exceeding $5.38 billion, significantly boosting regional industrial growth and manufacturing capacities.",
+      "category": "general",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjFJR043ZUh4a3c5c3BOelhJaUtweVZEeUFCc3IxSmhFU2JBS1F2UTVaQXBHTE0tZVc0a3VvTEd5NUZVckx6OXNxOFhfZkh1Q25DbzFwYldoQXVram1VTC1fVFYxSXk5WVpvZ3Q1TmtaQkJfdm84RjNyVGdFVW1sU2JnQ19LTlpzc0U4TmFZcmpNNFRVSzZDWU9jaVhTdGxqVUsxRzJNY28zQjFXb09WdTlCQk9pX0QwZXJ0aGZmUzQ4dGFTczhv?oc=5",
+      "dateLocation": "November 25, 2026 | Chennai / Reuters"
     }
   ]
 }
