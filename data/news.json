@@ -1,68 +1,68 @@
 {
-  "lastUpdated": "2026-11-25T01:53:06.075Z",
+  "lastUpdated": "2026-11-26T01:31:05.602Z",
   "ticker": [
-    "US administration unveils new tariffs after excess capacity probe",
-    "US spy agencies hit by significant unclassified cybersecurity breach",
-    "China and India set for record Russian oil imports in 2026",
-    "CrowdStrike buys Jay Chaudhry's Zscaler in massive $44bn deal",
-    "Israel opposition leaders clinch crucial coalition pact to oust Netanyahu"
+    "US Imposes Fresh Tariffs on India and 13 Nations",
+    "India and China Hold High-Level Talks in Arunachal",
+    "Rupee Hits 8-Month High Against US Dollar",
+    "Poundland Collapses Placing 11,000 UK Jobs at Risk",
+    "Cairo Highway Fuel Tanker Crash Kills 31"
   ],
   "articles": [
     {
-      "headline": "US Administration Unveils New Tariffs Following Capacity Probe",
-      "brief": "The U.S. Trade Representative’s office is preparing to propose new duties stacking on top of existing tariffs following a comprehensive investigation into excess industrial manufacturing capacity across international markets.",
-      "category": "business",
-      "sourceUrl": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
-      "dateLocation": "November 25, 2026 | Washington / Reuters"
-    },
-    {
-      "headline": "US Intelligence Agencies Suffer Unclassified Cybersecurity Breach",
-      "brief": "The CIA and the Office of the Director of National Intelligence have detected a cybersecurity breach involving unclassified data. Initial assessments point toward potential foreign involvement utilizing advanced artificial intelligence tools.",
-      "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/us-news/us-spy-agencies-hit-by-cybersecurity-breach-cia-and-dni-s-office-affected-unclassified-information-exposed-11795569734020.html",
-      "dateLocation": "November 25, 2026 | Washington / LiveMint"
-    },
-    {
-      "headline": "China and India Eye Record Russian Oil Imports",
-      "brief": "Driven by ongoing Middle East conflicts disrupting conventional supply routes, both China and India are projected to reach record Russian crude oil import volumes, though demand is expected to peak soon.",
+      "headline": "US Imposes 25% Tariffs on India and Multiple Nations",
+      "brief": "The United States has announced a fresh trade offensive targeting India and 13 other economies with proposed tariffs of up to 25%. Indian officials emphasize their continued commitment to forging a bilateral trade agreement despite the new hurdles.",
       "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEl6LThLbVZLWTlSU3lNdHJLa2dnanBPQjdqRGdaeDd2bGU4VmpzVnRRZ1VETzdRelFLWnI0QVVkUE0tUUE0TDkyR2lpcEMzUGNFS09iWW1LREpvOHJkb25Fdkd2MWFSYWZQRkwwbGpQR21sYkxvRXI5ZHBJTGcxTzVDdGNWdjktUFQ2OTRsYmlUSEkyRU5qUWJKeTNkbF9FX2dYNTJsdXN1RlBsVDZVc3EzUGxOeFNZNm53?oc=5",
-      "dateLocation": "November 25, 2026 | New Delhi / Reuters"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-targets-india-six-other-economies-with-proposed-tariffs-of-up-to-25-in-fresh-trade-offensive-report/articleshow/136163453.cms",
+      "dateLocation": "November 26, 2026 | New Delhi / Washington"
     },
     {
-      "headline": "CrowdStrike Acquired Zscaler in $44 Billion Cloud Security Merger",
-      "brief": "In a historic tech transaction, cybersecurity giant CrowdStrike has officially acquired Jay Chaudhry’s cloud security company Zscaler in a massive $44 billion buyout deal, reshaping the global enterprise security landscape.",
-      "category": "technology",
-      "sourceUrl": "https://economictimes.indiatimes.com/nri/latest-updates/zscaler-buyout-deal-crowdstrike-to-buy-jay-chaudhrys-cloud-security-company-a-himachal-mans-art-of-trusting-nobody-becomes-a-44-billion-success-story-merger-and-acquisition-latest-news-cyber-security-anti-virus/articleshow/136118418.cms",
-      "dateLocation": "November 25, 2026 | New Delhi / Economic Times"
-    },
-    {
-      "headline": "Israel Opposition Leaders Form Strategic Coalition Agreement",
-      "brief": "Gadi Eisenkot and Avigdor Lieberman have finalized a landmark coalition agreement, forming a unified political alliance in an intensified legislative push to challenge and unseat Prime Minister Benjamin Netanyahu.",
+      "headline": "India and China Hold High-Level Border Management Talks",
+      "brief": "India and China have held high-level diplomatic talks in the Arunachal sector to address critical border management and LAC issues, according to the Ministry of External Affairs.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
-      "dateLocation": "November 25, 2026 | Jerusalem / Reuters"
+      "sourceUrl": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
+      "dateLocation": "November 26, 2026 | New Delhi"
     },
     {
-      "headline": "Nvidia CEO Jensen Huang Discusses Accountability and Therapy",
-      "brief": "Following his sudden reinstatement as Nvidia CEO, Jensen Huang addressed employees candidly about personal conduct violations, announcing enhanced performance frameworks and daily therapy as part of his personal accountability efforts.",
-      "category": "health",
-      "sourceUrl": "https://www.thehindu.com/news/international/nvidias-jensen-huang-says-he-is-in-therapy-as-comeback-rally-failures/article71740890.ece",
-      "dateLocation": "November 25, 2026 | San Francisco / The Hindu"
+      "headline": "Indian Rupee Hits 8-Month High, Wiping Out Annual Losses",
+      "brief": "The Indian rupee surged 72 paise to close at 92.23 against the US dollar, driven by strong foreign portfolio inflows reaching a record $14.3 billion and lower crude oil prices.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rupee-hits-8-month-high-wipes-out-this-years-losses/articleshow/136175318.cms",
+      "dateLocation": "November 26, 2026 | Mumbai"
     },
     {
-      "headline": "Gukesh Secures Tactical Draw against Javokhir Sindarov",
-      "brief": "Grandmaster Gukesh demonstrated exceptional defensive resilience during the opening round of the World Chess Championship, neutralising Javokhir Sindarov’s aggressive attack under severe time pressure to secure a psychologically vital draw.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/world-chess-championship-round-1-how-gukesh-won-psychologically-in-38-move-draw-over-javokhir-sindarov/articleshow/136145018.cms",
-      "dateLocation": "November 25, 2026 | Times of India"
+      "headline": "Poundland Collapses Into Administration, Risking 11,000 Jobs",
+      "brief": "Major discount retail chain Poundland has fallen into administration after its corporate owners failed to secure a viable buyer, placing 11,000 jobs across the UK at immediate risk.",
+      "category": "world",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "dateLocation": "November 26, 2026 | London"
     },
     {
-      "headline": "Tamil Nadu State Secures Over $5.38 Billion Investment Deals",
-      "brief": "Industry sources report that India's Tamil Nadu state government is finalizing major corporate investment agreements exceeding $5.38 billion, significantly boosting regional industrial growth and manufacturing capacities.",
+      "headline": "Cairo Highway Tanker Crash and Massive Fire Kills 31",
+      "brief": "A tragic accident occurred on a busy ring road in Greater Cairo when a fuel tanker overturned and burst into flames, leaving 31 dead and 21 others injured.",
       "category": "general",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjFJR043ZUh4a3c5c3BOelhJaUtweVZEeUFCc3IxSmhFU2JBS1F2UTVaQXBHTE0tZVc0a3VvTEd5NUZVckx6OXNxOFhfZkh1Q25DbzFwYldoQXVram1VTC1fVFYxSXk5WVpvZ3Q1TmtaQkJfdm84RjNyVGdFVW1sU2JnQ19LTlpzc0U4TmFZcmpNNFRVSzZDWU9jaVhTdGxqVUsxRzJNY28zQjFXb09WdTlCQk9pX0QwZXJ0aGZmUzQ4dGFTczhv?oc=5",
-      "dateLocation": "November 25, 2026 | Chennai / Reuters"
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/30-killed-15-injured-in-deadly-blaze-on-cairo-ring-road-after-fuel-vehicle-overturns/articleshow/136171820.cms",
+      "dateLocation": "November 26, 2026 | Cairo"
+    },
+    {
+      "headline": "US Approves SpaceX Plan for One Million Data Satellites",
+      "brief": "US regulators have approved SpaceX's ambitious Starmind constellation plan to launch a million data satellites into space, aiming to create an energy-efficient infrastructure for AI computing power.",
+      "category": "technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "dateLocation": "November 26, 2026 | Washington"
+    },
+    {
+      "headline": "Duran Duran Guitarist Andy Taylor Passes Away at Age 65",
+      "brief": "Andy Taylor, the iconic lead guitarist of new wave band Duran Duran who helped craft their early 1980s hits, has died at the age of 65 following a battle with prostate cancer.",
+      "category": "health",
+      "sourceUrl": "https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece",
+      "dateLocation": "November 26, 2026 | London"
+    },
+    {
+      "headline": "India Overtakes Vietnam to Claim Top Emerging Market Spot",
+      "brief": "India surpassed Vietnam in October to reclaim the top ranking among emerging markets despite trailing across several high-frequency indicators tracked by analysts.",
+      "category": "sports",
+      "sourceUrl": "https://www.livemint.com/news/india-overtakes-vietnam-to-reclaim-top-spot-among-emerging-markets-in-october-11795596814818.html",
+      "dateLocation": "November 26, 2026 | New Delhi"
     }
   ]
 }
