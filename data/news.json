@@ -1,96 +1,110 @@
 {
-  "lastUpdated": "2026-11-27T01:27:56.160Z",
+  "lastUpdated": "2026-11-27T16:05:22.880Z",
   "ticker": [
-    "US East Coast faces severe Thanksgiving storm and power cuts.",
-    "SAP weighs massive 10,000 job cuts in AI shift.",
-    "Kuwait blames Iran for fatal drone strike on facility.",
-    "Former Spanish central bank head named ECB chief.",
-    "India moves toward strict packaged water surveillance."
+    "Cabinet clears landmark Lok Sabha expansion bill",
+    "Global fashion brands shift orders to India",
+    "Volkswagen drags rivals into India tax fight",
+    "US turns to India to counter China",
+    "Software giant SAP weighs major job cuts"
   ],
   "articles": [
     {
-      "headline": "SAP Weighs 10,000 Job Cuts in AI Restructuring",
-      "brief": "German software giant SAP is reportedly considering at least 10,000 job cuts as part of a broader corporate restructuring focused on artificial intelligence capabilities, according to Bloomberg reports.",
-      "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5",
-      "dateLocation": "November 27 | Reuters"
-    },
-    {
-      "headline": "IBM Ends H-1B and Green Card Sponsorship in Consulting",
-      "brief": "Technology major IBM has decided to halt work visa and green card sponsorships for most roles within its consulting division, affecting employees who must relocate or leave by the end of 2026.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-ends-h-1b-green-cards-in-consulting/articleshow/136206388.cms",
-      "dateLocation": "November 27 | Times of India"
-    },
-    {
-      "headline": "Indian Rupee Bulls Return While Rupiah Bears Strengthen",
-      "brief": "The Indian rupee has seen bulls return for the first time in 18 months, contrasting sharply with Indonesian rupiah bears who have tightened their grip amid shifting regional currency market dynamics.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjhYZFc5bURObnk0U25wd0NjOXg4bjFnZVE1Y2JOSUMwM29pMXExZzVzSDlkdDUwOXBvcmpfdnVVT0doaHdodm96c0dXUnF4Z1FiS1M1WDJkdWRXVnBUaTRsYkNRQUpyUk1uYnZpVEVabFlOeV81dm9mVkYwVFgwTVZKQWRJXzE1MTZjQkhuRnBHRzdQUVhmRF9seDM4S3VXaC13aDBmNTZvN3RVc1F3Q2JxQXF4Zw?oc=5",
-      "dateLocation": "November 27 | Reuters"
-    },
-    {
-      "headline": "Ex-Spain Central Bank Head Named Next ECB Chief",
-      "brief": "The former head of Spain's central bank has officially been nominated as the next chief of the European Central Bank, stepping into the prominent monetary policy role.",
-      "category": "finance",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/ex-spain-central-bank-head-named-next-ecb-chief/articleshow/136202163.cms",
-      "dateLocation": "November 27 | Economic Times"
-    },
-    {
-      "headline": "India Orders Tougher Surveillance on Packaged Water",
-      "brief": "Indian authorities have ordered strict surveillance measures for packaged water, with regulatory scrutiny expected to cover major multinational beverage giants including PepsiCo and Coca-Cola.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWGpnUFlKQjNQWFVLc2puYVVuczBUMGxBUzh6WGtQZzBKQjY4bkJmSnBIV2I4dEhzS1JaRjd2LUhVNVN3MFJPamRNd3NCWUJHWWIwQXIxWUN1NDZ5XzhpWUxjQk9tRTJKbWJJdnpobHFTREIzUFhJdF92bWM1LUM0ZkdLWmVHenVOVXVXRmRRZGZNcjVDdXhrZUlQQmRsNkpZdmVlQmYxSzlYVlNOR2VhRW15Q1FYcWF1UDYwaVRpYWlaZkIxZ0hkcS1laUFDUjRpOWt2TUdsWEJDVFpKZVpxa2theW00dUE?oc=5",
-      "dateLocation": "November 27 | Reuters"
-    },
-    {
-      "headline": "BP Transfers Finance Operations Staff to Wipro",
-      "brief": "Energy giant BP has transferred 3,000 finance operations staff members to Indian artificial intelligence and IT services firm Wipro as part of a significant operational outsourcing agreement.",
-      "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhCZkhObFRGSG0tX05fMnZnM3JjbXJfakdkRWtsRFI0b1huT3BuWVZySkszSEZzejNpUFJqeVNiYXlka0k1WGpvRUQ0YldCVmljX0hWWllHVGVkR0FnWGtUb0hqQklFNmVZeThoUlF3OWZoSnZCTVBPeURyVlB5UnVsUTVZM2piRHZfd0RQV1hvNTdkRXFmUDVLVklqaW50eUpOcUU3UlRxWGQ4dTZLZw?oc=5",
-      "dateLocation": "November 27 | Reuters"
-    },
-    {
-      "headline": "India Renews Push for Delimitation and Women's Quota",
-      "brief": "The Indian government is convening a special session of Parliament to renew its legislative push for tying delimitation bills to establishing a substantial women's quota in the Lok Sabha.",
+      "headline": "Cabinet Clears Landmark Lok Sabha Expansion Bill",
+      "brief": "The Union Cabinet has approved a major bill proposing an estimated 50 percent increase in Lok Sabha seats for all states. The legislation includes a freeze on the proportional representation ratio based on current populations until 2051, sparking intense political debate across various regional parties nationwide.",
       "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/special-parliament-session-from-november-30-womens-quota-on-agenda/articleshow/136203415.cms",
-      "dateLocation": "November 27 | Times of India"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/cabinet-approves-delimitation-bill-with-50-seat-increase-for-all-states-current-population-based-representation-ratio-to-remain-unchanged-till-2051/articleshow/136210990.cms",
+      "dateLocation": "2026-11-27 | New Delhi / Economic Times"
     },
     {
-      "headline": "Meta Battles Political Storm in India Over Legal Actions",
-      "brief": "Social media giant Meta is facing severe political turbulence in India after the country's Congress party initiated lawsuits and staged public protests against the company's platform policies.",
+      "headline": "Sharad Pawar's NCP Backs Delimitation Bill",
+      "brief": "Sharad Pawar's NCP faction has announced its support for the Centre's upcoming delimitation and women's reservation bill ahead of the special parliamentary session. This decision has drawn sharp questions and scrutiny from the Congress party regarding potential political calculations or pressures.",
       "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlREaWpNT18tWDUtQTBMQW1GZkNzNGZ6d3ZUZFdRUkJXSEpVNXV0VFdoSUtkbXVXOFNzQURjbkNla1prbms0UlJ0VUNmVXJfOUtZWThKUzVwVklycWI0b0c1OHU3NDhETW5maUdxbVBFQTNfNTlqTFRac1NCLWFVNUViNzBWaXhqekhFR2FDTmI0akhwVnpCTGdRMHR4VDZrbmdjLU9xVVdXU0hjaVJiOGJlQ2RGWElLc3htT3haTk4?oc=5",
-      "dateLocation": "November 27 | Reuters"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sharad-pawars-ncp-backs-centres-delimitation-bill-ahead-of-special-session/articleshow/136223848.cms",
+      "dateLocation": "2026-11-27 | Mumbai / Times of India"
     },
     {
-      "headline": "Kuwait Blames Iran for Drone Strike Killing Workers",
-      "brief": "A deadly drone strike on a vital facility in Kuwait has killed two Italian workers and injured two others, with the Gulf nation officially blaming Iran for the military provocation.",
+      "headline": "Global Fashion Brands Shift Orders to India",
+      "brief": "Major international fashion labels, including Zara and H&M, are shifting their apparel manufacturing orders from Bangladesh to India and other regional hubs. This strategic supply chain pivot comes in response to ongoing labor unrest and political instability affecting manufacturing output in Bangladesh.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-labour-unrest-zara-hm-among-brands-shifting-orders-to-india-other-asian-hubs/articleshow/136225135.cms",
+      "dateLocation": "2026-11-27 | New Delhi / Times of India"
+    },
+    {
+      "headline": "Volkswagen Drags Rivals Into India Tax Fight",
+      "brief": "In an aggressive escalation, Volkswagen has reportedly involved rival automakers Mercedes-Benz and BMW in a massive 1.2 billion dollar tax dispute with Indian authorities. The unfolding legal battle highlights growing friction and compliance complexities faced by multinational luxury car manufacturers operating within the domestic market.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
+      "dateLocation": "2026-11-27 | Reuters"
+    },
+    {
+      "headline": "Software Giant SAP Weighs Major Job Cuts",
+      "brief": "Enterprise software leader SAP is reportedly considering significant workforce reductions as the rapid advancement of artificial intelligence transforms the technology sector. Sources indicate the restructuring aims to realign company resources toward next-generation automated solutions and cloud infrastructure development.",
+      "category": "technology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXlTRnczX1kzVVFWNmpBWWZscmx0cGVUUGNOMFctTUV5WmJVa1NrQ3N1NmFURDhfNUVEUXJiU09lc1NPV1UyUms1ZUdpMFMwZHdnaHcxcjJHdjBuQWRpZ2dwZ3ZVUUxBTU1fMHpLYl9pSExQOTVURGpSZ3JLazhwSVpWUkdJeGVsaElsZTNPVUY3N0JoUlVfcm5qbEhoQ2JYQ3lpWXBJU2g?oc=5",
+      "dateLocation": "2026-11-27 | Reuters"
+    },
+    {
+      "headline": "Jio Partners With WhatsApp For eSIMs",
+      "brief": "Reliance Jio has joined hands with WhatsApp to allow users to conveniently purchase international travel eSIMs directly within the messaging application. The integration aims to simplify connectivity for globetrotting consumers seeking alternative roaming options against traditional carrier packages.",
+      "category": "technology",
+      "sourceUrl": "https://www.livemint.com/news/india/jio-partners-with-whatsapp-for-international-travel-esims-will-indian-travellers-benefit-what-we-know-so-far-11795786841945.html",
+      "dateLocation": "2026-11-27 | New Delhi / LiveMint"
+    },
+    {
+      "headline": "Coal India Unit Mahanadi Valued At $9.7B",
+      "brief": "Mahanadi Coalfields, a subsidiary of state-owned Coal India, achieved a market valuation of approximately 9.7 billion dollars following its initial stock market debut. Market analysts characterized the trading opening as subdued despite strong underlying asset fundamentals in the energy sector.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlFJY2VTQW9YYWN4TW9mS2VPOVNPeDN0UmdBYU1mWjFoZXJOMkxXQV9nWmFLNW5IVllOMHp3aVpycVpLTnV4MGg3VzlrX3hBcGtsRjJUNDFaa081S1NkNHdpMjFtS0JUVnhoYWtia3hVTGhmaEtxbWdBbE9GdWd0cnZlNVpPOVZ1blQydHpNNmk2MHZtUEFxYmxFQTc4a1RqRTdVVmJIeHBGZw?oc=5",
+      "dateLocation": "2026-11-27 | Reuters"
+    },
+    {
+      "headline": "US Goods Trade Deficit Widens Sharply",
+      "brief": "The United States goods trade deficit expanded significantly during the month of October, driven by rising import volumes outpacing export growth. Economists are closely monitoring these macro indicators as global supply chains continue adjusting to shifting trade dynamics and tariff policies.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/us-goods-trade-deficit-widens-sharply-in-october/articleshow/136225986.cms",
+      "dateLocation": "2026-11-27 | Washington / Economic Times"
+    },
+    {
+      "headline": "US Turns to India to Counter China",
+      "brief": "Washington is increasingly looking toward strategic partnerships with New Delhi to effectively counterbalance Beijing's growing geopolitical and economic influence across the Indo-Pacific region. Defense and trade cooperation remain central pillars of this evolving diplomatic alignment.",
       "category": "world",
-      "sourceUrl": "https://www.livemint.com/news/world/kuwait-says-iranian-drone-strike-killed-two-italian-workers-11795725187362.html",
-      "dateLocation": "November 27 | Mint"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/us-is-turning-to-india-to-thwart-chinas-next-big-geopolitical-coup/articleshow/136225560.cms",
+      "dateLocation": "2026-11-27 | Washington / Economic Times"
     },
     {
-      "headline": "Powerful Thanksgiving Storm Batters US East Coast",
-      "brief": "A severe Thanksgiving storm has swept across the US East Coast, leaving close to a million homes without power, triggering severe coastal flooding, and severely disrupting holiday travel.",
+      "headline": "India-US Trade Deal Nearing Completion",
+      "brief": "A senior Indian government minister announced that bilateral trade negotiations between New Delhi and Washington are approaching their final stages of completion. Both nations anticipate that the comprehensive pact will substantially boost economic exchange and secure supply chain resilience.",
       "category": "world",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "dateLocation": "November 27 | BBC News"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkR3N0t3ZmV1SDk5LWNGa3hCcXVleWpPVFpORzVUZnUtYUJoUXQ2eFEzN3ZrQjcxMHhCaXk0NzY4M2NkSFNic1Q2aGJYZlZoYnFlSG5iU0NQX1dUNWZzci1xTU10bm5UbGRYSWkzdno1c3dDRlpZWjVxNjRaWkF5ZzlJdGxsUlJpWUFTbDZCN0d4bFlqN3NNOG4xdy1zZy05TmxNZTlR?oc=5",
+      "dateLocation": "2026-11-27 | Reuters"
     },
     {
-      "headline": "Ben Stokes Blasts Cricket Australia Over Sandpapergate",
-      "brief": "England Test captain Ben Stokes has slammed Cricket Australia's leadership for their handling of the 2018 ball-tampering scandal, demanding closure on the long-running controversy.",
-      "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/deny-until-you-die-ben-stokes-makes-explosive-remark-on-sandpapergate-controversy/articleshow/136206103.cms",
-      "dateLocation": "November 27 | Times of India"
-    },
-    {
-      "headline": "NHS Warns of Severe Flu Surge Across UK Hospitals",
-      "brief": "UK health officials have issued urgent warnings regarding a massive spike in influenza cases, urging vulnerable populations to secure vaccinations immediately as hospital admissions surge.",
+      "headline": "Power Minister Pushes Nuclear Expansion",
+      "brief": "Union Power Minister Manohar Lal has emphasized the urgent necessity for accelerated nuclear energy expansion to meet rapidly escalating national electricity demands. The push accompanies calls for states to improve distribution company finances as total power capacity crosses 563 gigawatts.",
       "category": "health",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-      "dateLocation": "November 27 | BBC News"
+      "sourceUrl": "https://www.livemint.com/news/power-minister-manohar-lal-pushes-nuclear-expansion-to-meet-rising-demand-11795782874474.html",
+      "dateLocation": "2026-11-27 | New Delhi / LiveMint"
+    },
+    {
+      "headline": "Study Links Large Families to Anger Acceptance",
+      "brief": "A recent psychological study surveying mothers with multiple children reveals that parents of three or more offspring exhibit lower baseline acceptance toward young children's expressions of anger. Researchers suggest that chronic parenting stress within larger family dynamics significantly impacts emotional regulation responses.",
+      "category": "health",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/a-study-of-226-mothers-with-children-aged-2-to-6-found-that-mothers-of-three-or-more-children-were-less-accepting-of-their-young-childrens-anger-than-mothers-of-one-or-two-even-after-accounting-for-stress/articleshow/136181384.cms",
+      "dateLocation": "2026-11-27 | Times of India"
+    },
+    {
+      "headline": "No Interim Relief For Tata Trusts in Row",
+      "brief": "The Bombay High Court has denied interim relief to Tata Trusts regarding their petition to halt the upcoming Tata Sons board meeting. The court confirmed that the scheduled gathering will proceed as planned amidst an ongoing internal corporate governance and leadership tussle.",
+      "category": "business",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/no-interim-relief-for-tata-trusts-tata-sons-board-meeting-to-be-held-as-scheduled-says-hc/articleshow/136223470.cms",
+      "dateLocation": "2026-11-27 | Mumbai / Times of India"
+    },
+    {
+      "headline": "Rohit Sharma Returns As Mumbai Indians Captain",
+      "brief": "Following the trade of Hardik Pandya to Punjab Kings, seasoned batsman Rohit Sharma has been reinstated as the captain of the Mumbai Indians franchise. This milestone marks the team's preparations for their milestone twentieth Indian Premier League campaign under his proven leadership.",
+      "category": "sports",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/from-sachin-tendulkar-to-rohit-sharma-all-10-mumbai-indians-captains-and-their-records/articleshow/136219814.cms",
+      "dateLocation": "2026-11-27 | Mumbai / Times of India"
     }
   ]
 }
