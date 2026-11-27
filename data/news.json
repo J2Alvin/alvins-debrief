@@ -1,117 +1,96 @@
 {
-  "lastUpdated": "2026-11-26T16:20:00.260Z",
+  "lastUpdated": "2026-11-27T01:27:56.160Z",
   "ticker": [
-    "UK calls up military reservists amid Russia threat",
-    "Indian rupee bulls return after 18-month hiatus",
-    "Britain calls up military reservists for first time",
-    "Special Parliament session called amid delimitation buzz",
-    "OPEC+ likely to roll over Q1 oil targets"
+    "US East Coast faces severe Thanksgiving storm and power cuts.",
+    "SAP weighs massive 10,000 job cuts in AI shift.",
+    "Kuwait blames Iran for fatal drone strike on facility.",
+    "Former Spanish central bank head named ECB chief.",
+    "India moves toward strict packaged water surveillance."
   ],
   "articles": [
     {
-      "headline": "Indian Rupee Bulls Return After 18 Months",
-      "brief": "The Indian rupee has seen a notable resurgence with bulls returning after 18 months, while rupiah bears tighten their grip amid fluctuating regional currency dynamics and shifting foreign exchange market pressures across emerging Asian economies.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjhYZFc5bURObnk0U25wd0NjOXg4bjFnZVE1Y2JOSUMwM29pMXExZzVzSDlkdDUwOXBvcmpfdnVVT0doaHdodv96c0dXUnF4Z1FiS1M1WDJkdWRXVnBUaTRsYkNRQUpyUk1uYnZpVEVabFlOeV81dm9mVkYwVFgwTVZKQWRJXzE1MTZjQkhuRnBHRzdQUVhmRF9seDM4S3VXaC13aDBmNTZvN3RVc1F3Q2JxQXF4Zw?oc=5",
-      "dateLocation": "November 26, 2026 | Reuters"
-    },
-    {
-      "headline": "US Tariff Uncertainty Threatens India Export Edge",
-      "brief": "Trade bodies warn that proposed US reciprocal tariffs and Section 301 duties could squeeze India's export edge over regional Asian rivals, despite recent strong merchandise export growth figures reported for October.",
-      "category": "business",
-      "sourceUrl": "https://www.livemint.com/news/india/us-tariff-uncertainty-could-squeeze-indias-export-edge-say-trade-bodies-11795696496120.html",
-      "dateLocation": "November 26, 2026 | Livemint"
-    },
-    {
-      "headline": "Centre Calls Special Three-Day Parliament Session",
-      "brief": "The Indian government has requested a special three-day sitting of Parliament starting November 30 to take up essential legislative business, fueling widespread political debate surrounding women's reservation quotas and upcoming delimitation bills.",
-      "category": "politics",
-      "sourceUrl": "https://www.livemint.com/news/centre-seeks-three-day-special-sitting-of-parliament-from-30-november-11795704288485.html",
-      "dateLocation": "November 26, 2026 | Livemint"
-    },
-    {
-      "headline": "Britain Calls Up Reservists Amid Russia Threat",
-      "brief": "In a historic move responding to shifting security landscapes and rising tensions with Russia in Europe, Britain is contacting 100,000 military reservists to evaluate skills and define roles for national security.",
-      "category": "world",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/britain-calls-up-military-reservists-for-first-time-since-cold-war-amid-russia-threat/articleshow/136197090.cms",
-      "dateLocation": "November 26, 2026 | Times of India"
-    },
-    {
-      "headline": "Health Ministry Sets Strict Autism Trial Rules",
-      "brief": "India's health ministry has mandated insurance coverage, banned administrative fees, and enforced strict 90-day clearance rules for autism stem cell clinical trials to eliminate unproven procedures sold as routine medical care.",
-      "category": "health",
-      "sourceUrl": "https://www.livemint.com/news/india/health-ministry-mandates-insurance-fee-ban-and-90-day-clearance-rules-for-autism-stem-cell-trials-11795687902584.html",
-      "dateLocation": "November 26, 2026 | Livemint"
-    },
-    {
-      "headline": "Apple Pulls MiniMax AI Chatbot From Store",
-      "brief": "Apple has removed the MiniMax AI chatbot from its App Store following growing child safety concerns regarding automated content generation and platform governance frameworks.",
+      "headline": "SAP Weighs 10,000 Job Cuts in AI Restructuring",
+      "brief": "German software giant SAP is reportedly considering at least 10,000 job cuts as part of a broader corporate restructuring focused on artificial intelligence capabilities, according to Bloomberg reports.",
       "category": "technology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNU9tZmh6STA3Ui1FY1FQaE9LMDgzQjJjV2xoZ3Q1Znlvbk5wdll2OXoyOUdxUHp2WEYteFpvTFBhVDZYbFozTXp5T0RpaE4zUUhBaDhiVDAxUkY2RURGQWFFaE1BRTVmdmdXTDh3UEdReDM5N0pjSjBzUXB3UEpPa05ma2ZoWDZhTzhJbTNFeDBfQllEWS02eHhST1FPRWI0VlRMOEhHanpvUjZpWkNPWEJLS1BlSllaZ25XeTRGUXF3bUZEcE5n?oc=5",
-      "dateLocation": "November 26, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5",
+      "dateLocation": "November 27 | Reuters"
     },
     {
-      "headline": "Gukesh Ahead on Time in World Chess Match",
-      "brief": "D. Gukesh holds a time advantage over Javokhir Sindarov after 20 moves in Game 3 of the World Chess Championship match in Geneva, keeping the youngest title match in history closely contested.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/gukesh-vs-sindarov-game-3-world-chess-championship-match-in-geneva-live-updates-on-november-26-2026/article71746800.ece",
-      "dateLocation": "November 26, 2026 | The Hindu"
+      "headline": "IBM Ends H-1B and Green Card Sponsorship in Consulting",
+      "brief": "Technology major IBM has decided to halt work visa and green card sponsorships for most roles within its consulting division, affecting employees who must relocate or leave by the end of 2026.",
+      "category": "technology",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-ends-h-1b-green-cards-in-consulting/articleshow/136206388.cms",
+      "dateLocation": "November 27 | Times of India"
     },
     {
-      "headline": "OPEC+ Likely to Roll Over Q1 Oil Targets",
-      "brief": "OPEC+ sources indicate the coalition is likely to roll over existing oil output targets for the first quarter as persistent capacity disputes and market balancing efforts continue to influence global crude supplies.",
+      "headline": "Indian Rupee Bulls Return While Rupiah Bears Strengthen",
+      "brief": "The Indian rupee has seen bulls return for the first time in 18 months, contrasting sharply with Indonesian rupiah bears who have tightened their grip amid shifting regional currency market dynamics.",
+      "category": "finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNjhYZFc5bURObnk0U25wd0NjOXg4bjFnZVE1Y2JOSUMwM29pMXExZzVzSDlkdDUwOXBvcmpfdnVVT0doaHdodm96c0dXUnF4Z1FiS1M1WDJkdWRXVnBUaTRsYkNRQUpyUk1uYnZpVEVabFlOeV81dm9mVkYwVFgwTVZKQWRJXzE1MTZjQkhuRnBHRzdQUVhmRF9seDM4S3VXaC13aDBmNTZvN3RVc1F3Q2JxQXF4Zw?oc=5",
+      "dateLocation": "November 27 | Reuters"
+    },
+    {
+      "headline": "Ex-Spain Central Bank Head Named Next ECB Chief",
+      "brief": "The former head of Spain's central bank has officially been nominated as the next chief of the European Central Bank, stepping into the prominent monetary policy role.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/ex-spain-central-bank-head-named-next-ecb-chief/articleshow/136202163.cms",
+      "dateLocation": "November 27 | Economic Times"
+    },
+    {
+      "headline": "India Orders Tougher Surveillance on Packaged Water",
+      "brief": "Indian authorities have ordered strict surveillance measures for packaged water, with regulatory scrutiny expected to cover major multinational beverage giants including PepsiCo and Coca-Cola.",
       "category": "business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWNNN09tM1phcUhhRlFRRTlHaW0yYU5fQUxJUVFEZjl5cEdhaHRnOGNwRkl6QUZTWEhNeU16Vnk5bHhNQ3JSd0FXNDlHZkdDVTV4ZkVsbUpQUFV4VWdobEhfdlpHOUt4SEJadFRpNHlYZTZRZFdBaEZKYnUyTHJ0eHlyWjE1a1FjenhuYWtoZHJJSHVPYVhjSlprNF81NkNiMlpQNUpBcy1kcHd3eEFaRjZHczhHV3RIWlJRaHZOQlBXUQ?oc=5",
-      "dateLocation": "November 26, 2026 | Reuters"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWGpnUFlKQjNQWFVLc2puYVVuczBUMGxBUzh6WGtQZzBKQjY4bkJmSnBIV2I4dEhzS1JaRjd2LUhVNVN3MFJPamRNd3NCWUJHWWIwQXIxWUN1NDZ5XzhpWUxjQk9tRTJKbWJJdnpobHFTREIzUFhJdF92bWM1LUM0ZkdLWmVHenVOVXVXRmRRZGZNcjVDdXhrZUlQQmRsNkpZdmVlQmYxSzlYVlNOR2VhRW15Q1FYcWF1UDYwaVRpYWlaZkIxZ0hkcS1laUFDUjRpOWt2TUdsWEJDVFpKZVpxa2theW00dUE?oc=5",
+      "dateLocation": "November 27 | Reuters"
     },
     {
-      "headline": "Meta Battles Political Storm in India",
-      "brief": "Meta is facing intense political scrutiny and legal challenges in India as the Congress party files lawsuits and stages widespread protests regarding platform policies and electoral integrity.",
+      "headline": "BP Transfers Finance Operations Staff to Wipro",
+      "brief": "Energy giant BP has transferred 3,000 finance operations staff members to Indian artificial intelligence and IT services firm Wipro as part of a significant operational outsourcing agreement.",
+      "category": "business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhCZkhObFRGSG0tX05fMnZnM3JjbXJfakdkRWtsRFI0b1huT3BuWVZySkszSEZzejNpUFJqeVNiYXlka0k1WGpvRUQ0YldCVmljX0hWWllHVGVkR0FnWGtUb0hqQklFNmVZeThoUlF3OWZoSnZCTVBPeURyVlB5UnVsUTVZM2piRHZfd0RQV1hvNTdkRXFmUDVLVklqaW50eUpOcUU3UlRxWGQ4dTZLZw?oc=5",
+      "dateLocation": "November 27 | Reuters"
+    },
+    {
+      "headline": "India Renews Push for Delimitation and Women's Quota",
+      "brief": "The Indian government is convening a special session of Parliament to renew its legislative push for tying delimitation bills to establishing a substantial women's quota in the Lok Sabha.",
+      "category": "politics",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/special-parliament-session-from-november-30-womens-quota-on-agenda/articleshow/136203415.cms",
+      "dateLocation": "November 27 | Times of India"
+    },
+    {
+      "headline": "Meta Battles Political Storm in India Over Legal Actions",
+      "brief": "Social media giant Meta is facing severe political turbulence in India after the country's Congress party initiated lawsuits and staged public protests against the company's platform policies.",
       "category": "politics",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlREaWpNT18tWDUtQTBMQW1GZkNzNGZ6d3ZUZFdRUkJXSEpVNXV0VFdoSUtkbXVXOFNzQURjbkNla1prbms0UlJ0VUNmVXJfOUtZWThKUzVwVklycWI0b0c1OHU3NDhETW5maUdxbVBFQTNfNTlqTFRac1NCLWFVNUViNzBWaXhqekhFR2FDTmI0akhwVnpCTGdRMHR4VDZrbmdjLU9xVVdXU0hjaVJiOGJlQ2RGWElLc3htT3haTk4?oc=5",
-      "dateLocation": "November 26, 2026 | Reuters"
+      "dateLocation": "November 27 | Reuters"
     },
     {
-      "headline": "85,000 Indians Exit UK as Net Migration Falls",
-      "brief": "Recent migration statistics reveal that approximately 85,000 Indian nationals exited the United Kingdom over a 12-month period, topping all nationalities as overall net migration numbers experience a sharp decline.",
+      "headline": "Kuwait Blames Iran for Drone Strike Killing Workers",
+      "brief": "A deadly drone strike on a vital facility in Kuwait has killed two Italian workers and injured two others, with the Gulf nation officially blaming Iran for the military provocation.",
       "category": "world",
-      "sourceUrl": "https://economictimes.indiatimes.com/nri/study/85000-indians-exit-uk-in-12-months-topping-all-nationalities-as-net-migration-falls/articleshow/136195469.cms",
-      "dateLocation": "November 26, 2026 | Economic Times"
+      "sourceUrl": "https://www.livemint.com/news/world/kuwait-says-iranian-drone-strike-killed-two-italian-workers-11795725187362.html",
+      "dateLocation": "November 27 | Mint"
     },
     {
-      "headline": "Automatic GST Registration Cancellations From Dec 1",
-      "brief": "India's tax administration is rolling out automated GST registration cancellations starting December 1, designed to drastically reduce administrative bottlenecks and expedite business exits from the tax system.",
-      "category": "finance",
-      "sourceUrl": "https://www.livemint.com/news/gst-registration-cancellation-automatic-1-december-taxpayers-cag-audit-11795670869238.html",
-      "dateLocation": "November 26, 2026 | Livemint"
+      "headline": "Powerful Thanksgiving Storm Batters US East Coast",
+      "brief": "A severe Thanksgiving storm has swept across the US East Coast, leaving close to a million homes without power, triggering severe coastal flooding, and severely disrupting holiday travel.",
+      "category": "world",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "dateLocation": "November 27 | BBC News"
     },
     {
-      "headline": "Jensen Huang Foundation Gains $2.3B in a Day",
-      "brief": "A major surge in Nvidia shares has driven significant financial gains for CEO Jensen Huang's philanthropic foundation, pushing its total valuation to $9.7 billion following targeted tech and academic investments.",
-      "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-and-his-wifes-foundation-which-donated-75-million-to-vanderbilt-university-and-350-million-for-compute-rentals-gains-2-3-billion-in-a-day/articleshow/136195416.cms",
-      "dateLocation": "November 26, 2026 | Times of India"
-    },
-    {
-      "headline": "Sindhu Eyes Historic Uber Cup Triumph",
-      "brief": "Star Indian shuttler PV Sindhu has expressed strong determination to guide the national team to victory at the 2028 Uber Cup, following the announcement that India will host the premier international badminton tournament.",
+      "headline": "Ben Stokes Blasts Cricket Australia Over Sandpapergate",
+      "brief": "England Test captain Ben Stokes has slammed Cricket Australia's leadership for their handling of the 2018 ball-tampering scandal, demanding closure on the long-running controversy.",
       "category": "sports",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/i-want-us-to-go-all-the-way-pv-sindhu-eyes-historic-uber-cup-triumph-as-india-gets-2028-hosting-rights/articleshow/136193824.cms",
-      "dateLocation": "November 26, 2026 | Times of India"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/deny-until-you-die-ben-stokes-makes-explosive-remark-on-sandpapergate-controversy/articleshow/136206103.cms",
+      "dateLocation": "November 27 | Times of India"
     },
     {
-      "headline": "Indian Court Tightens Food Labelling Rules",
-      "brief": "An Indian court has issued directives tightening packaged food labelling proposals, mandating that global food conglomerates end perceived double standards regarding nutritional disclosures and safety standards.",
+      "headline": "NHS Warns of Severe Flu Surge Across UK Hospitals",
+      "brief": "UK health officials have issued urgent warnings regarding a massive spike in influenza cases, urging vulnerable populations to secure vaccinations immediately as hospital admissions surge.",
       "category": "health",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXlHUEdKdndCTE54MEMyVERBWFVsZXQ4TXZYTmN4SVB1TF80bTVUbExoMEZlMWxKdkJJZUVlVHQzczQ3MnJlZGZ1RnZWZjZJbVBiT1pyX3pyc24xY3dtSkRIUTlpUENzNkJiREJDWnBaU2RINVFkQzU1ckU2ckFEMVhfazJXaW02Ykdra2pwSnlwcWJxY0NhRHFhekhxdHFBVHJVQUJGRk1RbmxXbzl4ZWF3?oc=5",
-      "dateLocation": "November 26, 2026 | Reuters"
-    },
-    {
-      "headline": "IBM Gives H-1B Workers Three Weeks to Move",
-      "brief": "Technology giant IBM has reportedly given affected H-1B visa and green card holders a strict three-week deadline to relocate within the United States or face separation from the company by year's end.",
-      "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms",
-      "dateLocation": "November 26, 2026 | Economic Times"
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+      "dateLocation": "November 27 | BBC News"
     }
   ]
 }
