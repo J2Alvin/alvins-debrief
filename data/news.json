@@ -1,110 +1,117 @@
 {
-  "lastUpdated": "2026-11-28T01:02:56.291Z",
+  "lastUpdated": "2026-11-28T14:59:48.927Z",
   "ticker": [
-    "Cabinet clears 50% increase in Lok Sabha seats",
-    "Dell posts record third-quarter revenue on AI demand",
-    "Volkswagen joins rivals in $1.2B India tax fight",
-    "Bangladesh seeks ICJ route to bring Hasina back",
-    "US pushes Venezuela and Iraq to quit OPEC"
+    "India bottled water crackdown expands",
+    "Global fashion brands shift to India",
+    "US bank failure closes United Fidelity",
+    "Chinese military tests Taiwan tactics",
+    "Public sector bank profits soar"
   ],
   "articles": [
     {
-      "headline": "Volkswagen Pulls Rivals Into $1.2 Billion India Tax Dispute",
-      "brief": "Volkswagen has drawn competitors Mercedes and BMW into a massive $1.2 billion tax dispute in India, intensifying regulatory pressures for luxury automakers operating in the fast-growing South Asian market.",
+      "headline": "India Expands Bottled Water Crackdown Over Bacteria Found",
+      "brief": "Authorities in India have widened their bottled-water crackdown after fresh testing of Bisleri samples detected bacterial contamination, raising significant public health and regulatory concerns across the domestic beverage manufacturing sector.",
+      "category": "health",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVo0MmV3VWE5bkFxdlExTW5Qa1VRUm4tcHZnbmJKbmNwSjJiNjVuRFlwbHZqcFJYR2pHekJKdFptbDJlekZ0Z0VSRTV3bm5ydUNNNmdLMU5sZkFMLU95SVpnNW9MaXNPNllyZFJleUFWcHEteFZGczZzNHdBY1o3bERlTVp6a3lvd0E1RjFZNXNmRVFpdVVkNVR3MVpJa1dsVW0zcGVTM1I5UmRBVU5icmdB?oc=5",
+      "dateLocation": "2026-11-28 | Reuters"
+    },
+    {
+      "headline": "Volkswagen Pulls Rivals Into Massive India Tax Fight",
+      "brief": "Volkswagen has reportedly drawn rival German automakers Mercedes-Benz and BMW into an escalating 1.2 billion dollar tax dispute in India, complicating the regulatory landscape for luxury automotive giants operating within the South Asian market.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
-      "dateLocation": "November 28, 2026 | New Delhi"
+      "dateLocation": "2026-11-28 | Reuters"
     },
     {
-      "headline": "Global Fashion Brands Shift Orders From Bangladesh to India",
-      "brief": "Amid ongoing unrest in Bangladesh, major international fashion brands are redirecting their supply chain orders toward India to ensure stability and avoid severe delivery delays in the upcoming apparel seasons.",
+      "headline": "Global Fashion Brands Shift Orders to India From Bangladesh",
+      "brief": "Amid ongoing unrest in Bangladesh, international fashion and apparel brands are actively reallocating their manufacturing orders to India, seeking supply chain stability and consistent output across the subcontinent.",
       "category": "business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJhaVBEcEFiX2hwb0lHanFvdTJncnpwM3JVMEh6WTUxSmhaWjV6MHcwdGJueHd5M1pmcVB2VG9UbGxKbzlseklNR2FjNHFWMlFLbmxLQkxxeXptM1VWUVRkWngxS2dwNTVWTng2NXcyUlo4NHM5OFM3NWNsNUY2WkdJblJmcVFRaVV4X1IweXZQWUJya01ZVi1qc19IVjF1OGEtQU9aVDd0eW5xYnBkQkxhcWg0dHFUWEwyYzlPdkdqZw?oc=5",
-      "dateLocation": "November 28, 2026 | Dhaka"
-    },
-    {
-      "headline": "Verizon in Advanced Talks Over $6 Billion Fidium Deal",
-      "brief": "Telecom major Verizon is reportedly in advanced acquisition talks regarding a $6 billion deal for Fidium, according to Financial Times reports, signaling aggressive expansion within fiber and broadband services.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG12dXVFaTVOY1I4QnVlelVHenRWT3RKNDA4RWotOXZLSTF0ZThySjZUWlcycnlwNmZ4cjF3SDZIbUdydlJVOWNxNjlqcVBYb3RjcTZSbjNpRkZPZUZBUkxtSWlwVzZENnZIVkNzVFBfTndxc25wN2RobHZSajFLVTlxYVRCcXA3U2FadjlTUS1kNVlOaUVGVlVqUHktUF8yX3pWSmNLY0JKOXAzV2lz?oc=5",
-      "dateLocation": "November 28, 2026 | New York"
+      "dateLocation": "2026-11-28 | Reuters"
     },
     {
       "headline": "Software Giant SAP Weighs Major Job Cuts Amid AI Shift",
-      "brief": "Enterprise software leader SAP is reportedly considering significant workforce reductions as artificial intelligence rapidly transforms the technology sector, forcing companies to restructure operations and prioritize automation capabilities.",
+      "brief": "European software leader SAP is reportedly considering substantial workforce reductions as artificial intelligence rapidly transforms the tech sector, forcing traditional enterprise software giants to restructure their operational models.",
       "category": "technology",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXlTRnczX1kzVVFWNmpBWWZscmx0cGVUUGNOMFctTUV5WmJVa1NrQ3N1NmFURDhfNUVEUXJiU09lc1NPV1UyUms1ZUdpMFMwZHdnaHcxcjJHdjBuQWRpZ2dwZ3ZVUUxBTU1fMHpLYl9pSExQOTVURGpSZ3JLazhwSVpWUkdJeGVsaElsZTNPVUY3N0JoUlVfcm5qbEhoQ2JYQ3lpWXBJU2g?oc=5",
-      "dateLocation": "November 28, 2026 | Frankfurt"
+      "dateLocation": "2026-11-28 | Reuters"
     },
     {
-      "headline": "Indian Central Bank Allows Rupee Rise to Break Depreciation Bets",
-      "brief": "The Reserve Bank of India has permitted the local currency to appreciate slightly, a strategic move aimed at breaking persistent one-way bets on rupee depreciation in foreign exchange markets.",
-      "category": "finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaktQNmpwalZ6MUN4ZFF0OG14aGVqRVh3OWl5MHlLTHNFd3FJNi10U1I1UGI1bjJqRm15NGR3UXJtcFRKcjZtbmlZZF9tVFdub0N0Zl85RTBodGE0OHFyVWM5M1BESkE5Y1JwRV8xaWc2a1owN05TSUw5aGE2UFMta0l3dURQRllvZkM4NUZ5UGI3dWpZeDFxbDB5enJUWWpfMDJnWll6SGczVXpjanVkMFJ3NzVrdw?oc=5",
-      "dateLocation": "November 28, 2026 | Mumbai"
-    },
-    {
-      "headline": "Cabinet Approves Bill for 50% More Lok Sabha Seats",
-      "brief": "The Union Cabinet has approved a constitutional amendment bill proposing a roughly 50 percent increase in Lok Sabha seats for all states, alongside a freeze on seat proportions until 2051.",
-      "category": "politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmxHYlRsZWJBc0E5YmI5dWJMMlZueVZHY2Z2VnVvRHlFTDdZbnpTVDNHcVBPeG1sczJuMWQ4R3BHU3dBWmVqVlRKOTQ4RzRscm9JdWxkVVZlQU5KMlQ2WThVcTl3dEhGN2s1VDl6ZF9vWGpMNjY5cWUyWG8zWVYyazdXSXhaRVNQUGYzMVJxUXk1bkpfRkNCZkhWZXlkN0VvOHBCaUg5d1YyX3lsMWhveTNYYUlJQQ?oc=5",
-      "dateLocation": "November 28, 2026 | New Delhi"
-    },
-    {
-      "headline": "Makkah Alliance Countries Review Regional Security Situation",
-      "brief": "Member nations of the Makkah alliance convened to review evolving regional security dynamics, strongly condemning recent Houthi attacks against Saudi Arabia while reaffirming commitments to collective regional stability.",
+      "headline": "Armed Group Boards and Seizes Cargo Ship Off Yemen",
+      "brief": "Maritime security monitors report that an unidentified armed group has successfully boarded and taken control of a commercial cargo ship off the coast of Yemen, escalating security concerns along vital global shipping lanes.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/makkah-alliance-countries-review-regional-security-situation-condemn-houthi-attacks-on-saudi-arabia/article71752547.ece",
-      "dateLocation": "November 28, 2026 | Riyadh"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmJza0RDY1R0YmlvRDBuNkxHYkRHc012MDVlS0stTzcwTVZuNGpTZ3dHZFI4UlFXekZlek1VbE1rYTV2OXhJRUdkLWZDa0dUX0NxNWVUb3FCY3dBSlc0T1Y5d0NHdjhmeXVvSTA4Sk1EamlUaTdYMXJoMHRNWm5TQXJTcWYxRi1qTy1mNzk5NkxQNlhyTTlsYzJNVExXNHBoamlfNTVGbXlkbWwwTkZYcFVpOWVRdXJZZEE?oc=5",
+      "dateLocation": "2026-11-28 | UKMTO via Reuters"
     },
     {
-      "headline": "Hamas Says Israel Attempted to Assassinate Chief’s Son",
-      "brief": "Hamas security sources reported that an Israeli assassination attempt targeted the youngest surviving son of Hamas political bureau chief Khalil al-Hayya in Gaza, resulting in targeted structural damage and casualties.",
+      "headline": "Chinese Military Tests New Landing Tactics Near Taiwan",
+      "brief": "The Chinese military has conducted coastal drills practicing specialized amphibious landing tactics targeting Taiwan, keeping regional defense forces on high alert amid persistent geopolitical tensions in the strait.",
       "category": "world",
-      "sourceUrl": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
-      "dateLocation": "November 28, 2026 | Gaza City"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHU2ODhzTFRNUi1YM1VpRVZEZlg4MXFpaGxIZU5SZ2xxNVZFTWlFWHlITkJLNXhSendCb3RYckhpQkhqcDRVeDdRdVJWRl9WWnJWYlZvV2tMM1VaalU2SlRQQTRYNVZzc0Y2SVp0WmJKai1kN3NtSEU1MkxLSkhGN0M2TW9JOHFianYwZEtrNTE2NW81aGlLTWRpc18xd2hwUmI1XzdQVGxON0dJREhldE5R?oc=5",
+      "dateLocation": "2026-11-28 | Reuters"
     },
     {
-      "headline": "US Pushed Venezuela and Iraq to Quit OPEC to Boost Oil",
-      "brief": "A new report reveals that the United States exerted diplomatic pressure on both Venezuela and Iraq earlier this year regarding their OPEC memberships, attempting to open pathways to boost global oil production.",
-      "category": "politics",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-pushed-venezuela-iraq-to-quit-opec-to-boost-oil-output-report/articleshow/136235653.cms",
-      "dateLocation": "November 28, 2026 | Washington"
-    },
-    {
-      "headline": "Bangladesh Eyes ICJ to Secure Sheikh Hasina Extradition",
-      "brief": "The Bangladeshi government is actively considering pursuing legal avenues at the International Court of Justice to secure the extradition of former Prime Minister Sheikh Hasina from India following her flight.",
-      "category": "general",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-hints-at-icj-route-to-bring-hasina-back-as-india-examines-extradition-plea/articleshow/136235651.cms",
-      "dateLocation": "November 28, 2026 | Dhaka"
-    },
-    {
-      "headline": "Dell Reports Record Revenue Driven by Surging AI Demand",
-      "brief": "Dell Technologies announced record third-quarter financial results with revenue reaching $54.9 billion, fueled by a massive surge in AI server demand and a strong backlog valued at over $132 billion.",
+      "headline": "Nvidia Restricts Advanced Chip Shipments to Four Nations",
+      "brief": "Following updated U.S. export controls, semiconductor titan Nvidia has ordered manufacturing partners to immediately halt server chip shipments to Malaysia, Singapore, Thailand, and Indonesia to block unauthorized rerouting to China.",
       "category": "technology",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-sends-well-done-message-to-michael-del-as-he-says-42-years-after-starting-dell-in-my-dorm-room-another-/articleshow/136228056.cms",
-      "dateLocation": "November 28, 2026 | Austin"
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/less-than-a-week-after-jensen-huang-joining-back-as-ceo-nvidia-sends-message-to-manufacturing-partners-strict-instruction-says-stop-shipping-server-chips-to-four-countries/articleshow/136236984.cms",
+      "dateLocation": "2026-11-28 | Times of India"
     },
     {
-      "headline": "India Textile Exporters Rush Shipments to Beat 25% Tariff",
-      "brief": "Indian textile exporters are scrambling to accelerate cargo shipments to the United States ahead of proposed sweeping tariff changes, aiming to protect profit margins against potential trade headwinds.",
+      "headline": "India Pushes Forward With Parliament Expansion and Women Quota",
+      "brief": "The Indian government is moving to revive legislation expanding parliamentary capacity and implementing a long-awaited 33 percent reservation for women, sparking fierce political debates among national parties regarding electoral boundaries.",
+      "category": "politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGVmSDBaZjd6MF8xcFA3WEZUTEItZ2sxLXVDaDVCbS03YUtRM2NWWGJkMnlLS2dJak11aGRucTJZREc2dE9heUt2bnV5NENmeS11SWRRbUtQaWdUeUpKV2V5VXZRdFRaUlJNUU9VZXpORmZVbGZjeWVKZXlEa3gzOU5Ha09lTERuMU5OSG56c1ljNXpPb0NkeG1Rbnd5aVR2eHFWZUxQU3l5N0lkdGFmb2o4aVlSRXB1dDlGdS1SRQ?oc=5",
+      "dateLocation": "2026-11-28 | Reuters"
+    },
+    {
+      "headline": "United Fidelity Shuts Down in Largest US Bank Failure",
+      "brief": "U.S. federal regulators have closed Indiana-based United Fidelity Bank after determining the lender could no longer meet its obligations, marking the country's largest commercial bank failure in two years.",
+      "category": "finance",
+      "sourceUrl": "https://www.livemint.com/news/us-news/united-fidelity-shut-in-biggest-us-bank-failure-in-two-years-11795867548511.html",
+      "dateLocation": "2026-11-28 | Livemint"
+    },
+    {
+      "headline": "Indian Public Sector Banks Post Record Aggregate Net Profit",
+      "brief": "India's public sector banks have announced a historic milestone, with their combined aggregate net profit surging to an unprecedented 1.09 lakh crore rupees, reflecting strong credit growth and improved asset quality.",
+      "category": "finance",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/public-sector-banks-aggregate-net-profit-soars-to-record-rs-1-09-lakh-cr/articleshow/136245915.cms",
+      "dateLocation": "2026-11-28 | Economic Times"
+    },
+    {
+      "headline": "Gukesh and Sindarov Battle to Deadlock in Chess Championship",
+      "brief": "Grandmasters Gukesh and Sindarov remain deadlocked at 1.5-1.5 after three consecutive high-intensity draws in the World Chess Championship matches hosted in Geneva, setting the stage for a tight tactical showdown.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/gukesh-sindarov-live-world-chess-championship-2026-geneva-game-4-live-score-latest-updates/article71754751.ece",
+      "dateLocation": "2026-11-28 | The Hindu"
+    },
+    {
+      "headline": "Mohun Bagan and East Bengal Renew Fierce ISL Rivalry",
+      "brief": "Indian Super League heavyweights Mohun Bagan and East Bengal are set to clash once again in a historic fixture, with East Bengal hunting for its maiden league victory over its crosstown adversaries.",
+      "category": "sports",
+      "sourceUrl": "https://www.thehindu.com/sport/football/isl-bagan-east-bengal-set-to-renew-rivalry/article71755090.ece",
+      "dateLocation": "2026-11-28 | The Hindu"
+    },
+    {
+      "headline": "Political Showdown Escalates Over Proposed Delimitation Bill",
+      "brief": "Indian opposition leaders have criticized upcoming electoral delimitation proposals, accusing the ruling coalition of reshaping the political map for partisan advantage, while allied regional factions navigate shifting stances.",
+      "category": "politics",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/how-dmk-changed-its-stand-on-delimitation/articleshow/136246565.cms",
+      "dateLocation": "2026-11-28 | Economic Times"
+    },
+    {
+      "headline": "Mumbai Airport Shifts App-Based Cab Pickups to Ease Chaos",
+      "brief": "Mumbai International Airport has officially relocated Uber and Ola pickup zones to parking reorganisation areas, triggering mixed reactions from travelers grappling with initial confusion, long wait times, and cancellations.",
       "category": "general",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms",
-      "dateLocation": "November 28, 2026 | New Delhi"
+      "sourceUrl": "https://www.livemint.com/news/india/mumbai-airport-shifts-uber-ola-pickup-points-to-ease-congestion-passengers-report-hour-long-waits-and-cancellations-11795870634438.html",
+      "dateLocation": "2026-11-28 | Livemint"
     },
     {
-      "headline": "New Zealand Lower Order Rallies in Second Test Against India",
-      "brief": "New Zealand's lower-order batsmen staged a resilient fightback during the second Test match, frustrating Indian bowlers despite impressive bowling spells from Akash Deep and Jasprit Bumrah on a lively pitch.",
-      "category": "sports",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-test-in-christchurch-day-2/article71753429.ece",
-      "dateLocation": "November 28, 2026 | Christchurch"
-    },
-    {
-      "headline": "Rohit Sharma Returns as Mumbai Indians Captain for IPL 2027",
-      "brief": "In a major roster shakeup, the Mumbai Indians franchise announced the return of veteran batsman Rohit Sharma as team captain for the upcoming 2027 Indian Premier League season following a three-year gap.",
-      "category": "sports",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/cricket/rohit-sharma-returns-as-mumbai-indians-captain-for-ipl-2027-after-three-year-gap/articleshow/136222616.cms",
-      "dateLocation": "November 28, 2026 | Mumbai"
+      "headline": "Bombay High Court Orders Return of Property to Senior Citizen",
+      "brief": "In a landmark ruling protecting elder rights, the Bombay High Court ordered a couple to return a gifted flat to their 88-year-old father after he was forced to live in an old-age home, citing maintenance laws.",
+      "category": "general",
+      "sourceUrl": "https://www.livemint.com/news/india/88yearold-father-sent-to-old-age-home-after-gifting-flat-to-son-bombay-hc-orders-couple-to-return-property-11795864246360.html",
+      "dateLocation": "2026-11-28 | Livemint"
     }
   ]
 }
